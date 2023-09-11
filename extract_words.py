@@ -92,7 +92,7 @@ def extract_translation(translation_entry):
 
 def get_all_words(entries):
     output = defaultdict(set)
-    for (word, _, code), _ in entries:
+    for (word, _, code), _ in tqdm(entries):
         output[code].add(word)
     for code in output:
         with open("wordlists/" + code, "w") as file:
