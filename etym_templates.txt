@@ -1,0 +1,788 @@
+Han compound
+Han etym
+Han simp
+Hira-dakuten
+Hira-handakuten
+Hira-small
+IPA
+IPA-lite
+IPAchar-lite
+IPAfont
+IPAlink
+IPAsym
+ISSN
+Kana-dakuten
+Kana-handakuten
+Kana-small
+L
+LR
+Ligurian definite articles
+OCLC
+PIE word
+PMID
+Pigafetta
+Q
+R.tr:CK:1935
+SIC
+See also
+Taglish
+U:en:imitating-challenged
+U:hu:postpositional-adjective
+U:mi:cardinal directions
+Unicode
+Wikidata entity link
+a
+ab-noun
+abbr
+abbr of
+abbrev
+abbreviation of
+abred
+acronym
+acronym of
+active participle of
+acw-rootbox
+adverbial accusative
+aeb-active participle
+af
+afb-root
+affix
+agent noun of
+aii-root
+aii-root-entry
+ajp-agent
+ajp-etym-ap
+ajp-etym-deemp
+ajp-etym-intadj
+ajp-etym-nisba
+ajp-etym-pp
+ajp-etym-vn
+ajp-merger āye
+ajp-root
+akk-participle
+akk-root
+also
+alt
+alt form
+alter
+alternative case form of
+alternative form of
+alternative spelling of
+am root
+anchor
+ante
+aphetic form
+aphetic form of
+apocopic form
+apocopic form of
+ar-IPA
+ar-active participle
+ar-characteristic adjective
+ar-color/defect adjective
+ar-diminutive
+ar-elative
+ar-etym-iyya
+ar-etym-nisba
+ar-etym-nisba-a
+ar-etym-nisba-linking
+ar-etym-noun-nisba
+ar-etym-noun-nisba-linking
+ar-form
+ar-instance noun
+ar-noun of place
+ar-occupational noun
+ar-passive participle
+ar-reduplicated
+ar-root
+ar-rootbox
+ar-singulative noun
+ar-tool noun
+ar-verb
+ar-verbal noun
+ar-verbal noun of
+arameogram
+archaic form of
+archaic spelling of
+archivedotorg
+ary-active participle
+ary-etym-nisba
+ary-etym-nisba-a
+ary-instance noun
+ary-passive participle
+ary-reduplicated
+ary-root
+ary-rootbox
+ary-verbal noun
+arz-verbal noun
+as-verb set
+as-verb-c
+as-verb-c2
+ateji
+attention
+attn
+audio
+audio-pron
+augmentative of
+az-variant
+back-form
+back-formation
+backform
+backformation
+bcl-IPA
+bf
+bg-IPA
+blend
+blend of
+blockquote
+bo-pron
+bo-ref
+book of the Bible
+bor
+bor+
+bor-lite
+borrowed
+c
+c.
+ca-IPA
+ca.
+cal
+calque
+caps
+cardinalbox
+cat
+categorize
+catlangname
+causative
+causative of
+ceb-IPA
+century
+chars
+circa
+circa2
+circumfix
+clear
+clip of
+clipping
+clipping of
+cln
+clq
+cmn-ear-l
+cog
+cog-lite
+cog/sl-tonal
+cognate
+coin
+coinage
+coined
+com
+com form
+com+
+com-ja
+combining form of
+comment-link
+commons
+commonscat
+comparative of
+compound
+con
+concomp
+confix
+contr
+contraction
+contraction of
+conversion
+cot
+datedef
+dbt
+defdate
+denominal verb
+der
+der+
+der-lite
+der-lite/lang
+der?
+dercat
+derived
+desc
+descendant
+desiderative
+deverbal
+dim of
+diminutive of
+displaced
+doublet
+dvandva
+eggcorn of
+egy-glyph
+egy-glyph-img
+egy-verb form of
+el-form-of-verb
+el-poly
+elative of
+elements
+elements/dowork
+ellipsis
+ellipsis of
+en-comparative of
+en-irregular plural of
+en-noun
+en-past of
+enPR
+enPRchar
+enum
+eo-form of
+error
+es-compound of
+es-pr
+es-unadapted
+etydate
+etydate/l2
+etydate/the
+etymid
+etystub
+euphemistic form of
+examples
+eye dialect of
+fa-regional
+fa-rtl
+fa-suffix
+false cognate
+female equivalent of
+feminine of
+feminine singular of
+fi-attest
+fi-form of
+fi-infinitive of
+fi-p
+fi-participle of
+fo-lit-FA
+fo-lit-FDO
+fo-lit-FO
+fo-lit-Sv
+form of
+fr-IPA
+frac
+furigana
+future participle of
+future passive participle of
+g
+g-lite
+g-lite/node
+g2
+ga-mut-link
+gbooks
+genericized trademark
+genitive of
+gentrade
+gerund of
+gju-verb set
+gl
+glink
+gloss
+glossary
+google
+grc-IPA
+grc-apdx
+grc-ark
+grc-att
+grc-dor
+grc-epi
+grc-hom
+grc-ion
+gu-verb set
+h-less dialect
+hanja-dongguk
+hanja-ety
+hanja-gwangju
+hanja-hunmong
+hanja-juhae
+hanja-samun
+hanja-sinjeung
+he-l
+he-m
+he-pat
+he-pattern-link
+he-root
+he-root-link
+head
+hi-causative
+hi-derform
+hi-verb set
+homophones
+htetylz
+hu-c-d
+hu-int
+hu-langref
+hu-lex
+hu-suff-pron
+hy-IPA
+hyph
+hyphenation
+i
+ic
+if both
+inc-ext
+inc-extension
+inc-ohi-verb set
+inc-opa-verb set
+ine-root
+infix
+infl of
+inflection of
+informal form of
+inh
+inh+
+inh-lite
+inherited
+init of
+initialism
+initialism of
+internationalism
+interwiktionary
+intnat
+io-bor
+is-a
+is-mms
+it-deverbal fpp
+it-pr
+iz1
+iz2
+iz3
+izh-dir-see
+ja-adj-ku
+ja-adj-shiku
+ja-ateji
+ja-blend
+ja-com
+ja-compound
+ja-daiyouji
+ja-def
+ja-etym-buddhist
+ja-etym-k2o
+ja-etym-kokuji
+ja-etym-renyokei
+ja-from-irreg-s-iru
+ja-jukujikun
+ja-kana-mannyogana-etym
+ja-kanjitab
+ja-l
+ja-l/helper
+ja-o
+ja-pron
+ja-r
+ja-rendaku
+ja-rendaku2
+ja-renjo
+ja-renjō
+ja-see
+ja-usex
+ja-vp
+ja-x
+juku
+jukujikun
+jv-variant
+ka-IPA
+ka-past participle
+ka-surname
+km-affix
+km-etym
+km-l
+km-redup
+ko-Chinese toponyms
+ko-IPA
+ko-compound-verb
+ko-etym-Sino
+ko-etym-gukja
+ko-etym-jamo
+ko-etym-native
+ko-etym-nativised
+ko-etym-sino
+ko-etym-verbal-suffix
+ko-hanjatab
+ko-inline
+ko-inline-inf
+ko-l
+ko-ref
+ko-regional
+ko-sino-reading
+ko-symbol-nav
+ko-usex
+ko-verb-set
+ko-x
+krl-regional
+l
+l-lite
+l-self
+l/ja
+l/vi/Hani
+l/vi/Latn
+la-IPA
+la-verb
+lang
+lang-lite
+langname
+langname-lite
+lb
+lbor
+learned borrowing
+lena
+letter disp2
+link
+listen
+listen/core
+lit
+liushu
+liv-compound
+lj
+ll
+ltc-l
+ltc-lat-l
+lv-IPA
+lw
+m
+m+
+m-g
+m-lite
+m-self
+m/sl-tonal
+masculine of
+mdash
+mention
+mention-gloss
+metathesis
+mfeetylz
+misconstruction of
+misspelling of
+mkh-mvi-apex
+ml-verb set
+mnc-IPA
+monospace
+mr-g
+mr-verb set
+mt-etym-past participle
+mt-occupational noun
+mt-root
+multiple images
+my-ICT of
+n-g
+n-g-lite
+name translit
+named-after
+named-after/list
+nb...
+nbsp
+nc
+ncog
+ncog-lite
+ne-l
+ng
+ngd
+nl-noun form of
+nl-verb form of
+nn-inf
+nn-inf-term
+nn-kasus
+nobr
+noitalic
+nom
+nominalization of
+non-gloss
+non-gloss definition
+non-lemma
+noncog
+noncog-lite
+noncognate
+nonlemma
+nonlemmas
+nonstandard spelling of
+noun form of
+nowrap
+number box
+nv-link-to-root
+nv-link-to-stem
+nv-prefix
+nv-prefixes
+nv-root
+nv-term
+obor
+obsolete spelling of
+och-l
+okm-inline
+okm-l
+onom
+onomatopeic
+onomatopoeia
+onomatopoeic
+or else
+ordinal
+ordinalbox
+orthographic borrowing
+orthography
+pa-verb set
+pagetype
+partial calque
+partial translation
+participle of
+passive of
+passive participle of
+past participle of
+pcal
+pclq
+pcp-cmp
+pedia
+pedialite
+pedlink
+perfective form of
+phono-semantic matching
+phrasebook
+pi-mention
+pi-ml
+pi-root
+picdic
+picdic/de/Gesicht
+picdicimg
+picdiclabel
+picdiclabel/new
+piecewise doublet
+ping
+pl
+plural of
+pmh-g
+pmh-verb set
+pre
+pre-Germanic
+prefix
+present active participle of
+present participle of
+progreso
+pronunciation spelling of
+pseudo-acronym
+pseudo-loan
+psm
+pt-IPA
+pt-etym-mente
+q
+q-lite
+qf
+qual
+qualifier
+quote
+quote-av
+quote-book
+quote-journal
+quote-meta
+quote-meta/quote
+quote-web
+r:Gravina Dict
+r:az:klas
+r:tr:Lewis:1999
+r:tr:yavuzarslan
+r:trk-oat:abdülbâkî-1934
+r:trk:Tekin 1994
+r:xqa:Borovkov
+r:xqa:DLT
+rdp
+rebracketing
+reconstructed
+reduplication
+reduplication of
+ref
+reflexive of
+refn
+rel-mid
+rel-mid4
+rel-mid5
+rel4
+rendaku
+rendaku2
+renjo
+retronym
+rf-sound example
+rfap
+rfc
+rfd
+rfdate
+rfdef
+rfe-lite
+rfe/dowork
+rfetym
+rfi
+rfm
+rfp
+rfquote
+rfref
+rfscript
+rftranslit
+rfv
+rfv-etym
+rfv-sense
+rfv-term
+rhymes
+root
+ru-IPA
+ru-cform-impfv-length
+ru-xlit
+ruby
+ryu-OG
+ryu-kanjitab
+ryu-r
+s
+sa-a
+sa-af
+sa-com
+sa-desiderative of
+sa-root
+saAbbrName2No
+section link
+see
+see desc
+seeCites
+semantic loan
+semi-calque
+semi-learned borrowing
+sense
+sense-lite
+senseid
+senseid-close
+senseno
+sequence box
+shitgibbon
+short for
+sic
+side box
+sino-vietnamese reading of
+sit-loan
+skr-verb set
+sl
+slbor
+small
+small caps
+smallcaps
+smc
+sound symbolic
+sound-symbolic
+specieslite
+spelling pronunciation
+sub
+suf
+suffix
+suffixusex
+sup
+superlative of
+surf
+surface analysis
+surface etymology
+surname
+sux-alts
+sux-registers
+sux-signs
+sv-noun-form-def
+sv-verb-form-pastpart
+sv-verb-form-prepart
+sw-derform
+syc-root
+syc-root-entry
+syn
+sync
+syncopic form
+syncopic form of
+t
+t+
+t-egy
+t-needed
+t2i-Egyd
+ta-verbal noun
+taxlink
+taxlinknew
+tea room
+th-l
+th-pron
+th-x
+thcwd
+time
+tl
+tl-IPA
+tl-irregular verb
+tl-siyokoy word
+tooltip
+topic
+topics
+tracking/defdate/hyphen
+trademark erosion
+translit
+transliteration
+transterm
+tru-root-entry
+ubor
+uder
+ug-variant
+unadapted borrowing
+univ
+univerbation
+unk
+unknown
+unsupported
+upright
+ur-derform
+ux
+uxi
+uz-variant
+var
+vchem
+verb form of
+verbal noun of
+vern
+vi-etym-hoi
+vi-etym-lredup
+vi-etym-sino
+vi-hantutab
+vi-l
+vi-link
+vi-ref
+vi-ruby
+vi-sinoe
+vrd
+vrd-ya
+vrddhi
+waei
+was fwotd
+was fwotd/link
+was wotd
+wasei eigo
+wasei kango
+webofscience
+wikidata
+wikidata lexeme
+wikiquote
+wikisource
+wikispecies
+wj
+wo-noun
+word
+wp
+wsource
+xlit
+yi-prefix
+yoji
+yoji jukugo
+yoju
+zh-AABB
+zh-alt-form
+zh-cat
+zh-etym-AABB
+zh-etym-short
+zh-forms
+zh-l
+zh-m
+zh-pron
+zh-psm
+zh-reduplicative diminutive
+zh-ref
+zh-short
+zh-short-comp
+zh-usex
+zh-wp
+zh-x
+zu-verb
+Русская грамматика
+…
