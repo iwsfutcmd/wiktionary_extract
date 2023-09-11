@@ -1,0 +1,6 @@
+hoosi
+traba
+tramo
+balo
+chopa
+bool

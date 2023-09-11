@@ -1,0 +1,4 @@
+6@Chin
+V@Chin-PalmBack
+OpenA@Neck-PalmAcross
+OpenA@Chin-PalmAcross
