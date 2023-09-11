@@ -1,5 +1,0 @@
-llama
-puma
-allco
-quiriquincho
-yacu

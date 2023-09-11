@@ -92,11 +92,11 @@ def extract_translation(translation_entry):
 
 def get_all_words(entries):
     output = defaultdict(set)
-    for word, _, code in entries:
+    for (word, _, code), _ in entries:
         output[code].add(word)
     for code in output:
-        with open("wordlists/" + code + ".txt", "w") as file:
-            for word in output[code]:
+        with open("wordlists/" + code, "w") as file:
+            for word in sorted(output[code]):
                 file.write(word + "\n")
 
 def find_entry(identifier):

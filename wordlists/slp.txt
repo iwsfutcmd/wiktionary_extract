@@ -1,4 +1,0 @@
-pat
-wai
-aho
-uran
