@@ -1,11 +1,11 @@
 (byť) v poriadku
 (hlavná) účtovná kniha
-(mať niečo) na sklade
 (súhvezdie) Baran
 (súhvezdie) Ryby
 (tromfová) farba
 (vtáčí) zob
 (znamenie) Baran
+* animate referents only
 -a
 -an
 -archia
@@ -20,7 +20,6 @@
 -grafia
 -hodinový
 -iak
--iak ()
 -ik
 -in
 -isko
@@ -45,7 +44,6 @@
 -lógia
 -natý
 -niak
--nik
 -ny
 -násť
 -ník
@@ -161,7 +159,6 @@ Alandy
 Albert
 Alberta
 Albánec
-Albánia
 Albánka
 Albánska republika
 Albánsko
@@ -197,13 +194,18 @@ Alojzík
 Alpy
 Alsasko
 Aluška
+Alvin
 Alzheimerova choroba
 Alánd
 Alžbeta
 Alžbetka
 Alžír
+Alžírec
+Alžírka
 Alžírska demokratická a ľudová republika
 Alžírsko
+Alžírčan
+Alžírčanka
 Amazonka
 Ambro
 Ambróz
@@ -224,6 +226,7 @@ Anastazius
 Anastáz
 Anastázia
 Anastázka
+Anatólia
 Anaxagoras
 Andalúzia
 Andamanské more
@@ -272,15 +275,18 @@ Anča
 Apač
 Apači
 Apačka
+Apeninský polostrov
 Apeniny
 Apúlia
 Arab
+Arabka
 Arabská jar
 Arabské more
 Arabský polostrov
 Arafurské more
 Aragónsko
 Aralské jazero
+Arbíl
 Archangeľsk
 Argentína
 Argentínec
@@ -321,6 +327,7 @@ Aténčan
 Aténčanka
 August
 Augustín
+Augustów
 Aurel
 Aurela
 Aurelka
@@ -344,11 +351,13 @@ Aškenázka
 B
 BBC
 Baba Jaga
+Babylonia
 Baffinov záliv
 Baffinovo more
 Bagdad
 Bahamy
 Bahrajn
+Bahrajnské kráľovstvo
 Bahrajňan
 Bahrajňanka
 Bajkal
@@ -368,14 +377,17 @@ Bangladéšan
 Bangladéšanka
 Bangui
 Banjul
-Banskobystrický
 Banskobystričan
 Banskobystričanka
+Banskoštiavničan
+Banskoštiavničannka
 Banská Bystrica
+Banská Štiavnica
 Banát
 Bara
 Barbados
 Barbara
+Barbie
 Barbora
 Barborka
 Barcelona
@@ -401,6 +413,8 @@ Baškir
 Baškirsko
 Bea
 Beaufortova stupnica
+Bebravskobánovčan
+Bebravskobánovčanka
 Bejrút
 Bejrútčan
 Bejrútčanka
@@ -480,7 +494,10 @@ Biskajský záliv
 Biskupice
 Bissau
 Bitka o Britániu
+Bitýnia
 Biškek
+Biš­kečan
+Biš­kečanka
 Blagoveščensk
 Blaho
 Blahoslav
@@ -492,6 +509,7 @@ Blažej
 Blažena
 Blaženka
 Blízky východ
+Bob
 Bodamské jazero
 Bogota
 Boh
@@ -546,6 +564,8 @@ Božidarka
 Božka
 Božko
 Božo
+Bradlianskobrezovčan
+Bradlianskobrezovčanka
 Branislav
 Branislava
 Branka
@@ -564,9 +584,14 @@ Brazílčan
 Brazílčanka
 Braňa
 Braňo
+Brašov
 Brest
 Bretónsko
 Brezina
+Breznianka
+Brezno
+Brezová pod Bradlom
+Brezňan
 Brigita
 Brigitka
 Brit
@@ -576,6 +601,7 @@ Britská Kolumbia
 Britské ostrovy
 Británia
 Brne
+Brno
 Bronislava
 Bronka
 Broňa
@@ -613,13 +639,16 @@ Bydgoszczan
 Bydgoszczanka
 Bydhošť
 Bystrík
+Bytča
+Bytčan
+Bytčianka
 Byzancia
 Byzantion
 Byzantsko
 Byzantská ríša
 Báb el-Mandeb
+Bánovce nad Bebravou
 Báčka
-Búr
 Býk
 Bývalá juhoslovanská republika Macedónsko
 C
@@ -761,7 +790,6 @@ Dianka
 Dido
 Dillí
 Diminutives
-Diminutives:
 Dimko
 Dimo
 Dina
@@ -840,11 +868,15 @@ Drážďanka
 Drážďany
 Dubaj
 Dublin
+Dubnica nad Váhom
 Dubrovník
 Duch Svätý
 Dulova Ves
 Dunaj
 Dunajec
+Dunajskostredčan
+Dunajskostredčanka
+Dunajská Streda
 Durínsko
 Duša
 Dušan
@@ -862,6 +894,7 @@ Dán
 Dánka
 Dánske kráľovstvo
 Dánsko
+Dánsko-Nórsko
 Dávid
 Dávidko
 Dávidova hviezda
@@ -871,6 +904,7 @@ Démétér
 Dž
 Džhárkhand
 Džibutsko
+Džidda
 Džúbá
 E
 ESP
@@ -1073,6 +1107,7 @@ Francúzsko
 Francúzsky
 Francúzsky republikánsky kalendár
 Francúzsky revolučný kalendár
+Frankfurt
 Frankfurt nad Mohanom
 Frankfurt nad Odrou
 Frano
@@ -1175,6 +1210,7 @@ Gizela
 Gizka
 Gizuľa
 Gizuľka
+Glasgow
 Glasgowčan
 Glasgowčanka
 Goa
@@ -1226,6 +1262,7 @@ HIV
 Haag
 Habakuk
 Haiti
+Hajdarábad
 Hajná Nová Ves
 Halič
 Hana
@@ -1248,6 +1285,7 @@ Havajka
 Havajčan
 Havajčanka
 Havana
+Havířov
 Hawkingovo žiarenie
 Hebrej
 Hebrejka
@@ -1314,6 +1352,7 @@ Hongkončanka
 Honiara
 Horná Lužica
 Horná Ves
+Horná Volta
 Horné Rakúsko
 Horné jazero
 Horný Egypt
@@ -1473,6 +1512,7 @@ Ižo
 J
 JIS
 JRD
+Jablonec nad Nisou
 Jablunkov
 Jadran
 Jadranské more
@@ -1595,6 +1635,9 @@ Juhoafričan
 Juhoafričanka
 Juhokórejčan
 Juhokórejčanka
+Juhoslovan
+Juhoslovanka
+Juhoslovanská Socialistická Federatívna Republika
 Juhoslávia
 Juhosudánska republika
 Juhovýchodná Ázia
@@ -1627,18 +1670,23 @@ Justínka
 Jutsko
 Južná Afrika
 Južná Amerika
+Južná Austrália
 Južná Európa
 Južná Kórea
+Južná Rodézia
 Južná Ázia
 Južné Osetsko
+Južný Bug
 Južný Sudán
 Južný oceán
+Južný ostrov
 Ján
 Ján Krstiteľ
 Jánov
 Jávske more
 Jób
 Júdov
+Júdov list
 Júlia
 Július
 Júliusov
@@ -1653,6 +1701,7 @@ Kalifornia
 Kalifornský záliv
 Kalifornčan
 Kalifornčanka
+Kaliningrad
 Kalliopa
 Kalliopé
 Kalmycko
@@ -1668,6 +1717,7 @@ Kamilka
 Kamilko
 Kamilo
 Kampala
+Kampučia
 Kamčatka
 Kanada
 Kanaán
@@ -1799,6 +1849,7 @@ Komárno
 Komárňan
 Komárňanka
 Konakry
+Kongresové Poľsko
 Konštantinopol
 Konštantín
 Konštantínko
@@ -1871,6 +1922,7 @@ Krásna Ves
 Kráľ
 Kráľ Artuš
 Kráľovci
+Kráľovec
 Kráľovstvo Veľkej Británie
 Kráľová
 Kréta
@@ -1905,6 +1957,7 @@ Kérala
 Kórea
 Kórejská republika
 Kórejská ľudovodemokratická republika
+Kórejský polostrov
 Kórejský prieliv
 Kórejčan
 Kórejčanka
@@ -2003,7 +2056,10 @@ Lipeck
 Lipka
 Lipsko
 Lipský
+Liptovskomikulášan
+Liptovskomikulášanka
 Liptovský Ján
+Liptovský Mikuláš
 Lipčan
 Lipčanka
 Lisabon
@@ -2013,6 +2069,7 @@ List Efezanom
 Litava
 Litovci
 Litovská republika
+Litovské veľkokniežatstvo
 Litovčan
 Litovčanka
 Litva
@@ -2197,7 +2254,6 @@ Maťo
 Mbabane
 Medard
 Medina
-Mednarodna telekomunikacijska zveza
 Medzinárodný súdny dvor
 Medziriečie
 Mekka
@@ -2275,6 +2331,7 @@ Mišo
 Miťko
 Miťo
 Mjanmarsko
+Mladá Boleslav
 Mladé Poľsko
 Mliečna cesta
 Mníchov
@@ -2299,6 +2356,7 @@ Mongol
 Mongolka
 Mongolsko
 Monika
+Monrovia
 Montana
 Montevideo
 Montreal
@@ -2368,7 +2426,6 @@ Nemecká demokratická republika
 Nemecká spolková republika
 Nemecké cisárstvo
 Nemka
-Nemkyňa
 Nenec
 Nepjito
 Neptún
@@ -2397,6 +2454,7 @@ Nina
 Nitra
 Nitran
 Nitranka
+Niue
 Noe
 Noemova archa
 Nora
@@ -2405,6 +2463,8 @@ Norika
 Norimberg
 Normandia
 Normanské ostrovy
+Nosáľ
+Nova Kachovka
 Novak
 Novokuzneck
 Novorossijsk
@@ -2451,9 +2511,11 @@ Nórka
 Nórske kráľovstvo
 Nórske more
 Nórsko
+Núbia
 O
 OK
 OSN
+OZKB
 Ob
 Obratník Kozorožca
 Obrátnik Raka
@@ -2486,12 +2548,13 @@ Ondrej
 Ondrejka
 Ondrejko
 Ondrus
-Ondrusek
 Ondruš
 Ondrušek
 Ondruška
 Ondruško
+Ondrúšek
 Onežské jazero
+Ontario
 Ontárijské jazero
 Ontário
 Opatovská Nová Ves
@@ -2503,8 +2566,10 @@ Orawetz
 Orawitz
 Orfeus
 Organizácia Spojených národov
+Organizácia Zmluvy o kolektívnej bezpečnosti
 Orient
 Oriol
+Osaka
 Oskár
 Oslo
 Osločan
@@ -2524,6 +2589,7 @@ Oxford
 Ozeáš
 Očenáš
 Oľga
+Oš
 P
 PF
 PSP
@@ -2542,10 +2608,12 @@ Pangea
 Pankrác
 Papua-Nová Guinea
 Paraguaj
+Paraná
 Paris
 Parkinsonova choroba
 Parom
 Partia
+Partská ríša
 Paríž
 Parížan
 Parížanka
@@ -2584,11 +2652,13 @@ Pečenga
 Pečovská Nová Ves
 Peťka
 Peťo
+Phnom Pénh
 Piemont
 Pieseň piesní
 Piešťanec
 Piešťanka
 Piešťany
+Pinocchio
 Plachty
 Planckova konštanta
 Plejády
@@ -2607,9 +2677,11 @@ Podkarpatská Rus
 Podnestersko
 Podunajské Biskupice
 Poldo
+Polesje
 Poliak
 Polka
 Polynézia
+Pontos
 Popolcová streda
 Popoluška
 Poprad
@@ -2656,6 +2728,9 @@ Prievidžan
 Prievidžanka
 Priština
 Prokop
+Prometeus
+Prometheus
+Prométheus
 Provensalsko
 Prusko
 Prímorský kraj
@@ -2681,6 +2756,7 @@ Päťkostolie
 Pĺž
 Q
 Quebec
+Quezon City
 Quintin
 Quito
 Québec
@@ -2729,18 +2805,22 @@ Rijád
 Riman
 Rimanka
 Rimanom
+Rimavskosoboťan
+Rimavskosoboťanka
+Rimavská Sobota
 Rio
+Rio de Janeiro
 Riško
 Rišo
 Rišová
 Rižský záliv
+Roblox
 Rodos
 Rojek
 Rojka
 Rojko
 Rokfort
 Roland
-Rom
 Roman
 Romana
 Romanov
@@ -2803,6 +2883,7 @@ Sabína
 Sachalin
 Sacherova torta
 Sahara
+Salvador
 Salvádor
 Samoa
 Samojský nezávislý štát
@@ -2810,6 +2891,7 @@ Samojčan
 Samojčanka
 Samuel
 San Maríno
+San Salvador
 Sandra
 Sankt Peterburg
 Santiago
@@ -2861,6 +2943,8 @@ Severné Porýnie-Vestfálsko
 Severné more
 Severné teritórium
 Severné Írsko
+Severný Cyprus
+Severný ostrov
 Severný ľadový oceán
 Severokórejčan
 Severokórejčanka
@@ -2875,6 +2959,7 @@ Sibír
 Sibíria
 Sicília
 Sidónia
+Sierra Leone
 Silvia
 Simferopoľ
 Simona
@@ -2887,6 +2972,7 @@ Sjælland
 Skalská Nová Ves
 Skopje
 Skutky apoštolov
+Skåne
 Skýt
 Slava
 Slavka
@@ -2894,10 +2980,10 @@ Slavko
 Slavo
 Slavomír
 Slavomíra
-Slavónia
 Slavónsko
 Slezan
 Slezanka
+Sliezske vojvodstvo
 Sliezsko
 Sliva
 Slivka
@@ -2942,6 +3028,8 @@ Soči
 Soňa
 Sparta
 Spartakus
+Spišskonovovešťan
+Spišskonovovešťanka
 Spišská Nová Ves
 Spojené arabské emiráty
 Spojené kráľovstvo
@@ -2973,6 +3061,7 @@ Storožynec
 Straka
 Stredná Európa
 Stredná Ázia
+Stredný Luzon
 Stredný východ
 Stredoafrická republika
 Stredozem
@@ -3009,8 +3098,10 @@ Svätý Michal
 Svätý Mikuláš
 Svätý Tomáš
 Svätý Tomáš a Princov ostrov
+Svätý Vincent a Grenadíny
 Svätý stolec
 Syrakúzy
+Székesfehérvár
 Sám
 Sára
 Sársko
@@ -3127,7 +3218,6 @@ Trebišovčanka
 Trenčín
 Trenčínčan
 Trenčínčanka
-Tretia ríša
 Tripolis
 Trnava
 Trnavčan
@@ -3155,14 +3245,15 @@ Tuvalu
 Tuvinci
 Tuvinec
 Tušická Nová Ves
-Ty
 Tyros
 Tyrrhenské more
 Tábor
 Tálibán
+Téby
 Títovi
 Tóno
 Tóra
+Třinec
 U
 UFO
 USA
@@ -3202,6 +3293,7 @@ Vaduz
 Valach
 Valaška
 Valašsko
+Valencia
 Valentín
 Valentína
 Valletta
@@ -3223,6 +3315,7 @@ Varšavčan
 Varšavčanka
 Vasil
 Vatikán
+Vatikánsky mestský štát
 Vavrincová
 Vavrinec
 Vaše Veličenstvo
@@ -3261,6 +3354,7 @@ Vietnam
 Vietnamec
 Vietnamka
 Vietnamská socialistická republika
+Vietnamská vojna
 Viking
 Viktor
 Viktória
@@ -3302,17 +3396,21 @@ Vyšehrad
 Václav
 Václavov
 Váh
+Vážskodubničan
+Vážskodubničanka
 Vänern
 Vít
 Víťazoslav
 Víťazoslava
 Východ
 Východná Európa
+Východná Ázia
 Východné Nemecko
 Východné Pomoransko
 Východný Timor
 Východosibírske more
 Východočínské more
+Všeobecné nariadenie o ochrane údajov
 W
 Wales
 Walešania
@@ -3357,6 +3455,7 @@ Zina
 Zita
 Zitu
 Zjavenie
+Zjednotená arabská republika
 Zlatica
 Zlatko
 Zlatá horda
@@ -3365,6 +3464,7 @@ Zle to robíš
 Zloch
 Zlocha
 Zlochová
+Zlín
 Zoja
 Zoltán
 Zora
@@ -3382,6 +3482,7 @@ Záhreb
 Záhrebčan
 Záhrebčanka
 Západ
+Západná Austrália
 Západná Európa
 Západná Sahara
 Západná Samoa
@@ -3394,7 +3495,6 @@ Záporožie
 Zürich
 a
 a jednako
-a pod.
 a predovšetkým
 a predsa
 a preto
@@ -3474,6 +3574,8 @@ administratívny
 administrovať
 administrácia
 administrátor
+administrátorka
+admiralita
 admirál
 adolescencia
 adoptovať
@@ -3495,6 +3597,7 @@ aerodynamika
 aerolínia
 aerolínie
 aeronautický
+aerostat
 aerosól
 afatický
 afganský
@@ -3506,6 +3609,7 @@ afrikánčina
 afta
 agenda
 agentúra
+agitátor
 aglomerácia
 agnosticizmus
 agnostický
@@ -3522,6 +3626,7 @@ agresor
 agresorka
 agresívnosť
 agresívny
+agrikultura
 agrobiológia
 agrochémia
 agronóm
@@ -3547,6 +3652,8 @@ ak nepríde hora k Mohamedovi, príde Mohamed k hore
 akademický
 akademik
 akadémia
+akafist
+akatist
 akcelerácia
 akceptovať
 akcia
@@ -3640,7 +3747,6 @@ alka
 alka bielobradá
 alka malá
 alka veľká
-alkalický
 alkalizovať
 alkalizácia
 alkazár
@@ -3661,6 +3767,7 @@ alokovať
 alokácia
 alpaka
 alpinizmus
+alternatívna medicína
 alternatívna pravica
 alternatívny
 alternatívny investičný fond
@@ -3670,7 +3777,9 @@ altruistický
 altruizmus
 alzheimer
 alúzia
+alžírsky
 amalgamácia
+amalgám
 amatér
 amatérka
 amatérsky
@@ -3679,6 +3788,7 @@ ambivalencia
 ambivalentný
 amen
 americium
+americkosť
 americký
 americký buldog
 americký futbal
@@ -3829,6 +3939,7 @@ antisemitizmus
 antisemitka
 antisemitský
 antisionizmus
+antisovietsky
 antičastica
 antológia
 antonymum
@@ -3871,6 +3982,9 @@ apnoe
 apokalypsa
 apolitický
 apologetický
+apologetika
+apologéta
+apologétka
 apoplexia
 apoptóza
 apostrof
@@ -3903,6 +4017,8 @@ archeológia
 archeológicky
 archeológický
 archeológička
+archipel
+archipelág
 architekt
 architektka
 architektský
@@ -3927,6 +4043,7 @@ aristokratická republika
 aristokratický
 aristotelizmus
 aritmeticky
+arkebúza
 arktický
 armáda
 arménsky
@@ -3989,7 +4106,7 @@ ateista
 ateistka
 ateizmus
 ateliér
-atentat
+atentát
 atentátnik
 atentátnička
 atlantický
@@ -3997,6 +4114,8 @@ atlas
 atletický
 atletika
 atmosféra
+atmosférický
+atmosférický tlak
 atol
 atomizovať
 atomizácia
@@ -4028,6 +4147,7 @@ austrálsky
 auta
 autami
 aute
+autentický
 autentifikácia
 autentizácia
 autistický
@@ -4082,6 +4202,7 @@ axióma
 axióma výberu
 aymarčina
 azbest
+azbuka
 azda
 azerbajdžanský
 azerbajdžančina
@@ -4089,6 +4210,8 @@ azimut
 azimutálny
 aztéčtina
 azyl
+azylant
+azylantka
 azúrová
 aškenázsky
 ašpirácia
@@ -4184,6 +4307,9 @@ bankrotovať
 banku
 banky
 bankár
+banskobystrický
+banskoštiavnický
+banálny
 banán
 banánik
 banánovník
@@ -4212,6 +4338,7 @@ bardejovský
 bardo
 barikáda
 barikádovať
+bariéra
 barla
 barmský
 barmčina
@@ -4221,11 +4348,13 @@ barová tanečnica
 bary
 barytón
 baránok
+baráž
 barónka
 basa
 basista
 basistka
 basketbal
+basová gitara
 bastión
 batalión
 baterka
@@ -4258,9 +4387,11 @@ bažant
 bažantica
 bažantí
 bažantík
+bažina
 bdenie
 beatifikovať
 beatifikácia
+bebravskobánovský
 bedier
 bedlivosť
 bedlička
@@ -4312,6 +4443,7 @@ benzínka
 benzínová pumpa
 benzínový
 benzínový motor
+beo posvätný
 berkelium
 berkéliový
 berkélium
@@ -4447,12 +4579,17 @@ bieluha
 biely
 biftek
 bifurkácia
+bifóbia
 bikiny
 bilbord
 biliard
 bilingvizmus
 bilingválny
 bilión
+bilión ráz
+biliónik
+biliónkrát
+biliónový
 biliónty
 biochemický
 biochémia
@@ -4504,7 +4641,7 @@ bizón
 bič
 bičovať
 bičík
-bišnupríja manipurí
+biškecký
 biť
 biť sa
 blaho
@@ -4515,6 +4652,9 @@ blahoželať
 blahoželám
 blamáž
 blana
+blane
+blanu
+blany
 blatník
 blato
 blaženosť
@@ -4538,17 +4678,22 @@ blogérka
 blok
 blokovať
 blokáda
+blud
 bludisko
+bludička
 bludný kruh
 blyskáč
 blyšťať sa
+blán
 blázinec
 blázniviť
 bláznivý
+blázniť sa
 blázon
 blízko
 blízkosť
 blízky
+blížiť sa
 blúdiť
 blšací
 blška
@@ -4592,6 +4737,7 @@ bohovia
 bohrium
 bohu
 bohužiaľ
+bohvie
 bohyňa
 boháč
 boj
@@ -4607,6 +4753,7 @@ bojovníca
 bojovník
 bojovník bahenný
 bojové umenie
+bojové vozidlo pechoty
 bokeh
 bokombrady
 bol
@@ -4689,9 +4836,11 @@ brada
 bradatý
 bradavica
 bradavka
+bradlianskobrezovský
 bradáč
 bradáň
 branec
+branie mimochodom
 brankár
 brankárka
 branná povinnosť
@@ -4730,12 +4879,13 @@ breza
 brezami
 breze
 brezivosť
+brezivý
 brezička
+brezniansky
 brezou
 brezový
 brezu
 brezy
-brečka
 brečtan
 brečtanový
 brečtreň
@@ -4772,6 +4922,7 @@ brokovnica
 brokát
 bronchiálny
 bronz
+bronzová doba
 bronzy
 broskynka
 broskyňa
@@ -4865,7 +5016,6 @@ bulharsky
 bulharský
 bulharčina
 buližník
-bulletin
 bulvár
 bulvárny
 bulímia
@@ -4910,9 +5060,10 @@ byrokraticky
 byrokratický
 byrokratizovať
 byrokratizácia
+byrokratka
 bystrica
-bystrina
 bystrom
+bystruška
 bystrý
 byt
 byte
@@ -4921,11 +5072,14 @@ bytosť
 bytovka
 bytové jadro
 bytový
+bytčiansky
 byvol
 byvol vodný
 byť
 byť hotový z niečoho
+byť na jednej lodi
 byť porovnateľný
+byť predurčený
 byť rád
 byť si vedomý
 byť sposobený
@@ -4959,6 +5113,7 @@ básnička
 básniť
 báza
 bázeň
+báť
 báť sa
 béžová
 béžový
@@ -4967,6 +5122,7 @@ bór
 bôb
 bôľ
 bôľhoj lekársky
+bôľny
 bôžik
 búda
 búdka
@@ -5099,7 +5255,6 @@ cestárstvo
 cestíčko
 cez
 cezmína
-cezo
 ch
 chalan
 chalcedón
@@ -5134,6 +5289,7 @@ charizmatický
 charta
 charter
 chasidizmus
+chasoň
 chat
 chata
 chatrč
@@ -5145,6 +5301,7 @@ chcenie
 chcený
 chcieť
 check-in
+chemická zbraň
 chemický
 chemik
 chemička
@@ -5168,7 +5325,6 @@ chladiaca veža
 chladiaci
 chladivý
 chladiť
-chladnička
 chladnokrvne
 chladnokrvný
 chladnutie
@@ -5195,6 +5351,7 @@ chlieb
 chlievik
 chlm
 chlopňa
+chlorid sodný
 chloroform
 chlorofyl
 chlp
@@ -5210,6 +5367,7 @@ chmeľ
 chmeľový
 chobot
 chobotnica
+chobotničí
 chochlačka obojková
 chochlačka vrkočatá
 chodba
@@ -5245,17 +5403,20 @@ chorvátčina
 chorá
 chorý
 chovanie
+choď do piče!
+choď do riti!
+choď sa pojebať
 chrabrosť
 chrabrý
 chrapkáč poľný
 chrasta
+chrastie
 chrbtica
 chrbticový
 chrbtový
 chrbát
 chren
 chrenový
-chriašteľ chrapkáč
 chriašteľ poľný
 christianizácia
 chrliť oheň a síru
@@ -5377,16 +5538,28 @@ cibuľa
 cibuľka
 cibuľový
 cica
+cicami
 cicavec
 cicavčí
-cicať
+cice
+cici
 cicka
+cicke
+cicky
+cicou
+cicu
+cicách
+cicám
 ciel
 cielik
 cien
 ciest
 cieva
+cievica
 cievka
+cievkový
+cievny
+cievočka
 cieľ
 cieľovo
 cieľová rovinka
@@ -5401,7 +5574,6 @@ cigaretový
 cigarový
 cigán
 cigánka
-cigáň
 cigória
 cikať
 cikáda
@@ -5421,6 +5593,7 @@ cirkusová tanečnica
 cirkvička
 cirok
 cistercián
+cisterna
 cisár
 cisárove nové šaty
 cisárovič
@@ -5446,6 +5619,7 @@ civilný
 cizelovať
 clo
 cmar
+cmarový
 cmuknúť
 cmúľať
 cnieť
@@ -5466,12 +5640,15 @@ ctí
 ctíť
 cuciak
 cudnosť
+cudzia krajina
 cudzina
 cudzinec
 cudzinecký
 cudzinka
 cudzokrajný
 cudzoložiť
+cudzoložnica
+cudzoložník
 cudzoložstvo
 cudzopasník
 cudzosť
@@ -5495,7 +5672,6 @@ cukrík
 cukríkový
 cukríček
 cumlík
-cumľať
 cunami
 cundra
 curium
@@ -5510,6 +5686,7 @@ cyanóza
 cyklickosť
 cyklický
 cyklón
+cyklóna
 cynickosť
 cynicky
 cynický
@@ -5535,7 +5712,6 @@ cársky
 cárstvo
 céder
 cér
-cérium
 cérový
 cézaropapizmus
 céziový
@@ -5543,9 +5719,11 @@ cézium
 cézny
 cíbik
 cíbik stepný
+cíc
 cícer baraní
 cín
 cínovať
+cínovec
 cínový
 cítiť
 cól
@@ -5556,7 +5734,6 @@ cžlowek
 d
 dabing
 dabingový
-dabovanie
 dabovať
 dacit
 dadaizmus
@@ -5744,6 +5921,8 @@ dekáda
 delegovaný
 delegácia
 delegát
+delegátka
+delenec
 delenie
 delenie slov
 delfinárium
@@ -5752,10 +5931,12 @@ delfínica
 delfínik
 delfínový
 delfíní
+deliteľ
 deliť
 deliť sa
 delo
 delostrelectvo
+delta
 delírium
 demarkovať
 demarkácia
@@ -5773,6 +5954,7 @@ demokrat
 demokratický
 demokratický socializmus
 demokratizovať
+demokratizácia
 demokratka
 demonštrácia
 denacifikácia
@@ -5794,6 +5976,7 @@ depozitár
 depresia
 deprimovať
 deprivácia
+deputinizácia
 deregulácia
 derivácia
 dermatologička
@@ -5805,11 +5988,13 @@ desatoro
 desať
 desať Božích prikázaní
 desaťboj
+desaťkorunáčka
 desaťročie
 desaťsten
 desaťtisíc
 desaťtisíci
 desaťtisícina
+desiatka (1,2)
 desiaty
 desivý
 deskriptivizmus
@@ -5820,6 +6005,7 @@ despotický
 despotizmus
 destabilizovať
 destabilizácia
+destalinizácia
 destilovať
 destilácia
 destilát
@@ -5835,6 +6021,8 @@ detská baculatosť
 detská mozgová obrna
 detská móda
 detská obrna
+detská práca
+detské
 detské ihrisko
 detské oblečenie
 detské odevy
@@ -5864,6 +6052,7 @@ deväťdesiatšesť
 deväťdesiatštyri
 deväťsil
 deväťsto
+deväťstý
 dezercia
 dezert
 dezertovať
@@ -5902,6 +6091,7 @@ diamant
 diamantoid
 diarchia
 diaspóra
+diaľka
 diaľkový ovládač
 diaľnica
 diaľnicový
@@ -5940,8 +6130,10 @@ digitalizácia
 digitálny
 digraf
 diktatúra
+diktatúra proletariátu
 diktát
 diktátor
+diktátorka
 diktátorský
 dilema
 diletant
@@ -5960,6 +6152,7 @@ diplégia
 direktíva
 dirigent
 dirigentka
+dirndl
 disciplína
 disident
 disidentka
@@ -5980,12 +6173,15 @@ dislokácia
 disonancia
 displej
 dissous plyn
+dityramb
 div
+divadelný
 divadlo
 divergencia
 diverzifikácia
 diviak
 diviak lesný
+dividenda
 divizionizmus
 divný
 divoch
@@ -6012,6 +6208,7 @@ dlaň
 dlaždica
 dlh
 dlho
+dlhometrážny
 dlhovať
 dlhé korenie
 dlhý
@@ -6025,7 +6222,6 @@ dne
 dnes
 dnes v noci
 dnes večer
-dneska
 dnešný
 dnešný večer
 dnešok
@@ -6057,6 +6253,7 @@ dobre myslený
 dobrej
 dobro
 dobrodinec
+dobrodruh
 dobrodružstvo
 dobrom
 dobrosrdečný
@@ -6094,7 +6291,6 @@ dodrbaný
 dodrviť
 dodávateľ
 dodávateľka
-dodávka
 dodávkový automobil
 dofrasa
 dogma
@@ -6102,7 +6298,6 @@ dogmaticky
 dogmatický
 dogmatizmus
 dohad
-dohadovať
 dohadzovač
 dohadzovačka
 dohoda
@@ -6126,6 +6321,9 @@ dojemný
 dojička
 dojiť
 dojka
+dojnica
+dojnice
+dojnička
 dojtýždenník
 dojímavý
 dojča
@@ -6191,7 +6389,6 @@ dominovať
 domisko
 domnienka
 domnievať sa
-domněnka
 domoch
 domom
 domorodec
@@ -6216,7 +6413,6 @@ domáce násilie
 domáce zviera
 domáci
 domácnosť
-domýšlať sa
 domýšľavosť
 domček
 domček na strome
@@ -6293,6 +6489,8 @@ dovolenka
 dovolená
 dovoliť
 dovoliť si
+dovoz
+dovozca
 dovoľovať si
 dowtip
 dowťip
@@ -6326,6 +6524,7 @@ dramatický
 dramatik
 dramatizovať
 dramatizácia
+dramaturgia
 draslík
 drasticky
 drastický
@@ -6365,12 +6564,17 @@ driemoty
 driev
 drieň
 drina
+drine
+drinou
+drinu
+driny
 drobné
 drobný
 drobček
 droga
 drogová závislosť
 drogéria
+drohobycký
 dromedár
 drop
 drozd
@@ -6413,6 +6617,7 @@ drzosť
 drzý
 dráha
 dráhový
+dráma
 dráp
 dráč
 dráčik
@@ -6454,12 +6659,14 @@ duchovný
 duchovný otec
 dudok
 dudy
+duel
 dukát
 dula
 dum
 duma
 dumať
 duna
+dunajskostredský
 dunajskí
 dunajský
 dunčo
@@ -6477,8 +6684,10 @@ duwtip
 duša
 duše
 duševná choroba
+duševná porucha
 duť
 dužina
+dužnina
 dva
 dva pivá, prosím
 dvadsať
@@ -6507,9 +6716,11 @@ dve bodky
 dvere
 dvesto
 dvetisíc
+dvetisíci
 dvojbodka
 dvojfarebný
 dvojhláska
+dvojhviezda
 dvojitá brada
 dvojitý
 dvojitý agent
@@ -6521,6 +6732,7 @@ dvojník
 dvojníčka
 dvojplošník
 dvojrozmerný
+dvojstý
 dvojtvar
 dvojtýždenne
 dvojtýždenný
@@ -6571,7 +6783,6 @@ dz
 dzehec
 dá sa
 dákysi
-dália
 dáma
 dámička
 dámska móda
@@ -6591,6 +6802,7 @@ dávať si pozor
 dávka
 dávkovať
 dávno
+dávny
 dáždnik
 dážď
 dážďovka
@@ -6679,7 +6891,6 @@ efektívny
 efendi
 egocentrizmus
 egoistický
-egoizmus
 egreš
 egrešový
 egyptológia
@@ -6726,6 +6937,7 @@ elektromagnetické spektrum
 elektromagnetické žiarenie
 elektromagnetický
 elektromagnetizmus
+elektromobil
 elektronegatívny
 elektronika
 elektropozitívny
@@ -6762,6 +6974,7 @@ emocionálnosť
 emocionálny
 empatia
 emócia
+en passant
 encyklopedickosť
 encyklopedicky
 encyklopedický
@@ -6771,6 +6984,7 @@ energický
 enkláva
 enológia
 enormný
+entita
 entomologický
 entomologička
 entomológ
@@ -6852,6 +7066,7 @@ etapa
 etický
 etika
 etiketa
+etnická čistka
 etnický
 etnocentrizmus
 etnológia
@@ -6901,6 +7116,7 @@ existenčný
 existovať
 existujúci
 exkavátor
+exkomunikácia
 exlibris
 exmanžel
 exodus
@@ -6916,10 +7132,13 @@ expert
 explodovať
 explozívny
 exponent
+export
 exportovať
+exportér
 expresia
 extaticky
 extatický
+externý
 extradícia
 extrakt
 extravagancia
@@ -6933,6 +7152,8 @@ ešte nie
 ešte raz
 ešte viac
 f
+fabianista
+fabianovec
 fabrika
 faerský
 faerčina
@@ -6951,6 +7172,7 @@ fakte
 faktický
 faktoch
 faktom
+faktor
 faktorizácia
 faktoriál
 faktov
@@ -7013,9 +7235,9 @@ fascinácia
 fasáda
 fatamorganický
 fatamorgána
-fatálny
 faul
 faulovať
+faustbal
 favicon
 favikon
 favikona
@@ -7051,7 +7273,6 @@ fena
 fenický
 fenikel
 feničtina
-fenka
 fenológia
 fenomenalizmus
 fenomenálny
@@ -7096,6 +7317,7 @@ filozoficky
 filozofický
 filozofka
 filter
+filtračná bublina
 filtrácia
 finalista
 finalistka
@@ -7107,11 +7329,13 @@ financovať
 finančná kríza
 finančná nezávislosť
 finančný
+finančný trh
 finišovať
 finále
 firma
 firn
 fistula
+fixka
 fjord
 flatulista
 flauta
@@ -7145,7 +7369,9 @@ fontanela
 fontána
 fonéma
 fonémový
+for inanimate ones ony is used
 fordizmus
+forma
 forma jazyka
 formaldehyd
 formalizmus
@@ -7183,7 +7409,6 @@ fotografií
 fotografka
 fotografovať
 fotokópia
-fox
 foxhound
 foxteriér
 foxtrot
@@ -7200,6 +7425,7 @@ francúzsky
 francúzsky jazyk
 francúzsky kľúč
 francúzština
+fregata
 frekvencia
 frekvenčná modulácia
 frenológia
@@ -7220,6 +7446,7 @@ fruštik
 fráza
 fréza
 frýgická čiapka
+frčka
 ftíza
 fujara
 fujarista
@@ -7237,6 +7464,8 @@ fungovať
 funkcia
 funkcionálny
 funkcionár
+funkcionárka
+funkčná skupina
 furfural
 furt
 fusilli
@@ -7252,6 +7481,7 @@ fyzický
 fyzik
 fyzika
 fyzika častíc
+fyzikálna veličina
 fyzikálne
 fyzikálni
 fyzikálny
@@ -7334,6 +7564,7 @@ garbiarstvo
 garáž
 garážový
 gaskonský
+gasoň
 gastritída
 gastroenterológia
 gastrológia
@@ -7395,13 +7626,18 @@ geomagnetizmus
 geometria
 geopolitika
 georgína
+geotermálny
 gepard
+germanizovať
+germanizácia
 germánium
 germánsky
 gerontokracia
 gerontológia
 gestikulovať
+gestikulácia
 gesto
+gestácia
 gibon
 gigabajt
 gigant
@@ -7414,6 +7650,7 @@ gitara
 gitarista
 gitaristka
 glaciológia
+glaciálny
 gladiátor
 glasgowský
 glasnosť
@@ -7426,6 +7663,8 @@ glgček
 globalizácia
 globálne otepľovanie
 globálny
+glorifikovať
+glorifikácia
 glukóza
 glukózový sirup
 glóbus
@@ -7444,12 +7683,17 @@ gombíkový
 gombíček
 gombíčkovitý
 gombíčkový
+gondola
 goniometrický
 gonorea
+gonáda
 googolplex
 googolplexplex
 gordický uzol
+gordžala
 gorila
+gorčoľa
+gradient
 gradácia
 graf
 grafit
@@ -7460,10 +7704,13 @@ gramatik
 gramatika
 grambľavý
 gramofón
+gramotnosť
+gramotný
 granit
 grant
 granula
 granát
+granátomet
 granátové jablko
 grapefruit
 gratulovať
@@ -7494,6 +7741,9 @@ gróf
 grófka
 grónsky
 grónčina
+gubernia
+gubernátor
+gudrón
 gulag
 gule
 gulečník
@@ -7534,11 +7784,14 @@ guľáš
 guľôčka
 guľôčkové pero
 guľôčkový
+gvardián
+gymnastika
 gymnaziálny
 gymnázium
 gynekológia
 gynekomastia
 gynocentrizmus
+gyroskop
 győrsky
 gáfor
 gálium
@@ -7568,6 +7821,7 @@ hadov
 hadovi
 hadrón
 hady
+hadzať flintu do žita
 hadí
 hadž
 hadždž
@@ -7575,6 +7829,7 @@ hafniový
 hafnium
 haja
 haja červená
+hajduk
 hajdúch
 hajzel
 hajzeľ
@@ -7586,6 +7841,7 @@ halierik
 halierový
 halogén
 halový
+halucinogén
 halucinogénny
 halucinácia
 haluzina
@@ -7598,7 +7854,9 @@ hanbiť sa
 handra
 handrička
 handrový
+handžár
 hangár
+hanobenie
 hanojský
 hanácky
 happyend
@@ -7612,10 +7870,12 @@ harmonogram
 harmónia
 harpúna
 haruspex
+harvan
 hashtag
 hasiaci prístroj
 hasič
 hasička
+hasičský automobil
 hassium
 hauština
 havajský
@@ -7687,6 +7947,7 @@ hermeneutika
 herný
 heroický
 heroizmus
+heroín
 herpetológ
 herpetológia
 heréza
@@ -7706,7 +7967,6 @@ hibernácia
 hier
 hierarchia
 hierofánia
-hieroglyf
 hindský
 hinduizmus
 hindčina
@@ -7719,6 +7979,7 @@ historickosť
 historicky
 historická jazykoveda
 historický
+historický materializmus
 historik
 historik umenia
 historička
@@ -7755,8 +8016,10 @@ hlasová schránka
 hlasový
 hlava
 hlava rodiny
+hlava vlády
 hlava štátu
 hlave
+hlaveň
 hlavica
 hlavička
 hlavičkovať
@@ -7766,6 +8029,7 @@ hlavné mesto
 hlavní
 hlavný
 hlavolam
+hlavonožec
 hlavový
 hlavový nerv
 hlaváčik jarný
@@ -7810,6 +8074,7 @@ hlučný
 hlásateľ
 hlásateľka
 hlásenie
+hlásiť sa
 hláska
 hlások
 hlávka
@@ -7862,6 +8127,7 @@ hnusný
 hnutie
 hnutí
 hnuťový
+hnúť
 ho
 hoacín
 hobby
@@ -7870,17 +8136,20 @@ hoboj
 hobľovať
 hoci
 hociktorý
+hocičo
 hod
 hod diskom
 hod oštepom
 hode
 hodina
 hodinky
+hodinová ručička
 hodinový impulz
 hodiny
 hodinár
 hodinárka
 hodiť
+hodlať
 hodne
 hodnosť
 hodnota
@@ -7904,7 +8173,6 @@ hojdací
 hojdačka
 hojdať
 hojdať sa
-hojenie
 hojivý
 hojiť
 hokej
@@ -7916,6 +8184,7 @@ hole
 holej
 holeň
 holi
+holiaci strojček
 holič
 holička
 holiť
@@ -7985,6 +8254,7 @@ horkosť
 horkí
 horkú
 horký
+horlivosť
 hormonálny
 hormón
 hornatý
@@ -7996,6 +8266,7 @@ horoskop
 horská dráha
 horskí
 horský
+horstvo
 horár
 horárik žltohlavý
 horúci
@@ -8047,6 +8318,7 @@ hovniak
 hovnivál
 hovno
 hovnocuc
+hovor.
 hovorca
 hovoriaca kniha
 hovoriť
@@ -8101,6 +8373,7 @@ hranica
 hranice
 hraničiar
 hraničiť
+hranol
 hranolčeky
 hranostaj
 hrant
@@ -8184,6 +8457,7 @@ hromadinka
 hromadiť
 hromadný
 hromaždilka
+hromozvod
 hromádka
 hrot
 hrový
@@ -8264,6 +8538,7 @@ hudieb
 hudobne
 hudobnina
 hudobnosť
+hudobná škola
 hudobník
 hudobníčka
 hudobný
@@ -8325,16 +8600,19 @@ hyacint
 hybký
 hybnosť
 hybný
+hybridná vojna
 hyd
 hydina
 hydinový
 hydrant
 hydrocefália
 hydrofóbia
+hydrogeografia
 hydrológia
 hyena
 hyena cibetovitá
 hygiena
+hygienická vložka
 hymen
 hymenový
 hymenálny
@@ -8342,6 +8620,7 @@ hymna
 hymnus
 hynúť
 hyperbola
+hyperinflácia
 hyperkorekcia
 hyperkorektivizmus
 hyperkorektnosť
@@ -8371,6 +8650,7 @@ hádzanárka
 hádzanársky
 háj
 hák
+hákovnica
 hárem
 háveď
 háčik
@@ -8397,6 +8677,7 @@ húštie
 húština
 húšťava
 húževnatý
+húžva
 hýbať
 hýbať sa
 hýľ
@@ -8434,12 +8715,16 @@ i … i
 iba
 ibištek
 ich
+ide
 idea
 idealista
 idealistický
 idealizmus
 idealizácia
+idem
+ideme
 identifikácia
+identifikátor
 ideografia
 ideogram
 ideologický
@@ -8449,9 +8734,11 @@ ideológicky
 ideológický
 ideológička
 ideový
+idete
 ideál
 ideálny
 ideálny plyn
+ideš
 idiomatickosť
 idiomaticky
 idiomatický
@@ -8464,6 +8751,9 @@ idiotstvo
 idióm
 idol
 idolatria
+idú
+igelitka
+igelitová taška
 ignorancia
 ignorovať
 ihelka
@@ -8510,6 +8800,8 @@ imperialistka
 imperializmus
 imperiálny
 impertinentný
+import
+importér
 impresionizmus
 impulzívny
 impérium
@@ -8551,6 +8843,7 @@ infanticída
 infantilný
 infantka
 infarkt myokardu
+infekcia
 infektológia
 infinitív
 inflácia
@@ -8560,6 +8853,7 @@ informatívnosť
 informatívny
 informačne
 informačnosť
+informačná vojna
 informačný
 informačný list predmetu
 informačný systém
@@ -8581,6 +8875,7 @@ inou
 inovovať
 inovátor
 instantná káva
+integrovaný obvod
 integrácia
 intelekt
 inteligencia
@@ -8590,6 +8885,7 @@ interagovať
 interakcia
 interaktívny
 interjekcia
+internacionalizmus
 internet
 internetista
 internetovať
@@ -8597,6 +8893,8 @@ internetovo
 internetová kaviareň
 internetový
 internát
+interpret
+interpretka
 interpretácia
 interpunkcia
 interpunkčné znamienko
@@ -8618,6 +8916,7 @@ investor
 investorka
 investícia
 invázia
+inzerát
 inzultácia
 inzulín
 iná
@@ -8629,6 +8928,7 @@ inú
 iný
 iných
 iným
+inšpektor
 inšpirácia
 inštalatér
 inštalatérka
@@ -8637,6 +8937,7 @@ inštinkt
 inštitúcia
 inštrumentál
 inžinier
+inžinierstvo
 ionosféra
 iracionalizmus
 iracký
@@ -8678,6 +8979,9 @@ itinerár
 izba
 izolácia
 izraelský
+iď
+iďme
+iďte
 j
 ja
 ja som Angličan
@@ -8702,6 +9006,7 @@ jachtový
 jadernica
 jadierko
 jadrami
+jadranský
 jadrný
 jadro
 jadro planéty
@@ -8710,7 +9015,6 @@ jadrová vojna
 jadrová zbraň
 jadrový
 jadrový reaktor
-jagať sa
 jahniatko
 jahoda
 jahodami
@@ -8763,6 +9067,7 @@ jarmok
 jarmový
 jarmu
 jarmulka
+jarní
 jarný
 jarok
 jarou
@@ -8779,6 +9084,7 @@ jaskyňový
 jasnosť
 jasnovidec
 jasný
+jasoň
 jaspis
 jaspisový
 jastrab
@@ -8876,6 +9182,7 @@ jedna
 jednako
 jednať
 jednej
+jedni
 jedno
 jednobožstvo
 jednobunkový
@@ -8931,7 +9238,6 @@ jelša
 jelšový
 jem
 jeme
-jemný
 jemu
 jen
 jeruzalemský
@@ -8965,6 +9271,7 @@ jojo
 joule
 joyceovský
 ju
+jubileum
 juchta
 judaizmus
 judáš
@@ -8973,6 +9280,7 @@ juhoafrický
 juhoamerický
 juhokórejský
 juhom
+juhoslovanský
 juhovýchod
 juhozápad
 juhu
@@ -9039,10 +9347,10 @@ kakao
 kakaovník
 kakaový bôb
 kaktus
+kalamita
 kalamár
 kalamárik
 kalamárový
-kalcium
 kalendy
 kalendár
 kaleráb
@@ -9083,12 +9391,18 @@ kambium
 kambodžský
 kambrická explózia
 kamelot
+kamene
+kameni
 kamenný
 kamera
 kameň
 kameň mudrcov
+kameňa
 kameňolom
+kameňom
+kameňov
 kameňovať
+kameňu
 kamilka
 kamión
 kampaň
@@ -9160,6 +9474,7 @@ karanténa
 karaoke
 karas striebristý
 karas zlatý
+karavanserail
 karavána
 karboxylová kyselina
 karboxylový
@@ -9167,6 +9482,7 @@ karburátor
 karcinóm pľúc
 karciogénny
 kardamóm
+kardinál
 kardinálne číslo
 kardiochirurg
 kardiológ
@@ -9205,6 +9521,7 @@ kaskadér
 kaskáda
 kasta
 kastról
+kastílčina
 kasáreň
 kasárne
 kasíno
@@ -9223,6 +9540,7 @@ katapultom
 katapultov
 katapultu
 katapulty
+katarzia
 katarínsky
 katastrofa
 katastrofálny
@@ -9288,6 +9606,7 @@ každodenný
 každoročný
 každý
 každý a jeden
+každý druhý
 každý je strojcom svojho šťastia
 kde
 kde bývate?
@@ -9305,7 +9624,9 @@ kedže
 kefa
 kefka
 kefovať
+kefový
 kefír
+kefôčka
 kel
 kelový
 keltský
@@ -9342,6 +9663,7 @@ kilový
 kilowatt
 kinematika
 kinematografia
+kinetická energia
 kino
 kinosála
 kiosk
@@ -9369,6 +9691,7 @@ klamstvo
 klamár
 klamárka
 klamársky
+klan
 klarinet
 klarinetista
 klarinetistka
@@ -9553,6 +9876,8 @@ kocôčka
 kocúr
 kocúrik
 kocúrnik obyčajný
+koexistencia
+koexistovať
 kofeín
 kogenerácia
 kognitívna psychológia
@@ -9569,7 +9894,6 @@ kokosová palma
 kokosový orech
 kokot
 kokotica
-kokotina
 kokotko little dick
 koks
 koktail
@@ -9631,7 +9955,8 @@ koláčový
 koláču
 koláž
 kolík
-kolínská voda
+kolínska
+kolínska voda
 kolíska
 kolónia
 kombajn
@@ -9647,6 +9972,7 @@ komisia
 komoda
 komondor
 komora
+komorná hudba
 komparatista
 komparatistka
 komparatív
@@ -9684,17 +10010,22 @@ kométa
 komín
 konať
 konbu
+konca
+konce
 koncentračný tábor
 koncentrák m colloquial
 konceptuálny
 koncepčný album
 koncert
 koncertina
+konci
 koncom
 koncovka
 koncový
+koncu
 kondenzované mlieko
 kondenzátor
+kondolencia
 kondóm
 konexia
 konečne
@@ -9734,13 +10065,17 @@ kontajner
 kontakt
 kontext
 kontinent
+kontinentálny
 kontinentálny šelf
 konto
 kontrakt
 kontrakultúra
+kontrarozviedka
 kontraverzný
 kontrola
 kontrolný súčet
+kontrolór
+kontrolórka
 konurbácia
 konvalinka voňavá
 konvertor
@@ -9751,7 +10086,10 @@ konvoj
 konvokácia
 konzervativizmus
 konzervatívny
+konzervatórium
+konzervačný
 konzervácia
+konzorcium
 konzul
 konzulka
 konzultant
@@ -9786,6 +10124,7 @@ kopirák
 kopiť
 kopiť sa
 kopnúť
+kopolymér
 kopulačný
 kopulácia
 kopytník
@@ -9845,7 +10184,10 @@ korzet
 korziščina
 korálka
 korčule
+korčuliar
+korčuliarka
 korčuľa
+korčuľovanie
 korčuľovať
 kosa
 kosak a kladivo
@@ -9913,10 +10255,13 @@ kováčsky
 kováčstvo
 kováčňa
 koza
+kozací
 kozel
+kozička
 kozliatko
 kozlík
 kozmická loď
+kozmická stanica
 kozmický
 kozmický let
 kozmický priestor
@@ -9928,6 +10273,7 @@ kozmológia
 kozmonaut
 kozmonautika
 kozorožec horský
+kozový
 kozub
 kozácky
 kozáctvo
@@ -9977,11 +10323,13 @@ kožený
 koži
 kožiar
 kožiarka
+kožka
 kožná lekárka
 kožné lekárstvo
 kožný
 kožný lekár
 kožou
+kožtička
 kožu
 kožuch
 kožušina
@@ -10069,6 +10417,7 @@ kresťanstvo
 kreveta
 krevetka
 krevetí
+kreácia
 krhla
 krhlička
 krhlový
@@ -10119,6 +10468,7 @@ krmivo
 krmník
 kroch
 krododília slza
+kroj
 krok
 krokodíl
 krokodília slza
@@ -10131,7 +10481,6 @@ krone
 kronika
 kropaj
 krosná
-krotiť
 krov
 krpec
 krst
@@ -10274,7 +10623,6 @@ krúpa
 krúžiť
 krúžkový
 krúžok
-krčah
 krček
 krčiť
 krčma
@@ -10299,7 +10647,7 @@ ktože
 ku
 kuba
 kubický
-kubický centimeter m centimeter kubický (symbol: cm³)
+kubický centimeter m centimeter kubický
 kubizmus
 kubánsky
 kuchynka
@@ -10368,6 +10716,7 @@ kurevník
 kuriatko
 kurie oko
 kuriér
+kurič
 kurník
 kurou
 kurt
@@ -10413,6 +10762,8 @@ kvapkový
 kvapôčka
 kvapôčkový
 kvapľový
+kvarc
+kvarcový
 kvark
 kvas
 kvase
@@ -10426,6 +10777,7 @@ kvestor
 kvet
 kvete
 kvetina
+kvetinový
 kvetináč
 kvetový
 kvetu
@@ -10443,6 +10795,7 @@ kvílenie
 kvíliť
 kvíz
 kvíčala
+kvôli
 kyanit
 kybernetika
 kyberpunk
@@ -10459,7 +10812,6 @@ kyselina soľná
 kyselina sírová
 kyselina vínna
 kyselinový
-kyselý
 kyseľ
 kyslička obyčajná
 kysličník
@@ -10481,7 +10833,6 @@ káblový
 káfir
 káhirsky
 káhirský
-kálium
 kánon
 kárová dáma
 kárové eso
@@ -10558,6 +10909,13 @@ kĺbový
 kĺzačka
 kĺzať
 kĺzať (sa)
+kľavo
+kľavosť
+kľavá
+kľavé
+kľaví
+kľavú
+kľavý
 kľačadlo
 kľudný
 kľuka
@@ -10568,6 +10926,8 @@ kľúč
 kľúčik
 kľúčny
 kľúčová dierka
+kľúčová úroková sadzba
+kľúčové slovo
 kľúčový
 kňaz
 kňazište
@@ -10576,7 +10936,6 @@ kňazstvo
 kňažka
 kňažná
 kŕdeľ
-kŕdeľ holubov alebo lastovičiek
 kŕdeľ veľrýb
 kŕdlik
 kŕkať
@@ -10605,19 +10964,21 @@ labuť malá
 labuť spevavá
 labuť veľká
 labuťka
+labyrint
 lacný
 ladiť
 ladný
 ladom
+lagúna
 lahár
 laický
 laik
 laička
 lajniak
+lajno
 lak
 lak na nechty
 lakeť
-lakomec
 lakomstvo
 lakomý
 lakovať
@@ -10652,6 +11013,7 @@ lano
 lantán
 lantánový
 lanýž
+laoština
 laparoskopia
 lapač snov
 lapať
@@ -10710,19 +11072,22 @@ legálny
 lei
 lejak
 lekcia
+lekcionár
 lekno
 lekorica
-lekvár
 lekár
 lekáreň
 lekárka
+lekárnictvo
 lekárnik
 lekársky
 lekárstvo
 lem
 lema
 len
+lengať
 leninizmus
+lenivec
 lenivosť
 lenivý
 lenže
@@ -10747,7 +11112,6 @@ lesbický
 lesbizmus
 lesbička
 lesk
-lesknúť sa
 lesný mužík
 lesík
 lesť
@@ -10772,14 +11136,15 @@ letný čas
 leto
 letom
 letopočet
+letovisko
 letu
 letuška
 letá
 letách
-letálny
 letám
 leu
 leukoplast
+leukémia
 lev
 levej
 levia
@@ -10807,9 +11172,12 @@ lexéma
 lezgičtina
 lečo
 leňoch
+leňoška
 lešenie
+leťme
 ležať
 liace
+liahnisko
 liahnuť sa
 liatina
 liať
@@ -10825,6 +11193,7 @@ lichotník
 lichtenštajnsky
 lichtenštajnský
 lichva
+liehovar
 liehovina
 liek
 liekový
@@ -10868,14 +11237,12 @@ likvidovať
 likér
 limbus
 limit
-limonáda
 limuzína
 lingvista
 lingvistický
 lingvistika
 lingvistka
 link
-lino
 linoleum
 lipa
 lipiek
@@ -10894,6 +11261,7 @@ lipký
 lipovec
 lipovina
 lipový
+liptovskomikulášsky
 lis na cesnak
 lisabonský
 list
@@ -10995,6 +11363,7 @@ loďou
 loďstvo
 lož
 ložisko
+lubrikant
 lucerna
 luhať
 luhár
@@ -11052,6 +11421,7 @@ lyskonoh ploskozobý
 lyskonoh úzkozobý
 lyža
 lyžiar
+lyžiarka
 lyžiarske stredisko
 lyžiarstvo
 lyžica
@@ -11061,7 +11431,7 @@ lyžičiar biely
 lyžička
 lyžovať
 láma
-lámať sa
+lámať
 lángoš
 láska
 láska ide cez žalúdok
@@ -11162,7 +11532,6 @@ macocha
 madrigal
 mafia
 mafián
-magazín
 magický
 magma
 magnet
@@ -11174,7 +11543,6 @@ magnetizmus
 magnetizovať
 magnetizácia
 magnetofón
-magnézium
 magor
 maieutika
 maj
@@ -11209,6 +11577,7 @@ malajský
 malajálamčina
 malajčina
 maldivčina
+malej
 mali
 maliar
 maliarka
@@ -11221,7 +11590,9 @@ malinový
 maličkosť
 maličký
 malo
+malom
 maloobchod
+malou
 maloázijský
 malta
 maltový
@@ -11229,9 +11600,14 @@ maltský
 maltézsky rád
 maltčina
 malvér
+malá
 malá mačka
+malé
 malé písmeno
+malému
+malí
 malíček
+malú
 malý
 mama
 mamina
@@ -11248,14 +11624,17 @@ mandarínkovník
 mandarínkový
 mandarínčina
 mandolína
+mandragora
 mandľa
 mandľovník
+mandžuský
 manekýn
 manekýnka
 manga
 mango
 mangán
 maniak
+manifest
 manikúra
 manipulácia
 mantinel
@@ -11266,6 +11645,7 @@ manéver
 manévre
 manévrovať
 manžel
+manželia
 manželka
 manželská nevera
 manželský
@@ -11321,6 +11701,7 @@ masový hrob
 masti
 mastiach
 mastiam
+mastivo
 mastičkár
 masturbovať
 masturbácia
@@ -11341,6 +11722,7 @@ matematička
 mater
 materializácia
 materina dúška
+materinská reč
 materinský
 materinský jazyk
 maternica
@@ -11367,6 +11749,7 @@ mauzóleum
 maximalizovať
 maximum
 maz
+mazadlo
 mazaný
 mača
 mačacie oko
@@ -11404,10 +11787,13 @@ mať odutú papuľu
 mať rada
 mať rád
 mať sa na pozore
+mať súcit s
+mať v úmysle
 mať zálusk (na niečo)
 mať úctu
 mažiar
 mdlý
+meander
 mech
 mechanická energia
 mechanický
@@ -11462,11 +11848,13 @@ medzihviezdny
 medzikontinentálný
 medzimestský
 medzinárodná fonetická abeceda
+medzinárodná organizácia
 medzinárodný
 medzinárodný pomocný jazyk
 medzipamäť
 medziplanetárny
 medzirebrový
+medziriečie
 medzislovanský
 medzislovanský jazyk
 medzislovančina
@@ -11478,6 +11866,7 @@ medík
 medúza
 mega-
 megafón
+megalit
 megasekunda
 megawatt
 meitnerium
@@ -11491,6 +11880,7 @@ melodráma
 melódia
 melón
 membrána
+memoáre
 mena
 menami
 mendelevium
@@ -11510,6 +11900,7 @@ menou
 menovaný
 menovateľ
 menovať
+menovať sa
 menovec
 menovkyňa
 menová kríza
@@ -11558,6 +11949,7 @@ metelica
 meteor
 meteorický roj
 meteorit
+meteorologická stanica
 meteorológ
 meteorológia
 meteorológicky
@@ -11592,6 +11984,7 @@ meďnatý
 meďou
 mešita
 mešitový
+meškanie
 meštiak
 mešťan
 mešťanka
@@ -11634,6 +12027,7 @@ miestom
 miestopredseda
 miestu
 miezd
+miešanie
 miešačka
 miešať
 miešok
@@ -11647,8 +12041,6 @@ mihu
 mihy
 mikro-
 mikrobus
-mikrobusový
-mikrobusík
 mikrofón
 mikrometer
 mikrosekunda
@@ -11662,16 +12054,23 @@ mikulka
 milenec
 milenka
 mili-
+miliarda
+miliardový
 miliardtina
 miliardtý
+miliardu ráz
+miliardukrát
 mililiter
 milimeter
 milionár
 milisekunda
 militarizmus
 militarizácia
-miliárd
 milión
+milión ráz
+miliónik
+miliónkrát
+miliónový
 miliónty
 milodar
 milosrdenstvo
@@ -11679,6 +12078,7 @@ milosrdnosť
 milosrdný
 milostivý
 milostný
+milostný trojuholník
 milosť
 milovanie
 milovaný
@@ -11698,6 +12098,9 @@ mimomanželský
 mimoriadnosť
 mimoriadny
 mimovládna organizácia
+mimozemský
+mimozemšťan
+mimozemšťanka
 mimozmyslové vnímanie
 mina
 minaret
@@ -11726,7 +12129,9 @@ minimálne
 minimálni
 minimálny
 minister
+minister zahraničia
 ministerstvo
+ministryňa
 minsky
 minský
 minulosť
@@ -11735,6 +12140,7 @@ minulý rok
 minulý čas
 minúta
 minútka
+minútová ručička
 minútový
 minúť
 mirlitón
@@ -11764,7 +12170,6 @@ mladík
 mladý
 mladší
 mledzivo
-mlgať
 mliekar
 mliekareň
 mliekarka
@@ -11784,6 +12189,7 @@ mlynárik kapustový
 mlynárka
 mlynárka dlhochvostá
 mlynček
+mlynček na mäso
 mlynčekový
 mládenec
 mládež
@@ -11835,6 +12241,7 @@ moc
 mocnina
 mocnosť
 mocný
+mocť
 model
 modelka
 modem
@@ -11851,6 +12258,8 @@ modloslužobníčka
 modlár
 modlárka
 modlárstvo
+modrastý
+modravec červenoboký
 modrina
 modrá
 modrá krv
@@ -11868,10 +12277,12 @@ mojžišovský
 mojžišský
 mokraď
 mokrina
+mokrinka
 mokrí
 mokrý
 mokrý orgazmus
 mokrý sen
+moldavsky
 moldavský
 moldavčina
 molekula
@@ -11911,6 +12322,7 @@ moravský
 morbidita
 more
 moreplavec
+morfológia
 morféma
 mori
 moria
@@ -11952,11 +12364,15 @@ motocykel
 motor
 motor s vnútorným spaľovaním
 motorka
+motorová nafta
+motorový čln
 motto
+motuz, špagát
 motyka
 motív
 motýlik
 motýlí
+motýlí efekt
 motýľ
 mozaika
 mozgová kôra
@@ -12012,6 +12428,7 @@ mrkvový
 mrle
 mrli
 mrlí
+mrmlať
 mrož
 mrznúť
 mrzák
@@ -12057,6 +12474,7 @@ muzeálny
 muzika
 muzikant
 muzikológia
+muzikál
 mučať
 mučenie
 mučeník
@@ -12107,6 +12525,7 @@ myknúť sa
 mykologička
 mykológ
 mykológia
+mykóza
 myrha
 myriada
 myrotočec
@@ -12176,6 +12595,7 @@ mávať
 máčik
 máčny
 mäkkosť
+mäkká
 mäkké
 mäkkí
 mäkkú
@@ -12191,6 +12611,7 @@ mäsiar
 mäsiarka
 mäsiarsky
 mäsiarstvo
+mäsitý
 mäsko
 mäso
 mäsom
@@ -12208,6 +12629,7 @@ mätový
 mäť
 médium
 méta
+mína
 mínomet
 mínonoska
 mínové pole
@@ -12336,6 +12758,7 @@ nadšenie
 nadšenkyňa
 nadšený
 nafta
+naftový motor
 nafukovací
 nafukovať
 nafúkať
@@ -12373,6 +12796,7 @@ najnižší
 najsevernejší
 najstaršie remeslo
 najstarší
+najtenší
 najužší
 najviac
 najvrchnejší
@@ -12390,6 +12814,7 @@ nakopenie
 nakopiť
 nakopiť sa
 nakoľko
+nakradnúť
 nakresliť
 nakupovanie
 nakŕmiť
@@ -12441,9 +12866,11 @@ napájať
 napáliť
 napätie
 napäťový
+napísaný
 napísať
 napĺňať
 napĺňať sa
+naratív
 naraz
 naraňajkovať
 narcis
@@ -12464,7 +12891,6 @@ narodil som sa v roku ...
 narodila som sa v roku ...
 narodiť se
 narukovať
-narušiť
 narval
 narážka
 nasadiť parohy
@@ -12492,6 +12918,7 @@ nauruský
 naučiť
 naučiť sa naspamäť
 navaliť sa
+naverbovať
 naviac
 naviesť
 navijak
@@ -12539,6 +12966,8 @@ neba
 nebesia
 nebeská mechanika
 nebeská sféra
+nebeské teleso
+nebeské telo
 nebeský
 nebesá
 nebezpečie
@@ -12577,6 +13006,7 @@ nedaj Bože
 nedbanlivý
 nedele
 nedeľa
+nedeľné
 nedokonavý
 nedokonavý vid
 nedokončený
@@ -12624,7 +13054,6 @@ nehumánny
 nehybne
 nehybnosť
 nehybný
-nehľadať
 neistý
 nej
 nejako
@@ -12649,6 +13078,7 @@ nemnohí
 nemoc
 nemocnica
 nemocný
+nemom
 nemota
 nemou
 nemožný
@@ -12660,6 +13090,7 @@ nemálo
 nemám najmenšieho poňatia
 nemám peniaze
 nemé
+nemého
 nemému
 nemí
 nemôcť
@@ -12667,10 +13098,10 @@ nemú
 nemý
 nemých
 nemým
+nemými
 nemčina
 nenajedenosť
 nenapraviteľný
-nenazdajky
 nenápadne
 nenápadnosť
 nenápadný
@@ -12684,13 +13115,11 @@ nenávistný
 nenávisť
 neoblomný
 neobrobený
-neobtiažny
 neobyčajný
 neoceniteľný
 neochotný
 neodborník
 neodborný
-neodkladný
 neodmysliteľný
 neodpustiteľný
 neodvratný
@@ -12711,6 +13140,7 @@ neočakávaný
 nepatrný
 nepekný
 neplatný
+neplnoletý
 neplodnosť
 neplodný
 nepochopiť
@@ -12735,6 +13165,7 @@ nepravdepodobný
 neprechodný
 nepredvídateľný
 neprehľadný
+nepreložiteľný
 neprestajne
 neprestajný
 nepretržite
@@ -12778,7 +13209,6 @@ nerozlučný
 nerozpoznateľný
 nerozum
 nerozumiem
-nerozumieť
 nerv
 nervová bunka
 nervový
@@ -12788,11 +13218,10 @@ nervózni
 nervóznosť
 nervózny
 nerónsky
-neschopnosť
-neschopný
 neschopák
 nesebecký
 nesexuálny
+nesklonný
 neskoro
 neskorý
 neskutočný
@@ -12814,6 +13243,7 @@ nesprávne pozitívny výsledok
 nesprávny
 nestrannosť
 nesympatický
+nesúď knihu podľa obalu
 nesčíselne
 nesčíselný
 netaktný
@@ -12835,7 +13265,7 @@ neusporiadaný
 neustále
 neustály
 neutralita
-neutrálne
+neutrálny
 neuveriteľný
 nevadí
 nevedomie
@@ -13047,7 +13477,9 @@ nosorožec
 nosorožec ostronosý
 nosová dierka
 nostalgia
+nosáľ
 nota
+notbuk
 notes
 noty
 notár
@@ -13107,9 +13539,11 @@ nudista
 nudistický
 nudistka
 nudizmus
+nugát
 nukleová kyselina
 nukleárny
 nula
+nultý
 numerický
 nunatak
 nutne
@@ -13158,6 +13592,8 @@ náhodnosť
 náhodné číslo
 náhodný
 náhodou
+náhorná plošina
+náhorná rovina
 náhrada
 náhradná náplň
 náhradný
@@ -13166,6 +13602,7 @@ náhrdelník
 náhuatl
 náhubok
 náhľad
+nájazd
 nájazdník
 nájditeľnosť
 nájditeľný
@@ -13173,6 +13610,7 @@ nájom
 nájomné
 nájomný vrah
 nájsť
+nákaza
 náklad
 nákladiak
 nákladné auto
@@ -13181,7 +13619,6 @@ nákova
 nákovka
 nákup
 nálada
-nálepka
 nález
 nálezca
 náležať
@@ -13215,6 +13652,7 @@ nárazník
 nárečie
 nárečný
 nárečový
+nárečí
 národ
 národnosť
 národný
@@ -13241,7 +13679,6 @@ nástupište
 nástupkyňa
 náter
 náterový
-nátrium
 náuka
 náušnica
 nával
@@ -13263,9 +13700,15 @@ náčrt
 náš
 nílsky
 ním
+nízka
+nízke
+nízkej
+nízki
 nízko
 nízkosť
+nízkotukový
 nízkotučný
+nízku
 nízky
 nížina
 nóbl
@@ -13277,9 +13720,11 @@ nôž
 nôžka
 núdza
 núdzová situácia
+nútená práca
 nútiť
 o
 o chlp
+oba
 obava
 obavy
 obchod
@@ -13316,7 +13761,6 @@ obežná dráha
 obhliadka
 obidva
 obidvaja
-obilie
 objasnenie
 objasniť
 objatie
@@ -13345,6 +13789,7 @@ oblek
 oblečenie
 obliecť
 obliecť sa
+obliehací stroj
 obliehanie
 obliekať
 obličaj
@@ -13446,6 +13891,7 @@ obviňovať
 obvod
 obvyklý
 obväz
+obväziť
 obydlie
 obyvateľ
 obyvateľka
@@ -13498,7 +13944,6 @@ ochorieť
 ochrana
 ochranné okuliare
 ochrnutie
-ochľastaný
 oco
 ococh
 ocom
@@ -13506,6 +13951,7 @@ ocot
 ocov
 ocovi
 od
+od A po Z
 od začiatku
 odbavenie
 odbor
@@ -13521,6 +13967,7 @@ odchádzať
 odchýlený
 odchýliť
 odcudziť
+oddať
 oddelenie
 oddiel
 oddych
@@ -13529,6 +13976,7 @@ oddýchnuť si
 odev
 odfarbiť
 odhad
+odhlasovať
 odhodiť
 odhodlaný
 odhryznúť
@@ -13575,7 +14023,6 @@ odpadky
 odpadlík
 odpadlíčka
 odplata
-odpojiť
 odpoludnie
 odpoludňajší
 odpor
@@ -13584,6 +14031,7 @@ odporkyňa
 odporný
 odporový
 odporučiť
+odporúčanie
 odporúčať
 odposluch
 odpovedať
@@ -13623,8 +14071,10 @@ odtlačok
 odtučnený
 odvaha
 odveci
+odveký
 odveta
 odviazať
+odvod
 odvrhnúť
 odvrátiť
 odvzdušniť
@@ -13648,6 +14098,7 @@ odškodnenie
 odškodné
 odštartovať
 ofenzíva
+oficier
 oficiálne
 oficiálny
 oftalmológia
@@ -13677,6 +14128,7 @@ ohraničovať
 ohrdnúť
 ohriať
 ohriať sa
+ohrievač
 ohrievať
 ohrievať sa
 ohromenie
@@ -13756,9 +14208,11 @@ okúpať
 okúpať sa
 okúň
 olej
+olejová lampa
 oligarcha
 oligarchia
 oligarchický
+oligopol
 oliva
 olivami
 olive
@@ -13793,13 +14247,13 @@ oman hodvábny
 oman mečolistý
 oman nemecký
 oman pravý
-oman pravý ()
-oman přímořský ()
+oman přímořský
 oman srstnatý
-oman vŕbolistý ()
+oman vŕbolistý
 omane
 omanom
 omanový
+omeleta
 omráčiť
 omylom
 omyť
@@ -13807,9 +14261,7 @@ omáčka
 omývať
 omša
 on
-on ona
 on ona ono
-on ono
 ona
 ona sama
 onanovanie
@@ -13817,12 +14269,12 @@ onanovať
 ondatra pižmová
 ondrejský
 ondrejský kríž
-onedlho
 onemocnieť
 oneskorenie
 oni
 oni ony
 oni sami
+oni*
 onkológia
 ono
 ono samo
@@ -13846,6 +14298,7 @@ opatrenie
 opatrnosť
 opatrný
 opatrovnica
+opačná lomka
 opačné pohlavie
 opačný
 opaľovanie
@@ -13884,6 +14337,7 @@ opona
 oponovať
 opopanax
 opoponax
+oporný pilier
 opotrebovávacia vojna
 opovrhnutie
 opovrhovať
@@ -13935,12 +14389,14 @@ organizátor
 organizátorka
 orgazmu
 orgazmus
-orgie
+orgia
 orgován
 orgán
 orientálny tanec
 orieškový
 oriešok
+originál
+originálny
 ork
 orkán
 orlami
@@ -13984,6 +14440,7 @@ osamelosť
 osamelý
 osami
 osamote
+osciloskop
 ose
 osekať
 osem
@@ -14003,6 +14460,7 @@ osemfinále
 osemnásty
 osemnásť
 osemsto
+osemstý
 osemtisícovka
 osemuholník
 osiel
@@ -14038,6 +14496,7 @@ oslám
 oslí
 osmanský
 osmium
+osmonoh
 osnovy predmetu
 osoba
 osobe
@@ -14097,7 +14556,9 @@ osud
 osudný
 osvedčenie
 osvetlenie
+osvietenstvo
 osvietiť
+osvojiť si
 osy
 osám
 osí
@@ -14185,11 +14646,13 @@ ovčí
 oxid dusný
 oxid uhličitý
 oxid uholnatý
+oxidačné činidlo
 oxymorón
 ozajstný
 ozbrojené sily
 ozbrojený
 ozbrojiť
+ozdravovňa
 označenie
 oznámenie
 oznámiť
@@ -14226,21 +14689,21 @@ očú
 ošetriť
 ošetrovať
 ošetrujúci lekár
+ošský
 oštep
-ošudiť
 ožanka
 oženiť
 oženiť sa
 oživenie
 oživiť
 ožran
-ožran m (1, 2)
 ožranka
 ožranský
 ožranstvo
 ožratý
 p
 p.f. (short for French: pour félicité)
+p.n.l. (pred naším letopočtom)
 pa-
 pach
 pacient
@@ -14296,7 +14759,9 @@ paládium
 pamajorán
 pampúch
 pamuchár záhradný
-pamätať sa
+pamätať
+pamätať si
+pamäti
 pamätník
 pamäť
 pamäťový
@@ -14322,6 +14787,7 @@ panenský
 panenský olej
 panenský veniec
 panenstvo
+pangolín
 panhelénsky
 pani
 panic
@@ -14365,6 +14831,7 @@ paprikáš
 paprička
 papuľa
 papyrológia
+papyrus
 papája
 para
 para orech
@@ -14377,9 +14844,12 @@ paragraf
 paragón
 paralýza
 paranoidná schizofrénia
+paranoja
 parapet
 parapsychológia
 parazit
+parašutista
+parašutistka
 parašutizmus
 park
 parkour
@@ -14392,6 +14862,7 @@ parlamentný
 parlamentár
 parlamentárka
 parná lokomotíva
+parná turbína
 parník
 parný rušeň
 parochnička
@@ -14464,7 +14935,11 @@ pazušný
 pazúrik
 paľba
 pašalík
+pašeračka
+pašeráctvo
 pašerák
+pašovanie
+pašovať
 paštrnák
 paža
 pažba
@@ -14475,6 +14950,7 @@ paži
 pažiť
 pažou
 pažu
+pažucha
 paží
 pažítka
 pec
@@ -14551,19 +15027,21 @@ perfekcionistka
 perfekcionizmus
 perfektum
 perga
+pergamen
 perge
 pergou
 pergu
 pergy
 perina
 perinka
-periodikum
+periodická tabuľka
 perióda
 perla
 perleť
 perlivá voda
 perlička
 perlový
+perlu
 perlík
 permanentná pamäť
 pernatý
@@ -14576,6 +15054,7 @@ perspektívne
 perspektívnosť
 perspektívny
 peru
+pery
 perzekvovať
 perzsky
 perzský
@@ -14594,9 +15073,6 @@ pesničkárka
 pestrec
 pestrec mariánsky
 pestro
-pestrofarebná
-pestrofarebné
-pestrofarební
 pestrofarebný
 pestrosť
 pestrý
@@ -14673,6 +15149,7 @@ pieskový
 piesok
 piesoček
 piesočnatý
+piesočná búrka
 piesočný
 piest
 piesňový
@@ -14777,6 +15254,7 @@ planú
 planý poplach
 plast
 plastelína
+plastická chirurgia
 plastický
 plastový
 plat
@@ -14803,6 +15281,7 @@ plató
 platónsky
 platňa
 plav
+plavba
 plavebná komora
 plavidlo
 plavka
@@ -14816,6 +15295,8 @@ plaziť sa
 plazma
 plač
 plch
+plebejec
+plebejský
 plece
 plech
 plechovka
@@ -14832,6 +15313,7 @@ plesk
 plesknúť
 plesnivec alpínsky
 pleso
+plesňový
 pletenec
 pleva
 plevy
@@ -14889,6 +15371,7 @@ plynojem
 plynom
 plynovod
 plynová komora
+plynová turbína
 plynový
 plynulo
 plyny
@@ -14897,6 +15380,7 @@ plytký
 plytčina
 plzenský
 plán
+plánovať
 plást
 plátno
 plávanie
@@ -14953,9 +15437,9 @@ pochlebovač
 pochlebovať
 pochmúrny
 pochod
-pochodeň
 pochodovať
 pochopenie
+pochopiteľný
 pochopiť
 pochovanie
 pochovať
@@ -14973,11 +15457,15 @@ pocta
 poctivosť
 poctivý
 pod
+pod nulou
 podanie
+podanie ruky
 podať
 podať sa
 podbeľ
 podbradník
+podceniť
+podceňovať
 podcteny
 poddajný
 poddajný m ovládateľný
@@ -15064,6 +15552,7 @@ podvodníctvo
 podvoliť sa
 podvozok
 podvádzať
+podzemie
 podzemný
 podávať
 podívaná
@@ -15131,6 +15620,7 @@ pohŕdať
 poistenie
 poistka
 poistky
+poistník
 poisťovňa
 pojeb sa
 pojebaný
@@ -15139,7 +15629,6 @@ pojem
 pokarhanie
 pokazený gramofón
 pokaziť
-pokaziť sa
 pokiaľ
 poklad
 pokladnica
@@ -15188,6 +15677,7 @@ pokúsiť sa
 pokúšať sa
 pokým
 pokĺznuť sa
+pol druhej
 polabský
 polabčina
 polatinčenie
@@ -15221,6 +15711,7 @@ polievočka
 poliklinika
 politickosť
 politicky
+politická strana
 politický
 politický väzeň
 politik
@@ -15260,8 +15751,8 @@ polygamia
 polyglot
 polygón
 polykondenzácia
+polymerázová reťazová reakcia
 polynok
-polyp
 polysémia
 polyteizmus
 polárna čiapka
@@ -15281,6 +15772,7 @@ pomaly
 pomalý
 pomaranč
 pomenúvať
+pomerenie
 pomerný
 pomfritky
 pomilovať
@@ -15299,8 +15791,10 @@ pomorník veľký
 pomotať
 pomočník
 pomsta
+pomstivý
 pomstiť (sa)
 pomstiť sa
+pomstychtivý
 pomyje
 pomyselný
 pomáhať
@@ -15317,6 +15811,7 @@ ponorka
 ponorkový
 ponožka
 pontifex
+pontský
 pontón
 pontónový most
 ponuka
@@ -15344,6 +15839,7 @@ popičovka
 popkorn
 poplach
 poplatok
+poplaz
 popliesť
 popol
 popola
@@ -15424,7 +15920,7 @@ porážať
 porážka
 posadiť sa
 poschodie
-posesívne adjektívum
+posiaľ
 posielať
 posilka
 posilňovňa
@@ -15451,6 +15947,7 @@ poslušný
 poslúchať
 poslúchnuť
 posmievať sa
+posmrtna maska
 posol
 postava
 postavenie
@@ -15478,6 +15975,7 @@ posúdiť
 posúriť
 posúvať
 pot
+potenciálna energia
 potešenie
 potiahnuť
 potiť sa
@@ -15567,6 +16065,7 @@ povstalec
 povstanie
 povyše
 povzdych
+povýšenie
 povýšený
 pozadie
 pozajtra
@@ -15574,6 +16073,7 @@ pozauna
 pozdrav
 pozdĺž
 pozemná lanovka
+pozemná mína
 pozemný hokej
 pozemok
 pozerať
@@ -15595,6 +16095,8 @@ poznanský
 poznať
 poznámka
 poznávacia psychológia
+poznávanie
+pozor
 pozor, klzká podlaha
 pozornosť
 pozorný
@@ -15683,14 +16185,20 @@ pra-
 prababa
 prababička
 prach
+prachovka
 pracháč
 pracka
 pracovať
 pracovať dlho do noci
 pracovať vo dne v noci
+pracovisko
+pracoviská
 pracovitosť
 pracovitý
 pracovná doska
+pracovná sila
+pracovná zmluva
+pracovné právo
 pracovný stôl
 pracovňa
 praded
@@ -15731,6 +16239,8 @@ prasatník
 prasiatko
 prasklina
 prasknutie
+praslica
+praslice
 praslička
 praslovanský
 praslovančina
@@ -15753,6 +16263,7 @@ pravdách
 pravdám
 pravej
 pravek
+praveký
 pravica
 pravice
 pravicovo
@@ -15821,6 +16332,7 @@ pred n. l.
 predaj
 predajca
 predajný
+predajný automat
 predavač
 predavačka
 predať
@@ -15875,6 +16387,7 @@ predpona
 predposledný
 predpovedať
 predpoveď
+predpoveď počasia
 predpredvčerom
 predpriehlavok
 predsa
@@ -15901,6 +16414,7 @@ predsudok
 predtým
 predvoj
 predvojnový
+predvolanie
 predvolanie na súd
 predvolať na súd (niekoho)
 predvídateľnosť
@@ -15912,6 +16426,7 @@ predák
 predávať
 predísť
 predčasný
+predškolský
 preferovaný
 prefíkaný
 preglejka
@@ -15937,6 +16452,7 @@ prekladateľ
 prekladateľka
 prekladať
 preklenúť
+preklep
 prekliatie
 prekliaty
 prekliať
@@ -15954,7 +16470,7 @@ prekážka
 preliačina
 preliačiť
 preliačovať
-prelomiť
+prelom
 preložiť
 prelud
 prelínacia značka
@@ -15992,6 +16508,7 @@ prenosný
 prenáhlený
 prenášať
 prepadlisko
+prepadnutie
 prepadnúť
 prepelica
 prepichnúť
@@ -16007,6 +16524,7 @@ preprava
 prepraviť
 prepravka
 prepustenec
+prepustenie
 prepáč
 prepáčiť
 prepáčte
@@ -16054,16 +16572,19 @@ preto
 pretože
 pretvárka
 preukaz
+preukázateľný
 preukázať
 prevaha
 prevažovať
 preveriť
 previesť
+previs
 prevod
 prevodník
 prevodový stupeň
 prevrat
 prevzatie
+prevzaté slovo
 prevziať
 prevýšiť
 prevŕtať
@@ -16071,7 +16592,6 @@ prezbrojenie
 prezervatív
 prezident
 prezidentka
-prezidentka ()
 prezidentská republika
 prezidentský
 prezidentstvo
@@ -16113,8 +16633,12 @@ priateľ
 priateľka
 priateľský
 priateľstvo
+priazeň
 priaznivec
 priaznivkyňa
+priaznivo
+priaznivosť
+priaznivý
 priať
 priať si
 približne
@@ -16150,12 +16674,13 @@ priepasť
 prieplav
 priesečník
 prieskum
-prieskumnica
 prieskumník
+prieskumníčka
 priestor
 priestorovo
 priestorový
 priestoročas
+priestranstvo
 priestupný rok
 priesvitný
 prievan
@@ -16208,6 +16733,7 @@ pripáliť
 pripáliť sa
 prirodzené číslo
 prirodzený
+prirodzený výber
 prirovnanie
 prisahať
 prisluhovač
@@ -16268,8 +16794,6 @@ programovať
 programove
 programovo
 programovosť
-programové prostriedky
-programové vybavenie
 programový
 programátor
 programátorka
@@ -16277,6 +16801,7 @@ prohrávať
 projekt
 projektor
 projektové manažérstvo
+prokrastinácia
 prokurátor
 proletariát
 proletár
@@ -16291,6 +16816,7 @@ promovať
 prométiový
 prométium
 propaganda
+propagácia
 proprium
 propán
 proroctvo
@@ -16337,6 +16863,7 @@ protilátka
 protiofenzíva
 protipríklad
 protirečiť
+protitankový ježko
 protivládny
 protivne
 protivnosť
@@ -16364,7 +16891,6 @@ prozaičnosť
 prozodicky
 prozodický
 prozódia
-prs
 prsia
 prsičká
 prská
@@ -16475,6 +17001,7 @@ prírodný
 prírodný zdroj
 prísada
 prísaha
+prísavka
 príslovečný
 príslovie
 príslovka
@@ -16504,11 +17031,15 @@ prívetivý
 prívlastok
 prízemie
 prízemný
+príznak
 prízrak
 prízvuk
 príčastie
+príčastie minulé
 príčetnosť
 príčina
+príčina smrti
+príčina úmrtia
 príšera
 príšerný
 príživník
@@ -16543,13 +17074,13 @@ psychopat
 psychopatia
 psychopatka
 psychopolitika
+psychosomatika
 psychóza
 psí
 psík
 psíča
 psíček
 ptomaín
-publicista
 publikácia
 pudel
 puk
@@ -16572,6 +17103,7 @@ purpurová
 purpurový
 pusa
 pusinka
+pustatina
 pustiť
 pustiť sa do
 pustiť sa strmhlav
@@ -16579,6 +17111,7 @@ pustovník
 putinista
 putinistka
 putinizmus
+putovať
 putá
 puzdro
 puč
@@ -16588,7 +17121,9 @@ puškvorec
 puškvorec obyčajný
 pyramída
 pyroklastický prúd
+pyrotechnika
 pytliak
+pytliačiť
 pytón
 pyšný
 pyžama
@@ -16618,6 +17153,7 @@ pán doktor
 pán kráľ
 pán profesor
 pána
+pánbohvie
 pánbožkova kravička
 pánska móda
 pánske oblečenie
@@ -16679,10 +17215,12 @@ päťdesiatosem
 päťdesiatpäť
 päťdesiatsedem
 päťdesiattri
+päťdesiaty
 päťdesiatšesť
 päťdesiatštyri
 päťdesiať štyri
 päťsto
+päťstý
 päťuholník
 pí
 píla
@@ -16696,6 +17234,7 @@ písmenkový
 písmeno
 písmenový
 písmo
+písomný
 píč
 píšťala
 píšťalôčka
@@ -16719,6 +17258,7 @@ pôsobiť
 pôst
 pôvod
 pôvodne
+pôvodný
 pôžitok
 pôžičať
 pôžička
@@ -16774,6 +17314,7 @@ rabínsky
 rabínsky judaizmus
 rabínstvo
 rachitída
+rachot
 racionalizovať
 racionalizácia
 racionálne číslo
@@ -16809,6 +17350,7 @@ ragby
 raj
 raja
 rajnica
+rajský
 rajský plyn
 rajón
 rajčiak
@@ -16856,6 +17398,7 @@ rastlinopisec
 raz
 raz za uhorský rok
 razantný
+razia
 raziť
 račí
 raňajkovať
@@ -16874,6 +17417,7 @@ reagovať
 reakcia
 reaktor
 realistický
+realita
 realizácia
 rebarbora
 rebier
@@ -16889,14 +17433,17 @@ rebrá
 rebrách
 rebrám
 rebrík
+rebríček
 recenzia
 recenzovať
 recepcia
 recept
 recesia
+recitativ
 redaktor
 redaktorka
 redukcia
+redundantný
 referencia
 referendum
 reforma
@@ -16949,6 +17496,7 @@ represia
 reproduktor
 republika
 republikanizmus
+republike
 republikánstvo
 reputácia
 repík
@@ -16959,6 +17507,7 @@ retabulum
 reumatický
 reumatizmus
 reumatológia
+rev
 revanšizmus
 revizionizmus
 revolucionár
@@ -16977,6 +17526,7 @@ rezať
 rezbár
 rezerva
 rezervovať
+rezervoár
 rezervácia
 rezignovaný
 rezignovať
@@ -16991,6 +17541,7 @@ reč
 reči
 rečníctvo
 rečník
+rečníčka
 rečove
 rečovo
 rečová komunita
@@ -17030,6 +17581,7 @@ riadový
 rias
 riasa
 riase
+riboflavín
 riedky
 riek
 rieka
@@ -17044,6 +17596,7 @@ riešiť
 rifle
 rihať
 rikota
+rimavskosobotský
 ring
 ringlota
 ringlotový
@@ -17126,12 +17679,14 @@ rok
 roklina
 rokov
 rokovanie
+rokovať
 roku Pána
 rokľa
 rola
 rolička
 rolovacia dráha
 romanizácia
+romantizmus
 romistika
 romológia
 román
@@ -17182,7 +17737,10 @@ rozdrviť
 rozdvojiť sa
 rozdvojka
 rozhadzovať
+rozhlasová stanica
 rozhnevaný
+rozhodca
+rozhodkyňa
 rozhodnutie
 rozhodnúť
 rozhodovať
@@ -17218,9 +17776,9 @@ rozmaznane
 rozmaznanosť
 rozmaznaný
 rozmaznať
-rozmeniť
 rozmer
 rozmnožovanie
+rozmyslieť sa
 rozoznateľne
 rozoznať
 rozoznávať
@@ -17230,6 +17788,7 @@ rozpoznanie
 rozpoznateľný
 rozpoznať
 rozpočet
+rozprávanie
 rozprávač
 rozprávačka
 rozprávať
@@ -17254,7 +17813,6 @@ roztrojiť
 roztržitosť
 rozum
 rozumbrada
-rozumiem
 rozumieť
 rozumne
 rozumnosť
@@ -17269,12 +17827,14 @@ rozvarené
 rozvedený
 rozvetviť sa
 rozviazať
+rozviedka
 rozviesť
 rozviesť sa
 rozvinutý
 rozviť
 rozviť sa
 rozvod
+rozvoj
 rozvrh
 rozvrh hodín
 rozvádzať
@@ -17293,7 +17853,6 @@ rozštiepiť
 rozštiepiť sa
 rozšírenie
 rozťahovať sa
-ročenka
 ročne
 ročné obdobie
 roční
@@ -17416,6 +17975,7 @@ rybár tmavokrídly
 rybárik
 rybárka
 rybárka krátkozobá
+rybárska sieť
 rybársky
 rybársky prút
 rybárstvo
@@ -17431,13 +17991,23 @@ rypák
 rys
 rys ostrovid
 rys červený
+rysa
+ryse
+rysica
 ryska
+rysmi
+rysoch
+rysom
+rysov
+rysovi
+rysu
 rysy
 rysí
 rytier
 rytierskosť
 rytiersky
 rytierstvo
+rytmická gitara
 rytmus
 ryšavec
 ryšavá
@@ -17455,6 +18025,8 @@ rádioaktívny
 rádioaktívny odpad
 rádioaktívny spad
 rádioprijímač
+rádiostanica
+rádiová stanica
 rádiová vlna
 rádium
 rám
@@ -17519,7 +18091,6 @@ rúžatko
 rúžový
 rýb
 rýbä
-rýchla hnedá líška preskočí lenivého psa
 rýchlik
 rýchlo
 rýchlo občerstvenie
@@ -17560,12 +18131,18 @@ sacharid
 sacharóza
 sad
 sade
+sadielce
+sadielko
 sadlo
+sadlový
 sadmi
 sadnúť si
 sadoch
 sadom
 sadov
+sadovnícky
+sadovníctvo
+sadovník
 sadová
 sadové
 sadoví
@@ -17575,8 +18152,11 @@ sadu
 sady
 sadza
 sadzač
+sadze
+sadzi
 sadzička
 sadzový
+sadzu
 sadík
 saharský
 sako
@@ -17588,6 +18168,7 @@ salamandra
 salaš
 salto
 salva
+saláma
 sama
 samec
 samica
@@ -17625,6 +18206,7 @@ samurajka
 samurajský
 samurajstvo
 samárium
+sanatórium
 sandál
 sane
 sanitka
@@ -17668,7 +18250,6 @@ saxofonistka
 saxofón
 saúdský
 sať
-sbor
 scenár
 scenárista
 scenéria
@@ -17737,10 +18318,10 @@ sedemdesiattri
 sedemdesiaty
 sedemdesiatšesť
 sedemdesiatštyri
-sedemnásti
 sedemnásty
 sedemnásť
 sedemsto
+sedemstý
 sedemuholník
 sedemuholníkový
 sedenie
@@ -17769,8 +18350,6 @@ sekretár
 sekretárka
 sekta
 sekunda
-sekundička
-sekundový
 sekvencia
 sekáčik
 sekúnd
@@ -17797,6 +18376,7 @@ semená
 semiačko
 semienko
 semifinále
+seminár
 semä
 sen
 sendvič
@@ -17805,6 +18385,7 @@ sene
 senný
 seno
 senom
+senzácia
 senát
 senátor
 separatizmus
@@ -17831,6 +18412,7 @@ severná slovinčina
 severný
 severný pól
 severoamerický
+severoatlantický
 severoeurópsky
 severokórejský
 severomacedónsky
@@ -17853,6 +18435,7 @@ sexuálne
 sexuálnosť
 sexuálny
 sexy
+sezóna
 sfinga
 sféra
 sgacha
@@ -17862,6 +18445,7 @@ shetlandský pony
 si
 siaha
 siahový
+siakať sa
 siamská mačka
 siať
 sibírsky husky
@@ -17969,6 +18553,7 @@ sklený
 skleróza
 sklo
 sklon
+sklonný
 sklovina
 skloňovanie
 sklz
@@ -17984,7 +18569,6 @@ skonať
 skonfiškovať
 skončiť
 skopať
-skorej
 skoro
 skorocel
 skorocelový
@@ -17993,6 +18577,7 @@ skostnatelý
 skostnatenie
 skočiť
 skr.
+skrat
 skratka
 skratkový
 skreslenosť
@@ -18003,7 +18588,6 @@ skritizovať
 skriňa
 skromnosť
 skromný
-skrotiť
 skrutka
 skrutkovač
 skrutkovať
@@ -18031,6 +18615,7 @@ skurvenec
 skutok
 skutočnosť
 skutočný
+skvapalnený zemný plyn
 skvelý
 skákať
 skóre
@@ -18038,7 +18623,9 @@ skôr
 skôr či neskôr
 skôr-neskôr
 skúmanie
+skúmavka
 skúmať
+skúposť
 skúsenosť
 skúsený
 skúter
@@ -18072,17 +18659,16 @@ slamka
 slanina
 slaninka
 slaninový
+slano jezero
 slaný
 slasť
 slaviano-
 slavistika
 slavizmus
 slavónsky
-slaďák
 sled
 sledovať
 slepačí
-slepiť
 slepo
 slepota
 slepé črevo
@@ -18234,14 +18820,25 @@ slyšať
 slza
 slzička
 slzná kosť
+slzný plyn
+sláv
 sláva
+slávach
+slávam
+slávami
+sláve
 slávik
 slávik modrák
+sláviček
+slávičí
 slávka
 slávka jedlá
 slávnostný
 slávnosť
 slávny
+slávou
+slávu
+slávy
 sláčik
 sláčikový
 slíž
@@ -18258,11 +18855,13 @@ smartfón
 smartphone
 smažiť
 sme
+smelo
 smelosť
 smelý
 smer
 smerek
 smernica
+smerodajná odchýlka
 smerovacie číslo
 smerovanie
 smerovač
@@ -18271,6 +18870,7 @@ smetiar
 smetiarka
 smetiarsky
 smetník
+smiať
 smiať sa
 smiech
 smiešik
@@ -18290,6 +18890,8 @@ smrdieť
 smrek
 smrekovcový
 smrekovec
+smrkať sa
+smrknúť
 smrteľný
 smrti
 smrtiaci
@@ -18311,7 +18913,6 @@ smädom
 smädu
 smútkový
 smútok
-snadný
 snaha
 snažiť sa
 sneh
@@ -18324,6 +18925,9 @@ snehový
 snehu
 snehuliak
 snehuľa kapcavá
+snehuľka
+snemovňa lordov
+sneženie
 snežienka
 snežievať
 snežiť
@@ -18352,14 +18956,22 @@ snúbenica
 so
 so zatajeným dychom
 sob
+sobia
+sobie
+sobmi
+soboch
+sobolí
+sobom
 sobota
 sobotienka
 sobotný
 sobotňajší
+sobov
 soboľ
 sobáš
 sobášnosť
 sobášny
+sobí
 socha
 soche
 sochový
@@ -18382,6 +18994,7 @@ sociálna pomoc
 sociálna sieť
 sociálne
 sociálny
+sociálny status
 sodný
 sodík
 sodíkový
@@ -18403,6 +19016,9 @@ sokol myšiar
 sokol sťahovavý
 sokoliarstvo
 sokolica
+sokolka
+sokolský
+sokolstvo
 sokolí
 sokolík
 sokolíček
@@ -18431,6 +19047,7 @@ sombrero
 somár
 somárik
 somárisko
+somárske uši
 somársky
 somárstvo
 somárí
@@ -18449,10 +19066,14 @@ sova
 sova lesná
 sovchoz
 sove
+sovia
+sovie
 soviet
 sovietsky
+sovička
 sovka mopoke
 sovou
+soví
 sovíča
 soľ
 soľnička
@@ -18469,6 +19090,7 @@ spajvér
 spalovať
 spamäti
 spasenie
+spaľovací priestor
 spať
 speciácia
 spektroskop
@@ -18497,6 +19119,7 @@ spisovná varieta
 spisovný
 spisovný jazyk
 spisovný štandard
+spišskonovoveský
 splavovať
 splašky
 spletitý
@@ -18551,6 +19174,7 @@ spoluväzenkyňa
 spoluväzeň
 spolužiak
 spolužiačka
+spolužitie
 spomalený
 spomaliť
 spomaľovací prah
@@ -18575,18 +19199,20 @@ sporovlivý
 sporák
 spotrebiteľ
 spotrebiteľka
+spotrebná daň
 spovednica
 spovedník
 spoveď
 spoznať
+spoznávať
 spozorovať
 spočítať
 spoľahlivý
 spracovanie
 spracovať
-sprava
 spraviť
 spravodajca
+spravodajská služba
 spravodlivosť
 spravodlivý
 sprcha
@@ -18640,6 +19266,7 @@ spánok
 spárovať
 spása
 spávať
+spätná lomka
 spätná väzba
 späť
 spínač
@@ -18699,10 +19326,10 @@ sršeň
 stabilný
 stagflácia
 stajňa
-stalagmit
 stalaktit
 stalaktitový
 stalinizmus
+stalinizácia
 stan
 stanica
 stanné právo
@@ -18724,6 +19351,7 @@ starnúť
 staroanglický ovčiak
 staroba
 starobylý
+starodávny
 starogréčtina
 staromládenectvo
 staromódny
@@ -18801,6 +19429,7 @@ stenám
 stenóza
 step
 steplieť
+stereotyp
 stetoskop
 stevard
 stevardka
@@ -18847,8 +19476,10 @@ stomatologička
 stomatológ
 stomatológia
 stonka
+stonke
 stonožka
 stopa
+stopka
 stopky
 stoporenie
 stopovať
@@ -18925,6 +19556,7 @@ strelectvo
 strelivo
 streliť
 strelkyňa
+strelnica
 strelný prach
 strelou
 strelu
@@ -18946,8 +19578,10 @@ striebro
 striech
 striedanie plodín
 striedavý prúd
+striedať
 striekačka
 striel
+striezť
 strieľať
 striežik
 striga
@@ -19013,6 +19647,7 @@ strunka
 strunník
 strunou
 strunový
+strunový nástroj
 strunôčka
 stružka
 strynka
@@ -19063,9 +19698,9 @@ stupidita
 stupnica
 stupňovanie
 stupňovať
-stučnieť
 stvorenie
 stvoriteľ
+stvoriteľka
 stvoriť
 stvrdnúť
 styk
@@ -19086,6 +19721,7 @@ stínať
 stôk
 stôl
 stúpanie
+stúpať
 stý
 stĺcť
 stĺkať
@@ -19098,6 +19734,7 @@ stĺporadie
 stĺpový
 stĺpček
 subjekt
+subkontinent
 submisívnosť
 submisívny
 subsidiarita
@@ -19152,11 +19789,13 @@ superlatívny
 supermarket
 supermasívna čierna diera
 supernova
+superpelícia
 superpočítač
 superstar
 superveľmoc
 supí
 supínum
+surikata
 surovina
 surový
 surrealizmus
@@ -19176,6 +19815,7 @@ suverenita
 suverénny
 sučka
 sučí
+sušená slivka
 suši
 sušienka
 sušič
@@ -19228,6 +19868,7 @@ svetielce
 svetielko
 svetlo
 svetlomet
+svetlonos
 svetluška
 svetlý
 svetmi
@@ -19312,6 +19953,7 @@ symetria
 symfonický
 symfonický orchester
 symfónia
+symptóm
 sympózium
 syn
 synagóga
@@ -19359,6 +20001,7 @@ syrček
 syseľ
 systém
 systémovo
+systémový
 syčanie
 syčať
 sága
@@ -19367,6 +20010,7 @@ sám
 sámčina
 sánka
 sánky
+sánok
 sémantický
 sépia
 séria
@@ -19393,6 +20037,7 @@ sôvä
 sôvät
 sú
 sú-
+súboj
 súbor
 súcit
 súd
@@ -19439,6 +20084,7 @@ súrodenec
 sústava
 sústavový
 sústo
+sústrasť
 sústrediť sa
 sústružník
 sútok
@@ -19451,6 +20097,7 @@ súčasník
 súčasníčka
 súčasný
 súčet
+súčiastka
 súčin
 súťaž
 súťažiť
@@ -19575,6 +20222,7 @@ tanierik
 tanierový
 tank
 tanker
+tankista
 tankovať
 tantal
 tantalový
@@ -19650,11 +20298,13 @@ telepatia
 teleskop
 teleskopický
 telesne
+telesná výchova
 telesný
 teleso
 telestomatológia
 televizor
 televízia
+televízny kanál
 teliatko
 telka
 telo
@@ -19697,13 +20347,24 @@ tendencia
 tenis
 tenista
 tenistka
+tenkej
 tenko
+tenkom
 tenkosť
+tenkou
+tenká
+tenké
 tenké črevo
+tenkého
+tenkému
 tenkí
 tenkú
 tenký
+tenkých
+tenkým
+tenkými
 tento
+tenší
 teodolit
 teofánia
 teokracia
@@ -19727,6 +20388,7 @@ teplo
 teplomer
 teplota
 teplota vznietenia
+teplovzdušný balón
 teploš
 teplá
 teplé
@@ -19817,6 +20479,7 @@ theremin
 thorium
 ti
 tiahnuť
+tiav
 tiaž
 tibetská doga
 tibetčina
@@ -19825,6 +20488,7 @@ tibetčinou
 tibetčinu
 tibetčiny
 ticho
+ticho pred búrkou
 tichá pošta
 tichú
 tichý
@@ -19860,7 +20524,6 @@ tiskar
 tiskarka
 tiský
 tisíc
-tisíc milión
 tisíc ráz
 tisíci
 tisícina
@@ -19897,11 +20560,11 @@ tlačovky
 tlačovkách
 tlačovkám
 tlačová konferencia
-tlačová porada
 tlačový
 tlieskať
 tlmač
 tlmenie
+tlmič
 tlmočnícky
 tlmočníctvo
 tlmočník
@@ -19920,6 +20583,7 @@ tmisko
 to
 to nie je tvoja vec
 to nič
+to počítajúc
 toaleta
 toaletná voda
 toaletný
@@ -19982,6 +20646,7 @@ trafená hus zagágala
 trafika
 trafiť
 tragický
+tragédia
 traja
 trajekt
 trajektória
@@ -20010,7 +20675,6 @@ trasochvost bielohrdlý
 trasochvost biely
 trasochvost potočný
 trauma
-trblietať sa
 treba
 trebišovský
 trebuľka
@@ -20027,6 +20691,7 @@ trest smrti
 trestať
 trestný zákonník
 tretia osoba
+tretia ríša
 tretina
 tretí
 tretí pád
@@ -20057,6 +20722,7 @@ tridsaťsedem
 tridsaťtri
 tridsaťšesť
 tridsaťštyri
+tridsiaty
 trieda
 trieska
 triesočka
@@ -20065,6 +20731,8 @@ triezvy
 trieť
 trigonometrický
 trikolóra
+trikrát
+triler
 trilión
 trimester
 tringelt
@@ -20075,12 +20743,13 @@ trip
 tristo
 tristo hrmenych!
 tritagonista
-triviálny
 tričko
 trma-vrma
 trnavský
+trnka
 trnoslivka
 trochu
+trojhlavý
 trojhláska
 trojica
 trojitý
@@ -20090,6 +20759,7 @@ trojkolka
 trojlístok
 trojnožka
 trojný bod
+trojstý
 trojuholník
 trojánska vojna
 trolejbus
@@ -20148,6 +20818,7 @@ trón
 trúba
 trúbiť
 trúbka
+trúd
 trúfalý
 tržnica
 tržný
@@ -20168,9 +20839,11 @@ tukom
 tukov
 tukový
 tulec
+tulene
 tulení
 tuleň
 tuleň grónsky
+tuleňa
 tulipán
 tulipánový
 tulák
@@ -20216,18 +20889,21 @@ tuvinčina
 tučniak
 tučniačí
 tučný
-tušiť
 tužka
 tužkový
 tvar
 tvaroh
 tvarohový
+tvaroslovie
 tvarôžok
 tvid
 tvoj
 tvoje želanie je mi rozkazom
 tvor
+tvorba
+tvorca
 tvoriť
+tvorkyňa
 tvrdenie
 tvrdiť
 tvrdnúť
@@ -20312,8 +20988,10 @@ túlavý
 túlať sa
 túliový
 túlium
+túre
 túžba
 túžiť
+týfus
 týl
 tým
 týždenne
@@ -20354,10 +21032,12 @@ udať
 udiať sa
 udrieť
 udržať si chladnú hlavu
+udržiavanie mieru
 udusiť
 udusiť sa
 udýchaný
 ufňukane
+ufňukanec
 ufňukanosť
 ufňukaný
 ugorka
@@ -20392,6 +21072,7 @@ uhranúť
 uhryznutie
 uhryznúť
 uhýbať
+uhľohydrát
 uhľovodík
 uja
 ujca
@@ -20416,6 +21097,7 @@ ukloniť sa
 ukláňať sa
 ukončiť
 ukradnúť
+ukrajinizácia
 ukrajinofóbia
 ukrajinsky
 ukrajinský
@@ -20489,6 +21171,7 @@ ununtrium
 unáhlený
 upchať
 upiecť
+uplakanec
 uplatniť
 upokojiť
 upokojiť sa
@@ -20516,6 +21199,7 @@ urastený
 uraziť
 urbanizácia
 urda
+urevanec
 urgentný
 urieknuť
 urobiť
@@ -20532,6 +21216,8 @@ uránový
 urážať
 urážka
 urýchliť
+urýchľovač
+urýchľovač častíc
 určite
 určiť
 usadená hornina
@@ -20574,6 +21260,7 @@ utečenka
 utečenkyňa
 utešene
 utešený
+utešiť
 uteší
 utiecť
 utierať
@@ -20594,6 +21281,7 @@ uvažovať
 uvedomiť si
 uviaznutý
 uviaznúť (na plytčine)
+uvoľnenie
 uvoľňovať
 uväznenie
 uväzniť
@@ -20602,6 +21290,7 @@ uzbecky
 uzbecký
 uzbečtina
 uzda
+uzmierenie
 uznanie
 uznať
 uznávať
@@ -20667,6 +21356,7 @@ v podstate
 v pondelok
 v poriadku
 v poslednej dobe
+v predvečer
 v priamom prenose
 v princípe
 v prvom rade
@@ -20706,6 +21396,7 @@ valec
 valeriána
 valkýra
 valuta
+valček na cesto
 valčík
 valčíkový
 vami
@@ -20718,7 +21409,6 @@ vankúšik
 vankúšový
 vanuatský
 vanád
-vanádium
 vanádový
 vanúť
 var
@@ -20807,6 +21497,7 @@ vedám
 vedľa
 vedľajšie uhly
 vedľajší
+vedľajší účinok
 vegetarián
 vegetariánka
 vegetariánstvo
@@ -20842,9 +21533,12 @@ ventilovať
 ventilátor
 venušin vlas
 veranda
+verbovať
 verdikt
 verejne
 verejnosť
+verejná mienka
+verejné osvetlenie
 verejné právo
 verejný
 verejný dom
@@ -20878,7 +21572,9 @@ veslami
 veslo
 veslovať
 vesmír
+vesmírna stanica
 vesmírny
+vesna
 vesta
 vestibul
 vestibulový
@@ -20886,6 +21582,9 @@ vestník
 veta
 vetcho
 vetchosť
+vetchá
+vetché
+vetchí
 vetchý
 veterinár
 veterinárstvo
@@ -20933,6 +21632,8 @@ večný
 veď
 veľa
 veľa šťastia
+veľblúd
+veľblúdí
 veľkodušný
 veľkohubosť
 veľkoleposť
@@ -21064,6 +21765,8 @@ vizualizácia
 višňa
 vkladná knižka
 vkročiť
+vkus
+vkusný
 vlaha
 vlahový
 vlajka
@@ -21075,12 +21778,14 @@ vlak
 vlani
 vlas
 vlasatý
+vlasec
 vlasisko
 vlasový
 vlastenec
 vlastenecký
 vlastenectvo
 vlastenka
+vlastizrada
 vlastne
 vlastnenie
 vlastniť
@@ -21104,7 +21809,6 @@ vlhký
 vlhčina
 vliecť
 vliecť sa
-vliv
 vlk
 vlkolak
 vlkovec
@@ -21123,6 +21827,7 @@ vlnárka
 vlnársky
 vlnárstvo
 vložiť
+vložka
 vltavský
 vlys
 vláda
@@ -21181,6 +21886,8 @@ vodka
 vodkový
 vodkyňa
 vodnica
+vodná energia
+vodné delo
 vodné koleso
 vodník
 vodný
@@ -21278,6 +21985,7 @@ vozidlo
 vozisko
 voziť
 voziť drevo do hory
+vozovka
 vozový
 vozovňa
 vozík
@@ -21331,6 +22039,7 @@ vraždiť
 vrch
 vrchnák
 vrchný
+vrchný veliteľ
 vrchol
 vrcholok
 vrcholový uhol
@@ -21376,6 +22085,7 @@ vráska
 vráskavec obrovský
 vráskavieť
 vrásnenie
+vrások
 vrásť
 vráta
 vrátane
@@ -21401,6 +22111,7 @@ vstrekovať
 vstupenka
 vstávať
 vstúpiť
+vsí
 vtačí
 vtedajší
 vtedy
@@ -21474,6 +22185,7 @@ vydedenie
 vydediť
 vydieranie
 vydierač
+vydieračka
 vydieračský
 vydieračský program
 vydieračský softvér
@@ -21523,13 +22235,17 @@ vykefovať
 vykonateľnosť
 vykonateľný
 vykonať
+vykonať rošádu
 vykonávať
 vykopať
 vykoreniť
 vykorisťovanie
 vykoľajiť
 vykoľajovať
+vykradnúť
 vykrádačka
+vykríknuť
+vykôstkovať
 vykúpať
 vykúpenie
 vykĺbiť
@@ -21563,7 +22279,7 @@ vynájsť
 vynález
 vynálezca
 vynásobiť
-vynášať perfective
+vynášať
 vyobraziť
 vypalovať
 vypaľovacia pec
@@ -21590,6 +22306,7 @@ vypršať
 vypustiť
 vypáliť
 vypáčiť
+vypäť
 vypínavý
 vypínať
 vypĺňať
@@ -21614,6 +22331,7 @@ vysať
 vysedieť
 vyselektovaný
 vyselektovať
+vysiakať sa
 vysielanie
 vysielač
 vysielačka
@@ -21622,6 +22340,7 @@ vyskúšať
 vysloviť
 vyslovovať
 vysmievať sa
+vysmrkať sa
 vysoko
 vysokofrekvenčné obchodovanie
 vysokozdvižný vozík
@@ -21632,6 +22351,7 @@ vysoká škola
 vysoké školstvo
 vysoký
 vyspelosť
+vyspelá krajina
 vyspelý
 vystatovačný
 vystatovať sa
@@ -21654,7 +22374,9 @@ vysťahovalkyňa
 vytrvalosť
 vytrvať
 vytvarovať
+vytvorenie
 vytvoriť
+vytýkať
 vytýčiť hranice
 vytĺcť
 využitie
@@ -21677,6 +22399,7 @@ vyznačiť
 vyznať
 vyznať sa
 vyznávanie
+vyznávať
 vyzrážať
 vyzvedač
 vyzvedačka
@@ -21702,7 +22425,10 @@ vyťahovať sa
 vyžadovať si
 vyžarovať
 vyžehliť
+vyžel
 vyžiadať si
+vyžla
+vyžlí
 vyžmýkať
 vz.
 vzadu
@@ -21729,6 +22455,7 @@ vzdušné sily
 vzdušný
 vzdych
 vzdychať
+vzdychnúť
 vzdávať sa
 vzdúvadlo
 vzhľad
@@ -21752,6 +22479,7 @@ vzájomne
 vzájomne pôsobiť
 vzájomný
 vzťah
+vábiť
 václavka
 váha
 váhať
@@ -21777,23 +22505,30 @@ vážiť
 vážiť si
 vážka
 vážne
+vážskodubnický
 vážsky
 vädnúť
 väz
 väzba
 väzenie
+väzenka
+väzenkyňa
 väzenská cela
 väzenský
+väzenstvo
 väzeň
 väzeňkyňa
 väzký
 väznenie
 väznica
+väznicový
+väznička
+väzničný
+väzniť
 väčšina
 väčšinový
 väčší
 vécko
-véna
 víchor
 víchrica
 víchrovníček
@@ -21815,6 +22550,7 @@ vízum
 víťaz
 víťaziť
 víťazka
+víťazný
 víťazský
 víťazstvo
 vótum
@@ -21877,6 +22613,7 @@ výnosne
 výnosnosť
 výnosný
 výpad
+výpek
 výplata
 výplň
 výpomoc
@@ -21898,6 +22635,8 @@ výrobok
 výrok
 výročie
 výročný
+výsadkár
+výsadkárka
 výskum
 výskumne
 výskumník
@@ -21914,15 +22653,19 @@ výstrel
 výstroj
 výtka
 výtlk
+výtok
 výtržnosti
 výtvarné umenie
 výtvarný
+výtvor
 vývar
 vývesný štít
 vývoj
 vývojka
 vývojkový
 vývojnica
+vývoz
+vývozca
 výzbroj
 význam
 významný
@@ -21952,7 +22695,6 @@ včera
 včerajšok
 včerajší
 včielka
-včítane
 vďaka
 vďaka Bohu
 vďakabohu
@@ -21979,6 +22721,7 @@ vŕštek
 všade
 všadeprítomný
 však
+vše-
 všeliek
 všemocný
 všemohúci
@@ -22002,8 +22745,14 @@ vždy
 w
 waleština
 watt
+weblokalita
+webová lokalita
 webová stránka
+webové sídlo
 webový prehliadač
+website
+webstránka
+websídlo
 western
 whiskový
 whisky
@@ -22079,8 +22828,6 @@ zabudni na to
 zabudnutý
 zabudnúť
 zabávať
-zabíjajúci
-zabíjavý
 zabíjať
 zabúdať
 zachmúrene
@@ -22104,7 +22851,6 @@ zadĺžený
 zafarbiť
 zafír
 zagtra
-zahanbenie
 zahltenie
 zahnúť
 zahodiť
@@ -22153,6 +22899,7 @@ zakrúžkovať
 zakázaný
 zakázať
 zalakovať
+založenie
 založiť
 zamat
 zamedziť
@@ -22161,6 +22908,7 @@ zamestnanie
 zamestnankyňa
 zamestnanosť
 zamestnávateľ
+zamestnávateľka
 zametať
 zamieriť
 zamiesť
@@ -22179,6 +22927,7 @@ zamračiť sa
 zamrznutý
 zamykať
 zamávať
+zamýšľať
 zamĺknuť
 zamľaskať
 zanechať
@@ -22192,6 +22941,7 @@ zapamätať
 zapamätať si
 zapaľovacia sviečka
 zapaľovač
+zapaľovať
 zapekaný
 zapečatiť
 zaplatiť
@@ -22295,6 +23045,7 @@ začiatočníčka
 začiatočný
 začierniť
 začkať
+začni
 začínať
 začítať
 zaľahnúť
@@ -22329,7 +23080,8 @@ zbernica
 zbierať
 zbierka
 zbiť
-zblbnúť (colloqial)
+zblbnúť
+zblázniť sa
 zblúdiť
 zbohatlík
 zbohatnúť
@@ -22384,7 +23136,6 @@ zdržovať
 zdvih
 zdvihnúť
 zdvihnúť sa
-zdvihák
 zdvorilosť
 zdvorilý
 zdvíhadlo
@@ -22425,6 +23176,7 @@ zemiakový škrob
 zemiaky
 zemiačik
 zemina
+zemnica
 zemný
 zemný plyn
 zemské jadro
@@ -22502,6 +23254,7 @@ zlatý
 zlatý rez
 zle
 zlej
+zlepiť
 zlepšenie
 zlepšiť
 zlepšiť sa
@@ -22519,7 +23272,6 @@ zlodejstvo
 zloduch
 zlom
 zlomenina
-zlomiť
 zlomiť sa
 zlomok
 zlomyseľný
@@ -22535,11 +23287,13 @@ zlozvyk
 zločin
 zločin proti ľudskosti
 zločinec
-zložený
+zločinecký
+zločinka
+zložená zátvorka
 zložitosť
 zložitý
 zložiť
-zložky
+zložka
 zlučovať
 zlé
 zlému
@@ -22552,6 +23306,7 @@ zmagoriť
 zmapovať
 zmena
 zmeniť
+zmeniť názor
 zmeniť sa
 zmenový
 zmenáreň
@@ -22560,6 +23315,7 @@ zmesový
 zmeškať
 zmeškávať
 zmiasť
+zmierenie
 zmiešavať
 zmiešať
 zmija
@@ -22572,6 +23328,7 @@ zmijou
 zmiju
 zmijí
 zmilovať sa
+zmiznutie
 zmiznúť
 zmluva
 zmluvne
@@ -22601,14 +23358,13 @@ znalosť
 znamenať
 znamenie
 značka
+značkovač
 značný
 znať
-znefunkčniť
 znehodnotiť
 znehybniť
 znehybňovať
 znemožniť
-znenazdania
 znevažovať
 znevažujúci
 znevážiť
@@ -22676,6 +23432,7 @@ zopár
 zornica
 zornička
 zoroastrizmus
+zosilňovač
 zosmiešniť
 zosmiešňovať
 zosnulý
@@ -22695,6 +23452,7 @@ zovrieť
 zoznam
 zoznamový
 zoči-voči
+zošalieť
 zošit
 zošívačka
 zoženštenosť
@@ -22735,6 +23493,7 @@ zrnkový
 zrno
 zrnový
 zrod
+zrozumiteľný
 zrub
 zruinovať
 zručnosť
@@ -22811,6 +23570,7 @@ zvlnený
 zvládnuť
 zvláštny
 zvolanie
+zvolať
 zvolenský
 zvolený
 zvon
@@ -22841,6 +23601,7 @@ zvyškový
 zvyšky
 zvyšný
 zvyšok
+zvádzanie
 zvárač
 zvážiť
 zvädnúť
@@ -22849,6 +23610,7 @@ zväzok
 zväzový
 zväčšovacie sklo
 zvíťaziť
+zvýrazňovač
 zvýšiť
 zwazek
 zábava
@@ -22927,7 +23689,11 @@ západ
 západka
 západne
 západné Nemecko
+západnícky
+západníctvo
+západník
 západný
+západonemecký
 západoslovanský
 západový
 zápal
@@ -22961,16 +23727,15 @@ zásaditosť
 zásaditý
 zásah
 zásielka
-zásmažka
 zásoba
 zástava
+záster
 zástera
 zástrčka
 zástupca
 zástupkyňa
 zástupný
 zásuvka
-zátka
 zátvorka
 zátylok
 záujem
@@ -22992,6 +23757,7 @@ závojenka
 závora
 závrat
 záväzný
+záväzok
 záznam
 záznamník
 zázrak
@@ -23041,11 +23807,13 @@ zženštilý
 Íris
 Írka
 Írske more
+Írske ragby
 Írsko
 Ó
 Ô
 Öresund
 Ú
+Údolie Cagayan
 Ý
 á
 ábelovský
@@ -23074,6 +23842,7 @@ zženštilý
 írsky seter
 írsky vlkodav
 írčina
+ískať
 ísť
 ísť autostopom
 ísť krokom
@@ -23128,6 +23897,8 @@ zženštilý
 únik
 úniková rýchlosť
 únos
+únosca
+únoskyňa
 úpadok
 úpal
 úplatkárstvo
@@ -23146,7 +23917,9 @@ zženštilý
 úradne
 úradnosť
 úradník
+úradníčka
 úradný
+úradný šimeľ
 úradujúci
 úradík
 úraz
@@ -23154,6 +23927,8 @@ zženštilý
 úrok
 úroveň
 úsilie
+úskalie
+úskalina
 úskok
 úsmev
 úspech
@@ -23169,6 +23944,7 @@ zženštilý
 ústny
 ústný
 ústredný
+ústrk
 ústup
 úsvit
 útecha
@@ -23225,7 +24001,9 @@ zženštilý
 úžas
 úžasný
 úžera
+úžerníctvo
 úžerník
+úžerníčka
 úžina
 úžitkovosť
 úžitkový
@@ -23235,6 +24013,7 @@ zženštilý
 ý
 Č
 Č.B.T.D.
+ČJK
 ČR
 ČSAV
 ČSSR
@@ -23263,15 +24042,18 @@ zženštilý
 Černobyľ
 Černovice
 Černovická oblasť
+Červená armáda
 Červená karkulka
 Červené more
 Červené námestie
+Červení Kméri
 Červený kríž
 Červený polmesiac
 Česi
 Česko
 Česko-Slovensko
 Československo
+Československá socialistická republika
 Česká republika
 České Budějovice
 Čečen
@@ -23333,6 +24115,7 @@ zženštilý
 čajka čiernozobá
 čajka žltonohá
 čajník
+čajok
 čajová kanvica
 čajový
 čajový obrad
@@ -23396,8 +24179,14 @@ zženštilý
 čau
 čauko
 čaša
+čašami
+čaše
+čaši
 čašník
 čašníčka
+čašou
+čašu
+čaší
 čechizmus
 čechratka
 čechračka
@@ -23436,12 +24225,14 @@ zženštilý
 černuška
 černuška siata
 čerokýz
+čerpacia stanica
 čerpadlo
 čerstvý vzduch
 čert
 červ
 červenať sa
 červenoarmejec
+červenoarmejka
 červená
 červená repa
 červená čiara
@@ -23465,6 +24256,7 @@ zženštilý
 česť
 čečenský
 čečenčina
+čečerietka
 čeľaď
 čeľusť
 čeština
@@ -23480,6 +24272,7 @@ zženštilý
 čiastkový
 čiastočka
 čiastočný
+čiaš
 čiaška
 čielko
 čierna
@@ -23492,11 +24285,13 @@ zženštilý
 čierne korenie
 čierni
 čierno
+čiernobiely
 čiernohorský
 čiernomorský
 čiernozem
 čierny
 čierny kmín
+čierny kôň
 čihí
 čin
 činiteľ
@@ -23521,6 +24316,11 @@ zženštilý
 čitateľ
 čitateľka
 čivava
+čičerietka
+čičoriatka
+čičorietka
+čičuriatka
+čičurátka
 čiže
 čižma
 čižmička
@@ -23593,6 +24393,7 @@ zženštilý
 čriedka
 čriedočka
 čriepok
+čriev
 črievce
 črievko
 črta
@@ -23609,6 +24410,7 @@ zženštilý
 čuchať
 čuchový
 čuchu
+čucorietka
 čud
 čudne
 čudno
@@ -23620,11 +24422,13 @@ zženštilý
 čujný
 čukotčina
 čumieť
-čurák
 čutora
 čuvašský
+čučoriadka
 čučoriedka
 čučoriedkový
+čučuriatka
+čučurietka
 čušať
 čuť
 čvíkota
@@ -23649,7 +24453,9 @@ zženštilý
 číslovka
 číslovky
 čítanie
+čítač
 čítať
+čítať medzi riadkami
 číž
 čížavý
 čížica
@@ -23683,7 +24489,19 @@ zženštilý
 ďalekopis
 ďalekozrakosť
 ďaleký
+ďalšej
+ďalšia
+ďalšie
+ďalšieho
+ďalšiemu
+ďalšiu
+ďalšom
+ďalšou
 ďalší
+ďalší predaj
+ďalších
+ďalším
+ďalšími
 ďasien
 ďasienko
 ďasna
@@ -23767,6 +24585,7 @@ zženštilý
 ľadovec
 ľadovo
 ľadová doba
+ľadová triešť
 ľadový
 ľadový medveď
 ľadu
@@ -23821,6 +24640,7 @@ zženštilý
 ľudová etymológia
 ľudová reč
 ľudová strana
+ľudové liečiteľstvo
 ľudový
 ľudožrút
 ľudožrútstvo
@@ -23830,6 +24650,7 @@ zženštilý
 ľudský
 ľudský štít
 ľudstvo
+ľuft
 ľutovať
 ľuľkovec zlomocný
 ľuľok
@@ -23844,7 +24665,6 @@ zženštilý
 ľаvý
 Ň
 ň
-ňadro
 ňom
 ňou
 ňu
@@ -23853,6 +24673,7 @@ zženštilý
 ŕ
 řemdih
 Š
+Šalamúnove ostrovy
 Šanghaj
 Šebek
 Šeremetievo
@@ -23918,6 +24739,7 @@ zženštilý
 šafrán
 šakal
 šakalí
+šalieť
 šalupa
 šalvia
 šalát
@@ -23936,7 +24758,6 @@ zženštilý
 šarkan
 šarvátka
 šaría
-šat
 šatka
 šatkový
 šatky
@@ -23976,6 +24797,7 @@ zženštilý
 šesťdesiatšesť
 šesťdesiatštyri
 šesťsto
+šesťstý
 šesťuholník
 šesťuholníkový
 šetrný
@@ -24089,6 +24911,7 @@ zženštilý
 škrupinka
 škrupinový
 škuner
+škuľavý
 škvrna
 škvrnka
 škvrnový
@@ -24103,6 +24926,7 @@ zženštilý
 škáročka
 škót
 škótsky
+škótčina
 škótština
 škôl
 škôlka
@@ -24161,7 +24985,6 @@ zženštilý
 špekulatívny
 špekulačne
 špekulačný
-špekulovať
 špekulácia
 špenát
 špenátový
@@ -24178,13 +25001,13 @@ zženštilý
 špinavé peniaze
 špinavý
 špiniť
+špionáž
 špionážny softvér
 špirála
 špión
 špiónka
 špička
 šplh
-šplhanie
 šport
 športovec
 športovkyňa
@@ -24202,7 +25025,6 @@ zženštilý
 šrapnel
 šraub
 šrauba
-šraubovák
 šrot
 šrób
 štadión
@@ -24272,6 +25094,7 @@ zženštilý
 štvornohý
 štvoro
 štvorstranný
+štvorstý
 štvortaktný spaľovací motor
 štvoruholník
 štvrtok
@@ -24304,6 +25127,7 @@ zženštilý
 štátik
 štátna hymna
 štátne cirkevníctvo
+štátnik
 štátnosť
 štátny
 štátny prevrat
@@ -24329,13 +25153,18 @@ zženštilý
 šumivé víno
 šumný
 šunka
-šunka s vajcom
 šupa
+šupina
+šupinavec
+šupinovec
+šupka
 šuplík
 šuster
 šuška
 šuškovité teliesko
 šušlať
+šušle
+šušli
 šva
 švagor
 švagorko
@@ -24356,6 +25185,8 @@ zženštilý
 šéf
 šéfka
 šéfkuchár
+šéfredaktor
+šéfredaktorka
 šíp
 šípa
 šípe
@@ -24373,6 +25204,7 @@ zženštilý
 šógunský
 šúchanie
 šči
+ščučí
 šľacha
 šľachetný
 šľachta
@@ -24382,6 +25214,7 @@ zženštilý
 šľachtictvo
 šľachtičná
 šľahačka
+šľahúň
 šľapa
 šľapky
 šňupať
@@ -24397,6 +25230,7 @@ zženštilý
 šťastný koniec
 šťav
 šťava
+šťava z mäsa
 šťavel
 šťaveľ
 šťaveľan
@@ -24404,8 +25238,10 @@ zženštilý
 šťať
 šťuka
 šťuke
+šťukový
 šťuku
 šťuky
+šťučka
 šťučí
 šťúk
 šťúr
@@ -24425,6 +25261,13 @@ zženštilý
 ťarchavosť
 ťarchavý
 ťava
+ťavami
+ťave
+ťavou
+ťavu
+ťavy
+ťavách
+ťavám
 ťaví
 ťať
 ťaženie
@@ -24434,6 +25277,7 @@ zženštilý
 ťažkotonážny
 ťažký
 ťažítko
+Żory
 Żywiec
 Ž
 Žalmy
@@ -24569,10 +25413,13 @@ zženštilý
 žgrloška
 žgrlošský
 žgrlošstvo
+ži
 žiab
 žiabre
 žiacky
 žiactvo
+žiadateľ o azyl
+žiadateľka o azyl
 žiadať
 žiaden
 žiadny
@@ -24592,6 +25439,7 @@ zženštilý
 žiaľ
 žid
 židmi
+židoboľševizmus
 židoch
 židom
 židov
@@ -24605,6 +25453,7 @@ zženštilý
 žihľava
 žihľavka
 žihľavový
+žijú
 žijúce skameneniny
 žijúci
 žila
@@ -24619,9 +25468,11 @@ zženštilý
 žilu
 žily
 žilôčka
+žime
 žinčica
 žirafa
 žirafí
+žite
 žito
 živec
 živelná pohroma
@@ -24649,6 +25500,8 @@ zženštilý
 živý plot
 žičiť
 žiť
+žiť a nechať žiť
+žliaz
 žlna
 žlna zelená
 žlní
@@ -24667,6 +25520,7 @@ zženštilý
 žlčový
 žlčový kameň
 žlť
+žmeň
 žmurknutie
 žmýkačka
 žmýkať
@@ -24708,7 +25562,6 @@ zženštilý
 žurnalistický
 žurnalistika
 žurnalistka
-žurnalizmus
 žurnál
 žurnálny
 žurnálový
@@ -24726,6 +25579,6 @@ zženštilý
 žľaza
 žŕdka
 žŕdkový
-Ǧreǧor
+Ǧreǧor (19th century)
 ◌́
 ◌̌

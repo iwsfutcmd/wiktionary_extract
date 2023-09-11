@@ -25,7 +25,7 @@
 1@InsideNeckhigh-FingerUpPalmBack CirclesHoriz
 1@InsideTrunkhigh-FingerDown-1@InsideTrunkhigh-FingerDown SmallSidetoside
 1@Jaw 1@Chin
-1@Left1Chesthigh-FingerForward 1@Left2Chesthigh-FingerForward ()
+1@Left1Chesthigh-FingerForward 1@Left2Chesthigh-FingerForward
 1@Left1Chesthigh-FingerForward 1@Right1Chesthigh-FingerForward
 1@Lip-PalmBack 1@NearRadialHand-O@CenterChesthigh-PalmDown
 1@Mouth-OpenB@CenterChesthigh-PalmUp RoundMidline 1@BasePalm-OpenB@CenterChesthigh-PalmUp RoundMidline 1@TipPalm-OpenB@CenterChesthigh-PalmUp
@@ -52,12 +52,13 @@
 1@RadialFinger-PalmDown-1@CenterChesthigh-PalmDown
 1@RadialHand-FingerForwardAcross-1@CenterChesthigh-FingerForwardAcross
 1@RadialHand-PalmDown-1@CenterChesthigh-PalmDown
-1@Right1Chesthigh-FingerForward 1@Right2Chesthigh-FingerForward ()
+1@Right1Chesthigh-FingerForward 1@Right2Chesthigh-FingerForward
 1@Sfhead-PalmDown 1@NearRadialHand-PalmDown-1@InsideChesthigh-PalmDown
 1@Sfhead-PalmDown 1@RadialHand-PalmDown-1@CenterChesthigh-PalmDown
 1@Sfhead-PalmDown 1@TipFinger-FingerAcross-1@CenterChesthigh-FingerAcross 1@FromTipFinger-1@InsideChesthigh
 1@Sfhead-PalmDown A@Palm-PalmDown-A@CenterChesthigh-PalmUp
 1@Sfhead-PalmDown Claw5@InsideChesthigh-PalmDown-Claw5@InsideTrunkhigh-PalmUp RoundHoriz-RoundHoriz
+1@Side-PalmBack
 1@Side-PalmDown
 1@Side-PalmDownFingerForward SmallHoriz SmallOblique SmallHoriz
 1@Side-PalmForward
@@ -73,6 +74,7 @@
 1^o-f@IpsiChest-FingerBack RoundHoriz 1^o-f@Chest-FingerBack
 1^o-f@IpsiChest-FingerBack RoundHoriz 1^o-f@ContraChest-FingerBack
 1^o-f@Sternum-FingerBack
+25px
 2@Chin-FingerUp RoundMidline 2@FromChin-FingerUp
 2@SideSternumhigh-PalmUp CirclesHoriz
 3@Backhead-PalmDown OpenH@Backhead-PalmDown 3@Backhead-PalmDown OpenH@Backhead-PalmDown
@@ -449,6 +451,7 @@ O@Inside O@Side
 O@Side
 O@Side Sidetoside
 O@Side-PalmAcross K@Side-PalmAcross
+O@Side-PalmForward K@Side-PalmForward
 Open8@Abdomen Contact Contact Contact
 Open8@BackHand-PalmDown Contact
 Open8@BackHand-PalmDown-FlatB@CenterChesthigh-PalmDown Open8@NearBackHand-PalmDown
@@ -594,7 +597,7 @@ The hand may be in various handshapes
 The hand may be lower
 The hand may begin in the shape and then close to the A
 The hand may make the A shape instead of the S shape
-The hands may be not directly above and below each other
+The hands may be not directly one above the other
 The hands may be on the top of the head
 The hands may move forward instead of
 The index finger may temporarily retract into an X shape as it moves down
@@ -672,7 +675,6 @@ Y@Palm-PalmDown-FlatB@CenterChesthigh-PalmUp Sidetoside
 Y@Palm-PalmDown-OpenB@CenterChesthigh-PalmUp Sidetoside
 Y@Side Twist
 Y@Side-PalmForward Nod Y@Side-PalmDown
-^
 a specific manner
 and 
 and a very small headshake

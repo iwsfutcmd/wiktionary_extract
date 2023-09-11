@@ -1,10 +1,13 @@
+" | Dysnomia
 'Rwy'n dy garu di
 'cau
 'ch
 'chi
 'co
 'da
+'da'ch gilydd
 'da'i gilydd
+'da'n gilydd
 'dag
 'dda
 'ddchi
@@ -18,7 +21,6 @@
 'n
 'na
 'nawr
-'nunlle
 'ny
 'r
 'sdim
@@ -31,9 +33,9 @@
 (dail) te
 (i) oedolion
 (intestinal) llyngyren
+(noncountable) addasu genetig
 (preconsonantal) a
 (prevocalic) ac
-* Ail Ryfel Byd
 ,
 -a
 -ach
@@ -53,6 +55,9 @@
 -ais
 -aist
 -an
+-anaeth
+-aniaeth
+-aniaethau
 -annau
 -ant
 -ar
@@ -129,6 +134,7 @@
 -iaeth
 -iaethau
 -iaid
+-iaidd
 -ian
 -iannau
 -iant
@@ -196,6 +202,7 @@
 -us
 -w
 -wch
+-wedd
 -wn
 -wr
 -wragedd
@@ -284,6 +291,7 @@ Aberaeron
 Aberafan
 Aberdaugleddau
 Aberdâr
+Abergele
 Abergwaun
 Aberhonddu
 Aberllynfi
@@ -329,29 +337,28 @@ Alban Eilir
 Alban Elfed
 Alban Hefin
 Alban Hyfed
-Albanaeg ()
+Albanaeg
 Albanaidd
 Albaneg
 Albania
-Albaniaidd ()
+Albaniaidd
 Alec
 Alffred
 Algeria
 Allah
 Almaen
 Almaenaidd
-Almaenaidd ()
 Almaeneg
 Almaeneiddio
 Almaenes
 Almaenig
 Almaenwr
-Almaenwr ()
 Alsaseg
 Alsás
 Alun
 Alys
 Alys yng Ngwlad Hud
+Aman
 America
 America Ladin
 Americanaidd
@@ -371,6 +378,9 @@ Angau
 Angharad
 Anglo-Gatholig
 Ankara
+Annwfn
+Annwn
+Antarctica
 Antarctig
 Antigwa
 Antigwa a Barbiwda
@@ -392,6 +402,7 @@ Ardal 51
 Ardal Camlas Panama
 Ardal y Gamlas
 Ardal y Llynnoedd
+Arfordir Treftadaeth
 Arglwydd
 Arglwydd Faer
 Arglwydd Ganghellor
@@ -406,8 +417,7 @@ Armagedon
 Armeneg
 Armenia
 Armeniaeg
-Armeniaeg ()
-Armeniaidd ()
+Armeniaidd
 Armenieg
 Arminiaeth
 Arth Fach
@@ -417,6 +427,7 @@ Arthwys
 Arwel
 Aserbaijan
 Asia
+Asiad
 Asoka
 Athen
 Atlantis
@@ -500,17 +511,20 @@ Bhwtanaidd
 Bhwtaniad
 Birkinhead
 Birmingham
+Bishkek
 Blaenau Ffestiniog
 Blaenau Gwent
 Blaidd Mawr Drwg
 Blorens
 Blwyddyn Newydd Dda
 Bob
+Bod Mawr
 Bodensee
 Bolifia
 Bonaventure
 Boneddiges
 Bonesig
+Bordeax
 Bordo
 Bortiwgal
 Bortiwgaleg
@@ -526,11 +540,13 @@ Brenin Arthur
 Brenin Lloegr
 Brest
 Brexit
+Briwtaliaeth
 Bro Morgannwg
 Bronwen
 Brwsel
 Brwydr Prydain
 Brydain
+Brynaman
 Brynbuga
 Brynmawr
 Bryste
@@ -539,6 +555,7 @@ Brythonaidd
 Brythoneg
 Brythoniaid
 Brythonig
+Buddug
 Burgas
 Bwa'r Gwynt
 Bwdhaeth
@@ -551,6 +568,7 @@ Bwllheli
 Bwni'r Pasg
 Bwrdeistref Sirol Conwy
 Bwrdiaws
+Bwrdios
 Bwrgwyn
 Bwrwndi
 Byblos
@@ -564,6 +582,7 @@ CBAC
 CD
 CH
 CMC
+COVID hir
 COVID-19
 Cabo Verde
 Cadair Idris
@@ -625,6 +644,8 @@ Canolbarth Lloegr
 Canoldir
 Canolfan Masnach y Byd
 Canu Penillion
+Capel Bangor
+Capel Curig
 Carew
 Carlo
 Carolingaidd
@@ -635,7 +656,6 @@ Carys
 Cas-gwent
 Casachstan
 Casacstan
-Casgliad
 Casllwchwr
 Casnewydd
 Castell-nedd
@@ -661,6 +681,7 @@ Cerdd Dant
 Ceredigion
 Ceres
 Cerflun Rhyddid
+Ceri
 Cernyw
 Cernywaidd
 Cernyweg
@@ -683,8 +704,9 @@ Chanada
 Chanadaidd
 Chanadiad
 Chanadiaid
-CharonStyxNixKerberosHydra
+Charon | style="width: 7.1%
 Chastell-nedd
+Cheri
 Chiwba
 Chmeraidd
 Chmereg
@@ -692,6 +714,7 @@ Cholombia
 Chorea
 Christ
 Chroatia
+Chrushtsief
 Chwefrol
 Chwefror
 Chwyldro Gogoneddus
@@ -709,6 +732,7 @@ Ciwbaidd
 Ciwpid
 Clawdd Offa
 Clefyd y Gwartheg Gwallgof
+Clydach
 Coca-Cola
 Cod Penyd
 Coety
@@ -728,6 +752,7 @@ Corn Euraidd
 Corseg
 Corsica
 Corëeg
+Cosac
 Cosofo
 Crai Khabarovsk
 Credo Nicea
@@ -766,9 +791,12 @@ Cwleneg
 Cwlên
 Cwm Ebwy
 Cwm yr haul
+Cwmaman
 Cwmbwrla
 Cwmgwrach
 Cwpan y Byd
+Cyffes Augsburg
+Cyffes Felgaidd
 Cyfreithiwr Cyffredinol Lloegr a Chymru
 Cyfreithiwr Cyffredinol yr Unol Daleithiau
 Cyfundrefn Masnach y Byd
@@ -785,7 +813,6 @@ Cymraeg ei iaith
 Cymraes
 Cymraesau
 Cymreig
-Cymreig ()
 Cymreigio
 Cymro
 Cymru
@@ -806,6 +833,7 @@ Cân Mair Forwyn
 Cân y Forwyn Fair
 Côr y Cewri
 D
+DNA
 Dachwedd
 Daeargi Sealyham
 Dafydd
@@ -845,7 +873,10 @@ Den Haag
 Denmarc
 Deuteronomium
 Dewi
+Dewi Sant
 Dewydd
+Deyrnas Unedig
+Dh
 Diafol
 Difiau Dyrchafael
 Dinas y Fatican
@@ -857,6 +888,7 @@ Diwrnod Dryw
 Diwygiad
 Diwygiad Protestannaidd
 Dofr
+Dolwyddelan
 Don Quixote
 Donaw
 Donwy
@@ -865,12 +897,14 @@ Droedfawr
 Dudno
 Dulyn
 Duw
+Duw Dad
 Duw a fenditho di
 Duw a wyr
 Dw i'n dy garu
 Dwfalw
 Dwrci
 Dwyrain Anglia
+Dwyrain Asia
 Dwyrain Canol
 Dwyrain Canolbarth Lloegr
 Dwyrain Ewrop
@@ -883,6 +917,7 @@ Dydd Mawrth Ynyd
 Dydd San Steffan
 Dydd y Cymod
 Dydd y Ddaear
+Dydd y Farn
 Dyffryn y Brenhinoedd
 Dyfi
 Dyfnaint
@@ -898,6 +933,8 @@ Ebrill
 Ecsodus
 Ecwador
 Edmonton
+Edward Gyffeswr
+Edwardaidd
 Efa
 Effesiaid
 Effesus
@@ -942,15 +979,18 @@ Emrys
 Emyr
 Enid
 Enseffalopathi Sbyngffurf Buchol
+Eris
 Eryri
 Eseciel
 Eseia
+Esgairgeiliog
 Esra
 Esther
 Estonaidd
 Estoneg
 Estonia
 Estoniad
+Estyn
 Eswatini
 Esyllt
 Eurwen
@@ -968,6 +1008,7 @@ Fadagasgar
 Fair
 Fanceinion
 Fangor
+Fannau Brycheiniog
 Farbados
 Fawrth
 Fecsico
@@ -989,6 +1030,8 @@ Fferyll
 Ffiji
 Ffilip
 Ffindir
+Ffiniad
+Ffinnaidd
 Ffinneg
 Fflandrys
 Fflorens
@@ -1015,7 +1058,6 @@ Ffrangeg
 Ffransis
 Ffrengaidd
 Ffrengig
-Ffrengig ()
 Ffriseg
 Ffrisieg
 Ffriŵlaidd
@@ -1027,7 +1069,6 @@ Fhwtan
 Fienna
 Fietnam
 Fietnamaidd
-Fietnamaidd ()
 Fietnameg
 Firmingham
 Fluellen
@@ -1040,6 +1081,7 @@ Frwdwr
 Fwlgaria
 Fwrwndi
 G
+GIG
 GSR
 Gael
 Gaeleg yr Alban
@@ -1075,7 +1117,11 @@ Genova
 Gent
 Georgeg
 Gerallt
+Geri
+Germanaidd
 Gethin
+Gh
+Gildas
 Gini
 Gini Gyhydeddol
 Giwba
@@ -1127,16 +1173,19 @@ Greal sanctaidd
 Grist
 Groatia
 Groeg
+Groeg Bysantaidd
 Groeg-Rufeinig
 Groegaidd
 Groegaidd-Rufeinig
 Groegair
 Groegeb
+Groegwr
 Gruffudd
 Gruffydd
 Guernsey
 Gwalia
 Gwasanaeth Cynghori a Chynorthwyo Llys i Blant a Theuluoedd
+Gwasanaeth Iechyd Gwladol
 Gwasanaeth Llys
 Gwasanaeth Llysoedd a Thribiwnlysoedd
 Gwe Fyd-Eang
@@ -1147,6 +1196,7 @@ Gwen
 Gwendolen
 Gweneira
 Gwener
+Gwener y Groglith
 Gwenfrewi
 Gwenhwyfar
 Gwenllian
@@ -1186,6 +1236,7 @@ Gweriniaeth Hwngari
 Gweriniaeth Irac
 Gweriniaeth Islamaidd Affganistan
 Gweriniaeth Islamaidd Afghanistan
+Gweriniaeth Islamaidd Iran
 Gweriniaeth Iwerddon
 Gweriniaeth Latfia
 Gweriniaeth Libanus
@@ -1227,6 +1278,7 @@ Gwlad y Tai
 Gwlad y Thai
 Gwlad yr Addewid
 Gwlad yr Haf
+Gwlad yr Iorddonen
 Gwlad yr Iâ
 Gwladwriaeth Islamaidd
 Gwladwriaeth Israel
@@ -1240,6 +1292,7 @@ Gwlff Riga
 Gwlff y Ffindir
 Gwregys Llaethol
 Gwrthdystiad Mawr
+Gwrtheyrn
 Gwy
 Gwyddel
 Gwyddeleg
@@ -1292,6 +1345,7 @@ Hamerica
 Hamwythig
 Hangharad
 Hanseatig
+Harglwydd
 Harri
 Haserbaijan
 Haul
@@ -1310,6 +1364,7 @@ Hen Galan
 Hen Ladin
 Hen Roeg
 Hen Slafoneg Eglwysig
+Hen Wlad Fy Nhadau
 Hen Wyddeleg
 Hendy-gwyn
 Henffordd
@@ -1326,6 +1381,7 @@ Hindŵaidd
 Holocost
 Homan
 Hondwras
+Hong Cong
 Hong Kong
 Hosea
 House
@@ -1336,6 +1392,8 @@ Huwcyn
 Hwngaraidd
 Hwngareg
 Hwngari
+Hwngaria
+Hwngariad
 Hwsâr
 Hydra
 Hydref
@@ -1364,6 +1422,7 @@ Iesu Grist
 Iesu gwyn
 Ieuan
 Ifan
+Ifan y Glaw
 Ifor
 India
 Indiad
@@ -1379,12 +1438,14 @@ Ionawr
 Iorwerth
 Iou
 Irac
+Iran
 Iranaidd
 Irawadi
 Isel Almaeneg
 Iseldiraidd
 Iseldireg
 Iseldiroedd
+Iseldirol
 Iseldirwr
 Iseldirwraig
 Islam
@@ -1405,6 +1466,9 @@ Iwganda
 Iwgoslafaidd
 Iwgoslafia
 Iwranws
+Iâl
+Iôn
+Iôr
 J
 JCB
 Jac
@@ -1432,9 +1496,11 @@ Joseff o Arimathea
 Josua
 Jwdas
 Karnataka
+Kazan’
 Khartoum
 Krasnoyarsk
 Kremlin
+Kyiv
 L
 LHDT
 Labovaidd
@@ -1449,9 +1515,11 @@ Lawnslot
 Lawrasia
 Lazio
 Lefiticus
+Leningrad
 Leo
 Lerpwl
 Libanus
+Lisbon
 Lithwanaidd
 Lithwaneg
 Lithwania
@@ -1465,6 +1533,7 @@ Lladineb
 Llafur
 Llain Gaza
 Llanandras
+Llanarmon-yn-Iâl
 Llandecwyn
 Llandudno
 Llanelli
@@ -1475,6 +1544,7 @@ Llanfairpwllgwyngyll
 Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
 Llanfihangel-ar-Arth
 Llangollen
+Llanllieni
 Llansamlet
 Llanymddyfri
 Llethaw
@@ -1497,6 +1567,7 @@ Llwydlo
 Llychlyn
 Llychlynnaidd
 Llychlynnwr
+Llychlynwr
 Llychlynwyr
 Llydaw
 Llydaweg
@@ -1526,11 +1597,12 @@ Llyn Superior
 Llyn Tanganyika
 Llyn Tegid
 Llyn Victoria
+Llynges Frenhinol
 Llynnoedd Mawr
 Llys Anfonogion
 Llys Bach
 Llys Barn Rhyngwladol
-Llys Chwarter ()
+Llys Chwarter
 Llys Crwner
 Llys Cyfiawnder Ewrop
 Llys Cyfiawnder Rhyngwladol
@@ -1570,14 +1642,21 @@ Luc
 Lundain
 Lwcsembwrg
 Lychlyn
+Lychlynnwr
+Lychlynwyr
 Lydaw
 Lydaweg
 Lyon
 M
+Mab
+Mab Duw
+Mab Dyn
 Mab Mair
+Machynlleth
 Macsen
 Madagasgar
 Madog
+Madrid
 Madyn
 Maelgwn
 Maer y Llys
@@ -1595,12 +1674,15 @@ Mair Wyry
 Malachi
 Maleisaidd
 Malteg
+Mam
+Mam Duw
 Manawaidd
 Manaweg
 Manceinion
 Manceinion Fwyaf
 Mandarin
 Mangor
+Mannau Brycheiniog
 Marbados
 Marc
 Marchog y Deml
@@ -1674,6 +1756,7 @@ Mithräydd
 Moldafaidd
 Moldofa
 Molifia
+Mongoleg
 Monoffysiad
 Monotheliad
 Morafaidd
@@ -1687,6 +1770,7 @@ Mormoniaid
 Morocaidd
 Moroco
 Morus
+Morus y Gwynt
 Mosambic
 Moscfa
 Moscow
@@ -1721,6 +1805,7 @@ Mynydd yr Olewydd
 Myrddin
 Mysenead
 Myseneaidd
+Môn Mam Cymru
 Môr Adria
 Môr Aegeaidd
 Môr Andaman
@@ -1760,11 +1845,14 @@ Môr y Caribî
 Môr y De
 Môr y Gogledd
 N
+NATO
 Nadolig
 Nadolig Llawen
 Nadolig llawen a blwyddyn newydd dda!
+Naf
 Nahum
 Namibia
+Nansi
 Narnia
 Natsi
 Natsïaeth
@@ -1798,6 +1886,7 @@ Nghanada
 Nghanadiad
 Nghanadiaid
 Nghastell-nedd
+Ngheri
 Nghiwba
 Ngholombia
 Nghorea
@@ -1823,6 +1912,7 @@ Ngâl
 Ngŵyr
 Nhachwedd
 Nhasmania
+Nheyrnas Unedig
 Nhiwnisia
 Nhroedfawr
 Nhwrci
@@ -1842,16 +1932,20 @@ Nova Scotia
 Novorossiysk
 Nulyn
 Numeri
+Nêr
 Nîl
 O
 Obadeia
+Oceania
 Ocitan
 Ocsitaneg
 Ocsitania
 Oed Grist
 Oed Iesu
 Oen Duw
+Oes y Cerrig
 Oes yr Efydd
+Oes yr Haearn
 Oes yr Iâ
 Ogledd Corea
 Ogwr
@@ -1859,6 +1953,7 @@ Olympaidd
 Olympiad
 Olympiaidd
 Oman
+Ops
 Orffennaf
 Osian
 Ouagadougou
@@ -1893,9 +1988,11 @@ Pegwn y Gogledd
 Pen y Fan
 Pen-y-bont ar Ogwr
 Penbedw
+Pencampwriaeth y Chwe Gwlad
 Penfro
 Pengryniad
 Penrhyn Iberia
+Penrhyn yr Eidal
 Pentecost
 Peris
 Periw
@@ -1922,13 +2019,16 @@ Phwllheli
 Phylip
 Picti
 Piemonteg
+Plaid Werdd
 Plwton
 Poli
 Pontarddulais
+Pontypridd
 Port Talbot
 Porth Tywyn
 Portiwgal
 Portiwgaleg
+Portuguese saudade
 Portwgal
 Post Brenhinol
 Potter
@@ -1937,12 +2037,6 @@ Prag
 Pregethwr
 Presbyteriaeth
 Prestatyn
-Previous: dydd Gwener. Next: dydd Sul
-Previous: dydd Iau. Next: dydd Sadwrn
-Previous: dydd Llun. Next: dydd Mercher
-Previous: dydd Mawrth. Next: dydd Iau
-Previous: dydd Mercher. Next: dydd Gwener
-Previous: dydd Sadwrn. Next: dydd Llun
 Previous: dydd Sul. Next: dydd Mawrth
 Previous: nos Fawrth. Next: nos Iau
 Previous: nos Fercher. Next: nos Wener
@@ -1958,6 +2052,7 @@ Prif Weinidog yr Alban
 Prifwyl
 Prifysgol Rhydychen
 Profens
+Promethëws
 Protestaneiddio
 Protestaniaeth
 Protestaniaid
@@ -1969,8 +2064,8 @@ Prydain
 Prydain Fawr
 Prydeinig
 Prydeiniwr
-Prydeiniwr ()
 Prys
+Prâg
 Puebla
 Pwllheli
 Pwylaidd
@@ -1978,12 +2073,14 @@ Pwyleg
 Pwyles
 Pwyliad
 Pythagoras
+Pêl-droed Wyddelig
 Queensland
 R
 Ragfyr
 Rh
 Rhaeadr Niagara
 Rhagfyr
+Rheilffordd Danddaearol Llundain
 Rhein
 Rheinaidd
 Rheindir
@@ -2004,6 +2101,7 @@ Rhufeiniwr
 Rhufeinol
 Rhufeinwyr
 Rhun
+Rhydaman
 Rhydychen
 Rhyfel Annibyniaeth America
 Rhyfel Byd Cyntaf
@@ -2015,6 +2113,7 @@ Rhyfel Oer
 Rhyfel y Boer
 Rhyfel y Crimea
 Rhyfel y Degwm
+Rhyfel y Gwlff
 Rhyfel y Marchogion
 Rhyfel y Werin
 Rhyfel yr Esgobion
@@ -2022,6 +2121,7 @@ Rhyfeloedd y Rhosynnod
 Rhys
 Rhôl Llys y Brenin
 Robat
+Roblox
 Roeg
 Románsh
 Rufain
@@ -2050,6 +2150,7 @@ Saesneg
 Saesneg Prydain
 Saesnes
 Saeson
+Safle Treftadaeth y Byd
 Sais
 Saith Seren
 Salfadoraidd
@@ -2151,6 +2252,7 @@ Siôn lygad y geiniog
 Siôr
 Siôrs
 Slaf
+Slafaidd
 Slofacaidd
 Slofaceg
 Slofacia
@@ -2174,6 +2276,7 @@ Steffani
 Stockholm
 Sul
 Sulgwyn
+Sw Mynydd Cymru
 Swdan
 Swedaidd
 Swedeg
@@ -2185,6 +2288,7 @@ Swisrôl
 Swistir
 Swistirol
 Swistirwr
+Swistirwraig
 Swltaniaeth Oman
 Swper Olaf
 Swrinam
@@ -2202,18 +2306,21 @@ T
 TG
 TGAU
 Tachwedd
+Tad
 Taf
 Tafwys
 Taganrog
 Tai
 Taipei
 Taipei Tsieineaidd
+Taiwan
 Talaith Efrog Newydd
 Taleithiau Cydffederal America
 Taleithiau Unedig Mecsico
 Taleithiau'r Babaeth
 Taliesin: Personal name +: shining forehead
 Tallinn
+Talmud Babilonaidd
 Tango
 Tanzania
 Taoaeth
@@ -2256,11 +2363,17 @@ Thasmania
 Thawe
 The usage of pa as an interrogative has been rendered obsolete by the modern word beth
 Thesaloniaid
+Theyrnas Unedig
 Thiwnisia
 Throedfawr
 Thwrci
 Tiberius
+Tibet
+Tibetaidd
+Tibeteg
+Tibetiad
 Timotheus
+Tirana
 Tiriogaeth Prifddinas Awstralia
 Tiriogaeth y Gogledd
 Titus
@@ -2269,6 +2382,8 @@ Tiwnisia
 Tlysau'r Goron
 Toki Pona
 Tomos
+Tonypandy
+Tonyrefail
 Tori
 Torïaidd
 Traeth Ifori
@@ -2281,6 +2396,7 @@ Trefonnen
 Trefor
 Trefynwy
 Treganna
+Treorci
 Trindod
 Trindodaeth
 Triton
@@ -2302,19 +2418,22 @@ Tsieinead
 Tsieineaidd
 Tsieineeg
 Tsieinëeg
-Tsieinëeg ()
 Tsileaidd
 Tudno
 Twfalw
 Twitter
 Twm Pip
 Twm, Dic neu Harri
+Twrc
 Twrcaeg
 Twrceg
 Twrci
 Twrcmenistan
 Twrnai Cyffredinol yr Unol Daleithiau
+Tyddewi
+Tyrcaidd
 Tyrceg
+Tyrces
 Tyrus
 Tysganaidd
 Tysganeg
@@ -2322,13 +2441,13 @@ Tysganiad
 Tywyn
 Tywysog Cymru
 Tywysogaeth Cymru
+Tórshavn
 Tŵr Eiffel
 Tŵr Llundain
 Tŷ Gwyn
 Tŷ Mewnol Llys y Sesiwn
 Tŷ'r Arglwyddi
 U
-U bedol ()
 UCM
 UDA
 UFA
@@ -2388,6 +2507,7 @@ Y Bont-faen
 Y Cefnfor Tawel
 Y Cymundeb Anglicanaidd
 Y Ddraig Goch
+Y Democratiaid Rhyddfrydol
 Y Deyrnas Gyfunol
 Y Deyrnas Unedig
 Y Drenewydd
@@ -2408,8 +2528,12 @@ Ymenyddglwyf Sbungfurff Gwartheg
 Ymerodraeth Brydeinig
 Ymerodraeth Bysantiwm
 Ymerodraeth Lân Rufeinig
+Ymerodraeth Rwsia
+Ymerodraeth yr Almaen
 Ynyd
 Ynys Afallon
+Ynys Dewi
+Ynys Gybi
 Ynys Manaw
 Ynys Môn
 Ynys Tasmania
@@ -2440,6 +2564,7 @@ Yr Efengyl yn ôl Sant Luc
 Yr Efengyl yn ôl Sant Marc
 Yr Efengyl yn ôl Sant Mathew
 Yr Hâg
+Yr Oes Haearn
 Yr Oleuedigaeth
 Yr Wyddfa
 Yr Wyryf
@@ -2459,8 +2584,20 @@ Zoroastriaeth
 Zoroastriaidd
 Zwinglïaidd
 a
+a bod yn onest
+a deud y gwir
+a dweud y gwir
 a elwir hefyd
+a gweud y gwir
 a newidia y llewpard ei frychni?
+a'ch eithrio
+a'ch gwynt yn eich dwrn
+a'i eithrio
+a'i heithrio
+a'm heithrio
+a'n heithrio
+a'th eithrio
+a'u heithrio
 a-
 a.
 a.y.y.b.
@@ -2475,7 +2612,6 @@ abadesau
 abadiaeth
 abadol
 aball
-abaloch
 abar
 abatai
 abathocroalaidd
@@ -2487,6 +2623,7 @@ aber
 abergofiant
 aberoedd
 aberth
+aberthaf
 aberthau
 aberthged
 aberthgedau
@@ -2500,6 +2637,7 @@ abomaswm
 abostol
 abred
 absen
+absennaf
 absennau
 absennol
 absennu
@@ -2512,6 +2650,7 @@ abwydfa
 abwydyn
 ac
 ac ati
+ac ati hi
 ac eithrio
 ac eraill
 ac roeddent i gyd yn byw'n hapus byth wedyn
@@ -2534,6 +2673,7 @@ acenion crwm
 acenion crymion
 acenion disgynedig
 acenion dyrchafedig
+acennaf
 acennu
 acer
 aceri
@@ -2546,6 +2686,7 @@ achau
 achen
 aches
 achles
+achlesaf
 achlesau
 achlesu
 achlod
@@ -2559,7 +2700,6 @@ achos
 achos cyfraith
 achos cyfreithiol
 achos dirmyg llys
-achos llys
 achos llys preifat
 achos llys sirol
 achos llys troseddau rhyfel
@@ -2597,6 +2737,9 @@ achyddiaeth
 achyddion
 achyddol
 aciwbigo
+aciwbigwr
+aciwbigwraig
+aciwbigydd
 acordion
 acromegaledd
 acsolotl
@@ -2612,6 +2755,7 @@ actores
 actoresau
 actorion
 acw
+acwbigo
 acwmplydd
 ad
 ad-
@@ -2633,7 +2777,6 @@ adar Mair
 adar canu
 adar du
 adar duon
-adar dŵr
 adar o'r unlliw a hedant i'r unlle
 adar o'r unlliw hedant i'r unlle
 adar paradwys
@@ -2653,6 +2796,7 @@ adargraffiadau
 adargraffu
 adargwn
 adarlud
+adarol
 adarwr
 adarwyr
 adarydd
@@ -2667,11 +2811,9 @@ addail
 addanc
 addas
 addasiad
-addasol
+addasiad genetig
 addasrwydd
 addasu
-addaswr
-addasydd
 addaw
 addawa
 addawaf
@@ -2680,8 +2822,11 @@ addawebau
 addawiff
 addawith
 addef
+addefiad
 addewid
 addfed
+addfwyn
+addfwynder
 addo
 addoldai
 addoldy
@@ -2691,7 +2836,9 @@ addoliad
 addoliadau
 addolwr
 addolwyr
+adduned
 adduned blwyddyn newydd
+addunedu
 addurn
 addurnau
 addurnedig
@@ -2702,6 +2849,7 @@ addurnol
 addurnwr
 addysg
 addysg bellach
+addysg grefyddol
 addysg gynradd
 addysg uwch
 addysga
@@ -2717,6 +2865,7 @@ addysgu
 addysgwch
 addysgwr
 adeg
+adeg COVID
 adegau
 adeilad
 adeiladaeth
@@ -2757,6 +2906,7 @@ aderyn y to
 aderyn yr eira
 aderyn ysglyfaethus
 aderyn-drycin Manaw
+aderynnaidd
 adf.
 adfail
 adfarch
@@ -2815,12 +2965,23 @@ adlefau
 adleisair
 adleisiau
 adleisio
+adlen
+adleoladwy
+adleoli
+adleoliad
+adleolydd
+adlewyrch
 adlewyrchiad
 adlewyrchol
 adlewyrchu
+adlewyrchydd
 adlif
 adlog
+adloniad
+adloniadol
 adloniant
+adlonni
+adlunio
 adlyn
 adlynol
 adlynu
@@ -2834,8 +2995,12 @@ adnabyddus
 adnabyddwch
 adnabyddwn
 adnau
+adnau bancwyr
 adnebydd
+adneuo
 adnewid
+adnewyddiad
+adnewyddu
 adnewyddu hydrogen
 adnod
 adnodd
@@ -2843,7 +3008,13 @@ adnoddau
 adnoddau dynol
 adolesens
 adolygaf
+adolygiad
+adolygiadau
+adolygiaeth
+adolygol
 adolygu
+adolygwyr
+adolygydd
 adra
 adran
 adran bres
@@ -2857,6 +3028,9 @@ adroddi
 adroddiad
 adroddiad llys
 adroddiadau
+adroddwr
+aduniad
+aduniad ysgol
 aduno
 adwaen
 adwaenai
@@ -2875,6 +3049,7 @@ adwaenwch
 adwaenwn
 adwaenynt
 adwaith
+adwaith cadwyn
 adweinaf
 adweini
 adweinid
@@ -2883,11 +3058,17 @@ adweitheg
 adweithegwyr
 adweithegydd
 adweithio
+adweithiol
+adweithiwr
 adweithydd
 adweithydd niwclear
 adwen
 adwthio
+adwy
+adwyth
+adwyth fawr
 adwythig
+adyn
 ae
 aeaf
 aech
@@ -2899,8 +3080,10 @@ ael
 aelaw
 aeled
 aeledau
+aelguchiog
 aeliau
 aelio
+aeliog
 aelod
 aelodaeth
 aelodaethau
@@ -2914,11 +3097,14 @@ aent
 aer
 aeres
 aerfa
+aerobeg
+aerobig
 aerod
 aerofod
 aeron
 aeronen
 aeronog
+aerwy
 aes
 aet
 aeth
@@ -2937,7 +3123,9 @@ aethon
 aethont
 aethost
 aethpwyd
+aethus
 aethwn
+aetiiiem
 aets
 aetsh
 aetshys
@@ -2966,28 +3154,47 @@ afancod
 afanen
 affan
 affeithiad
+affeithio
+affelion
 affetig
+afflatocsin
+affliw
 affwys
 affwysau
 affwysedd
 affwysol
 afiach
+afiaith
 afiechyd
+afiechyd meddwl
 afiechydon
 aflafar
+aflan
 aflednais
+aflendid
+afleoli
+afleoliad
+afles
+aflesol
+aflonydd
 aflonyddu
+aflonyddwch
 aflonyddwch rhywiol
+aflonyddwr
 afloyw
 aflun
 afluniad
+afluniaidd
 aflwydd
 aflwyddiannus
 aflwyddiant
+aflwyddo
 aflêr
 afocado
 afocados
 afon
+afondaith
+afondeithiau
 afoneb
 afonfarch
 afonfeirch
@@ -2996,38 +3203,55 @@ afonol
 afonydd
 afr
 afradlon
+afradlonedd
+afradloni
+afradu
 afraid
 afreal
 afreidiach
 afreidiaf
 afreidiau
 afreidied
+afreolaeth
 afreolaidd
+afreolus
 afresymol
+afresymoldeb
 afrifed
 afrllad
 afrlladfa
 afrllatgist
+afrosgo
+afrwydd
+afrwyddineb
 afrywiog
 afu
 afuau
+afwch
+afwyn
 ag
+ag enw drwg
 agalen
 agat
 agatau
+agen
 agen tagell
 agen y dagell
+agendor
 ager
 agerau
 agerdd
 agerddlong
 agerfad
+ageriad
 agerlong
 agerlongau
+ageru
 agor
 agora
 agoraf
 agorai
+agorawd
 agored
 agoret
 agorfa
@@ -3037,8 +3261,12 @@ agoriadau
 agoriadol
 agorwr
 agorwr tuniau
+agorwyr
 agorydd
 agos
+agos atoch
+agosatrwydd
+agosrwydd
 agosáu
 agwedd
 agweddi
@@ -3079,6 +3307,7 @@ ailolyniad
 ailolyniadau
 ailosod
 ailraddio
+ailwadnu
 ailwampio
 ailwefradwy
 ailwefru
@@ -3091,7 +3320,7 @@ alan
 alan bach
 alan bychan
 alan gawr
-alan mawr ()
+alan mawr
 alan mis bach
 alan mwyaf
 alan pêr
@@ -3102,6 +3331,7 @@ alarch Bewick
 alarch dof
 alarch dôf
 alarch y gogledd
+alarchŵydd
 alaw
 alaw'r dŵr
 alawau
@@ -3118,6 +3348,9 @@ alcemeg
 alcemi
 alcemydd
 alcohol
+alcoholaidd
+alcoholiaeth
+alcoholig
 alcyleiddio hydrogen fflworid
 ale
 aleon
@@ -3125,6 +3358,7 @@ alfarch
 alfeolaidd
 alffalffa
 alga
+algebra
 alias
 aligator
 all
@@ -3136,6 +3370,7 @@ alla i ddod mewn?
 allai
 allan
 allan o
+allan o wynt
 allan o'r cyffredin
 allanadliad
 allanadlu
@@ -3162,7 +3397,6 @@ allforio
 allforion
 allforiwr
 allforol
-allforol ()
 allforwyr
 allforyn
 allfudiad
@@ -3170,6 +3404,7 @@ allfudo
 allfudol
 allfudwr
 allglofan
+allgofnodaf
 allgofnodi
 allgyrchu
 allgyrchydd
@@ -3197,6 +3432,7 @@ allweddi
 allweddol
 allwthio
 allwyddau Mair
+allyrru
 almanac
 almanaciau
 almon
@@ -3205,6 +3441,8 @@ alpafr
 alwminiwm
 alyswm
 am
+am ben
+am ben hynny
 am byth
 am ddim
 am hynny
@@ -3237,6 +3475,7 @@ amau
 ambell
 ambell waith
 ambeutu
+ambilen
 ambiti
 ambiwlans
 ambiwlansiau
@@ -3254,14 +3493,18 @@ amcanion
 amcanu
 amcanus
 amchwaraefa
+amdan
 amdana
 amdanaf
 amdanat
 amdani
 amdano
 amdanoch
+amdanom
 amdanon
+amdanot
 amdanyn
+amdanynt
 amddifad
 amddiffyn
 amddiffynfa
@@ -3310,6 +3553,7 @@ amhariadau
 amharod
 amharodrwydd
 amharu
+amhenderfynol
 amhenodol
 amhenodolrwydd
 amherffaith
@@ -3329,16 +3573,19 @@ amhosib
 amhosibl
 amhriodol
 amhriodoldeb
+amhur
 aml
 aml-
 amlach
 amlaethai
-amlapio
+amlannirlawn
 amlbriodas
 amldduwaidd
 amldduwiad
 amldduwiaeth
 amldduwiol
+amlder
+amleiriog
 amlen
 amlennau
 amlenni
@@ -3353,6 +3600,7 @@ amlwreiciol
 amlwriaeth
 amlygiad
 amlygu
+amlyncu
 amnewid
 amnewidio
 amobr
@@ -3396,6 +3644,9 @@ amseriaduron
 amserlen
 amserlenni
 amseroedd
+amwys
+amwysair
+amwysedd
 amynedd
 amyneddgar
 an-
@@ -3413,7 +3664,10 @@ anadlu
 anadnabyddus
 anadroddadwy
 anaeddfed
+anaeddfedrwydd
+anaerobig
 anaf
+anaf straen ailadroddus
 anafa
 anafaf
 anafai
@@ -3426,7 +3680,10 @@ anafiadau
 anafsai
 anafu
 anallu
+anaml
+anamlder
 anap
+anarchaeth
 anarchiaeth
 anarferedig
 anathema
@@ -3445,10 +3702,10 @@ anelusengarwch
 anemaidd
 anemia
 anemig
-anenwog
 anerchaf
 anerchiad
 anerchiad i'r llys
+anerobig
 anesboniadwy
 anesgusodol
 anfacterol
@@ -3456,6 +3713,7 @@ anfantais
 anfanteisiol
 anfanteision
 anfeidredd
+anfeidrol
 anferth
 anferthwch
 anffawd
@@ -3475,22 +3733,26 @@ anfodloni
 anfodlonrwydd
 anfoesol
 anfon
-anfon o'r cae
 anfon ymlaen
 anfonaf
 anfonydd
 anfwytadwy
 anfynych
+anfynychder
+angall
 angau
 angel
+angel angau
 angen
 angen ffynhonnell
 angenfilod
 angenrheidiol
+angenrheidrwydd
 anghanfyddadwy
 anghenfil
 anghenion
 anghenion arbennig
+anghenion maeth
 anghenraid
 anghenus
 angheuoedd
@@ -3519,6 +3781,7 @@ anghyfaddas
 anghyfaddasrwydd
 anghyfartal
 anghyfartaledd
+anghyfarwydd
 anghyfeillgar
 anghyfforddus
 anghyffredin
@@ -3628,6 +3891,7 @@ anlladaidd
 anlwc
 anlwcus
 anmhrydlonrwydd
+annatod
 annedd
 anneddfol
 anneg
@@ -3636,26 +3900,34 @@ anner
 annerbyniol
 annerch
 anneuaidd
+annhebyg
+annhebygol
+annhebygrwydd
 annheg
+annhegwch
 annherfynol
 annhraethadwy
 annhymmoreiddrwydd
 annhymmoroldeb
 anniben
 annibendod
+anniddig
+anniddigo
+anniddigrwydd
 anniddorol
 annilys
+annirlawn
 annisgwyl
 anniwair
 anniwygiadwy
 annod
+annoeth
 annog
-annwfn
-annwn
 annwyd
 annwyl
 annymunol
 annymunoldeb
+annynol
 anobaith
 anobeithiau
 anobeithio
@@ -3698,6 +3970,7 @@ anthem
 anthem genedlaethol
 anthemau
 antimoni
+antiseptig
 antur
 anturiau
 anturwr
@@ -3709,6 +3982,8 @@ anwadadwy
 anwahanadwy
 anwaraidd
 anwariad
+anwarth
+anwe
 anwedd
 anweddaidd
 anweddau
@@ -3720,6 +3995,7 @@ anweddus
 anweddusrwydd
 anwedduster
 anweddydd
+anweladwy
 anweledig
 anwes
 anwesu
@@ -3743,7 +4019,9 @@ anwythol
 anwythydd
 anwythyddion
 anymagorol
+anymwthiol
 anystyriol
+aortitis
 ap
 ap Gwilym
 ap Ifan
@@ -3755,27 +4033,35 @@ apostolion
 apêl
 ar
 ar adegau
+ar adnau
 ar agor
 ar amcan
 ar amrantiad
 ar amser
 ar ben
+ar ben bore
+ar ben ei ddigon
 ar ben hynny
 ar bwys
 ar daen
 ar daith
 ar ddamwain
+ar ddelw
 ar ddigwydd
 ar ddihun
+ar ddu a gwyn
 ar derfyn y dydd
 ar draws
 ar dreigl
 ar droed
 ar drothwy
+ar drywydd
 ar dân
+ar ei hynt
 ar eich deudroed
 ar eich gorwedd
 ar eich hyd
+ar faeth
 ar fai
 ar fenthyg
 ar ferw
@@ -3785,38 +4071,51 @@ ar frys
 ar fyrder
 ar gael
 ar gam
+ar ganol
 ar gau
 ar gefn
+ar gefn ei geffyl gwyn
 ar gerdded
 ar glo
 ar gof
 ar gof a chadw
 ar goll ar faes y gad
+ar gownt
 ar gyfanwerth
 ar gyfartaledd
 ar gyfer
 ar gyfrif
+ar gyfyl
 ar gynnydd
 ar hap
 ar hyd
 ar hyn o bryd
 ar hynny
+ar hynt
 ar lafar
 ar lein
 ar log
+ar ochr
 ar oleddf
 ar osod
 ar ran
 ar streic
+ar uchaf
 ar unwaith
 ar wahân
+ar warthaf
 ar werth
 ar y berw
 ar y clwt
 ar y cyd
+ar y ffordd
 ar y foment
 ar y llaw arall
 ar y mwyaf
+ar y naw
+ar y trywydd
+ar y trywydd iawn
+ar ymyl
 ar ôl
 ar ôl hynny
 ar ôl marwolaeth
@@ -3831,12 +4130,19 @@ arafu
 arafwch
 araith
 arall
+aralledd
+aralleiddio
+aralleirio
 arallfyd
+arallgyfeirio
+arallu
 aran
+aran Manshwria
 aranianoliaeth
 araul
 arbed
 arbedaf
+arbenigo
 arbenigol
 arbenigwr
 arbenigwraig
@@ -3862,10 +4168,13 @@ archebaf
 archebion
 archebu
 archesgob
+archesgobiaid
 archesgobion
+archesgyb
 archfarchnad
 archfarchnadoedd
 archifydd
+archlod
 archoll
 archolli
 archollion
@@ -3927,6 +4236,9 @@ arfeddog
 arfer
 arferiad
 arferlyfr
+arferol
+arfilyn
+arflynges
 arfod
 arfodau
 arfodion
@@ -3940,7 +4252,9 @@ argae
 argaen
 argaenau
 argegol
+arglawdd
 argledd
+argloddiau
 arglwydd
 arglwydd faer
 arglwydd rhyfel
@@ -3987,7 +4301,9 @@ arhosodd
 arhosol
 arhoson
 arhoswch
+arial
 arian
+arian Cablyd
 arian bath
 arian breiniol
 arian byw
@@ -3995,6 +4311,7 @@ arian cochion
 arian cyfredol
 arian cyfreithlon
 arian degol
+arian dros ben
 arian gwynion
 arian mân
 arian nitrad
@@ -4019,11 +4336,17 @@ arloesi
 arloesol
 arloeswr
 arlun
+arluniaeth
+arlunio
+arluniwr
 arlunydd
 arlwy
 arlwyau
 arlywio
 arlywydd
+arlywyddiaeth
+arlywyddol
+arlywyddu
 armadilo
 armel
 armellog
@@ -4040,8 +4363,11 @@ arno
 arnoch
 arnodd
 arnofio
+arnom
 arnon
+arnot
 arnyn
+arnynt
 aroglau
 arogldarth
 arolo
@@ -4083,6 +4409,7 @@ arthan
 arthes
 arthio
 artisiog
+artisiogau
 arwain
 arwedd
 arweiniad
@@ -4107,6 +4434,7 @@ arwydd cywair
 arwydd neon
 arwydd y sidydd
 arwyddair
+arwyddbost
 arwyddion
 arwyddlun
 arwyddnod
@@ -4117,6 +4445,7 @@ arwynebeddau
 arwyr
 arwystl
 arwystlo
+as
 asalea
 asasin
 asbaragws
@@ -4136,6 +4465,7 @@ asgell bectoral
 asgell chwith
 asgell dde
 asgell ddorsal
+asgell ddwyfronnol
 asgell fentrol
 asgell fraith
 asgell-gomander
@@ -4149,6 +4479,7 @@ asgwrn tynnu
 asgwrn y cwman
 asgwrn ystifflog
 asgyrnyn
+asiad
 asiant
 asid
 asid amino
@@ -4160,6 +4491,8 @@ asideiddio
 asidig
 asidio
 asidosis
+asiedydd
+asio
 astatin
 astell
 astell feiston
@@ -4173,6 +4506,7 @@ astudiaethau
 astudiaethau cyfieithu
 astudio
 asur
+asurfaen
 asyn
 asynnod
 at
@@ -4183,6 +4517,7 @@ at hynny
 at-
 ata
 atab
+ataf
 atal
 atal cenhedlu
 atal dweud
@@ -4191,13 +4526,17 @@ atalfa wynt
 atalfeydd
 ataliaf
 atalion
+ataliwr gwynt
 atalnod
 atalnod llawn
 atalnodau
 atalnodau llawn
 atalnodi
+atat
 atborth
+atborthi
 atborthion
+atchwanegiad
 ateb
 atebaf
 atebgan
@@ -4227,6 +4566,7 @@ atgyfodiad
 athematig
 athletau
 athrawes
+athrawes llanw
 athrawesau
 athrawiaeth
 athrawiaethu
@@ -4235,6 +4575,7 @@ athref
 athrefi
 athrefig
 athro
+athro llanw
 athrod
 athrodi
 athrodion
@@ -4242,21 +4583,28 @@ athrodus
 athrodwr
 athrodwyr
 athrofa
+athroniaeth
 athrylith
 ati
 ato
+atoch
 atodi
 atodiad
+atodiad e-bost
 atodiadau
+atodlen
 atom
 atomfa
 aton
+atot
 atriwm
 atsain
 atseiniau
 atseinio
 atwrnai
 atwrneiaeth
+atyn
+atynt
 au
 aur
 aur yr ŷd
@@ -4301,7 +4649,9 @@ awn ni
 awr
 awr frys
 awra
+awroraidd
 awrwydr
+awtarciaeth
 awtistiaeth
 awtistig
 awtomatig
@@ -4316,6 +4666,7 @@ awyren fomio
 awyrennau
 awyrgylch
 awyrgylchoedd
+awyrlong
 awyrlu
 ay
 ayyb
@@ -4367,6 +4718,7 @@ bae
 baeau
 baedd
 baedd daear
+baedd dafadennog
 baedd gwyllt
 baeddod
 baeddod gwyllt
@@ -4424,11 +4776,8 @@ banc tywod
 banciau
 bancio
 bancwr
-band
-band arian
 band chwys
 band eang
-band lastig
 band llydan
 band pres
 bandana
@@ -4437,6 +4786,7 @@ bandemig
 bandiau
 baned
 baner
+baner las
 banereg
 baneri
 banerwr
@@ -4456,7 +4806,6 @@ bannod amhenodol
 bannod benodol
 banodol
 banodolyn
-banodolyn dangosol
 banodolyn meddiannol
 bant
 bant â hi
@@ -4471,6 +4820,7 @@ bara brith
 bara can
 bara cras
 bara crasu
+bara crimp
 bara deugras
 bara fflat
 bara garlleg
@@ -4479,16 +4829,20 @@ bara lawr
 bara mwnci
 bara poeth
 bara soda
+bara-
 baratoi
 baratôdd
 barau
+barbaraidd
 barbariad
 barbeciw
 barbeciwiau
 barbeciwio
 barbeciws
+barbwr
 barc
 barcer
+barciau
 barcio
 barcud
 barcud coch
@@ -4501,6 +4855,7 @@ barcut
 barcuta
 barcutiaid
 bardd
+bardd gwlad
 bardd llys
 barddol
 barddoniaeth
@@ -4517,6 +4872,7 @@ bargyfreithiwr
 barhau
 bariau
 bariau coffi
+baril
 bariwm
 barlys
 barn
@@ -4577,16 +4933,19 @@ bathau
 bathdai
 bathdy
 bathodyn
+bathodyn glas
 bathol
 bathon
 bathonau
 baths
 bathu
+bathy
 bathyn
 batri
 bau
 baw
 bawaidd
+bawb
 bawd
 bawdd
 bawn
@@ -4597,6 +4956,7 @@ bechgyn
 bechingalw
 bechod
 becos
+becso
 becws
 becyn
 bedair
@@ -4608,17 +4968,21 @@ bedr-
 bedrannu
 bedry-
 bedw
+bedw arian
 bedwar
 bedwarplyg
 bedwen
 bedwen Fai
 bedwen Ifan
+bedwen arian
 bedwen haf
 bedwerydd
 bedydd
 bedydd esgob
+bedydd yr Ysbryd Glân
 bedyddfaen
 bedyddio
+begera
 begian
 begwn
 bei
@@ -4636,6 +5000,8 @@ beichus
 beiciau
 beicio
 beiciwr
+beiciwr modur
+beicwr
 beiddgar
 beiddio
 beidio
@@ -4660,11 +5026,14 @@ beistonna
 bele
 bell
 bellach
+bellter
 belt
-belt gwyrdd
-belt werdd
 ben
 ben ucha'n isa'
+benaethaid
+benaethau
+benaethiaid
+benaethion
 bencampwr
 bencampwriaeth
 bencampwriaethau
@@ -4684,6 +5053,8 @@ benditho
 benglog
 bengwin
 bengwiniaid
+benis
+bennaeth
 benthyca
 benthycair
 benthyciad
@@ -4719,6 +5090,8 @@ berfol
 berfâu
 beri
 berkeliwm
+berl
+berlau
 berllan
 berth
 berthnasau
@@ -4729,8 +5102,15 @@ berwbwynt
 berwedig
 berwi
 berwr
+berwr Caersalem
 berwr Mair
 berwr dŵr
+berwr melyn mawr
+berwr y cerrig
+berwr y fagwyr
+berwr y gaeaf
+berwr y gerddi
+berwy
 bery
 beryf
 beryglus
@@ -4758,6 +5138,7 @@ betysen
 betysen borthi
 beudai
 beudy
+beunydd
 beunyddiol
 be’
 bi
@@ -4773,14 +5154,20 @@ bid
 bidog
 bidog ddwbl
 bidogan
-bidoglys
 big
 bigan
+bigau
+bigddu
+bigfelyn
 bigwrn
+bigyn
+bigynnau
 bihafio
 bil
 bil cyfnewid
 bil llwytho
+bila
+bilaon
 bildar
 bildars
 bilen
@@ -4791,11 +5178,16 @@ bin
 bin lludw
 bin sbwriel
 binc
+binc eurben
+bincod
+bincod eurben
 biniau
 bio-
 bioamrywiaeth
 bioberygl
 biocemeg
+biocemeg maeth
+biodanwydd
 bioddaearyddiaeth
 bioddiraddadwy
 bioddiraddiadwy
@@ -4808,6 +5200,8 @@ bioleg forol
 biolegol
 biolegwyr
 biolegydd
+biomas
+biowyddorau
 bipa
 bipes
 bipi
@@ -4821,7 +5215,19 @@ bismwth
 bistro
 bisweilyn
 biti
+biwi
+biwi cefnwyn
+biwi coed y dwyrain
+biwi llwydwyn
+biwro
+biwrocrat
+biwrocrataidd
+biwrocratiaeth
 biws
+biwïaid
+biwïaid cefnwyn
+biwïaid coed y dwyrain
+biwïaid llwydwyn
 bla
 blac-pat
 bladur
@@ -4902,6 +5308,8 @@ blew Medi
 blew cedor
 blew pysgodyn
 blew'r wyneb
+blewach
+blewiach
 blewog
 blewogrwydd
 blewyn
@@ -4924,7 +5332,7 @@ blodau
 blodau'r ysgaw
 blodeugerdd
 blodeugoes
-blodeuo
+blodeulen
 blodeuyn
 blodfresych
 blodfresych caled
@@ -4938,6 +5346,7 @@ blodyn haul
 blodyn llaeth
 blodyn menyn
 blodyn neidr
+blodyn y gwynt
 blodyn yr eira
 blodyn-Mihangel dail danadl
 blodyn-yr-haul oddfog
@@ -4964,6 +5373,7 @@ blwch te
 blwmers
 blwng
 blwydd
+blwydd-dâl
 blwyddi
 blwyddiadur
 blwyddiaduron
@@ -4972,7 +5382,9 @@ blwyddyn golau
 blwyddyn naid
 blwyddyn newydd
 blwyddyn newydd dda
+blychau
 blychau llwch
+blymio
 blynedd
 blynyddoedd
 blynyddoedd golau
@@ -5000,6 +5412,7 @@ bochdewion
 bochdwll
 bochgoden
 bochig
+bochlwyd
 bochog
 bochyn
 bocs
@@ -5028,6 +5441,7 @@ boda
 boda madfall
 bodd
 boddau
+boddhad parod
 boddhâd
 boddi
 boddiad
@@ -5070,6 +5484,7 @@ bombas
 boncath
 boncyff
 boncyff Nadolig
+bond adnau
 bond carbon-hydrogen
 bond hydrogen
 bondigrybwyll
@@ -5113,6 +5528,7 @@ boron nitrid
 boron nitrid ciwbig
 boron nitrid hecsagonol
 boron trifflworid
+bosib
 bosn
 bostio
 bostol
@@ -5122,10 +5538,12 @@ botel
 botel ddŵr
 both
 bothau
+bothell
 botlo
 botwledd
 botwliaeth
 bowlio
+bowls lawnt anwastad
 bownser
 bra
 bractai
@@ -5141,11 +5559,13 @@ braenar
 braenar haf
 braenu
 braf
+brag
 bragod
 bragwair
 bragwr
 braich
 braich llyw
+braidd
 brain
 braint
 braisg
@@ -5155,13 +5575,15 @@ bran gwenith
 bras
 bras Ffrainc
 bras goleulas
-bras meysydd ()
+bras meysydd
+bras penddu
 bras persain
 brasled
 brasledau
 braslun
 brasluniad
 braster
+braster menyn
 brasterog
 brasteru
 brath
@@ -5207,6 +5629,7 @@ brechlys
 brechu
 breciau
 brecinio
+brecio
 brecwast
 brecwastau
 bref
@@ -5233,20 +5656,28 @@ breithell
 bren
 brenhines
 brenhines gydweddog
-brenhines y maes ()
+brenhines y maes
 brenhiniaeth
 brenhiniaeth gyfansoddiadol
 brenhinllin
 brenhinllys
+brenhinoedd
 brenhinol
 brenhinsarff
+brenhinwr
+brenhinwraig
 brenigen
 brenin
+breninesau
+breniniaethau
+breninolion
 bres
 brest
 brestwaith
+breswyl
 bresych
 bresych deiliog
+bresych picl
 bresych y môr
 bresychaidd
 bresychen
@@ -5274,13 +5705,13 @@ briallu Mair sawrus
 briallu Non
 briallu tal
 briallu tal ffug
-briallu'r Alban
 bric
 briciau
 briciwr
 brics
 bricsen
 bricyll
+bricyllen
 brid
 bridd
 briddau
@@ -5311,17 +5742,22 @@ bris
 brisbloc
 brith
 brith gof
+brith y cyrens
+brithddu
 brithdegyll
 britheg
 brithgi
+brithion
 brithwaith
 brithyll
-brithyll Mair ()
+brithyll Mair
 brithyll y dom
 briw
 briw gorwedd
 briweg wyrddloyw
+briwffrwyth
 briwgig
+briwio
 briwo
 briwsioni
 briwsionyn
@@ -5329,7 +5765,10 @@ briwydd y mur
 bro
 broblem
 broblemau
+broc
 broc môr
+brocfelyn
+brocgoch
 broch
 broch drewllyd
 broch môr
@@ -5337,6 +5776,8 @@ brochgi
 brochion
 brochod
 brochwyllt
+broclas
+brocwinau
 brodor
 brodordy
 brodoriaeth
@@ -5352,9 +5793,11 @@ brolio
 bromin
 bron
 bron alarch
+bronasgell
 bronfraith
 bronglawdd
 bronlas
+bronleision
 bronnau
 bronnog
 bronnydd
@@ -5376,9 +5819,19 @@ brwmstan
 brwnt
 brws
 brwsh
+brwsh aer
+brwsh blew
 brwsh dannedd
+brwsh dillad
+brwsh dyfrliw
+brwsh gwallt
+brwsh llawr
 brwsh paent
 brwsh plu
+brwsh sgwrio
+brwsh siafio
+brwsh sythu
+brwshys
 brwsiais
 brwsiaist
 brwsiau
@@ -5407,11 +5860,13 @@ brwysg
 brwysgedlys
 brwysgion
 brych
+brych aeliog
+brych gyddfgoch
 brych y coed
-brychan llygwyn
 brychan yr hocys
 brychau
 brychddu
+brychion gyddfgoch
 brychu
 bryd
 bryd hynny
@@ -5433,20 +5888,24 @@ brynoch
 brynodd
 brynon
 brynu
+bryoffyt
 brys
 brysio
 brysiog
 brysur
+brâc
 brân
 brân Gernyw
 brân ddaear Hume
 brân dyddyn
 brân fraith
 brân goesgoch
+brân jyngl
 brân lwyd
 brân y goedwig
 brân y tai
 brêc
+brêc llaw
 brëyr
 bröydd
 bu
@@ -5482,6 +5941,7 @@ buddugwyr
 budr
 budrelw
 budrelwr
+budron
 bues
 bues i
 buest
@@ -5538,6 +5998,7 @@ bwlch
 bwlch rhodli
 bwled
 bwletin
+bwletin newyddion
 bwletinau
 bwlyn drws
 bwm bach y gors
@@ -5559,6 +6020,7 @@ bwrdd du
 bwrdd erchwyn
 bwrdd llong
 bwrdd ouija
+bwrdd plymio
 bwrdd rheoli'r gwasanaeth llys
 bwrdd sgorio
 bwrdd sgrialu
@@ -5591,9 +6053,13 @@ bwtsiasen y gog
 bwyall
 bwyd
 bwyd brys
+bwyd bys a bawd
+bwyd cyfleus
 bwyd cyflwym
 bwyd diwerth
+bwyd dros ben
 bwyd gan bwyll
+bwyd gweithredus
 bwyd i'r gynnau
 bwyd sothach
 bwyd tun
@@ -5604,13 +6070,16 @@ bwydo
 bwydo o'r fron
 bwydwch
 bwydydd
+bwyeill
 bwyell
+bwyelli
 bwyll
 bwys
 bwysig
 bwyst
 bwystawr
 bwystfil
+bwystfilaidd
 bwystori
 bwyta
 bwytadwy
@@ -5633,6 +6102,7 @@ bychain
 bychan
 bychod
 byd
+byd lladron
 byd-eang
 bydd
 bydda
@@ -5668,6 +6138,8 @@ bydwraig
 bydwreigiaeth
 bydysawd
 byfflo
+byfflo Affricanaidd
+byfflo dŵr
 bygwl
 bygylau
 bygythbris
@@ -5677,10 +6149,14 @@ bymtheg
 byngalo
 bynglo
 bynnag
+bynnen
+byns
+bynsen
 bynwes
 byr
 byr ei golwg
 byr ei olwg
+byr eich gwynt
 byr eu golwg
 byrbryd
 byrddau
@@ -5698,13 +6174,17 @@ byrhau
 byrhoedlog
 byrion
 byrllysg
+byrlymau
+byrlymog
 byrlymu
+byrlymus
 byrra
 byrrach
 byrraf
 byrred
 bys
 bys bach
+bys blaen
 bys canol
 bys coch
 bys modrwy
@@ -5723,8 +6203,10 @@ bysgerddwr
 bysgod
 bysgodyn
 bysgota
+bysiau
 bysys
 byth
+byth a beunydd
 byth bythoedd
 byth eto
 bythdi
@@ -5742,8 +6224,10 @@ bywgraffiadur
 bywgraffiaduron
 bywgraffyddol
 bywiog
+bywiogrwydd
 bywluniad
 bywyd
+bywyd braf
 bywyd tragwyddol
 bywydeg
 bywyn
@@ -5754,9 +6238,11 @@ bêr
 bêsd
 bîff
 bîr
+bòd llwydlas
 bôm
 bôn
 bôn braich
+bôn-gell
 bûm
 bŵer
 bŵt
@@ -5769,6 +6255,7 @@ cabined ffeilio
 cabinedau arddangos
 cabinedau ffeilio
 cabinet
+cabledd
 cableddwr
 cablwr
 cablydd
@@ -5779,6 +6266,7 @@ cacen fach
 cacen gaws
 cacen goch
 cacen gri
+cacen reis
 cacen siocled
 cacennau
 cacennau cri
@@ -5829,6 +6317,7 @@ cadarnhad
 cadarnhaol
 cadarnhau
 cadarnle
+cadarnwedd
 cadau
 cadbib
 cadd
@@ -5862,10 +6351,13 @@ cadw
 cadw draw
 cadw mewn cof
 cadw torth a'i bwyta hi
+cadw trefn
+cadw twrw
 cadw-mi-gei
 cadwaf
 cadwch
 cadwo
+cadwolyn
 cadwraeth
 cadwyn
 cadwyn carbonau
@@ -5874,6 +6366,7 @@ cae
 cae chwarae
 cae chwarae gwastad
 cae glas
+cae hoci
 cae padi
 cae pêl-droed
 cae ras
@@ -5896,7 +6389,10 @@ cael annwyd
 cael gair
 cael geni
 cael gwared ar
+cael hwyl am ben
+cael hwyl ar ben
 cael i
+cael lliw haul
 cael llond bol
 caem
 caen
@@ -5919,7 +6415,10 @@ caethiwo
 caethoch
 caethon
 caethwas
+caethwasaeth
 caethwasgod
+caethwasiaeth
+caethweision
 caeu
 caf
 cafalri
@@ -5944,6 +6443,7 @@ cafodd
 cafodi
 cafon
 cafwyd
+cagl
 caib
 caiff
 caifn
@@ -6018,12 +6518,15 @@ camdriniaethau
 camel
 camel rhedeg
 camera
+camerâu
 camfa
 camfa ysgol
 camfanteisio
+camffor
 camgymeriad
 camicasi
 camlas
+camlesi
 camlwrw
 camosod
 camp
@@ -6042,17 +6545,20 @@ camu
 camwario
 camwedd
 camweddwr
+camweinyddiad cyfiawnder
 camweithio
 camweithredol
 camwy
 camymddygiad
 can
+can cwrw
 can dŵr
 can-
 cana
 canaf
 canai
 canais
+canan
 canant
 canasant
 canasom
@@ -6070,12 +6576,14 @@ canfasio
 canfed
 canfediant
 canfod
+canfod amser
 canfodydd
 canfodydd celwyddau
 canfodydd metel
 canfodyddion
 canfyddadwy
 canfyddiad
+canfyddiad amser
 canfyddiadol
 cangarŵ
 cangarŵod
@@ -6106,6 +6614,7 @@ canlyn
 canlyneb
 canlyniad
 canlyniadau
+canlyniadol
 canlynol
 canlynwr
 canlynwr arth
@@ -6134,12 +6643,14 @@ canol-glicio
 canolaf
 canolau
 canolbarth
+canolbarthau
 canolbwynt
 canolbwyntiau
 canolbwyntio
 canolbwyntio ar ar
 canoldaflodol
 canolfan
+canolfan feddygol
 canolfan gwyliau
 canolfan iechyd
 canolfan ieuenctid
@@ -6179,10 +6690,10 @@ canu
 canu caeth
 canu clodydd
 canu grwndi
+canu gwlad
 canu pop
 canwr
 canwraidd
-canwraidd America
 canwraidd Nepal
 canwraidd Tsieina
 canwraidd bengoch
@@ -6203,7 +6714,9 @@ cap both
 cap corun
 cap croen arth
 cap iâ
+cap llaeth cyrri
 cap maes
+cap tyllog gwinau cleisiog
 capan
 capanau
 capel
@@ -6237,6 +6750,7 @@ carbon canolig
 carbon cyfunol
 carbon deuocsid
 carbon deusylffid
+carbon glas
 carbon gopïo
 carbon isel
 carbon monocsid
@@ -6269,6 +6783,10 @@ cardiau credyd
 cardigan
 cardiganau
 cardinal
+cardinal cyffredin
+cardinaliaid
+cardinaliaid cyffredin
+cardota
 cardyn
 carech
 cared
@@ -6294,9 +6812,10 @@ carfyl
 cargo
 cari
 cariad
+cariad annychweledig
 cariad ar yr olwg gyntaf
 cariad brawdol
-cariad m ()
+cariad mam
 cariadus
 cariadusol
 caridým
@@ -6313,11 +6832,13 @@ cariwrch
 carlwm
 carlymoliad
 carn
+carn y fedwen
 carn-gerddol
 carn-lleidr
 carnedd
 carneddau
 carneddi
+carngerddwr
 carnog
 carnol
 carnolyn
@@ -6333,6 +6854,7 @@ carpiau
 carpws
 carrai
 carreg
+carreg a dreigla ni fwsloga
 carreg ben mur
 carreg fedd
 carreg galch
@@ -6361,7 +6883,10 @@ carthffos
 carthion
 cartre
 cartref
+cartref gofal
 cartref gwyliau
+cartref maeth
+cartref modur
 cartref nyrsio
 cartrefol
 caru
@@ -6443,6 +6968,7 @@ cawl
 cawl Cymreig
 cawl y graig
 cawl y môr
+cawl ysgadan
 cawlio
 cawn
 cawna
@@ -6461,6 +6987,8 @@ caws Cesar
 caws Cheddar
 caws colfran
 caws pen mochyn
+caws taenu
+caws wedi'i brosesu
 caws ysgaw
 cawsant
 cawsiwr
@@ -6470,6 +6998,8 @@ cawsom
 cawson
 cawswraig
 ce
+cebab doner
+cebab shish
 cebl
 ceblau
 cecian
@@ -6493,6 +7023,7 @@ cedw
 cedwir pob hawl
 cefaist
 ceffyl
+ceffyl pren Troea
 ceffylau
 cefn
 cefn cynhaeaf
@@ -6507,11 +7038,13 @@ cefn llaw
 cefn lloer
 cefn llwyfan
 cefn nos
+cefn pennog
 cefn troed
 cefn y daflod
 cefn y drin
 cefn y nos
 cefnau
+cefnddu
 cefndedyn
 cefnder
 cefndir
@@ -6519,6 +7052,7 @@ cefndryd
 cefnfor
 cefngefn
 cefngymal
+cefnlen
 cefnog
 cefnogaeth
 cefnogaethau
@@ -6526,6 +7060,9 @@ cefnogi
 cefnogol
 cefnogwr
 cefnogwyr
+cefnu
+cefnwyn
+cefnwyrdd
 ceg
 ceg fy nain
 ceg y groth
@@ -6535,6 +7072,7 @@ cegddu
 cegiad
 cegin
 ceglydan
+ceglyn
 cegog
 cegolch
 cegrwth
@@ -6545,13 +7083,18 @@ ceiau
 ceibren
 ceidw
 ceidwad
+ceidwadaeth
 ceidwadol
+ceiff
 ceiliog
 ceiliog copog
 ceiliog gwaun gopog
+ceiliog gwynt
 ceiliog rhedyn
 ceiliog y dŵr
 ceiliog y gwerni
+ceiliog y mynydd
+ceiliog y rhos
 ceiliog y waun
 ceiliogod
 ceiliogod y rhedyn
@@ -6579,10 +7122,12 @@ ceirw
 ceisio
 ceisiodd
 ceisiwr lloches
+ceislen
 ceith
 celai
 celain
 celaneddu
+celciwr
 celdy
 celen
 celennig
@@ -6591,6 +7136,7 @@ celf
 celf fodern
 celfau
 celfi
+celficyn
 celfigyn
 celfydd
 celfyddion
@@ -6601,8 +7147,9 @@ celfyddydau gweledol
 celfyddydol
 cell
 cell genhedlu
-cell gwaed goch
+cell goch y gwaed
 cell waed
+cell wen y gwaed
 cellan
 cellbilen
 cellfur
@@ -6619,8 +7166,10 @@ celwrn
 celwydd
 celwydd golau
 celwydd gwyn
+celwydd noeth
 celwyddau
 celwyddgi
+celwyddwr
 celyn
 celyn Mair
 celynen
@@ -6638,9 +7187,7 @@ cen cerrig
 cen coed
 cen pen
 cen y cerrig
-cen y cerrig ()
 cen y coed
-cen y coed ()
 cenadeiniog
 cenais
 cenau
@@ -6690,13 +7237,14 @@ cerais
 ceraist
 cerbyd
 cerbyd gwersylla
-cerbyd rhyfel ()
+cerbyd rhyfel
 cerbydol
 cerbydres
 cerdd
 cerdda
 cerdded
 cerdded yn eich cwsg
+cerddi
 cerddiff
 cerddinen Morgannwg
 cerddinen ddof
@@ -6715,12 +7263,14 @@ cerddoriaeth
 cerddoriaeth bop
 cerddoriaeth roc
 cerddoriaeth siambr
+cerddorion
 cerddorol
 cerddwch
 cerddwr
 cerddwyr
 cerdyn
 cerdyn SIM
+cerdyn adnabod
 cerdyn banc
 cerdyn credyd
 cerdyn debyd
@@ -6787,6 +7337,7 @@ ceulo
 cewch
 cewri
 cewyn
+cewyn parod
 ceyrydd
 ch
 ch'mod
@@ -6795,8 +7346,11 @@ chacen
 chacha
 chachi
 chachu
+chacwn
+chacwn meirch
 chad
 chadair
+chadal
 chadarnle
 chadeiriau
 chae
@@ -6830,6 +7384,8 @@ challio
 chalon
 cham-
 chamdreiglo
+chamera
+chamerâu
 chamesgoriad
 chamlas
 champ
@@ -6844,6 +7400,8 @@ changen
 chani
 chanlyniad
 chanlyniadau
+chanolbarth
+chanolbarthau
 chanolog
 chanolradd
 chansen
@@ -6861,6 +7419,10 @@ charai
 charan
 charchar
 charcharu
+chardinal
+chardinal cyffredin
+chardinaliaid
+chardinaliaid cyffredin
 chared
 chares
 charet
@@ -6891,8 +7453,11 @@ cheffyl
 chefn
 chefn gwlad
 chefnau
+chefnddu
 chefnder
 chefnfor
+chefnwyn
+chefnwyrdd
 chegin
 chei
 cheir
@@ -6907,6 +7472,7 @@ chemeg
 chenhinen
 chennin
 cherdded
+cherddi
 cherddoriaeth
 cheri
 cherir
@@ -6967,6 +7533,19 @@ chneuen Ffrengig
 chneuen gyll
 chnewyll
 chnewyllyn
+chnoc
+chnocell
+chnocell ddu
+chnocell lwydaidd
+chnocell wlanog
+chnocell yddfgoch
+chnocellau
+chnocellau duon
+chnocellau gwlanog
+chnocellau gyddfgoch
+chnocellau llwydaidd
+chnocellod
+chnociau
 chnoi
 chnuchio
 chnwd
@@ -6996,7 +7575,12 @@ chogyddes
 chogyddesau
 chogyddion
 cholli
+cholomen
+cholomennod
 choma
+chont
+chontau
+chontiau
 chonwyddau
 chopa
 chopi
@@ -7014,17 +7598,25 @@ choron
 choronafeirws
 chorrach
 chorrod
+chorunllwyd
 chostrel
 chosyn
 chot
 chot law
+chowboi
+chowbois
 chrac
 chranc
 chrancod
 chredu
+chrib
+chribau
+chribfelyn
+chribwyn
 chriced
 chroen
 chroes
+chroeso
 chrug
 chrwban
 chrwbanod
@@ -7034,6 +7626,12 @@ chrwys
 chrys
 chrysau
 chu
+chudyll
+chudyll coch
+chudyll coch bach
+chudyllod
+chudyllod cochion
+chudyllod cochion bach
 chudyn
 chudynnau
 chul
@@ -7045,6 +7643,7 @@ chusan
 chusanau
 chusanu
 chut
+chwadal
 chwaer
 chwaer efell
 chwaer faeth
@@ -7074,6 +7673,7 @@ chwaraeon
 chwaraewr
 chwaraewr CD
 chwaraewr crynoddisg
+chwaraewr hoci
 chwaraewr recordiau
 chwaraewr triciau
 chwardd
@@ -7100,6 +7700,7 @@ chwech a thrigain
 chwech ar hugain
 chwech o un a hanner dwsin o'r llall yw hi
 chwechau
+chwechawd
 chweched
 chweched ar hugain
 chwedeg
@@ -7107,23 +7708,29 @@ chwedeg naw
 chwedegau
 chwedl
 chwedlau
+chwedleua
 chwedleugar
 chwedloniaeth
 chwedlonol
 chwegr
 chwegrwn
 chweina
+chweiniog
 chweinllyd
 chweinllys maes
 chwelydr
 chwennych
 chwenychu
+chweochrog
 chweongl
 chwerfan
 chwerfwr
 chwern
 chwerthin
+chwerthin am ben
+chwerthin ar ben
 chwerthinllyd
+chwerthinog
 chwerw
 chwerwddwr
 chwerwddwr y môr
@@ -7133,6 +7740,7 @@ chwery
 chwest
 chwestiwn
 chweugain
+chwfl
 chwi
 chwibanogl
 chwibanu
@@ -7141,6 +7749,7 @@ chwigain
 chwil
 chwil-lys
 chwilair
+chwilboeth
 chwilen
 chwilen ddu
 chwilen glust
@@ -7174,6 +7783,7 @@ chwiwladrata
 chwm
 chwmni
 chwmnïau
+chwmpas
 chwningen
 chwningod
 chwpan
@@ -7186,6 +7796,7 @@ chwrw
 chwychwi
 chwydd
 chwydd beudagol
+chwydd y gwddf
 chwyddau
 chwyddedig
 chwyddiannau
@@ -7224,6 +7835,8 @@ chwythad
 chwythaf
 chwythau
 chwythdwll
+chwythed
+chwythgorn
 chwythiad
 chwythlamp
 chwythu
@@ -7234,9 +7847,11 @@ chwŷth
 chy-
 chychod
 chychwyn
+chycyllog
 chyd-
 chydbreswylwyr
 chyf-
+chyfalafiaeth
 chyfaredd
 chyfarfod
 chyfarfodydd
@@ -7246,6 +7861,7 @@ chyfforddus
 chyffrous
 chyfiawnder
 chyfieithu
+chyflau
 chyflym
 chyfnither
 chyfoeth
@@ -7254,6 +7870,7 @@ chyfoethocaf
 chyfoethog
 chyfoethogion
 chyfr-
+chyfraith
 chyfrannu
 chyfreithiwr
 chyfreithwraig
@@ -7275,6 +7892,7 @@ chymorth
 chymylog
 chyn-
 chynffon
+chynffonddu
 chyngerdd
 chyngherddau
 chyngor
@@ -7308,6 +7926,8 @@ chysylltiad
 chysyniad
 chysyniadau
 chyt-
+chytgan
+chytganau
 chythraul
 chythreuliaid
 chywair
@@ -7316,6 +7936,7 @@ chân
 chôt
 chôt law
 chŵn
+chŵyn
 ch’mod
 ci
 ci anwes
@@ -7351,6 +7972,7 @@ cig moch
 cig mollt
 cig oen
 cigfach
+cigfachwr cefnddu
 cigfrain
 cigfran
 cigoedd
@@ -7368,6 +7990,8 @@ cil
 cilan
 cilbost
 cilbren
+cilchwerthin
+cilchwerthiniad
 cilddant
 cildraeth
 cildrem
@@ -7377,9 +8001,12 @@ ciledrych
 cilfach
 cilfachell
 cilfil
+cilfilyn
 cilgant
 cilgantau
 cilgi
+cilgnoi
+cilgnöol
 cilgnöwr
 cilio
 cilo
@@ -7393,6 +8020,7 @@ cilydd
 cimwch
 cimwch Mair
 cimychiaid
+cineseg
 cingroen
 ciniaw
 cinio
@@ -7406,6 +8034,7 @@ cist arfau
 cist de
 cist logellog
 cist offer
+cist wynt
 cistiau
 cistiau llogellog
 ciw
@@ -7438,7 +8067,7 @@ claf o gariad
 clafdy
 clafr
 clafrllys mawr
-clafrlys y maes ()
+clafrlys y maes
 clafychu
 clai
 clai pannwr,
@@ -7446,7 +8075,7 @@ clais
 clan
 claniau
 clap
-clari'r maes ()
+clari'r maes
 clarinét
 clas
 clastir
@@ -7493,9 +8122,11 @@ clefyd tân gwyllt
 clefyd y Sul
 clefyd y galon
 clefyd y gwair
+clefyd y gwynt
 clefyd y pwd
 clefyd y siwgr
 clefydau
+clegar
 clegr
 clegyr
 clegyrau
@@ -7514,6 +8145,7 @@ clerigwr
 clesinen
 cletir
 cliciadwy
+clicied
 clicio
 clicio "iawn"
 cliff
@@ -7561,6 +8193,7 @@ cloch alw
 cloch angladd
 cloch baban
 cloch bach
+cloch blymio
 cloch ddwfr
 cloch drws
 cloch drydan
@@ -7605,6 +8238,7 @@ cloddiau
 cloddio
 cloddiog
 cloddiwr
+cloddiwr ager
 clodfawr
 clodforedd
 clodfori
@@ -7698,6 +8332,7 @@ clwydi
 clwyf
 clwyf du
 clwyf y dŵr
+clwyf y gwynt
 clwyf y traed a’r genau
 clwyfau
 clwyfdy
@@ -7741,6 +8376,7 @@ clêr
 clòs
 clôs pen-glin
 cnaif
+cnap hoci
 cnau
 cnau Ffreinig
 cnau Ffrengig
@@ -7769,23 +8405,39 @@ cneuen goco
 cneuen gyll
 cnewyll
 cnewyllyn
+cnewyllyn tiwb paill
 cnicyn
 cnoc
 cnocell
+cnocell Folwen
+cnocell Magellan
 cnocell ddu
 cnocell fraith fwyaf
 cnocell fraith leiaf
 cnocell gopog gefnwen
+cnocell gorunfrown
+cnocell lwydaidd
 cnocell werdd
+cnocell wlanog
+cnocell yddfgoch
+cnocellau
+cnocellau duon
+cnocellau gwlanog
+cnocellau gyddfgoch
+cnocellau llwydaidd
+cnocellod
+cnociau
 cnocio
 cnodiog
 cnofa
+cnofeydd
 cnofil
+cnofilod
 cnoi
 cnu
 cnuchio
 cnud
-cnuoedd
+cnuf
 cnwd
 cnwp-fwsogl
 cnwp-fwswgl
@@ -7803,15 +8455,19 @@ cocatîl
 cocatŵ
 cocatŵod
 coch
+coch coronog
+coch dan adain
+coch gloyw
 coch y berllan
 coch-frown
+cochddu
 cochen
-cochen f ()
 cochion
 cochl
 cochlas
 cochlau
 cochwat
+cochwelw
 cochwraidd
 cochwys
 cochyn
@@ -7863,7 +8519,6 @@ codywasg y maes
 coed
 coed afalau
 coed collen Ffrengig
-coed eirin
 coedaidd
 coedd
 coeden
@@ -7872,10 +8527,12 @@ coeden afal bach sur
 coeden afalau
 coeden becan
 coeden brifet
+coeden eirin duon
 coeden eirin gwlanog
 coeden eirlysiau
 coeden faobab
 coeden gacao
+coeden gamffor
 coeden geirios rym
 coeden ginco
 coeden gnau Brasil
@@ -7901,14 +8558,23 @@ coelbren
 coelcerth
 coelio
 coes
+coes brwsh
 coes las y maes
+coes padell
+coes sosban
 coes ôl
 coesarn
 coesarnau
+coesgam
 coesgroes
 coesyn llygad
 coesyn yr ymennydd
+coeth
+coethder
+coethi
 coethlestr
+coethni
+coethwr
 coetir
 cof
 cof bach
@@ -7925,6 +8591,14 @@ coffa
 coffadwriaeth
 coffadwriaethol
 coffi
+coffi du
+coffi gwyn
+coffi hidl
+coffi mâl
+coffi parod
+coffi percoladur
+coffi rhew
+coffi wedi'i hidlo
 coffáu
 coffâd
 cofgolofn
@@ -7952,6 +8626,7 @@ cofleidiau
 cofleidio
 coflen
 cofnod
+cofnod feddygol
 cofnod heddlu
 cofnodedig
 cofnodi
@@ -7994,6 +8669,8 @@ colegaidd
 coler
 coler crwn
 coler gron
+coler las
+coler wen
 colera
 coleri
 colfach
@@ -8005,16 +8682,30 @@ coll
 collasant
 collddail
 colled
+colledig
 colledion
 collen
 collen Ffrengig
 collen ystwyth
 colli
+colli amser
+colli arno ei hun
+colli blas
 colli cof
 colli cwsg
+colli ei dymer
+colli ei ffordd
+colli gafael
+colli gwynt
+colli limpin
 colli pwysau
 colli tymer
+colli wyneb
+colli'r dydd
+colli'r ffordd
+colli'r plot
 collnod
+collwr
 collwr gwael
 collwr sâl
 coloffoni
@@ -8025,6 +8716,7 @@ colomen
 colomen Mair
 colomen gopog
 colomen gopog Awstralia
+colomen werdd fochlwyd
 colomen wyllt
 colomen y graig
 colomendy
@@ -8035,12 +8727,15 @@ colsyn
 coluddyn
 coluddyn bach
 coluddyn crog
+coluddyn dall
 coluddyn mawr
 columen ddychwel
 colur
 coluro
+colwyn
 colyn
 coma
+combein
 combác
 comed
 comedïwr
@@ -8073,12 +8768,15 @@ condor
 confforddus
 congl
 conglfaen
+consol organ
 consortiwm
 consurio
 cont
 cont fôr
 cont goch
 cont y môr
+contau
+contiau
 contract
 contractau
 conwydd
@@ -8126,6 +8824,7 @@ corachedd
 corachiaid
 corachod
 corbenfras
+corbennog
 corbwmpen
 corbys
 corbysen
@@ -8137,6 +8836,7 @@ corddi
 cordion
 cored
 corfarch
+corfedw
 corff
 corff hadol
 corff llong
@@ -8169,7 +8869,6 @@ corgïaid
 corgïan
 corhedydd
 corhedydd y caeau reis
-corhedydd y caeau reis ()
 corhedydd y coed
 corhedydd y graig
 corhedydd y waun
@@ -8185,7 +8884,9 @@ corn
 corn Ffrengig
 corn Seisnig
 corn carw'r môr
+corn digonedd
 corn gwddf
+corn llawnder
 corn yfed
 cornant
 cornbilen
@@ -8202,6 +8903,7 @@ coronafeirws
 coronafeirysau
 coronafirws
 coronau
+coroni
 coroniad
 coronig
 coronigau
@@ -8211,9 +8913,12 @@ corrod
 corryn
 corryn-granc
 cors
+cors heli
 corstir
 corswellt y tywod
 cortyn
+corun
+corunllwyd
 corwg
 corwgl
 corwynt
@@ -8233,10 +8938,10 @@ cosiad
 cosmogoni
 cost
 costau
+costi
 costio
 costiwm
 costiymau
-costo
 costrel
 costrel bridd
 costrel gron
@@ -8260,12 +8965,14 @@ cotiau
 cotiau ffwr
 cotwm
 cowboi
+cowbois
 cowlaid
 cownter
 cowpog
 cowyll
 crabysyn
 crac
+cracer Nadolig
 crach-hwyaden
 cracheithin
 cracheithinen
@@ -8276,6 +8983,7 @@ crafanc
 crafanc y frân
 crafanc yr arth
 crafanc-yr-arth
+crafangorn
 craff
 crafu
 cragen
@@ -8292,6 +9000,7 @@ craidd
 craidd mur
 craig
 craig igneaidd
+craig noeth
 craigwely
 crair
 craith
@@ -8311,14 +9020,15 @@ crancwellt
 crand
 crandrwydd
 cras
+crasddadrwydd
 crasfa
 crasfeydd
 crasiad
 crastir
 crasu
 crau
-crau nodwydd
 crau'r llygad
+craw
 crawc
 crawciad
 crawcian
@@ -8362,6 +9072,7 @@ crefftau
 crefftus
 crefftwaith
 crefftwr
+crefftwr geiriau
 crefftwriaeth
 crefftwrol
 crefftwyr
@@ -8407,11 +9118,17 @@ criafolen
 criafolen y moch
 crib
 crib ceiliog
+cribau
 cribau 'r pannwr
 cribau Mair
+cribau San Ffraid
 cribau'r pannwr
 cribell
+cribfelyn
 cribin
+cribiog
+cribog
+cribwyn
 criced
 cricedwr
 criciedyn
@@ -8429,6 +9146,7 @@ crisben
 crisial
 crispen
 criw
+criw brith
 criwiau
 crocbren
 croch
@@ -8455,13 +9173,17 @@ croesair
 croesawu
 croesawydd
 croesbren
+croesfa
+croesfan
 croesfan cerddwyr
+croesfan gerddwyr
 croesfan gwastad
 croesfan sebra
 croesfan zebra
 croesffordd
 croesgad
 croesgadwr
+croesgyfeiriad
 croeshoeliad
 croeshoelio
 croesholi
@@ -8513,16 +9235,20 @@ croten
 crotes
 croth
 croth y goes
-croth y goes ()
 crothell
 crothell y dom
 crud
 crudiau
 crug
 crugen
+crugiau
 crugo
 crugyn
 crwban
+crwban môr
+crwban môr gwyrdd
+crwban môr lledrgefn
+crwban y môr
 crwbanod
 crwm
 crwmach
@@ -8533,7 +9259,6 @@ crwneriaid
 crws
 crwsibl
 crwst
-crwst ()
 crwst brau
 crwt
 crwth
@@ -8569,6 +9294,11 @@ cryched
 crychiog
 crychion
 crychydd
+crychydd cam
+crychydd dindon
+crychydd glas
+crychyddion
+crychyddod
 cryd
 crydd
 crydda
@@ -8611,6 +9341,7 @@ crypton
 crys
 crys chwys
 crys melyn
+crys rhawn
 crys-T
 crys-T brethyn gwrth-chwys
 crys-t
@@ -8623,11 +9354,13 @@ crëyr
 crëyr bach
 crëyr copog
 crëyr glas
+crëyr mawr gwyn
 crëyr melyn
 crëyr nos
 crïo
 crŵp
 crŷn
+crŷr
 cthonig
 cu
 cuan
@@ -8642,10 +9375,13 @@ cuddiad
 cuddio
 cuddliw
 cuddliwio
+cuddliwo
 cudyll
 cudyll coch
 cudyll coch bach
 cudyllod
+cudyllod cochion
+cudyllod cochion bach
 cudyn
 cudyn ysgwydd
 cudynnau
@@ -8668,10 +9404,12 @@ cur yn y pen
 curad
 curadur
 curiad
+curiad calon
 curiau
 curiwm
 curlaw
 curo
+curyll
 cusan
 cusan Ffrengig
 cusan adfer
@@ -8688,6 +9426,7 @@ cwadriliwn
 cwar
 cwarel
 cwarrau
+cwarter
 cwarts
 cwato
 cwb
@@ -8700,6 +9439,7 @@ cwch
 cwch camlas
 cwch gwenyn
 cwcw
+cwcwll
 cwcyr
 cwd
 cwdyn
@@ -8719,6 +9459,7 @@ cwestau
 cwestiwn
 cwestiynau
 cwffio
+cwfl
 cwgar
 cwgn
 cwinoa
@@ -8733,7 +9474,9 @@ cwlltwr
 cwlm
 cwlwm
 cwlwm tafod
+cwlwm y coed
 cwm
+cwmin
 cwmis
 cwmni
 cwmnïau
@@ -8767,7 +9510,10 @@ cwpanaid o de
 cwpanau
 cwpaneidiau
 cwpanu
+cwpl
 cwpla
+cwplws
+cwpsau
 cwpwrd
 cwpwrdd
 cwpwrdd dillad
@@ -8779,6 +9525,7 @@ cwrel
 cwrliog
 cwrlog
 cwrs
+cwrs golff
 cwrt
 cwrt cosbi
 cwrw
@@ -8798,11 +9545,13 @@ cwt
 cwt cwningen
 cwt glo
 cwt ieir
+cwt trin
 cwta
 cwter
 cwtfys
 cwthwm
 cwtiad
+cwtiad Caint
 cwtiad aur
 cwtiad du
 cwtiad hirgoes
@@ -8820,6 +9569,7 @@ cwtsio
 cwyd
 cwymp
 cwymp tir
+cwymplen
 cwympo
 cwyn
 cwyna
@@ -8848,11 +9598,14 @@ cychwyniad
 cychwynnol
 cychwynnwr
 cychwynnydd
+cycyllau
+cycyllog
 cyd
 cyd-
 cyd-denantiaeth
 cyd-destun
 cyd-destunau
+cyd-dynnu
 cyd-fynd
 cyd-weithiad
 cyd-weithio
@@ -8865,6 +9618,7 @@ cyd-weld
 cyd-wladwr
 cydaddysgu
 cydaid
+cydblethu
 cydbreswylwyr
 cydbwysedd
 cydeidiau
@@ -8877,6 +9631,11 @@ cydfynd
 cydgordio
 cydgordiol
 cydiwr
+cydleoli
+cydleoliad
+cydlifiad
+cydlifiadau
+cydlifo
 cydlynu
 cydnabod
 cydnabyddiad
@@ -8895,6 +9654,10 @@ cydsyniadau
 cydsynied
 cydsynio
 cydsyniol
+cydwedd
+cydweddog
+cydweddol
+cydweddu
 cydweithiad
 cydweithio
 cydweithiwr
@@ -8906,6 +9669,8 @@ cydweithredwr
 cydweithredwyr
 cydweithwyr
 cydwelediad
+cydwybod
+cydwybodol
 cydymaith
 cydymbaid
 cydymdeimlad
@@ -8914,11 +9679,10 @@ cyf-
 cyf-weld
 cyfaddas
 cyfaddasiad
-cyfaddasol
 cyfaddasrwydd
-cyfaddaster
 cyfaddasu
 cyfaddef
+cyfaddefiad
 cyfagos
 cyfagosrwydd
 cyfaill
@@ -8932,8 +9696,13 @@ cyfamodwr
 cyfamser
 cyfan
 cyfandir
+cyfandirol
+cyfandirwr
 cyfangiad
 cyfanheddu
+cyfaniaeth
+cyfannol
+cyfannu
 cyfanrif
 cyfanrwydd
 cyfansoddair
@@ -8954,6 +9723,7 @@ cyfarch
 cyfarchiad
 cyfarchiad Mair
 cyfarchol
+cyfardwf
 cyfaredd
 cyfareddol
 cyfareddu
@@ -8974,6 +9744,7 @@ cyfarthfa
 cyfarthiad
 cyfarthiadau
 cyfarwydd
+cyfarwyddeb
 cyfarwyddiad
 cyfarwyddiadol
 cyfarwyddiadur
@@ -9002,7 +9773,6 @@ cyfeilydd
 cyfeilyddes
 cyfeirgi Gwyddelig
 cyfeiriad
-cyfeiriad m ()
 cyfeiriadau
 cyfeiriadedd rhywiol
 cyfeiriadol
@@ -9012,6 +9782,7 @@ cyfeiriannu
 cyfeiriant
 cyfeiriau
 cyfeirio
+cyfeiriol
 cyfeiriwr
 cyfeirlyfr
 cyfeirnod
@@ -9020,6 +9791,13 @@ cyfenw
 cyfenwau
 cyfer
 cyferbyn
+cyferbynadwy
+cyferbyniad
+cyferbyniaeth
+cyferbyniol
+cyferbynnedd
+cyferbynnol
+cyferbynnu
 cyfernod
 cyfernodau
 cyff
@@ -9028,10 +9806,22 @@ cyff gwawd
 cyffaith
 cyffeithio
 cyffes
+cyffes fydd
+cyffes genau
+cyffes glust
+cyffes gudd
+cyffes gyfrinachol
+cyffes tafod
 cyffesau
+cyffesgell
+cyffesu
+cyffeswr
+cyffin
 cyffindir
 cyffindref
 cyffindwyllo
+cyffinio
+cyffiniol
 cyffordd
 cyfforddus
 cyffredin
@@ -9040,6 +9830,7 @@ cyffro
 cyffroi
 cyffrous
 cyffur
+cyffur gwrthlid ansteroidol
 cyffwrdd
 cyffyloca
 cyffylog
@@ -9063,6 +9854,8 @@ cyflafareddiadau
 cyflafareddu
 cyflafareddwr
 cyflafareddwyr
+cyflasyn
+cyflau
 cyflawn
 cyflawnaf
 cyflawni
@@ -9074,6 +9867,7 @@ cyflenwad
 cyflenwad a galw
 cyflenwi
 cyfleoedd
+cyfleoli
 cyfleu
 cyfleus
 cyfleuster
@@ -9140,6 +9934,7 @@ cyfradd atgenhedlu
 cyfraddau
 cyfraddol
 cyfraith
+cyfraith achosion
 cyfraith deuluol
 cyfraith llys
 cyfraith rhyfel
@@ -9172,6 +9967,7 @@ cyfranwyr
 cyfred
 cyfrediad
 cyfredol
+cyfreitheg
 cyfreithiol
 cyfreithiwr
 cyfreithiwr cyffredinol
@@ -9224,6 +10020,7 @@ cyfrol
 cyfrolau
 cyfrwng
 cyfrwng Cymraeg
+cyfrwng ocsidio
 cyfrwngddarostyngedigaeth
 cyfrwy
 cyfrwyo
@@ -9244,6 +10041,7 @@ cyfun
 cyfundeb
 cyfundrefn
 cyfundrefn caeau
+cyfundrefn faeth
 cyfundrefn heulog
 cyfundrefnau
 cyfundrefnol
@@ -9290,14 +10088,49 @@ cyhydnos
 cyhydnos y gwanwyn
 cyhydnos yr hydref
 cyhyr
+cyhyr anrheoledig
+cyhyr anrhesiog
+cyhyr anrhesog
+cyhyr artiffisial
+cyhyr ciliaraidd
+cyhyr croth y goes
+cyhyr crwn
+cyhyr deltoid
+cyhyr deuben
+cyhyr dyleddfol
+cyhyr estyn
+cyhyr gastrocnemiws
+cyhyr gostwn
+cyhyr gracilis
+cyhyr hydredol
 cyhyr llyfn
-cyhyr pedryben
+cyhyr llygad
+cyhyr maseter
+cyhyr pectoralis lleiaf
+cyhyr pectoralis mwyaf
+cyhyr pedwarpen
+cyhyr resbiradol
+cyhyr rheoledig
+cyhyr rhesog
+cyhyr rhyngasennol
+cyhyr sgerbydol
+cyhyr solews
+cyhyr sy'n blino
+cyhyr sythu
+cyhyr tibialis blaen
 cyhyr triphen
+cyhyr y galon
+cyhyr y grimog
+cyhyr-groenol
 cyhyraeth
+cyhyredd
 cyhyrog
-cyhyrogrywdd
+cyhyrogrwydd
+cyhyrol
+cyhyrsgerbydol
 cyhyryn
 cyhyryn deuben
+cyhyryn estyn
 cylch
 cylch allweddi
 cylch cythreulig
@@ -9306,7 +10139,9 @@ cylchdro
 cylchdroi
 cylched
 cylched fer
+cylched gyfannol
 cylchedd
+cylchfa baill
 cylchfan
 cylchfannau
 cylchgrawn
@@ -9319,6 +10154,7 @@ cylchoedd
 cylchred
 cylchred garbon
 cylchred nitrogen
+cylchrediad
 cylchu
 cylchymadrodd
 cylchyn
@@ -9344,13 +10180,16 @@ cyllido
 cyllidol
 cyllidwr
 cyllyll
+cyllyll a ffyrc
 cymaint
 cymaint â hynny
 cymal
+cymal cyffredinol
 cymal perthynol
 cymar
 cymariaethau
 cymathiad
+cymathiad ôl
 cymdeithas
 cymdeithasau
 cymdeithaseg
@@ -9404,7 +10243,7 @@ cymorth cyntaf
 cymorthion
 cymorthwyo
 cymryd
-cymryd ()
+cymryd gordd i dorri cneuen
 cymryd lle
 cymun
 cymundeb
@@ -9450,11 +10289,13 @@ cyn
 cyn belled â hynny
 cyn bo hir
 cyn cenhedlu
+cyn falched â phaun
 cyn hyn
 cyn hyned â Methuselah
 cyn hyned â phechod
 cyn hyned â'r garreg
 cyn hynny
+cyn wired â'r pader
 cyn wynned â'r eira
 cyn wynned â'r ewyn ar y dŵr
 cyn y rhyfel
@@ -9466,6 +10307,7 @@ cynadleddwr
 cynaeafau
 cynaeafu
 cynaeafwr
+cynaeafydd
 cynaidd
 cynaliadau
 cynaniad
@@ -9484,21 +10326,35 @@ cyneginyn
 cynfas
 cynfasu
 cynffon
+cynffon colomen
 cynffon merlen
+cynffon paun
+cynffon sidan
+cynffon sidan y cedrwydd
 cynffon y gath
+cynffonddu
+cynffonlas
+cynffonlas ystlysgoch
+cynffonnog
 cynffonwellt y maes
 cynflaidd
 cynfrodor
 cynfual
 cyngaf
+cyngaf mawr
+cyngaf min y ffordd
 cynganeddion
 cynganeddol
 cynganeddu
 cynganeddwr
 cyngaws
 cyngerdd
+cynghafan
+cynghafog
+cynghafog y Dwyrain
 cynghafog y maes
 cynghanedd
+cynghanedd y bydoedd fry
 cynghellor
 cyngherddau
 cynghorau
@@ -9540,13 +10396,13 @@ cynhennus
 cynhennwr
 cynhesu
 cynhorthwy
-cynhwyswr
-cynhyrchiad m ()
+cynhwysfawr
+cynhwysydd
+cynhyrchiad
 cynhyrchiol
-cynhyrchiol ()
 cynhyrchu
-cynhyrchu ()
 cynhyrchydd
+cynhyrchydd haprifau
 cynhyrfiad
 cynhyrfu
 cynhyrfus
@@ -9558,6 +10414,7 @@ cynigiad
 cynigio
 cynigiwr
 cynigydd
+cynildeb
 cynilo
 cynion
 cynllun
@@ -9576,6 +10433,7 @@ cynneddf
 cynnen
 cynnes
 cynnig
+cynnil
 cynnud
 cynnull
 cynnwr
@@ -9618,7 +10476,9 @@ cynutai
 cynyddol
 cynyddu
 cyplad
+cyplu â
 cyplysnod
+cyplysu
 cyransen goch
 cyrc
 cyrch
@@ -9648,7 +10508,6 @@ cyrn
 cyrn Ffrengig
 cyrn Seisnig
 cyrraedd
-cyrraedd ()
 cyrri
 cyrsiau
 cyrt
@@ -9681,6 +10540,7 @@ cysgodol
 cysgon
 cysgu
 cysgu fel clawdd
+cysgu'n hwyr
 cysgwch
 cysgwyd
 cyson
@@ -9707,6 +10567,7 @@ cysurus
 cyswllt
 cyswllt anghyffro
 cysylltair
+cysyllteiriau
 cysylltiad
 cysylltiad achosol
 cysylltiad amodol
@@ -9720,33 +10581,40 @@ cysylltiad isradd
 cysylltiad rhwydwaith
 cysylltiad rhyngrwyd
 cysylltiad strategol
+cysylltiadau
 cysylltiadau rhyngwladol
 cysylltiadol
 cysylltiedig
 cysylltiedigaeth
 cysylltnod
+cysylltnodau
 cysylltu
 cysylltydd
+cysylltyddion
 cysyniad
 cysyniadau
 cyt-
 cytew
+cytgan
+cytganau
 cytgord
+cytgord y bydoedd uwchben
 cythraul
 cythraul Tasmania
 cythreuliaid
 cythreuliaid Tasmania
 cythrudd
+cythryblus
 cytiau
 cytir
 cytref
-cytref ()
 cytrefi
 cytrefol
 cytrefu
 cytsain
 cytsain affrithiol
 cytsain dawdd
+cytsain drwynol
 cytsain eneuol
 cytsain gorfannol
 cytsain grech
@@ -9763,15 +10631,21 @@ cyvarwys
 cyw
 cyw gŵydd
 cyw iâr
+cyw iâr wedi’i ffrio
 cywain
 cywair
+cywair llaeth
 cywarch
 cywasgiad
 cyweirgorn
 cyweiriad
 cyweirio
+cyweirio â heli
 cywelyes
+cywillydd
+cywillyddio
 cywilydd
+cywilyddus
 cywion
 cywir
 cywirdeb
@@ -9799,6 +10673,7 @@ côl
 côma
 côr
 côr feistr
+côr y wig
 côr-feistr
 côt
 côt ddwster
@@ -9807,6 +10682,7 @@ cŵn
 cŵyn
 cŵyr
 cŵyr clustiau
+cŵyr gwenyn
 cŷn
 cŷn crwn
 cŷr
@@ -9815,6 +10691,7 @@ d'
 da
 da byw
 da chi
+da i ddim
 da iawn
 da-da
 dach
@@ -9826,6 +10703,7 @@ dad-
 dad-wneud
 dadannudd
 dadansoddi
+dadansoddi paill
 dadansoddiad
 dadansoddiad fflworin
 dadansoddiad isotop nitrogen
@@ -9834,12 +10712,16 @@ dadansoddiadau
 dadansoddol
 dadansoddwr
 dadansoddwyr
+dadbacio
 dadfachu
 dadfathiad
+dadhydradu
 dadiol
 dadl
 dadl dau
 dadlau
+dadleoledig
+dadleoli
 dadleoliad
 dadleugarwch
 dadleuol
@@ -9886,6 +10768,8 @@ daethpwyd
 dafad
 dafadaidd
 dafaden
+dafaden wyllt
+dafadennog
 dafarn
 dafarnwr
 dafarnwraig
@@ -9902,6 +10786,7 @@ dai bach
 daid
 dail
 dail arian
+dail bach
 dail tafol
 dail te
 dail yr hocys
@@ -9913,6 +10798,7 @@ dal a storio carbon
 dal ar y gamfa
 dal ati
 dal carbon
+dal eich gwynt
 dala
 dala annwyd
 dalach
@@ -9920,6 +10806,7 @@ dalais
 dalaist
 dalan
 dalcen
+daldra
 daled
 dalen
 dalent
@@ -9956,7 +10843,9 @@ dalu
 dalwyr
 dam-
 damcaniaeth
+damcaniaeth rhifau
 damcaniaethau
+damcaniaethol
 damcaniaethu
 damcanu
 damio
@@ -9973,6 +10862,7 @@ dan anfantais
 dan bwysau
 dan din
 dan do
+dan eich gwynt
 dan glo
 dan haul
 dan nawdd
@@ -10001,6 +10891,14 @@ danadl marw coch
 danadl poethion
 danadl y cywarch
 danadl ysgar
+danagr
+danagr coch
+danagr coch bochlwyd
+danagr coch mygydog
+danagrod
+danagrod cochion
+danagrod cochion bochlwyd
+danagrod cochion mygydog
 danas
 danau
 danfon
@@ -10008,6 +10906,9 @@ dangos
 dangoseg
 dangosolyn
 danhadlen
+danhogen
+danhogen y coed
+daniwr
 dannedd
 dannodd
 dannoedd
@@ -10020,10 +10921,17 @@ dant llygad
 dant melys
 dant y llew
 danteithfa
+danwared
+danwyr
 dapin
 dar-
 darafal
+daran
+darbod
+darbodaeth
+darbodus
 darfodedig
+darfodus
 darganfod
 darganfyddiad
 darganfyddwr
@@ -10083,6 +10991,8 @@ darpar wraig
 darpar ŵr
 darparu
 darstain
+dart
+darth
 darw
 dasai
 dat-
@@ -10097,6 +11007,7 @@ datblygwr
 datblygwyr
 daten
 datgan
+datganiad maeth
 datganiad statudol
 datgelu
 datgladdu
@@ -10132,6 +11043,7 @@ dau gant
 dau gwrw, os gwelwch yn dda
 dauddegau
 daw
+daw eto haul ar fryn
 dawa
 dawel
 dawelwch
@@ -10139,7 +11051,7 @@ dawn
 dawn arbennig
 dawnbwyd
 dawns
-dawns amser tea
+dawns amser te
 dawnsian
 dawnsio
 dawnsiwr
@@ -10153,6 +11065,7 @@ ddadlau
 ddadlwytho
 ddadlwythodd
 ddaear
+ddaeareg
 ddaeth
 ddaethoch
 ddaethon
@@ -10194,6 +11107,7 @@ ddeallodd
 ddeallon
 ddechrau
 ddechreuaf
+ddefaid
 ddefnyddio
 ddefnyddiwr
 ddeg
@@ -10208,6 +11122,7 @@ ddelo
 ddelw
 ddemocrataidd
 ddeng
+dderbyn
 dderbynfa
 ddere
 dderw
@@ -10227,6 +11142,8 @@ ddeugain
 ddewis
 ddewr
 ddi-
+ddi-baid
+ddial
 ddianc
 ddiddorol
 ddienw
@@ -10236,21 +11153,32 @@ ddiflas
 ddiflasach
 ddiflasaf
 ddiflased
+ddigid
+ddigidau
+ddigidol
 ddigon
 ddigwydd
+ddigwyddiad
+ddigwyddiadau
 ddigwyddodd
 ddigynnwrf
 ddileu
 ddillad
 ddilledyn
+ddilyn
 ddim
 ddim byd
 ddim eto
 ddim o gwbl
+ddim yn ffôl
 ddiod
 ddirmygu
 ddis-
 ddisgwyl
+ddisgyn
+ddisgynebau
+ddisgynedig
+ddisgynneb
 ddiweddar
 ddiwylliant
 ddod
@@ -10270,6 +11198,7 @@ ddonioled
 ddos
 ddosbarth
 ddosbarthau
+ddot
 ddown
 ddraenog
 ddraig
@@ -10280,6 +11209,7 @@ ddrud
 ddrutach
 ddrwg
 ddrwm
+ddrygioni
 ddu
 dduach
 dduaf
@@ -10316,17 +11246,23 @@ ddydd Mawrth
 ddydd Mercher
 ddydd Sadwrn
 ddydd Sul
+ddyddiau
 ddyfalbarhad y saint
 ddyflwydd
+ddyfnder
+ddyfrgi
 ddyfrgist
+ddyfrgwn
 ddyfroedd
 ddyled
 ddym-
 ddyn
 ddynes
+ddynfarch
 ddynion
 ddynol
 ddynoliaeth
+ddyrchafedig
 ddâr
 ddòl
 ddôn
@@ -10375,6 +11311,8 @@ dedfryd
 dedfrydau
 dedfrydu
 dedwydd
+dedwyddwch
+dedwyddyd
 defaid
 defeidiog
 defeity
@@ -10384,6 +11322,7 @@ defnydd
 defnyddiau
 defnyddio
 defnyddiol
+defnyddioldeb
 defnyddiwr
 defnyddwraig
 defnyddwyr
@@ -10425,6 +11364,7 @@ deial
 deial haul
 deialau
 deifio
+deifiwr
 deigr
 deigrod
 deigryn
@@ -10482,6 +11422,7 @@ deles
 delest
 delet
 delfryd
+delfryd ymddwyn
 delfrydiaeth
 delfrydol
 delfrydwr
@@ -10495,12 +11436,17 @@ deloch
 delodd
 delom
 delon
+delor
+delor cnau
+delor y cnau
 delw
+delw gerfiedig
 delw-addoliad
 delw-addoliaeth
 delwau
 delwddrylliad
 delwddrylliol
+delwedd
 delwn
 delwyddrylliwr
 delyn
@@ -10519,6 +11465,7 @@ dentin
 dentydd
 denu
 derbyn
+derbyn cyffes
 derbynebau
 derbynfa
 derbynfeydd
@@ -10549,6 +11496,7 @@ deses
 desest
 deset
 desg
+desg dalu
 desg talu
 desgiau
 desoch
@@ -10565,6 +11513,7 @@ dethodd
 dethol
 detholedig
 detholedigaeth
+detholiad naturiol
 dethon
 dethwn
 detyd
@@ -10614,6 +11563,18 @@ deuwyd
 dew
 dewach
 dewaf
+dewbig
+dewbig cefnddu
+dewbig cyfnos
+dewbig cynffonddu
+dewbig du a melyn
+dewbig pinwydd
+dewbigau
+dewbigau cefnddu
+dewbigau cyfnos
+dewbigau cynffonddu
+dewbigau du a melyn
+dewbigau pinwydd
 dewch
 dewch ymlaen
 dewder
@@ -10625,20 +11586,42 @@ dewiniaeth
 dewiniaid
 dewinio
 dewis
+dewis a dethol
 dewisiad
+dewisiadau
 dewislen
 dewr
 dewteriwm
+deyrn
+deyrn corunllwyd
+deyrn cycyllog
+deyrn gwinau bach
+deyrn gwinau mawr
+deyrn melyngoch
+deyrn tinfelyn
 deyrnaddoliant
 deyrnas
+deyrnasau
+deyrnedd
+deyrniaid
+deyrniaid corunllwyd
+deyrniaid cycyllog
+deyrniaid gwinau bach
+deyrniaid gwinau mawr
+deyrniaid melyngoch
+deyrniaid tinfelyn
+deyrnion
+dh
 di
 di-
 di-Gymraeg
 di-Lydaweg
 di-awch
+di-baid
 di-chwaeth
 di-ddeuaidd
 di-ddim
+di-droed
 di-dâl
 di-eira
 di-fefl
@@ -10651,6 +11634,7 @@ di-grŷn
 di-gwsg
 di-hid
 di-hoen
+di-hun
 di-lun
 di-nam
 di-ri
@@ -10664,20 +11648,27 @@ diadellau
 diadelloedd
 diafol
 diafwl
+diagram paill
 diainc
 dial
 dial am
+dialcohol
 dialedd
 dialgar
 dialon
+dialwr
+dialydd
 diamau
 diamedr
 diamod
+diamwys
+diamwyso
 dianc
 diangen
 diannod
 diarhebion
 diarhebol
+diaroglau
 diaroglydd
 diasgwrn
 diawdurdod
@@ -10758,6 +11749,8 @@ diffuant
 diffydd
 diffyg
 diffyg anadl
+diffyg ewyllys
+diffyg maeth
 diffyg ocsigen
 diflanedig
 diflaniad
@@ -10782,7 +11775,10 @@ difrifol
 difrifoldeb
 difrifoli
 difrod
+difrod gwynt
 difrod ystlysol
+difrodi
+difrodol
 difwyno
 difyr
 difyrru
@@ -10796,10 +11792,12 @@ digalondid
 digalonni
 digartref
 digartrefedd
+digid
+digidau
 digidol
-digofaint
 digon
 digon o sioe
+digon yw digon
 digoni
 digonol
 digrif
@@ -10882,11 +11880,13 @@ dinasyddiaeth
 dincod
 dincodyn
 dinesydd
+dinfelyn
 dingo
 dinistriad
 dinistrio
 diniwed
 dinodd
+dinoethi
 diobaith
 diod
 diod fain
@@ -10942,6 +11942,7 @@ dirgrynu
 dirif
 dirifedi
 dirisglo
+dirlawn
 dirmyg
 dirmyg llys
 dirmygol
@@ -10949,8 +11950,10 @@ dirmygu
 dirmygus
 dirnad
 diroedd
+dirprwy
 dirprwy brif weinidog
 dirprwyaeth
+dirprwyon
 dirwasgiad
 dirwestwr
 dirwy
@@ -10965,9 +11968,9 @@ disbyddu
 disel
 diseremoni
 disg
-disgeirdeb
 disglair
 disgled
+disgleirdeb
 disgleirio
 disgownt
 disgrifiad
@@ -10979,6 +11982,9 @@ disgwylgar
 disgybl
 disgyblion
 disgyn
+disgynebau
+disgynedig
+disgynneb
 disgynnol
 disgynnydd
 disgynnyddion
@@ -10987,6 +11993,8 @@ disgyrchiant
 disgyrchu
 dishgled
 disiau
+dislecsia
+dislecsig
 disodli
 distaw
 distawrwydd
@@ -11005,6 +12013,20 @@ ditectif
 dithau
 ditiad
 ditio
+ditw
+ditw asur
+ditw cefnwyrdd
+ditw copog cyffredin
+ditw cribog
+ditw mawr
+ditw-deyrn pigfelyn
+ditw-deyrniaid pigfelyn
+ditwod
+ditwod asur
+ditwod cefnwyrdd
+ditwod copog cyffredin
+ditwod cribog
+ditwod mawr
 diwahân
 diwair
 diwba
@@ -11012,6 +12034,9 @@ diwbâu
 diwedd
 diweddaf
 diweddar
+diweddarach
+diweddaraf
+diweddaru
 diweddglo
 diweddnod
 diweddu
@@ -11022,6 +12047,7 @@ diweithdra
 diwerth
 diwetha
 diwethaf
+diwetharaf
 diwifr
 diwinydda
 diwinyddiaeth
@@ -11034,6 +12060,7 @@ diwrnod naid
 diwyd
 diwydiannol
 diwydiant
+diwydiant treftadaeth
 diwydrwydd
 diwygiwr
 diwylliannau
@@ -11059,19 +12086,21 @@ do't
 dobra
 doco
 doctor areithiau
+doctor meddygol
 docyn
 docynnau
 dod
+dod i'r adwy
 dod o hyd
 dod yn rhydd
 dod â
-dod â ()
 dodecahedron
 dodi
 dodi halen ar
 dodiad
 dodrefn
 dodrefnyn
+dodwy
 dodwyol
 doe
 doed
@@ -11102,6 +12131,7 @@ dofednod
 dofi
 dofn
 dogfen
+dogi
 dogn
 dognau
 doi
@@ -11129,9 +12159,11 @@ doli glwt
 doliau
 dolis
 dolur
+dolur gwddf
 dolur gwely
 dolur rhydd
 dolïau
+dom
 doniau
 donio
 doniog
@@ -11141,6 +12173,7 @@ doniolaf
 donioled
 dopamin
 dor
+doriad
 dorra
 dorrai
 dorrent
@@ -11166,8 +12199,12 @@ dosbarthwyr
 dosraniad normal
 dossier
 dost
+dot
+dotio
+dotiog
 dowch
 dowd
+dowio
 down
 dowt
 do’ch
@@ -11197,6 +12234,7 @@ draffig
 drafod
 dragŵn
 draig
+drain
 drama
 dramodwr
 dramodydd
@@ -11219,6 +12257,7 @@ drawsenwau
 dre
 dref
 drefi
+drefol
 drefydd
 dreidl
 dreigiau
@@ -11230,6 +12269,7 @@ dreiglad trwynol
 dreigladau
 dreiglo
 dreiniog
+dreisiol
 dreisiwr
 dreiswyr
 drelyn
@@ -11237,11 +12277,13 @@ drenau
 drennydd
 dresel
 dreselau
+drewbryf
 drewdod
 drewfil
 drewgi
 drewi
 drewllyd
+dri
 dri deg un
 drifl y gwynt
 drifl yr ych
@@ -11251,6 +12293,8 @@ dringiad
 dringo
 dringol
 dringwr
+dringwr bach
+dringwr coed
 dringwr fflamgoch tri phigyn
 dringwr muriau
 drio
@@ -11275,19 +12319,26 @@ drombôn
 dropsi
 dros
 dros bant a bryn
+dros ben
+dros ben llestri
 dros bwysau
+dros draw
 dros dro
 dros ei bwysau
 dros nos
 dros-
 drosgynnol
+drost
 drown
 druan ohonof
 drud
 drudwen
 drudwy
 drutach
+drwch
+drwchus
 drwg
+drwg ewyllys
 drwm
 drwm bas
 drwm tannau
@@ -11345,12 +12396,14 @@ dryw eurben
 dryw maes
 drâr arian
 drên
+drôi
 drôn
 drôr
 drôr arian
 drŵp
 dsc
 du
+du a gwyn
 duach
 duaf
 dubniwm
@@ -11364,6 +12417,7 @@ duegredynen y muriau
 dug
 duges
 dugiaeth
+dugoch
 dull
 duon
 dur
@@ -11398,6 +12452,7 @@ dwedais
 dwedodd
 dwedon
 dweud
+dweud y gwir
 dwfn
 dwfr
 dwg
@@ -11453,10 +12508,12 @@ dwyreiniol
 dwyreiniwr
 dwyreinwynt
 dwys
+dwys mewn maeth
 dwysach
 dwysaf
 dwysed
 dwysion
+dwysáu
 dwyt
 dwythell
 dwyw
@@ -11494,7 +12551,6 @@ dycáu
 dyd
 dydan
 dydd
-dydd ()
 dydd Gwener
 dydd Gwener y Groglith
 dydd Iau
@@ -11508,8 +12564,9 @@ dydd Mercher y Lludw
 dydd Sadwrn
 dydd Sul
 dydd da
-dydd gŵyl ()
+dydd gŵyl
 dydd o'r wythnos
+dydd y farn
 dyddiad
 dyddiad olaf bwyta
 dyddiadau
@@ -11521,6 +12578,7 @@ dyddio
 dyddio carbon
 dyddio cen
 dyddio nitrogen
+dyddio radiocarbon
 dyddiol
 dyddlyfr
 dyddodiad
@@ -11580,13 +12638,13 @@ dyfrhau
 dyfrio
 dyfriog
 dyfrlawn
-dyfrliw
 dyfrlliw
 dyfrllyd
 dyfrnod
 dyfroedd
 dyfrol
 dyfrsail
+dyfyniad
 dyfynnod
 dyfynnu
 dyfynodau
@@ -11609,6 +12667,7 @@ dyhead
 dyheu
 dylai
 dylanwad
+dylanwadu
 dylech
 dyled
 dyled ocsigen
@@ -11659,6 +12718,8 @@ dyn sengl
 dyn yn y môr
 dyna
 dyna chi
+dyna ddigon
+dyna hen ddigon
 dyna ni
 dyna ti
 dynad
@@ -11668,6 +12729,9 @@ dyneiddiaeth
 dyner
 dynes
 dynes hysbys
+dynesol
+dynesolyn
+dynesu
 dynfarch
 dynfeirch
 dynfwytaol
@@ -11688,6 +12752,11 @@ dynol genedl
 dynolaeth
 dynoliaeth
 dynolryw
+dynwared
+dynwarediad
+dynwaredol
+dynwaredwr
+dynwaredwraig
 dyr
 dyrannu
 dyrchafael
@@ -11733,9 +12802,10 @@ dysgu
 dysgu peirianyddol
 dysgwch
 dysgwr
-dysgwraig f ()
+dysgwraig
 dysgwyr
 dyslecsia
+dyslecsig
 dysprosiwm
 dystopaidd
 dysychiad
@@ -11752,6 +12822,9 @@ dywedyd
 dywt
 dywyll
 dywyllach
+dywyllwch
+dywysog
+dywysogion
 dâ
 dâl
 dân
@@ -11782,6 +12855,7 @@ dŵr golchi llestri
 dŵr gwaelodion
 dŵr haidd
 dŵr hallt
+dŵr heli
 dŵr lled hallt
 dŵr llonydd
 dŵr meddal
@@ -11810,8 +12884,9 @@ dỳns
 e
 e-
 e-bost
+e-bost sothach
 e-bostio
-e-bostio i
+e-byst
 e-ddarllenydd
 e-lyfr
 e-lyfrau
@@ -11909,7 +12984,9 @@ effeithiolrwydd
 effeithlon
 effeithlonrwydd
 efo
+efo'ch gilydd
 efo'i gilydd
+efo'n gilydd
 efrau
 efwr
 efydd
@@ -11919,7 +12996,10 @@ eg.
 eger
 eger llanw
 egin
+eginblanhigyn
 eginyn
+eglurdeb
+eglurder
 eglurhad
 egluro
 eglwys
@@ -11928,7 +13008,11 @@ eglwys y plwyf
 eglwysi
 eglwysydd
 egni
+egni cinetig
+egni gwynt
+egni hydro
 egni llanw
+egni potensial
 egr
 egroes
 egwyd
@@ -11970,6 +13054,7 @@ eicon
 eiconoclast
 eiconoclastiaeth
 eiconoclastig
+eiconograffeg
 eid
 eiddew
 eiddewddail
@@ -12004,6 +13089,9 @@ eilrif
 eilun
 ein
 ein gilydd
+ein mam ni oll
+eingian
+eingion
 einion
 einsteiniwm
 eir
@@ -12039,6 +13127,7 @@ eirin ysgaw
 eirina
 eirinen
 eirinen Fair
+eirinen ddu
 eirinen wlanog
 eirinen ysgaw
 eiriol
@@ -12058,6 +13147,7 @@ eirth
 eirwynt
 eiry
 eisberg
+eisbyrg
 eisen
 eisiau
 eisin
@@ -12070,6 +13160,8 @@ eisteddfod
 eisteddfodau
 eisteddfodwr
 eisteddfodwyr
+eisteddfota
+eisteddfotwr
 eisteddfâu
 eisteddle
 eisteddleoedd
@@ -12090,6 +13182,7 @@ eithinen y cwrw
 eithinog
 eithriad
 eithriadol
+eithrio
 el
 elai
 elain
@@ -12111,7 +13204,9 @@ elet
 elfed
 elfen
 elfen gemegol
+elfen maeth
 eli
+eli haul
 elid
 eliffant
 eliffant môr
@@ -12132,7 +13227,11 @@ eloch
 elom
 elont
 elor
+elor gleifion
+elorau
+elordy
 elorgerbyd
+elorlen
 elsai
 elsech
 elsem
@@ -12153,13 +13252,17 @@ elyn
 elynion
 elyrch
 em
+emau
 embeslo
 emeri
+emeritws
 emerodraeth
 emiw
 emiwiaid
 emosiwn
 emrallt
+emylsiwn
+emylsydd
 emyn
 emynau
 emyniadur
@@ -12183,6 +13286,9 @@ enfys
 eng
 enghraifft
 enghreifftiau
+enghreifftiol
+engian
+engion
 engyl
 eni
 enifail
@@ -12200,6 +13306,7 @@ enillwch
 enillwr
 enillwyr
 enillydd
+eniwed
 enllib
 enllyn
 enllyn gwyn
@@ -12207,11 +13314,15 @@ enllynoedd
 ennaint
 ennill
 ennill pwysau
+entomo-
 entrepreneur
 entropi
+entrych
 entrych nef
 entrych nen
 entrychdy
+entrychion
+entyrch
 enw
 enw ansoddeiriol
 enw arall
@@ -12249,11 +13360,15 @@ eofn
 eog
 eogiaid
 eos
+eos fraith
 eosiaid
+eosiaid brithion
+epa
 epenthetig
 epidemig
 epidemigau
 epil
+epilepsi
 epilgar
 epiliog
 epistemeg
@@ -12264,10 +13379,12 @@ eponymaidd
 er
 er cof am
 er enghraifft
+er gwaetha
 er gwaethaf
 er hynny
 er mor
 er mwyn
+er-
 eraill
 erbiwm
 erbyn
@@ -12300,6 +13417,8 @@ erlidiwr
 erllynedd
 erlyn
 ermig
+erobeg
+erobig
 ers
 ers achau
 ers cyn cof
@@ -12312,6 +13431,7 @@ erthylu
 erw
 erwain
 erwau
+erwydd
 eryr
 eryr copog America ()
 eryr euraid
@@ -12334,7 +13454,7 @@ esgair
 esgaladur
 esgaladuron
 esgid
-esgid Fair ()
+esgid Fair
 esgid eira
 esgid sglefrio
 esgid ymarfer
@@ -12346,10 +13466,14 @@ esgobaethau
 esgobion
 esgoblys praff
 esgus
+esgus ymosod
 esgusod
+esgusoda
 esgusodi
 esgusodiad
 esgusodol
+esgusodwch
+esgyb
 esgyll
 esgyll brithion
 esgyn
@@ -12374,9 +13498,18 @@ est
 estron
 estronair
 estrys
-estrysiaid
 estuary
 estyll
+estyn
+estyn allan
+estyn croeso
+estyn gwahoddiad
+estynadwy
+estynedig
+estyniad
+estynnwr
+estynnydd
+estynwlad
 etewyn
 ethol
 etholadwy
@@ -12419,12 +13552,11 @@ eurben
 eurddraenen
 eurfflam
 eurgylch
-eurgylch ()
 eurgylchu
 eurinllys
 euro
 eurof
-euron Mair ()
+euron Mair
 eurwe
 eurwialen
 euryn
@@ -12436,6 +13568,7 @@ ewcaryotig
 ewch
 ewch i uffern
 ewch o 'ma
+ewgeneg
 ewin
 ewin Fair
 ewin ffêr
@@ -12446,6 +13579,12 @@ ewro
 ewropiwm
 ewthanasia
 ewyllys
+ewyllys da
+ewyllys gilyddol
+ewyllys olaf
+ewyllys rydd
+ewyllysio
+ewyllysiol
 ewyn
 ewyn môr
 ewyn y don
@@ -12463,10 +13602,13 @@ fachgenyn
 fadfall
 fae
 faeau
+faedd
+faeddod
 faen
 faes
 faet
 fag
+fagddu
 fagina
 fai
 faint
@@ -12476,7 +13618,11 @@ faint o'r gloch ydy hi?
 faint o'r gloch yw hi?
 fait
 falantein
+falens
 falle
+falu
+falwr
+falwyr
 fam
 fam-gu
 fama
@@ -12485,14 +13631,21 @@ fampir
 fan
 fan bellaf
 fan hyn
+fan hyn fan draw
 fanadiwm
+fand
 fandaleiddio
 fandaliaeth
 faneg
 faner
 faniau
+fanwl
 fara
+farc
+farch
 farchnad
+farchogion
+farciau
 fardd
 farfog
 farn
@@ -12530,6 +13683,7 @@ feddwl
 feddyg
 feddyges
 feddygesau
+feddygol
 feddygon
 feddylgar
 fedi
@@ -12554,14 +13708,20 @@ fel ergyd o wn
 fel hwrdd mewn niwl
 fel hyn
 fel hynny
+fel mellten
+fel petai
 fel peth gwyllt
 fel yr hed y frân
 fel'na
 fel'na mae hi
 felar
 felen
+felfed
 felly
 felyn
+felyngoch
+felynwyn
+felynwyrdd
 fendigedig
 fenga
 fengach
@@ -12591,18 +13751,23 @@ festiau
 fesul
 fesul un
 fesur
+fetel
 feteran
 fether
 fetrig
 fewn
 fewn-
 fewnblyg
+fewngofnodaf
+fewngofnodi
+fewnol
 ff
 ffa
 ffa coffi
 ffa llydain
 ffabric
 ffabrig
+ffabrig ymestyn
 ffacbys
 ffacbysen
 ffactor cynhyrchu
@@ -12629,6 +13794,8 @@ ffarm
 ffarmio
 ffarmwr
 ffarwel
+ffasgaeth
+ffasgiaeth
 ffasiwn
 ffatri
 ffau
@@ -12640,6 +13807,7 @@ ffawydden hopys
 ffedog
 ffedogau
 ffefryn
+ffeiarman
 ffeiff
 ffeil
 ffeindiaf
@@ -12652,6 +13820,7 @@ ffeministaidd
 ffeministiaeth
 ffeminydd
 ffeminyddes
+ffen
 ffenast
 ffendir
 ffenest
@@ -12691,6 +13860,7 @@ ffesant
 ffetws
 ffeuen gacao
 ffeuen goffi
+ffeuen lygatddu
 ffi
 ffi fferm
 ffi y llys sirol
@@ -12698,17 +13868,22 @@ ffiaidd
 ffiaidd-beth
 ffidil
 ffidl
+ffieidd-dod
 ffieiddbeth
 ffigar-êt
 ffigur
 ffigurau
 ffigurol
 ffigwr
+ffigwr mam
+ffigwr mamol
+ffigwr tadol
 ffigyrau
 ffigys
 ffigysbren
+ffigysen
 ffil
-ffiled Fair ()
+ffiled Fair
 ffili
 ffilm
 ffilm arswyd
@@ -12719,13 +13894,19 @@ ffilt
 ffin
 ffindir
 ffiniau
+ffiniol
+ffioedd
 ffiol
 ffiolau
 ffion
 ffionau
 ffiord
 ffiseg
+ffiseg cwantwm
+ffiseg feddygol
 ffiseg gronynnau
+ffiseg groynynnau
+ffiseg thermol
 ffisegol
 ffisig
 ffisig gweithio
@@ -12769,9 +13950,11 @@ fflwcsyn
 fflworin
 fflwr
 fflwyr
+fflycs
 fflyd
 fflêr
 fflŵr
+ffo
 ffoadur
 ffoaduriaid
 ffoaf
@@ -12780,6 +13963,7 @@ ffodus
 ffoi
 ffoil alwminiwm
 ffol tun
+ffolach ffolach
 ffolder
 ffolen
 ffoligl
@@ -12787,6 +13971,8 @@ ffon
 ffon gandi
 ffon gof
 ffon gotwm
+ffon hoci
+ffon orffwys
 ffon sarffog
 ffonau
 ffonau symudol
@@ -12816,7 +14002,9 @@ ffordd osgoi
 ffordd ymwared
 fforddi
 fforddio
+fforddoliwr
 fforddolyn
+ffordo
 fforest
 fforest gyntefig
 fforest law
@@ -12824,6 +14012,7 @@ fforestu
 fforestwr
 fforiwr
 fforiwres
+fformat sw
 fformwla Euler
 ffortiwn
 ffortiynau
@@ -12831,8 +14020,15 @@ ffos
 ffosfforws
 ffoto
 ffotograff
+ffotograffaidd
+ffotograffau
 ffotograffiaeth
+ffotograffiau
+ffotograffig
+ffotograffwr
+ffotograffwyr
 ffotograffydd
+ffotograffyddion
 ffotosynthesis
 ffowla
 ffowlio
@@ -12845,7 +14041,10 @@ ffraegar
 ffraeo
 ffraeon
 ffraeth
+ffraetheb
+ffraethineb
 fframio
+fframwaith
 ffranciwm
 ffransiwm
 ffres
@@ -12853,6 +14052,11 @@ ffrind
 ffrind pennaf
 ffrindiau
 ffrio
+ffrio'n ddwfn
+ffrithiant
+ffrithiol
+ffrithioli
+ffrithiolyn
 ffroen
 ffroenuchel
 ffroes
@@ -12865,8 +14069,10 @@ ffrwctos
 ffrwd
 ffrwgwd
 ffrwydrad
+ffrwydriad
 ffrwydro
 ffrwydrol
+ffrwydroli
 ffrwydrolyn
 ffrwydron rhyfel
 ffrwyn
@@ -12892,6 +14098,7 @@ ffrydio
 ffrydlif
 ffrygydau
 ffrynt oer
+ffrâm
 ffrâm ddannedd
 ffrâm ddringo
 ffrâm wau
@@ -12905,7 +14112,9 @@ ffugenwau
 ffugio
 ffuglen
 ffuglen ddamcaniaethol
+ffuglen wyddonol
 ffugliw
+ffugwyddonol
 ffugwyddor
 ffugwyddorol
 ffunell
@@ -12921,6 +14130,7 @@ ffurfiol
 ffurfioldeb
 ffurfioli
 ffurflen
+ffurflen gais
 ffurflen hawlio'r llys sirol
 ffurfwisg
 ffust
@@ -12932,11 +14142,12 @@ ffwdan
 ffwlbart
 ffwlcrwm
 ffwng
+ffwr
 ffwrchio
 ffwrcho
 ffwrdd
 ffwrn
-ffwrn ficrodon
+ffwrn feicrodon
 ffwrnais
 ffwrnais drawsnewidydd ocsigen
 ffwrnais flast
@@ -12951,7 +14162,6 @@ ffyddio
 ffyddiol
 ffyddlon
 ffyddol
-ffygwyddonol
 ffylwm
 ffyn
 ffync
@@ -12975,6 +14185,7 @@ ffyrc
 ffyrdd
 ffyrnau
 ffyrnig
+ffyrrau
 ffäen
 ffêr
 ffîn
@@ -12984,6 +14195,8 @@ ffôl
 ffôn
 ffôn clyfar
 ffôn symudol
+ffôn talu
+ffŵl
 ffŵton
 fi
 ficer
@@ -13004,6 +14217,7 @@ fins-pei
 fins-peis
 fioled
 fioled drilliw
+firoleg
 firws
 firws diffyg imiwnedd dynol
 fis
@@ -13034,6 +14248,7 @@ flynyddoedd
 fo
 foch
 fochdew
+fochlwyd
 fochyn
 focsio
 fod
@@ -13065,6 +14280,7 @@ foth
 fothau
 fraich
 frain
+fraith
 fran
 frathu
 frawd
@@ -13073,18 +14289,30 @@ frecwast
 frecwastau
 freichiau
 frenhines
+frenhiniaeth
 frenhinol
 frenin
+freniniaethau
+freninolion
 frest
+freuddwyd
+freuddwydio
+freuddwydion
 fri
+fricyll
+fricyllen
 frig
 frith
 fro
+froc
+froc môr
 froch
 froga
 froliannau
 froliant
 fron
+fronlas
+fronleision
 fronnau
 frown
 frwd
@@ -13098,6 +14326,11 @@ frwsiodd
 frwsion
 frwydro
 frwynen
+frych gyddfgoch
+frychion gyddfgoch
+fryn
+fryniau
+fryoffyt
 frys
 frân
 fu
@@ -13152,6 +14385,7 @@ fyddlon
 fyddwch
 fyddwn
 fyfyriwr
+fygydog
 fylfa
 fynd
 fyned
@@ -13170,6 +14404,7 @@ fyrraf
 fyrred
 fys
 fysedd
+fysiau
 fyw
 fywyd
 fàs
@@ -13194,6 +14429,8 @@ gachais
 gachen
 gaches
 gachu
+gacwn
+gacwn meirch
 gad
 gadael
 gadael i mewn
@@ -13212,6 +14449,7 @@ gaeaf
 gaeafau
 gaeafgwsg
 gaeafgysgu
+gaeafnant
 gaeafoedd
 gaeafol
 gaeau
@@ -13306,9 +14544,11 @@ galwad
 galwadau
 galwais
 galwch am ambiwlans
+galwch yr brigâd dân
 galwch yr heddlu
 galwedig
 galwedigaeth
+galwedigaethau
 galwedigaethol
 galwedigaethydd
 galwes
@@ -13317,6 +14557,8 @@ galwo
 galwyn
 gam-
 gamdreiglo
+gamera
+gamerâu
 gamet
 gamlas
 gamp
@@ -13325,13 +14567,17 @@ gampus
 gamweinyddu
 gan
 gan bwyll
+gan gynnwys
 gan hynny
 gan-
 gana
 ganai
 ganddi
 ganddo
+ganddoch
+ganddon
 ganddyn
+ganddynt
 ganen
 ganer
 ganes
@@ -13344,6 +14590,9 @@ ganit
 ganlyniad
 ganlyniadau
 gano
+ganol
+ganolbarth
+ganolbarthau
 ganolog
 ganolradd
 gansai
@@ -13359,6 +14608,7 @@ garafán
 garai
 garais
 garan
+garan Manshwria
 garan coronog
 garan cycyllog
 garan glas
@@ -13379,6 +14629,10 @@ gardda
 garddio
 garddu
 garddwr
+gardinal
+gardinal cyffredin
+gardinaliaid
+gardinaliaid cyffredin
 gardis y gŵr drwg
 gardys
 garedig
@@ -13404,6 +14658,7 @@ garlleg mawr
 garlleg y brain
 garlleg y maes
 garlleg yr arth
+garllegaidd
 garnau
 garned
 garo
@@ -13442,16 +14697,19 @@ gefail gnau
 gefeilles
 gefeilliaid
 gefel
-gefel ben hwrdd ()
+gefel ben hwrdd
 gefel blygu
 gefell
 geffyl
 gefn
 gefn gwlad
 gefnau
+gefnddu
 gefnder
 gefnfor
 gefnogi
+gefnwyn
+gefnwyrdd
 gefyn
 geg
 gegin
@@ -13494,6 +14752,7 @@ gellyg
 gellygen
 gellygen bigog
 gellygwydd
+gelor
 gelyn
 gelyniaeth
 gelyniaethau
@@ -13530,6 +14789,10 @@ genidol
 gennin
 gennod
 gennych
+gennyf
+gennym
+gennyn
+gennyt
 genogl
 genwair
 genweiriau
@@ -13545,6 +14808,7 @@ gerddi
 gerddoriaeth
 gerenwc
 gerflun
+gerfydd
 geri
 gerir
 gerllaw
@@ -13568,6 +14832,7 @@ gilogram
 gilogramau
 gilydd
 gimbill
+gin
 gini
 ginio
 giser
@@ -13575,6 +14840,7 @@ gist
 gitâr
 gitâr acwstig
 gitâr clybodig
+gitâr fas
 giwb
 giwdod
 giwdodau
@@ -13605,7 +14871,15 @@ glanio
 glannau
 glas
 glas bach y wal
+glas brenhinol
+glas ceiniogog
+glas coronog
+glas gloyw
+glas haearn
+glas peunaidd
+glas tywyll
 glas y dorlan
+glas yr heli
 glasach
 glasaf
 glased
@@ -13624,6 +14898,9 @@ glaswellt
 glaswellt Bermwda
 glaswellt y tywod
 glaswelltir
+glaswelw
+glaswelw brych goch
+glaswelw brych las
 glaswen
 glaswyrdd
 glasys
@@ -13640,6 +14917,7 @@ gleifion
 gleiniau
 gleisiad
 gleision
+glendid
 glennydd
 glesyn y wiber
 glesyn-y-coed pêr
@@ -13680,6 +14958,8 @@ gloywi
 glud
 glud adar
 gludbysgodyn
+gludio
+gludo
 gludyn
 glust
 glust allanol
@@ -13724,6 +15004,19 @@ gneuen Ffrengig
 gneuen gyll
 gnewyll
 gnewyllyn
+gnoc
+gnocell
+gnocell ddu
+gnocell lwydaidd
+gnocell wlanog
+gnocell yddfgoch
+gnocellau
+gnocellau duon
+gnocellau gwlanog
+gnocellau gyddfgoch
+gnocellau llwydaidd
+gnocellod
+gnociau
 gnoi
 gnuchio
 gnwd
@@ -13780,12 +15073,14 @@ gof arian
 gof aur
 gofaint
 gofal
+gofal maeth
 gofala
 gofalgar
 gofalu
 gofalus
 gofalwch
 gofalwr
+gofalwr maeth
 goffi
 gofid
 gofio
@@ -13797,6 +15092,7 @@ gofodoldeb
 gofodwr
 gofyddin
 gofyn
+gofynion maeth
 gofynnod
 gog
 gogawn
@@ -13852,6 +15148,7 @@ golau dydd
 golau lleuad
 golau neon
 golau stryd
+golau ôl
 golau’r haul
 golchan
 golchbren
@@ -13860,7 +15157,7 @@ golchffon
 golchi
 gold
 gold Ffrainc
-gold Mair ()
+gold Mair
 gold talsyth
 gold y gors
 goleddf
@@ -13880,14 +15177,21 @@ goleuo
 golfan
 golfan Sbaen
 golfan y mynydd
+golfanaidd
+golfanod
 golff
+golffiwr
 goll
 gollewin
 golli
 gollwg angor
 gollwng
+gollwng y ffa
 gollyngdod
+golomen
+golomennod
 golosg
+golosged y coed
 golud
 goludlywodraeth
 goludoedd
@@ -13914,6 +15218,10 @@ gomiwnyddol
 gonad
 gondola
 gonest
+gonestrwydd
+gont
+gontau
+gontiau
 gonwyddau
 gopi
 gor
@@ -13923,7 +15231,7 @@ gorachod
 goraeddfed
 gorasgellu
 gorau
-gorau glas ()
+gorau glas
 gorawen
 gorberffaith
 gorbryder
@@ -13948,6 +15256,7 @@ gorchudd
 gorchudd gobennydd
 gorchuddio
 gorchuddiol
+gorchwylio
 gorchymyn
 gorchymyn i berson ddod â phlentyn i'r llys
 gorchymyn llys
@@ -13968,9 +15277,11 @@ gorffen
 gorffennol
 gorffennol penodol
 gorffwyll
+gorffwylledd
 gorffwylltra
 gorffwys
 gorffwys mewn heddwch
+gorffwysbren
 gorffwysfa
 gorflinder
 gorflino
@@ -13994,6 +15305,7 @@ gorllanw
 gorllewin
 gorllewinol
 gorllyfnu
+gormes
 gormesol
 gormod
 gormodiaith
@@ -14014,6 +15326,7 @@ goroesi
 goron
 goronafeirws
 goror
+gororau
 gororwyr
 gororwyres
 gorrach
@@ -14037,12 +15350,16 @@ goruchafiaethau
 goruchafu
 goruchawdurdod
 goruchel
+goruchwyliaeth
 goruchwylio
 goruchwyliwr
+goruchwylwyr
+gorunllwyd
 goruwch
 goruwch-
 goruwchnaturiol
 goruwchofod
+goruwchwylio
 gorvodog
 gorvodtrev
 gorwario
@@ -14085,6 +15402,8 @@ gostyngydd
 gosyn
 got
 got law
+gowboi
+gowbois
 gown
 gowniau
 gowt
@@ -14130,6 +15449,7 @@ graean
 graeanu
 graff
 graffeg
+graffit
 grafi
 graig
 gramadeg
@@ -14171,10 +15491,15 @@ grefi llaeth
 gregl gyffredin
 greoedd
 greto
+grib
+gribau
+gribfelyn
+gribwyn
 grifft
 gril
 griliau
 grilio
+grinder cig
 gris
 grisial
 grisiau
@@ -14186,12 +15511,14 @@ grobosyn
 groegwyran
 groen
 groes
+groeso
 grog
 gronell
 gronellau
 gronyn
 gronyn elfennol
 gronyn isatomig
+gronyn paill
 gronysol
 grudd
 gruel
@@ -14227,6 +15554,7 @@ gryf
 grym
 grym mewngyrchol
 grymedd
+grymial
 grymus
 grymusair
 grymusedd
@@ -14237,8 +15565,15 @@ grysau
 grêt
 grôt
 grŵp
+grŵp gweithredol
 grŵp o lysoedd
 gu
+gudyll
+gudyll coch
+gudyll coch bach
+gudyllod
+gudyllod cochion
+gudyllod cochion bach
 gudyn
 gudynnau
 gul
@@ -14251,14 +15586,17 @@ gusanau
 gusanu
 gut
 gwactod
+gwacáu
 gwadd
 gwaddod
 gwaddol
 gwadiad
 gwadiadau
 gwadn
+gwadn brêc
 gwadnrodiol
 gwadnrodiwr
+gwadnu
 gwadu
 gwadwr
 gwae
@@ -14268,6 +15606,7 @@ gwaed drwg
 gwaed ifanc
 gwaed yn dewach na dŵr
 gwaedd
+gwaedded
 gwaedlif
 gwaedlyd
 gwaedlyn
@@ -14284,7 +15623,6 @@ gwaelodi
 gwaelodion
 gwaelodol
 gwaelu
-gwaelu ()
 gwaetgel
 gwaetgell
 gwaetgi
@@ -14299,11 +15637,13 @@ gwagio
 gwaglaw
 gwagle
 gwagnod
+gwagolyn
 gwagu
 gwahadden
 gwahan
 gwahanadwy
 gwahanedig
+gwahanfa gyfandirol
 gwahanglwyf
 gwahaniad
 gwahaniaeth
@@ -14355,7 +15695,7 @@ gwallgofi
 gwallgofrwydd
 gwallog
 gwallt
-gwallt Mair ()
+gwallt Mair
 gwallt cwch gwenyn
 gwallt y forwyn
 gwallus
@@ -14374,13 +15714,17 @@ gwanwynol
 gwanychu
 gwar
 gwar-
+gwaradwydd
 gwarafun
 gwaraidd
+gwarbin
+gwarchae
 gwarcheidwad
 gwarchod
 gwarchodgi
 gwarchodwr
 gwarchodwr banbanod
+gwarchodwr corff
 gward y llys
 gwarddrws
 gwarden
@@ -14407,10 +15751,13 @@ gwarthegol
 gwarthegydd
 gwarthegyddion
 gwarthol
+gwarthrudd
 gwas
 gwas allor
 gwas ffarm
 gwas fferm
+gwas neidr
+gwas priodas
 gwas sifil
 gwas stabl
 gwas y neidr
@@ -14420,24 +15767,31 @@ gwasanaeth lles llys teulu
 gwasanaethau
 gwasanaethau brys
 gwasanaethu
+gwasarn
 gwasg
 gwasgaredig
 gwasgariad
+gwasgariad paill
 gwasgaru
+gwasgaru paill
 gwasgedd
 gwasgedd atmosfferig
 gwasgedd rhannol ocsigen
 gwasgod
+gwasgod gaeth
 gwasgodau
 gwasgu
 gwasgwr tafod
 gwastad
+gwastad heli
 gwastadedd
 gwastadrwydd gwres
 gwastatir
 gwastraff
 gwastraff amser
+gwastraff gwyrdd
 gwastraff niwclear
+gwastraffu
 gwastrodi
 gwatwar
 gwatwarion
@@ -14455,6 +15809,7 @@ gwawnaidd
 gwawr
 gwawrio
 gwayw
+gwayw fwyell
 gwaywffon
 gwaywffurf
 gwaywffyn
@@ -14462,13 +15817,13 @@ gwbl
 gwch
 gwchi
 gwddf
+gwddf tost
 gwddfdorch
 gwddw
 gwddw sâl
 gwddwg
 gwden
 gwdihŵ
-gwdihŵaid
 gwdihŵiaid
 gwdihŵs
 gwe
@@ -14476,8 +15831,10 @@ gwe corryn
 gwe pryf copyn
 gwe-
 gwe-rwydo
+gwe-ymlusgwr
 gwead
 gweadur
+gweaduron
 gwedd
 gweddaidd
 gweddau
@@ -14497,19 +15854,31 @@ gweddïau
 gweddïo
 gweddïon
 gweddïwr
+gweddïwyr
 gweedig
 gwefan
 gwefliad
+gwefr
 gwefr drydanol
 gwefr-yrru
 gwefrebyr
+gwefru
 gwefus
 gwefus-daflodol
 gwefus-ddeintiol
 gwegil
 gwehilion
+gwehydd
+gwehydd mygydog
+gwehyddiad
+gwehyddion
+gwehyddion mygydog
+gwehyddu
 gweiddi
+gweilch
+gweilch gleision
 gweilgi
+gweill
 gweillen
 gweillen fwyta
 gweini
@@ -14542,8 +15911,12 @@ gweiriau
 gweirlöyn brych
 gweiryn
 gweision
+gweision neidr
+gweision y neidr
 gweithdy
+gweithgar
 gweithgaredd
+gweithgarwch
 gweithiau
 gweithio
 gweithiwr
@@ -14552,12 +15925,14 @@ gweithlu
 gweithluoedd
 gweithred
 gweithrediad
+gweithrediad cyhyr
 gweithrediad llys y goron
 gweithredoedd
 gweithredu
 gweithwraig
 gweithwyr
 gweithwyr y byd, unwch
+gweladwy
 gwelais
 gwelaist
 gweld
@@ -14604,6 +15979,7 @@ gwely bwnc
 gwely bychan
 gwely danadl
 gwely dwbl
+gwely gwynt
 gwely plentyn
 gwelyau
 gwelyau bwnc
@@ -14645,7 +16021,10 @@ gwenynfa
 gwenynog
 gwenynwr
 gwenynwraig
+gweoedd
 gweog
+gweol
+gwep
 gwerdd
 gwerddem
 gwerddon
@@ -14658,6 +16037,7 @@ gweriniaeth
 gweriniaeth fanana
 gweriniaethau
 gweriniaetholdeb
+gwerinoedd
 gwerinwr
 gwerinwraig
 gwerinwyr
@@ -14712,10 +16092,13 @@ gweud
 gweuedig
 gweundir
 gweunydd
+gwewyfyn
+gwewyr
 gwewyrllys
 gweyllen
 gweyllen y ffêr
 gweëdig
+gwfl
 gwg
 gwgladwy
 gwgu
@@ -14731,12 +16114,14 @@ gwiberod
 gwibio
 gwibiwr
 gwibiwr yr hocys
+gwichiad moch
 gwichian
 gwiddon
 gwiddonyn
 gwidwer
 gwieilwaith
 gwifren
+gwig
 gwin
 gwin brwd
 gwin cadarn
@@ -14746,8 +16131,14 @@ gwin newydd
 gwin pinc
 gwin rhosliw
 gwin ysgaw
+gwinau
+gwinau ceiniogog
+gwinauddu
+gwinaugoch
+gwinauwelw
 gwinegr
 gwineugoch
+gwingiad
 gwiniolen
 gwinllan
 gwinoedd
@@ -14759,12 +16150,18 @@ gwirfoddol
 gwirfoddoli
 gwirfoddolwr
 gwirfoddolwraig
+gwirio
+gwirio sillafu
 gwirion
 gwirionedd
 gwirioneddol
+gwiriwr
 gwirod
 gwirod Mair
+gwirod gwyn
 gwirod llaeth
+gwirodlyn
+gwirodlyn hufen
 gwirodydd
 gwisg
 gwisga
@@ -14785,8 +16182,9 @@ gwlad heb iaith
 gwlad heb iaith, gwlad heb genedl
 gwladaidd
 gwladfa
-gwladfa ()
 gwladfeydd
+gwladfäwr
+gwladgar
 gwladgarol
 gwladgarwr
 gwladgarwyr
@@ -14794,11 +16192,17 @@ gwladol
 gwladwr
 gwladwriaeth
 gwladwriaeth heddlu
+gwladychiaeth
+gwladychiaethwr
+gwladychol
+gwladychu
+gwladychwr
 gwlana
 gwlanel
 gwlaniach
 gwlanog
 gwlash
+gwlatgar
 gwleb
 gwledd
 gwledd briodas
@@ -14812,6 +16216,8 @@ gwleidyddol
 gwleidyddwr
 gwlff
 gwlith
+gwlithbwynt
+gwlithbwyntiau
 gwlithen
 gwlithlaw
 gwlithlawio
@@ -14821,12 +16227,13 @@ gwlyb
 gwlyb at y croen
 gwlyb diferol
 gwlyb socian
+gwlybaniaeth
 gwlyblosg
 gwlybyn ynte sychyn
 gwlych
 gwlychu
 gwlychu'r gwely
-gwlydd Mair ()
+gwlydd Mair
 gwlyddyn
 gwlyddyn Mair
 gwlyddyn y dom
@@ -14837,7 +16244,9 @@ gwlyptir
 gwlân
 gwlân ysgall
 gwm
+gwm Arabaidd
 gwm cnoi
+gwm swigod
 gwmni
 gwmnïau
 gwmpas
@@ -14865,6 +16274,10 @@ gwneud
 gwneud argraff
 gwneud argraff ar
 gwneud basgedi
+gwneud cyffes
+gwneud ffilmiau
+gwneud hwyl am ben
+gwneud hwyl ar ben
 gwneud synnwyr
 gwneud y gwely
 gwneud y llestri
@@ -14874,13 +16287,15 @@ gwneuthur
 gwnewch
 gwniadur
 gwniadur Mair
-gwniadur Mair ()
 gwniaduriau
 gwniaduron
+gwniadwaith
 gwningen
 gwningod
 gwnnu
+gwnïad
 gwnïo
+gwnïwr
 gwo-
 gwobr
 gwobr goffa
@@ -14894,7 +16309,7 @@ gwpwrdd
 gwrach
 gwrach y lludw
 gwrachan
-gwrachan Fair ()
+gwrachan Fair
 gwrachen
 gwrachod y lludw
 gwragedd
@@ -14922,6 +16337,7 @@ gwrandawiad llys
 gwrandawodd
 gwrandewch
 gwrando
+gwrando cyffes
 gwrcath
 gwrda
 gwrdd
@@ -14943,6 +16359,7 @@ gwreiddio
 gwreiddiol
 gwreiddionyn
 gwreiddiosyn
+gwreiddiriog
 gwreiddrudd
 gwreiddyn
 gwreiddyn sinsir
@@ -14954,6 +16371,7 @@ gwrengod
 gwres
 gwresddwyn
 gwresddygol
+gwresogi
 gwrhyd
 gwrig
 gwriogaeth
@@ -14966,6 +16384,7 @@ gwron
 gwrones
 gwrs
 gwrth-
+gwrth-haint
 gwrth-heintio
 gwrthban
 gwrthbangarp
@@ -14985,16 +16404,20 @@ gwrthgiliwr
 gwrthglocwedd
 gwrthgodiad
 gwrthgodiadau
+gwrthgorff
+gwrthgyferbyniad
+gwrthgyferbyniol
+gwrthgyferbynnol
+gwrthgyferbynnu
 gwrthgymdeithasol
 gwrthiselder
-gwrthiselder ()
 gwrthiselydd
-gwrthiselydd ()
 gwrthiselyddion
 gwrthlif
 gwrthllwydni
 gwrthod
 gwrthodaf
+gwrthrewydd
 gwrthrych
 gwrthrych anuniongyrchol
 gwrthrych uniongyrchol
@@ -15010,6 +16433,7 @@ gwrthryfelwyr
 gwrthsefyll
 gwrthwariant
 gwrthwyffurf
+gwrthwyfyn
 gwrthwynebair
 gwrthwynebiad
 gwrthwynebiadau
@@ -15032,6 +16456,7 @@ gwryw alffa
 gwrywaidd
 gwrywgydiaeth
 gwrywgydiwr
+gwrywol
 gwsberen
 gwsberins
 gwsberis
@@ -15050,11 +16475,24 @@ gwyach yddfgoch
 gwyar
 gwybed
 gwybed ffwng
+gwybedog
+gwybedog brith
 gwybedog copog
+gwybedog cynffonddu
 gwybedog cynffonwinau Jamaica
+gwybedog du a gwyn
+gwybedog gwelw
+gwybedog jyngl
+gwybedog mannog
+gwybedog pigddu
+gwybedogion
+gwybedogion cynffonddu
+gwybedogion pigddu
 gwybedyn
+gwybegod cefnfrown
 gwybod
 gwybodaeth
+gwybodaeth am faeth
 gwybodus
 gwybodusyn
 gwybyddus
@@ -15069,6 +16507,10 @@ gwyddau Americanaidd
 gwyddbwyll
 gwydden
 gwyddfid
+gwyddfid California
+gwyddfid Japan
+gwyddfid llorweddol
+gwyddfid syth
 gwyddfid trydwll
 gwyddion
 gwyddir
@@ -15078,15 +16520,18 @@ gwyddoniadur
 gwyddoniaduron
 gwyddoniaeth
 gwyddoniaethau
+gwyddonias
 gwyddonol
 gwyddonwr
 gwyddonwyr
 gwyddonydd
 gwyddor
+gwyddor Gyrilig
+gwyddor Rufeinig
 gwyddor cartref
 gwyddor cystrawen
 gwyddor gwleidyddiaeth
-gwyddoriaeth
+gwyddor rwnig
 gwyddwalch copog Asia
 gwyddwalch copog Swlawesi
 gwyddys
@@ -15096,15 +16541,26 @@ gwydraid
 gwydrau
 gwydus
 gwyfyn
+gwyfyn Rhagfyr
+gwyfyn adeiniog
+gwyfyn claergoch
+gwyfyn coed
 gwyfyn dillad
 gwyfyn eirin
+gwyfyn gafr
 gwyfyn hadau hocys
 gwyfyn hocys
 gwyfyn llygwyn
 gwyfyn pannas
-gwyfyn reis ()
-gwyfyn yr alan ()
+gwyfyn pen angau
+gwyfyn pren
+gwyfyn reis
+gwyfyn y gaeaf
+gwyfyn yr alan
+gwyfyn yr hebog
+gwyfyn yr ŷd
 gwyfynod
+gwyfynog
 gwygbys
 gwyl
 gwylaeth y môr
@@ -15117,11 +16573,14 @@ gwylan gefnddu
 gwylan gefnddu fwyaf
 gwylan gefnddu leiaf
 gwylan goesddu
+gwylan penwaig
 gwylan y Gogledd
 gwylan y gweunydd
 gwylan y penwaig
 gwylan ysgadan
 gwylanod
+gwylanod cefnddu lleiaf
+gwylanod cefnddu mwyaf
 gwylanwydd
 gwylfa
 gwylfeydd
@@ -15149,6 +16608,7 @@ gwylio adar
 gwyliwr
 gwyliwr y glannau
 gwyll
+gwylliad
 gwylliaid
 gwyllon
 gwyllt
@@ -15163,6 +16623,7 @@ gwymona
 gwympo
 gwyn
 gwyn wy
+gwyn y gwêl y frân ei chyw
 gwynder
 gwynegon
 gwynfa
@@ -15180,21 +16641,34 @@ gwynnu
 gwynnwy
 gwyno
 gwynt
+gwynt Senghennydd
 gwynt blaen
 gwynt carthen
 gwynt chwys
+gwynt coch Amwythig
+gwynt croes
+gwynt cyson
+gwynt teg
 gwynt teg ar ei hôl
 gwynt teg ar ei ôl
 gwynt traed y meirw
+gwynt y de
+gwynt y dwyrain
 gwynt y gogledd
+gwynt y gorllewin
+gwynt yr Haul
+gwyntiad
+gwyntiedydd
+gwyntio
+gwynto
 gwyntoedd
 gwyntog
 gwyntyll
+gwyntyllu
 gwynwydd
 gwynwyn
 gwyrda
 gwyrdd
-gwyrdd leim
 gwyrddbinc
 gwyrddfaen
 gwyrddion
@@ -15215,12 +16689,14 @@ gwyryfdod
 gwyryfol
 gwys
 gwystl
+gwystl ffawd
 gwystlo
 gwystlon
 gwyth
 gwythi
 gwythïen
 gwythïenwst
+gwywo cyhyr
 gwâl
 gwân
 gwâr
@@ -15228,6 +16704,8 @@ gwäell
 gwêl
 gwên
 gwëedig
+gwëydd
+gwëyll
 gwŷdd
 gwŷl
 gwŷn
@@ -15239,6 +16717,7 @@ gwỳn
 gy-
 gychod
 gychwyn
+gycyllog
 gyd
 gyd-
 gyda
@@ -15254,17 +16733,24 @@ gyda'n gilydd
 gyda'r nos
 gydag
 gydbreswylwyr
+gyddf-felyn
 gyddfau
+gyddfgoch
 gyf-
+gyfalafiaeth
 gyfaredd
 gyfarfod
 gyfarfodydd
+gyfeillgar
 gyfeillion
 gyfenw
+gyferbyn
+gyferbyn â
 gyfforddus
 gyffrous
 gyfiawnder
 gyfieithu
+gyflau
 gyflawni
 gyflym
 gyflymach
@@ -15276,6 +16762,7 @@ gyfoethoced
 gyfoethog
 gyfoethogion
 gyfr-
+gyfraith
 gyfrannu
 gyfreithiwr
 gyfreithwraig
@@ -15300,15 +16787,26 @@ gylfinir
 gylfinirod
 gyll
 gyllell
+gym
 gymaint
 gymdeithas
 gymedrolwr
 gymedrolwyr
+gymio
+gymnastaidd
+gymnasteg
+gymnasteg addysgol
+gymnasteg ffurfiol
+gymnastiwr
+gymnastwr
+gymnastwraig
+gymog
 gymorth
 gymryd
 gymylog
 gyn-
 gynffon
+gynffonddu
 gyngerdd
 gyngherddau
 gyngor
@@ -15386,6 +16884,8 @@ gysylltiad
 gysyniad
 gysyniadau
 gyt-
+gytgan
+gytganau
 gythraul
 gythreuliaid
 gywair
@@ -15468,7 +16968,9 @@ gŵyl symudol
 gŵyl werin
 gŵyl y Glaniad
 gŵyl y banc
+gŵyl y gyffes
 gŵyll
+gŵyn
 gŵyr
 gŵyth
 gẃraidd
@@ -15505,6 +17007,7 @@ had-dalu
 had-drefnu
 hadaff
 hadar
+hadblanhigyn
 hadd-
 haddo
 haddurn
@@ -15558,6 +17061,8 @@ hafan
 hafar
 hafau
 haffniwm
+hafgwsg
+hafgysgu
 hafn
 hafnog
 hafnu
@@ -15577,6 +17082,8 @@ hagru
 hagrwch
 haid
 haidd
+haidd cribog
+haidd gwyn
 haidd y maes
 haidd y mur
 hail
@@ -15594,11 +17101,15 @@ halid hydrogen
 halio
 haliwr
 hall-
+hallblyg
+hallgofnodaf
+hallgofnodi
 hallorau
 hallt
 halltu
 halmanac
 halmanaciau
+halmon
 halog
 halogi
 halwminiwm
@@ -15610,6 +17121,7 @@ hambwrdd
 hambwrdd te
 hamdden
 hamffibiad
+hamgylch
 hamharu
 haml-
 hamod
@@ -15624,13 +17136,16 @@ haneru
 hanes
 hanes (cyfrifiadurol)
 hanes (meddygol)
+hanes meddygol
 haneswr
 hanesydd
 hanesydd celf
 hanesyddol
 hanfod
+hanfodion maeth
 hanfodol
 hanfon
+hangel
 hangen
 hangor
 haniaeth
@@ -15646,8 +17161,10 @@ hanner chwaer
 hanner colon
 hanner colonau
 hanner coron
+hanner cylch
 hanner dydd
 hanner nos
+hanner tôn
 hannwyd
 hannwyl
 hanodd
@@ -15664,6 +17181,7 @@ hanwylaf
 hanwyled
 hanwylion
 hap
+haprif
 hapus
 hapusach
 hapusaf
@@ -15677,6 +17195,8 @@ harbwr
 harbwrfeistr
 harch-
 harchesgob
+harchesgobiaid
+harchesgyb
 hardal
 hardaloedd
 hardd
@@ -15704,14 +17224,17 @@ hasbri
 hasen
 hashnod
 hasiwm
+hasur
 hat-
 hathrawes
 hathro
 hatyr
 haul
+haulangel gyddfgoch
 hawdd
 hawddamor
 hawddfraint
+hawddfyd
 hawl
 hawlen
 hawlfraint
@@ -15727,13 +17250,27 @@ hawn
 hawr
 haws
 hawsed
+he-
 heb
+heb alcohol
+heb ddigon o faeth
 heb ei ail
+heb ei basteureiddio
+heb ei felysu
+heb ei melysu
+heb ei phasteureiddio
+heb esgyrn
+heb eu melysu
+heb eu pasteureiddio
 heb fai
 heb gaffîn
 heb genedl
+heb glwten
+heb gynnyrch llaeth
 heb iaith
 heb iaith, heb genedl
+heb lactos
+heb laeth
 heb os nac oni bai
 heb os nag oni bai
 heb rifedi
@@ -15746,10 +17283,13 @@ heblaw am
 heblaw hynny
 heboca
 hebog
+hebog chwerthinog
 hebog chwyldro
 hebog tramor
 hebog yr ehedydd
 hebogau
+hebogiaid
+hebogiaid chwerthinog
 heboglys
 hebu
 hech-
@@ -15758,6 +17298,7 @@ hechrydu
 hechrydus
 hecogyfeillgar
 hecsagon
+hecsagonol
 hedd
 heddferch
 heddi
@@ -15765,12 +17306,14 @@ heddiw
 heddlu
 heddlu ar geffylau
 heddlu gwrifoddol
+heddlu iaith
 heddluoedd
 heddu
 heddwas
 heddwch
 heddy
 heddychlon
+heddychol
 heddychu
 heddychwr
 heddychwyr
@@ -15788,6 +17331,7 @@ hegl llyw
 heglwys
 heibio
 heibio i
+heibo
 heiddiw
 heiddwellt y maes
 heidiau
@@ -15821,6 +17365,7 @@ hel
 hel atgofion
 hel calennig
 hela
+hela'r dryw
 helaeth
 helaethrwydd
 helaethu
@@ -15832,6 +17377,10 @@ helciaid
 helfen
 helgi
 heli
+heli ffisiolegol
+heli ffosffad byfferog
+heligog
+heliotrop
 heliwm
 heliwm hylifol
 heliwr
@@ -15869,6 +17418,9 @@ helynt
 helynt ni ddaw ei hunan
 helyntion
 helyntoedd
+helïaidd
+hemisffer
+hemisfferau
 hemoglobin
 hen
 hen air
@@ -15892,6 +17444,8 @@ hen nain
 hen wncwl
 hen-
 henach
+henach henach
+henach henach, ffolach ffolach
 henadur
 henaduriaid
 henaidd
@@ -15925,18 +17479,24 @@ heriau
 heriwr
 herodraeth
 heroin
+herwfilwr
 herwhela
 herwheliwr
 herwr
+herwydd
 herwyr
 hes-
 hesg
 hesg môr
 hesgen
+hesgyb
 het
 het Gwlen
+het ddu
 het gantel lipa
 het gowboi
+het silc
+het wen
 heterorywiol
 heth
 hetholedigaeth ddiamod
@@ -15947,12 +17507,16 @@ hetwyr
 heuldro
 heuldro'r gaeaf
 heuldro'r haf
+heulgras
 heuliog
 heulog
 heulsaf
+heulsych
 heulwen
+hewlwr
 heyrn
 hi
+hiaaidd
 hiach
 hiarll
 hiasinth
@@ -15963,12 +17527,14 @@ hiciad
 hicyn
 hiddl
 hidl
+hidl-ymborthwr
 hidlau
 hidliad
 hidlo
 hidlwr
 hidlwr te
 hidlydd
+hidlyddion
 hieirll
 hiena
 hierarchaeth y llysoedd
@@ -15979,6 +17545,7 @@ hil
 hil-laddiad
 hiliaeth
 hiliog
+hiliogaeth
 hin
 hindi
 hinfynag
@@ -15997,6 +17564,8 @@ hir oes i
 hiraeth
 hiraethu
 hiraethu am
+hirbarhad
+hirddisgwyliedig
 hirddydd
 hirddydd haf
 hirfeddiant
@@ -16012,6 +17581,7 @@ hirnod
 hirsgwar
 hirsgwarau
 hirsgwariau
+his
 his-
 hithau
 hiwmanitaraidd
@@ -16019,6 +17589,7 @@ hiâ
 hoatsin
 hobi
 hoci
+hoci iâ
 hocys
 hocys blodau bychan
 hocys bychan
@@ -16041,6 +17612,7 @@ hoelbren
 hoelen
 hoelen wyth
 hoelio
+hoelion wyth
 hoen
 hoenau
 hoenus
@@ -16048,6 +17620,7 @@ hoenusrwydd
 hoeri
 hoes
 hoetian
+hoetio
 hof
 hoff
 hoffai
@@ -16068,6 +17641,7 @@ hogan
 hogen
 hogiau
 hogyn
+hoiti-toiti
 hola
 holaf
 holddodiad
@@ -16082,6 +17656,7 @@ hollalluog
 hollbwysig
 hollbwysigrwydd
 hollol
+hollted
 hollti
 hollwybodus
 hollwybodusyn
@@ -16100,6 +17675,7 @@ honiad
 honiadau
 honni
 honno
+hopera
 hopys
 hopysaidd
 hopysu
@@ -16135,11 +17711,16 @@ hun
 huna
 hunain
 hunan
+hunan-
+hunan-barch
+hunan-wasanaeth
 hunanbenaethol
 hunanganolog
 hunangofiannau
 hunangofiannol
 hunangofiant
+hunangynhaliaeth
+hunaniaeth
 hunanladdiad
 hunanladdiadol
 hunanladdol
@@ -16148,6 +17729,7 @@ hunanladdwraig
 hunanladdwyr
 hunanleiddiol
 hunanlywodraeth
+hunanol
 hunanynysu
 hunanysgogol
 hunarddeg
@@ -16168,6 +17750,7 @@ hwn
 hwnna
 hwnnw
 hwnt
+hwnt ac yma
 hwntw
 hwntws
 hwoc
@@ -16177,7 +17760,11 @@ hwrdd palmentu
 hwrdd rhyfel
 hwrdd y galon
 hwrddbeiriant
+hwrdy
 hwren
+hwrio
+hwrllyd
+hwrty
 hwsgip
 hwsmon
 hwy
@@ -16206,10 +17793,10 @@ hwylfyrddio
 hwyliau
 hwylio
 hwylio allan
-hwylio at ()
+hwylio at
 hwylio bwrdd
 hwylio bwyd
-hwylio i lawr ()
+hwylio i lawr
 hwylio ymlaen
 hwylo
 hwynt
@@ -16247,7 +17834,19 @@ hyddfrefiad
 hyder
 hyderu
 hyderus
+hydoddaf
+hydoddedd
+hydoddedig
+hydoddeiddiaf
+hydoddeiddiedig
+hydoddeiddio
+hydoddi
+hydoddiannau
 hydoddiant
+hydoddion
+hydoddydd
+hydoddyddion
+hydoddyn
 hydoedd
 hydrant
 hydred
@@ -16256,6 +17855,7 @@ hydref
 hydrefau
 hydrefol
 hydrin
+hydrocarbon
 hydrogen
 hydrogen bromid
 hydrogen clorid
@@ -16266,6 +17866,7 @@ hydrogen ïodid
 hydrogenaidd
 hydrogeneiddio
 hydrogenu
+hydrograffeg
 hydyf blewog y maes
 hyf
 hyfdra
@@ -16289,8 +17890,10 @@ hygwymp
 hygyrch
 hyhi
 hyhollt
+hylendid
 hylif
 hylif gwydrog
+hylifo
 hylifol
 hyll
 hylldrem
@@ -16321,7 +17924,12 @@ hynod
 hynodyn
 hynt
 hynt San Ialm
+hyntio
 hyperleol
+hypnosis
+hypnoteiddio
+hypnotherapi
+hypnotydd
 hypothalamws
 hyrddes
 hyrddod
@@ -16336,9 +17944,11 @@ hysbysebu
 hysbysebwr
 hysbysfwrdd
 hysbysiad
+hysbyslen
 hysbysrwydd
 hysbysu
 hysbyswr
+hysgadan
 hysgi
 hysgi Siberaidd
 hysgol
@@ -16352,6 +17962,7 @@ hyw
 hâl
 hên
 hïodin
+hŵr
 hŵy
 hŷn
 i
@@ -16359,10 +17970,13 @@ i blith
 i chi
 i ddot
 i dot
+i f 'w chroesawu
 i ffwrdd
 i fyny
 i fyny allt
 i fyny'r grisiau
+i fysg
+i ganol
 i gryn raddau
 i gyd
 i gyd ynghyd
@@ -16373,11 +17987,15 @@ i mewn
 i mewn i
 i mi
 i ni
+i nunlle
+i pl 'w croesawu
 i raddau helaeth
 i ryw raddau
 i rywle
 i sicrwydd
 i ti
+i unlle
+i unman
 i'n
 i'r dim
 i'r eithaf
@@ -16386,12 +18004,16 @@ i'r mymryn
 i'r pant y rhed y dŵr
 i'w
 i'w barhau
+i'w groesawu
 i'w parhau
 i'w pharhau
+ia
+iaaidd
 iach
 iachawdwr
 iachawdwriaeth
 iachus
+iacháu
 iachâd
 iacinth
 iad
@@ -16399,6 +18021,7 @@ iadflingo
 iah
 iaith
 iaith arwyddion
+iaith greol
 iam
 iard drefnu
 iard longau
@@ -16417,7 +18040,6 @@ iawn?
 iawndal
 iawndal penodedig
 iawndaliadau
-ia}}
 ibis
 ibuprofen
 ichnewmon
@@ -16452,6 +18074,7 @@ ieuenctid
 ifanc
 ifanca
 ifancaf
+ife
 ifengach
 ig
 igam-ogam
@@ -16463,6 +18086,7 @@ ildio
 im
 imi
 imiwnedd cenfaint
+imperialaeth
 impyn
 imâm
 in
@@ -16472,9 +18096,11 @@ incwnabwlwm
 indigo
 indiwm
 indrawn
+injan ffiseg
 innau
 inni
 insiwrans
+institiwt
 inswleiddio
 ioga
 iogwrt
@@ -16486,6 +18112,7 @@ iredentiaeth
 iridiwm
 iro
 is
+is gil
 is lywydd
 is-
 is-arlywydd
@@ -16502,6 +18129,7 @@ is-lywyddion
 is-teitl
 is-teitlau
 is-teitlo
+isaf
 isafswm
 isbennawd
 isbridd
@@ -16523,6 +18151,7 @@ iselwael
 iselydd
 iselyddion
 isetholiad
+isffram
 isfyd
 isfydol
 isgoch
@@ -16530,6 +18159,7 @@ isgontractiwr
 isgymal
 isie
 isio
+islaw
 islawr
 islywydd
 isod
@@ -16544,6 +18174,8 @@ isrywogaeth
 isteitl
 isteitlau
 isteitlo
+isthyroidedd
+istyfiant
 it
 ithfaen
 iti
@@ -16567,12 +18199,15 @@ iâ sglefrio
 iâl
 iâr
 iâr ddŵr
+iâr fach lygadog
 iâr fach y glaw
 iâr fach yr haf
 iâr faes
 iâr gini
 iâr gopog
 iâr y coed
+iâr y mynydd
+iâr y rhos
 iâr-ednol
 iäaidd
 iäen
@@ -16607,10 +18242,16 @@ jin a thonig
 jiráff
 jiwt
 jocstrap
+jolihoetian
+jolihoetio
+jolihoetiwr
+jolihoitio
+jolihowtio
 jw-jitsw
 jwngl
 jygarnot
 jyngl
+jyngls
 jêl
 jîns
 jôc
@@ -16622,6 +18263,7 @@ klingon
 l
 label recordio
 labordy
+lachar
 lactos
 ladanwm
 ladd
@@ -16636,6 +18278,7 @@ lafant
 lafar
 lafur
 lafwr
+lagŵn heli
 lagŵn llanw
 lai
 laid
@@ -16654,7 +18297,6 @@ lampiau
 lamprai
 lamé
 lan
-lan ()
 lan llofft
 lan lofft
 lan rhiw
@@ -16667,12 +18309,17 @@ landlord
 laned
 lanhau
 lanlwytho
+lansio
 lanthanwm
-lapio
 larbwrd
 larfa
 larfae
+larwm
+larwm crynu
+larwm diogelwch
 larwm mwg
+larwm tân
+larymau
 laryncs
 las
 lasach
@@ -16683,6 +18330,7 @@ lasgoch
 lau
 law
 lawdriniaeth
+lawen
 lawer
 lawes
 lawio
@@ -16703,6 +18351,7 @@ ledled
 lefain
 lefel
 lefel ddŵr
+lefel medru iaith
 lefel y môr
 lefel ysbryd
 lefren
@@ -16723,19 +18372,22 @@ leim
 lein
 leinin
 leision
+lembo
+lembos
 lemon
 lemonêd
 lemwn
 len
 lens gyffwrdd
-leodd chwech
 leprecon
 leptin
 les
 lesau
 lesbiad
+lesbiaidd
 lesddeiliad
 lesddeiliaid
+lesithin
 lesoedd
 lestair
 lestr
@@ -16762,11 +18414,17 @@ lili fach wen
 lili wen fach
 lili'r dŵr
 lili'r maes
+limbo
+limpin
+limpyn
 lin
 lindys
 lindysyn
 ling-di-long
 linos
+linos borffor
+linosiaid
+linosiaid porffor
 lintel
 lipas
 lithiwm
@@ -16790,6 +18448,7 @@ llabwst
 llabyddio
 llac
 llaca
+llachar
 llaciad
 llacio
 lladd
@@ -16809,7 +18468,10 @@ lladrata
 lladron
 llaered
 llaes
+llaesod
+llaesodr
 llaeth
+llaeth a chwrw
 llaeth bron
 llaeth bron Mair
 llaeth ceirch
@@ -16855,6 +18517,7 @@ llafurus
 llai
 llaid
 llain
+llain las
 llais
 llaith
 llall
@@ -16883,6 +18546,7 @@ llanwad
 llanwaf
 llanwau
 llanwdon
+llarswydd
 llarwydd
 llasen
 llaswyr
@@ -16894,6 +18558,7 @@ llathen
 llathen Fair
 llathrlwch
 llau
+llau pen
 llau'r offeiriad
 llaw
 llaw Fair
@@ -16901,11 +18566,13 @@ llaw-fer
 llawchwith
 llawdde
 llawddehau
+llawddewiniaeth
 llawdriniaeth
 llawen
 llawenydd
 llawer
 llawes
+llawfaeth
 llawfeddyg
 llawfeddygaeth
 llawfeddygiaeth
@@ -16913,9 +18580,10 @@ llawfeddyginiaeth
 llawfeddygol
 llawfeddygon
 llawfeddygwaith
-llawfeddygwaith ()
+llawfom
 llawfwyell
 llawgaead
+llawiad
 llawlif
 llawlyfr
 llawlyfr maes
@@ -16925,6 +18593,7 @@ llawn-amser
 llawnaeth
 llawnbryd
 llawr
+llawr trin
 llawryf
 llawryfoedd
 llawsgrif
@@ -16964,19 +18633,25 @@ llechweddau
 llechwr
 llechwraidd
 llecyn
+llecyn Wi-Fi
+llecyn cyfoethog o ran bioamrywiaeth
 lled
+lled adenydd
+lled esgyll
 lled hallt
 lled-
 lled-ansoddair
 lled-awtomatig
 lled-ddargludydd
 lled-lafariad
+lled-werthfawr
 lledael
 lleddf
 lleddfder
 lleddfdra
 lleddfol
 lleddfu
+lleddfu poen
 lleden
 lleden Fair
 lleden Ffrengig
@@ -17008,6 +18683,7 @@ llefn
 llefren
 llefrith
 llefrithen
+llefydd
 llefydd chwech
 lleia
 lleiaf
@@ -17031,13 +18707,14 @@ lleinw
 lleisiad
 lleisiau
 lleisio
+lleisio barn
 lleisiol
-lleisiwr
 lleisw
 lleiswyr
 lleisydd
 lleithio
 lleithon
+llembo
 llen
 llencyn
 llencyndod
@@ -17054,15 +18731,18 @@ llenydda
 llenyddiaeth
 llenyddol
 llenyddu
-lleodd chwech
+lleoedd
+lleoedd chwech
 lleol
 lleoli
 lleoliad
+lleoliad maeth
 llercian
 lles
 llesg
 llesgedd
 llesgáu
+llesol
 llestair
 llesteiriad
 llesteiriannau
@@ -17093,11 +18773,11 @@ lleua
 lleuad
 lleuad lawn
 lleuen
+lleuen pen
 lleugylch
-lleugylch ()
 lleuog
 llew
-llew gwyn ()
+llew gwyn
 llew mynydd
 llewod
 llewpard
@@ -17110,6 +18790,8 @@ llewyg yr iâr
 llewygfa
 llewygu
 llewyrch
+llewyrchu
+llewyrchus
 llewys
 llewys llaes
 llgyradwy
@@ -17141,6 +18823,7 @@ llifddol
 llifddor
 llifddwfr
 llifdoriad
+llifed
 llifeiriant
 llifiad
 llifiant
@@ -17166,6 +18849,7 @@ llindagwriaeth
 llindro
 llinell
 llinell ddŵr
+llinell estyn
 llinell groes
 llinellau
 llinellydd
@@ -17175,9 +18859,13 @@ lliniarol
 lliniaru
 lliniaru meintiol
 llinlun
+llinoryn
 llinos
+llinos borffor
 llinos goch
 llinos werdd
+llinosiaid
+llinosiaid porffor
 llinyn
 llinyn ffrwyn
 llinyn gwar
@@ -17190,6 +18878,7 @@ llinynllyd
 llinynnau
 llipryn
 llith
+llithiad
 llithiau
 llithio
 llithoedd
@@ -17198,7 +18887,9 @@ llithro
 lliw
 lliw afocado
 lliw gwlanen
+lliw haul
 lliw hufen
+lliw llechen
 lliw rhwd
 lliw siocled
 lliwddall
@@ -17240,6 +18931,7 @@ llofrudd
 llofrudd cyfresol
 llofruddiaeth
 llofruddiaethau
+llofruddiedig
 llofruddio
 llofruddion
 llofruddwyr
@@ -17247,6 +18939,7 @@ llofysgrif
 llog
 llogell
 llogi
+llom
 llon
 llonaid
 llond
@@ -17271,6 +18964,7 @@ llong ryfel
 llongau
 llongau rhyfel
 llongwr
+llongwriaeth
 llongwyr
 llongyfarch
 llongyfarchiadau
@@ -17420,13 +19114,14 @@ llwydfelyn
 llwydfelyn gwel
 llwydfelyn y rhos
 llwydfron
-llwydi
+llwydion
 llwydlas
 llwydni
 llwydni hopys
 llwydnos
 llwydo
 llwydrew
+llwydwyn
 llwydwyrdd
 llwyeidiau
 llwyf
@@ -17468,15 +19163,27 @@ llwythwch
 llwythwr
 llwythwr gwair
 llwythydd
+llwytyn y gwyddfid
 llychiog
 llychlyd
 llychlydrwydd
 llydan
+llydanbig
+llydanbig cribfelyn
+llydanbig cribwyn
+llydanbig gyddf-felyn
+llydanbig sbectolog
+llydanbigau
+llydanbigau cribfelyn
+llydanbigau cribwyn
+llydanbigau gyddf-felyn
+llydanbigau sbectolog
 llydanddail
 llydandroed
 llydnod
 llyf
 llyfa
+llyfed
 llyffant
 llyffethair
 llyfn
@@ -17505,7 +19212,10 @@ llyg
 llygad
 llygad Ebrill
 llygad am lygad a dant am ddant
+llygad coch
+llygad drwg
 llygad maharen
+llygad noeth
 llygad y berw
 llygad y bwgan
 llygad y dydd
@@ -17517,6 +19227,7 @@ llygoden
 llygoden Ffaro
 llygoden Ffrengig yr Aifft
 llygoden fawr
+llygoden ffyrnig
 llygoden fwsg
 llygoden y dŵr
 llygoden y maes
@@ -17559,6 +19270,9 @@ llyn
 llyncdwll
 llyncu
 llynedd
+llynges
+llynges fasnach
+llyngesol
 llyngesydd
 llyngesydd o'r fflyd
 llyngwren
@@ -17572,10 +19286,10 @@ llys Cadwaladr
 llys Cadwgan
 llys Crist
 llys Efa
-llys Iago ()
+llys Iago
 llys Ieuan
 llys Ifan
-llys Jacob ()
+llys Jacob
 llys Llewelyn
 llys Mair
 llys Mair Fadlen
@@ -17591,6 +19305,7 @@ llys apêl
 llys arferion cyfyngol
 llys awdurdod arbennig
 llys barn
+llys cangarŵ
 llys cariad
 llys coffa'r gors
 llys copyn y dwfr
@@ -17607,7 +19322,7 @@ llys fedd
 llys ffiwdal
 llys gwarchod
 llys ieuenctid
-llys llaeth ()
+llys llaeth
 llys masnach
 llys melyn
 llys methdaliad
@@ -17650,7 +19365,7 @@ llys y fors eddïog
 llys y fuddai
 llys y geiniog
 llys y giau
-llys y gingroen ()
+llys y gingroen
 llys y gors
 llys y gwaed
 llys y gwaedlif
@@ -17723,8 +19438,8 @@ llysiau 'r cribau
 llysiau 'r cribwr
 llysiau 'r pannwr
 llysiau Mair
-llysiau Mair Fadlen ()
-llysiau bronnau Mair ()
+llysiau Mair Fadlen
+llysiau bronnau Mair
 llysiau cwsg
 llysiau'r afu
 llysiau'r bara
@@ -17745,6 +19460,7 @@ llysieuwr
 llysieuwr ydw i
 llysieuwraig
 llysieuwraig ydw i
+llysieuwyr
 llysieuyn
 llyslau
 llysleuen
@@ -17760,6 +19476,7 @@ llysysydd
 llysywen
 llysywen bendoll
 llysywen bendoll yr afon
+llysywen noeth
 llythreniad
 llythrennau
 llythrennedd
@@ -17770,7 +19487,6 @@ llythyr
 llythyrau
 llythyrdy
 llythyren
-llythyren f ()
 llythyren rwnig
 llythyrennau
 llythyrnod
@@ -17814,6 +19530,7 @@ lofft
 loffti
 lofftydd
 lol
+lol botes maip
 lolfa
 lolipop
 loment
@@ -17829,6 +19546,10 @@ longwyr
 lonydd
 lori
 lori ludw
+loris
+lorri
+lorris
+lorïau
 losg
 losgach
 losgaf
@@ -17862,14 +19583,27 @@ lwyau cawl
 lwyau te
 lwybr
 lwyd
+lwydaidd
 lwydd
 lwyddo
+lwydwyn
 lwyn
+lwynog
 lwyth
 lwythais
 lwytho
 lwythodd
 lydan
+lydanbig
+lydanbig cribfelyn
+lydanbig cribwyn
+lydanbig gyddf-felyn
+lydanbig sbectolog
+lydanbigau
+lydanbigau cribfelyn
+lydanbigau cribwyn
+lydanbigau gyddf-felyn
+lydanbigau sbectolog
 lyf
 lyfr
 lyfrau
@@ -17881,8 +19615,10 @@ lygaid
 lygod
 lygoden
 lygriad llwyr
+lympin
 lyn
 lyncs
+lyncs Ewrasiaidd
 lys
 lys-
 lysenw
@@ -17892,6 +19628,8 @@ lysfam
 lysferch
 lysiau
 lysieuol
+lysieuwr
+lysieuwyr
 lythyr
 lythyrdy
 lywy
@@ -17904,6 +19642,7 @@ lân
 lês
 lîg
 lôn
+lôn werdd
 m
 m.y.a.
 ma'
@@ -17929,6 +19668,8 @@ machgenyn
 machlud
 machlud haul
 macrell
+macrofaetholyn
+macrofaethyn
 macrofioteg
 macrofiotig
 macydelgi
@@ -17944,12 +19685,14 @@ madarch y coed
 madarch y maes
 madarchen
 madarchen hudol
+maddau
 madfall
 madfall ddŵr
 madfall fonitor
 madfall gyffredin
 madfall symudliw
 madfall y tywod
+madfallaidd
 madfallod
 madfallod dŵr
 madr
@@ -17968,6 +19711,7 @@ mae gwaed yn dewach na dŵr
 mae hi'n bwrw glaw
 mae llawer ffordd i ladd ci heblaw ei grogi
 mae llawer sgil i gael Wil i'w wely
+mae ymyl arian i bob cwmwl du
 mae ysmygu yn y fangre hon yn erbyn y gyfraith
 mae'n bwrw eira
 mae'n ddrwg gen i
@@ -17976,6 +19720,8 @@ mae'n rhaid i mi fynd
 mae'r geiniog wedi syrthio
 mae'r hyn sy'n cael ei wneud yn cael ei wneud
 maeau
+maedd
+maeddod
 maeddu
 maen
 maen breuan
@@ -18094,45 +19840,79 @@ majenta
 malais
 malaith
 malaria
+maleiswedd
 maleithr
 malimbe copog
 mall rhyg
 mallryg
 malltod rhyg
 malltorch
+malu
 malu awyr
+malurio
+malw yr heli
 malw'r hêl
 malwen
 malwod
 malwoden
 malwota
+malwr
+malwr cig
+malwraig
+malwyr
 mam
+mam cŵn bach
+mam ddaear
+mam ddibriod
+mam faeth
 mam fedydd
+mam feichiog
+mam fenthyg
+mam frenhines
+mam goeden
+mam miloedd
+mam sy'n bwydo o'r fron
+mam weddw
+mam wen
+mam y drwg
+mam y glo
+mam yn Israel
+mam yn ei harddegau
 mam yng nghyfraith
+mam-dâp
 mam-gu
 mamal
+mamal morol
 mamaliaid
 mamau
 mambŵ
+mameglwys
 mamgu
+mami
 mamiaith
+mamol
 mamoth
 mamoth blewog
 mamoth gwlanog
 mamothiaid
+mamwlad
 man
 man cychwyn
 man geni
+man glas
 man gwastad
 man gwyn man draw
+man gwyrdd
 man hyn
 manag
 manana
 manatî
 manblu
+mand
 mandon
 maneg
 maner
+manflew
 manganîs
 mangnel
 mangnelwr
@@ -18149,10 +19929,17 @@ mantais
 manteisio
 manteisiol
 manteision
+mantell
 mantell Fair
 mantell Fair fynyddig
+mantell dramor
+mantell dywyll
+mantell fapadeiniog
+mantell nwy
 mantell paun
+mantell wen
 mantis
+mantolen
 manus
 manwerth
 manwerthu
@@ -18196,6 +19983,7 @@ marchnatáu
 marchnerth
 marchog
 marchogaeth
+marchogion
 marchoglu
 marchrawn
 marchredynen
@@ -18203,12 +19991,14 @@ marchruddygl
 marchwellt
 marchysgall
 marchysgallen
+marciau
 marddanadl
 marddanhadlen
 marian
 marl
 marmalêd
 marmor
+marmoraidd
 marmot
 marn
 marnau
@@ -18259,7 +20049,12 @@ masnachaeth
 masnachaidd
 masnachdai
 masnachdy
+masnachfraint
 masnachle
+masnachol
+masnachu
+masnachwr
+mastectomi
 mastiff
 mastwrbeiddio
 maswn
@@ -18269,6 +20064,7 @@ mat diod
 mater
 mater tywyll
 materol
+materoliaeth hanesyddol
 math
 mathafarn
 mathau
@@ -18277,6 +20073,7 @@ mathemateg
 mathemateg bur
 mathemateg gymhwysol
 mathemategol
+mathemategydd
 matras
 matrasau
 matricwleiddio
@@ -18309,9 +20106,13 @@ medd
 meddai
 meddal
 meddaliad
+meddalog
 meddalu
 meddalwedd
+meddalwedd hysbysebu
+meddalwedd wystlo
 medden
+meddiangar
 meddiannau
 meddiannol
 meddiannu
@@ -18324,6 +20125,7 @@ meddw
 meddwdod
 meddwi
 meddwl
+meddwl heb orwelion
 meddwn
 meddwol
 meddwon
@@ -18336,13 +20138,14 @@ meddygaeth amgen
 meddyges
 meddygesau
 meddygfa
-meddygfa ()
 meddygfeydd
+meddygiaeth
 meddyginiaeth
 meddyginiaethau
 meddyginiaethol
 meddyginiaethu
 meddyglyn
+meddygol
 meddygon
 meddylfryd
 meddylgar
@@ -18371,6 +20174,7 @@ mefusbren
 mefusen
 mefuswydden
 megaffon
+megalith
 megin
 megino
 meginwr
@@ -18385,6 +20189,7 @@ meiddio
 meiddion
 meidir
 meidr
+meidrol
 meigryn
 meillion
 meillion hopys
@@ -18392,6 +20197,7 @@ meillionen wen
 meilwng
 meinhau
 meini
+meini prawf
 meintiau
 meintiol
 meinwe
@@ -18424,6 +20230,7 @@ melfoch
 melfroch
 melin
 melin ddŵr
+melin drin
 melin goffi
 melin sbwriel
 melin wynt
@@ -18449,7 +20256,8 @@ melwn
 melyn
 melyn Mair
 melyn banana
-melyn siocled ()
+melyn gloyw
+melyn siocled
 melyn wy
 melyn yr ŷd
 melynaidd
@@ -18461,11 +20269,15 @@ melynllwyd
 melynllys
 melynlys
 melynog Mair
+melynrudd
+melynwelw
 melynwy
 melynwyn
+melynwyrdd
 melys
 melysfwyd
 melysgybolfa
+melysion gwirod
 melyster
 mendelefiwm
 mendigedig
@@ -18477,6 +20289,7 @@ menyn clir
 menyn pysgnau
 menyw
 menyw groenliw
+menywaidd
 mer
 merbys
 merch
@@ -18534,6 +20347,8 @@ metelegydd
 metelig
 meteoroleg
 methan
+methdaliad
+methdalwr
 mether
 methi
 methmat
@@ -18546,12 +20361,15 @@ metrig
 mewn
 mewn cariad
 mewn chwinciad
+mewn cysylltiad
 mewn difri
 mewn grym
 mewn gwirionedd
+mewn i
 mewn llawysgrif
 mewn oed
 mewn pryd
+mewn trefn
 mewn-
 mewnanadliad
 mewnanadlu
@@ -18559,6 +20377,7 @@ mewnanadlydd
 mewnblyg
 mewnblygiad
 mewnblygrwydd
+mewnbwn maeth
 mewnddodiad
 mewnflwch
 mewnfodol
@@ -18572,6 +20391,7 @@ mewnfudiad
 mewnfudo
 mewnfudol
 mewnfudwr
+mewngofnodaf
 mewngofnodi
 mewnlif
 mewnol
@@ -18596,6 +20416,7 @@ mhaned
 mhant
 mhapur
 mhara
+mhara-
 mharc
 mharcio
 mharod
@@ -18621,13 +20442,22 @@ mheiriannwyr
 mheiriannydd
 mheis
 mhen
+mhenaethaid
+mhenaethau
+mhenaethiaid
+mhenaethion
 mhencampwr
 mhencampwriaeth
 mhencampwriaethau
 mhencampwyr
+mhenderfynu
 mhenglog
 mhengwin
 mhengwiniaid
+mhenis
+mhennaeth
+mherl
+mherlau
 mherth
 mherthnasau
 mherthynas
@@ -18638,8 +20468,25 @@ mhib
 mhibau
 mhibau cyrn
 mhibgorn
+mhig
+mhigau
 mhigwrn
+mhigyn
+mhigynnau
+mhila
+mhilaon
 mhinc
+mhinc eurben
+mhincod
+mhincod eurben
+mhiwi
+mhiwi cefnwyn
+mhiwi coed y dwyrain
+mhiwi llwydwyn
+mhiwïaid
+mhiwïaid cefnwyn
+mhiwïaid coed y dwyrain
+mhiwïaid llwydwyn
 mhla
 mhladur
 mhlaid
@@ -18649,6 +20496,7 @@ mhlastig
 mhleidiau
 mhlentyn
 mhlu
+mhlymio
 mhob
 mhobl
 mhobloedd
@@ -18693,6 +20541,7 @@ mhwerau
 mhweru
 mhwl
 mhwmpen
+mhwys
 mhyliau
 mhysgod
 mhysgodyn
@@ -18702,6 +20551,8 @@ mi
 miaren
 microbrosesydd
 microdon
+microfaetholyn
+microfaethyn
 microgyfrifiadur
 microgyfrifiaduron
 microsgop
@@ -18717,11 +20568,14 @@ mil
 mil biliwn
 mil blynyddoedd
 mil un cant
+milain
 milcant
 milddail
 miled
 mileniwm
 milfeddyg
+milfeddygaeth
+milfeddygol
 milgi
 miliast
 miliwn
@@ -18755,7 +20609,7 @@ mins-peis
 minsglein
 mint
 mint y gath
-mintys Mair ()
+mintys Mair
 mintys poethion
 mintys y gath
 mintys y maes
@@ -18804,6 +20658,7 @@ mochyn
 mochyn coed
 mochyn cwta
 mochyn daear
+mochyn dafadennog
 mod
 modd
 modd annherfynol
@@ -18843,6 +20698,7 @@ moll
 mollt
 mollt(yn)
 molltyn
+molog
 molybdenwm
 monci
 mongŵs
@@ -18851,13 +20707,18 @@ monogami
 monwes
 mop
 mor
+mor falch â phaun
 mor fuan â phosibl
 mor wen â'r eira
+mor wir â'r pader
 mor wyn â'r eira
 mor-filltiroedd
 mord
 mordaith
 morddwyd
+mordeithiau
+mordeithio
+mordeithiol
 mordir
 mordwy
 mordwyo
@@ -18866,6 +20727,7 @@ more
 moreau
 morel
 moresg
+morfa heli
 morfarch
 morffedd
 morffem
@@ -18899,6 +20761,7 @@ morlin
 morlinau
 morlo
 morlo cyffredin
+morlo manflewog
 morlyn
 moroedd
 moroedd tawchion
@@ -18926,6 +20789,7 @@ morwr
 morwrol
 morwydden
 morwyn
+morwyn briodas
 morwyndod
 moryd
 moryn
@@ -18937,6 +20801,7 @@ mosg
 mosgito
 moth
 mothau
+motorbeiciwr
 motél
 moyn
 mraich
@@ -18949,18 +20814,36 @@ mrecwast
 mrecwastau
 mreichiau
 mrenhines
+mrenhiniaeth
+mrenhinol
 mrenin
+mreniniaethau
+mreninolion
 mrest
+mreuddwyd
+mreuddwydio
+mreuddwydion
 mri
+mricyll
+mricyllen
 mro
+mroc
+mroc môr
 mroch
 mroliannau
 mroliant
 mron
+mronlas
+mronleision
 mronnau
 mrown
 mrws
 mrwsio
+mrych gyddfgoch
+mrychion gyddfgoch
+mryn
+mryniau
+mryoffyt
 mrân
 muail
 mual
@@ -18980,7 +20863,6 @@ muesli
 mul
 mulfran
 mulfran werdd
-mun
 munud
 munudau
 mur
@@ -18995,7 +20877,9 @@ murlen
 murlun
 murmur
 murol
+mursen
 mursennaidd
+mursennod
 muwch
 mwclis
 mwcws
@@ -19011,6 +20895,9 @@ mwlsen
 mwlsyn
 mwltibiliwnydd
 mwltimiliwnydd
+mwmial
+mwmian
+mwmio
 mwnci
 mwncïod
 mwng
@@ -19030,6 +20917,7 @@ mwsged
 mwsgedi
 mwsglygoden
 mwsglys
+mwsh
 mwsog
 mwsogl
 mwsogla
@@ -19051,6 +20939,7 @@ mwtanu
 mwthyn
 mwy
 mwy neu lai
+mwy o daro nac o dwrw
 mwya
 mwyadur
 mwyaduron
@@ -19085,6 +20974,7 @@ mwyn
 mwyn tun
 mwyna' byth y man ni bôm
 mwynach
+mwynder
 mwynfawr
 mwynglawdd
 mwynglawdd agored
@@ -19149,6 +21039,8 @@ mynd allan
 mynd ar beic (gefn)
 mynd ar dân
 mynd ar wyliau
+mynd i chwiban ysgadan
+mynd i'r gyffes
 mynd i’r clawdd
 mynd o'i le
 mynd yn angof
@@ -19157,7 +21049,6 @@ mynd yn hen
 mynd yn hŷn
 mynd yn wael
 mynd â
-mynd â ()
 mynd â'r maen i'r wal
 myned
 mynedadwy
@@ -19181,6 +21072,7 @@ mynegiant
 mynegol
 mynegrif
 mynegyn
+myngial
 mynnu
 mynta
 mynwair
@@ -19189,7 +21081,6 @@ mynwes
 mynwgl
 mynych
 mynychder
-mynychiad
 mynychu
 mynychwr
 mynydd
@@ -19259,6 +21150,7 @@ môr-leidr
 môr-leidrau
 môr-lewys
 môr-lywodraeth
+môr-löyn noeth
 môr-nodwydd
 môr-ungorn
 môr-wennol
@@ -19269,11 +21161,13 @@ môr-ysbeilwyr
 mŷr
 mẁg
 mỳg
+mỳn
 n
 na
 nabl
 nabod
-nabod ()
+nac
+naci
 nacr
 nacáu
 nad
@@ -19288,6 +21182,7 @@ nadredd
 nadroedd
 nadu
 naear
+naeareg
 naen
 naet
 nafad
@@ -19298,6 +21193,7 @@ nai
 nai fab brawd
 nai fab chwaer
 naid
+naid bolyn
 naidlen
 nail
 naill ai … neu
@@ -19307,13 +21203,16 @@ nalen
 nall
 nam-
 namwain
+namyn
 nangoseg
-nanodiwb boron nitrideg ()
+nanodiwb boron nitrideg
 nanodiwb carbon
 nant
+nant hafesb
 nar-
 narn
 narnau
+nasél
 nat-
 nata-bas
 nata-basau
@@ -19342,14 +21241,17 @@ nawnsio
 nawr
 naws
 nawtilws
+ne
 neall
 neb
 neclis
 necropolis
 nectarîn
 nedd
+nedden
 neddyf
 nef
+nefaid
 nefoedd
 nefol
 nefolaidd
@@ -19357,6 +21259,7 @@ neg
 negau
 neges
 neges destun
+neges e-bost
 negesa
 negeseua
 negeseuon
@@ -19375,8 +21278,14 @@ neidio
 neidio'r ciw
 neidit
 neidr
+neidr ddefaid
 neidr ddu
+neidr fraith
 neidr gantroed
+neidr gwrel
+neidr lwyd
+neidr wasgu
+neidr y glaswellt
 neidr y gwair
 neiedd
 neigarwch
@@ -19398,6 +21307,7 @@ neithdaren
 neithior
 neithiwr
 neithiwyr
+nelw
 nelwn
 nen
 nen-fwd
@@ -19411,6 +21321,7 @@ nentydd
 neodymiwm
 neon
 neptwniwm
+nerbyn
 nerf
 nerfol
 nerfus
@@ -19433,6 +21344,7 @@ nesâd
 netswce
 neu
 neu beidio
+neu beidio?
 neuadd
 neuadd breswyl
 neuadd goffa
@@ -19469,10 +21381,12 @@ newyn
 newynau
 newynog
 ng
+ngad
 ngadael
 ngaeaf
 ngafr
 ngair
+ngaran
 ngardd
 ngarej
 ngarejis
@@ -19483,11 +21397,14 @@ ngeiriadurwyr
 ngelli
 ngelyn
 ngelynion
+ngemau
 ngeneth
 ngeni
 ngerddi
 nghacen
 nghachu
+nghacwn
+nghacwn meirch
 nghad
 nghadair
 nghadeiriau
@@ -19510,6 +21427,8 @@ nghallio
 nghalon
 ngham-
 nghamdreiglo
+nghamera
+nghamerâu
 nghamlas
 nghamp
 nghampus
@@ -19518,6 +21437,8 @@ nghan-
 nghangen
 nghanlyniad
 nghanlyniadau
+nghanolbarth
+nghanolbarthau
 nghanolog
 nghant
 nghanu
@@ -19527,6 +21448,10 @@ nghar
 ngharafán
 ngharchar
 ngharcharu
+nghardinal
+nghardinal cyffredin
+nghardinaliaid
+nghardinaliaid cyffredin
 nghariad
 ngharreg
 ngharthen
@@ -19534,6 +21459,7 @@ ngharu
 ngharw
 ngharwr
 ngharwyr
+nghas
 nghasglu
 nghastell
 nghath
@@ -19551,6 +21477,7 @@ nghefnder
 nghefnfor
 nghegin
 ngheir
+ngheisio
 nghelfi
 nghell
 nghelloedd
@@ -19559,6 +21486,7 @@ nghemeg
 nghenhinen
 nghennin
 ngherdded
+ngherddi
 ngherddoriaeth
 ngherrig
 nghestyll
@@ -19607,6 +21535,19 @@ nghneuen Ffrengig
 nghneuen gyll
 nghnewyll
 nghnewyllyn
+nghnoc
+nghnocell
+nghnocell ddu
+nghnocell lwydaidd
+nghnocell wlanog
+nghnocell yddfgoch
+nghnocellau
+nghnocellau duon
+nghnocellau gwlanog
+nghnocellau gyddfgoch
+nghnocellau llwydaidd
+nghnocellod
+nghnociau
 nghnoi
 nghnuchio
 nghnwd
@@ -19623,6 +21564,11 @@ nghogyddes
 nghogyddesau
 nghogyddion
 ngholli
+ngholomen
+ngholomennod
+nghont
+nghontau
+nghontiau
 nghonwyddau
 nghor
 nghorachiaid
@@ -19642,12 +21588,17 @@ nghostrel
 nghosyn
 nghot
 nghot law
+nghowboi
+nghowbois
 nghranc
 nghrancod
 nghredu
+nghrib
+nghribau
 nghriced
 nghroen
 nghroes
+nghroeso
 nghrug
 nghrwban
 nghrwbanod
@@ -19656,6 +21607,12 @@ nghrwyn
 nghrwys
 nghrys
 nghrysau
+nghudyll
+nghudyll coch
+nghudyll coch bach
+nghudyllod
+nghudyllod cochion
+nghudyllod cochion bach
 nghudyn
 nghudynnau
 nghul
@@ -19670,9 +21627,11 @@ nghut
 nghwch
 nghwest
 nghwestiwn
+nghwfl
 nghwm
 nghwmni
 nghwmnïau
+nghwmpas
 nghwningen
 nghwningod
 nghwpan
@@ -19681,12 +21640,14 @@ nghwpwrdd
 nghwrdd
 nghwrs
 nghwrw
+nghwyn
 nghy-
 nghychod
 nghychwyn
 nghyd-
 nghydbreswylwyr
 nghyf-
+nghyfalafiaeth
 nghyfaredd
 nghyfarfod
 nghyfarfodydd
@@ -19695,6 +21656,7 @@ nghyfenw
 nghyffrous
 nghyfiawnder
 nghyfieithu
+nghyflau
 nghyfnither
 nghyfoeth
 nghyfr-
@@ -19739,6 +21701,8 @@ nghysylltiad
 nghysyniad
 nghysyniadau
 nghyt-
+nghytgan
+nghytganau
 nghythraul
 nghythreuliaid
 nghywair
@@ -19767,6 +21731,7 @@ ngogoniant
 ngolau
 ngolchi
 ngoleuadau
+ngolff
 ngollwng
 ngolwg
 ngolygfa
@@ -19786,6 +21751,8 @@ ngwain
 ngwair
 ngwaith
 ngwal
+ngwalch
+ngwalch glas
 ngwanu
 ngwanwyn
 ngwario
@@ -19799,6 +21766,12 @@ ngwdihŵiaid
 ngwdihŵs
 ngweddi
 ngweddïo
+ngwehydd
+ngwehydd mygydog
+ngwehyddion
+ngwehyddion mygydog
+ngweilch
+ngweilch gleision
 ngweinidog
 ngweinidogion
 ngweithiau
@@ -19812,10 +21785,13 @@ ngwenith
 ngwennol
 ngwenoliaid
 ngwenyn
+ngwenyn meirch
 ngwenynen
 ngwerdd
+ngwerin
 ngweriniaeth
 ngweriniaethau
+ngwerinoedd
 ngwerinwr
 ngwerinwyr
 ngwerthu
@@ -19833,7 +21809,15 @@ ngwledydd
 ngwraig
 ngwrando
 ngwres
+ngwresogi
 ngwrth-
+ngwryw
+ngwybedog
+ngwybedog cynffonddu
+ngwybedog pigddu
+ngwybedogion
+ngwybedogion cynffonddu
+ngwybedogion pigddu
 ngwybod
 ngwybodaeth
 ngwych
@@ -19842,10 +21826,18 @@ ngwychaf
 ngwyched
 ngwyddbwyll
 ngwyddion
+ngwylan
+ngwylan gefnddu fwyaf
+ngwylan gefnddu leiaf
+ngwylanod
+ngwylanod cefnddu lleiaf
+ngwylanod cefnddu mwyaf
 ngwyliau
 ngwylio
 ngwyn
+ngwynlas
 ngwyrdd
+ngwyrddlas
 ngwys
 ngwystl
 ngwên
@@ -19866,6 +21858,7 @@ nhai
 nhai bach
 nhaid
 nhain
+nhair
 nhaith
 nhalcen
 nhalent
@@ -19873,9 +21866,20 @@ nhales
 nhaliadau
 nhalu
 nhan-
+nhanagr
+nhanagr coch
+nhanagr coch bochlwyd
+nhanagr coch mygydog
+nhanagrod
+nhanagrod cochion
+nhanagrod cochion bochlwyd
+nhanagrod cochion mygydog
+nhaniwr
+nhanwyr
 nhapin
 nharian
 nharianau
+nharth
 nharw
 nhatws
 nhawelwch
@@ -19905,15 +21909,58 @@ nheulu
 nhew
 nhewach
 nhewaf
+nhewbig
+nhewbig cefnddu
+nhewbig cyfnos
+nhewbig cynffonddu
+nhewbig du a melyn
+nhewbig pinwydd
+nhewbigau
+nhewbigau cefnddu
+nhewbigau cyfnos
+nhewbigau cynffonddu
+nhewbigau du a melyn
+nhewbigau pinwydd
 nhewed
 nhewi
+nheyrn
+nheyrn corunllwyd
+nheyrn cycyllog
+nheyrn gwinau bach
+nheyrn gwinau mawr
+nheyrn melyngoch
+nheyrn tinfelyn
 nheyrnaddoliant
 nheyrnas
+nheyrnasau
+nheyrnedd
+nheyrniaid
+nheyrniaid corunllwyd
+nheyrniaid cycyllog
+nheyrniaid gwinau bach
+nheyrniaid gwinau mawr
+nheyrniaid melyngoch
+nheyrniaid tinfelyn
+nheyrnion
 nhi
 nhin
 nhipyn
 nhir
 nhiroedd
+nhitw
+nhitw asur
+nhitw cefnwyrdd
+nhitw copog cyffredin
+nhitw cribog
+nhitw mawr
+nhitw-deyrn pigfelyn
+nhitw-deyrniaid pigfelyn
+nhitwod
+nhitwod asur
+nhitwod cefnwyrdd
+nhitwod copog cyffredin
+nhitwod cribog
+nhitwod mawr
 nhiwba
 nhiwbâu
 nhlodion
@@ -19925,8 +21972,10 @@ nhocynnau
 nhoiled
 nhoiledau
 nhoiledi
+nhoriad
 nhorri
 nhost
+nhowio
 nhra-
 nhraed
 nhraeth
@@ -19948,6 +21997,7 @@ nhreiglo
 nhreisiwr
 nhreiswyr
 nhrenau
+nhri
 nhrio
 nhriongl
 nhriongl isosgeles
@@ -19961,6 +22011,7 @@ nhro
 nhroed
 nhrombonau
 nhrombôn
+nhros
 nhros-
 nhrosgynnol
 nhrwydded
@@ -19974,10 +22025,12 @@ nhrydanwyr
 nhrydedd
 nhrydydd
 nhrên
+nhrôi
 nhu
 nhud
 nhudalen
 nhw
+nhwll
 nhwp
 nhwpach
 nhwpaf
@@ -19992,6 +22045,9 @@ nhylluanod
 nhyn
 nhyrrau
 nhywyll
+nhywyllwch
+nhywysog
+nhywysogion
 nhâl
 nhân
 nhîm
@@ -20000,6 +22056,7 @@ nhŷ
 nhŷ bach
 ni
 ni-
+nial
 nianc
 nib
 nicel
@@ -20030,12 +22087,17 @@ niflasaf
 niflased
 nifwl heulog
 nigar
+nigid
+nigidau
 nigon
+nigwyddiad
+nigwyddiadau
 nihiliaeth
 nihoniwm
 nileu
 nillad
 nilledyn
+nilyn
 nimbws
 ninnau
 niobiwm
@@ -20044,6 +22106,10 @@ nionod
 nirmygu
 nis
 nis-
+nisgwyl
+nisgyn
+nisgynebau
+nisgynneb
 nith
 nithiad
 nithio
@@ -20073,6 +22139,11 @@ niwlio
 niwliog
 niwlog
 niwrasthenig
+niwroamrywiaeth
+niwroamrywiol
+niwrogyhyrol
+niwroieithyddiaeth
+niwroieithyddol
 niwtron
 nobeliwm
 nod
@@ -20096,9 +22167,15 @@ nodyn addewid
 nodyn cyfnewid
 nodyn salwch
 noeth
+noeth lymun
+noeth-chwilio
+noethi
+noethlun
+noethlwm
 noethlymun
 noethlymuniaeth
 noethni
+noethryfelwr
 nofel
 nofelydd
 nofio
@@ -20117,6 +22194,7 @@ noniolach
 noniolaf
 nonioled
 nonsens
+normal newydd
 normaleiddio
 nos
 nos Fawrth
@@ -20135,34 +22213,45 @@ noson
 noswaith
 noswaith dda
 nosweithiau
-noswyl ()
+noswyfyn
+noswyl
 noswyl Fair y Canhwyllau
 noswylfa
+not
 notari
+notocord
 nraenog
 nraig
 nrama
 nreigiau
 nrwg
 nrwm
+nrygioni
 nudd
 nudden
 nug
+nunlle
 nwbl
 nwbwl
 nwdl
 nwfr
 nwnatac
 nwy
+nwy dagrau
 nwy mwstard
 nwy naturiol
 nwy petroliwm hylifol
 nwydd
 nwyddau
+nwyddau brown
+nwyddau gweini
+nwyeiddiad
+nwyeiddio
 nwyf
 nwyflwydd
 nwyfoli
 nwylo
+nwyol
 nwyon
 nwyrain
 nwys
@@ -20173,17 +22262,22 @@ nwysion
 ny-
 nydd
 nydden
+nyddolyn
 nyddu
 nyddwr
+nyddyn
 nyfalbarhad y saint
 nyflwydd
+nyfrgi
 nyfrgist
+nyfrgwn
 nyfroedd
 nyget
 nym-
 nymff
 nymff goed
 nynes
+nynfarch
 nyni
 nynoliaeth
 nyrs
@@ -20207,10 +22301,11 @@ nyth
 nyth aderyn y maes
 nyth y frân
 nythaid
+nythdrig
 nytheidiau
 nythfa
-nythfa ()
 nythfeydd
+nythffo
 nythiad
 nythod
 nythod y frân
@@ -20227,10 +22322,12 @@ o
 o Decsas
 o achos
 o achos hynny
+o amgylch
+o anghenraid
 o bant i bentan
 o bant i dalar
 o bared i bost
-o blaid ()
+o blaid
 o blith
 o bridd
 o bryd i'w gilydd
@@ -20240,22 +22337,29 @@ o dan y rhewbwynt
 o ddifri
 o ddifri'
 o fesul
-o fewn ()
+o fewn
 o fewn cof
 o fewn ergyd carreg
 o flaen
 o flaen llaw
+o fore gwyn tan nos
 o fwriad
+o fysg
+o ganlyniad
+o ganol
 o goed i gastell
+o gofio
 o gwbl
 o gwbwl
 o gwmpas
+o gylch
 o hyd
 o hyn allan
 o hyn mas
 o hyn ymlaen
 o hynny allan
 o lawer
+o le
 o leia
 o leiaf
 o oed atgenhedlu
@@ -20266,10 +22370,15 @@ o reidrwydd ()
 o un ochr i'r llall
 o walbant i walbant
 o wern
+o ystyried
 o'ch
+o'ch herwydd
 o'dd
+o'i herwydd
 o'i le
+o'm herwydd
 o'n
+o'n herwydd
 o'r amser hwnnw
 o'r blaen
 o'r corun i'r sawdl
@@ -20279,11 +22388,15 @@ o'r dwyrain
 o'r gloch
 o'r gorau
 o'r gyd
+o'r herwydd
 o'r radd flaenaf
 o't
+o'th herwydd
+o'u herwydd
 o-
 obennydd
 obeutu
+oblegid
 obo
 ocapi
 ocarina
@@ -20303,6 +22416,7 @@ ochrwr
 ocr
 ocra
 ocraidd
+ocsidydd
 ocsigen
 ocsigen deufflworid
 ocsigen moleciwlaidd
@@ -20321,12 +22435,23 @@ oddf
 oddfog
 oddfyn
 oddi
+oddi acw
+oddi agos
 oddi allan
-oddi ar ()
+oddi ar
 oddi ar y berw
 oddi cartref
+oddi draw
+oddi fry
+oddi isod
+oddi tan
+oddi uchod
 oddi wrth
-oddi wrth ()
+oddi yma
+oddi yna
+oddi yno
+oddiar
+odditan
 oddiwrth
 odi
 odiaeth
@@ -20352,6 +22477,7 @@ oediad
 oedolion
 oedolyn
 oedran
+oelcloth
 oen
 oen hwrdd
 oer
@@ -20370,6 +22496,8 @@ oesoffagi
 oesoffagws
 oestrwydd
 oestrwydden
+oestrywydd
+oestrywydden
 of
 ofalus
 ofari
@@ -20382,12 +22510,15 @@ oferwr
 offeiriad
 offer
 offeren
+offerennau
 offeryn
+offeryn ar gyfer y cartref
 offeryn cerdd
 offeryn chwyth
 offeryn negodol
 offeryn pres
 offeryn traw
+offeryn tŷ
 offerynnau
 offerynnau cerdd
 offrwm
@@ -20439,15 +22570,19 @@ olddodiad meddiannol
 olddodiaid
 oleuadau
 olew
+olew had rêp
 olew iau penfras
 olew olewydd
+olew palmwydd
+olew pysgod
 olewydd
 olewydden
 olhau
 olif
-olif ()
 olifau
 olifs
+oligopoli
+olion ymestyn
 ollwng
 olrhain cyswllt
 olwg
@@ -20459,7 +22594,8 @@ olygu
 olygus
 olynol
 olynu
-ombwdsman
+olynydd
+ombwdsmon
 omeled
 omelet
 omled
@@ -20502,6 +22638,7 @@ optegwr
 optegydd
 opwntia
 or-
+orangwtang
 orbit
 orchest
 orchestion
@@ -20519,6 +22656,7 @@ organau atgenhedlu
 organau cenhedlu
 organeb
 organig
+organigyn Golgi
 orgasm
 orgraff
 orgraffau
@@ -20548,6 +22686,7 @@ osgiladiad
 osgiladu
 osgiliadur
 osgiliaduron
+osgilosgop
 osgo
 osgoi
 osgoi treth
@@ -20569,6 +22708,7 @@ o’r diwedd
 o’t
 p
 p'nawn
+p'nawn 'ma
 p'nawn da
 p'un
 pa
@@ -20580,12 +22720,12 @@ pa fath (o)
 pa fath o
 pa ffordd
 pa fodd
-pa le
 pa mor
-pa mor ()
 pa rai
 pa sut
 pa un
+pa un a
+pa un ai
 pab
 pabell
 pabi
@@ -20600,13 +22740,17 @@ paced
 pacio
 paciodd
 paciwch
+paciwr
 pacmon
 paco
 padell
 padell ffrio
 padell lwch
 padell pen-glin
+padell wely
 padell yr ymennydd
+padellaid
+pader
 paderau
 paderau Mair
 paent
@@ -20639,6 +22783,9 @@ paganiaeth
 paham
 paid
 paill
+paill anghoedol
+paill coed
+paill coedol
 pair
 pais
 pais arfau
@@ -20650,6 +22797,7 @@ palaeograffeg
 palas
 palasaidd
 palfais
+palimpsest
 palindrom
 pall
 palledig
@@ -20662,6 +22810,7 @@ palmentydd
 palmwydd
 palmwydden
 palmwydden ddatys
+palmwydden goco
 palu
 pam
 pam hynny
@@ -20696,6 +22845,7 @@ pannog dail danadl
 pannog danadl ddail
 pannwl
 pant
+pant heli
 pantheistiaeth
 pantri
 papaia
@@ -20705,12 +22855,15 @@ papur
 papur academaidd
 papur arian
 papur carbon
+papur crych
 papur crêp
 papur cwyr
+papur gwydrog
 papur lapio
 papur newydd
 papur pum punt
 papur punt
+papur reis
 papur sidan
 papur tŷ bach
 papur wal
@@ -20718,9 +22871,11 @@ papur ysgrifennu
 papuro
 papyroleg
 para
+para-
 parabl
 parablau
 parablu
+parablu mam
 paracît
 paradwys
 parafeddyg
@@ -20728,8 +22883,10 @@ parafeddygon
 paralacs
 paralel
 paralympiad
+paramaethu
 paramedr
 parapet
+parasit
 parasiwt
 parasol
 parat
@@ -20751,10 +22908,13 @@ parddu lamp
 pardduog
 pared cell
 paredd gallu prynu
+parhaad
 parhad
 parhaol
 parhau
 parhaus
+parháad
+parhâd
 parlys yr ymennydd
 parod
 parodrwydd
@@ -20763,12 +22923,14 @@ parot copog
 parot enfys
 parotach
 parotaf
+parotan mynach
 parotau enfys
 paroted
 parsel
 parth
 parth cyhoeddus
 parth rhynglanw
+parthau
 parti
 partner
 partneriaeth
@@ -20819,13 +22981,14 @@ pedair ar bymtheg
 pedair ar bymtheg a phedwar ugain
 pedair ar ddeg
 pedair ar hugain
+pedal
+pedal chwith
 pedler
 pedol
 pedol cannwyll
 pedolau
 pedolffurf
 pedoli
-pedoli ()
 pedolwr
 pedolwyr
 pedr-
@@ -20874,12 +23037,12 @@ pei
 peidio
 peidiwch â sôn
 peidiwn â dal dig
-peilliaid
 peilot
 peilotiaid
 peils
 peint
 peintiad
+peintiad dyfrlliw
 peintiau
 peintio
 peintiwr
@@ -20910,11 +23073,14 @@ peiriant arian
 peiriant arian parod
 peiriant ateb
 peiriant chwilio
+peiriant coffi
 peiriant coginio reis
 peiriant godro
 peiriant golchi
 peiriant golchi llestri
 peiriant gwerthu
+peiriant gwnïo
+peiriant gwynt
 peiriant llifanu ongl
 peiriant llungopïo
 peiriant rhwyfo
@@ -20930,7 +23096,9 @@ peisiau
 peiswellt coch
 peithdir
 peithiau
+peled
 pelen
+pelen canon
 pelen de
 pelen friwgig
 pelen gig
@@ -20941,6 +23109,7 @@ pelig
 peligod
 pell
 pellach
+pellder
 pellebyr
 pellen pen-glin
 pellenigrwydd
@@ -20952,8 +23121,10 @@ pelydrau
 pelydrau X
 pelydriad electromagnetig
 pelydryn
+pelydryn gama
 pen
 pen blaen
+pen bwyell
 pen ci bach
 pen draw
 pen draw'r byd
@@ -20973,6 +23144,10 @@ pen-lin
 pen-ôl
 pen-ôl gwraig Lot
 penadur
+penaethaid
+penaethau
+penaethiaid
+penaethion
 penbleth
 penblethau
 penblwydd
@@ -20984,7 +23159,6 @@ pencampwriaeth
 pencampwriaethau
 pencampwyr
 pencenedl
-pencenedl ()
 penchwiban
 pencnath
 pencnaw
@@ -20997,6 +23171,8 @@ pendefigaidd
 pendefiges
 penderfyniad
 penderfyniaeth
+penderfyniaeth ddwyochrog
+penderfyniaeth fiolegol
 penderfynol
 penderfynu
 penderfynwch
@@ -21040,7 +23216,8 @@ pennod
 pennoeth
 pennog
 pennog Mair
-pennog Mair ()
+pennog coch
+pennog tŷ
 penodau
 penodi
 penodol
@@ -21051,6 +23228,7 @@ penrwymyn
 pensaer
 pensaer y gwasanaeth llys
 pensaernïaeth
+pensaernïol
 penseiri
 pensel
 pensgarff
@@ -21070,6 +23248,8 @@ pentwr
 penty
 pentyrrau
 pentyrru
+penwaig
+penwan
 penwythnos
 penwythnosau
 penysgafn
@@ -21104,13 +23284,15 @@ periffrastig
 perigeau
 periglor
 perigê
+perihelion
 perinewm
 perinëwm
 perl
+perlau
 perlewyg
 perllan
 perllys
-pernsaernïaeth
+perllys yr heli
 peroriaethwr
 peroriaethydd
 perot
@@ -21118,6 +23300,8 @@ perpendiciwlar
 persain
 persawr
 perseiniol
+persli
+perslïen
 person
 person artiffisial
 person ifanc yn ei arddegau
@@ -21155,6 +23339,7 @@ peswch
 pesychu
 peth
 peth byw
+peth crafu cefn
 peth prin
 pethach
 pethau
@@ -21172,8 +23357,14 @@ petruso
 petruster
 petryal
 petryalau
+peunaidd
 peunes
+peunesau
 peunod
+peunog
+peunydd
+peunyddiol
+peutu
 ph
 phabell
 phac
@@ -21190,6 +23381,7 @@ phaned
 phant
 phapur
 phara
+phara-
 pharatoi
 pharatôdd
 pharc
@@ -21205,10 +23397,12 @@ phartïon
 phasta
 phastai
 phau
+phawb
 phecyn
 phedair
 phedol
 phedr-
+phedrannu
 phedry-
 phedwar
 phedwarplyg
@@ -21221,6 +23415,10 @@ pheiriannwyr
 pheiriannydd
 pheis
 phen
+phenaethaid
+phenaethau
+phenaethiaid
+phenaethion
 phencampwr
 phencampwriaeth
 phencampwriaethau
@@ -21229,6 +23427,10 @@ phenderfynu
 phenglog
 phengwin
 phengwiniaid
+phenis
+phennaeth
+pherl
+pherlau
 pherth
 pherthnasau
 pherthynas
@@ -21240,11 +23442,31 @@ phib
 phibau
 phibau cyrn
 phibgorn
+phig
+phigau
+phigddu
+phigfelyn
 phigwrn
+phigyn
+phigynnau
+phila
+philaon
 philistaidd
 phinc
+phinc eurben
+phincod
+phincod eurben
 phiol
+phipa
+phiwi
+phiwi cefnwyn
+phiwi coed y dwyrain
+phiwi llwydwyn
 phiws
+phiwïaid
+phiwïaid cefnwyn
+phiwïaid coed y dwyrain
+phiwïaid llwydwyn
 phladur
 phlaid
 phlaned
@@ -21253,6 +23475,8 @@ phlastig
 phleidiau
 phlentyn
 phlu
+phlwm
+phlymio
 phobl
 phobloedd
 phodlediad
@@ -21307,6 +23531,7 @@ phwerau
 phweru
 phwl
 phwmpen
+phwys
 phwysig
 phyliau
 physgod
@@ -21342,6 +23567,7 @@ pibydd coesgoch mannog
 pibydd hirgoes
 pibydd torchog
 pibydd y dorlan
+pibydd y graean
 pibydd y traeth
 pibyddes
 pic
@@ -21361,6 +23587,7 @@ piclau
 piclen
 piclo
 picls
+picnic
 pics
 picwarch
 picwnen
@@ -21371,6 +23598,8 @@ pidlan
 pidyn
 pidyn y gog
 pier
+piff
+piffian
 pifis
 pig
 pig mynawyd
@@ -21379,16 +23608,22 @@ pig-y-crëyr dail hocys
 pigach
 pigan
 pigau
+pigddu
+pigfelyn
 pigiad atgyfnerthu
 pigiad meingefnol
+pigion
 piglas
 pigo
 pigodyn
 pigog
 pigoglys
 pigwrn
+pigyn
 pigyn clust
+pigynnau
 pigyrnau
+pijin
 pil banana
 pila
 pila gwellt rhesog
@@ -21401,6 +23636,7 @@ pilen clust
 pilen ludiog
 pilen y galon
 pilen yr ymennydd
+pilennaidd
 pilerog
 pili-pala
 pilipala
@@ -21412,7 +23648,10 @@ pin llenwi
 pin-afal
 pinafal
 pinc
+pinc eurben
 pinc y mynydd
+pincod
+pincod eurben
 pinsiaid
 pinwydd
 pinwydden
@@ -21444,9 +23683,17 @@ pisyn grôt
 pitsa
 pitw
 piw
+piwi
+piwi cefnwyn
+piwi coed y dwyrain
+piwi llwydwyn
 piwis
 piws
 piwter
+piwïaid
+piwïaid cefnwyn
+piwïaid coed y dwyrain
+piwïaid llwydwyn
 pla
 pla du
 pladur
@@ -21456,6 +23703,8 @@ plag
 plagio
 plagus
 plaid
+plaid werdd
+plaid wleidyddol
 planced
 plancedi
 planed
@@ -21464,6 +23713,7 @@ planhigion
 planhigol
 planhigyn
 planhigyn codlysol
+planhigyn fasgwlaidd
 planhigyn suddlon
 planhigyn tŷ
 planhigyn ŵy
@@ -21476,6 +23726,9 @@ plantos
 plas
 plastid
 plastig
+plastigaidd
+plastigo
+plastigrwydd
 plasty
 plat lludw
 plat tectonig
@@ -21495,8 +23748,10 @@ plentyn bach
 plentyn cael
 plentyn cyntaf-anedig
 plentyn dan oed
+plentyn maeth
 plentyn yn ei arddegau
 plentyndod
+plentyneiddiwch
 plentynnaidd
 pleser
 pleserdaith
@@ -21517,6 +23772,8 @@ plethwaith a chlai
 plethyn
 pliciwr
 plis
+plisg
+plisg ŵy
 plisgwisg
 plisgyn
 plisgyn ŵy
@@ -21530,6 +23787,7 @@ plu
 plu eira
 plu pysgota
 plu'r gweinydd
+plucan
 pluen
 pluen eira
 pluf
@@ -21554,6 +23812,7 @@ plygedig
 plygeinwaith
 plygell
 plygiad
+plygiant crwm
 plygiau
 plygio
 plygion
@@ -21562,7 +23821,10 @@ plymaidd
 plymen
 plymer
 plymio
+plymiwr
 plymliw
+plymwr
+plymwyr
 plât
 plât cofrestru cerbyd
 plâu
@@ -21602,16 +23864,24 @@ poen
 poen yn y bol
 poen yn y cylla
 poena
+poendod
 poenen
 poeni
 poenit
+poenladdwr
+poenleddfol
+poenus
+poenydio
+poenydiwr
 poer
 poeri
 poerlestr
 poeth
 poethach
+poethder
 poethdon
 poethfel
+poethi
 poethwel
 poitsio
 poitsiwr
@@ -21628,11 +23898,13 @@ pompion
 pompiwn
 pompren
 pomprennau
+pomâd
 poncyn arafu
 ponsiop
 pont
 pont cario dŵr
 pont grog
+pont werdd
 pont ysgwydd
 pontio
 pontydd
@@ -21646,10 +23918,9 @@ poplys
 poptai
 popty
 popty meicrodon
-popty microdon
-popty ping
 porc
 porchell
+porcyn
 porfa
 porfelu
 porfeydd
@@ -21665,6 +23936,7 @@ porth awyr
 porthfeistr
 porthi
 porthiant
+porthiant glas
 porthladd
 porthmon
 porthor
@@ -21697,9 +23969,15 @@ potes
 potes pys
 pothan
 pothell
+pothelli
+pothellog
+pothellu
+poti
 potsio
 powan
 powdr
+powdr cyrri
+powdr du
 powdwr
 powdwr gwn
 powlen
@@ -21712,8 +23990,10 @@ praseodymiwm
 prawf
 prawf fflworin
 prawf gwaed
+prawf heli
 prawfddarllen
 prawfddarllenydd
+preblyn jyngl
 pregeth
 pregethu
 pregethwr
@@ -21746,6 +24026,7 @@ preswylwr
 preswylwyr
 preswylydd
 preswylyddion
+pricyll
 prid
 pridd
 pridd pannwr
@@ -21760,7 +24041,9 @@ prif
 prif bluen
 prif feridian
 prif gwnstabl
+prif gyhyr
 prif gymal
+prif leisydd
 prif weinidog
 prif weinidogion
 prif-
@@ -21771,6 +24054,7 @@ prifathrawesau
 prifathrawon
 prifathro
 prifddinas
+prifeirdd
 prifeiriau
 priffordd
 priffyrdd
@@ -21778,6 +24062,7 @@ prifgost
 prifgostau
 prifiau
 prifion
+priflythrennau
 priflythyren
 priflythyrennau
 prifodl
@@ -21828,6 +24113,7 @@ profi
 profiad
 profiad gwaith ()
 profion
+prognosis
 prolegomenon
 promenâd
 promethiwm
@@ -21857,6 +24143,7 @@ pruddhau
 pry ffenestr
 pry'r gannwyll
 pryd
+pryd a gwedd
 pryd ar glud
 pryd bynnag
 pryd hynny
@@ -21883,11 +24170,13 @@ pryf clustiau
 pryf clustiog
 pryf cop
 pryf copyn
+pryf drewi
 pryf genwair
 pryf ichnewmon
 pryf lludw
 pryf pren
 pryf sidan
+pryf taranau
 pryf teiliwr
 pryf tân
 pryf tŷ
@@ -21909,6 +24198,7 @@ prynaist
 prynhawn
 prynhawn da
 prynhawnau
+prynhawniau
 prynoch
 prynodd
 prynon
@@ -21944,17 +24234,27 @@ pumpthegnos
 pumswllt
 pumthefnos
 punnau
+punnoedd
 punt
 pupur
+pupurlys llydanddail
 pupurlys y maes
 pur
 puramid
 puramidaidd
 purdan
+purddu
+purdeb
 pured
+pureiddio
+purfa
+puro
+purwr
 putain
+puteinaidd
 puteindy
 puteinfeistr
+puteinio
 pwd
 pwdin
 pwdin Nadolig
@@ -21975,6 +24275,7 @@ pwl
 pwll
 pwll glo
 pwll glo ()
+pwll heli
 pwll nofio
 pwll nofio ()
 pwll tro ()
@@ -21993,6 +24294,8 @@ pwrpas
 pwrpin
 pwrs
 pwrs y bugail
+pwt
+pwtyn
 pwy
 pwy bynnag
 pwy dach chi
@@ -22000,8 +24303,14 @@ pwy dach chi?
 pwy wyt ti
 pwy wyt ti?
 pwyll
+pwylledd
+pwyllgar
 pwyllgor
 pwyllgor busnes llys teulu
+pwyllgora
+pwyllgorau
+pwyllo
+pwyllog
 pwynt
 pwynt degol
 pwynt di-droi'n-ôl
@@ -22034,10 +24343,13 @@ pwyth reis
 py
 pycsen
 pydredd
+pydredd coch
+pydredd gwraidd
 pydredd llwyd yr eirlys
 pydredig
 pydru
 pyg
+pygddu
 pyglyd
 pyjamas
 pyliau
@@ -22065,7 +24377,9 @@ pysglysieuwr
 pysgnau
 pysgod
 pysgod aur
+pysgodaidd
 pysgodeg
+pysgodol
 pysgodyn
 pysgodyn a sglodion
 pysgodyn aur
@@ -22074,6 +24388,7 @@ pysgodyn darn arian
 pysgodyn llif
 pysgota
 pysgotwr
+pysgotwraig
 pysgysol
 pysownoth
 pythefnos
@@ -22087,14 +24402,17 @@ pêl
 pêl droed
 pêl fasged
 pêl foli
+pêl gamffor
 pêl golff
 pêl hirgron
+pêl law
 pêl-droed
-pêl-droed ()
 pêl-droed Americanaidd
+pêl-droed pen bwrdd
 pêl-fas
 pêl-fasged
 pêl-foli
+pêl-law
 pêl-rwyd
 pêr
 pêr Mari Harri
@@ -22107,6 +24425,7 @@ pŵer
 pŵer atwrnai
 pŵer niwclear
 pŵer twrnai
+pŵer y gwynt
 pŵl
 pŵr-dab
 pŵr-dabs
@@ -22163,12 +24482,17 @@ recríwt
 redais
 redaist
 redeg
+rediad
+rediadau
 redoch
 redodd
 redon
 refferendwm
 reg
 regen
+regen fochlwyd
+regennod
+regennod bochlwyd
 regi
 reiat
 reilffordd
@@ -22177,9 +24501,9 @@ reis brown
 reis cibynnog
 reis gwyllt
 reis gwyn
-reis miled ()
+reis miled
 reis wedi'i ffrio ag wy
-reis y gwter ()
+reis y gwter
 reit
 reolaeth
 reslo
@@ -22203,6 +24527,7 @@ rhaff
 rhaff achub
 rhaff dyn
 rhaff halio
+rhaff sgipio
 rhaff uchel
 rhaffau
 rhaffio
@@ -22211,10 +24536,14 @@ rhaffu
 rhafnwydd
 rhafnwydden
 rhag
+rhag bron
 rhag ofn
 rhag-
+rhag-drin
 rhagamod
+rhagarfaeth
 rhagarweiniad
+rhagarwyddo
 rhagchwilio
 rhagdaflodol
 rhagddodiad
@@ -22236,6 +24565,7 @@ rhagferf
 rhagflaenydd
 rhagfraich
 rhagfur
+rhagfynegi
 rhaglafarog
 rhaglen
 rhaglen deledu
@@ -22248,6 +24578,8 @@ rhaglennu
 rhaglennwr
 rhaglennydd
 rhaglun
+rhagluniaeth
+rhagluniau
 rhagnodyn
 rhagolwg
 rhagor
@@ -22259,6 +24591,7 @@ rhagorsaf
 rhagosodiad
 rhagredegydd
 rhagrith
+rhagrith noeth
 rhagrithiau
 rhagrithio
 rhagrithiol
@@ -22267,6 +24600,8 @@ rhagrithiwr
 rhagrithwraig
 rhagweladwy
 rhagweld
+rhagwerthiad
+rhagwybodaeth
 rhagymadrodd
 rhagystafell
 rhai
@@ -22302,10 +24637,13 @@ rhastal
 rhastl
 rhatach
 rhathell
+rhathu
 rhaw
 rhaw lwch
 rhawio
 rhawlech
+rhawn
+rhawn y gaseg
 rhawn y march
 rhech
 rhechu
@@ -22317,6 +24655,7 @@ rhedeg
 rhedell
 rhedfa
 rhediad
+rhediadau
 rhedlif
 rhedoch
 rhedodd
@@ -22328,14 +24667,18 @@ rhedyn Mair
 rhedyna
 rhedynen
 rhedynen Fair
+rhedynen gyfrdwy
 rhedynen y cadno
 rhef
 rhefr
 rhefrau
 rheg
 rhegen
+rhegen fochlwyd
 rhegen y dŵr
 rhegen yr ŷd
+rhegennod
+rhegennod bochlwyd
 rhegfa
 rhegfeydd
 rhegi
@@ -22343,7 +24686,7 @@ rhegion
 rheglyd
 rheibiwr
 rheibus
-rheidden ()
+rheidden
 rheiddiadu
 rheiddiadur
 rheiddiaduron
@@ -22363,6 +24706,7 @@ rheinston
 rheiny
 rheis
 rheithfarn
+rheithgor
 rhelyw
 rheniwm
 rhent
@@ -22374,6 +24718,7 @@ rhentwyr
 rheol
 rheol llys
 rheolaeth
+rheolaeth awyrennol
 rheolaeth bell
 rheolaidd
 rheolau
@@ -22397,22 +24742,25 @@ rheolwyr
 rheolydd
 rheolydd calon
 rheolydd pell
-rheolydd pell ()
 rheolyddion
 rhes
 rhesel
+rhesen
 rhesi
 rhesinen
 rhesins
 rhestl
 rhestr
+rhestr goch
 rhestr les y llys
 rhestr termau
+rhestr winoedd
 rhestrau
 rhestri
 rheswm
 rhesymeg
 rhesymol
+rhesymoldeb
 rhesymu
 rhew
 rhew du
@@ -22429,6 +24777,7 @@ rheweiddiad
 rheweiddiedig
 rheweiddio
 rhewfriw
+rhewfryn
 rhewgaeth
 rhewgell
 rhewgist
@@ -22442,6 +24791,7 @@ rhewlifeg
 rhewlifegydd
 rhewlifiant
 rhewlifo
+rhewlifoedd
 rhewlifol
 rhewlin
 rhewllyd
@@ -22451,10 +24801,12 @@ rhi
 rhiain
 rhiain y dŵr
 rhiant
+rhiant maeth
 rhic
 rhicyn
 rhidiad
 rhieni
+rhieni yng nghyfraith
 rhif
 rhif Avogadro
 rhif adnabod
@@ -22514,7 +24866,11 @@ rhifyddol
 rhifyddwr
 rhifyn
 rhin
+rhin burum
+rhin coffi
+rhin fanila
 rhinart
+rhinflas
 rhingyll
 rhiniart
 rhiniog
@@ -22526,6 +24882,7 @@ rhinweddol
 rhis
 rhisgl
 rhisgl Periw
+rhisgl mâl
 rhisgl yr India
 rhisglo
 rhisglyn
@@ -22571,6 +24928,7 @@ rhoi bath
 rhoi cawell i
 rhoi taw ar
 rhoi to gwellt
+rhoi yn nhrefn yr wyddor
 rhoi'r gorau
 rhoi’r gorau
 rholbren
@@ -22578,7 +24936,6 @@ rholydd
 rhonell march
 rhos
 rhos Mair
-rhos Mair ()
 rhoslawryf
 rhosmari
 rhosod
@@ -22590,9 +24947,11 @@ rhostog Hudson
 rhostog gynffonddu
 rhostog gynffonfraith
 rhostog rhudd
+rhostogion
+rhostogion cynffonddu
 rhoswydden
 rhosyn
-rhosyn Mair ()
+rhosyn Mair
 rhosyn te
 rhosynnau
 rhosys
@@ -22608,7 +24967,9 @@ rhuddo
 rhuddwernen
 rhuddwyn
 rhuddygl
+rhuddygl poeth
 rhuddyglen
+rhued
 rhufeinig
 rhufeinol
 rhufell
@@ -22618,10 +24979,13 @@ rhuo
 rhuthraf
 rhuthro
 rhwber
+rhwbiad
 rhwbiad pres
+rhwbio
 rhwd
 rhwd arian y ganwraidd
 rhwd coeden eirin
+rhwd coffi
 rhwd copr
 rhwd gwyrdd
 rhwd hocys
@@ -22631,6 +24995,7 @@ rhwng gwyll a gwawl
 rhwth
 rhwyd
 rhwyd ddal gwyfynod
+rhwyd fosgitos
 rhwydd
 rhwydd hynt
 rhwyddhau
@@ -22649,6 +25014,12 @@ rhwyg
 rhwygiad
 rhwygo
 rhwyll
+rhwyll bluog
+rhwyll map
+rhwyll wehyddu
+rhwyll wifrog
+rhwyll y crawcwellt
+rhwyll ymylog
 rhwyllau
 rhwym
 rhwymau
@@ -22684,8 +25055,17 @@ rhydau
 rhydd
 rhydd-ddeiliad
 rhydd-ddeiliaid
+rhyddfarn
 rhyddfraint
 rhyddfreiniad
+rhyddfreinio
+rhyddfreiniwr
+rhyddfrydedd
+rhyddfrydiaeth
+rhyddfrydig
+rhyddfrydol
+rhyddfrydoli
+rhyddfrydwr
 rhyddhad
 rhyddhaf
 rhyddhau
@@ -22729,6 +25109,7 @@ rhyngserol
 rhyngwladol
 rhyngwladoldeb
 rhyngwyneb
+rhyngwyneb defnyddiwr
 rhynion
 rhynionyn
 rhysgl
@@ -22754,7 +25135,9 @@ rhywoleg
 rhywsut
 rhywun
 rhôl
+rhôl selsig
 rhôl swshi
+rhôl-sglefrio
 rhôn
 ri
 riant
@@ -22779,6 +25162,7 @@ roc
 roc a rôl
 roc-a-rôl
 roc-an-rôl
+roced
 rod
 rodio
 rodresgar
@@ -22789,8 +25173,10 @@ roeddet
 roeddwn
 roentgeniwm
 roi
+roli-poli
 rondefŵ
 rorcwal
+rosela rhuddgoch
 rosmari
 rosod
 rosynnau
@@ -22805,6 +25191,7 @@ ro’n
 ro’t
 ruban
 rudd
+ruddgoch
 rutherffordiwm
 rutherfordiwm
 rw
@@ -22812,6 +25199,8 @@ rwbel
 rwbela
 rwber
 rwbidiwm
+rwbio
+rwbo
 rwden
 rwmen
 rwtheniwm
@@ -22860,10 +25249,13 @@ s
 s'dim
 s'mae
 sa
+sabl
 sach
 sach ddyrnu
+sach fras
 sach gefn
 sach gysgu
+sach teithio
 sachell
 sachliain
 sachlïain
@@ -22893,6 +25285,7 @@ saffrwm
 saffrwn
 safle
 safle bws
+safle treftadaeth
 safleoedd
 safn
 safn y llew
@@ -22922,6 +25315,7 @@ salamandr
 sallwyr
 sallwyr Fair
 salm
+salm-dôn Gregoraidd
 salmydd
 salmyddiaeth
 saltring
@@ -22943,6 +25337,7 @@ sampier
 sampier y geifr
 san
 sanau
+sancsiwn
 sanctaidd
 sancteiddhad
 sancteiddiad
@@ -22950,6 +25345,8 @@ sancteiddio
 sancteiddrwydd
 sandal
 sandalau
+sandio
+sando
 sandr
 sang
 sangfa
@@ -22987,18 +25384,25 @@ sawl
 sawl gwaith
 sawl un
 sawlgwaith
+sawrus
 saws
 saws Caerwrangon
+saws brown
+saws marchruddygl
 saws tomato
 sawsiau
+sbaddu
 sbaengi
 sbageti
 sban
 sbar
 sbardun
 sbarduno
+sbasm
 sbectol
 sbectol-lliw rhosyn
+sbectolog
+sbectrwm paill
 sbel
 sbelt
 sbenglas
@@ -23013,6 +25417,7 @@ sblint
 sbon
 sbonc
 sboncen
+sboncio
 sbonciwr
 sbonciwr y gwair
 sboncwraig
@@ -23026,15 +25431,20 @@ sbriwsen Norwy
 sbrocsyn
 sbrocsynnod
 sbrydoli
+sbwliau
+sbwlio
+sbwng
 sbwnjwr
 sbwriel
 sbâr
+sbŵl
 scandiwm
 sdim
 sdim ots
 se
 seaborgiwm
 sebon
+sebon golchi llestri
 seboni
 sebra
 sebraod
@@ -23070,6 +25480,7 @@ segurswydd
 seibiant
 seibiau
 seibio
+seicar
 seiciatrydd
 seiclais
 seiclaist
@@ -23083,6 +25494,7 @@ seicoleg
 seicolegol
 seicolegydd
 seicopathi
+seicosis
 seider
 seidir
 seidr
@@ -23091,14 +25503,20 @@ seiloffon
 seimlyd
 seindorf
 seineg
+seinegol
+seinegydd
+seiniau
 seinio
 seintiau
 seinydd
 seiren
+seirff
 seismig
+seithawd
 seithdegau
 seithfed
 seithfed ar hugain
+seithfed nef
 seithongl
 selcofa
 seleniwm
@@ -23145,6 +25563,7 @@ seren llosgi
 seren niwtron
 seren wib
 seren y Gogledd
+seren y gogledd
 seren y pegwn
 serenffurf
 serenllys
@@ -23181,6 +25600,7 @@ sesh
 seshys
 sesiwn
 sesiynau
+sesnin
 seston
 set
 set deledu
@@ -23188,6 +25608,7 @@ setl
 seyfdliadu
 sfferaidd
 sffêr
+sgadan
 sgafell gyfandirol
 sgaffald
 sgaffaldiau
@@ -23196,6 +25617,7 @@ sgarab
 sgarff
 sgarffiau
 sgarp
+sgatarn
 sgen
 sgerbwd
 sgerbwd allanol
@@ -23211,9 +25633,10 @@ sgil
 sgileffaith
 sgilgar
 sgiliau
-sgin
+sgiliau trin pobl
 sginc
 sgio
+sgipio
 sgipiwr
 sgitsocarp
 sgitsoffrenia
@@ -23223,10 +25646,14 @@ sgiwen frech
 sgiwen lostfain
 sgiwen y gogledd
 sglaffio
+sglefr
 sglefrfyrddiwr
 sglefrio
 sglefrio ar iâ
 sglefrio ar rew
+sglefriwr
+sgleirio
+sglerio
 sglodion
 sglodyn
 sgolastigiaeth
@@ -23236,12 +25663,14 @@ sgonsen
 sgorpion
 sgorpionllys y maes
 sgowlio
+sgowtio
 sgramio
 sgrech
 sgrech gopog
 sgrech las
 sgrech y coed
 sgrechian
+sgrechu
 sgrechwr corniog
 sgri
 sgrialu
@@ -23255,6 +25684,7 @@ sgrin
 sgrin wynt
 sgriniau
 sgrinio
+sgrinlun
 sgriptoriwm
 sgriw
 sgriwdreif
@@ -23303,8 +25733,11 @@ shwmae
 si
 si-edn
 si-so
+siacal
 siaced
+siaced achub
 siaced fywyd
+siaced ginio
 siaced lwch
 siacedi
 siacedi bywyd
@@ -23317,8 +25750,10 @@ siafio
 sialc
 sialotsyn
 siamaniaeth
+siambr adlais
 siambr dywyll
 siambrlen
+siami
 siamp
 siampaen
 siampŵ
@@ -23436,7 +25871,21 @@ sinc
 sinciau
 sinema
 sinsir
+siobyn
+siobyn bwaog
+siobyn coed bacsiog
+siobyn coed conwydd
+siobyn cynffon felen
+siobyn cynffon frown
+siobyn fforch ddu
+siobyn gwelw
+siobyn prin
+siobyn tywyll
+siobyn y cyrs
+siobyn y poplys
+siobyn y sipsi
 sioc
+sioc anaffalactig
 siocio
 siocled
 siocled gwyn
@@ -23487,6 +25936,7 @@ sipsi
 sir
 sirconiwm
 siren
+sirif
 siriol
 sirioldeb
 sirioli
@@ -23494,6 +25944,7 @@ siro-cwmwlws
 siroedd
 sirol
 sirosis
+sirydd
 siryf
 sisiol
 sisiolyn
@@ -23517,7 +25968,6 @@ siwpyr-
 siwpyr-arwr
 siwpyr-arwres
 siwr
-siwr o fod
 siwrach
 siwraf
 siwred
@@ -23535,12 +25985,14 @@ sièff
 siêd
 siôl
 siŵr
+siŵr o fod
 slaf
 slafdod
 slafio
 slebog
 sled
 slefren fôr
+slefrio
 slei
 slej
 slejys
@@ -23559,10 +26011,13 @@ smwclaw
 smwddi
 smwddio
 smygu
+smygwr
+smyrff
 sneipen yr haf
 sniffian
 snipiwr tun
 snwcer
+snwcro
 snwffian
 so
 sobr
@@ -23575,10 +26030,13 @@ soddgrwth
 soddgrythau
 soddi
 sodiwm
+sodiwm clorid
 sodlau
 sodlau uchel
+sodor
 sodr
 sodro
+sodur
 soeglyd
 soffa
 sofliar
@@ -23599,6 +26057,7 @@ sosban
 sosban bwysedd
 sosban frys
 sosbon
+sosej
 sosej cytew
 soser
 soser de
@@ -23612,6 +26071,7 @@ sothach
 sownd
 spleinsio
 splensio
+stablau Awgeas
 stad cyngor
 staen
 staenio
@@ -23633,12 +26093,17 @@ starn
 starnbost
 statud
 statws
+statws maeth
+steddfota
 steiloffôn
 stelcian
+stelciwr
 stemar
+stemar olwyn
 stemars
 stemio
 stentoraidd
+stenyn
 stepdir
 sterig
 steroid
@@ -23649,6 +26114,7 @@ stil
 stiward
 stiwardes
 stiwdio
+stiwt
 stof
 stolion
 stolion tafarn
@@ -23673,10 +26139,12 @@ strach
 straeon
 strategaeth atgenhedlu
 streic
+streic gyffredinol
 streic newyn
 streic wyllt
 streiciau
 streicio
+streicwr
 streip
 streipen
 streipiog
@@ -23688,8 +26156,11 @@ strwythurol
 stryd
 stryd fawr
 stryd gefn
+strôc brwsh
 sturmant
 stursiwn
+stwcen
+stwcyn
 stwmp
 stwmpyn
 stwnsh
@@ -23741,6 +26212,7 @@ sur
 suraidd
 suran
 suran goch
+suran ruddgoch
 suran y coed
 suran y cŵn
 suran y maes
@@ -23777,6 +26249,8 @@ swiddfa
 swidw
 swidw gynffon-hir
 swigen
+swigen hidlydd
+swigod
 swigw hirgwt
 swil
 switsh
@@ -23785,9 +26259,12 @@ switsio
 swllt
 swm
 swn
+swnian
 swnio
+swnio'r larwm
 swnllyd
 swnt
+swoleg
 swper
 swricat
 swrn
@@ -23798,6 +26275,7 @@ swtler
 swydd
 swyddfa
 swyddfa bost
+swyddfa deithio
 swyddfa docynnau
 swyddfa eiddo coll/colledig
 swyddfa heddlu
@@ -23815,6 +26293,7 @@ swyddoges yr heddlu
 swyddogion
 swyddwr
 swyn
+swynedig
 swyngyfaredd
 swyngyfareddwr
 swyno
@@ -23854,7 +26333,7 @@ syfrdanod
 syfrdanol
 syfrdanu
 syfïa
-syfïa ()
+syfïen
 sygn
 sylfaen
 sylfaenol
@@ -23862,6 +26341,7 @@ sylffwr
 sylffwrig
 sylladur
 sylladuron
+syllaf
 syllio
 syllta
 syllu
@@ -23870,6 +26350,8 @@ sylwad
 sylwebaeth
 sylwebu
 sylwebydd
+sylwedd
+sylweddol
 sylweddoli
 sylwgar
 sylwi
@@ -23894,6 +26376,7 @@ symudedd
 symudiad
 symudiad genynnol
 symudliw
+symudliwiad
 symudlun
 symudoch
 symudodd
@@ -23903,12 +26386,14 @@ symudyn
 synagog
 synamon
 synamwn
+synau
 syndod
 syndodau
 syndodol
 syndodus
 syndrom
 syndrom Down
+synhwyrgall
 syniad
 syniadaeth
 syniadau
@@ -23921,6 +26406,7 @@ syntheseiddio
 synthesis
 synthetig
 sypyn
+syrffed
 syrffio
 syrfëwr
 syrfëwr stadau'r gwasanaeth llys
@@ -23933,6 +26419,7 @@ system
 system atgenhedlu
 system fedrig
 system gylchredol
+system larwm
 system weithredu
 systematig
 syth
@@ -23941,9 +26428,10 @@ sâl
 sâl môr
 sèd
 sêl
-sêl Mair ()
+sêl Mair
 sêl bŵt car
 sêl cist car
+sêl cyffes
 sêls
 sêr
 sêr-ddewiniaeth
@@ -23951,6 +26439,7 @@ sêr-gysawd
 sêr-lysieueg
 sêt
 sìl
+sîn
 sïedn copog Gould
 sïedn copog bronddu
 sïedn copog coch
@@ -23973,11 +26462,13 @@ söolegwyr
 söolegydd
 söolegyddion
 sŵ
+sŵau
 sŵn
 sŵoleg
 sŵra
 t
 t'mod
+t-seeded
 ta
 ta beth
 ta ble
@@ -23987,6 +26478,7 @@ ta pwy
 tabaco
 tabi te
 tabl
+tabl cyfnodol
 tabl cynnwys
 tablen
 tacl
@@ -24023,6 +26515,7 @@ taeogtrev
 taer
 taeru
 tafarn
+tafarn coffi
 tafarn goffi
 tafarn hoyw
 tafarnau
@@ -24034,6 +26527,8 @@ tafell
 tafelll
 tafl
 taflegryn
+taflegryn balistig
+taflegryn niwclear
 tafleisiaeth
 tafleisydd copog
 taflen
@@ -24053,6 +26548,7 @@ taflodoliad
 taflodydd
 taflu
 taflu i fyny
+taflu syniadau
 taflunydd
 taflwr allan
 taflyd
@@ -24074,7 +26570,7 @@ tafodieithol
 tafodig
 tafodigol
 tafol
-tafol Mair ()
+tafol Mair
 tafol crych
 tafolen goch
 tafolen grech
@@ -24103,6 +26599,7 @@ tair ar hugain
 tair gwaith
 tair gŵyl arbennig
 taith
+taith bwyd
 tal
 tala
 talach
@@ -24156,6 +26653,15 @@ tan glo
 tan glo ac allwydd
 tan oed
 tan-
+tanagr
+tanagr cefnddu
+tanagr coch
+tanagr coch bochlwyd
+tanagr coch mygydog
+tanagrod
+tanagrod cochion
+tanagrod cochion bochlwyd
+tanagrod cochion mygydog
 tanau
 tanau gwyllt
 tanbaid
@@ -24169,6 +26675,7 @@ tanddwr
 tangnefedd
 taniad
 tanio
+tanio syniadau
 taniwr
 tanjerîn
 tank
@@ -24181,7 +26688,9 @@ tanseilio
 tansi
 tant
 tantalwm
+tanwr
 tanwydd
+tanwyr
 tanysgrifiad
 tanysgrifio
 tap
@@ -24189,7 +26698,7 @@ tapin
 tapina
 tapinau
 tapio
-tapr Mair ()
+tapr Mair
 tar
 tarad
 taradr
@@ -24208,9 +26717,12 @@ tarfu
 tarfu ar
 tarian
 tarianau
+tarianbryf
 taro
 tarren
 tarth
+tarth du
+tarth gwyn
 tarw
 tarwden
 tarwden y traed
@@ -24237,6 +26749,7 @@ taw
 tawa
 tawaf
 tawdd
+tawddgyffur
 tawddlestr
 tawed
 tawel
@@ -24274,6 +26787,7 @@ te perlysiau
 te perlysieuol
 te pinsh
 te slecyn
+te swigod
 te tramp
 te ŵlong
 tebyg
@@ -24289,6 +26803,7 @@ technegol
 technegwr
 technegydd
 technetiwm
+technocratiaeth
 technoleg
 technoleg amgen
 technoleg gwybodaeth
@@ -24309,6 +26824,7 @@ tegan anwes
 tegan meddal
 tegan rhyw
 teganau
+tegannau
 tegeirian
 tegeirian y fadfall
 tegell
@@ -24363,11 +26879,13 @@ teisennau
 teitheb
 teithi
 teithiad
+teithiau
 teithio
 teithio drwy amser
 teithio mewn amser
 teithiol
 teithiwr
+teithiwr cudd
 teithlyfr
 teithrestr
 teithwyr
@@ -24384,11 +26902,13 @@ teleffon
 telegraff
 teler
 telerau ac amodau
+telesgop
 teleweinydd
 teli
 telid
 telir
 telomer
+telor
 telor y cyrs
 telugu
 telwriwm
@@ -24416,6 +26936,7 @@ tendril
 tenesin
 teras
 terbiwm
+terebrog
 terfyn
 terfynau
 terfynell
@@ -24445,31 +26966,61 @@ testun
 testun gorchymyn llys am blentyn
 tetanws
 teth
+teth lwgu
 tetrahydrocannabinol
 teulu
 teulu brenhinol
 teulu cnewyllol
 teulu ieithyddol
+teulu maeth
 teulu yng nghyfraith
 teuluoedd
 teuluol
 tew
 tewach
 tewaf
+tewbig
+tewbig cefnddu
+tewbig cyfnos
+tewbig cynffonddu
+tewbig du a melyn
 tewbig pinwydd
+tewbigau
+tewbigau cefnddu
+tewbigau cyfnos
+tewbigau cynffonddu
+tewbigau du a melyn
+tewbigau pinwydd
 tewed
 tewi
+tewychydd
 tewyn
 teyrn
+teyrn corunllwyd
+teyrn cycyllog
+teyrn gwinau bach
+teyrn gwinau mawr
+teyrn melyngoch
+teyrn tinfelyn
 teyrnaddoliant
 teyrnaderyn penfawr
 teyrnas
+teyrnasau
 teyrnasiad
 teyrnasoedd
+teyrnedd
 teyrngadair
 teyrngadeiriau
 teyrngar
 teyrnged
+teyrniaid
+teyrniaid corunllwyd
+teyrniaid cycyllog
+teyrniaid gwinau bach
+teyrniaid gwinau mawr
+teyrniaid melyngoch
+teyrniaid tinfelyn
+teyrnion
 teẏrn
 th
 tha
@@ -24485,6 +27036,7 @@ thafodau
 thai
 thai bach
 thaid
+thair
 thaith
 thal
 thala
@@ -24505,9 +27057,20 @@ thalodd
 thalon
 thalu
 than
+thanagr
+thanagr coch
+thanagr coch bochlwyd
+thanagr coch mygydog
+thanagrod
+thanagrod cochion
+thanagrod cochion bochlwyd
+thanagrod cochion mygydog
+thaniwr
+thanwyr
 thapin
 tharian
 tharianau
+tharth
 tharw
 thatws
 thaw
@@ -24545,24 +27108,69 @@ thematig
 then optionally arfer
 then the verbal noun.
 therapi
+therapi maeth
 therapi ocsigen
 therapydd
+thermoporometry
 thesawrws
 theth
 theulu
 thew
 thewach
 thewaf
+thewbig
+thewbig cefnddu
+thewbig cyfnos
+thewbig cynffonddu
+thewbig du a melyn
+thewbig pinwydd
+thewbigau
+thewbigau cefnddu
+thewbigau cyfnos
+thewbigau cynffonddu
+thewbigau du a melyn
+thewbigau pinwydd
 thewed
 thewi
+theyrn
+theyrn corunllwyd
+theyrn cycyllog
+theyrn gwinau bach
+theyrn gwinau mawr
+theyrn melyngoch
+theyrn tinfelyn
 theyrnaddoliant
 theyrnas
+theyrnasau
+theyrnedd
+theyrniaid
+theyrniaid corunllwyd
+theyrniaid cycyllog
+theyrniaid gwinau bach
+theyrniaid gwinau mawr
+theyrniaid melyngoch
+theyrniaid tinfelyn
+theyrnion
 thi
-thin
+thinfelyn
 thipyn
 thir
 thiroedd
 thithau
+thitw
+thitw asur
+thitw cefnwyrdd
+thitw copog cyffredin
+thitw cribog
+thitw mawr
+thitw-deyrn pigfelyn
+thitw-deyrniaid pigfelyn
+thitwod
+thitwod asur
+thitwod cefnwyrdd
+thitwod copog cyffredin
+thitwod cribog
+thitwod mawr
 thiwba
 thiwbâu
 thlawd
@@ -24578,10 +27186,12 @@ thoiled
 thoiledau
 thoiledi
 thor
+thoriad
 thoriwm
 thorrent
 thorri
 thorrid
+thowio
 thra-
 thraed
 thraeth
@@ -24605,10 +27215,12 @@ threiglad meddal
 threiglad trwynol
 threigladau
 threiglo
+threisiol
 threisiwr
 threiswyr
 threnau
 thrennydd
+thri
 thrigain
 thrio
 thriongl
@@ -24616,6 +27228,7 @@ thriongl isosgeles
 thrionglau
 thrionglau isosgeles
 thriphlyg
+thrips
 thrist
 thristach
 thristaf
@@ -24627,6 +27240,8 @@ throi
 thrombonau
 thrombosis
 thrombôn
+thros
+thros bwysau
 thros-
 throsgynnol
 thrown
@@ -24641,11 +27256,14 @@ thrydanwyr
 thrydedd
 thrydydd
 thrên
+thrôi
 thu
 thud
 thudalen
+thunderbolt
 thus
 thwliwm
+thwll
 thwp
 thwpach
 thwpaf
@@ -24662,9 +27280,13 @@ thylluanod
 thyn
 thyrrau
 thywyll
+thywyllwch
+thywysog
+thywysogion
 thâl
 thân
 thîm
+thôn
 thŵr
 thŷ
 thŷ bach
@@ -24682,6 +27304,8 @@ tin-droi
 tin-dros-ben
 tinamŵ
 tinau
+tinciwr rhuddgoch
+tinfelyn
 tingoch
 tingsigl
 tinitws
@@ -24743,9 +27367,12 @@ tithau
 tithe
 titr
 titw
+titw asur
+titw cefnwyrdd
 titw copog
 titw copog cyffredin
 titw copog y De
+titw cribog
 titw cynffon-hir
 titw ffrwynog
 titw mawr
@@ -24753,6 +27380,15 @@ titw penddu
 titw talcenwyn
 titw tomos las
 titw-deyrn gopog
+titw-deyrn pigfelyn
+titw-deyrniaid pigfelyn
+titwod
+titwod asur
+titwod cefnwyrdd
+titwod copog cyffredin
+titwod cribog
+titwod mawr
+titŵod
 tiwb
 tiwb gwactod
 tiwb prawf
@@ -24782,6 +27418,7 @@ tlysni
 tlysu
 to
 to bach
+to llosgi'r gwely i ladd y chwannen
 tobaco
 tobogan
 toc
@@ -24795,8 +27432,8 @@ toddf
 toddi
 toddiant
 toddyf
+toddyn
 toes
-toes ()
 toesaidd
 toesen
 toeslyd
@@ -24811,9 +27448,9 @@ tolchen
 tolcheniad
 tolio
 tollty
+tom
 tomato
 tomatos
-tomen
 tomen gompost
 ton
 ton Fecsicanaidd
@@ -24850,6 +27487,7 @@ torchog
 torcontract
 torddwfr
 torddwr
+tordyn
 toreithiog
 torf
 torfoli
@@ -24865,12 +27503,15 @@ toriadau
 torlan
 torlannau
 torllengig
+torllwyth
 tormaen
 tormaen mwsoglaidd
 tormaen ymgripiol
 torogen
+torpwth
 torra
 torrai
+torraid
 torrais
 torran
 torrant
@@ -24884,6 +27525,7 @@ torri a llosgi
 torri addewid
 torri ar
 torri gair
+torri gwynt
 torri streic
 torri'n fân
 torrid
@@ -24925,6 +27567,7 @@ tractor
 tracwisg
 traddodiad
 traddodiadol
+traddodiant
 tradwy
 traean
 traed
@@ -25011,6 +27654,8 @@ trawsenw
 trawsenwau
 trawsieithol
 trawslath
+trawsleoli
+trawsleoliad
 trawslif
 trawslin
 trawslythrennu
@@ -25025,8 +27670,11 @@ trawsosodiad
 trawsrywedd
 trawsryweddol
 trawsrywioldeb
+trawst
+trawst bras
 trawstrefa
 trawswch
+trawswisgo
 tre
 trech
 trechedd
@@ -25038,7 +27686,6 @@ tref
 tref anghyfannedd
 tref sirol
 trefedigaeth
-trefedigaeth ()
 trefedigaethau
 trefedigaethedd
 trefedigaethol
@@ -25049,6 +27696,8 @@ trefi
 trefn
 trefn eiriol
 trefn ffiwdal
+trefn y gwasanaeth
+trefn yr wyddor
 trefniadaethol
 trefnol
 trefnolyn
@@ -25061,6 +27710,7 @@ trefol
 trefoli
 trefoliad
 treftadaeth
+treftadaeth diwylliannol
 trefwr
 trefydd
 treial
@@ -25068,6 +27718,7 @@ treialon
 treiddgar
 treiddio
 treiddiol
+treiddiwr taflegryn
 treiffl
 treigl
 treiglad
@@ -25100,6 +27751,7 @@ treisiwr
 treiswyr
 trem
 trenau
+trend
 trengholiad
 trengholiadau
 trengi
@@ -25142,16 +27794,27 @@ trigeiniau
 trigfa
 trigfan
 trigfannu
+trigiannydd
 trigle
 trigo
 trigolion
 trigolyn
+tril
 trilliw
 trin
+trin a thrafod
+trin data
+trin dwylo
+trin gwallt
+trin lledr
+trin nwyddau wedi'u dwyn
+trin traed
 trinaw
+triniad
 triniaeth
 triniaethau
 trinio
+triniwr
 triniwr gwallt
 trino
 trio
@@ -25174,6 +27837,7 @@ triwant
 triwel
 tro
 tro pedol
+tro-ffrio
 troa
 troad y rhod
 troan
@@ -25197,7 +27861,6 @@ troed-yr-ŵydd Awstralia
 troed-yr-ŵydd Berlandier
 troed-yr-ŵydd Probst
 troed-yr-ŵydd Sweden
-troed-yr-ŵydd amlhadog
 troed-yr-ŵydd arfor
 troed-yr-ŵydd arforol
 troed-yr-ŵydd coch
@@ -25231,7 +27894,6 @@ troed-yr-ŵydd talsyth
 troed-yr-ŵydd writgoch
 troed-yr-ŵydd ysgubellog
 troedfedd
-troedfedd ()
 troedfeddi
 troedffordd
 troedio
@@ -25246,6 +27908,7 @@ troell crochenydd
 troell nyddu
 troellen
 troellwr
+troellwr jyngl
 troellwynt
 troen
 troer
@@ -25265,6 +27928,7 @@ troi
 troi a throsi
 troi allan
 troi o gwmpas
+troi'n frown
 troi'n hufen
 troid
 trois
@@ -25315,6 +27979,8 @@ trwblu
 trwblus
 trwch
 trwchus
+trwlen
+trwlyn
 trwm
 trwm ei chlyw
 trwm ei glyw
@@ -25322,9 +27988,11 @@ trwm eu clyw
 trwnc
 trwsgl
 trwsio
+trwst
 trwy
 trwy gyfrwng
 trwy ras Duw
+trwy rym noeth
 trwydded
 trwydded yrru
 trwyddedau
@@ -25337,6 +28005,8 @@ trwyn y llo
 trwyn-daflodol
 trwynog hopys
 trwynol
+trwynoli
+trwynolyn
 trwyth
 trwyth eidion
 trwythiad
@@ -25344,6 +28014,7 @@ trwytho
 try
 try-
 trybedd
+trychiad
 trychineb
 trychineb naturiol
 trychinebau
@@ -25401,6 +28072,7 @@ trywelion
 trywsus
 trywsus chwysu
 trywsus nofio
+trywydd
 trên
 trôi
 trôns
@@ -25424,6 +28096,7 @@ tu fas
 tu fewn
 tu fewn tu fas
 tu hwnt
+tu isaf
 tu mewn
 tu ôl
 tu ôl i
@@ -25480,6 +28153,7 @@ twff
 twffyn
 twgu
 twinc bananas
+twl
 twll
 twll archwilio
 twll botwm
@@ -25534,12 +28208,15 @@ twryv
 twsian
 twt
 twt lol
+twt-twt
 twtio
 twyarchen
 twyll
 twyllo
+twyllodrus
 twyllwr
 twyllwr du
+twyllwraig
 twyllwyr duon
 twym
 twymo
@@ -25551,17 +28228,21 @@ twyn tywod
 twynen
 twyni
 twynyn
+twyt
 tyb
 tybaco
 tybed
 tybied
 tybio
 tybiwyd
+tydan
 tyddyn
 tydi
 tydw
 tydwi
 tydy
+tydych
+tydyn
 tyfiant
 tyfu
 tyfwr
@@ -25616,6 +28297,7 @@ tynnais
 tynnol
 tynnu
 tynnu cwtws
+tynnu gyhyr
 tynnu llwch
 tynnu masg
 tynnu plwg
@@ -25674,21 +28356,28 @@ tywyrch
 tywysen
 tywysennig
 tywysog
+tywysog cydweddog
 tywysogaeth
+tywysogaidd
 tywysoges
 tywysoges goron
+tywysogion
 tâl
 tâl salwch
 tân
 tân eithin
 tân gwersyll
 tân gwyllt
+tân-ddiffoddwr
 tâp
 tâp masgio
 tâp mesur
 tâp selo
+tê
+têr
 tîc
 tîm
+tô
 tôn
 tôn gron
 tôn-fyddar
@@ -25708,6 +28397,7 @@ tŷ golchi
 tŷ gwydr
 tŷ iâ
 tŷ mawr
+tŷ parod
 tŷ pâr
 tŷ rhew
 tŷ sengl
@@ -25785,6 +28475,7 @@ un deg tri
 un deg un
 un deg wyth
 un deg...
+un drwg
 un o'r gloch
 un wennol ni wna wanwyn
 una
@@ -25812,7 +28503,6 @@ undebau
 undebol
 undeboli
 undebwr
-undec
 undeg
 undeg chwech
 undeg dau
@@ -25846,9 +28536,11 @@ unffordd
 unffurf
 unfryd
 unfrydedd
+unfrydol
 ungellog
 uni
 uniad
+uniad cynffonnog
 uniad sifil
 uniadau
 uniadau sifil
@@ -25874,6 +28566,7 @@ unllygeidiog
 unman
 uno
 unochrog
+unol
 unoliaeth
 unom
 unrhyw
@@ -25892,6 +28585,7 @@ urdd
 urddas
 urddasol
 urddau
+ushanka
 ustus
 ustusiaid
 utganaf
@@ -25910,6 +28604,7 @@ uwchgyfrifiadur
 uwchlaw
 uwchlwytho
 uwchradd
+uwchraddiad
 uwchraddio
 uwchsain
 uwd
@@ -25928,6 +28623,8 @@ wair
 waith
 wal
 walabi
+walch
+walch glas
 waled
 waliau
 wallt
@@ -25946,6 +28643,7 @@ was
 wastad
 watsh
 waw
+wawr
 wddf
 wddw
 wddwg
@@ -25973,12 +28671,21 @@ wedi'i biclo
 wedi'i botsio
 wedi'i ferwi
 wedi'i ffrio
+wedi'i ragbecynnu
+wedi'i rhagbecynnu
 wedi'i rostio
 wedi'i sgramblo
+wedi'u rhagbecynnu
 wedyn
 wedyn ()
 wefan
+wehydd
+wehydd mygydog
+wehyddion
+wehyddion mygydog
 weiarles
+weilch
+weilch gleision
 weinidog
 weinidogion
 weiren
@@ -25991,11 +28698,13 @@ weithiwr
 weithred
 wejen
 wel
+weladwy
 welais
 welaist
 weld
 wele
 weled
+weledig
 weler
 well
 wella
@@ -26012,11 +28721,13 @@ wennol
 wenoliaid
 wenu
 wenyn
+wenyn meirch
 wenynen
 werdd
 werin
 weriniaeth
 weriniaethau
+werinoedd
 werinwr
 werinwyr
 wermod lwyd
@@ -26028,10 +28739,12 @@ wfwlar-daflodol
 wg
 which derives from the phrase pa beth
 whilber
+white-space: nowrap
 wici
 wicsen gron
 wig
 win
+winau
 winion
 winiwn
 winoedd
@@ -26047,6 +28760,9 @@ wiwer
 wiwerod
 wlad
 wladfa
+wladgar
+wladgarol
+wlanog
 wledydd
 wlyb
 wlypach
@@ -26081,18 +28797,34 @@ wrando
 wraniwm
 wreiddiol
 wres
+wresogi
 wrn te
+wrstid
 wrth
 wrth angor
+wrth basio
 wrth borth marwolaeth
+wrth dy fodd
+wrth ei bodd
+wrth ei fodd
 wrth eich bodd
+wrth eich boddau
+wrth ein bodd
+wrth ein boddau
 wrth erchwyn gwely
 wrth erchwyn y gwely
+wrth eu bodd
+wrth eu boddau
+wrth ewyllys
+wrth fodd
+wrth fy modd
 wrth gefn
 wrth gwrs
 wrth gwt
 wrth hyn
+wrth ochr
 wrth raddau
+wrth ymyl
 wrth-
 wrtha
 wrthaf
@@ -26105,6 +28837,7 @@ wrthyn
 wryw
 wrywaidd
 wsti
+wstid
 wswffrwct
 wtopia
 wy
@@ -26114,10 +28847,17 @@ wy maes
 wy siocled
 wyau
 wyau wedi'u sgramblo
+wybedog
+wybedog cynffonddu
+wybedog pigddu
+wybedogion
+wybedogion cynffonddu
+wybedogion pigddu
 wybod
 wybodaeth
 wybr
 wybren
+wybrennol
 wych
 wychach
 wychaf
@@ -26129,6 +28869,12 @@ wydraid
 wyf
 wyf Saesneg
 wyffurf
+wylan
+wylan gefnddu fwyaf
+wylan gefnddu leiaf
+wylanod
+wylanod cefnddu lleiaf
+wylanod cefnddu mwyaf
 wyliau
 wylio
 wyll
@@ -26147,18 +28893,20 @@ wynebau
 wynebwerth
 wynepryd
 wynion
+wynlas
 wyntau
 wynwyn
 wynwynyn
 wyr
 wyrdd
+wyrddlas
 wyres
 wyrion
 wys
 wysg
 wystl
 wystn
-wystrysen
+wystrys
 wyt
 wyt ti'n gwybod
 wyt ti'n iawn
@@ -26170,10 +28918,12 @@ wyth ar ddeugain
 wyth ar hugain
 wyth cant
 wyth deg
+wythawd
 wythdeg
 wythdegau
 wythfed
 wythfed ar hugain
+wythfed noeth
 wythgoes
 wythnos
 wythnos y glas
@@ -26186,6 +28936,7 @@ wŷr
 xenon
 y
 y Barriff Mawr
+y Bod Mawr
 y Brenin Arthur
 y Cariwr Dŵr
 y Cranc
@@ -26205,6 +28956,9 @@ y Gogledd
 y Gogleddbarth
 y Lleuad
 y Llew
+y Lloer
+y Mab
+y Mab a'r Ysbryd Glân
 y Pysgod
 y Rheindir
 y Saethydd
@@ -26212,14 +28966,17 @@ y Santes Fair
 y Sgorpion
 y Sosban
 y Swistir
+y Tad
 y Tair Mair
 y Tarw
 y Tir Newydd
+y Tiwb
 y Walabïaid
 y Weriniaeth Helenaidd
 y Weriniaeth Tsiec
 y Wladfa
 y Wyryf Fair
+y bore 'ma
 y byd a ddaw
 y byd arall
 y byd nesaf
@@ -26232,11 +28989,13 @@ y ddau
 y ddwy
 y dwymyn goch
 y fad fawr
+y fantell goch
 y fath
 y flwyddyn nesaf
 y frech Almaenig
 y frech goch
 y gaeaf niwclear
+y galdrist ruddgoch
 y ganwraidd Alpaidd
 y ganwraidd Himalaiaidd
 y ganwraidd fach
@@ -26247,12 +29006,14 @@ y ganwraidd wlanog
 y god fawr
 y gosb eithaf
 y gweunydd
+y gynghanedd nefol
 y llinyn arian
 y llynedd
 y mae bob ffordd yn arwain i Rufain
 y maes
 y nefoedd annwyl
 y nefoedd wen
+y prynhawn 'ma
 y rhai hyn
 y rhai hynny
 y rhain
@@ -26283,6 +29044,7 @@ ychwanegyn
 ychydig
 ydan
 ydau
+yddfgoch
 ydfrain
 ydfran
 ydi
@@ -26315,11 +29077,13 @@ ym
 ym mhen draw’r byd
 ym-
 yma
+yma a thraw
 yma ac acw
 ymadael
 ymadawedig
 ymadawol
 ymadrodd
+ymadrodd enwol
 ymadroddi
 ymadroddion
 ymadroddus
@@ -26328,6 +29092,7 @@ ymadroddwyr
 ymaelodi
 ymaflyd
 ymaflyd codwm
+ymagor
 ymagorol
 ymarbed
 ymarfer
@@ -26342,15 +29107,17 @@ ymaros
 ymarweddiad
 ymarweddu
 ymasiad
+ymasio
 ymatal
 ymataliad
 ymataliaeth
 ymateb
 ymateb yr heddlu
-ymbaratoi ()
+ymbaratoi
 ymbarél
 ymbelydredd
 ymbil
+ymblethu
 ymchwil maes
 ymchwiliad
 ymchwiliadau
@@ -26360,6 +29127,7 @@ ymchwiliwr
 ymchwydd llyn
 ymchwydd yn y llanw
 ymdaith
+ymdaro
 ymddangos
 ymddangosiad
 ymddengys
@@ -26367,8 +29135,12 @@ ymddeol
 ymddeoli
 ymddiddan
 ymddiddan (rhwng dau)
+ymddiddori
 ymddiheuro
+ymddired
 ymddiried
+ymddiriedaeth
+ymddiriedol
 ymddiswyddo
 ymddwyn
 ymddygiad
@@ -26379,6 +29151,7 @@ ymdeithgan
 ymdeithiau
 ymdeithio
 ymdoddbwynt
+ymdoddi
 ymdopi
 ymdopian
 ymdopio
@@ -26389,6 +29162,7 @@ ymdrechgar
 ymdrechiad
 ymdrechu
 ymdreiddio
+ymdrin
 ymedy
 ymehangu
 ymeifl
@@ -26399,10 +29173,16 @@ ymenyddiau
 ymenyn
 ymerawdwr
 ymerodraeth
+ymerodraethau
 ymerodres
 ymesgusodi
 ymesgusodiad
+ymestyn
+ymestyn gorchymyn
+ymestyniad
+ymestynnol
 ymesyd
+ymffrostio
 ymfudiad
 ymfudo
 ymfudol
@@ -26414,9 +29194,12 @@ ymgeiswyr
 ymgeisydd
 ymgelez
 ymgloi
+ymgolli
 ymgorffori
 ymgrymu
 ymguddfa
+ymgyfarwyddo
+ymgyfnewid
 ymgyfoethogi anghyfiawn
 ymgymerwr angladdau
 ymgynghori
@@ -26435,6 +29218,7 @@ ymgyrchydd
 ymherodr
 ymherodraeth
 ymheulo
+ymhle
 ymhlith
 ymhlŷg
 ymholi
@@ -26467,6 +29251,7 @@ ymosod
 ymosod ar
 ymosodedd
 ymosodiad
+ymosodiad ffug
 ymosodol
 ymosodwr
 ympryd
@@ -26496,7 +29281,6 @@ ymwelwyr
 ymwelydd
 ymwnc
 ymwneud
-ymwneud ()
 ymwrthod
 ymwrthodiad
 ymwthgar
@@ -26511,11 +29295,14 @@ ymyl pafin
 ymyl palmant
 ymyl pefel
 ymylon
+ymylu
+ymylwe
 ymysg
 yn
 yn Ffrainc rhaid yfed yn ffraeth
 yn achlysurol
 yn aml
+yn anaml
 yn anffodus
 yn arbennig
 yn barod
@@ -26530,6 +29317,7 @@ yn eisiau
 yn enw
 yn erbyn
 yn ffodus
+yn flaenorol
 yn fore
 yn fuan
 yn fy marn i
@@ -26538,18 +29326,22 @@ yn groes i
 yn gwmws
 yn gymwys
 yn gywir
+yn herwydd
 yn hyn o beth
 yn hytrach
 yn iawn
 yn llawn-amser
 yn lle
 yn lwcus
+yn niwroieithyddol
 yn oes oesoedd
 yn ogystal
+yn olaf
 yn olynol
 yn raddol
 yn raddol bach
 yn rhad ac am ddim
+yn rhyw fath
 yn rhywle arall
 yn sgil
 yn sgîl
@@ -26557,11 +29349,16 @@ yn sioe
 yn sydyn
 yn unig
 yn union
+yn unlle
+yn unman
 yn wastad
 yn wreiddiol
 yn wyllt
+yn wysg
+yn wysg ei gefn
 yn y cyfamser
 yn y dyddiau hyn
+yn y gwynt
 yn y lleuad
 yn y pen draw
 yn ymyl
@@ -26583,21 +29380,26 @@ yng nghefn
 yng nghefn y llwyfan
 yng nghlo
 yng nghyfraith
+yng nghysgod y gwynt
+yng ngwynt
 yng ngŵydd
 yngan
 ynganiad
 ynganu
 ynghanol
 ynghlo
+ynghlwm
 ynghwsg
+ynghylch
 ynghynt
 ynglŷn
 ynglŷn â
 yngon
 ynial
 ynn
+ynni
+ynni gwynt
 yno
-yno ()
 yntau
 ynys
 ynys ddiserth
@@ -26622,27 +29424,30 @@ yr Alban Newydd
 yr Almaen
 yr Alpau
 yr Arglwydd
-yr Arglwydd ()
 yr Arth Fach
 yr Arth Fawr
 yr Efeilliaid
 yr Eidal
 yr Haul
+yr Hen Fam
 yr Holocost
 yr Hwrdd
 yr Iseldiroedd
 yr Iwerydd
 yr Oesoedd Canol
 yr Ysbaen
+yr Ysbryd Glân
 yr euog a ffu heb neb yn ei erlid
 yr euog a ffy heb neb yn ei erlid
 yr ocwlt
 yr un
+yr un drwg
 yr wyf Mwslim
 yrllynedd
 yrru
 ys
 ysaf
+ysbaddu
 ysbaid
 ysbail
 ysbardun
@@ -26650,6 +29455,7 @@ ysbawd
 ysbeidiol
 ysbeidiolrwydd
 ysbeiliau
+ysbeilio
 ysbienddrych
 ysbonc
 ysboncio
@@ -26662,19 +29468,31 @@ ysbrydoledig
 ysbrydoli
 ysbrydoliaeth
 ysbrydolrwydd
+ysbwng
 ysbwriel
 ysbyty
 ysbyty plant
 ysbâr
+ysbïo
+ysbïwedd
+ysbïwr
+ysbïwraig
 ysdyfnig
 ysfa
 ysfu
+ysgadain
 ysgadan
+ysgadan agored
+ysgadan coch
+ysgadan sych
+ysgadenyn
+ysgafell gyfandirol
 ysgafn
 ysgafnder
 ysgafnhad
 ysgafnhau
 ysgafnu
+ysgair
 ysgall
 ysgall Mair
 ysgallen
@@ -26687,10 +29505,10 @@ ysgarthu
 ysgaru
 ysgaw
 ysgaw Mair
-ysgaw Mair ()
 ysgawen
 ysgawennyn
 ysgedd arfor
+ysgedyn
 ysgellog
 ysgerbwd
 ysglefrio
@@ -26702,7 +29520,7 @@ ysglyfaethwr
 ysgogi
 ysgogydd
 ysgol
-ysgol Fair ()
+ysgol Fair
 ysgol breswyl
 ysgol feithrin
 ysgol gyfun
@@ -26717,8 +29535,11 @@ ysgorpion
 ysgorpiwn
 ysgrafell
 ysgraff
+ysgrechian
+ysgrechu
 ysgreten
 ysgrif
+ysgrif goffa
 ysgrifbin
 ysgrifen
 ysgrifenedig
@@ -26772,7 +29593,7 @@ ysmygon
 ysmygu
 ysmygwr
 ysmygwyr
-ysnoden Fair ()
+ysnoden Fair
 ysol
 ysor
 ystad
@@ -26780,7 +29601,6 @@ ystad cyngor
 ystadaeth
 ystadegau
 ystaden
-ystadenni
 ystaen
 ystafell
 ystafell aros
@@ -26799,6 +29619,9 @@ ystifflog
 ystiflogod
 ystlum
 ystlum trwyn pedol
+ystlys
+ystlysgar
+ystlysol
 ystlysu
 ystod
 ystol
@@ -26830,6 +29653,7 @@ ysu
 yswain
 yswidw
 yswigen
+yswigod
 yswiriant
 yswiriant bywyd
 yswiriant gwyliau
@@ -26847,6 +29671,7 @@ ytewyn
 ytriwm
 yw
 ywen
+zakat
 zinc
 zirconiwm
 À
@@ -26903,6 +29728,7 @@ zirconiwm
 îsl
 ï
 ïodin
+ïon
 ïon hydrogen
 ïon lithiwm
 ïon tun
@@ -26968,16 +29794,30 @@ zirconiwm
 ẃ
 Ẅ
 ẅ
+Ẏ
+ẏ
 Ỳ
 ỳ
 Ỻ
 ỻ
 —
 ‘sti
+’ch
+’i
 ’ma
 ’n
 ’th
+’w
 ◌̀
 ◌́
 ◌̂
 ◌̈
+Ꝺ
+ꝺ
+Ᵹ
+Ꝿ
+ꝿ
+Ꞁ
+ꞁ
+Ꞇ
+ꞇ

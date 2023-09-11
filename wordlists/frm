@@ -56,6 +56,7 @@ Boort
 Bordeaulx
 Bouquinghem
 Caire
+Camalot
 Castelan
 Castelans
 Casteloing
@@ -363,6 +364,7 @@ advis
 adviser
 advocat
 advocatz
+advoquer
 advouer
 aequitable
 aequitables
@@ -380,6 +382,7 @@ age
 agenouller
 aggreable
 aggreables
+aggresseur
 agrarien
 agriculture
 agu
@@ -457,6 +460,7 @@ aneaulx
 angelicque
 angelicques
 anglet
+anhelation
 animal
 animaulx
 animaux
@@ -490,6 +494,9 @@ appertement
 appertise
 apperçeu
 appetit
+applicacion
+application
+applications
 appoyer
 apprendre
 apprentif
@@ -648,6 +655,7 @@ avete
 avette
 avettes
 avoir
+avoquer
 avoutre
 avoyr
 axiome
@@ -678,6 +686,9 @@ baiser
 baisier
 baisler
 balance
+balanche
+balence
+ballance
 balle
 ballon
 balustre
@@ -903,6 +914,7 @@ cellui
 celluy
 celuy
 cens
+censer
 cercher
 cerchier
 ceremonie
@@ -928,6 +940,11 @@ chaloir
 chameau
 champ
 chancre
+chandaille
+chandeille
+chandelle
+chandelles
+chandoille
 chanffrains
 chanffraint
 chanson
@@ -1037,6 +1054,7 @@ cler
 clerement
 clergie
 clergié
+clin
 clistere
 cloche
 clochier
@@ -1202,6 +1220,7 @@ couhardise
 couille
 couillette
 couillon
+couillu
 coul
 coulpable
 coulpe
@@ -1530,6 +1549,7 @@ diablesse
 diabolique
 diabolologie
 dialecte
+diamant
 diaphragme
 diarrie
 diastolicque
@@ -2253,7 +2273,6 @@ françoys
 françoyse
 fraper
 frapper
-freche
 freis
 fremir
 frere
@@ -2393,6 +2412,7 @@ granche
 grand
 grandement
 grandpere
+grange
 granment
 grans ducs
 grant
@@ -2733,6 +2753,7 @@ isle
 isle de Wisque
 islette
 issir
+issue
 item
 iudaic
 iudaicque
@@ -2823,6 +2844,7 @@ langaiges
 language
 languaige
 langue
+langue de cerf
 lapereau
 lapin
 larecin
@@ -2860,6 +2882,7 @@ levraulx
 levraut
 lezart
 liberalité
+libre
 lict
 licts
 lictz
@@ -2877,6 +2900,7 @@ ligeté
 ligeé
 lignaige
 lit
+livre
 loge
 loger
 logical
@@ -2899,6 +2923,10 @@ luicter
 luite
 luitter
 lumiere
+lunaire
+lunaires
+lune
+lunes
 lurrer
 lustre
 luy
@@ -2953,6 +2981,7 @@ mandement
 manger
 maniere
 manifacture
+manioc
 manouvrer
 manufacture
 manuscript
@@ -2998,12 +3027,16 @@ maternel
 mathematicien
 mathematicque
 mathematicques
+mathematique
 matin
 matinee
 matineulx
 matter
+maudire
+maudition
 maugré
 mauldict
+mauldiction
 mauldit
 maulvais
 maulx
@@ -3200,8 +3233,10 @@ mulcter
 muliebrité
 munimens
 muniment
+mur
 muraille
 murdrir
+murs
 muscle
 museau
 musel
@@ -3218,6 +3253,7 @@ n'
 n'y
 nacre
 nager
+nagier
 nain
 naissance
 naissant
@@ -3257,7 +3293,11 @@ nerfz
 nerveux
 nettoyer
 neud
+neuf
+neufs
 neufviesme
+neuve
+neuves
 nez
 nigromancie
 noble
@@ -3316,6 +3356,7 @@ obeir
 obeissance
 obelisque
 obeyr
+obfusquer
 obliger
 obmettre
 obnubilation
@@ -3423,10 +3464,12 @@ paenitence
 paiement
 paige
 paiges
+pain
 painct
 painctre
 painctres
 paindre
+pains
 paintre
 paintres
 painture
@@ -3435,6 +3478,12 @@ palays
 palefroy
 palpable
 pannicle
+pantofle
+pantophle
+pantouffle
+pantoufle
+pantoufles
+pantouphle
 paour
 paouvre
 paouvres
@@ -3467,6 +3516,8 @@ paroistre
 parole
 parolle
 parolles
+parque
+parquet
 parquoy
 parricide
 parroisse
@@ -3548,6 +3599,7 @@ perfection
 perfumer
 permanent
 permettre
+perrocquet
 perron
 perser
 perseverance
@@ -3733,6 +3785,7 @@ poysson
 poëte
 poëtes
 poëticque
+practicien
 practicque
 practicquer
 practicques
@@ -4159,6 +4212,8 @@ rondelet
 rondelez
 ronfler
 rongne
+rose
+roses
 rostir
 roter
 rotter
@@ -4245,6 +4300,7 @@ sceust
 sceut
 scholastique
 science
+scolopendre
 scripture
 se
 seant
@@ -4502,6 +4558,7 @@ tigre
 tiltre
 tirer
 tocquer
+togue
 toi
 toict
 toie
@@ -4576,6 +4633,7 @@ transporter
 travail
 travailler
 travaillier
+travaillois
 trave
 traveillier
 traveillié
@@ -4710,6 +4768,7 @@ vestement
 vestements
 vestiment
 vestiments
+vestir
 vesve
 veu
 veue
@@ -4821,7 +4880,6 @@ yvrongnerie
 zel
 zele
 zelle
-~
 Æsope
 à
 à voulenté
@@ -4844,3 +4902,4 @@ zelle
 ſ
 ẽ
 ẽnemy
+◌̃

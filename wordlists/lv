@@ -1,3 +1,4 @@
+
 & zīme
 (Latgalian) vīns
 (bike) braukt
@@ -5,6 +6,7 @@
 (paint-) ota
 (piemēram) piem.
 (qoloquial) mails
+*
 -a
 -aina
 -ains
@@ -68,6 +70,7 @@
 -skops
 -sme
 -sne
+-ties
 -tiņš
 -tne
 -ule
@@ -157,6 +160,7 @@
 9 deviņnieks
 9 devītdaļa
 90 deviņdesmit
+:
 A
 AIDS
 ANO
@@ -260,6 +264,7 @@ Alma
 Almati
 Aloizs
 Aloja
+Alvins
 Alvis
 Alvīna
 Alvīne
@@ -287,6 +292,7 @@ Amsterdamā
 Amālija
 Anastasija
 Anastasijs
+Anatolija
 Anatolijs
 Anatols
 Ance
@@ -295,6 +301,7 @@ Andalūzija
 Andamanu jūra
 Andis
 Andora
+Andora la Velja
 Andorai
 Andoras
 Andoras Firstiste
@@ -323,7 +330,9 @@ Anglikāņu Baznīca
 Angola
 Anita
 Ankara
+Ankoridža
 Anna
+Anneja
 Annija
 Anrijs
 Anrī
@@ -353,6 +362,7 @@ Anžela
 Anželika
 Aomiņa
 Ape
+Apenīnu pussala
 Apija
 Apinis
 Apsītis
@@ -367,6 +377,7 @@ Apvienoto Karaliste
 Apvienoto Karalisti
 Apvienoto Nāciju Organizācija
 Apvienotos Arābu Emirātus
+Apvienotā Arābu Republika
 Apvienotā Karaliste
 Apvienotā Lielbritānijas Karaliste
 Apvienotās Karalistes
@@ -429,6 +440,7 @@ Astra
 Astrīda
 Astūrija
 Asunsjona
+Asīrija
 Atika
 Atis
 Atklāsmes
@@ -438,6 +450,8 @@ Atlants
 Atēna
 Atēnas
 Augstā Dziesma
+Augustava
+Augustova
 Augusts
 Augšezers
 Aukstais karš
@@ -461,12 +475,14 @@ Austrijas Republikā
 Austriju
 Austrijā
 Austris
+Austroungārija
 Austrumeiropa
 Austrumi
 Austrumromas impērija
 Austrumsamoa
 Austrumsibīrijas jūra
 Austrumtimora
+Austrumu Mindoro
 Austrumvācija
 Austrumāfrika
 Austrumāzija
@@ -502,6 +518,7 @@ Ažaksjo
 B
 Baba
 Baba Jaga
+Babilonija
 Bafina jūra
 Bafina līcis
 Bagdāde
@@ -573,7 +590,10 @@ Baškīrija
 Bb
 Beatrise
 Beirūta
+Belci
+Belgoroda
 Belgrada
+Belhatova
 Beliza
 Belizai
 Belizas
@@ -629,15 +649,20 @@ Birma
 Birmingema
 Biruta
 Birznieks
+Birztala
+Birztalu stērste
+Birštona
 Biskajas līcis
 Bite
 Bitola
+Bitīnija
 Bizantija
 Biškeka
 Bjalistoka
 Bjarozavka
 Blagojevgrada
 Blagoveščenska
+Bobs
 Bodenezers
 Boforta skala
 Boloņa
@@ -671,6 +696,7 @@ Brabanti
 Brabantē
 Brandenburga
 Bratislava
+Brazilja
 Brazīlija
 Brazīlijai
 Brazīlijas
@@ -749,6 +775,7 @@ Bušs
 Bābeles tornis
 Bābelmandebs
 Bādene
+Bārbija
 Bāta
 Bāzele
 Bāzelei
@@ -767,6 +794,7 @@ Bībelē
 C
 CH
 Caharija
+Calapan
 Caune
 Cc
 Cefanja
@@ -841,6 +869,7 @@ Dienvidamerikas
 Dienvidameriku
 Dienvidamerikā
 Dienvidaustrumāzija
+Dienvidbuga
 Dienvideiropa
 Dienvidholande
 Dienvidholandei
@@ -854,6 +883,7 @@ Dienvidkoreju
 Dienvidkorejā
 Dienvidosetija
 Dienvidpols
+Dienvidsala
 Dienvidslāvija
 Dienvidslāvija:
 Dienvidslāvijai
@@ -882,6 +912,7 @@ Dienvidāzija
 Dienvidķīnas jūra
 Dieviete
 Dievs
+Dievs vien zina
 Dina
 Dionīss
 Dita
@@ -943,6 +974,7 @@ Dzjaržinska
 Dzjiliņa
 Dākija
 Dānija
+Dānija-Norvēģija
 Dānijai
 Dānijas
 Dānijas Karaliste
@@ -976,6 +1008,7 @@ Dženova
 Džeronimo
 Džhārkhanda
 Džibutija
+Džida
 Džirdženti
 Džo
 Džokonda
@@ -998,6 +1031,7 @@ Džuana
 Džuans
 Džērsija
 Džūba
+D̦
 E
 ES
 Ebrejiem
@@ -1071,6 +1105,7 @@ Endijs
 Endra un Luāra
 Enija
 Eno
+Erbīla
 Erevāna
 Eritreja
 Eritrejas Valsts
@@ -1113,6 +1148,7 @@ Flevolandi
 Flevolandē
 Florence
 Florida
+Fodža
 Folklenda Salas
 Folklenda salas
 Formozas šaurums
@@ -1128,6 +1164,7 @@ Franciju
 Francijā
 Francis
 Franciska
+Frankfurte
 Franču Gviāna
 Fricis
 Fridrihs
@@ -1164,6 +1201,7 @@ Gambija
 Gana
 Ganga
 Gangtoka
+Garanča
 Gatis
 Gazas josla
 Gaļina
@@ -1179,6 +1217,7 @@ Genovaitė
 Genovefa
 Genādijs
 Georgs
+Getingene
 Gg
 Gibraltāra šaurums
 Gibraltārs
@@ -1337,6 +1376,7 @@ Hondurasas
 Hondurasu
 Hondurasā
 Honkonga
+Horki
 Horvātija
 Horvātijai
 Horvātijas
@@ -1544,6 +1584,7 @@ Jaunavas
 Jaunavu
 Jaunavā
 Jaunde
+Jaundienvidvelsa
 Jaungvineja
 Jauni Hebrīdi
 Jaunkaledonija
@@ -1657,6 +1698,7 @@ Kaboverde
 Kabula
 Kabulas
 Kadjakas lācis
+Kagajanas Ieleja
 Kaira
 Kairas
 Kalabrija
@@ -1680,6 +1722,7 @@ Kambodžā
 Kamerūna
 Kamila
 Kamilla
+Kampučija
 Kamčatka
 Kanaāna
 Kanbera
@@ -1689,6 +1732,7 @@ Kanādas
 Kanādu
 Kanādā
 Kapitolijs
+Karaghandi
 Karakasa
 Karakasu
 Karalis Arturs
@@ -1741,6 +1785,7 @@ Kazahstānas Republiku
 Kazahstānas Republikā
 Kazahstānu
 Kazahstānā
+Kazaņa
 Kazimirs
 Kaļiņingrada
 Kaņeps
@@ -1753,6 +1798,7 @@ Kenterberija
 Kerala
 Kerkīra
 Kerča
+Kesonsitija
 Kihnu
 Kijeva
 Kijevas Krievzeme
@@ -1806,6 +1852,7 @@ Komoru salas
 Kongo
 Kongo Demokrātiskā Republika
 Kongo Republika
+Kongresa Poliju
 Konlija
 Konlijs
 Konstancija
@@ -1853,6 +1900,7 @@ Kosovas Republiku
 Kosovas Republikā
 Kosovu
 Kosovā
+Kostanaja
 Kostarika
 Kostarikai
 Kostarikas
@@ -1901,6 +1949,7 @@ Krūmiņš
 Krūze
 Ksenija
 Ksenofans
+Kserkss
 Kualalumpūra
 Kuba
 Kubas Republika
@@ -1919,6 +1968,7 @@ Kuritiba
 Kurska
 Kurzeme
 Kuveita
+Kvačovs
 Kāpas holandiešu valoda
 Kārdifa
 Kārkliņš
@@ -2020,6 +2070,7 @@ Lidija
 Lielais Lācis
 Lielais Sālsezers
 Lielais gavēnis
+Lielais hadronu pretkūļu paātrinātājs
 Lielbritānija
 Lielbritānijai
 Lielbritānijas
@@ -2060,6 +2111,9 @@ Lietuvas Republikai
 Lietuvas Republikas
 Lietuvas Republiku
 Lietuvas Republikā
+Lietuvas dižkunigaitija
+Lietuvas lielhercogiste
+Lietuvas lielkņaziste
 Lietuvu
 Lietuvā
 Ligita
@@ -2092,6 +2146,7 @@ Liverpūle
 Livonija
 Liāna
 Ll
+Lodza
 Logronjo
 Lolita
 Lombardija
@@ -2246,6 +2301,7 @@ Maķedoniju
 Maķedonijā
 Maļorka
 McDonald's
+Medīna
 Meghālaja
 Megija
 Mehiko
@@ -2253,6 +2309,7 @@ Meka
 Meksika
 Meksikas līcis
 Melanēzija
+Melitopole
 Melnkalne
 Melnkalnei
 Melnkalnes
@@ -2286,8 +2343,12 @@ Miervaldis
 Miha
 Mihaels
 Mihails
+Mikijs
+Mikimauss
+Mikipele
 Mikronēzija
 Miks
+Miksone
 Miku
 Mikum
 Mikus
@@ -2463,11 +2524,13 @@ Nīderlandes Karalistei
 Nīderlandes Karalistes
 Nīderlandes Karalisti
 Nīderlandes Karalistē
+Nīderlandes provinces
 Nīderlandi
 Nīderlandē
 Nīkajas-Konstantinopoles ticības apliecība
 Nīla
 Nīče
+Nūbija
 O
 Oba
 Obadja
@@ -2502,13 +2565,16 @@ Omānas Sultanātu
 Omānas Sultanātā
 Omānu
 Omānā
+Ontārio
 Ontārio ezers
 Oo
+Openheimers
 Orenburga
 Orfejs
 Orhūsa
 Orions
 Orisa
+Osaka
 Oskars
 Oslo
 Osmaņu impērija
@@ -2530,6 +2596,7 @@ Ozoliņš
 Ozols
 Oļegs
 Oņegas ezers
+Oša
 P
 PSR
 PSRS
@@ -2539,6 +2606,7 @@ Padomju Savienība
 Padomju Sociālistisko Republiku Savienība
 Padomju sociālistiskā republika
 Paegle
+Pafa
 Pakistāna
 Pakistānai
 Pakistānas
@@ -2558,7 +2626,9 @@ Pangeja
 Pangkalpinangas
 Papua-Jaungvineja
 Paragvaja
+Parana
 Parmenīds
+Partas valsts
 Parīze
 Pasaules Tirdzniecības organizācija
 Pasaules Veselības organizācija
@@ -2587,6 +2657,7 @@ Peru
 Petrarka
 Petrarkas sonets
 Petrausks
+Petrograda
 Phenjana
 Piedņestra
 Piektā Mozus grāmata
@@ -2620,6 +2691,7 @@ Polacka
 Polija
 Polijai
 Polijas
+Polijas Karaliste
 Polijas Republika
 Polijas Republikai
 Polijas Republikas
@@ -2632,6 +2704,7 @@ Polis
 Polocka
 Pols
 Polārzvaigzne
+Ponta
 Portsmuta
 Portugāle
 Portugālei
@@ -2643,22 +2716,26 @@ Portugāles Republiku
 Portugāles Republikā
 Portugāli
 Portugālē
+Poļesje
 Pp
 Pretorija
-Priecĩgus Lieldienas svẽtkus
+Priecīgus Lieldienas svētkus
 Priecīgus Ziemassvētkus un laimīgu Jauno gadu!
 Priede
 Priedītis
 Priština
 Prokopijs
+Prometejs
 Provansa
 Prāga
 Prūsija
 Psalmi
 Ptolemajs
 Puebla
+Puerto Galera
 Puertoriko
 Puriņš
+Pusana
 Putins
 Putlers
 Putnu Ceļš
@@ -2674,6 +2751,7 @@ Pērnava
 Pēteris
 Pīters
 Pūpolu diena
+Q
 R
 RNS (ribonukleīnskābe)
 Rabāta
@@ -2720,6 +2798,7 @@ Rietumi
 Rietumkrasts
 Rietumsahāra
 Rietumsamoa
+Rietumu Mindoro
 Rietumvācija
 Rietumāfrika
 Rihards
@@ -2734,6 +2813,7 @@ Ričardu
 Ričardā
 Roberts
 Robins Huds
+Roblox
 Roda
 Rolands
 Roma
@@ -2815,6 +2895,8 @@ Sanmarīno Republikai
 Sanmarīno Republikas
 Sanmarīno Republiku
 Sanmarīno Republikā
+Sanpaulu
+Sansalvadora
 Santa
 Santome un Prinsipi
 Sarajeva
@@ -2864,6 +2946,7 @@ Seara
 Seda
 Seišelas
 Sejms
+Semeja
 Senegāla
 Sentlūsija
 Sentlūsijai
@@ -2940,6 +3023,7 @@ Skandināvijai
 Skandināvijas
 Skandināviju
 Skandināvijā
+Skone
 Skopje
 Skorpiona
 Skorpionam
@@ -3240,6 +3324,7 @@ Ukrainu
 Ukrainā
 Ulanbatora
 Uldis
+Umaņa
 Una
 Ungārija
 Ungārijai
@@ -3290,6 +3375,7 @@ Valahija
 Valda
 Valdemārs
 Valdis
+Valensija
 Valentina
 Valentīna
 Valentīns
@@ -3311,6 +3397,8 @@ Valērija
 Valērijs
 Vanags
 Vanda
+Vankūvera
+Vanuatu
 Varšava
 Vasarsvētki
 Vasilijs
@@ -3396,6 +3484,7 @@ Vitolds
 Vitālijs
 Vizbulīte
 Vizma
+Viļejka
 Viļums
 Viļņa
 Višnu
@@ -3408,6 +3497,7 @@ Vladimirs
 Vladislavs
 Vladivostoka
 Vltava
+Voitāne
 Voldemārs
 Volisa un Futuna
 Volisa un Futūna
@@ -3448,9 +3538,12 @@ Vīksna
 Vīne
 Vītoliņš
 Vītols
+W
 We have to go regardless of everything
 Wikipēdija
 Would have said at least something
+X
+Y
 Z
 Zagreba
 Zaiga
@@ -3512,6 +3605,7 @@ Ziemeļmaķedonija
 Ziemeļmaķedonijas Republika
 Ziemeļpols
 Ziemeļreina-Vestfālene
+Ziemeļsala
 Ziemeļu Ledus okeāns
 Ziemeļu Marianas Salas
 Ziemeļu teritorija
@@ -3570,6 +3664,7 @@ Zēlandei
 Zēlandes
 Zēlandi
 Zēlandē
+`lsqb`#Translingual|] ] {{l|mul|{}} }
 a
 a-
 aa
@@ -3975,6 +4070,7 @@ acīmredzot
 acīs
 ada
 adangmu valoda
+adapteris
 adaptācija
 adata
 adatai
@@ -4882,7 +4978,6 @@ aizkuņģa dziedzerus
 aizkuņģa dziedzerī
 aizkļūt
 aizlasīt
-aizlauzt
 aizlidot
 aizliedz
 aizliedza
@@ -5337,6 +5432,7 @@ aizslaukt
 aizslēgt
 aizslēpt
 aizsniegt
+aizspriedien
 aizspriediena
 aizspriedienam
 aizspriedieni
@@ -5346,6 +5442,7 @@ aizspriediens
 aizspriedienu
 aizspriedienus
 aizspriedienā
+aizspriedum
 aizsprieduma
 aizspriedumam
 aizspriedumi
@@ -5520,6 +5617,7 @@ aizvērt
 aizvērties
 aizvērtnis
 aizvērts
+aizvēsturisks
 aizziņot
 aizzāģēt
 aizēst
@@ -5749,6 +5847,7 @@ akcentēšot
 akcentēšu
 akcija
 akciju sabiedrība
+akciju tirgus
 akcionārs
 akla
 aklai
@@ -5877,6 +5976,7 @@ akmeņainām
 akmeņainās
 akmeņi
 akmeņiem
+akmeņkalis
 akmeņlauztuve
 akmeņogle
 akmeņoglei
@@ -6048,6 +6148,7 @@ akveduktus
 akveduktā
 akvārijs
 akā
+akācija
 akām
 akās
 akūts
@@ -6405,6 +6506,7 @@ amizantākās
 amizantām
 amizantās
 amnestija
+amnēzija
 amonjaks
 amorfa
 amorfai
@@ -6453,6 +6555,7 @@ amorfākām
 amorfākās
 amorfām
 amorfās
+amortizators
 amorāls
 amplitūdas modulācija
 ampula
@@ -6643,6 +6746,7 @@ angļus
 anime
 animācija
 anka
+anketa
 anoreksija
 anormāla
 anormālai
@@ -7181,6 +7285,7 @@ apcepšot
 apcepšoties
 apcepšu
 apcerēt
+apciemojums
 apciemot
 apdabūt
 apdarīt
@@ -7227,6 +7332,7 @@ apendicīts
 apetīte
 apetīti
 apgabals
+apgaismes stabs
 apgaismot
 apglabāt
 apgraizīšana
@@ -7494,7 +7600,7 @@ apmācīšana
 apmānīt
 apmēram
 apmērs
-apnest ()
+apnest
 apnākt
 apogejs
 apogs
@@ -7505,6 +7611,7 @@ apostrofi
 apostrofiem
 apostrofos
 apostrofs
+apostrofs ’ '
 apostrofu
 apostrofus
 apostrofā
@@ -7766,8 +7873,10 @@ apsē
 apsēm
 apsēs
 apsēstība
+aptauja
 aptaustīt
 aptieka
+aptiekārs
 aptrūkt
 aptumsums
 apturēt
@@ -8096,6 +8205,7 @@ argāns
 argānu
 argānus
 argānā
+arhaisms
 arheologa
 arheologam
 arheologi
@@ -8595,6 +8705,7 @@ asaros
 asarot
 asars
 asaru
+asaru gāze
 asarus
 asarā
 asarām
@@ -8692,10 +8803,13 @@ asimetrija
 asinis
 asins
 asins analīzes
+asins vēzis
 asinsdesa
 asinsgrupa
 asinsgrēks
+asinsrite
 asinsrites orgānu sistēma
+asinsspiediens
 asinsvada
 asinsvadam
 asinsvadi
@@ -8788,6 +8902,7 @@ aso
 asociācija
 asos
 asprātis
+asprātība
 ass
 astaina
 astainai
@@ -9603,6 +9718,7 @@ atkārtot
 atkāsēt
 atkļūt
 atlaide
+atlaišana
 atlantijas tomkods
 atlantisks
 atlants
@@ -9636,9 +9752,9 @@ atmiņām
 atmiņās
 atmodināt
 atmosfēra
+atmosfēras spiediens
 atmosties
 atnest
-atnest ()
 atnākt
 atols
 atoma
@@ -9672,6 +9788,7 @@ atpūta mierā
 atpūtai
 atpūtas
 atpūtas krēsls
+atpūtas vieta
 atpūtnieka
 atpūtniekam
 atpūtnieki
@@ -10004,6 +10121,7 @@ attaisīts
 attapt
 atteikt
 attiecība
+attiecības
 attiecīgi
 attiecīgs
 attieksme
@@ -12232,6 +12350,7 @@ baltajās mušmirēs
 baltam
 baltas
 baltas maizes
+baltegle
 baltegles
 baltgalvas grifs
 balti
@@ -12507,6 +12626,8 @@ barībā
 barībām
 barībās
 baseins
+basketboliste
+basketbolists
 basketbols
 basks
 basku
@@ -12515,6 +12636,7 @@ basmači
 bass
 bastions
 bastot
+basģitāra
 bataljons
 baterija
 batons
@@ -12614,7 +12736,6 @@ beidz
 beidzot!
 beigas
 beigt
-beigties
 beigu
 beigām
 beigās
@@ -12691,6 +12812,7 @@ bezatbildīgs
 bezbailība
 bezbailīgs
 bezbailīgums
+bezbērnotība
 bezcerība
 bezcerīgs
 bezdarbniece
@@ -12770,6 +12892,7 @@ bezkauņa
 bezmaksas
 bezmiegs
 beznoteces
+bezpilota lidaparāts
 bezrūpība
 bezrūpībai
 bezrūpības
@@ -13211,6 +13334,7 @@ biežākās
 biežām
 biežās
 bifelis
+bifobija
 bifšteks
 bija
 biji
@@ -13409,7 +13533,9 @@ birmiešu valoda
 birojs
 birokrātija
 birokrātisks
+birokrāts
 birzs
+birztala
 birztala (poeticism)
 birža
 bise
@@ -14290,6 +14416,7 @@ broms
 bromu
 bromā
 bronza
+bronzas laikmets
 brošūra
 brunejiete
 brunejietis
@@ -14327,6 +14454,7 @@ bruņojums
 bruņotais
 bruņotie spēki
 bruņots
+bruņošanās sacensības
 bruņu
 bruņu cepure
 bruņu cepurei
@@ -14398,6 +14526,7 @@ brīdis
 brīnišķīgs
 brīnums
 brīva
+brīva programmatūra
 brīvai
 brīvais
 brīvajai
@@ -14833,6 +14962,7 @@ burvju vārdi
 burvība
 burvīgs
 burvīgums
+burāt
 burātājs
 burāšana
 buržuāzija
@@ -15019,6 +15149,7 @@ bālajās
 bālajās mušmirēs
 bālam
 bālas
+bālasinība
 bālgans
 bāli
 bālie
@@ -15293,6 +15424,7 @@ bērnam
 bērnam nāk zobi
 bērni
 bērniem
+bērnistaba
 bērnišķs
 bērnišķība
 bērnišķīgs
@@ -15326,6 +15458,7 @@ bērnā
 bērnība
 bērnībai
 bērnības
+bērnības atmiņa
 bērnību
 bērnībā
 bēro
@@ -17167,6 +17300,7 @@ cik tas maksā?
 cik vien drīz iespējams
 ciklisks
 cikliskums
+ciklons
 cikls
 cikāde
 cildens
@@ -17184,6 +17318,7 @@ ciliārķermeņos
 ciliārķermeņu
 ciliārķermeņus
 cilme
+cilmes šūna
 cilne
 cilnis
 cilpa
@@ -17466,6 +17601,7 @@ citu
 citur
 citus
 citādāk
+citāts
 citēt
 civiliste
 civilists
@@ -17478,15 +17614,18 @@ colla
 compounds:
 cukura
 cukura diabēts
-cukura vate
 cukuram
+cukurfabrika
+cukurgrauds
 cukuri
 cukuriem
 cukuros
 cukurs
 cukurslimība
+cukurtrauks
 cukuru
 cukurus
+cukurvate
 cukurā
 cunami
 cunfte
@@ -18338,6 +18477,7 @@ dančus
 daoisms
 dara
 darba
+darba devējs
 darba istaba
 darba istabai
 darba istabas
@@ -18360,6 +18500,7 @@ darba rīks
 darba rīku
 darba rīkus
 darba rīkā
+darba valoda
 darba ļaudis
 darba ļaudīm
 darba ļaudīs
@@ -18653,6 +18794,7 @@ datorpelēs
 datorpeļu
 datorprogramma
 dators
+datorspēle
 datoru
 datorus
 datorvīruss
@@ -18691,6 +18833,7 @@ daudzkājis
 daudzo
 daudzos
 daudzpunkte
+daudzpunkte …
 daudzpunktei
 daudzpunktes
 daudzpunkti
@@ -18769,6 +18912,7 @@ debesjums
 debespuse
 debess
 debess sfēra
+debess ķermenis
 debesskrāpis
 debesu
 debesī
@@ -18850,6 +18994,7 @@ definējums
 definēt
 definīcija
 defise
+defise ‐
 deg
 dega
 degam
@@ -18884,7 +19029,6 @@ degdami
 degdams
 degi
 degizraktenis
-deglis
 degot
 degoša
 degošai
@@ -18948,6 +19092,7 @@ deguna urbināšana
 degunam
 deguni
 deguniem
+degunlācītis
 degunos
 degunradzi
 degunradzim
@@ -19170,6 +19315,7 @@ delnas
 delta
 deltas
 deltu
+delīrijs
 demagoģija
 demagoģisks
 demisija
@@ -19380,6 +19526,7 @@ denge
 deniņi
 deportācija
 deportēt
+deputinizācija
 deputāts
 dermatoloģija
 derēt
@@ -19388,6 +19535,7 @@ derības
 derīgs
 desa
 desai
+desantnieks
 desas
 deserta
 desertam
@@ -19447,6 +19595,7 @@ desmits
 desot
 despotisms
 despots
+destaļinizācija
 desu
 desā
 desām
@@ -19599,6 +19748,7 @@ dienai
 dienas
 dienas kārtība
 dienas vidus
+dienasgaisma
 dienasgrāmata
 dienesta
 dienestam
@@ -19965,6 +20115,7 @@ diftongu
 diftongus
 diftongā
 digitāls
+diktatore
 diktators
 diktatūra
 diktors
@@ -20207,6 +20358,7 @@ diversants
 divi
 divi alus, lūdzu
 divi simti
+dividende
 diviem
 divkosis
 divlaulība
@@ -20251,6 +20403,7 @@ divu
 divus
 divām
 divās
+divīzija
 dizainere
 dizainers
 dizains
@@ -20429,6 +20582,7 @@ dodu
 dodžs
 dofamīns
 dogma
+dogmatisks
 doki
 dokos
 doks
@@ -20460,6 +20614,7 @@ domkrats
 domna
 domu
 domu grauds
+domuzīme —
 domā
 domādama
 domādamas
@@ -21195,6 +21350,7 @@ drošās
 drošība
 drošībai
 drošības
+drošības spilvens
 drošību
 drošībā
 drudzi
@@ -21213,6 +21369,7 @@ drumlins
 drupas
 druva
 dryžuotasis ruonis
+drāma
 drāna
 drānai
 drānas
@@ -21403,11 +21560,13 @@ drīkstēšu
 drīz
 drūms
 drūmums
+dublēšana
 dubnija
 dubnijam
 dubnijs
 dubniju
 dubnijā
+dubultzods
 dubļains
 dubļi
 dubļiem
@@ -24172,6 +24331,7 @@ dīvainībām
 dīvainībās
 dīvāns
 dīzelis
+dīzeļdzinējs
 dīķa
 dīķi
 dīķiem
@@ -24207,6 +24367,7 @@ dūzis
 dūņas
 džakuzi
 džemperis
+džezs
 džigits
 džihāda
 džihādam
@@ -24226,6 +24387,7 @@ džuanu valoda
 džudo
 džungļi
 džuta
+d̦
 e
 e-pasts
 ebrejs
@@ -24264,6 +24426,7 @@ ehidna
 ei
 eiforija
 eifēmisms
+eigēnika
 eikalipti
 eikariots
 einšteinija
@@ -24577,6 +24740,7 @@ ejām
 ejās
 ekipāža
 ekliptika
+ekocīds
 ekologa
 ekologam
 ekologi
@@ -24876,8 +25040,11 @@ ekskavators
 eksonīms
 eksosfēra
 eksotisks
+eksperimentators
 eksperiments
 eksperimentāls
+eksperimentēt
+eksperimentētājs
 eksperte
 eksperts
 ekspertsistēma
@@ -24886,6 +25053,7 @@ eksplozīvs
 eksports
 eksportu
 eksportēt
+eksportētājs
 ekspozīcija
 ekstrēmisms
 eksāmens
@@ -25094,6 +25262,7 @@ emīrus
 emīrā
 en
 enciklopēdija
+enciklopēdists
 endokrinoloģija
 endosperma
 enerģija
@@ -25332,7 +25501,7 @@ es esmu musulmanis
 es esmu precējies
 es mīlu tevi
 es nerunāju angliski
-es nerunāju latvieski
+es nerunāju latviski
 es nesaprotu
 es nezinu
 es pati
@@ -25490,6 +25659,7 @@ etnisku
 etniskus
 etniskā
 etniskā grupa
+etniskā tīrīšana
 etniskāk
 etniskāka
 etniskākai
@@ -25664,6 +25834,7 @@ eļ
 eļļa
 eļļai
 eļļas
+eļļas lampa
 eļļot
 eļļu
 eļļā
@@ -25734,6 +25905,7 @@ fakts
 faktu
 faktus
 faktā
+fakultāte
 falafels
 faleristika
 falsificējamība
@@ -25787,6 +25959,7 @@ farmaceitisks
 farmakoloģija
 farmakoloģisks
 farmakovigilance
+farmācija
 farēru
 fasāde
 fazāns
@@ -25801,6 +25974,7 @@ februāros
 februāru
 februārus
 februārī
+federalizācija
 federatīva
 federatīvai
 federatīvais
@@ -25995,6 +26169,7 @@ filtriem
 filtros
 filtrs
 filtru
+filtru burbulis
 filtrā
 filtrēt
 filtrēties
@@ -26056,6 +26231,7 @@ fizikāliem
 fizikālo
 fizikālos
 fizikāls
+fizikāls lielums
 fizikālu
 fizikālus
 fizikālā
@@ -26413,6 +26589,7 @@ fosforā
 fosilais kurināmais
 fosilija
 fotoaparāts
+fotobioloģija
 fotografē
 fotografēdama
 fotografēdamas
@@ -26684,6 +26861,7 @@ franču valodu
 franču valodā
 frančus
 frazeoloģisks
+fregate
 frekvence
 frekvencei
 frekvences
@@ -26719,6 +26897,7 @@ g
 gabals
 gada
 gadadiena
+gadagrāmata
 gadalaika
 gadalaikam
 gadalaiki
@@ -26765,6 +26944,7 @@ gailēns
 gailī
 gaisa
 gaisa balons
+gaisa kuģis
 gaisa laineris
 gaisa pasts
 gaisa spēki
@@ -27104,7 +27284,7 @@ galvassāpes
 galvenais
 galvene
 galvenā iela
-galvkāji
+galvkājis
 galvu
 galvu augšā
 galvā
@@ -27239,6 +27419,7 @@ gardākām
 gardākās
 gardām
 gardās
+gardēdība
 garenisks
 garens
 gari
@@ -27748,6 +27929,7 @@ gatavības
 gatavības apliecība
 gatavību
 gatavībā
+gauleiters
 gauma
 gaumai
 gaumas
@@ -27822,6 +28004,8 @@ gaļu
 gaļā
 gaļām
 gaļās
+gaļēdāja
+gaļēdājs
 gaņu
 geizers
 geiša
@@ -28167,6 +28351,7 @@ glāze
 glāzei
 glāzes
 glāzi
+glāzturis
 glāzē
 glāzēm
 glāzēs
@@ -28307,6 +28492,8 @@ grafs
 grafēns
 graizīt
 gramatika
+gramatiķe
+gramatiķis
 grams
 grants
 granāta
@@ -28314,6 +28501,7 @@ granāti
 granātkoks
 granātmetējs
 granāts
+granīts
 graudi
 grauds
 graudzāle
@@ -28899,6 +29087,7 @@ grāmatā
 grāmatām
 grāmatās
 grāvis
+grēcinieks
 grēda
 grēka
 grēkam
@@ -28907,6 +29096,7 @@ grēkiem
 grēkos
 grēkot
 grēks
+grēksūdze
 grēku
 grēkus
 grēkā
@@ -29827,10 +30017,10 @@ hiacinte
 hidraulika
 hidraulisks
 hidrocefālija
+hidroenerģija
 hidroloģija
 hidroloģisks
 hierarhija
-hieroglifs
 higiēna
 higrometrs
 himna
@@ -29838,6 +30028,7 @@ hindi
 hinduisms
 hinons
 hiperglikēmij
+hiperinflācija
 hipermetropija
 hipersaite
 hipijs
@@ -29854,6 +30045,7 @@ hipopotamus
 hipopotamā
 hipotalāms
 hipotēka
+hipotēze
 historical regions in Bosnia and Herzegovina
 histērija
 histērisks
@@ -30157,6 +30349,7 @@ hoteļos
 hoteļu
 hoteļus
 hrestomātija
+hrizoprāzs
 hroma
 hromam
 hromosoma
@@ -31195,6 +31388,8 @@ iekaisums
 iekarotājs
 iekarošana
 iekavas
+iekavas [[Unsupported titles
+iekliegšanās
 ieklupt
 iekost
 iekraut
@@ -31202,6 +31397,7 @@ iekrist
 iekurināt
 iekurs
 iekurt
+iekāpšanas karte
 iekāre
 iekārta
 iekārtais tilts
@@ -31556,6 +31752,7 @@ ieredzēt
 ierereģistrēt
 ierieties
 ierinda
+ierindnieks
 ierobežojošus
 ierobežots
 ieroci
@@ -31657,6 +31854,7 @@ iesarkanās
 iesarkt
 iesaucamais
 iesauka
+iesaukšana
 iesi
 iesiet
 iesim
@@ -32203,6 +32401,7 @@ iezīst
 ieēst
 ieķert
 ieņemt
+ieņēmumus
 iešana
 iešanai
 iešanas
@@ -32290,6 +32489,7 @@ igauņu valodā
 igauņus
 ik
 ikdiena
+ikdienišķs
 ikona
 ikonostass
 ikri
@@ -32495,6 +32695,7 @@ imperiālistēm
 imperiālistēs
 imports
 importēt
+importētājs
 impērija
 impērijai
 impērijas
@@ -32857,6 +33058,7 @@ informācija
 informācijai
 informācijas
 informācijas drošība
+informācijas karš
 informāciju
 informācijā
 informācijām
@@ -32865,6 +33067,7 @@ informēt
 infrastruktūra
 ingvers
 iniciēt
+injekcija
 insekta
 insektam
 insekti
@@ -33026,6 +33229,7 @@ instrumentālī
 instrumentāļa
 insulīns
 integrācija
+integrālā shēma
 intelektuāli
 inteliģence
 interesanta
@@ -33205,6 +33409,7 @@ internacionālākām
 internacionālākās
 internacionālām
 internacionālās
+interneta lappuse
 internets
 internācionala
 internāts
@@ -34297,6 +34502,7 @@ izdiskutēt
 izdomāt
 izdot
 izdoties
+izdošana
 izdrukāt
 izdvašot
 izdzert
@@ -34305,6 +34511,7 @@ izdzimt
 izdzirdēt
 izdzīt
 izdzīvot
+izdzīvošana
 izeja
 izejai
 izejas
@@ -34382,6 +34589,7 @@ izlauzt
 izlauzties
 izlidot
 izliekums
+izlietne
 izlietot
 izlocīt
 izlīdzēt
@@ -34562,6 +34770,7 @@ izsauksmes vārdus
 izsauksmes vārdā
 izsaukt ātro palīdzību
 izsaukt ātros
+izsaukties
 izsaukuma zīme
 izsauļot
 izsauļoties
@@ -35517,6 +35726,7 @@ jautājošās
 jautāju
 jautājuma
 jautājuma zīme
+jautājuma zīme !
 jautājumam
 jautājumi
 jautājumiem
@@ -35617,6 +35827,7 @@ jenkiete
 jenkijs
 jenots
 jezuīts
+jidiša
 jidišs
 jo
 jocīga
@@ -35810,6 +36021,7 @@ jostām
 jostās
 jota-
 juaņs
+jubileja
 jucis
 jukas
 jums
@@ -36734,6 +36946,7 @@ kabarē
 kabata
 kabatlakatiņš
 kabatlakats
+kabatzaglis
 kabelis
 kabeļtelevīzija
 kabinets
@@ -37027,7 +37240,7 @@ kallu
 kallām
 kalme
 kalmes
-kalmārs; paskvila
+kalmārs
 kalna
 kalnaina
 kalnainai
@@ -37149,6 +37362,7 @@ kamene
 kamera
 kamerai
 kameras
+kamermūzika
 kameru
 kamerā
 kamerām
@@ -37279,6 +37493,7 @@ kanālus
 kanālā
 kanēlis
 kapa
+kapakmens
 kapam
 kapars
 kapeika
@@ -37593,6 +37808,7 @@ karstumā
 karstus
 karstvīns
 karstā
+karstā gaisa balons
 karstāk
 karstāka
 karstākai
@@ -38042,6 +38258,7 @@ kaļam
 kaļat
 kaļu
 kaļķakmens
+kaļķi
 kaļķis
 kaņepe
 kaņepes
@@ -38104,6 +38321,7 @@ kino
 kinofilma
 kinoja
 kinokamera
+kinorežisore
 kinorežisors
 kinoteātris
 kinozvaigzne
@@ -38260,6 +38478,8 @@ klarnete
 klase
 klasei
 klases
+klasesbiedre
+klasesbiedrene
 klasesbiedrs
 klasi
 klasificēt
@@ -38319,6 +38539,8 @@ klauvēt
 klaušas
 klavesīns
 klavieres
+klavierkoncerts
+klaviermūzika
 klašu
 kleita
 klementīni
@@ -38452,6 +38674,7 @@ klepus
 klepū
 kliedziens
 kliegt
+kliente
 klients
 klija
 klijkaija
@@ -38950,6 +39173,7 @@ kolonna
 kolorādo vabole
 kolos
 kols
+kols :
 kolu
 kolumbiete
 kolumbietis
@@ -39155,6 +39379,7 @@ komētu
 komētā
 komētām
 komētās
+komža
 koncentrācijas nometne
 koncentrēt
 koncentrēties
@@ -39176,7 +39401,6 @@ konfederāciju
 konfederācijā
 konfederācijām
 konfederācijās
-konfekte
 konference
 konfesija
 konfigurācija
@@ -39273,6 +39497,7 @@ konkurss
 konkurēt
 konservatīvisms
 konservu kārba
+konsorcijs
 konstatē
 konstatēdama
 konstatēdamas
@@ -39403,6 +39628,7 @@ konsultante
 konsultants
 konsultācija
 konsulāts
+kontaktligzda
 kontaktligzdā
 kontaminācija
 kontaminēšanās
@@ -39710,6 +39936,7 @@ kosmoloģēs
 kosmoplāns
 kosmosa
 kosmosa kuģis
+kosmosa stacija
 kosmosam
 kosmoss
 kosmosu
@@ -39875,6 +40102,7 @@ kraukļu bars
 krause
 krausis
 kraut
+krauķis
 krava
 kravas automašīna
 kravāt
@@ -39901,6 +40129,7 @@ kreilībā
 kreisa
 kreisai
 kreisais
+kreisais sāns
 kreisajai
 kreisajam
 kreisajiem
@@ -39920,6 +40149,7 @@ kreiss
 kreisu
 kreisus
 kreisā
+kreisā puse
 kreisāk
 kreisāka
 kreisākai
@@ -40057,10 +40287,10 @@ kriminālpoliciju
 kriminālpolicijā
 kriminālā policija
 kriminālās policijas
-krimslis
 krimst
 kripto-
 kriptodepresija
+kriptogrāfija
 kriptona
 kriptonam
 kriptonauda
@@ -40107,6 +40337,7 @@ kristīgs
 kristīšana
 kritiens
 kritika
+kritiskā domāšana
 kritiķe
 kritiķis
 kritiķēt
@@ -40172,6 +40403,7 @@ krusttēvs
 krustu
 krustus
 krustā
+kruīza kuģis
 kruķis
 krā
 krāce
@@ -40426,6 +40658,7 @@ krūmiem
 krūmos
 krūms
 krūmu
+krūmu stāvs
 krūmus
 krūmā
 krūmājs
@@ -41217,6 +41450,7 @@ kāja
 kājai
 kājas
 kājas pirksts
+kājbumba
 kājniece
 kājnieki
 kājnieks
@@ -41498,6 +41732,7 @@ kļūšu
 kņaze
 kņaziene
 kņazs
+kūdra
 kūka
 kūkot
 kūlenis
@@ -41508,6 +41743,7 @@ kūpēt
 kūra
 kūri
 kūris
+kūrorts
 kūru
 kūrusi
 kūrusī
@@ -41589,6 +41825,7 @@ labie
 labiem
 labiemrītiem
 labiemvakariem
+labirints
 labirīti
 labivakari
 labklājība
@@ -41786,6 +42023,7 @@ laika zobs
 laikam
 laikapstākļi
 laikapstākļu prognoze
+laikapstākļu prognozēšana
 laiki
 laikiem
 laikmets
@@ -42384,6 +42622,7 @@ lauku cīrulis
 lauku-
 laukums
 laukus
+laukveida bombardēšana
 laukā
 laukšpats
 laulība
@@ -42455,6 +42694,7 @@ lazdu rieksts
 lazdā
 lazdām
 lazdās
+laĩsks
 laša
 laši
 lašiem
@@ -42492,6 +42732,7 @@ ledus skapjos
 ledus skapju
 ledus skapjus
 ledus skapī
+leduskalns
 leduslāci
 leduslācim
 leduslācis
@@ -42522,6 +42763,8 @@ leiju
 leijā
 leijām
 leijās
+leikoze
+leikēmija
 leite
 leiti
 leitiete
@@ -43038,6 +43281,7 @@ lieks
 liekt
 liekulis
 liekņa
+liekšķere
 liela
 lielai
 lielaina
@@ -43192,6 +43436,7 @@ lielpilsētā
 lielpilsētām
 lielpilsētās
 liels
+liels paldies
 lieltirgotājs
 lielu
 lieluma
@@ -43423,6 +43668,7 @@ lietus
 lietus lāse
 lietus mežs
 lietus periods
+lietusmētelis
 lietussarga
 lietussargam
 lietussargi
@@ -44437,6 +44683,7 @@ līdzautore
 līdzautors
 līdzcilvēks
 līdzdalība
+līdzdalībnieks
 līdzdarboties
 līdzeklis
 līdzens
@@ -44604,6 +44851,7 @@ lūdzu, padi sāli
 lūgt
 lūgums
 lūgšana
+lūgšanu grāmata
 lūk
 lūpa
 lūpai
@@ -44648,6 +44896,7 @@ magnijs
 magniju
 magnijā
 magnētiskais lauks
+magnētisms
 magnēts
 magone
 mags
@@ -44845,6 +45094,7 @@ maizēm
 maizēs
 maizīte
 maiņa
+maiņstrāva
 maiņus
 maižu
 majonēze
@@ -45130,8 +45380,11 @@ mamma
 mammu
 mamuts
 man
+man ir ... gadi
+man ir divdesmit gadi
 man ir jautājums
 man ir karsti
+man nav naudas
 man vajag ...
 mana
 manai
@@ -45153,6 +45406,7 @@ mandarīnu valodā
 mandarīnus
 mandarīnā
 mandele
+mandžūriešu
 manekens
 manga
 mango
@@ -45164,6 +45418,7 @@ mangānā
 mani
 mani sauc
 maniem
+manifests
 manim
 manipulācija
 manis
@@ -45284,6 +45539,7 @@ marodieris
 marokiete
 marokietis
 marokiešu
+marokānis
 marta
 martam
 marti
@@ -45293,12 +45549,14 @@ marts
 martu
 martus
 martā
+marķieris
 marķīze
 marķīzs
 maršruta taksometrs
 maršruts
 maršrutētājs
 maršs
+marža
 masa
 masalas
 masas
@@ -45445,6 +45703,7 @@ matračiem
 matračos
 matraču
 matračus
+matrica
 matrjoška
 matrozis
 mats
@@ -45678,6 +45937,7 @@ mazmazmeita
 mazmeita
 mazo
 mazo pirkstiņu
+mazohisms
 mazos
 mazos pirkstiņus
 mazpurenīte
@@ -45861,6 +46121,7 @@ maņa
 mašīna
 mašīnai
 mašīnas
+mašīnpistole
 mašīntulkošana
 mašīntulkošanai
 mašīntulkošanas
@@ -45870,6 +46131,7 @@ mašīnu
 mašīnā
 mašīnām
 mašīnās
+meandrs
 medaļa
 medicīna
 medicīnai
@@ -46724,10 +46986,10 @@ metafiziķēm
 metafiziķēs
 metafiziķī
 metafora
-metaforia
 metaforisks
 metalurgs
 metalurģija
+metalurģisks
 metam
 metamorfais iezis
 metastāze
@@ -46740,6 +47002,7 @@ meteoroloģija
 meteors
 meteoru plūsma
 meteorīts
+meteostacija
 meteņa
 meteņi
 meteņiem
@@ -47508,8 +47771,10 @@ mikrobs
 mikrofons
 mikrometrs
 mikrons
+mikroorganisms
 mikroskopisks
 mikroskops
+mikrovilnis
 mikroviļņi
 mikroviļņiem
 mikroviļņos
@@ -47594,7 +47859,6 @@ miljonāre
 miljonārs
 milna
 milti
-milti (1,2)
 miltiem
 miltos
 miltu
@@ -47624,6 +47888,7 @@ milzim
 milzis
 milzt
 milzu
+milzu airzivs
 milzum
 milzums
 milzē
@@ -47747,6 +48012,7 @@ ministrē
 ministrēm
 ministrēs
 minoritāte
+minoritātes valoda
 minot
 minu
 minēt
@@ -48639,6 +48905,7 @@ mopēds
 moratorijs
 more
 more closely Give me a pen of some sort!
+morfoloģija
 morfoloģisks
 morfēma
 morgs
@@ -48737,6 +49004,7 @@ motora
 motoram
 motori
 motoriem
+motorlaiva
 motorollers
 motoros
 motors
@@ -48810,6 +49078,8 @@ mugurkaula
 mugurkaulam
 mugurkauli
 mugurkauliem
+mugurkaulnieki
+mugurkaulnieks
 mugurkaulos
 mugurkauls
 mugurkaulu
@@ -49128,6 +49398,7 @@ mutīgās
 muzejs
 muzikalitāte
 muzikoloģija
+muzikāls
 muļķa
 muļķa desa
 muļķa desai
@@ -49623,6 +49894,7 @@ mēļās
 mēļš
 mīkla
 mīklains
+mīklas rullis
 mīksna
 mīksnai
 mīksnais
@@ -49970,6 +50242,7 @@ mīlīgākās
 mīlīgām
 mīlīgās
 mīna
+mīnmetējs
 mīnēt
 mīnētājs
 mīt
@@ -50084,6 +50357,7 @@ mūsās
 mūsējais
 mūsējs
 mūzika
+mūzikas
 mūzikas instruments
 mūzikls
 mūziķe
@@ -50475,6 +50749,7 @@ nacionālām
 nacionālās
 nacisms
 nacists
+nadomāt
 nafta
 naga stars
 nagla
@@ -59098,6 +59373,7 @@ nefotografēšanu
 nefotografēšanā
 nefotografēšot
 nefotografēšu
+nefrīts
 negadījums
 negaidīts
 negaisa
@@ -79538,6 +79814,7 @@ niķelī
 niķeļa
 niša
 no
+no A līdz Z
 no Dieva žēlastības
 no paša sākuma
 no pirmā acu uzmetiena
@@ -79841,6 +80118,7 @@ nodarīt
 nodaļa
 nodegt
 nodejot
+noderēt
 nodevēja
 nodevējs
 nodevība
@@ -79940,6 +80218,7 @@ nomeklēt
 nomens
 nomesties ceļos
 nometne
+nomierināšana
 nominalizācija
 nominatīv
 nominatīva
@@ -79973,6 +80252,7 @@ nopratināt
 nopratināšana
 nopļaut
 nopļāpāt
+nopūsties
 nopūt
 nopūta
 noraksturot
@@ -80214,6 +80494,7 @@ nospriest
 nospīdēt
 nospļaut
 nost
+nostalģija
 nostaļģija
 nostigt
 nostrādāt
@@ -80388,7 +80669,6 @@ notikumu horizontā
 notikumus
 notikumā
 notirgot
-notirit
 notirpums
 notis
 notrūkt
@@ -80482,6 +80762,7 @@ nožāvēt
 nožūt
 nr.
 nu
+nuga
 nulle
 nullei
 nulles
@@ -80689,6 +80970,7 @@ nāsīm
 nāsīs
 nātre
 nātrija
+nātrija hlorīds
 nātrijam
 nātrijs
 nātriju
@@ -80922,7 +81204,6 @@ nāšu
 nē
 nērija
 nēsāt
-nēsāt ()
 nēģeris
 nēģerēns
 nēģis
@@ -81007,6 +81288,7 @@ nīlzirgu
 nīlzirgus
 nīlzirgā
 nūdeles
+nūdisms
 nūja
 nūjiņa
 o
@@ -81121,6 +81403,7 @@ okeāns
 okeānu
 okeānus
 okeānā
+oksidētājs
 oksīds
 oktagramma
 oktobri
@@ -81145,6 +81428,7 @@ oli
 oligarhija
 oligarhisks
 oligarhs
+oligopols
 olim
 olimpiāde
 olis
@@ -81157,11 +81441,14 @@ olnīcām
 olnīcās
 olu
 olu krēms
+olu kultenis
 olu liķieris
+olvads
 olā
 olām
 olās
 olī
+olīva
 olīve
 olīveļļa
 olšūna
@@ -81169,6 +81456,7 @@ oma
 omai
 omas
 ome
+omlete
 oms
 omu
 omulība
@@ -81229,6 +81517,7 @@ ontoloģiskām
 ontoloģiskās
 opa
 opaps
+opcija
 ope
 opera
 operacionālā sistēma
@@ -81336,6 +81625,7 @@ oranžīgākās
 oranžīgām
 oranžīgās
 oratorija
+orators
 orbīta
 orbītai
 orbītas
@@ -81460,10 +81750,12 @@ ortogrāfiskām
 ortogrāfiskās
 ortoēpija
 orģija
+orķestra bedre
 orķestris
 osa
 osai
 osas
+osciloskops
 osi
 osifikācija
 osim
@@ -81873,6 +82165,7 @@ padarīt aukstu
 padegt
 padejot
 padiskutēt
+padišahs
 padomdevējs
 padome
 padomju
@@ -82385,6 +82678,7 @@ papildinātājs
 papildus
 papiroloģija
 papiross
+papiruss
 papjēmašē
 paplašinājums
 paplāksne
@@ -82436,6 +82730,7 @@ par brīvu
 par katru cenu
 par mata tiesu
 par nelaimi
+par spīti
 parabola
 parada
 paradi
@@ -82553,6 +82848,7 @@ parakstīties
 parakt
 paralakse
 paralīze
+paranoja
 paranoja šizofrēnija
 parapsiholoģija
 parast
@@ -83059,6 +83355,7 @@ paslēpšot
 paslēpšu
 paslīdēt
 pasmaidīt
+pasmiet
 pasniedzēja
 pasniegt
 paspriest
@@ -83511,6 +83808,7 @@ paturpināt
 paturēt
 patvaldnieks
 patversme
+patvēruma meklētājs
 patvērums
 patāls
 patērēt
@@ -83596,7 +83894,9 @@ pavedējs
 pavingrot
 pavisam
 pavājš
+pavāre
 pavārmāksla
+pavārnīca
 pavārs
 pavārīt
 pavēl
@@ -83831,7 +84131,6 @@ paķemmēt
 paķert
 paņaudēt
 paņemt
-paņemt pārtraukumu
 paņēmiens
 paša
 pašaizdegšanās temperatūra
@@ -84388,12 +84687,14 @@ pers
 persiete
 persietis
 persiešu
+persiešu valoda
 persika
 persiks
 persona
 persona non grata
 personai
 personas
+personas apliecība
 personisks
 personu
 personā
@@ -84578,7 +84879,7 @@ piebarot
 piebiedēt
 piebikstīt
 piebikstīšana
-piebilde ()
+piebilde
 piebilst
 piebraukt
 piebērt
@@ -84981,6 +85282,7 @@ piedurņu
 piedzemdēt
 piedzert
 piedziedāt
+piedziedātājs
 piedzimis zem laimīgas zvaigznes
 piedzimt
 piedzīt
@@ -85288,6 +85590,7 @@ piesūkt
 pietapt
 pieteikt
 pieticīgs
+pietikt
 pietrūkt
 pietura
 pieturzīme
@@ -85316,6 +85619,7 @@ piezvanīt
 piezvejot
 piezāģēt
 piezīme
+piezīmjdators
 piezīst
 pieēst
 pieķemmēt
@@ -85751,6 +86055,7 @@ pirmdienā
 pirmdienām
 pirmdienās
 pirmklasīgs
+pirmkods
 pirms
 pirmskaitlis
 pirmskara
@@ -85793,6 +86098,7 @@ placenta
 plaisa
 plakana virsma
 plakani
+plakankalne
 plakans
 plakne
 plaksta
@@ -85826,7 +86132,9 @@ planētā
 planētām
 planētās
 plastilīns
+plastiskā ķirurģija
 plastmasa
+plastmasas maisiņš
 plata
 platai
 platais
@@ -85845,7 +86153,6 @@ platajās
 platam
 platas
 plate
-platforma
 plati
 platie
 platie e
@@ -85901,6 +86208,7 @@ plaukts
 plaušas
 plaušu karsonis
 plaušu vēzis
+plazma
 plaģiāts
 plaša
 plašai
@@ -86192,6 +86500,7 @@ poliglots
 poligāmisks
 poliklīnika
 polim
+polimerāzes ķēdes reakcija
 polis
 poliska
 poliskai
@@ -86890,6 +87199,7 @@ pretinieku
 pretiniekus
 pretiniekā
 pretinieču
+pretizlūkošana
 pretlikumīgs
 pretruna
 pretrunīgs
@@ -86982,6 +87292,7 @@ priekš
 priekš-
 priekša
 priekšauts
+priekšdziedzeris
 priekšgals
 priekšlikums
 priekšmets
@@ -87060,6 +87371,7 @@ princips
 principāts
 princis
 printeris
+prioritāte
 privatizācija
 prizma
 problemas
@@ -87326,6 +87638,7 @@ projektus
 projektā
 projām
 prokurors
+proletariāta diktatūra
 proletariāts
 proletārietis
 prom
@@ -87948,6 +88261,7 @@ punkti
 punktiem
 punktos
 punkts
+punkts 
 punktu
 punktus
 punktā
@@ -88095,6 +88409,7 @@ puse
 pusei
 puses
 pusi
+pusiekava )
 puskuitalas
 puslode
 pusmetāla
@@ -88570,6 +88885,7 @@ pārdomāt
 pārdot
 pārdoties
 pārdošana
+pārdošanas automāts
 pārdziedāt
 pārdzimt
 pārdzīt
@@ -88602,7 +88918,6 @@ pārkrievošana
 pārkrist
 pārkrāsot
 pārkurināt
-pārkāpt
 pārkļūt
 pārlasīt
 pārlauzt
@@ -88629,7 +88944,6 @@ pārmērība
 pārmērīgs
 pārnakšņot
 pārnest
-pārnest ()
 pārnesta nozīme
 pārnova
 pārnākt
@@ -88637,6 +88951,7 @@ pārnēsājams
 pārnēsāt
 pārpeldēt
 pārpildīt
+pārpilnības rags
 pārplēst
 pārpoļošana
 pārprast
@@ -88653,6 +88968,7 @@ pārreģistrēt
 pārreģistrēties
 pārrunas
 pārrunāt
+pārrāvums
 pārsacīt
 pārsaldināt
 pārsauļot
@@ -88934,6 +89250,7 @@ pēcpusēs
 pēcpušu
 pēda
 pēdiņas f pl [«◌»] or [„◌”]
+pēdiņas « » „ “
 pēdējais
 pēkšņa
 pēkšņai
@@ -89547,7 +89864,9 @@ pūķu
 pūķus
 pūķī
 pūšļotājs
+q
 r
+rabarbers
 rabīniskais jūdaisms
 rabīns
 racionalitāte
@@ -89679,6 +89998,7 @@ radinieki
 radinieks
 radio
 radiolampa
+radiostacija
 radioteleskops
 radiouztvērējs
 radiovilnis
@@ -90664,6 +90984,7 @@ rauduļu
 rauduļus
 raudzēt
 raudzēšana
+raudzīt
 raudā
 raudādama
 raudādamas
@@ -91510,6 +91831,8 @@ regente
 regula
 rehabilitācija
 reibums
+reids
+reihs
 reimatoloģija
 reinkarnācija
 reiss
@@ -92019,6 +92342,7 @@ reņģu kaija
 reņģē
 reņģēm
 reņģēs
+režisore
 režisors
 režģlīnijas
 režīms
@@ -92231,6 +92555,7 @@ roka
 rokai
 rokas
 rokas augšā!
+rokas granāta
 rokas pulkstenis
 rokas soma
 rokas somai
@@ -92248,6 +92573,7 @@ rokassomu
 rokassomā
 rokassomām
 rokassomās
+rokasspiediens
 rokassprādze
 rokat
 rokmūzika
@@ -92273,6 +92599,7 @@ rokā
 rokāde
 rokām
 rokās
+romantisms
 rombs
 romiešu ceļš
 romāniste
@@ -94182,6 +94509,7 @@ saldām
 saldās
 saldējums
 saldētava
+saldūdens
 sali
 salidot
 saliedētība
@@ -94360,6 +94688,7 @@ samezglot
 samežģīt
 sami
 samiem
+samierināšanās
 samirkt
 samits
 samizdats
@@ -94379,8 +94708,9 @@ samārijā
 samērojams
 samērā
 samīlēt
+sanatorija
 sandale
-sanest ()
+sanest
 sanesums
 sankcija
 sankcijas
@@ -94648,6 +94978,7 @@ sargošā
 sargošām
 sargošās
 sargs
+sargtornis
 sargu
 sargā
 sargādama
@@ -94895,7 +95226,9 @@ sarkanumā
 sarkanus
 sarkanvīns
 sarkanā
+sarkanā armija
 sarkanā klija
+sarkanā līnija
 sarkanā mušmire
 sarkanā uzpirkstīte
 sarkanāk
@@ -95299,6 +95632,7 @@ saulesbrillēm
 saulesbrillēs
 saulesbriļļu
 saulespuķe
+saulessargs
 saulgrieži
 saulgriežu loks
 sauli
@@ -95594,6 +95928,7 @@ sašūpināt
 sašūt
 sažāvēt
 sažūt
+scepteris
 seaborgijs
 sebs
 sebu
@@ -95781,6 +96116,7 @@ seju
 sejā
 sejām
 sejās
+sekas
 sekcija
 sekla
 seklai
@@ -96179,6 +96515,7 @@ seniem
 seno
 senos
 sens
+sensācija
 sentence
 senu
 senums
@@ -96290,6 +96627,9 @@ sera
 seram
 serba
 serbam
+serbhorvātu
+serbhorvātu valoda
+serbhorvātu valodā
 serbi
 serbiem
 serbiete
@@ -96347,12 +96687,10 @@ serbiskākām
 serbiskākās
 serbiskām
 serbiskās
-serbohorvātu
 serbohorvātu valoda
 serbohorvātu valodai
 serbohorvātu valodas
 serbohorvātu valodu
-serbohorvātu valodā
 serbos
 serbs
 serbu
@@ -96772,6 +97110,7 @@ sila ķirzakās
 silam
 sildīt
 sildīt čūsku azotē
+sildītājs
 sile
 sili
 siliem
@@ -97056,6 +97395,7 @@ sinonīmus
 sinonīmā
 sinonīmām
 sinonīmās
+sintakse
 sintoisms
 sintētisks
 sintēze
@@ -97089,6 +97429,7 @@ sirdskaite
 sirdsklauves
 sirdslieta
 sirdslēkme
+sirdspuksts
 sirdzējs
 sirdē
 sirdēm
@@ -97386,6 +97727,7 @@ sizdami
 sizdams
 siāmas kaķis
 siļķe
+siļķu karalis
 sišana
 sišana garāmejot
 sišanai
@@ -98348,10 +98690,12 @@ skotus
 skotā
 skreine
 skrejritenis
+skriemelis
 skriet
 skriet amoka skrējienā
 skriešus
 skrimslis
+skrimšļzivs
 skrituļdēlis
 skrituļslidas
 skropsta
@@ -98380,6 +98724,8 @@ skrāpvīlēm
 skrāpvīlēs
 skrāpvīļu
 skrējiens
+skrējēja
+skrējējs
 skrūve
 skrūvgriezis
 skrūvgrieznis
@@ -99684,6 +100030,7 @@ slidiem
 slido
 slidos
 slidot
+slidotājs
 slidošana
 slids
 slidu
@@ -100351,6 +100698,7 @@ slēpjošām
 slēpjošās
 slēpju
 slēpot
+slēpotājs
 slēpošana
 slēps
 slēpsi
@@ -100428,10 +100776,12 @@ slēpšu
 slīdēt
 slīkt
 slīkšņa
+slīpsvītra 
 slīpēšanas loksne
 smacīgs
 smadzenes
 smadzenītes
+smadzeņu nāve
 smadzeņu skalošana
 smadzeņu stumbrs
 smaga
@@ -100745,6 +101095,7 @@ smilšainām
 smilšainās
 smilšakmens
 smilšpapīrs
+smilšu kaste
 smilšu pils
 smilšu pulkstenis
 smirdēt
@@ -100804,6 +101155,7 @@ smukām
 smukās
 smārds
 smēde (Germanism)
+smērviela
 smēķis
 smēķēt
 smēķēt aizliegts
@@ -101265,10 +101617,12 @@ somāļu
 somāļu valoda
 sonets
 sorgo
+sovetizācija
 sovhozs
 soļanka
 soļo
 soļot
+spageti
 spaini
 spainim
 spainis
@@ -101529,6 +101883,7 @@ spiediens
 spiedze
 spiedīgs
 spiegot
+spiegošana
 spiegprogrammatūra
 spiegs
 spieģeli
@@ -102850,6 +103205,7 @@ staltbriežu
 staltbriežus
 stalts
 standarta valoda
+standartnovirze
 standarts
 stara
 starai
@@ -102912,6 +103268,7 @@ starpplanētu
 starpsmadzenes
 starpspēle
 starptautiska
+starptautiska organizācija
 starptautiskai
 starptautiskais
 starptautiskais fonētiskais alfabēts
@@ -102990,6 +103347,7 @@ statistiku
 statistikā
 statistikām
 statistikās
+statistisks
 statuja
 statusa
 statusam
@@ -103013,6 +103371,7 @@ stenda šaušana
 stendere
 stepe
 stereometrija
+stereotips
 sterliņu mārciņa
 stetoskops
 stidzis
@@ -103352,6 +103711,7 @@ stiķene
 stjuarte
 stjuartese
 stjuarts
+stobrs
 stomatologa
 stomatologam
 stomatologi
@@ -104933,6 +105293,7 @@ sultanāts
 sultanātu
 sultanātus
 sultanātā
+sultān
 sultāna
 sultānam
 sultāni
@@ -105493,6 +105854,7 @@ sālošā
 sālošām
 sālošās
 sāls
+sālsezers
 sālsskābe
 sālsūdens
 sālu
@@ -106836,6 +107198,7 @@ taurenis
 tauri
 tauriem
 tauriņa
+tauriņa efekts
 tauriņam
 tauriņi
 tauriņiem
@@ -107454,8 +107817,10 @@ telerķī
 teles
 teleskops
 teletaips
+televizors
 televizors m tālrādis
 televīzija
+televīzijas kanāls
 teli
 telpaugs
 telti
@@ -107593,6 +107958,7 @@ terbiju
 terbijā
 terekija
 teritorija
+teritoriāls
 terminoloģija
 terminoloģisks
 termiņš
@@ -108821,6 +109187,7 @@ treneris
 trenēties
 trepanācija
 trests
+trevojs
 trešais
 trešdaļa
 trešdaļai
@@ -108873,6 +109240,7 @@ trijām
 trijās
 trikolors
 trikotāža
+trilleris
 trim
 trimda
 trimdinieks
@@ -109281,6 +109649,7 @@ tuksnesim
 tuksnesis
 tuksnesī
 tuksneša
+tuksneša zeme
 tuksneši
 tuksnešiem
 tuksnešos
@@ -110174,6 +110543,7 @@ tvaika lokmotīve
 tvaikam
 tvaiki
 tvaikiem
+tvaikonis
 tvaikos
 tvaiks
 tvaiku
@@ -110265,6 +110635,7 @@ tālākie
 tālākiem
 tālāko
 tālākos
+tālākpārdošana
 tālāks
 tālāku
 tālākus
@@ -110423,6 +110794,7 @@ tēvočiem
 tēvočos
 tēvoču
 tēvočus
+tēvreize
 tēvs
 tēvu
 tēvu zeme
@@ -110479,6 +110851,7 @@ tīklā
 tīkot
 tīks
 tīmekļa dienasgrāmata
+tīmekļa lappuse
 tīmekļa seminārs
 tīmekļa vietne
 tīmekļa žurnāls
@@ -110950,6 +111323,7 @@ uguns pārtraukšana
 ugunsdzēsēji
 ugunsdzēsējs
 ugunsdzēsēju komanda
+ugunsdzēsēju mašīna
 ugunsdzēsības aparāts
 ugunsgrēka
 ugunsgrēkam
@@ -110978,6 +111352,7 @@ ugunskurs
 ugunskuru
 ugunskurus
 ugunskurā
+ugunsmūris
 ugunī
 ugunīga
 ugunīgai
@@ -111987,6 +112362,8 @@ uztvere
 uztvert
 uztvērējs
 uztīrīt
+uzurpators
+uzurpācija
 uzvalka
 uzvalkam
 uzvalki
@@ -112291,6 +112668,7 @@ vainotas
 vainoti
 vainotie
 vainotiem
+vainoties
 vainoto
 vainotos
 vainots
@@ -112370,6 +112748,7 @@ vainīgākām
 vainīgākās
 vainīgām
 vainīgās
+vairogdziedzeris
 vairogs
 vairoties
 vairošanās
@@ -112710,6 +113089,7 @@ valdīju
 valdījums
 valdīt
 valdīšana
+valence
 valga
 valgai
 valgais
@@ -113002,6 +113382,7 @@ valsts
 valsts apvērsums
 valsts himna
 valsts vadītājs
+valstsvīrs
 valstu
 valstī
 valstība
@@ -113016,6 +113397,7 @@ valūtu
 valūtā
 valūtām
 valūtās
+vampums
 vampīra
 vampīri
 vampīros
@@ -113168,6 +113550,7 @@ vannu
 vannā
 vannām
 vannās
+vantūzis
 vanādija
 vanādijam
 vanādijs
@@ -113963,6 +114346,7 @@ vergiem
 vergos
 vergot
 vergs
+vergturis
 vergu
 vergus
 vergā
@@ -113977,6 +114361,7 @@ versijās
 versts
 vertikāle
 vertikāls
+vervēšana
 vesela
 veselai
 veselais
@@ -114096,6 +114481,7 @@ veseru
 veserus
 veserī
 vest
+vest sarunas
 vesta
 vestam
 veste
@@ -114308,6 +114694,7 @@ vienlīdzīgs
 vienmēr
 vienmēr lūdzu
 vienmērīgs
+viennozīmīga
 vieno
 vienodama
 vienodamas
@@ -114483,6 +114870,7 @@ vienošot
 vienošu
 vienpadsmit
 vienpadsmitais
+vienpēdiņas ‘ ’
 vienradzis
 vienreiz
 viens
@@ -114808,6 +115196,7 @@ vilnu
 vilnus
 vilnā
 vilnī
+vilnītis
 viltot
 viltots
 viltusdraugs
@@ -115200,6 +115589,7 @@ virca
 virkne
 virpa
 virpot
+virpuļdurvis
 virpuļviesulis
 virs
 virsa
@@ -115228,11 +115618,13 @@ virsotnē
 virsotnēm
 virsotnēs
 virsotņu
+virspavēlnieks
 virsraksts
 virst
 virsu
 virsum
 virsus
+virszemes mīna
 virsā
 virsām
 virsās
@@ -115250,6 +115642,7 @@ virtuvēm
 virtuvēs
 virtuālā realitāte
 virulence
+virusoloģija
 virve
 virziens
 virzienā
@@ -124619,6 +125012,8 @@ vēdekļus
 vēdera dobums
 vēderdejas
 vēderplēve
+vēderrunātāja
+vēderrunātājs
 vēders
 vēdināt
 vēdlodziņš
@@ -124681,6 +125076,8 @@ vējainākās
 vējainām
 vējainās
 vējam
+vējbakas
+vējdzirnavas
 vēji
 vējiem
 vējiņš
@@ -124714,6 +125111,7 @@ vēlie
 vēliem
 vēlies
 vēlme
+vēlmju domāšana
 vēlo
 vēlos
 vēlreiz
@@ -124798,6 +125196,7 @@ vērsis
 vērst
 vērsī
 vērt
+vērties
 vērtējums
 vērtēt
 vērtētājs
@@ -125027,6 +125426,7 @@ vēsās
 vētra
 vētrai
 vētras
+vētrasputns
 vētru
 vētrā
 vētrām
@@ -125179,6 +125579,7 @@ vīrusu
 vīrusus
 vīrusā
 vīrā
+vīstoklis
 vīt
 vītne
 vītols
@@ -125195,7 +125596,10 @@ vīķē
 vīķēm
 vīķēs
 vīļu
+w
 wikificēt
+x
+y
 z
 zadzis
 zaga
@@ -125343,6 +125747,7 @@ zagšanā
 zagšot
 zagšu
 zagšus
+zakā
 zaldāta
 zaldātam
 zaldāti
@@ -125830,6 +126235,7 @@ zemiskām
 zemiskās
 zemjains
 zemju
+zemkopība
 zemlikas
 zemliku
 zemliku mēnesi
@@ -125861,6 +126267,7 @@ zemnieku
 zemniekus
 zemniekā
 zemnieču
+zemnīca
 zemo
 zemos
 zems
@@ -126617,6 +127024,7 @@ zivju dzenītis
 zivju gārnis
 zivjērglis
 zivs
+zivs-josta
 zivī
 zivīm
 zivīs
@@ -126766,6 +127174,7 @@ zobenos
 zobens
 zobenu
 zobenus
+zobenvalis
 zobenzivs
 zobenā
 zobi
@@ -126938,6 +127347,7 @@ zoslēnus
 zoslēnā
 zoss
 zosu
+zosāda
 zosī
 zosīm
 zosīs
@@ -126976,6 +127386,8 @@ zvaigznājā
 zvaigznē
 zvaigznēm
 zvaigznēs
+zvaigznīte
+zvaigznīte *
 zvaigžņainais anīss
 zvaigžņu
 zvaigžņu karte
@@ -127943,7 +128355,8 @@ zīžamās
 zīžat
 zīžot
 zīžu
-¸
+Ç
+ç
 Ā
 Ābele
 Āboliņš
@@ -128140,6 +128553,7 @@ zīžu
 ārpusei
 ārpuses
 ārpusi
+ārpuszemes
 ārpusē
 ārs
 ārsiena
@@ -128434,6 +128848,7 @@ zīžu
 Čečenu valoda
 Čhatīsgarha
 Čikāga
+Čornobajivka
 Čukotkas
 Čukču jūra
 Čč
@@ -128965,6 +129380,7 @@ zīžu
 ērkšķogās
 ērkšķos
 ērkšķu
+ērkšķu plūme
 ērkšķus
 ērkšķī
 ērta
@@ -129217,6 +129633,12 @@ zīžu
 ēšanas traucējumi
 ēšanu
 ēšanā
+Ĝ
+ĝ
+Ğ
+ğ
+Ġ
+ġ
 Ģ
 Ģente
 Ģermānija
@@ -129561,6 +129983,7 @@ zīžu
 ģitāra
 ģitārai
 ģitāras
+ģitāriste
 ģitārists
 ģitāru
 ģitārā
@@ -129813,6 +130236,7 @@ zīžu
 īpašībās
 īra
 īram
+īres maksa
 īri
 īriem
 īriete
@@ -130801,6 +131225,7 @@ zīžu
 ķīmiskai
 ķīmiskais
 ķīmiskais elements
+ķīmiskais ierocis
 ķīmiskajai
 ķīmiskajam
 ķīmiskajiem
@@ -130980,6 +131405,7 @@ zīžu
 ļaunam
 ļaunas
 ļaunatūra
+ļaundaris
 ļauni
 ļaunie
 ļauniem
@@ -131214,6 +131640,7 @@ zīžu
 ņiprām
 ņiprās
 ņirgāties
+ņirgāšanās
 ņurkot
 ņēma
 ņēmi
@@ -131246,8 +131673,12 @@ zīžu
 ņēmām
 ņēmāt
 ņūtons
+Ŋ
+ŋ
 Ŗ
 ŗ
+Ş
+ş
 Š
 Šaaņsji
 Šaiena
@@ -131266,6 +131697,7 @@ zīžu
 Šekspīru
 Šekspīrā
 Šetlandes ponijs
+Ševcova
 Šiva
 Šlemma
 Šlemma kanāla
@@ -131478,6 +131910,7 @@ zīžu
 šaut
 šautene
 šautra
+šautuve
 šaušalains
 šaušalība
 šaušalīgs
@@ -131711,6 +132144,7 @@ zīžu
 šoziem
 šoziemu
 špikeris
+šprice
 šprits
 šrapnelis
 štābs
@@ -132008,6 +132442,7 @@ zīžu
 šķidrākās
 šķidrām
 šķidrās
+šķiedra
 šķiet
 šķietami
 šķiltavas
@@ -132102,6 +132537,7 @@ zīžu
 šķēršļu
 šķēršļus
 šķēžu
+šķīda
 šķīdums
 šķīst
 šķīsta
@@ -132242,6 +132678,8 @@ zīžu
 šūšanā
 šūšot
 šūšu
+Ţ
+ţ
 Ū
 Ūdensvīra
 Ūdensvīram
@@ -132460,6 +132898,7 @@ zīžu
 Žemaitija
 Ženēva
 Ženēvas ezers
+Žezkazghana
 Žečpospoļita
 Žešova
 Žirona
@@ -132844,6 +133283,34 @@ zīžu
 žīgurus
 žīgurā
 žūt
+ſ
+Ɠ
+Ǥ
+ǥ
+Ǧ
+ǧ
+Ǵ
+ǵ
+Ș
+ș
+Ț
+ț
+Ȩ
+ȩ
+ɠ
+ɢ
 ̀slēptuve
+ᶃ
+Ḉ
+ḉ
+Ḑ
+ḑ
+Ḡ
+ḡ
+Ḩ
+ḩ
 ◌̄
 ◌̌
+◌̧
+Ｇ
+ｇ

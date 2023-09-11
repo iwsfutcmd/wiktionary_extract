@@ -28,6 +28,7 @@
 -al
 -all
 -als
+-am
 -ana
 -ances
 -anes
@@ -179,9 +180,11 @@
 -osa
 -osi
 -ot
+-oïdeu
 -pata
 -patia
 -plegia
+-plàstia
 -plègic
 -poesi
 -poli
@@ -198,7 +201,10 @@
 -t'ho
 -tat
 -te
+-terapeuta
+-terapèutic
 -term
+-teràpia
 -tomia
 -tori
 -triu
@@ -206,6 +212,7 @@
 -tècnia
 -uc
 -uda
+-um
 -unena
 -unenes
 -unens
@@ -237,6 +244,7 @@
 -é
 -és
 -í
+-ícia
 -ís
 -íssim
 -íssima
@@ -262,6 +270,7 @@
 100è
 10è
 15è
+16 lliura)
 1962
 1O
 1a
@@ -311,6 +320,7 @@ ABC
 ACB
 ADN
 AFI
+AINE
 AMPA
 ANC
 AND
@@ -343,6 +353,7 @@ Abuja
 Abundi
 Acadèmia Valenciana de la Llengua
 Acaia
+Acarnània
 Acció de Gràcies
 Accra
 Acosta
@@ -366,8 +377,10 @@ Afganistan
 Afrodita
 Agar
 Ageu
+Aglí
 Agnès
 Agost
+Agramunt
 Agrigent
 Agustí
 Agàtocles
@@ -392,7 +405,6 @@ Albany
 Albera
 Albert
 Alberta
-Alberto
 Alboraia
 Albuixec
 Albà
@@ -410,6 +422,7 @@ Alcàntara
 Alcàsser
 Alcíone
 Alcúdia de Crespins
+Alectríon
 Aleix
 Aleixandri
 Alemanya
@@ -434,6 +447,7 @@ Alps
 Alps Marítims
 Alps de l'Alta Provença
 Alsàcia
+Alsàcia-Lorena
 Alt Camp
 Alt Empordà
 Alt Karabakh
@@ -460,6 +474,7 @@ Alts Alps
 Alts Pirineus
 Alts de França
 Altíssim
+Alvin
 Alvèrnia
 Alvèrnia-Roine-Alps
 Alzira
@@ -498,6 +513,7 @@ Andorra-Serra d'Arcs
 Andreu
 Andròmaca
 Andròmeda
+Andøya
 Anglaterra
 Angles
 Angola
@@ -510,6 +526,7 @@ Anna
 Annàs
 Anníbal
 Anoia
+Anselm
 Antananarivo
 Antic Testament
 Antiga Grècia
@@ -545,12 +562,15 @@ Aquitània
 Aragó
 Aramunt
 Aran
+Arbela
 Arca de l'Aliança
 Arcàdia
 Ardecha
+Ardeixa
 Ardenes
 Ares
 Arezzo
+Argelers
 Argentina
 Argonauta
 Argos
@@ -561,6 +581,7 @@ Arkansas
 Arkhànguelsk
 Arle
 Arles
+Arles de Tec
 Armanyac
 Armènia
 Arnau
@@ -634,6 +655,7 @@ Baix Ebre
 Baix Empordà
 Baix Llobregat
 Baix Penedès
+Baix Rin
 Baix Urgell
 Baixa Bengala
 Baixa Califòrnia
@@ -666,10 +688,12 @@ Bangkok
 Bangla Desh
 Bangladesh
 Banya d'Àfrica
+Banyoles
 Banys i Palaldà
 Baptista
 Barbados
 Barberà
+Barbie
 Barcelona
 Barcelona és bona si la bossa sona
 Barceloneta
@@ -686,6 +710,7 @@ Basilea-Camp
 Basilea-Ciutat
 Basili
 Basse-Terre
+Bataller
 Bathonià
 Batlle
 Batna
@@ -722,6 +747,7 @@ Bernabeu
 Bernabé
 Bernat
 Bertran
+Beríngia
 Besalú
 Besiers
 Bessons
@@ -739,6 +765,7 @@ Big Mec
 Bigorra
 Bihar
 Bilbao
+Bilgameix
 Birmània
 Biscaia
 Bitola
@@ -759,6 +786,7 @@ Bohèmia
 Bolonya
 Bolívia
 Bombai
+Bompàs
 Bona Pasqua
 Bonaventura
 Bonifaci
@@ -808,6 +836,7 @@ Budapest
 Buenos Aires
 Buffalo
 Bugia
+Buh Meridional
 Bulgària
 Burdigalià
 Burgos
@@ -838,6 +867,7 @@ CE
 CEI
 CF
 CNT
+COVID-19 persistent
 CUP
 CV
 Ca Major
@@ -852,7 +882,9 @@ Caifàs
 Caire
 Caixmir
 Calabuig
+Calafell
 Calais
+Calapàn
 Calcedònia
 Calcuta
 Caldea
@@ -869,6 +901,8 @@ Cam
 Cambodja
 Cambotja
 Cambridge
+Cambrils
+Cambrià
 Camerun
 Camp de Tarragona
 Camp de Túria
@@ -883,6 +917,11 @@ Canberra
 Cancun
 Candelera
 Canes
+Canet
+Canet d'Adri
+Canet d'en Berenguer
+Canet de Mar
+Canet de Rosselló
 Canigó
 Cannes
 Cantàbria
@@ -905,15 +944,18 @@ Carcassona
 Cardona
 Carena
 Carib
+Cariclea
 Carlemany
 Carles
 Carme
 Carnestoltes
+Caro
 Carolina
 Carolina del Sud
 Caront
 Carpats
 Carreu
+Carro Gran
 Carta als Efesis
 Cartagena
 Cartago
@@ -932,6 +974,7 @@ Casp
 Cassandre
 Cassi
 Cassiopea
+Castell Rosselló
 Castella
 Castella i Lleó
 Castella-la Manxa
@@ -951,6 +994,7 @@ Caucas
 Caucas del Nord
 Caucas del Sud
 Caín
+Cebrià
 Cebú
 Cecili
 Cecina
@@ -976,6 +1020,7 @@ Charente
 Charente Marítim
 Chasteurós
 Chattià
+Chennai
 Chicago
 Chitral
 Châteauroux
@@ -988,6 +1033,7 @@ Cirenaica
 Cirene
 Ciscaucàsia
 Cisjordània
+Cistella
 Ciudad Real
 Ciutadans
 Ciutadella
@@ -1060,6 +1106,7 @@ Corfú
 Corint
 Corintis
 Corn d'Or
+Corn d'Àfrica
 Corneli
 Cornualla
 Corpus
@@ -1109,7 +1156,6 @@ Càncer
 Cànoes
 Càntic dels Càntics
 Cària
-Càrites
 Cèlia
 Cèsar
 César
@@ -1164,6 +1210,7 @@ Deu Manaments
 Deucalió
 Deuteronomi
 Deux-Sèvres
+Dia De l'Emancipació
 Dia Pi
 Dia de Reis
 Dia de Sant David
@@ -1208,11 +1255,13 @@ Dracó
 Drenthe
 Drina
 Droma
+Duart
 Dubai
 Dublín
 Dubrovnik
 Dubs
 Ducat d'Atenes
+Dudu
 Duero
 Duixanbe
 Dunkerque
@@ -1250,7 +1299,9 @@ Edda
 Edessa
 Edimburg
 Edmonton
+Edu
 Eduard
+Eduarda
 Eduvigis
 Edèn
 Efes
@@ -1279,6 +1330,7 @@ Elisabet
 Elna
 Eloi
 Elx
+Elí
 Emili
 Emirats Àrabs Units
 Empar
@@ -1290,6 +1342,7 @@ Emsià
 Emília
 Emília-Romanya
 Endraper
+Endymió
 Enees
 Eneida
 Engiadina
@@ -1299,6 +1352,7 @@ Eocé
 Eos
 Epictet
 Epifania
+Epimeteu
 Epir
 Epístola
 Equador
@@ -1350,13 +1404,16 @@ Estanislau
 Estat Plurinacional de Bolívia
 Estat d'Israel
 Estat de Líbia
+Estat de la Ciutat del Vaticà
 Estats Confederats d'Amèrica
 Estats Federats de Micronèsia
 Estats Pontificis
 Estats Units
 Estats Units d'Amèrica
-Estats de l'Església
 Ester
+Esterri
+Esterri d'Àneu
+Esterri de Cardós
 Esteve
 Estix
 Estocolm
@@ -1430,6 +1487,7 @@ Ferran
 Ferrer
 Ferreries
 Fes
+Festival dels Fanalets
 Fets
 Fets dels Apòstols
 Fier
@@ -1480,7 +1538,9 @@ Frankfurt del Main
 França
 Frasnià
 Frederic
+Frejús
 Friburg
+Friburg de Brisgòvia
 Friül
 Friül-Venècia Júlia
 Fructuós
@@ -1494,13 +1554,17 @@ Fènix
 Fígols
 Fórmula
 G
+GICC
 GP
 GR
 Gabon
 Gabriel
 Gagaúsia
 Gai
+Gaietà
 Gal
+Galderic
+Galdric
 Galilea
 Galileu
 Gal·les
@@ -1575,7 +1639,9 @@ Gorstià
 Goy
 Gran Barrera de Corall
 Gran Bretanya
+Gran Canyó
 Gran Canària
+Gran Ducat de Lituània
 Gran Ducat de Luxemburg
 Gran Est
 Gran Llac Salat
@@ -1584,6 +1650,7 @@ Gran Muralla Xinesa
 Gran Polònia
 Gran Poma
 Gran Premi
+Gran Satán
 Gran Successor
 Granada
 Granollers
@@ -1615,6 +1682,7 @@ Guerra freda
 Guiana
 Guiena
 Guifré
+Guilgal
 Guilgameix
 Guillem
 Guinea
@@ -1622,6 +1690,7 @@ Guinea Bissau
 Guinea Equatorial
 Guineueta
 Guipúscoa
+Guissona
 Guiu
 Gujarat
 Gurp
@@ -1711,7 +1780,9 @@ Hèrcules
 Híades
 I
 ICBM
+IDH
 IEC
+IED
 IES
 IG
 ITV
@@ -1746,18 +1817,22 @@ Illes Jòniques
 Illes Salomó
 Illes Salvatges
 Illes Verges Americanes
+Illes Verges dels Estats Units
 Il·lustració
 Il·líria
 Imperi Alemany
 Imperi Bizantí
 Imperi Centreafricà
+Imperi Part
 Imperi Rus
+Imperi hun
 Imperi otomà
 Imperi romà
 Inca
 Indianapolis
 Indianàpolis
 Indonèsia
+Indoxina
 Indre
 Indre i Loira
 Indus
@@ -1791,6 +1866,7 @@ Itàlia
 Iugoslàvia
 Ivalo
 Ivan
+Ivet
 Ivànovitx
 Ixíon
 J
@@ -1814,6 +1890,7 @@ Jaén
 Jehovà
 Jeremies
 Jericó
+Jeroboam
 Jeroni
 Jersey
 Jerusalem
@@ -1854,6 +1931,7 @@ Juli
 Julieta
 Julià
 Juno
+Junts
 Junyent
 Jura
 Juràssic
@@ -1905,6 +1983,7 @@ Kuwait
 Kyoto
 Kíev
 Kíiv
+Kíïv
 L
 L'H
 L'Havana
@@ -1921,6 +2000,7 @@ La Meca
 La Rioja
 La Serrania de Xelva
 La Torre de les Maçanes
+La Valenciana
 La Valletta
 La Ventafocs
 Laci
@@ -1978,6 +2058,7 @@ Llac Leman
 Llac Tanganyika
 Llac Vänern
 Llac de Ginebra
+Lladorre
 Llagostera
 Llaguna
 Llatinoamèrica
@@ -1999,6 +2080,7 @@ Lliser
 Llisé
 Llobregat
 Llombardia
+Llorach
 Llorenç
 Lloret
 Lluc
@@ -2006,6 +2088,7 @@ Llucifer
 Llucià
 Llull
 Lluna
+Llupià
 Lluís
 Lluïsa
 Llàtzer
@@ -2040,6 +2123,7 @@ Lutecià
 Luter
 Luxemburg
 Luzon
+Lviv
 L·L
 Làrissa
 Lèpid
@@ -2057,6 +2141,7 @@ Macedònia
 Macedònia del Nord
 Macip
 Macià
+Macrobi
 Madagascar
 Madeira
 Madrid
@@ -2082,7 +2167,9 @@ Man
 Mancomunidad de Australia
 Mancomunitat
 Mancomunitat de Nacions
+Mandat de Cel
 Manel
+Manila
 Manitoba
 Manresa
 Manuel
@@ -2106,7 +2193,6 @@ Marcel
 Mardoqueu
 Mare Naturalesa
 Mare Rússia
-Mare de Deu
 Mare de Déu
 Mare de Déu de la Pietat
 Mare de Déu dels Dolors
@@ -2117,6 +2203,7 @@ Maria
 Maria Magdalena
 Marian
 Mariana
+Marina Reial
 Mariona
 Marià
 Mariúpol
@@ -2167,6 +2254,7 @@ Menci
 Menera
 Menorca
 Mequines
+Mercader
 Mercuri
 Mercè
 Meri
@@ -2177,6 +2265,7 @@ Messies
 Messinià
 Messènia
 Metel
+Metge
 Meurthe i Mosel·la
 Miami
 Micolau
@@ -2186,6 +2275,9 @@ Migdia-Pirineus
 Mila
 Milet
 Milà
+Minas Gerais
+Mindoro Occidental
+Mindoro Oriental
 Miocè
 Miocé
 Miquees
@@ -2206,6 +2298,7 @@ Moisès
 Moià
 Moldàvia
 Molina
+Molí de Vent
 Momo
 Momos
 Mon
@@ -2238,6 +2331,7 @@ Montsó
 Mordòvia
 Morella
 Morellàs i les Illes
+Moreneta
 Morera
 Morfeu
 Morgana
@@ -2247,6 +2341,7 @@ Moscou
 Mosel·la
 Mossos
 Mossos d'Esquadra
+Moviment dels països no alineats
 Moçambic
 Muggle
 Munic
@@ -2289,6 +2384,7 @@ Napoleó
 Narbona
 Narcís
 Narnia
+Narva
 Nativitat
 Natzaret
 Natàlia
@@ -2362,6 +2458,7 @@ Nèguev
 Nèmesi
 Níger
 Nínive
+Núbia
 Núria
 O
 OK
@@ -2388,6 +2485,7 @@ Odisseu
 Odó
 Oest Mitjà
 Ohio
+Oix
 Olau
 Oleniokià
 Oleró
@@ -2482,6 +2580,8 @@ Papa
 Papua Nova Guinea
 Papuàsia
 Paraguai
+Paranà
+Paraná
 Pare Nadal
 Pare Noel
 Pare Temps
@@ -2530,6 +2630,7 @@ Pentecostes
 Pentàgon
 Península Antàrtica
 Península Ibèrica
+Península Itàlica
 Península de Corea
 Península de Yucatán
 Peníscola
@@ -2551,6 +2652,7 @@ Perú
 Petita Polònia
 Petites Antilles
 Petrarca
+Petrograd
 Peus grans
 Piacenzià
 Picardia
@@ -2608,6 +2710,7 @@ Pontellà
 Pontevedra
 Pontos
 Ponç
+Porfiri
 Pornocràcia
 Port de Sóller
 Port-of-Spain
@@ -2622,6 +2725,7 @@ Praguià
 Prat
 Prats de Molló i la Presta
 Prealps
+Precambrià
 Presidència de Bengala
 Pretòria
 Priabonià
@@ -2633,10 +2737,14 @@ Procle
 Procopi
 Projecte Genoma Humà
 Prometeu
+Prosèrpina
 Proteu
+Protàgores
 Provença
 Provença-Alps-Costa Blava
 Proverbis
+Província de Kíev
+Província de Kíiv
 Prudenci
 Prudencià
 Prudència
@@ -2649,6 +2757,7 @@ Ptolemeu
 Ptolomeu
 Publi
 Puebla
+Puerto Galera
 Puerto Rico
 Puig
 Puigbalador
@@ -2683,6 +2792,7 @@ Quatre Genets de l'Apocalipsi
 Quebec
 Queralbs
 Queralt
+Quezon City
 Quidditch
 Quilla
 Quiló
@@ -2693,6 +2803,7 @@ Quirze
 Quitèria
 R
 R+D
+RAE
 RCD
 RDA
 REP
@@ -2701,7 +2812,6 @@ RNAnc
 RPX
 RSS d'Ucraïna
 RSSU
-RTXN
 RU
 Racó d'Ademús
 Rafael
@@ -2718,6 +2828,9 @@ Ravenna
 Raül
 Real
 Reginald
+Regió Autònoma de Príncipe
+Regió Autònoma de les Açores
+Regió Autònoma del Tibet
 Regió d'Olomouc
 Regió de Davao
 Regne Haiximita de Jordània
@@ -2733,8 +2846,11 @@ Regne d'Itàlia
 Regne de Bèlgica
 Regne de Cambodja
 Regne de Dinamarca
+Regne de Dinamarca e Noruega
 Regne de Déu
 Regne de Noruega
+Regne de Nàpols
+Regne de Sicília Peninsular
 Regne de Suècia
 Regne de Tailàndia
 Regne de l'Aràbia Saudita
@@ -2779,7 +2895,6 @@ República Socialista Federada Soviètica de Rússia
 República Socialista Soviètica d'Ucraïna
 República Socialista Soviètica de Geòrgia
 República Socialista del Vietnam
-República Turca de Xipre del Nord
 República Txeca
 República d'Armènia
 República d'Artsakh
@@ -2824,8 +2939,8 @@ República del Congo
 República del Sudan del Sud
 República libanesa
 República Àrab Siriana
+República Àrab Unida
 República Àrab d'Egipte
-Requena-Utiel
 Requesens
 Reunió
 Reus
@@ -2833,6 +2948,7 @@ Revolució Industrial
 Rhuddanià
 Riad
 Ribagorça
+Ricafort
 Ricard
 Ricosind
 Riera
@@ -2845,8 +2961,10 @@ Rivera
 Roadià
 Robert
 Roberta
+Roboam
 Roc
 Rocabertí
+Rocafort
 Rodes
 Rodolf
 Rodolfa
@@ -2869,6 +2987,7 @@ Roses
 Rosselló
 Rothschild
 Rovira
+Royal Navy
 Ruanda
 Rubicó
 Rubèn
@@ -2891,6 +3010,7 @@ Saarland
 Sabadell
 Sabater
 Sacre Imperi Romanogermànic
+Sacre Imperi Romà
 Sacre Imperi romanogermànic
 Safor
 Sagitari
@@ -2931,7 +3051,10 @@ San José
 San Marino
 Sant
 Sant Antoni de Portmany
+Sant Galdric
+Sant Gauderic
 Sant Greal
+Sant Hipòlit
 Sant Hipòlit de Voltregà
 Sant Jaume de Galícia
 Sant Joan d'Alacant
@@ -2940,10 +3063,12 @@ Sant Joan de Pladecorts
 Sant Jordi
 Sant Josep de sa Talaia
 Sant Llorenç de Cerdans
+Sant Llorenç de la Salanca
 Sant Lluís
 Sant Martí
 Sant Miquel
 Sant Nicolau
+Sant Pere de Ribes
 Sant Petersburg
 Sant Prepuci
 Sant Sebastià
@@ -2954,6 +3079,7 @@ Santa Cena
 Santa Claus
 Santa Cruz de Tenerife
 Santa Eulària des Riu
+Santa Llúcia
 Santa Maria
 Santa Seu
 Santander
@@ -2975,7 +3101,6 @@ Sardenya
 Sarrià
 Sarroca
 Saskatchewan
-Satan
 Satanàs
 Saturn
 Savoia
@@ -3006,6 +3131,7 @@ Septimània
 Septuaginta
 Sergi
 Sermó de la Muntanya
+Serpent
 Serpentari
 Serpis
 Serpukhovià
@@ -3147,10 +3273,12 @@ Tbilisi
 Tebes
 Tec
 Teetet
+Teheran
 Tejo
 Tel Aviv
 Telychià
 Teló d'Acer
+Tenerife
 Teodor
 Teodoric
 Teodosi
@@ -3163,6 +3291,7 @@ Terra
 Terra Adèlia
 Terra del Foc
 Terra del Sol Naixent
+Terra del xe
 Terranova
 Terranova i Labrador
 Terranovià
@@ -3179,7 +3308,9 @@ Tessalònica
 Tessàlia
 Testimonis de Jehovà
 Tesà
+Tet
 Tetis
+Tetuan
 Texas
 Thanetià
 Thule
@@ -3241,6 +3372,7 @@ Tremp
 Trentino-Tirol del Sud
 Trento
 Tribunal Internacional de Justícia
+Tribunal Suprem
 Trinitat
 Trinitat i Tobago
 Tritó
@@ -3250,6 +3382,7 @@ Tromsø
 Tràcia
 Trèveris
 Trípoli
+Tsarat de Polònia
 Tunis
 Tunísia
 Turgòvia
@@ -3265,6 +3398,7 @@ Txangsingià
 Txeboksari
 Txecoslovàquia
 Txell
+Txennai
 Txerníhiv
 Txernòbil
 Txetxènia
@@ -3281,6 +3415,7 @@ Tàrraco
 Tàrtar
 Tíber
 Tívoli
+Tòfol
 Tòquio
 Túria
 U
@@ -3297,6 +3432,7 @@ URSS
 Ucraïna
 Udine
 Udmúrtia
+Ufà
 Uganda
 Uiguristan
 Ulisses
@@ -3304,7 +3440,6 @@ Ulric
 Ulurú
 Unicode
 Unió Europea
-Unió Internacional de Telecomunicacions
 Unió Soviètica
 Unió de Repúbliques Socialistes Soviètiques
 Ural
@@ -3344,6 +3479,8 @@ Vallès Oriental
 Valois
 Valàquia
 València
+València d'Àneu
+València la Vella
 Valònia
 Vanessa
 Varese
@@ -3390,9 +3527,12 @@ Vigo
 Vila
 Vila-real
 Vilafranca
+Vilafranca del Penedès
 Vilaller
+Vilallonga de la Salanca
 Vilamarxant
 Vilanova
+Vilanova i la Geltrú
 Vilapuig
 Villena
 Vilà
@@ -3439,16 +3579,19 @@ Xantipa
 Xaranta
 Xaranta Marítima
 Xarenta
+Xauen
 Xaume
 Xauxa
 Xavi
 Xavier
 Xerxes
+Xevi
 Xile
 Xina
 Xina continental
 Xipre
 Xipre del Nord
+Xirvan
 Xiva
 Xixona
 Xàbia
@@ -3480,17 +3623,15 @@ Zuric
 Zàmbia
 a
 a alta hora
-a armes!
+a armes
 a baix
 a balquena
 a banda i banda
 a bastament
 a bastança
 a betzef
-a bona gana
+a boca de canó
 a bona gana, és inútil la salsa
-a cabassos
-a cal sabater
 a cal sabater, sabates de paper
 a canvi
 a canvi de
@@ -3505,6 +3646,7 @@ a cegues
 a cent anys, coteta verda
 a claps
 a collibè
+a compte de
 a corre-cuita
 a correcuita
 a curt termini
@@ -3521,18 +3663,19 @@ a dretcient
 a empentes
 a empentes i a rodolons
 a empentes i rodolons
-a escar
-a escarada
 a estiracabells
 a favor de
 a fer la mà
 a forfet
+a força de
+a frec de roba
 a gavadals
 a genollons
 a gran escala
 a granel
 a grapats
 a guisa de
+a gust
 a hora baixa
 a hora foscant
 a l'abric de
@@ -3541,6 +3684,7 @@ a l'aguait
 a l'aire lliure
 a l'aranya estiracabells
 a l'atzar
+a l'encalç
 a l'engròs
 a l'entorn
 a l'entorn de
@@ -3548,11 +3692,13 @@ a l'estranger
 a l'hora
 a l'inrevés
 a l'interior
+a l'uf
 a l'uníson
 a la babalà
 a la cima
 a la deriva
 a la fi
+a la força
 a la intempèrie
 a la lletra
 a la llunyania
@@ -3564,6 +3710,7 @@ a la punta de la llengua
 a la quinta forca
 a la regalada
 a la romana
+a la saga
 a la serena
 a la taula i al llit
 a la taula i al llit, al primer crit
@@ -3571,7 +3718,7 @@ a la una en punt
 a la vegada
 a la vista
 a la vora
-a les armes!
+a les armes
 a les calendes gregues
 a les fosques
 a les palpentes
@@ -3579,11 +3726,11 @@ a les petites
 a les portes de la mort
 a llarg termini
 a l’aguait
-a manats
 a manera de
 a menys que
 a mercè de
 a mesura que
+a mida (locution)
 a mig camí
 a mort
 a munts
@@ -3609,6 +3756,7 @@ a porta oberta
 a porta tancada
 a posta
 a preu fet
+a primera vista
 a prop
 a propòsit
 a prova de bales
@@ -3637,6 +3785,7 @@ a terra que vas, usança que trobes
 a tort i a dret
 a tot arreu
 a tot estirar
+a tot preu
 a tota llet
 a tota merda
 a tota tesa
@@ -4075,6 +4224,8 @@ abeller
 abellera
 abelleres
 abellerol
+abellerol maragda
+abellerol verd
 abellerola
 abellers
 abelles
@@ -4132,6 +4283,7 @@ abeurés
 abeuréssim
 abeuréssiu
 abeurí
+abinomn
 abintestat
 abiogènesi
 abiològic
@@ -5113,6 +5265,7 @@ acadiana
 acadià
 acadèmia
 acadèmic
+acadèmic corresponent
 acadèmica
 acadèmicament
 acadèmics
@@ -5172,6 +5325,9 @@ acantúrid
 acapara
 acaparada
 acaparades
+acaparador
+acaparadora
+acaparament
 acaparant
 acaparar
 acapararan
@@ -5417,6 +5573,7 @@ acateu
 acati
 acatin
 acatis
+acatist
 acato
 acatà
 acatàrem
@@ -5525,8 +5682,6 @@ accent
 accent agut
 accent greu
 accent musical
-accent obert
-accent tancat
 accents
 accents aguts
 accents greus
@@ -5788,6 +5943,8 @@ acidifiquéssiu
 acidifiquí
 acidimetria
 acidosi
+acidulació
+acidulant
 acidular
 acidímetre
 acidímetres
@@ -5896,6 +6053,7 @@ aclareixo
 aclaria
 aclarida
 aclarides
+aclaridor
 aclarien
 aclaries
 aclarim
@@ -5975,6 +6133,7 @@ acluqués
 acluquéssim
 acluquéssiu
 acluquí
+acme
 acne
 acobla
 acoblada
@@ -6455,6 +6614,7 @@ acorria
 acorrien
 acorries
 acorrin
+acorriolar
 acorris
 acorro
 acorríem
@@ -6586,6 +6746,9 @@ acotin
 acotis
 acoto
 acotxador
+acotxadora
+acotxadores
+acotxadors
 acotxaneta
 acotxar
 acotà
@@ -6659,7 +6822,6 @@ acromegàlia
 acromi
 acromàtic
 acronímia
-acréixer
 acrílic
 acròbata
 acròbates
@@ -6729,6 +6891,7 @@ activista
 activistes
 activitat
 activitats
+activitats de la vida diària
 activo
 activà
 activàrem
@@ -7023,6 +7186,7 @@ acètiques
 ací
 ací1
 acíclic
+acídul
 acò
 acòlit
 acòlita
@@ -7153,6 +7317,7 @@ adduïu
 adeia
 adeien
 adeies
+adelerat
 adeliciada
 adeliciades
 adeliciat
@@ -7552,6 +7717,7 @@ admiraré
 admiraríem
 admiraríeu
 admirat
+admiratiu
 admirats
 admirava
 admiraven
@@ -7789,6 +7955,9 @@ adoració
 adorada
 adorades
 adorador
+adoradora
+adoradores
+adoradors
 adorant
 adorar
 adoraran
@@ -7805,6 +7974,7 @@ adoraré
 adoraríem
 adoraríeu
 adorat
+adoratori
 adorats
 adorava
 adoraven
@@ -8037,6 +8207,7 @@ adreta
 adretes
 adreça
 adreça IP
+adreça MAC
 adreça d'interès
 adreça electrònica
 adreçada
@@ -8327,10 +8498,8 @@ aerobiologia
 aerobiosi
 aerobis
 aerobús
-aerocist
 aeroclub
 aerodina
-aerodinàmi
 aerodinàmic
 aerodinàmica
 aerodinàmics
@@ -8355,7 +8524,6 @@ aeronàutic
 aeronàutica
 aeronàutics
 aeronàutiques
-aeroplà
 aeroport
 aeroports
 aeroportuari
@@ -8367,6 +8535,7 @@ aerosol
 aerostàtica
 aerotrèn
 aerífer
+aerífera
 aeríferes
 aerífers
 aeròbic
@@ -8821,7 +8990,6 @@ aferrament
 aferrant
 aferrapedres
 aferrar
-aferrar-se
 aferraran
 aferrarem
 aferraren
@@ -9119,7 +9287,6 @@ afirmativa
 afirmativament
 afirmatives
 afirmats
-afirmatysta
 afirmava
 afirmaven
 afirmaves
@@ -9232,7 +9399,6 @@ afloréssiu
 aflorí
 afluent
 afluents
-afluir
 afluixar
 afluixar la corda
 afluixar-se
@@ -9362,6 +9528,11 @@ afuselléssiu
 afusellí
 afàsia
 afàsic
+afèmia
+afèmic
+afèmica
+afèmics
+afèmiques
 afèresi
 afí
 afídid
@@ -9487,6 +9658,8 @@ agencessin
 agencessis
 agenceu
 agenci
+agenciar
+agencier
 agencin
 agencis
 agencés
@@ -9543,6 +9716,7 @@ agent
 agent de compres
 agent de policia
 agent doble
+agent rovellant
 agent secret
 agent taronja
 agents
@@ -9672,6 +9846,7 @@ agití
 aglans
 aglevar
 aglomera
+aglomeració
 aglomerada
 aglomerades
 aglomerant
@@ -9901,6 +10076,7 @@ agrament
 agrams
 agrari
 agraris
+agrarisme
 agrassenc
 agrassons
 agrassos
@@ -10021,6 +10197,7 @@ agregàreu
 agregàvem
 agregàveu
 agrella
+agrella borda
 agrelleta
 agrenc
 agrer
@@ -10036,6 +10213,7 @@ agressives
 agressivitat
 agressivitats
 agressió
+agressió sexual
 agressor
 agressors
 agrest
@@ -10063,6 +10241,9 @@ agroalimentàries
 agroflació
 agronomia
 agronòmic
+agronòmica
+agronòmics
+agronòmiques
 agroquímica
 agror
 agrumar
@@ -10120,11 +10301,16 @@ agràs
 agrícola
 agrícoles
 agrònom
+agrònoma
+agrònomes
+agrònoms
 agró
+agró blanc
 agrós
 agua
 aguada
 aguades
+aguait
 aguaita
 aguaitada
 aguaitades
@@ -10240,7 +10426,6 @@ agudell
 agudes
 agudesa
 agudeses
-aguditzar
 aguilenc
 aguilenca
 aguilencs
@@ -10328,8 +10513,14 @@ agàl·loc
 agàmic
 agència
 agència d'intel·ligència
+agència de notícies
+agència de publicitat
+agència de transports
+agència de viatges
+agència immobiliària
 agència tributària
 agències
+agèrat
 agèusia
 agònic
 agònica
@@ -10429,6 +10620,7 @@ aiguabarrejar-se
 aiguacuit
 aiguader
 aiguafort
+aiguaforts
 aigual
 aigualir
 aiguamans
@@ -10639,6 +10831,7 @@ aixà
 així
 així així
 així com
+així doncs
 així i així
 així que
 així és la vida
@@ -10942,6 +11135,7 @@ al descobert
 al dessota
 al detall
 al dia
+al gairó
 al llarg
 al llarg de
 al lluny
@@ -11255,6 +11449,8 @@ alcadié
 alcaduf
 alcalaner
 alcalaí
+alcaldable
+alcaldables
 alcaldada
 alcalde
 alcaldes
@@ -11521,9 +11717,11 @@ alenteixo
 alentia
 alentida
 alentides
+alentidor
 alentien
 alenties
 alentim
+alentiment
 alentint
 alentir
 alentiran
@@ -11627,6 +11825,7 @@ aletegés
 aletegéssim
 aletegéssiu
 aletegí
+aleteig
 aleteja
 aletejada
 aletejades
@@ -11735,6 +11934,7 @@ alfanumèric
 alfanumèrica
 alfanumèrics
 alfanumèriques
+alfarda
 alfes
 alficossera
 alficossos
@@ -11766,9 +11966,11 @@ algebristes
 algerianes
 algerians
 algerià
+algerí
 algidesa
 algo
 algonquí
+algorfa
 algorisme
 algorismes
 algoritme
@@ -11832,8 +12034,6 @@ aliaves
 alicates
 alicates d'ungles
 alicates universals
-alicorn
-alicàcabi
 aliem
 alien
 aliena
@@ -12013,6 +12213,7 @@ aljub
 aljubs
 all
 all bord
+all d'os
 all de bruixa
 allarga
 allargada
@@ -12065,6 +12266,9 @@ allau
 allaus
 allavonses
 allejar
+allend
+allens
+allent
 alleta
 alletada
 alletades
@@ -12467,6 +12671,7 @@ allotjàreu
 allotjàvem
 allotjàveu
 alls
+alls d'os
 allunatge
 allunya
 allunyada
@@ -12513,6 +12718,7 @@ allunyéssim
 allunyéssiu
 allunyí
 allà
+allèn
 allí
 allò
 alma mater
@@ -12611,6 +12817,7 @@ alt engiadinès
 alt relleu
 alt sòrab
 alta
+alta costura
 alta cuina
 alta definició
 alta traïció
@@ -12648,7 +12855,6 @@ alterats
 alterava
 alteraven
 alteraves
-altercació
 altercat
 altercats
 alterem
@@ -12732,6 +12938,7 @@ altimètric
 altiplans
 altiplà
 altiplà de gel
+altiplà del Tibet
 altitud
 altituds
 altiu
@@ -12748,6 +12955,7 @@ altrament
 altrament dit
 altre
 altres
+altressí
 altri
 altro
 altros
@@ -12791,6 +12999,7 @@ alvocaters
 alvocats
 alvèol
 alvèol pulmonar
+alví
 alzina
 alzina glanera
 alzina surera
@@ -12876,6 +13085,7 @@ al·lergologia
 al·lergògena
 al·lergògenes
 al·lergòleg
+al·liaci
 al·licient
 al·licients
 al·ligàtor
@@ -13034,6 +13244,7 @@ amagadament
 amagades
 amagant
 amagar
+amagar-se
 amagaran
 amagarem
 amagaren
@@ -13333,8 +13544,6 @@ amaríeu
 amassar
 amat
 amatent
-amatenta
-amatentes
 amatents
 amateur
 amatori
@@ -13360,8 +13569,8 @@ amb el lliri a la mà
 amb entusiasme
 amb escreix
 amb l'ai al cor
-amb molt
 amb molt de gust
+amb paciència i una canya
 amb penes i treballs
 amb por
 amb prou feines
@@ -13374,6 +13583,8 @@ amb tots els respectes
 ambaixada
 ambaixades
 ambaixador
+ambaixadora
+ambaixadores
 ambaixadors
 ambaixadriu
 ambdues
@@ -13671,6 +13882,7 @@ ametller
 ametller índic
 ametllers
 ametlles
+ametropia
 ameu
 amfetamina
 amfibi
@@ -13810,6 +14022,7 @@ amoniacal
 amoníac
 amor
 amor cortès
+amor no correspost
 amor platònic
 amoral
 amoralitat
@@ -13997,7 +14210,6 @@ ampostines
 ampostins
 ampostí
 amprar
-ampul·la
 amputa
 amputacions
 amputació
@@ -14079,16 +14291,22 @@ anacolut
 anacoluts
 anaconda
 anacondes
+anacoreta
 anacronisme
 anacronismes
 anacrusi
 anacrusis
+anacrònic
+anacrònica
+anacrònics
+anacròniques
 anacúsia
 anada
 anada i tornada
 anades
 anades i tornades
 anadiplosi
+anadura
 anaerobi
 anaerobiosi
 anaerobis
@@ -14369,6 +14587,7 @@ anell de prometatge
 anell del Pescador
 anell episcopal
 anella
+anellar
 anelles
 anells
 anem
@@ -14379,6 +14598,8 @@ anemoscopi
 anemoscopis
 anemòmetre
 anemòmetres
+anepigràfic
+anepígraf
 anerotisme
 anessin
 anessis
@@ -14568,6 +14789,7 @@ angolesos
 angolès
 angolés
 angora
+angorfa
 angost
 anguila
 anguila cabot
@@ -14596,6 +14818,7 @@ angúnies
 anhedonisme
 anhel
 anhela
+anhelació
 anhelada
 anhelades
 anhelant
@@ -14776,6 +14999,11 @@ anisat
 anisat blanc
 aniset
 anisogàmia
+anisotropia
+anisòtrop
+anisòtropa
+anisòtropes
+anisòtrops
 anit
 anit passada
 anivella
@@ -14824,6 +15052,7 @@ aniversari
 aniversari de noces
 aniversaris
 anió
+ankh
 annals
 annato
 annex
@@ -14980,6 +15209,7 @@ anorèctic
 anorèctica
 anorèxia
 anorèxia nerviosa
+anosognòsia
 anota
 anotacions
 anotació
@@ -15033,6 +15263,9 @@ anques
 anquilosar
 anquilosi
 ans
+ansa
+ansar
+ansat
 ansiar
 ansiar (valencià)
 ansiejar
@@ -15126,6 +15359,13 @@ antesala
 antesales
 antesi
 anti-
+anti-dretana
+anti-dretà
+antiacademicisme
+antiacadèmic
+antiacadèmica
+antiacadèmics
+antiacadèmiques
 antiadherent
 antiaeri
 antiaeris
@@ -15216,9 +15456,11 @@ anticlinal
 anticlí
 anticlímax
 anticoagulant
+anticolinèrgic
 anticoncepcional
 anticoncepcionals
 anticonceptiu
+anticongelant
 anticonstitucional
 anticonstitucionalment
 anticonstitucionals
@@ -15233,7 +15475,6 @@ antidemocràtic
 antidemocràtica
 antidepressiu
 antidisturbis
-antidretà
 antiemètic
 antiespanyol
 antiespanyola
@@ -15273,6 +15514,7 @@ antihistamínic
 antihèlix
 antiimmigració
 antiinflamatori
+antiinflamatori no esteroidal
 antiinflamatoris
 antiinflamatòria
 antiinflamatòries
@@ -15323,6 +15565,7 @@ antisemita
 antisemites
 antisemitisme
 antisemític
+antiserum
 antisocial
 antisèptic
 antitabac
@@ -15381,6 +15624,9 @@ antropomorfisme
 antropomorfismes
 antropomètric
 antropomòrfic
+antropomòrfica
+antropomòrfics
+antropomòrfiques
 antroposofia
 antropotopònim
 antropòfob
@@ -15505,6 +15751,7 @@ any de vida ajustat per qualitat
 any empeny
 any llum
 any nou
+any rere any
 any sabàtic
 anyal
 anyalment
@@ -15572,6 +15819,7 @@ anòmalament
 anòmales
 anòmals
 anòmer
+anòmia
 anònim
 anònima
 anònimament
@@ -15685,6 +15933,7 @@ apaivagàveu
 apalancar
 apalatxià
 apallissar
+apanyar
 aparador
 aparadors
 aparat
@@ -15863,6 +16112,7 @@ apartaré
 apartaríem
 apartaríeu
 apartat
+apartat de correus
 apartats
 apartava
 apartaven
@@ -16314,6 +16564,9 @@ apocalíptic
 apocalíptica
 apocalíptics
 apocalíptiques
+apocament
+apocar
+apocat
 apocàrpic
 apodera
 apoderada
@@ -16772,7 +17025,6 @@ aprimada
 aprimades
 aprimant
 aprimar
-aprimar-se
 aprimaran
 aprimarem
 aprimaren
@@ -17054,6 +17306,7 @@ aptes
 aptesa
 apteses
 aptitud
+aptitudinal
 aptituds
 apud
 apugem
@@ -17138,6 +17391,7 @@ apunti
 apuntin
 apuntis
 apunto
+apunts
 apuntà
 apuntàrem
 apuntàreu
@@ -17368,8 +17622,10 @@ aranja
 aranja grossa
 aranya
 aranya blanca
+aranya de potes llargues
 aranya fragata
 aranya llop
+aranyer
 aranyera
 aranyes
 aranyeta
@@ -17399,6 +17655,7 @@ arbori
 arboricultura
 arboris
 arborètum
+arborètums
 arborícola
 arboç
 arboçar
@@ -17411,6 +17668,7 @@ arbre binari
 arbre de Nadal
 arbre de l'amor
 arbre de l'amor americà
+arbre de la goma aràbiga
 arbre de maig
 arbre de mitjana
 arbre de quina
@@ -17472,6 +17730,7 @@ arcs iris
 arcà
 arcàngel
 arcàngels
+ardat
 ardent
 ardentment
 ardents
@@ -17479,6 +17738,8 @@ ardiaca
 ardiaques
 ardit
 ardor
+ardor d'estómac
+ardorós
 ardu
 ardus
 arduïtat
@@ -17495,6 +17756,7 @@ areny
 arenària
 arenària de flor gran
 arenària serpil·lifòlia
+areocèntric
 areolar
 aresta
 arestes
@@ -17506,6 +17768,7 @@ areòmetres
 areòpag
 argamassa
 arganell
+argelaga
 argent
 argent viu
 argentada
@@ -17658,6 +17921,7 @@ aritmètics
 aritmètiques
 arizotònic
 arià
+ariçó
 arjau
 arlatenc
 arlequí
@@ -17724,6 +17988,8 @@ armeu
 armi
 armilla
 armilla antibales
+armilla groga
+armilla salvavides
 armilles
 armil·la
 armil·les
@@ -17777,6 +18043,7 @@ aromaré
 aromaríem
 aromaríeu
 aromat
+aromaterapeuta
 aromateràpia
 aromats
 aromava
@@ -17915,6 +18182,10 @@ arquebisbes
 arquebisbessa
 arquejar
 arquella
+arqueoastronomia
+arqueoastronòmic
+arqueoastronòmica
+arqueoastrònom
 arqueobacteri
 arqueologia
 arqueològic
@@ -18048,6 +18319,7 @@ arrambatge
 arrambatges
 arran
 arran de
+arrancaqueixals
 arrancar
 arrangement
 arranjament
@@ -18186,6 +18458,7 @@ arrebossés
 arrebosséssim
 arrebosséssiu
 arrebossí
+arrecerament
 arrecerar
 arregla
 arreglada
@@ -18425,10 +18698,12 @@ arrenquí
 arrepapar-se
 arreplec
 arreplegador
+arreplegadors
 arreplegadura
 arreplegar
 arreplegat
 arrest
+arrest domiciliari
 arresta
 arrestada
 arrestades
@@ -18772,7 +19047,6 @@ arruinar
 arruixador
 arruixar
 arrumar
-arrupir-se
 arruïnar
 arruïnat
 arrés
@@ -18783,6 +19057,7 @@ arròs amb llet
 arròs basmati
 arròs de Pals
 arròs de bruixa
+arròs fregit
 arròs glutinós
 arròs i llet
 arròs salvatge
@@ -18802,6 +19077,7 @@ art pobre
 art topiària
 artanita
 artefacte
+artefacte explosiu improvisat
 artefactes
 artell
 artells
@@ -19035,6 +19311,7 @@ asafètida
 asberc
 asberg
 asbest
+asbestosi
 ascendeix
 ascendeixen
 ascendeixes
@@ -19044,6 +19321,7 @@ ascendeixis
 ascendeixo
 ascendent
 ascendia
+ascendible
 ascendida
 ascendides
 ascendien
@@ -19092,12 +19370,14 @@ ascla
 asclar
 ascles
 ascètic
+ascòspora
 ase
 ase mossegaire
 asenada
 ases
 asexual
 asexualitat
+aseïtat
 asfalt
 asfaltar
 asfaltè
@@ -19109,6 +19389,8 @@ asfíctic
 asfíctica
 asfíxia
 asfòdel
+asfòdels
+asgolfa
 asil
 asilar
 asils
@@ -19158,6 +19440,7 @@ aspersió
 aspersor
 aspersori
 aspes
+aspet
 aspira
 aspiracions
 aspiració
@@ -19212,7 +19495,9 @@ aspredat
 asprella
 aspres
 aspresa
+aspror
 aspàrtic
+assa
 assabenta
 assabentada
 assabentades
@@ -19298,6 +19583,8 @@ assaborís
 assaboríssim
 assaboríssiu
 assaciar
+assagador
+assagar
 assagem
 assagen
 assages
@@ -19617,8 +19904,6 @@ assenta
 assentada
 assentades
 assentament
-assentament informal
-assentament irregular
 assentaments
 assentant
 assentar
@@ -20153,6 +20438,7 @@ assolia
 assolible
 assolida
 assolides
+assolidor
 assolien
 assolies
 assolim
@@ -20389,6 +20675,10 @@ astronaus
 astronauta
 astronautes
 astronomia
+astronàutic
+astronàutica
+astronàutics
+astronàutiques
 astronòmic
 astronòmica
 astronòmicament
@@ -21086,11 +21376,15 @@ atorgàrem
 atorgàreu
 atorgàvem
 atorgàveu
+atorrentar
 atorrollament
 atorrollar
 atrac
 atracada
 atracador
+atracadora
+atracadores
+atracadors
 atracallar
 atracament
 atracar
@@ -21103,7 +21397,9 @@ atractivament
 atractives
 atrafegada
 atrafegades
+atrafegament
 atrafegar
+atrafegar-se
 atrafegat
 atrafegats
 atraguem
@@ -21493,6 +21789,7 @@ atén
 atényer
 atés
 atípic
+atípica
 atípics
 atípiques
 atòmic
@@ -21543,6 +21840,7 @@ audiòmetre
 audiòmetres
 audàcia
 auella
+aufegar
 aufrany
 auge
 augita
@@ -21614,6 +21912,7 @@ auri
 auricular
 auriculars
 auriga
+aurina
 auris
 aurons
 aurora
@@ -21752,6 +22051,7 @@ autista
 autistes
 auto
 auto-
+autoajuda
 autoantònim
 autobiografia
 autobiografies
@@ -21766,6 +22066,7 @@ autobús escolar
 autocar
 autoconeixement
 autoconfiança
+autoconservació
 autocontrol
 autocràcia
 autocràcies
@@ -21788,6 +22089,7 @@ autodeterminació
 autodidacte
 autodisciplina
 autoerotisme
+autoeròtic
 autoescola
 autoescoles
 autoestima
@@ -21999,6 +22301,9 @@ auxiliat
 auxiliats
 auxilis
 avajo
+avajonera
+avajó
+aval
 avala
 avalada
 avalades
@@ -22334,6 +22639,9 @@ avergonyíreu
 avergonyís
 avergonyíssim
 avergonyíssiu
+aversiu
+aversiva
+aversives
 aversió
 avesar
 avet
@@ -22735,7 +23043,6 @@ babau
 babaua
 babaues
 babaus
-babeca
 babiloni
 babilònia
 babilònic
@@ -22744,6 +23051,7 @@ bable
 babol
 babor
 babord
+babota
 babuí
 babà
 babàs
@@ -22870,6 +23178,7 @@ badessis
 badeu
 badi
 badia
+badia d'Alger
 badia de Galway
 badia de Hudson
 badiana
@@ -22927,6 +23236,7 @@ bahamiana
 bahamià
 bai
 baia
+baia de goji
 baiard
 baies
 baila
@@ -23037,6 +23347,9 @@ balandra
 balandreig
 balandrejar
 balandrejar-se
+balanitis
+balano-
+balanopostitis
 balanç
 balança
 balança comercial
@@ -23198,6 +23511,7 @@ balena blava
 balena de Groenlàndia
 balena franca
 balena franca àrtica
+balena geperuda
 balena grisa
 balener
 balenera
@@ -23219,7 +23533,6 @@ balisa
 balisa cega
 balkar
 ball
-ball de Sant Vito
 ball de bastons
 ball de patacada
 balla
@@ -23291,6 +23604,7 @@ balnearis
 balneària
 balneàries
 balons
+balquena
 balquer
 balsamer
 balsamera
@@ -23312,6 +23626,7 @@ balustre
 balustres
 balutxi
 balutxis
+balànic
 balç
 balços
 balí
@@ -23416,6 +23731,8 @@ bandera
 bandera blanca
 bandera falsa
 banderes
+bandereta
+banderetes
 banderilla
 banderiller
 banderilles
@@ -23530,6 +23847,7 @@ baptisme de foc
 baptismes
 baptista
 baptisteri
+baques
 baqueta
 baquetes
 bar
@@ -23710,6 +24028,7 @@ barra d'espai
 barra de tasques
 barra espaiadora
 barra vertical
+barraample
 barraca
 barracuda
 barrada
@@ -23822,6 +24141,8 @@ barrets
 barreu
 barri
 barri de barraques
+barrica
+barrica bordelesa
 barricada
 barricades
 barrija-barreja
@@ -23863,6 +24184,7 @@ barrés
 barréssim
 barréssiu
 barrí
+barró
 bars
 baríton
 barítons
@@ -23987,8 +24309,6 @@ bassal
 basses
 basseta
 bassetja
-bassi
-bassiol
 bassiot
 bassol
 bast
@@ -24101,6 +24421,7 @@ bastó
 bastó de caramel
 bastó de recompte
 bastó i pastanaga
+basura
 basà
 basàrem
 basàreu
@@ -24168,6 +24489,7 @@ batalléssim
 batalléssiu
 batallí
 batalló
+batanga
 batarà
 batata
 batates
@@ -24436,6 +24758,7 @@ becaves
 beccurt
 beceroles
 becfí
+becgroc
 becllarg
 beco
 becplaner
@@ -24443,8 +24766,11 @@ becplaner comú
 becquerel
 becquerels
 becs
-becs d’esclop
+becs d'esclop
+bectort
 becut
+becvermell
+becvermella
 becà
 becàrem
 becàreu
@@ -24454,6 +24780,7 @@ becàvem
 becàveu
 bededéu
 bedoll
+bedoll comú
 bedoll del paper
 bedoll nan
 bedoll pubescent
@@ -24529,7 +24856,6 @@ belats
 belava
 belaven
 belaves
-belegar
 belem
 belen
 beles
@@ -24900,6 +25226,7 @@ bergants
 bergantí
 bergaptè
 bergapté
+bergistà
 berguedana
 berguedanes
 berguedans
@@ -25118,7 +25445,6 @@ beterà
 betes
 betum
 betònica
-betó
 beu
 beuarra
 beuen
@@ -25197,6 +25523,7 @@ bicicletes de muntanya
 bicicletes estàtiques
 bicis
 bicoca
+bicòrnia
 bidell
 bidet
 bielorussa
@@ -25212,8 +25539,8 @@ bifurcacions
 bifurcació
 bifurcar
 bifurcar-se
+bifòbia
 biga
-biga mestra
 bigordà
 bigot
 bigoti
@@ -25227,6 +25554,7 @@ bigudí
 bigues
 bigàmia
 bigàmies
+bigòrnia
 bihari
 biharis
 bijecció
@@ -25253,6 +25581,8 @@ bilionèsimes
 bilionèsims
 bilioses
 bilis
+bilis groga
+bilis negra
 bilió
 bilió (1012)
 biliós
@@ -25282,12 +25612,14 @@ biocenologia
 biocenosi
 biocida
 biocides
+biocompatibilitat
 biodegradable
 biodegradables
 biodegradació
 biodiversitat
 biodiversitats
 bioelectricitat
+bioelèctric
 bioflavonoide
 bioflavonoides
 biofísica
@@ -25334,6 +25666,7 @@ bioquímic
 bioquímica
 bioquímics
 bioquímiques
+bioregió
 bioremediació
 biosfera
 biospeleologia
@@ -25355,6 +25688,7 @@ biplà
 bipolar
 bipolaritat
 bipolaritats
+bipolars
 biquini
 biquinis
 birla
@@ -25383,10 +25717,12 @@ bisectrius
 bisell
 bisexual
 bisexualitat
+bisexuals
 bismita
 bismut
 bisnaga
 bisque
+bistec
 bistorta
 bistorte
 bistrot
@@ -25712,6 +26048,7 @@ blavosos
 blavura
 blavís
 blavós
+blazer
 blaüra
 blaürar
 ble
@@ -25904,6 +26241,7 @@ boc
 boc emissari
 boc expiatori
 boca
+boca d'incendi
 boca-orella
 bocaample
 bocabadada
@@ -25927,6 +26265,7 @@ bocaterrosa
 bocaterroses
 bocaterrosos
 bocaterrós
+bocell
 bocinada
 bocinalla
 bocinejar
@@ -26025,6 +26364,7 @@ boirosos
 boirum
 boirós
 boix
+boix baleàric
 boix grèvol
 boixa
 boixac
@@ -26057,8 +26397,10 @@ boles
 bolet
 bolet al·lucinogen
 bolet d'anís
+bolet d'esca
 bolet de greix
 bolet de la palla
+bolet d’esca
 bolet verinós
 boletaire
 bolets
@@ -26105,6 +26447,8 @@ bomba
 bomba atòmica
 bomba d'hidrogen
 bomba de calor
+bomba de rellotgeria
+bomba volcànica
 bombada
 bombades
 bombament
@@ -26127,6 +26471,7 @@ bombardegéssim
 bombardegéssiu
 bombardegí
 bombardeig
+bombardeig en estora
 bombardeigs
 bombardeja
 bombardejada
@@ -26159,6 +26504,7 @@ bombardejàreu
 bombardejàvem
 bombardejàveu
 bombarder
+bombarder en picat
 bombarders
 bombardes
 bombarem
@@ -26228,6 +26574,7 @@ bombers
 bombes
 bombes atòmiques
 bombes d'hidrogen
+bombes de rellotgeria
 bombessin
 bombessis
 bombeta
@@ -26454,13 +26801,14 @@ borsari
 borses
 borsista
 borsària
-borumballa
 borur
 bosc
+boscana
 boscarla
 boscarla cridanera
 boscarla de canyar
 boscat
+boscatge
 boscos
 boscoses
 boscs
@@ -26472,8 +26820,10 @@ bosnianes
 bosnians
 bosnià
 bosons
+bosquerol
 bosquerola
 bosquerola golanegra
+bosquerola groga
 bosquerola reietó
 bosqueta
 bossa
@@ -26493,6 +26843,7 @@ bossut
 bosó
 bosó de Higgs
 bot
+bot conversacional
 bot pneumàtic
 bot salvavides
 bota
@@ -26548,6 +26899,8 @@ botiguers
 botigues
 botija
 botin
+botinflament
+botinflar-se
 botis
 botja
 botja abellera
@@ -26606,6 +26959,7 @@ botonéssim
 botonéssiu
 botoní
 botorn
+botornons
 botorns
 botran
 botre
@@ -26932,7 +27286,6 @@ branquial
 branquillons
 branquilló
 brans
-braolar
 braquial
 brasa
 brases
@@ -26955,6 +27308,9 @@ braç de riu
 braç fals
 braç mort
 braça
+braça (1⅕ pas)
+braça (1⅕ passa)
+braça (6 peus)
 braçada
 braçalet
 braçalets
@@ -27102,6 +27458,7 @@ brindí
 brins
 brioc
 brioix
+briqueta
 brisa
 brisa de mar
 brisa de terra
@@ -27113,6 +27470,7 @@ britànics
 britàniques
 briu
 brivall
+briònia
 broc
 broca
 brocada
@@ -27174,6 +27532,7 @@ brolla
 brollada
 brollades
 brollador
+brolladors
 brollant
 brollar
 brollaran
@@ -27332,7 +27691,6 @@ brucel·losi
 brucel·losis
 brucs
 bruel
-bruelar
 brufolar
 bruguera
 bruguerar
@@ -27467,6 +27825,7 @@ bub-bub
 buba
 bubes
 bubons
+bubota
 bubònic
 bubònica
 bubònics
@@ -27476,6 +27835,7 @@ buc
 buc tinglat
 bucal
 bucle
+bucle de realimentació
 buclejar
 bucs
 bucòlic
@@ -27669,6 +28029,7 @@ bulliment
 bullin
 bullint
 bullir
+bullir a foc lent
 bulliran
 bullirem
 bulliren
@@ -27706,6 +28067,8 @@ bulímia nerviosa
 bulímic
 bumerang
 bunyol
+bunyol de mar
+bunyoler
 bunyols
 buquet
 buquets
@@ -27812,6 +28175,7 @@ busca-raons
 buscada
 buscades
 buscall
+buscamines
 buscant
 buscar
 buscar tres peus al gat
@@ -27897,7 +28261,6 @@ butlletí
 butlletí oficial
 butllofa
 butllofes
-butor
 butxaca
 butxacada
 butxacades
@@ -27913,6 +28276,7 @@ bypass
 byte
 bàcul
 bàdminton
+bàlan
 bàlsam
 bàlsam blanc
 bàlsam de Judea
@@ -27922,6 +28286,7 @@ bàlsam de copaiba
 bàlsam del Canadà
 bàlsam emparrador
 bàlsam groc
+bàlsam labial
 bàlsams
 bàlsem
 bàltic
@@ -28008,6 +28373,7 @@ bòries
 bòriques
 bòrnia
 bòrnies
+bòtil
 bòvid
 bòvids
 bòxer
@@ -28036,6 +28402,7 @@ bústia electrònica
 bústies
 c
 c.
+c/e
 ca
 ca de bestiar
 ca de bou
@@ -28052,10 +28419,12 @@ cabalístic
 cabalística
 cabalísticament
 cabana
+cabanera
 cabanya
 cabanyar
 cabanyes
 cabaret
+cabassos
 cabdal
 cabdals
 cabdell
@@ -28071,7 +28440,6 @@ cabelleres
 cabells
 cabells d'angel
 cabells d'àngel
-cabells d’àngel
 cabellut
 cabem
 caben
@@ -28096,6 +28464,7 @@ cabeçó
 cabia
 cabien
 cabies
+cabila
 cabilenc
 cabina
 cabina telefònica
@@ -28243,6 +28612,7 @@ cabussó
 cabussó emplomallat
 cabut
 cabuts
+cabàs
 cabé
 cabérem
 cabéreu
@@ -28304,6 +28674,7 @@ cadavèric
 cadavèrica
 cadavèrics
 cadavèriques
+caddie
 cadell
 cadellar
 cadells
@@ -28333,7 +28704,6 @@ cadires de rodes
 cadires elèctriques
 cadireta
 cadmi
-cadolla
 caduc
 caduca
 caducada
@@ -28403,13 +28773,18 @@ cafeïna
 cafre
 caftà
 cafè
+cafè amb gel
+cafè del temps
 cafè instantani
 cafè irlandès
+cafè sol
 cafè tallat
 cafè trencat
 cafès
+cafès sols
 café
 cafés
+cafís
 caga
 caga tions
 caga tió
@@ -28530,15 +28905,18 @@ caixa d'estalvis
 caixa forta
 caixa i metxa
 caixa negra
+caixa o faixa
 caixa registradora
 caixa toràcica
 caixabanc
+caixell de paletes
 caixer
 caixer automàtic
 caixera
 caixeres
 caixers
 caixes
+caixes de botí
 caixes fortes
 caixes negres
 caixeta
@@ -28831,6 +29209,7 @@ calendari
 calendari d'advent
 calendari gregorià
 calendari julià
+calendari lunisolar
 calendari republicà francès
 calendari revolucionari francès
 calendaris
@@ -28977,6 +29356,7 @@ callés
 calléssim
 calléssiu
 callí
+callós
 calm
 calma
 calmable
@@ -29043,6 +29423,7 @@ calorímetre
 calorímetres
 calorós
 calostre
+calota
 calrada
 cals
 calta
@@ -29050,6 +29431,7 @@ caluga
 caluga blanca
 calumniar
 calumniosament
+calvari
 calvinisme
 calvinista
 calvície
@@ -29108,6 +29490,7 @@ calçaríem
 calçaríeu
 calçasses
 calçat
+calçat de plataforma
 calçats
 calçava
 calçaven
@@ -29143,14 +29526,17 @@ calúmnia
 calúmnies
 cama
 cama de perdiu
-cama roja
+cama-roig
 cama-roja
 cama-roja vera
 cama-sec
 cama-sec de soca
+cama-segat
 camacurt
 camafeu
 camagroc
+camal
+camaldulès
 camaleons
 camaleònic
 camaleó
@@ -29170,6 +29556,8 @@ camamilla pudent
 camamilla romana
 camamil·la
 camamirla
+camandulejar
+camanegre
 camarada
 camaraderia
 camarades
@@ -29188,6 +29576,7 @@ cambra
 cambra anterior
 cambra d'estar
 cambra de bany
+cambra de combustió
 cambra de comerç
 cambra de gas
 cambra d’eco
@@ -29209,8 +29598,10 @@ cambreta
 cambrià
 cambronera
 cambró
+camejar
 camell
 camell bactrià
+camella
 camells
 cameneri
 cameralisme
@@ -29224,6 +29615,7 @@ cameràman
 camerí
 cames
 cameta
+camforer
 camfè
 camfé
 camina
@@ -29236,6 +29628,7 @@ caminal
 caminant
 caminants
 caminar
+caminar de puntetes
 caminar de recules
 caminaran
 caminarem
@@ -29286,8 +29679,10 @@ camions
 camisa
 camisa de dormir
 camisa de força
+camisa incandescent
 camisa negra
 camises
+camiseta
 camita
 camió
 camió d'escombraries
@@ -29315,6 +29710,7 @@ campament
 campaments
 campana
 campana d'aspiració
+campana de busseig
 campana extractora
 campanada
 campanades
@@ -29360,6 +29756,8 @@ campem
 campen
 camper
 camperol
+camperola
+camperoles
 camperols
 campes
 campessin
@@ -29401,10 +29799,13 @@ camuflatges
 camussa
 camusses
 camàlic
+camàndula
 camèlia
 camí
+camí de muntanya
 camí de sirga
 camí ral
+camí ramader
 camí secundari
 camí veïnal
 camí-raler
@@ -29513,9 +29914,11 @@ candidats
 candidatura
 candidatures
 candidiasi
+candir
 candor
 candorós
 canela
+caneles
 canell
 canella
 caneller
@@ -29541,6 +29944,7 @@ canines
 canins
 canitx
 canoa
+canoa polinèsia
 canoard
 canoenc
 canoes
@@ -29648,7 +30052,6 @@ cantaves
 cantem
 canten
 cantera
-canterano
 cantes
 cantessin
 cantessis
@@ -29810,7 +30213,6 @@ cap de pardals
 cap de setmana
 cap dur
 cap endintre
-cap glacial
 cap per avall
 cap-roig
 cap-xebró
@@ -29860,7 +30262,6 @@ capbaix
 capbaixa
 capbaixes
 capbaixos
-capblau
 capbussa
 capbussada
 capbussades
@@ -30081,6 +30482,8 @@ capiscol
 capissin
 capissis
 capit
+capitacions
+capitació
 capital
 capitalisme
 capitalisme d'estat
@@ -30215,6 +30618,7 @@ caps d'estat
 caps de setmana
 caps per lligar
 capsa
+capsa de Pandora
 capsa de música
 capsaicinoide
 capsaïcina
@@ -30429,6 +30833,7 @@ capverdians
 capverdià
 capvespre
 capvespres
+capvuitada
 capà
 capàrem
 capàreu
@@ -30478,6 +30883,7 @@ carabassera
 carabassera d'esponja
 carabasses
 carabasseta
+carabassina
 carabassonera
 carabassot
 carabassó
@@ -30540,6 +30946,7 @@ caragol
 caragol d'estrella
 caragol de cap Phillips
 caragol de mar
+caragol poma
 caragol puxent
 caragola
 caragolar
@@ -30549,6 +30956,7 @@ caragols
 caragolí
 caraisme
 carall
+carall!
 carallot
 carallots
 caralls
@@ -30736,6 +31144,10 @@ card marià
 card marí
 card sant
 card vermell
+cardada
+cardador
+cardaire
+cardalloba
 cardamom
 cardar
 cardenal
@@ -30746,6 +31158,7 @@ cardigassa vera
 cardinal
 cardio-
 cardiologia
+cardiològic
 cardiomiopatia
 cardiopatia
 cardiopaties
@@ -30763,6 +31176,7 @@ cardíaca
 cardíacs
 cardíaques
 cardó
+carei
 carelià
 carena
 carener
@@ -30771,10 +31185,13 @@ cares
 cares estirades
 cares llargues
 careta
+careta antigàs
+caretes
 carga
 cargol
 cargol de Pascal
 cargol de banc
+cargol poma
 cargola
 cargola cicutària
 cargola de Montserrat
@@ -30809,6 +31226,11 @@ cargolessin
 cargolessis
 cargolet
 cargolet becllarg
+cargolet dels canyons
+cargolet dels volcans
+cargolet dentat
+cargolet roquer
+cargolet ventreblanc
 cargolet ventrenegre
 cargoleu
 cargoli
@@ -30923,6 +31345,7 @@ carnívor
 carnívores
 carnívors
 carnós
+caro
 carolina
 carolingi
 carolingis
@@ -30951,6 +31374,7 @@ carpià
 carps
 carpí
 carpí daurat
+carques
 carraca
 carragahen
 carraguenina
@@ -31012,6 +31436,8 @@ carregàveu
 carrer
 carrer principal
 carrera
+carrera d'armaments
+carrerada
 carrerany
 carreres
 carrerons
@@ -31025,6 +31451,7 @@ carreta
 carretada
 carretades
 carretejar
+carretell
 carreter
 carretera
 carretera de peatge
@@ -31073,14 +31500,18 @@ cars
 carst
 carta
 carta blanca
+carta d'amor
+carta de franquesa
 carta de presentació
 carta de visita
+carta patent
 cartaginesa
 cartagineses
 cartaginesos
 cartaginès
 cartaginés
 cartell
+cartellera
 cartells
 carter
 cartera
@@ -31108,6 +31539,7 @@ cartonet
 cartons
 cartrons
 cartró
+cartró corrugat
 cartró-guix
 cartutx
 cartutxera
@@ -31139,6 +31571,7 @@ cas índex
 casa
 casa comuna
 casa consistorial
+casa d'acollida
 casa de beneficència
 casa de déu
 casa de la ciutat
@@ -31146,7 +31579,6 @@ casa de la vila
 casa de modes
 casa de nines
 casa de penyores
-casa de pollastres
 casa del comú
 casa en rasa
 casa en sèrie
@@ -31230,6 +31662,7 @@ cascàvem
 cascàveu
 cascú
 casella
+casella de selecció
 caselles
 casem
 casen
@@ -31281,6 +31714,7 @@ cassa
 cassanella
 cassar
 casserola
+casserolada
 casseroles
 casset
 casseta
@@ -31470,9 +31904,11 @@ casés
 caséssim
 caséssiu
 casí
+cat
 catabolisme
 cataclisme
 cataclismes
+cataclísmic
 catacumba
 catafracta
 catalana
@@ -31683,6 +32119,7 @@ catapultéssiu
 catapultí
 cataracta
 catarisme
+catarrin
 catarro
 catarsi
 catastrofisme
@@ -31788,6 +32225,8 @@ catellanitzés
 catellanitzéssim
 catellanitzéssiu
 catellanitzí
+catequesi
+catequístic
 caterva
 catet
 catifa
@@ -31835,6 +32274,7 @@ caucasiana
 caucasianes
 caucasians
 caucasià
+caucionar
 caucions
 caució
 caucàsic
@@ -32009,6 +32449,7 @@ cavall de salts
 cavall de serp
 cavall de vapor
 cavall fort
+cavall frisó
 cavall marí
 cavalla
 cavaller
@@ -32329,6 +32770,7 @@ cementeris
 cementir
 cementiri
 cementiris
+cena
 cendra
 cendre
 cendrer
@@ -32610,6 +33052,9 @@ cenyís
 cenyíssim
 cenyíssiu
 cep
+cep bai
+cep negre
+cep regi
 cepell
 ceps
 ceptre
@@ -32660,6 +33105,7 @@ cercaviles
 cerclar
 cercle
 cercle central
+cercle polar
 cercle polar antàrtic
 cercle polar àrtic
 cercle viciós
@@ -32675,7 +33121,6 @@ cercàveu
 cerdana
 cerdanes
 cerdans
-cerdanyès
 cerdà
 cereal
 cereals
@@ -32683,6 +33128,8 @@ cerebel
 cerebels
 cerebral
 cerebrals
+cerebroespinal
+cerebroespinals
 cerebrospinal
 cerer
 ceres
@@ -32909,7 +33356,10 @@ cessés
 cesséssim
 cesséssiu
 cessí
+cesta
 cesta punta
+cesta-punta
+cestella
 cesura
 cesures
 cesària
@@ -32930,6 +33380,7 @@ ceutí
 chaise longue
 chaise-longue
 chasma
+che
 checksum
 chippewa
 cia
@@ -32942,6 +33393,7 @@ cianotip
 cianotípia
 cianur
 cianur de metil
+cianur de potassi
 cianòtic
 ciber-
 ciberassetjament
@@ -32957,6 +33409,7 @@ cibernètic
 cibernètica
 ciberpunk
 ciberseguretat
+cibersexe
 ciborg
 cibulet
 cibulet de la Xina
@@ -33023,6 +33476,7 @@ cicloalqué
 ciclocròs
 ciclodextrina
 ciclohexà
+cicloide
 ciclomotor
 ciclonita
 ciclons
@@ -33030,9 +33484,11 @@ ciclop
 ciclopentadiè
 ciclopentadié
 ciclops
+ciclotímia
 ciclàdic
 ciclònic
 cicló
+cicló tropical
 cicuta
 cicutes
 científic
@@ -33061,6 +33517,7 @@ cigonyes
 cigronera
 cigrons
 cigró
+cigró bai
 cilandre
 ciliat
 cilici
@@ -33255,6 +33712,7 @@ cinta pel cabell
 cintes
 cintes adhesives
 cintura
+cintura de vespa
 cintures
 cinturilla
 cinturons
@@ -33277,6 +33735,8 @@ circadiari
 circell
 circs
 circuit
+circuit de cursa
+circuit integrat
 circuit tancat
 circuit tancat de televisió
 circuits
@@ -33376,7 +33836,6 @@ circumcidí
 circumcisions
 circumcisió
 circumcís
-circumdant
 circumdar
 circumferència
 circumferència circumscrita
@@ -33445,6 +33904,7 @@ circumvolució
 circumvolució cingular
 cirenaic
 cirera
+cirera de Caiena
 cirerar
 cirerer
 cirerer americà
@@ -33458,6 +33918,7 @@ cireres
 cirereta
 cirereta de pastor
 cireretes
+cirerol
 cirerola
 ciri
 ciri pasqual
@@ -33470,6 +33931,7 @@ cirròtica
 cirròtics
 cirròtiques
 cirurgia
+cirurgia plàstica
 cirurgiana
 cirurgianes
 cirurgians
@@ -33482,6 +33944,7 @@ ciríl·liques
 cisalla
 cisallar
 cisell
+cisellar
 cisells
 cisfòbia
 cisgènere
@@ -33492,11 +33955,22 @@ cissura
 cistell
 cistella
 cistellada
+cistellarra
+cistellarro
+cistellassa
+cistellenc
 cisteller
 cistellera
 cistelleria
 cistelles
+cistellet
+cistelleta
+cistelletxo
+cistellot
 cistells
+cistellàs
+cistellí
+cistelló
 cistercenc
 cistercencs
 cisterna
@@ -33557,6 +34031,7 @@ citosol
 citosquelet
 citostàtic
 citrat
+citrat de potassi
 citrina
 citronel·la
 citrí
@@ -33657,10 +34132,12 @@ ciàtics
 ciàtiques
 ciència
 ciència cognitiva
+ciència planetària
 ciència social
 ciència-ficció
 ciències
 ciències naturals
+ciències planetàries
 ciències socials
 claca
 clade
@@ -33791,6 +34268,7 @@ clariana
 clarificació
 clarinet
 clarinetista
+clarinetistes
 clarinets
 clarividència
 clarobscur
@@ -33801,6 +34279,7 @@ clarí
 clarícia
 classe
 classe alta
+classe mitjana
 classe obrera
 classe social
 classejar
@@ -33912,6 +34391,7 @@ clavava
 clavaven
 clavaves
 clavecinista
+clavecins
 clavecí
 claveguera
 clavegueram
@@ -33965,6 +34445,8 @@ clavícula
 clavícules
 clec
 cleca
+cleda
+cledissa
 clementina
 clementiner
 clemintiner
@@ -34024,6 +34506,11 @@ client habitual
 clientela
 clients
 clima
+climatitzada
+climatitzades
+climatitzar
+climatitzat
+climatitzats
 climatologia
 climatològic
 climatològica
@@ -34293,6 +34780,7 @@ clubs
 cluc
 cluca
 clucs
+cluniacenc
 cluques
 clàmide
 clàmides
@@ -34323,6 +34811,8 @@ clòriques
 clòtxina
 clúster
 clústers
+cnidari
+cnidòcit
 co-
 coa
 coagula
@@ -34417,6 +34907,7 @@ coartéssim
 coartéssiu
 coartí
 coatí
+coatís
 coautor
 coautora
 coautores
@@ -34498,6 +34989,7 @@ cobreu
 cobri
 cobria
 cobricel
+cobricel arbori
 cobricelar
 cobrien
 cobries
@@ -34653,8 +35145,6 @@ coeficient de fricció
 coeficients
 coem
 coent
-coenta
-coentes
 coents
 coenzim
 coenzims
@@ -35065,7 +35555,8 @@ collonuts
 colls
 colltort
 colltort comú
-colltort gorja-roig ()
+colltort gorja-roig
+collut
 collà
 collàrem
 collàreu
@@ -35101,6 +35592,7 @@ colobra verda i groga
 colobrina
 colofònia
 colom
+colom becut
 colom missatger
 colom roquer
 coloma
@@ -35704,6 +36196,7 @@ combustible
 combustible per a reactors
 combustibles
 combustió
+combustió espontània
 comediant
 comella
 comellar
@@ -35813,6 +36306,7 @@ comercialitzacions
 comercialització
 comercialitzada
 comercialitzades
+comercialitzador
 comercialitzant
 comercialitzar
 comercialitzaran
@@ -35994,6 +36488,8 @@ comins de prat
 comissari
 comissaria
 comissaria de policia
+comissaries
+comissaris
 comissionada
 comissionades
 comissionar
@@ -36001,6 +36497,8 @@ comissionat
 comissionats
 comissions
 comissió
+comissària
+comissàries
 comitiva
 comitives
 comitè
@@ -36470,6 +36968,8 @@ competició
 competida
 competides
 competidor
+competidora
+competidores
 competidors
 competien
 competies
@@ -37462,6 +37962,7 @@ comunitaris
 comunitarisme
 comunitat
 comunitat autònoma
+comunitat internacional
 comunitats
 comunitats autònomes
 comunitària
@@ -37475,7 +37976,6 @@ comès
 comés
 cométrer
 comí
-comí de marrà
 comí de prat
 comú
 con
@@ -37890,6 +38390,7 @@ concretéssiu
 concretí
 concubina
 concubinat
+concubinatge
 concunyat
 concurrent
 concurrentment
@@ -38099,6 +38600,7 @@ condicionéssiu
 condicioní
 condició
 condició d'estat
+condició de carrera
 condició humana
 condició indispensable
 condiment
@@ -38128,6 +38630,7 @@ conductor
 conductora
 conductores
 conductors
+conductual
 condueix
 condueixen
 condueixes
@@ -38471,6 +38974,7 @@ confini
 confinin
 confinis
 confino
+confins
 confinà
 confinàrem
 confinàreu
@@ -38727,6 +39231,7 @@ confortable
 confortables
 confortar
 confrare
+confraressa
 confraria
 confraries
 confraternitzacions
@@ -38787,6 +39292,7 @@ confusa
 confuses
 confusió
 confusos
+confí
 confós
 confús
 conga
@@ -38799,6 +39305,7 @@ congelada
 congelades
 congelador
 congeladors
+congelament
 congelant
 congelar
 congelaran
@@ -38840,6 +39347,8 @@ congeléssiu
 congelí
 congesta
 congestera
+congestions
+congestió
 conglomerar
 conglomerat
 conglomerats
@@ -38953,6 +39462,7 @@ conill
 conill de Florida
 conill de bosc
 conill dels volcans
+conill porquí
 conill!
 conillar
 coniller
@@ -39381,6 +39891,8 @@ consagrés
 consagréssim
 consagréssiu
 consagrí
+conscienciació
+conscienciar
 conscient
 conscientment
 conscients
@@ -39422,6 +39934,7 @@ consentien
 consenties
 consentim
 consentiment
+consentiment informat
 consentiments
 consentint
 consentir
@@ -39905,6 +40418,7 @@ constitucional
 constitucionalisme
 constitucionalista
 constitucionalitat
+constitucionalment
 constitucionals
 constitucions
 constitució
@@ -40108,6 +40622,7 @@ consulti
 consultin
 consultis
 consulto
+consultori
 consultà
 consultàrem
 consultàreu
@@ -40340,6 +40855,7 @@ contaven
 contaves
 conte
 conte de fades
+conte d’indis
 contem
 contempla
 contemplacions
@@ -40711,6 +41227,7 @@ contractava
 contractaven
 contractaves
 contracte
+contracte d'arrendament
 contracte de treball
 contracte social
 contractem
@@ -40750,7 +41267,6 @@ contradictòria
 contradictòriament
 contradictòries
 contradida
-contradides
 contradiem
 contradient
 contradieu
@@ -40785,6 +41301,8 @@ contradiré
 contradiríem
 contradiríeu
 contradit
+contradita
+contradites
 contradits
 contradiu
 contradiuen
@@ -40990,6 +41508,7 @@ contrau
 contrauen
 contrauran
 contraure
+contraure's
 contraurem
 contraureu
 contrauria
@@ -41065,6 +41584,7 @@ contrets
 contreu
 contreuen
 contreure
+contreure's
 contreus
 contribucions
 contribució
@@ -41328,6 +41848,7 @@ conversacions
 conversació
 conversada
 conversades
+conversador
 conversant
 conversar
 conversaran
@@ -41348,6 +41869,7 @@ conversats
 conversava
 conversaven
 conversaves
+conversejar
 conversem
 conversen
 converses
@@ -41725,6 +42247,7 @@ coordiní
 cop
 cop baix
 cop baixos
+cop d'aire
 cop d'estat
 cop d'ull
 cop de cap
@@ -42045,6 +42568,8 @@ corbaríem
 corbaríeu
 corbat
 corbata
+corbata de llacet
+corbater
 corbates
 corbatins
 corbats
@@ -42076,6 +42601,9 @@ corbí
 corc
 corcoll
 corcollana
+corcons
+corcs
+corcó
 corda
 corda de nusos
 corda dorsal
@@ -42153,6 +42681,7 @@ cordéssiu
 cordí
 cordòfon
 cordó
+cordó d'oració
 cordó sanitari
 cordó umbilical
 corea
@@ -42217,8 +42746,11 @@ coreògraf
 coreògrafa
 coreògrafes
 coreògrafs
+corfa
 corfbol
+corfoll
 coriandre
+corifeu
 corindó
 corinti
 corintis
@@ -42293,6 +42825,7 @@ cornuallès
 cornuament
 cornuar-se
 cornubianita
+cornucòpia
 cornuda
 cornudes
 cornut
@@ -42307,14 +42840,19 @@ cornéssim
 cornéssiu
 corní
 corografia
+corogràfic
+corogràfica
 coroide
 corol·la
 corol·lari
 corol·les
 corol·lí
 corona
+corona balànica
 corona de llorer
 corona de rei
+corona del gland
+corona del gland del penis
 coronacions
 coronació
 coronada
@@ -42453,6 +42991,7 @@ correctament
 correcte
 correctes
 correctiu
+corrector
 corrector líquid
 corredissa
 corredor
@@ -42526,6 +43065,7 @@ correja
 correlacions
 correlació
 correlar
+correligionari
 correm
 corren
 corrent
@@ -42618,13 +43158,17 @@ corries
 corrin
 corrinyar
 corriol
+corriol asiàtic
 corriol becllarg
+corriol bectort
 corriol camallarg
+corriol camanegre
 corriol cua-roig
 corriol gros
 corriol petit
 corriol pit-roig
 corriola
+corriolejar
 corriolet
 corriols
 corris
@@ -42806,6 +43350,7 @@ cortical
 corticoide
 corticosteroide
 cortina
+cortinatge
 cortines
 cortisol
 cortisona
@@ -42817,6 +43362,7 @@ corxera
 corànic
 coríntia
 corínties
+corògraf
 corònim
 cos
 cos callós
@@ -42848,6 +43394,7 @@ cosida
 cosides
 cosidor
 cosidora
+cosidura
 cosien
 cosies
 cosim
@@ -42907,6 +43454,7 @@ cosses
 cosset
 cossi
 cossigolles
+cossol
 cossos
 cossos celestes
 cossos pituïtaris
@@ -42987,7 +43535,6 @@ costejàrem
 costejàreu
 costejàvem
 costejàveu
-costell
 costella
 costelles
 costem
@@ -43003,6 +43550,7 @@ costessin
 costessis
 costeu
 costi
+costi el que costi
 costin
 costis
 costo
@@ -43054,6 +43602,7 @@ cotes d'armes
 cotilla
 cotilles
 cotillò
+cotilèdon
 cotlliurenc
 cotna
 cotnes
@@ -43067,10 +43616,17 @@ cotonera
 cotonia
 cotons
 cotonós
+cotorra
+cotorra argentina
+cotorra de Kramer
+cotorra multicolor
+cotorreta
+cotorreta pitgrisa
 cotxa
 cotxa blava
 cotxa capblava
 cotxa cua-roja
+cotxa cuablava
 cotxa fumada
 cotxada
 cotxe
@@ -43092,11 +43648,9 @@ cotxet
 cotxinilla
 cotze
 cotó
-cotó en floca
 cotó en pèl
 cotó fluix
 cotó fluix de sucre
-cotó hidròfil
 cotó pólvora
 cotó-en-pèl
 cotó-en-pèl dolç
@@ -43105,6 +43659,7 @@ couen
 coulomb
 couran
 coure
+coure amb poc foc
 coure's
 courem
 courenc
@@ -43183,6 +43738,7 @@ covéssiu
 coví
 cowboy
 coàgul
+coàgul sanguini
 coàguls
 coça
 coíem
@@ -43199,6 +43755,8 @@ cracs
 cranc
 cranc de riu
 cranc dels cocoters
+cranc rugós
+cranc vermell
 cranc xinès
 cranca
 crancs
@@ -43210,7 +43768,9 @@ craniològic
 cranis
 cranquet
 craqueig
+craquejar
 cras
+crasgras
 crassa
 crassament
 crasses
@@ -43312,6 +43872,7 @@ creix
 creixa
 creixem
 creixement
+creixement exponencial
 creixements
 creixen
 creixen bord
@@ -43353,6 +43914,7 @@ creixíem
 creixíeu
 crem
 crema
+crema agra
 crema cremada
 crema de sabates
 crema solar
@@ -43410,9 +43972,11 @@ creméssim
 creméssiu
 cremí
 cremós
+cremósdescremar
 creo
 crep
 crep americana
+crepar
 crepita
 crepitació
 crepitada
@@ -43491,7 +44055,6 @@ cresteria
 crestes
 crestomatia
 creta
-creta ()
 cretenc
 cretenca
 cretes
@@ -43499,8 +44062,13 @@ cretina
 cretinisme
 cretí
 creu
+creu ansada
+creu de Lorena
 creu de Sant Andreu
 creu gammada
+creu grega
+creu llatina
+creu papal
 creu-xebró
 creua
 creuada
@@ -43785,6 +44353,8 @@ crisi
 crisis
 crisma
 crisoberil
+crisopras
+crisoprasi
 crispeta
 crispetes
 cristadelf
@@ -43851,6 +44421,7 @@ cristianitzar
 cristians
 cristina
 cristià
+cristofolí
 cristològic
 cristí
 crisàlide
@@ -43986,6 +44557,7 @@ cronometria
 cronomètric
 cronostratigrafia
 cronostratigràfic
+cronourbanisme
 cronòleg
 cronòlegs
 cronòloga
@@ -44003,6 +44575,7 @@ crosses
 crosta
 crosta làctia
 crostada
+crostera
 crostes
 crostó
 crostós
@@ -44210,6 +44783,7 @@ cua-roja
 cuaample
 cuablanc
 cuablanca
+cuablau
 cuacurt
 cuada
 cuaespinós
@@ -44309,6 +44883,8 @@ cucaburra
 cucaburra d'ales blaves
 cucala
 cucanya
+cucleig
+cuclejar
 cucs
 cucs de seda
 cucs de terra
@@ -44319,6 +44895,7 @@ cucurutxa
 cucurutxo
 cucut
 cucut becllarg
+cucut koel
 cucuts
 cudol
 cudornella
@@ -44611,7 +45188,6 @@ cullerot
 cullerota
 cullerotes
 cullerots
-cullerà
 culli
 cullin
 cullis
@@ -44767,8 +45343,10 @@ cultures
 culturisme
 culturista
 culà
+cumarina
 cumpleanys
 cumquat
+cumulatiu
 cumulonimbe
 cumulonimbus
 cumulè
@@ -44914,6 +45492,7 @@ cursí
 curt
 curt de gambals
 curt de mires
+curt segle XX
 curta
 curtament
 curtcircuit
@@ -44952,6 +45531,7 @@ cusin
 cusis
 cuso
 cussa
+custodiar
 custòdia
 custòdia compartida
 cutani
@@ -44963,12 +45543,12 @@ cutxu
 cutània
 cutànies
 cutícula
-cuïc
 cv
 càbala
 càbales
 càbria
 càdec
+càfila
 càlam
 càlcic
 càlcica
@@ -44979,6 +45559,8 @@ càlcul biliar
 càlcul diferencial
 càlcul infinitesimal
 càlcul integral
+càlcul lambda
+càlcul mental
 càlcul renal
 càlculs
 càlid
@@ -45027,6 +45609,7 @@ càpigueu
 càpsida
 càpsula
 càpsula de Bowman
+càpsula de descans
 càpsula del temps
 càpsula espacial
 càpsula fulminant
@@ -45080,6 +45663,7 @@ cèltics
 cèltiques
 cèl·lula
 cèl·lula T
+cèl·lula fotoelèctrica
 cèl·lula mare
 cèl·lula nerviosa
 cèl·lula sanguínia
@@ -45114,7 +45698,7 @@ cíclics
 cícliques
 cílix
 címbal
-címbal hongarès
+cínamom
 cínic
 cínica
 cínicament
@@ -45180,7 +45764,6 @@ còncaves
 còndil
 còndor
 còndor de Califòrnia
-còndor dels Andes
 cònic
 cònica
 cònics
@@ -45257,9 +45840,11 @@ d'ençà
 d'ençà de
 d'ençà de l'inici
 d'ençà que
+d'esquitllèbit
 d'estranquis
 d'hora
 d'improvís
+d'incògnit
 d'on
 d'on ets
 d'on ets?
@@ -45304,10 +45889,11 @@ daixòs
 dalinià
 dalla
 dallada
+dallador
+dallaire
 dallar
 dalles
 dallò
-dalmatica
 dalmàtica
 dalt
 daltabaix
@@ -45460,7 +46046,12 @@ danès
 danés
 dar
 dard
+dardada
+dardaire
+dardar
+dardat
 dardell
+dardellar
 dards
 dari
 darmstadti
@@ -45635,6 +46226,9 @@ davallí
 davant
 davant de
 davantal
+davantalada
+davantalades
+davantalat
 davantals
 davanter
 davanter centre
@@ -45677,6 +46271,10 @@ de fit a fit
 de franc
 de fresc
 de fusta
+de gaidó
+de gairell
+de gairot
+de gairó
 de gala
 de genollons
 de gom a gom
@@ -45686,9 +46284,9 @@ de grat o per força
 de guant blanc
 de iure
 de jorn
-de l'oest
 de la A a la Z
 de la mà
+de llarga durada
 de llavors (ençà)
 de llis
 de lloguer
@@ -45722,6 +46320,7 @@ de qualitat
 de qualsevol manera
 de quatre grapes
 de qui
+de relleu
 de res
 de revés
 de reüll
@@ -46255,6 +46854,7 @@ decolorés
 decoloréssim
 decoloréssiu
 decolorí
+decor
 decora
 decoracions
 decoració
@@ -46303,6 +46903,7 @@ decorés
 decoréssim
 decoréssiu
 decorí
+decorós
 decreix
 decreixem
 decreixement
@@ -46343,6 +46944,7 @@ decreixéssiu
 decreixí
 decreixíem
 decreixíeu
+decrepitud
 decrescuda
 decrescudes
 decrescut
@@ -46404,6 +47006,7 @@ decàlegs
 decència
 decències
 decídua
+decòrum
 decórrer
 dedica
 dedicacions
@@ -46508,6 +47111,7 @@ defallior
 defallir
 defasament
 defecació
+defecar
 defecte
 defectes
 defectiu
@@ -46986,6 +47590,7 @@ dei
 deia
 deien
 deies
+deis
 deisme
 deista
 deix
@@ -47002,6 +47607,7 @@ deixar anar
 deixar caure
 deixar de
 deixar plantat
+deixar sense camisa
 deixaran
 deixarem
 deixaren
@@ -47104,12 +47710,7 @@ del bracet
 del braç
 del cert
 del matí al vespre
-del nord
-del nord-est
-del nord-oest
 del prometre al complir, hi ha molt de tros per penedir
-del sud-est
-del sud-oest
 del tot
 delata
 delatada
@@ -47363,6 +47964,7 @@ delinquís
 delinquíssim
 delinquíssiu
 delinqüent
+delinqüents
 delinqüència
 delinqüència juvenil
 delinqüències
@@ -47430,6 +48032,7 @@ delícia
 delícies
 delícies turques
 delírium trèmens
+demacrat
 demagog
 demagogs
 demagògia
@@ -47487,6 +48090,7 @@ demaní
 demarcacions
 demarcació
 demarcar
+demenciado
 demencial
 demencials
 dement
@@ -47670,6 +48274,7 @@ demà
 demà passat
 demà serà un altre dia
 demència
+demències
 demés
 demòcrata
 demòcrates
@@ -48122,8 +48727,10 @@ deposés
 deposéssim
 deposéssiu
 deposí
+depravació
 depravat
 depreda
+depredació
 depredada
 depredades
 depredador
@@ -48216,6 +48823,7 @@ deprimíssiu
 depuració
 depurada
 depurades
+depurador
 depuradora
 depuradores
 depurar
@@ -48645,7 +49253,6 @@ desaigüés
 desaigüéssim
 desaigüéssiu
 desaigüí
-desajustar
 desalenar
 desallotgem
 desallotgen
@@ -49335,6 +49942,7 @@ descalç
 descaminar
 descampat
 descans
+descans setmanal
 descansa
 descansada
 descansades
@@ -50348,6 +50956,7 @@ descoratgí
 descoratja
 descoratjada
 descoratjades
+descoratjador
 descoratjament
 descoratjant
 descoratjar
@@ -50416,7 +51025,6 @@ descosíreu
 descosís
 descosíssim
 descosíssiu
-descremar
 descreure
 descric
 descriguem
@@ -50539,6 +51147,7 @@ desembarqués
 desembarquéssim
 desembarquéssiu
 desembarquí
+desembarrar
 desembeina
 desembeinada
 desembeinades
@@ -50742,6 +51351,7 @@ desencadení
 desencaixar
 desencallada
 desencallades
+desencallament
 desencallar
 desencallat
 desencallats
@@ -50754,6 +51364,7 @@ desencapsar
 desencavallar
 desencisar
 desencriptació
+desencriptar
 desendolla
 desendollada
 desendollades
@@ -50893,6 +51504,7 @@ desenllaçàrem
 desenllaçàreu
 desenllaçàvem
 desenllaçàveu
+desenroscar
 desenrotlla
 desenrotllada
 desenrotllades
@@ -50997,6 +51609,7 @@ desenvolupadores
 desenvolupadors
 desenvolupament
 desenvolupament sostenible
+desenvolupamentisme
 desenvolupaments
 desenvolupant
 desenvolupar
@@ -51037,6 +51650,7 @@ desenvolupés
 desenvolupéssim
 desenvolupéssiu
 desenvolupí
+desequilibri
 desercions
 deserció
 desert
@@ -51309,9 +51923,11 @@ desgastos
 desgasts
 desgavell
 desgavellar
+desgavells
 desgelar
 desglaçar
 desglossament
+desglossar
 desgraciadament
 desgraciar
 desgraciat
@@ -51462,6 +52078,7 @@ deshumanitzéssiu
 deshumanitzí
 deshumidificador
 desi
+desideràtum
 desig
 designa
 designacions
@@ -51512,6 +52129,7 @@ desigual
 desigualment
 desiguals
 desigualtat
+desigualtat de Txebixov
 desigualtats
 desil·lusió
 desin
@@ -51999,6 +52617,8 @@ desmentíreu
 desmentís
 desmentíssim
 desmentíssiu
+desmerèixer
+desmesura
 desmetilar
 desmielinització
 desmilitaritza
@@ -52048,6 +52668,7 @@ desmilitaritzí
 desmobilitzacions
 desmobilització
 desmobilitzar
+desmoblat
 desmodat
 desmoralitza
 desmoralitzada
@@ -52744,6 +53365,7 @@ desposseïts
 desposseïu
 despotisme
 desprenc
+desprendiment
 desprendran
 desprendre
 desprendre's
@@ -52784,6 +53406,7 @@ desprenguí
 desprenia
 desprenien
 desprenies
+despreniment
 desprens
 despreníem
 despreníeu
@@ -52814,6 +53437,8 @@ després de
 després de tot
 després que
 després-dinar
+despuis
+despuix
 despulla
 despullada
 despullades
@@ -53058,6 +53683,7 @@ dessota
 dessuador
 dessuadora
 dessuadores
+dessuadors
 dessuar
 destaca
 destacable
@@ -53636,6 +54262,7 @@ desviació tipus
 desviada
 desviades
 desviament
+desviaments
 desviant
 desviar
 desviar-se
@@ -53818,6 +54445,8 @@ detalleu
 detalli
 detallin
 detallis
+detallisme
+detallista
 detallo
 detalls
 detallà
@@ -54125,6 +54754,7 @@ deturéssim
 deturéssiu
 deturí
 deu
+deu (1,2,3)
 deuen
 deuran
 deure
@@ -54330,6 +54960,7 @@ dia feiner
 dia feriat
 dia i nit
 dia laborable
+dia lliure
 dia onomàstic
 dia per altre
 diabetis
@@ -54438,6 +55069,7 @@ dialectals
 dialecte
 dialectes
 dialectologia
+dialitzador
 dialoga
 dialogada
 dialogades
@@ -54580,6 +55212,7 @@ dictades
 dictador
 dictadors
 dictadura
+dictadura del proletariat
 dictadures
 dictant
 dictar
@@ -54643,6 +55276,7 @@ diencèfal
 diens
 dient
 dies
+dies feiners
 dies laborables
 dieta
 dietes
@@ -55080,9 +55714,11 @@ dijous
 dijous Sant
 dijous gras
 dijous llarder
+dilació
 dilata
 dilatacions
 dilatació
+dilatació del temps
 dilatada
 dilatades
 dilatant
@@ -55416,6 +56052,7 @@ dinen
 diner
 diner de Sant Pere
 diner negre
+diner verd
 diner viu
 diners
 diners comptants
@@ -55510,6 +56147,7 @@ dipositarem
 dipositaren
 dipositares
 dipositareu
+dipositari
 dipositaria
 dipositarien
 dipositaries
@@ -55576,9 +56214,13 @@ directius
 directiva
 directiva marc
 director
+director de cinema
 director de pompes fúnebres
+director de projectes
 directora
+directora de cinema
 directora de pompes fúnebres
+directora de projectes
 directores
 directori
 directoris
@@ -55854,11 +56496,13 @@ discutible
 discutibles
 discutida
 discutides
+discutidor
 discutien
 discuties
 discutim
 discutint
 discutir
+discutir sobre el sexe dels àngels
 discutiran
 discutirem
 discutiren
@@ -55888,6 +56532,8 @@ discutíssiu
 discòrdia
 discórrer
 disenteria
+disentèric
+disentèrica
 disert
 disfressa
 disfressada
@@ -56864,7 +57510,6 @@ distrets
 distreu
 distreuen
 distreure
-distreure's
 distreus
 distribucions
 distribució
@@ -56940,6 +57585,7 @@ dit del mig
 dit del peu
 dit petit
 dit petit del peu
+dit índex
 dita
 dites
 ditet
@@ -57377,6 +58023,7 @@ doble
 doble articulació
 doble augmentat
 doble bemoll
+doble factorial
 doble falta
 doble imposició
 doble parella
@@ -57847,6 +58494,7 @@ dominessin
 dominessis
 domineu
 domini
+domini lingüístic
 domini públic
 dominic
 dominica
@@ -57924,7 +58572,6 @@ domà
 domàrem
 domàreu
 domàs
-domàtiga
 domàvem
 domàveu
 domèstic
@@ -57950,6 +58597,7 @@ donador
 donadora
 donadores
 donadors
+donam
 donant
 donants
 donar
@@ -57969,9 +58617,9 @@ donar la lata
 donar la nota
 donar la paraula
 donar la volta
+donar llargues mànigues
 donar marge
 donar per descomptat
-donar suport
 donar un cop d'ull
 donar un cop de mà
 donar un cop de peu
@@ -58371,6 +59019,7 @@ dramàtics
 dramàtiques
 drap
 drapaire
+drapaires
 draps
 drassana
 drassanes
@@ -58426,12 +59075,19 @@ dret
 dret de reunió
 dret humà
 dret internacional
+dret laboral
 dret públic
 dreta
 dreta alternativa
+dretana
+dretanitzar
 dretcient
 dreter
+dretera
+dreteres
+dreters
 dretes
+dretisme
 drets
 drets civils
 drets d'autor
@@ -58531,6 +59187,8 @@ ds.
 dt.
 dual
 dualisme
+dualitat
+dualitats
 duana
 duaner
 duanera
@@ -58960,6 +59618,7 @@ eclipsés
 eclipséssim
 eclipséssiu
 eclipsí
+eclissa
 eclàmpsia
 eclèctic
 eclèctica
@@ -58978,10 +59637,12 @@ ecocardiogràfic
 ecocardiogràfica
 ecocardiogràfics
 ecocardiogràfiques
+ecocardiògraf
 ecofeminisme
 ecofeminista
 ecografia
 ecografies
+ecograma
 ecogràfic
 ecolocalització
 ecologia
@@ -58997,6 +59658,7 @@ ecològics
 ecològiques
 economia
 economia de bescanvi
+economia de mercat
 economies
 economista
 economistes
@@ -59049,6 +59711,7 @@ econòmicament
 econòmics
 econòmiques
 ecopoesi
+ecoregió
 ecosfera
 ecosistema
 ecosistemes
@@ -59069,8 +59732,11 @@ ecòlogues
 edafologia
 edafologies
 edat
+edat d'or
+edat de pedra
 edat del bronze
 edat del ferro
+edat del gel
 edat mitjana
 edatisme
 edats
@@ -59132,6 +59798,7 @@ edifiquí
 edil
 edilici
 edilitat
+edils
 edita
 editada
 editades
@@ -59180,6 +59847,7 @@ editéssim
 editéssiu
 edití
 edredó
+eduardià
 educa
 educacions
 educació
@@ -59188,7 +59856,9 @@ educació cortesia
 educació especial
 educació física
 educació primària
+educació sexual
 educada
+educadament
 educades
 educador
 educadora
@@ -59253,8 +59923,10 @@ efecte agulla
 efecte crida
 efecte de retrocés
 efecte de rodolament
+efecte dòmino
 efecte especial
 efecte extern
+efecte fotoelèctric
 efecte fundador
 efecte hivernacle
 efecte lateral
@@ -59315,6 +59987,7 @@ efectuí
 efectuï
 efectuïn
 efectuïs
+efeminat
 efemèride
 efemèrides
 efervescent
@@ -59343,6 +60016,7 @@ efímer
 efímera
 efímeres
 efímers
+egagròpila
 egea
 egees
 egeu
@@ -59354,13 +60028,16 @@ egipcians
 egipcis
 egipcià
 egiptologia
+egiptològic
 egiptòleg
 egiptòlegs
 egiptòloga
 egiptòlogues
 eglefí
 ego
+ego-
 egocentrisme
+egocentrista
 egocèntric
 egocèntrica
 egoisme
@@ -59425,7 +60102,6 @@ egòlatres
 egües
 eh
 ei
-ei sí home!
 eina
 eines
 einstein
@@ -59775,6 +60451,7 @@ elaboréssim
 elaboréssiu
 elaborí
 elamita
+elamites
 eland
 elanin
 elasticitat
@@ -59827,6 +60504,7 @@ electromagnètic
 electromagnètica
 electromagnètics
 electromagnètiques
+electromecànic
 electrons
 electroquímic
 electroscopi
@@ -59891,6 +60569,9 @@ elegància
 elegàncies
 elegí
 elegíac
+elegíaca
+elegíacs
+elegíaques
 elegíem
 elegíeu
 elegírem
@@ -60080,8 +60761,6 @@ elogiï
 elogiïn
 elogiïs
 eloqüent
-eloqüenta
-eloqüentes
 eloqüents
 eloqüència
 eloqüències
@@ -60175,6 +60854,9 @@ em dic
 em diuen
 em-
 ema
+emaciació
+emaciat
+email
 emana
 emanació
 emanada
@@ -60460,7 +61142,9 @@ embarranqués
 embarranquéssim
 embarranquéssiu
 embarranquí
+embarrar
 embarrilar
+embarrotar
 embaràs
 embaràs ectòpic
 embaràs extrauterí
@@ -60685,7 +61369,6 @@ emboléssiu
 embolí
 embordonir
 embornal
-emborratxacabres
 emborratxador
 emborratxament
 emborratxar
@@ -60766,6 +61449,8 @@ embotissis
 embotit
 embotits
 embotiu
+embotornament
+embotornar
 embotí
 embotíem
 embotíeu
@@ -60889,8 +61574,12 @@ embrollaire
 embrollament
 embrollar
 embrollat
+embruix
+embruixador
+embruixadura
 embruixament
 embruixar
+embruixat
 embruniment
 embrunir
 embruta
@@ -62815,6 +63504,8 @@ en absolut
 en acabat
 en acabat de
 en acabat que
+en altres mots
+en altres paraules
 en aquell moment
 en bandolera
 en blanc
@@ -62838,6 +63529,7 @@ en compte de
 en comptes de
 en comú
 en confiança
+en conill
 en contacte
 en contra
 en curs
@@ -62859,6 +63551,8 @@ en excés
 en fatxa
 en favor de
 en fi
+en fila
+en fila índia
 en front de
 en funcions
 en funció de
@@ -62867,6 +63561,7 @@ en gerres
 en joc
 en l'acte
 en l'aire
+en la guerra i en l'amor, tot s'hi val
 en la mesura que
 en la pell i els óssos
 en lloc de
@@ -62997,6 +63692,7 @@ enamoreu
 enamori
 enamorin
 enamoris
+enamoriscar
 enamoro
 enamorà
 enamoràrem
@@ -63160,6 +63856,7 @@ encalentir
 encalla
 encallada
 encallades
+encallament
 encallant
 encallar
 encallar-se
@@ -63274,6 +63971,9 @@ encaminés
 encaminéssim
 encaminéssiu
 encaminí
+encamisada
+encamisar
+encamisat
 encant
 encanta
 encantada
@@ -63330,6 +64030,7 @@ encantéssiu
 encantí
 encaparrar-se
 encapritxar
+encapritxar-se
 encapsar
 encapsidar
 encapsulació
@@ -63533,6 +64234,7 @@ encaterinades
 encaterinament
 encaterinant
 encaterinar
+encaterinar-se
 encaterinaran
 encaterinarem
 encaterinaren
@@ -63727,6 +64429,8 @@ encetéssiu
 encetí
 enciam
 enciam de mar
+enciam llarg
+enciam romà
 enciams
 enciclopèdia
 enciclopèdic
@@ -63902,6 +64606,7 @@ encongíssim
 encongíssiu
 encontorns
 encontre
+encopresi
 encoratgem
 encoratgen
 encoratges
@@ -64120,6 +64825,7 @@ encriptéssiu
 encriptí
 encrostar
 encuixar
+encular
 encuny
 encunya
 encunyada
@@ -64468,6 +65174,7 @@ endocrinòlogues
 endocrí
 endogen
 endogàmia
+endolcidor
 endolciment
 endolcir
 endoll
@@ -64627,6 +65334,7 @@ endreçàveu
 endreçúries
 endur
 endur-se
+endurança
 endurar
 endureix
 endureixen
@@ -64700,6 +65408,7 @@ energia
 energia cinètica
 energia eòlica
 energia fosca
+energia hidràulica
 energia lliure de Gibbs
 energia potencial
 energies
@@ -64714,7 +65423,6 @@ enfadada
 enfadades
 enfadant
 enfadar
-enfadar-se
 enfadaran
 enfadarem
 enfadaren
@@ -65383,8 +66091,14 @@ engalipar
 engalzar
 enganar
 enganxa
+enganxa-roques
+enganxacabells
 enganxada
 enganxades
+enganxador
+enganxall
+enganxall de remolc
+enganxament
 enganxant
 enganxar
 enganxaran
@@ -66640,7 +67354,6 @@ enredí
 enregistra
 enregistrada
 enregistrades
-enregistrador de vol
 enregistrament
 enregistraments
 enregistrant
@@ -66796,6 +67509,7 @@ enrojolar-se
 enrolar
 enronquir
 enrosar
+enroscar
 enrosseix
 enrosseixen
 enrosseixes
@@ -66809,6 +67523,7 @@ enrossides
 enrossien
 enrossies
 enrossim
+enrossiment
 enrossint
 enrossir
 enrossiran
@@ -66837,6 +67552,7 @@ enrossíreu
 enrossís
 enrossíssim
 enrossíssiu
+enrotllable
 enrotllador
 enrotllament
 enrotllar
@@ -66959,6 +67675,7 @@ ensofrada
 ensoframent
 ensofrar
 ensofrat
+ensolcar
 ensomni
 ensopega
 ensopegada
@@ -67539,12 +68256,16 @@ entre
 entre cometas
 entre l'espasa i la paret
 entre si
+entreabaltir-se
+entreacte
+entrebadar
 entrebanc
 entrebancada
 entrebancallengua
 entrebancar
 entrebancar-se
 entrebancs
+entrecoberta
 entrecot
 entrecreua
 entrecreuada
@@ -67646,7 +68367,6 @@ entremaliades
 entremaliadura
 entremaliat
 entremaliats
-entremesclament
 entremesclar
 entremesos
 entremig
@@ -67709,6 +68429,7 @@ entreoberta
 entreobertes
 entreoberts
 entrepans
+entrepassegar
 entrepà
 entrepà de frankfurt
 entres
@@ -67758,6 +68479,7 @@ entreteixíreu
 entreteixís
 entreteixíssim
 entreteixíssiu
+entretemps
 entretenen
 entretenia
 entretenien
@@ -67942,6 +68664,7 @@ entronitzés
 entronitzéssim
 entronitzéssiu
 entronitzí
+entropessar
 entropia
 entrà
 entràrem
@@ -68014,10 +68737,12 @@ entén
 entés
 enuig
 enuigs
+enumerar
 enunciació
 enunciar
 enunciat
 enunciatiu
+enuresi
 enuresi nocturna
 enutgem
 enutgen
@@ -68204,8 +68929,10 @@ envellís
 envellíssim
 envellíssiu
 enverdir
+enverga
 envergadura
 envergadures
+envergar
 enverina
 enverinada
 enverinades
@@ -68526,6 +69253,7 @@ enyoréssiu
 enyorí
 enze
 enzim
+enzimologia
 enzims
 enzimàtic
 enzímic
@@ -68541,6 +69269,7 @@ enèsim
 enèsima
 enèsimes
 enèsims
+enòleg
 eocena
 eocenes
 eocens
@@ -68565,6 +69294,7 @@ epicicle
 epicureisme
 epicè
 epicé
+epicòndil
 epidemiologia
 epidemiològic
 epidemiològica
@@ -68588,6 +69318,7 @@ epidídims
 epifenomen
 epifonema
 epifonemes
+epigenètic
 epiglotis
 epigrafia
 epilobi
@@ -68657,6 +69388,7 @@ equació quadràtica
 equador
 equadors
 equanimitat
+equatoguineana
 equatoguineà
 equatorial
 equatoriana
@@ -68717,6 +69449,7 @@ equilàter
 equilàtera
 equilàteres
 equilàters
+equimosi
 equina
 equines
 equinocci
@@ -68836,6 +69569,7 @@ eqüestre
 eqüestres
 er
 era
+era dels vikings
 erable
 erable de sucre
 erb
@@ -69143,10 +69877,10 @@ esbategar
 esbatiment
 esbatre
 esbatussar-se
-esbelegar
 esberla
 esberlar
 esbiaixada
+esbiaixades
 esbiaixament
 esbiaixar
 esbiaixat
@@ -69237,6 +69971,7 @@ esborrin
 esborris
 esborro
 esborronador
+esborronament
 esborronar
 esborrà
 esborràrem
@@ -69497,6 +70232,7 @@ escadalós
 escafandre
 escafandre autònom
 escafandre espacial
+escafandre semiautònom
 escafandrer
 escafandrera
 escafandrisme
@@ -69864,6 +70600,7 @@ escamés
 escaméssim
 escaméssiu
 escamí
+escamònia
 escamós
 escancell
 escandalitza
@@ -70397,6 +71134,7 @@ esclatéssim
 esclatéssiu
 esclatí
 esclau
+esclau sexual
 esclaus
 esclava
 esclavatge
@@ -70459,11 +71197,13 @@ escleròmetres
 escletlla
 escletxa
 escletxes
+esclofollar
 esclop
 escloper
 esclops
 esclova
 escnadalosos
+escocell
 escocesa
 escoceses
 escocesos
@@ -70525,8 +71265,11 @@ escollíssim
 escollíssiu
 escolopàcids
 escolta
+escolta telefònica
 escoltada
 escoltades
+escoltador
+escoltament
 escoltant
 escoltar
 escoltaran
@@ -70552,10 +71295,12 @@ escolten
 escoltes
 escoltessin
 escoltessis
+escolteta
 escolteu
 escolti
 escoltin
 escoltis
+escoltisme
 escolto
 escoltà
 escoltàrem
@@ -70566,6 +71311,7 @@ escoltés
 escoltéssim
 escoltéssiu
 escoltí
+escoltívol
 escolà
 escombra
 escombra nova escombra net
@@ -70579,6 +71325,8 @@ escombrar
 escombraries
 escombrat
 escombrats
+escombrer
+escombrera
 escombres
 escombreta
 escombreta de vàter
@@ -70705,6 +71453,7 @@ escorava
 escoraven
 escoraves
 escorbut
+escorbútic
 escorces
 escorcoll
 escorcollar
@@ -71093,6 +71842,7 @@ escrutés
 escrutéssim
 escrutéssiu
 escrutí
+escròfula
 escudella
 escudella i carn d'olla
 escudeller
@@ -71828,6 +72578,7 @@ esgota
 esgotada
 esgotades
 esgotament
+esgotament nerviós
 esgotant
 esgotar
 esgotaran
@@ -72509,10 +73260,13 @@ espaguet
 espagueti
 espaguetització
 espai
+espai Schengen
 espai absolut
 espai afí
 espai compacte
+espai d'usuari
 espai de fases
+espai del nucli
 espai exterior
 espai fàsic
 espai subaracnoïdal
@@ -72578,7 +73332,10 @@ espanti
 espantin
 espantis
 espanto
+espantosa
 espantosament
+espantoses
+espantosos
 espants
 espantà
 espantàrem
@@ -72711,14 +73468,12 @@ esparter
 espartà
 esparver
 esparver cendrós
-esparver comú
 esparver cuaforcat
 esparver d'espatlles negres
 esparver d'estany
 esparver de Cooper
 esparver de l'aigua
 esparver grec
-esparver vulgar
 esparveradament
 esparverador
 esparverament
@@ -73045,6 +73800,7 @@ específica
 específicament
 específics
 específiques
+espelegar
 espeleologia
 espeleològic
 espeleòleg
@@ -73271,6 +74027,7 @@ espinacal
 espinacs
 espinada
 espinal
+espinals
 espinavessa
 espinella
 espinel·la
@@ -73287,6 +74044,8 @@ espionatges
 espira
 espiracle
 espiral
+espiral de canyella
+espiral de la inflació
 espirals
 espirar
 espiritisme
@@ -73558,6 +74317,8 @@ esposes
 esposos
 espot
 espots
+esprai
+esprai de pebre
 espremedora
 esprint
 esprintar
@@ -73637,7 +74398,7 @@ espècie
 espècie invasora
 espècie química
 espècies
-espècies químices
+espècies químiques
 espècimen
 espècimens
 espècul
@@ -73753,10 +74514,17 @@ esqueixéssim
 esqueixéssiu
 esqueixí
 esquela
+esqueles
 esquelet
 esquelets
 esquella
 esquellada
+esquellar
+esquellejar
+esqueller
+esquelleria
+esquellerinc
+esquelleta
 esquellot
 esquelètic
 esquelètica
@@ -73792,6 +74560,7 @@ esquerrana
 esquerranes
 esquerranisme
 esquerrans
+esquerranós
 esquerre
 esquerrer
 esquerres
@@ -73937,6 +74706,10 @@ esquirol volador
 esquirols
 esquist
 esquitar
+esquitllada
+esquitlladís
+esquitllar
+esquitllent
 esquitx
 esquitxa
 esquitxada
@@ -74059,6 +74832,7 @@ essencialment
 essencials
 essent
 esser
+esser un babau cistella
 esses
 essència
 essències
@@ -74246,6 +75020,7 @@ estació de treball
 estació espacial
 estació ferroviària
 estació marítima
+estació meteorològica
 estaco
 estacà
 estacàrem
@@ -74326,7 +75101,6 @@ estalagmita
 estalagmites
 estalinisme
 estalinista
-estalonar
 estalvi
 estalvi de pantalla
 estalvia
@@ -74513,6 +75287,7 @@ estar de mala llet
 estar dret
 estar fent malves
 estar fins al capdamunt
+estar robado
 estar-s'hi
 estar-se
 estaran
@@ -74572,6 +75347,7 @@ estasséssim
 estasséssiu
 estassí
 estat
+estat crític
 estat d'alarma
 estat d'emergència
 estat d'excepció
@@ -74598,6 +75374,7 @@ estatunidencs
 estatunidenques
 estatura
 estatus
+estatus social
 estatut
 estatuts
 estava
@@ -74623,6 +75400,7 @@ estel del matí
 estel endarrerit blau
 estel fugaç
 estel nan
+estel polar
 estela
 estelada
 estelades
@@ -75379,13 +76157,16 @@ estoniana
 estonianes
 estonians
 estonià
+estoquejar
 estor
 estora
 estorament
 estorar
 estordir
 estordit
+estoreta
 estoreta del ratolí
+estoreta elèctrica
 estornell
 estornells
 estos
@@ -75971,11 +76752,13 @@ estètica
 estèticament
 estètics
 estètiques
+estèvia
 estén
 estés
 estígia
 estímul
 estímuls
+estípit
 estípula
 estípules
 estómac
@@ -76253,6 +77036,10 @@ etnològica
 etnològics
 etnològiques
 etnoreligiós
+etnòleg
+etnòlegs
+etnòloga
+etnòlogic
 etnònim
 etologia
 etrusc
@@ -76316,8 +77103,6 @@ etíop
 etíops
 eubacteri
 eucaliptus
-eucaliptus blau
-eucaliptus comú
 eucariota
 eucariotes
 eucaristia
@@ -76336,7 +77121,6 @@ eufemístics
 eufemístiques
 eufoni
 eufònic
-eufòrbia
 eufòria
 eufòric
 eufòrica
@@ -76351,6 +77135,7 @@ eugues
 eumelanina
 eunuc
 eunucs
+eunuquisme
 eurasiàtic
 eurasiàtica
 eurasiàtics
@@ -76956,6 +77741,7 @@ exasperéssiu
 exasperí
 excandidat
 excandidats
+excardinar
 excava
 excavacions
 excavació
@@ -77187,6 +77973,7 @@ exciti
 excitin
 excitis
 excito
+excitotoxicitat
 excità
 excitàrem
 excitàreu
@@ -78089,6 +78876,7 @@ expendràs
 expendré
 expendríem
 expendríeu
+expenedor
 expenem
 expenen
 expenent
@@ -78175,6 +78963,7 @@ experimentéssim
 experimentéssiu
 experimentí
 experiència
+experiència d'usuari
 experiències
 expert
 experta
@@ -78707,6 +79496,7 @@ externs
 extincions
 extinció
 extinció massiva
+extinct
 extingeix
 extingeixen
 extingeixes
@@ -78802,6 +79592,10 @@ extirpéssiu
 extirpí
 extra
 extra-
+extraatmosfèric
+extraatmosfèrica
+extraatmosfèrics
+extraatmosfèriques
 extraccions
 extracció
 extracel·lular
@@ -79093,6 +79887,7 @@ factici
 facticis
 factor
 factoria
+factorial
 factories
 factoritzacions
 factorització
@@ -79119,12 +79914,22 @@ faenejar
 fageda
 fagedes
 fagina
+fago-
+fagocitar
+fagocitari
+fagocitaris
 fagocitosi
+fagocitària
+fagocitàries
+fagosoma
 fagot
 fagots
+fagòcit
+fagòcits
 fai
 faig
 faigs
+fais
 faisans
 faisà
 faixa
@@ -79165,14 +79970,12 @@ falconet
 falcó
 falcó berigora
 falcó bru australià
-falcó de tords
 falcó llaner
 falcó mostatxut
 falcó pelegrí
 falcó perdiguer
 falcó sacre
 falcó sagrat
-falcó torter
 falda
 faldar
 faldes
@@ -79187,6 +79990,7 @@ falguera aquilina
 falguera d'espasa
 falguera femella
 falguera mascle
+falguera reial
 falguerar
 falgueres
 falgueres aquilines
@@ -79390,6 +80194,7 @@ falsifiquéssim
 falsifiquéssiu
 falsifiquí
 falsos
+falsos amics
 falta
 falta de peu
 falta personal en atac
@@ -79436,6 +80241,7 @@ faltés
 faltéssim
 faltéssiu
 faltí
+faluca
 falzia
 falzilla
 falzilla blanca
@@ -79544,6 +80350,7 @@ fanalet vermell
 fanalets
 fanals
 fanatisme
+fandilla
 faneca
 fanecada
 fanecot
@@ -79593,6 +80400,7 @@ fanàtiques
 faquir
 far
 faralló
+faramalla
 faran
 farandola
 faraons
@@ -79601,9 +80409,14 @@ faraó
 farcell
 farcellet
 farcellet de col
+farcida
+farcides
 farciment
 farcir
 farcit
+farcits
+fardaix
+fardatx
 fardatxet
 fardatxo
 fardell
@@ -79744,6 +80557,7 @@ fase
 fase lunar
 fases
 fast
+fastig
 fastigosa
 fastigosament
 fastigoses
@@ -79782,6 +80596,9 @@ fatxa
 fatxada
 fatxades
 fatxenda
+fatxendar
+fatxendejar
+fatxender
 fatxendes
 faula
 faules
@@ -79868,6 +80685,7 @@ federar
 feesa
 fegina
 feia
+feica
 feien
 feies
 feijoa
@@ -79919,6 +80737,9 @@ feinejàreu
 feinejàvem
 feinejàveu
 feiner
+feinera
+feineres
+feiners
 feines
 feix
 feixa
@@ -80206,7 +81027,6 @@ feocromocitoma
 feomelanina
 fer
 fer (la maleta)
-fer a miques
 fer a mà
 fer acte de presència
 fer aigües
@@ -80238,6 +81058,8 @@ fer de sentinella
 fer el borinot
 fer el bot
 fer el contraban
+fer el desentès
+fer el dropo
 fer el gallet
 fer el llit
 fer el mort
@@ -80246,6 +81068,7 @@ fer el pes
 fer el petarrell
 fer el ploricó
 fer el préssec
+fer el seu agost
 fer el tastet
 fer el volt
 fer els ulls grossos
@@ -80253,9 +81076,11 @@ fer entrar
 fer equilibris
 fer escudella
 fer esdevenir
+fer experiment
 fer fallida
 fer fluir
 fer fora
+fer força
 fer front
 fer fugina
 fer funcionar
@@ -80268,8 +81093,10 @@ fer goig
 fer goma
 fer gràcia
 fer justícia pel seu compte
+fer l'agost
 fer l'amor
 fer l'andorrà
+fer l'orni
 fer l'ullet
 fer la balançada
 fer la bugada
@@ -80280,6 +81107,7 @@ fer la matinada
 fer la pipa
 fer la tisora
 fer la volta
+fer lent
 fer les paus
 fer llengotes
 fer llenya
@@ -80292,6 +81120,7 @@ fer mans i mànigues
 fer marxa enrere
 fer mitja
 fer mofa
+fer moixaines
 fer necessari
 fer negoci
 fer nit
@@ -80304,6 +81133,7 @@ fer pessigolles
 fer pila
 fer pila (Lleida)
 fer pinya
+fer posar la pell de gallina
 fer prospeccions
 fer que sí amb el cap
 fer saber
@@ -80311,12 +81141,14 @@ fer safareig
 fer safrà
 fer saltar la banca
 fer senderisme
+fer senes
 fer sentit
 fer servir
 fer sonar
 fer soroll
 fer sortir de polleguera
 fer sotsobre
+fer temps
 fer trafiques
 fer tripijocs
 fer un clau
@@ -80325,6 +81157,7 @@ fer un esbós
 fer un espectacle
 fer un francès
 fer un globus
+fer un pas en fals
 fer un petó
 fer un putt
 fer un toc
@@ -80337,7 +81170,6 @@ fer una traveta
 fer vacances
 fer veure
 fer via
-fer xixines
 fer zàping
 fer-ho
 fer-ne una muntanya (d'un gra de sorra)
@@ -80377,6 +81209,9 @@ ferides
 ferien
 feries
 ferim
+ferina
+ferines
+ferins
 ferint
 ferir
 feriran
@@ -80507,6 +81342,8 @@ ferrem
 ferren
 ferreny
 ferrer
+ferrer cama-roig
+ferrer camanegre
 ferrera
 ferreres
 ferreret
@@ -80524,6 +81361,7 @@ ferris
 ferritina
 ferritines
 ferro
+ferro colat
 ferro forjat
 ferro fos
 ferrocarril
@@ -80548,6 +81386,7 @@ ferroviari
 ferroviaris
 ferroviària
 ferroviàries
+ferruginós
 ferrà
 ferràrem
 ferràreu
@@ -80650,6 +81489,7 @@ festejadís
 festejament
 festejar
 fester
+festera
 festes
 festiu
 festius
@@ -80663,6 +81503,8 @@ festives
 festivitat
 festivitats
 festuc
+festuca
+festuca rogenca
 festucs
 festí
 festívol
@@ -80677,6 +81519,7 @@ fetal
 fetals
 fetes
 fetge
+fetge de vaca
 fetge gras no alcohòlic
 fetge picat
 fetgera
@@ -80952,6 +81795,7 @@ fil d'aram
 fil per randa
 fil roig
 fila
+fila índia
 filaberquí
 filacteri
 filada
@@ -81155,6 +81999,7 @@ filtrava
 filtraven
 filtraves
 filtre
+filtre bombolla
 filtrem
 filtren
 filtres
@@ -81514,6 +82359,7 @@ fissions
 fissió
 fissura
 fissípede
+fistbol
 fit
 fita
 fita inferior
@@ -81994,6 +82840,7 @@ flor de lis
 flor de mal d'ulls
 flor de neu
 flor de presseguer
+flor de sal
 flor imperial
 flora
 floracions
@@ -82025,11 +82872,9 @@ florida
 florides
 floridura
 floridura blanca
-floridura blanca ()
 floridura glauca
 floridura negra
-floridura negra ()
-floridura verda ()
+floridura verda
 florien
 flories
 florim
@@ -82297,6 +83142,8 @@ flàccida
 foc
 foc a discreció!
 foc a terra
+foc aliat
+foc amic
 foc bacterià
 foc creuat
 foc d'artifici
@@ -82329,6 +83176,8 @@ fogassa
 fogasser
 fogasses
 fogassó
+fogata
+fogates
 fogona
 fogonejar
 fogoner
@@ -82390,6 +83239,7 @@ folles
 follessin
 follessis
 follet
+follets
 folleu
 folli
 follia
@@ -82458,9 +83308,12 @@ fol·licles
 fol·licular
 fol·liculars
 folívor
+foment
 fomenta
+fomentació
 fomentada
 fomentades
+fomentador
 fomentant
 fomentar
 fomentaran
@@ -82614,6 +83467,8 @@ fonia
 fonien
 fonies
 fono-
+fonografia
+fonogràfic
 fonoll
 fonoll marí
 fonollada
@@ -82656,6 +83511,7 @@ fonètiques
 foníem
 foníeu
 fonògraf
+fonògrafs
 fonòleg
 fonòlegs
 fonòloga
@@ -83265,6 +84121,7 @@ força centrípeta
 força de voluntat
 força electromagnètica
 força fonamental
+força major
 forçada
 forçadament
 forçades
@@ -83379,7 +84236,6 @@ fosfòrica
 fosfòrics
 fosfòriques
 fosgen
-fosquedat
 fosquejar
 fosques
 fossa
@@ -83389,6 +84245,7 @@ fossa nasal
 fossa oceànica
 fossa poplítia
 fossat
+fossat d'orquestra
 fossats
 fosser
 fossilitzacions
@@ -83467,6 +84324,11 @@ fotocopiïn
 fotocopiïs
 fotocòpia
 fotocòpies
+fotoelectricitat
+fotoelèctric
+fotoelèctrica
+fotoelèctrics
+fotoelèctriques
 fotofòbia
 fotografia
 fotografiable
@@ -83571,6 +84433,7 @@ fotons
 fotonuclear
 fotoperiodisme
 fotoquímic
+fotorealista
 fotos
 fotosfera
 fotosintetitza
@@ -83629,6 +84492,7 @@ fotral
 fotralada
 fotran
 fotre
+fotre canya
 fotre el camp
 fotre un clau
 fotre!
@@ -83827,6 +84691,7 @@ franc arbitri
 franc-comtès
 franca
 francament
+francbord
 francesa
 franceses
 francesos
@@ -83923,12 +84788,18 @@ franquejàrem
 franquejàreu
 franquejàvem
 franquejàveu
+franquer
 franques
 franquesa
+franquet
+franquia
+franquiciador
+franquiciat
 franquisme
 franquista
 franquistes
 franquícia
+franquícia de mitjans
 frare
 frare blau
 frare cridaner
@@ -84092,6 +84963,7 @@ fregall
 fregalls
 fregament
 fregant
+fregapeus
 fregar
 fregaran
 fregarem
@@ -84305,6 +85177,7 @@ freturosa
 freturós
 freudià
 freàtic
+friburguès
 fricatiu
 fricatius
 fricativa
@@ -84326,10 +85199,10 @@ frisona
 frisones
 frisons
 frisos
+frissós
 frisó
 frisó occidental
 frisó oriental
-frisó oriental ()
 frisó septentrional
 fritil·lària
 frivolitat
@@ -84532,6 +85405,7 @@ fugin
 fugina
 fugint
 fugir
+fugir d'estudi
 fugiran
 fugirem
 fugiren
@@ -84605,6 +85479,8 @@ fulloles
 fulls
 fullós
 fulmar
+fulminant
+fulminar
 fulminar amb l'esguard
 fulvens
 fulvè
@@ -84816,6 +85692,7 @@ fungibles
 funicular
 funiculars
 funàmbul
+funàmbuls
 fur
 fura
 furada
@@ -85014,6 +85891,7 @@ fustigat
 fustigats
 futbol
 futbol americà
+futbol gaèlic
 futbol sala
 futbolins
 futbolista
@@ -85094,7 +85972,10 @@ fílums
 fímbria
 físic
 física
+física atòmica
 física de partícules
+física nuclear
+física quàntica
 físicament
 físics
 físiques
@@ -85162,6 +86043,7 @@ gafarró muntanyenc
 gafarró pitgroc
 gafarró sulfuri
 gafet
+gaffer
 gagaús
 gagaüsa
 gahnita
@@ -85283,6 +86165,8 @@ galls dindi
 gallufera
 gallòfol
 galop
+galop curt
+galop tirat
 galopa
 galopada
 galopades
@@ -85344,6 +86228,7 @@ galtuda
 galtudes
 galtut
 galtuts
+galupa
 galvanitza
 galvanitzacions
 galvanització
@@ -85648,6 +86533,7 @@ gargot
 gargotejar
 gargots
 garguirot
+garibaldí
 garita
 garitjol
 garjola
@@ -85988,7 +86874,7 @@ gavina
 gavina australiana
 gavina cuaforcada
 gavina d'albufera
-gavina vulgar
+gavina riallera
 gavines
 gavineta
 gavinot
@@ -86058,6 +86944,7 @@ gelaré
 gelaríem
 gelaríeu
 gelat
+gelat de gel
 gelat italià
 gelat napolità
 gelater
@@ -86094,6 +86981,7 @@ gelosament
 geloses
 gelosia
 gelosos
+gelotologia
 gels
 gel·laba
 gel·labes
@@ -86231,6 +87119,7 @@ generació perduda
 generada
 generades
 generador
+generador de nombres aleatoris
 generadora
 generadores
 generadors
@@ -86300,6 +87189,7 @@ generaríem
 generaríeu
 generat
 generatiu
+generatriu
 generats
 generava
 generaven
@@ -86490,8 +87380,12 @@ gerd
 gerda
 gerdell
 gerdera
+gerdera silvestre
+gerderes
 gerdes
+gerdons
 gerds
+gerdó
 gerent
 gerents
 geriatra
@@ -86725,6 +87619,7 @@ ghanés
 ghrelina
 gibel·lina
 gibel·lí
+gibelí
 gibraltareny
 gibraltarenya
 gibrell
@@ -86735,6 +87630,7 @@ gicar
 giga-
 gigantisme
 gihadisme
+gihadista
 gimcana
 gimcanes
 gimnasos
@@ -86875,6 +87771,7 @@ glabel·la
 glacem
 glacen
 glacera
+glacera continental
 glaceres
 glaces
 glacessin
@@ -86889,6 +87786,7 @@ glacials
 glacin
 glacio-
 glaciologia
+glaciològic
 glacis
 glacés
 glacéssim
@@ -86903,7 +87801,9 @@ glam rock
 glamur
 glamurós
 gland
+gland del clítoris
 gland del penis
+glands
 glandular
 glandulars
 glandífer
@@ -86961,6 +87861,7 @@ glicoproteïna
 glicà
 glicèmia
 glicòlisi
+glicòsid
 glif
 glifs
 glioblastoma
@@ -87059,7 +87960,6 @@ glucosamina
 glucoses
 glucèmia
 glucèmies
-glucòsid
 gluma
 glumel·la
 glumes
@@ -87112,8 +88012,10 @@ goesos
 goethita
 gofra
 gofrar
+gofratge
 gofrera
 gofreres
+gogista
 goidèlic
 goidèlica
 goidèlics
@@ -87122,14 +88024,15 @@ goig
 goigs
 goitar
 goja
+gojaire
 gojar
 gojat
 gol
 gol d'or
-gol en pròpia porta
 gol fantasma
 gola
 golafre
+golafres
 golanegre
 golassos
 golegem
@@ -87149,6 +88052,8 @@ goleja
 golejada
 golejades
 golejador
+golejadora
+golejadores
 golejadors
 golejant
 golejar
@@ -87209,7 +88114,6 @@ golós
 gom
 goma
 goma amoníaca
-goma aràbica
 goma aràbiga
 goma d'enganxar
 goma d'esborrar
@@ -87231,6 +88135,7 @@ gonfanó
 gong
 goniòmetre
 goniòmetres
+gonocorisme
 gonocòccia
 googlejar
 googolplex
@@ -87473,20 +88378,25 @@ graduïs
 graella
 graellada
 graelles
+graf
 grafema
 grafemes
 grafia
 grafies
 grafit
+grafitització
 grafits
+grafitós
 grafològic
 grafològica
 grafològics
 grafològiques
 grafospasme
 grafè
+grafític
 grafòmetre
 gralla
+gralla becvermella
 gralla de bec groc
 grallada
 grallades
@@ -87622,7 +88532,6 @@ grangers
 grani
 granin
 granis
-granissada
 granissar
 granit
 granja
@@ -87727,6 +88636,7 @@ gratacul
 gratada
 gratades
 gratador
+grataesquena
 gratament
 gratant
 gratapalles
@@ -87871,6 +88781,7 @@ gravis
 gravitacional
 gravitacionals
 gravitació
+gravitat zero
 gravitatori
 gravitatoris
 gravitatòria
@@ -87905,6 +88816,7 @@ gregal
 gregalada
 gregalejar
 gregari
+gregoriana
 gregorianes
 gregorians
 gregorià
@@ -88083,6 +88995,7 @@ grip
 grip aviària
 gripal
 gripau
+gripau d'esperons
 gripaus
 gris
 grisa
@@ -88169,6 +89082,7 @@ grua carunculada
 grua coronada collgrisa
 grua cridanera
 grua del Canadà
+grua del Japó
 grua europea
 grua siberiana
 gruar
@@ -88190,7 +89104,9 @@ gruny
 grunyir
 grunyit
 grup
+grup de control
 grup fonamental
+grup funcional
 grup sanguini
 grup ètnic
 grups
@@ -88301,6 +89217,7 @@ guanyadora
 guanyadores
 guanyadors
 guanyant
+guanyapà
 guanyar
 guanyar-se la vida
 guanyaran
@@ -88551,7 +89468,6 @@ guatles
 guatlla
 guatlla andalusa
 guatlla maresa
-guatllereta de mar
 guatlles
 guatllot
 guenya
@@ -88561,14 +89477,17 @@ guenyos
 guepard
 guepards
 guerra
+guerra asimètrica
 guerra civil
 guerra comercial
 guerra de Troia
 guerra de nervis
 guerra de sexes
+guerra del Golf
 guerra dels matiners
 guerra fred
 guerra freda
+guerra híbrida
 guerra psicològica
 guerra total
 guerracivilista
@@ -88669,7 +89588,10 @@ guiessis
 guieu
 guilla
 guillat
+guillaume
+guillermo
 guilles
+guilleume
 guillotina
 guillotinar
 guimarro
@@ -88682,8 +89604,10 @@ guindes
 guinea
 guineu
 guineu de l'estepa
+guineu del Tibet
 guineu femella
 guineu grisa de les illes Santa Bàrbara
+guineu vermella
 guineu àrtica
 guineuer
 guineus
@@ -88713,6 +89637,7 @@ guitarra acústica
 guitarra barroca
 guitarra clàssica
 guitarra elèctrica
+guitarra rítmica
 guitarrer
 guitarres
 guitarres acústiques
@@ -88843,6 +89768,7 @@ gàl·lics
 gàl·liques
 gàmeta
 gàmetes
+gànguil
 gàrgara
 gàrgola
 gàstric
@@ -89214,6 +90140,9 @@ he he
 heavy-metal
 hebdomadari
 hebraic
+hebraica
+hebraics
+hebraiques
 hebraisme
 hebraista
 hebraística
@@ -89332,6 +90261,10 @@ hemorroidal
 hemorroide
 hemorroïdal
 hemorràgia
+hemàtic
+hemàtica
+hemàtics
+hemàtiques
 hemòlisi
 hendecasíl·lab
 hendecàgon
@@ -89372,38 +90305,51 @@ herba
 herba adventícia
 herba berruguera
 herba blava
-herba caragolera
 herba cotonera
 herba cotonera àrtica
 herba d'or
 herba d'orenetes
 herba de Sant Antoni
+herba de Sant Benet
+herba de Sant Cristòfol
 herba de Sant Jaume
 herba de Sant Joan
 herba de Sant Jordi
+herba de Sant Pelegrí
+herba de Sant Robert
+herba de Sant Roc
+herba de Sant Segimon
+herba de Santa Sofia
 herba de l'Esperit Sant
 herba de l'ala
 herba de l'ofec
-herba de la Mare de Déu
+herba de la marfuga
+herba de la ràbia
 herba de la sang
+herba de la taca
 herba de les mamelles
 herba de les morenes
 herba de les patarrugues
+herba de les set sagnies
+herba de l’esparver
 herba de melic
-herba de mur
-herba de paret
 herba de sang
+herba del bàlsam
 herba del mal de cor
 herba del mal estrany
+herba del mal gra
 herba del pastell
 herba dels canonges
+herba desinflamatòria
+herba disentèrica
+herba d’olives
+herba escombrera
 herba felera
 herba fetgera
 herba gatera
 herba llimona
 herba pisona
 herba plana
-herba roquera
 herba sabonera
 herba talpera
 herbaci
@@ -89611,6 +90557,7 @@ heu
 heuen
 heura
 heura de terra
+heura metzinosa
 heure
 heures
 heurístic
@@ -89879,6 +90826,7 @@ hipercorrecció
 hipercub
 hipercàpnia
 hiperenllaç
+hiperesfera
 hiperespai
 hiperespais
 hipergegant
@@ -89887,6 +90835,7 @@ hiperglucèmies
 hiperinflació
 hipermasculinitat
 hipermetropia
+hipernatrèmia
 hipernova
 hiperonímia
 hiperplàsia
@@ -89902,6 +90851,7 @@ hipertiroïdisme
 hipertrofiar
 hipertròfia
 hipertròfic
+hiperuricèmia
 hiperventilada
 hiperventilades
 hiperventilar
@@ -89914,6 +90864,7 @@ hiperònimes
 hiperònims
 hipno-
 hipnosi
+hipnoteràpia
 hipnotisme
 hipnotitza
 hipnotització
@@ -90023,6 +90974,8 @@ hipotètica
 hipotèticament
 hipotètics
 hipotètiques
+hipovolèmia
+hipovolèmic
 hippy
 hipsòmetre
 hipsòmetres
@@ -90128,6 +91081,8 @@ historiadora
 historiadores
 historiadors
 historial
+historiar
+historiat
 historicisme
 historicista
 historicistes
@@ -90153,6 +91108,7 @@ histèrics
 histèriques
 història
 història de fantasmes
+història natural
 històric
 històrica
 històricament
@@ -90195,6 +91151,7 @@ holandesos
 holandeta
 holandès
 holandés
+holisme
 holmesiana
 holmesianes
 holmesians
@@ -90448,10 +91405,13 @@ hormones
 horrible
 horriblement
 horribles
+horripilació
 horripilant
+horripilar
 horror
 horroritzat
 horrorós
+horrífic
 hort
 horta
 hortal
@@ -90463,6 +91423,7 @@ hortolà
 hortolà groc
 horts
 hortènsia
+hortícola
 horària
 horàries
 horòscop
@@ -90471,7 +91432,9 @@ hospici
 hospital
 hospital militar
 hospital psiquiàtric
+hospitalari
 hospitalenc
+hospitaler
 hospitalitat
 hospitalitats
 hospitalitza
@@ -90520,6 +91483,7 @@ hospitalitzéssiu
 hospitalitzí
 hospitals
 hospitals psiquiàtrics
+hospitalària
 hospitalàriament
 host
 hostal
@@ -90636,6 +91600,7 @@ huitens
 huits
 huitè
 huité
+hule
 hum
 humana
 humanament
@@ -90796,6 +91761,7 @@ humitejàveu
 humits
 hummus
 humor
+humor aquós
 humor vitri
 humorista
 humors
@@ -90852,6 +91818,7 @@ hòsties
 húmer
 húmers
 húmic
+húnnic
 hússar
 hússars
 i
@@ -91149,7 +92116,6 @@ iemenita
 iemenites
 ien
 iens
-iglésia
 iglú
 iglús
 ignasiana
@@ -91265,6 +92231,7 @@ igualéssim
 igualéssiu
 igualí
 iguana
+iguana verda
 il-
 ileïtis
 ili
@@ -91363,7 +92330,6 @@ il·legibilitat
 il·legible
 il·legibles
 il·legítim
-il·legítimament
 il·lesa
 il·leses
 il·lesos
@@ -91594,6 +92560,7 @@ imantéssim
 imantéssiu
 imantí
 imatge
+imatge corporal
 imatgeria
 imatges
 imbatible
@@ -92166,6 +93133,7 @@ impensable
 impensadament
 imperar
 imperatiu
+imperatiu categòric
 imperatius
 imperativa
 imperativament
@@ -92179,6 +93147,7 @@ imperceptible
 imperceptiblement
 imperceptibles
 imperdible
+imperdibles
 imperdonable
 imperdonablement
 imperdonables
@@ -92506,6 +93475,7 @@ importin
 importis
 importo
 importunament
+importunar
 importà
 importància
 importàncies
@@ -92740,6 +93710,7 @@ improbable
 improbablement
 improbables
 improductiu
+improductivament
 impropi
 improvisa
 improvisacions
@@ -92844,6 +93815,7 @@ impulséssim
 impulséssiu
 impulsí
 impune
+impunement
 impunit
 impunitat
 impur
@@ -92938,6 +93910,7 @@ inadequats
 inadmissibilitat
 inadmissible
 inadmissibles
+inadvertidament
 inalienable
 inalterades
 inalterat
@@ -93079,7 +94052,6 @@ incertament
 incertes
 incertesa
 incerteses
-incertitud
 incerts
 incessant
 incessantment
@@ -93094,6 +94066,8 @@ incineració
 incinerada
 incinerades
 incinerador
+incineradora
+incineradores
 incinerant
 incinerar
 incineraran
@@ -93134,7 +94108,6 @@ incineréssim
 incineréssiu
 incinerí
 incipient
-incircumcís
 incisions
 incisiu
 incisius
@@ -93377,6 +94350,7 @@ incomplia
 incomplien
 incomplies
 incomplim
+incompliment
 incomplint
 incomplir
 incompliran
@@ -93430,6 +94404,7 @@ inconsiderats
 inconsistent
 inconsistents
 inconsistència
+inconsistències
 inconsolable
 inconstant
 inconstants
@@ -93438,6 +94413,7 @@ inconstitucionalitat
 inconstitucionalment
 inconstitucionals
 inconstància
+inconstàncies
 inconsútil
 incontestable
 incontestables
@@ -93665,6 +94641,10 @@ incurables
 incursions
 incursió
 incís
+incògnit
+incògnita
+incògnites
+incògnits
 incòlume
 incòmoda
 incòmodament
@@ -93681,6 +94661,7 @@ indeclinable
 indeclinables
 indecència
 indecís
+indefectible
 indefens
 indefensable
 indefensables
@@ -93794,6 +94775,8 @@ indicava
 indicaven
 indicaves
 indici
+indiciar
+indiciari
 indicis
 indico
 indicà
@@ -94098,6 +95081,8 @@ indígena
 indígenes
 indòmit
 indústria
+indústria lleugera
+indústria pesant
 indústries
 inebriació
 inebriar
@@ -94414,10 +95399,13 @@ infinits
 infinitud
 infix
 infla
+inflable
 inflacions
 inflació
 inflada
 inflades
+inflador
+infladura
 inflama
 inflamable
 inflamables
@@ -94502,6 +95490,7 @@ inflexiblement
 inflexibles
 inflexió
 infli
+infliccions
 inflicció
 infligeix
 infligeixen
@@ -94649,6 +95638,7 @@ infléssim
 infléssiu
 inflí
 infografia
+infogràfic
 infon
 infonc
 infondran
@@ -94715,6 +95705,7 @@ informaré
 informaríem
 informaríeu
 informat
+informatització
 informatitzar
 informatiu
 informatius
@@ -94788,6 +95779,7 @@ infundat
 infusió
 infusori
 infàmia
+infàmies
 infància
 infàncies
 infèrtil
@@ -95214,6 +96206,7 @@ injusts
 injustícia
 injustícies
 injúria
+inlandsis
 inmigrant
 inmigrants
 innat
@@ -95348,6 +96341,8 @@ inofensius
 inofensiva
 inofensivament
 inofensives
+inoperant
+inoperància
 inoportuna
 inorgànic
 inorgànica
@@ -95488,8 +96483,11 @@ insensat
 insensatesa
 insensibilitat
 insensibilitat congènita al dolor
+insensibilització
+insensibilitzador
 insensibilitzar
 insensible
+inseparabilitat
 inseparable
 inseparablement
 inseparables
@@ -96185,7 +97183,6 @@ insòlits
 intacta
 intacte
 intactes
-intagiblement
 intangible
 integra
 integrable
@@ -96245,7 +97242,6 @@ intel·lecte
 intel·lectual
 intel·lectualment
 intel·lectuals
-intel·lifon
 intel·ligent
 intel·ligentment
 intel·ligents
@@ -96253,12 +97249,14 @@ intel·ligibilitat
 intel·ligible
 intel·ligiblement
 intel·ligibles
+intel·liguèntsia
 intel·ligència
 intel·ligència artificial
 intel·ligència emocional
 intel·ligències
 intel·ligències artificials
 intel·ligències emocionals
+intemperància
 intempestiu
 intempestius
 intempestiva
@@ -96421,9 +97419,7 @@ interaccionéssim
 interaccionéssiu
 interaccioní
 interacció
-interacció dèbil
 interacció electromagnètica
-interacció feble
 interacció fonamental
 interacció forta
 interacció gravitatòria
@@ -96587,6 +97583,8 @@ interdentals
 interdependent
 interdicció
 interdisciplinari
+interespecífic
+interespecífica
 interessa
 interessada
 interessadament
@@ -96681,6 +97679,7 @@ interferíssim
 interferíssiu
 interficial
 interfície
+interfície d'usuari
 interfície gràfica d'usuari
 interfícies
 interfòbia
@@ -96697,6 +97696,7 @@ interines
 interinitat
 interins
 interior
+interiorització
 interioritzar
 interiorment
 interiors
@@ -96714,7 +97714,6 @@ intermedi
 intermediació
 intermediari
 intermedis
-intermezzo
 interminable
 interminablement
 interminables
@@ -96779,7 +97778,6 @@ internament
 internaments
 internant
 internar
-internar-se
 internaran
 internarem
 internaren
@@ -96796,6 +97794,7 @@ internaríeu
 internat
 internats
 internauta
+internautes
 internava
 internaven
 internaves
@@ -96853,6 +97852,10 @@ interpretaré
 interpretaríem
 interpretaríeu
 interpretat
+interpretatiu
+interpretatius
+interpretativa
+interpretatives
 interpretats
 interpretava
 interpretaven
@@ -97030,6 +98033,8 @@ intersexualitats
 intersexuals
 interstici
 intersticial
+intertextual
+intertextualitat
 interuniversitari
 interuniversitaris
 interuniversitària
@@ -97215,8 +98220,10 @@ intractables
 intraduïble
 intraduïbles
 intradós
+intrafamiliar
 intramurs
 intranquil
+intranscendent
 intransigent
 intransitiu
 intransitius
@@ -97568,6 +98575,7 @@ inverses
 inversionista
 inversions
 inversió
+inversió estrangera directa
 inversor
 inversora
 inversores
@@ -97867,6 +98875,7 @@ inèdites
 inèdits
 inèrcia
 inèrcies
+inòpia
 inútil
 inútilment
 inútils
@@ -97953,6 +98962,7 @@ irascibles
 irat
 iridectomia
 iridectomies
+iridescent
 iridescència
 iridi
 iridià
@@ -97992,6 +99002,7 @@ irregularitat
 irregularitats
 irregularment
 irregulars
+irrelevant
 irreligió
 irrellevant
 irrellevants
@@ -98015,6 +99026,7 @@ irretractable
 irreverent
 irreversible
 irreversibles
+irreverència
 irrevocabilitat
 irrevocable
 irrevocablement
@@ -98189,6 +99201,7 @@ isopré
 isoterm
 isotermes
 isoterms
+isotropia
 isotèrmic
 isotònic
 isqui
@@ -98219,6 +99232,7 @@ isòmers
 isòsceles
 isòtop
 isòtops
+isòtrop
 italiana
 italianes
 italianitat
@@ -98538,6 +99552,9 @@ jerbu petit
 jerbus
 jeremiada
 jeroglífic
+jeroglífica
+jeroglífics
+jeroglífiques
 jerosolimitanes
 jerosolimitans
 jerosolimità
@@ -98603,12 +99620,14 @@ jogueteria
 jogueters
 joguets
 joguina
+joguina sexual
 joguinaire
 joguinejar
 joguineria
 joguines
 joguinós
 joia
+joia amagada
 joiell
 joieller
 joiells
@@ -98649,9 +99668,9 @@ jornades
 jornal
 jornalejar
 jornaler
+jornalera
 jornalista
 jornalístic
-jornalísticament
 josepet
 jota
 jotes
@@ -98865,7 +99884,10 @@ junc
 jungla
 junt
 junta
+junta directiva
 junta militar
+juntaire
+juntaires
 juntament
 juntament amb
 juntes
@@ -99095,6 +100117,9 @@ jèiem
 jèieu
 jícama
 jònic
+jònica
+jònics
+jòniques
 jòquer
 jòquers
 jóc
@@ -99167,6 +100192,7 @@ kombu
 kombutxa
 komi
 komis
+konkani
 kootenai
 koppa
 koppes
@@ -99409,6 +100435,7 @@ lactància
 lactàncies
 lacustre
 lacònic
+lacònicament
 laic
 laica
 laics
@@ -99580,6 +100607,7 @@ lax
 laxant
 laxar
 laxatiu
+lazurita
 laïcitza
 laïcitzada
 laïcitzades
@@ -100112,6 +101140,8 @@ liegès
 liegés
 light
 lignit
+ligular
+ligulat
 lila
 lillès
 lilà
@@ -100214,8 +101244,12 @@ liniers
 liniment
 link
 linx
+linx canadenc
 linx ibèric
+linx nòrdic
+linx pardina
 linx roig
+linx vermell
 linxament
 linxaments
 linxar
@@ -100245,6 +101279,7 @@ lipúria
 liquació
 liquadora
 liquar
+liquat
 liquen
 liquen blanc
 liquen d'Islàndia
@@ -100298,6 +101333,8 @@ liquidéssiu
 liquidí
 liquènic
 liqüefacció
+liqüefacte
+liqüefer
 lira
 lires
 liró
@@ -100374,6 +101411,7 @@ llac Superior
 llac Victòria
 llac d'Aral
 llac de Constança
+llac salat
 llacet
 llacor
 llacs
@@ -100631,6 +101669,7 @@ llançàreu
 llançàvem
 llançàveu
 llanós
+llapa
 llapassa
 llapassa borda
 llapassera
@@ -100748,6 +101787,7 @@ llatí clàssic
 llatí vulgar
 llau
 llauna
+llauna de cervesa
 llaunar
 llauner
 llaunes
@@ -100755,6 +101795,7 @@ llaura
 llaurada
 llaurades
 llaurador
+llauradís
 llaurant
 llaurar
 llauraran
@@ -100804,7 +101845,6 @@ llavador
 llavamans
 llavament
 llavant
-llavaplats
 llavar
 llavaran
 llavarem
@@ -100883,6 +101923,7 @@ llebrer afganès
 llebrers
 llebres
 llebretó
+llebrosia
 llec
 llecsó
 lledoner
@@ -101067,8 +102108,10 @@ llengua de bou roja
 llengua de bou vermellosa
 llengua de ca
 llengua de signes
+llengua de signes espanyola
 llengua estrangera
 llengua materna
+llengua minoritària
 llengua morta
 llengua nativa
 llengua romànica
@@ -101250,6 +102293,7 @@ llessamí
 llest
 llesta
 llestament
+llestar
 llestes
 llestesa
 llestos
@@ -101257,6 +102301,7 @@ llests
 llet
 llet concentrada
 llet condensada
+llet d'ametlles
 llet de civada
 llet de peix
 llet de soia
@@ -101345,9 +102390,11 @@ lletrejàrem
 lletrejàreu
 lletrejàvem
 lletrejàveu
+lletrera
 lletres
 lletrista
 lletristes
+lletrut
 llets
 lletsó
 lletsó d'ase
@@ -101443,6 +102490,7 @@ llibertinatge
 llibre
 llibre de classe
 llibre de comptabilitat
+llibre de cuina
 llibre de text
 llibrell
 llibrella
@@ -101456,11 +102504,15 @@ llibres
 llibresc
 llibret
 llibreta
+llibreta d'adreces
+llibreta d'estalvis
 llibreter
 llibretera
 llibreteres
 llibreteria
 llibreters
+llibretes
+llibretes d'adreces
 llibretista
 llibrets
 llicencia
@@ -101529,8 +102581,10 @@ lligades
 lligador
 lligadura
 lligadures
+lligallo
 lligam
 lligament
+lligament encreuat anterior
 lligaments
 lligams
 lligand
@@ -101698,7 +102752,6 @@ llista de seguiment
 llista d’èxits
 llista negra
 llistar
-llistas de seguiment
 llistat
 llistats
 llistes
@@ -101714,6 +102767,7 @@ llit doble
 llit elàstic
 llit fluvial
 llit marí
+llit matrimonial
 llit oceànic
 llitar
 llitera
@@ -101804,6 +102858,7 @@ lloaven
 lloaves
 lloba
 lloba-carda
+llobacarda
 llobada
 llobarro
 llobarro atlàntic ratllat
@@ -101906,6 +102961,8 @@ llonja
 llonza
 lloo
 llop
+llop daurat africà
+llop de crinera
 llop de mar
 llop de riu
 llop ibèric
@@ -101941,10 +102998,12 @@ llorigar
 lloriguera
 llorigó
 lloro
+lloro menut
 lloros
 llors
 llosa
 llosana
+llosanes
 llosarda
 llosat
 llosc
@@ -102105,6 +103164,7 @@ llum de lluna
 llum de prosceni
 llum del dia
 llum intermitent
+llum posterior
 llum verd
 llum vermell
 llum visible
@@ -102314,6 +103374,7 @@ locució verbal
 locutor
 locutora
 locutores
+locutori
 locutors
 logaritme
 logaritme natural
@@ -102348,7 +103409,6 @@ longevitats
 longicorni
 longitud
 longitud d'ona
-longitudinalment
 longituds
 longobard
 loquaces
@@ -102545,6 +103605,7 @@ línia de gol
 línia de scrimmage
 línia de tirs lliures
 línia lateral
+línia recta
 línia telefònica
 línia troncal
 línia vermella
@@ -102762,6 +103823,7 @@ maculéssim
 maculéssiu
 maculí
 macís
+madalena
 madeira
 madeixa
 madoixa
@@ -102864,6 +103926,7 @@ magnats
 magnesi
 magnesita
 magnetisme
+magnetisme animal
 magnetita
 magnetitza
 magnetització
@@ -102920,6 +103983,7 @@ magnetòmetres
 magnificent
 magnificència
 magnitud
+magnitud física
 magnituds
 magnànim
 magnànima
@@ -102956,6 +104020,7 @@ magribí
 mags
 magues
 mahometà
+mahout
 mai
 mai diguis mai
 maia
@@ -103028,6 +104093,7 @@ malabarista
 malabaristes
 malabsorció
 malacologia
+malagraït
 malaguanyat
 malaguanyats
 malagueny
@@ -103046,10 +104112,12 @@ malaltes
 malaltia
 malaltia d'Alzheimer
 malaltia de Behçet
+malaltia de Marburg
 malaltia de Parkinson
 malaltia de descompressió
 malaltia de transmissió sexual
 malaltia holandesa de l'om
+malaltia mental
 malaltia pulmonar obstructiva crònica
 malalties
 malaltissa
@@ -103223,6 +104291,8 @@ maleta
 maleter
 maleters
 maletes
+maletí
+maletí mèdic
 malevolència
 maleí
 maleíem
@@ -103469,6 +104539,7 @@ mals
 mals de cap
 malson
 malsons
+malsonyós
 malsà
 malt
 maltar
@@ -103594,7 +104665,10 @@ malvesc
 malveure
 malviatge
 malviure
+malvolent
 malvolença
+malvoler
+malvolgut
 malvore
 malvèn
 malví
@@ -103649,6 +104723,7 @@ mamella de monja
 mamellada
 mamelles
 mamelleta de monja
+mamelluda
 mamellut
 mamelló
 mameluc
@@ -103685,7 +104760,6 @@ mamífera
 mamíferes
 mamífers
 mana
-mana?
 manada
 manades
 manaire
@@ -103719,6 +104793,7 @@ mancada
 mancades
 mancala
 mancales
+mancances
 mancant
 mancança
 mancar
@@ -103769,6 +104844,7 @@ mandatària
 mandibular
 mandibulars
 mandioca
+mandioques
 mandola
 mandolina
 mandongo
@@ -103794,11 +104870,16 @@ manegueta
 maneguí
 maneig
 maneigs
+manejabilitat
 manejable
+manejadís
+manejament
 manejar
+manejat
 manem
 manen
 manera
+manera de caminar
 maneres
 manes
 manesa
@@ -103995,6 +105076,11 @@ mano
 manobra
 manobre
 manobres
+manometria
+manomètric
+manomètrica
+manomètrics
+manomètriques
 manovella
 manquem
 manquen
@@ -104066,6 +105152,7 @@ manteníeu
 mantes
 mantinc
 mantindran
+mantindre
 mantindrem
 mantindreu
 mantindria
@@ -104210,6 +105297,8 @@ manxiula
 manxos
 manxs
 manxuriana
+manxurianes
+manxurians
 manxurià
 manxú
 manya
@@ -104312,6 +105401,7 @@ maquineta d'afaitar
 maquineta de fer punta
 maquineta de tallar cabells
 maquinària
+maquinària de setge
 maquinàries
 maquíssim (aplicat a persones)
 mar
@@ -104321,6 +105411,7 @@ mar Bàltica
 mar Cantàbrica
 mar Carib
 mar Caspiana
+mar Chiquita
 mar Cèltica
 mar Egea
 mar Negra
@@ -104418,6 +105509,7 @@ marcer
 marcera
 marcers
 marcescent
+marcescents
 marcgravi
 marcgraviat
 marcgraviats
@@ -104483,6 +105575,7 @@ marduix
 marduix de Creta
 marduixí
 mare
+mare soltera
 marea
 marea alta
 marea baixa
@@ -104582,6 +105675,7 @@ marginació
 marginada
 marginal
 marginals
+marginament
 marginar
 marginat
 marialluïsa
@@ -104663,6 +105757,8 @@ marià
 marjal
 marjal (per plantar-hi)
 marjals
+marmessor
+marmessoria
 marmita
 marmitona
 marmitó
@@ -104751,7 +105847,13 @@ marsupi
 marsupial
 marsuí
 mart
+mart de coll groc
+mart del Japó
+mart del Nilgiri
+mart gibelí
+mart nord-americà
 marta
+marta gibelina
 marta pescadora
 martell
 martell de fuster
@@ -104817,6 +105919,7 @@ martiritzí
 martirologi
 martirologis
 marts
+marts nord-americans
 marxa
 marxa fúnebre
 marxa!
@@ -104854,6 +105957,7 @@ marxi
 marxin
 marxis
 marxisme
+marxismes
 marxista
 marxistes
 marxo
@@ -105178,6 +106282,7 @@ matalaf
 matalafs
 matalassos
 matallops
+matallums
 matalàs
 matament
 matamosques
@@ -105226,6 +106331,7 @@ matemàtiques
 maten
 material
 materialisme
+materialisme històric
 materialismes
 materialista
 materialistes
@@ -105467,6 +106573,7 @@ matxet
 matxets
 matxo
 matxos
+matxot
 matxucar
 matà
 matàrem
@@ -105494,6 +106601,7 @@ maules
 maurada
 maurador
 maurar
+mauriciana
 mauricià
 mauritanes
 mauritans
@@ -105594,6 +106702,7 @@ mecs
 mecànic
 mecànica
 mecànica celeste
+mecànica quàntica
 mecànicament
 mecànics
 mecàniques
@@ -105625,6 +106734,8 @@ medicaments
 medicar
 medicastre
 medicina
+medicina alternativa
+medicina tradicional
 medicina tradicional xinesa
 medicinal
 medicinals
@@ -105689,10 +106800,15 @@ meditéssim
 meditéssiu
 medití
 medià
+mediàtic
+mediàtica
+mediàtics
+mediàtiques
 medul·la
 medul·la espinal
 medul·la oblonga
 medul·la òssia
+medul·les
 medul·les espinals
 medusa
 medís
@@ -105732,7 +106848,9 @@ mel
 mel de melada
 mel de palma
 mel i mató
+melacotó
 melan-
+melancolia
 melancòlic
 melancòlica
 melancòlics
@@ -105773,6 +106891,7 @@ melindrós
 melisse
 melmelada
 melmelades
+melocotó
 melodia
 melodies
 melodiosa
@@ -105989,14 +107108,12 @@ menis
 menisc
 menja
 menja't els rics
-menjabilitat
 menjable
 menjables
 menjada
 menjades
 menjador
 menjadors
-menjafigues
 menjamel
 menjamel cridaner
 menjamoixines
@@ -106107,7 +107224,6 @@ ment
 menta
 menta boscana
 menta de gat
-menta de gata
 mental
 mentalitat
 mentalitats
@@ -106191,6 +107307,9 @@ menuts
 menxevic
 menys
 menys de
+menyscabament
+menyscabar
+menyscapte
 menysprea
 menyspreable
 menyspreables
@@ -106538,6 +107657,7 @@ meridià
 meridià zero
 meritar
 meritocràcia
+meritocràcies
 meritori
 meritoris
 meritòria
@@ -106556,6 +107676,7 @@ merlet
 merlets
 merlà
 mero
+mero de Nassau
 merovingi
 mers
 merèixer
@@ -106569,6 +107690,7 @@ mesangial
 mesangials
 mesc
 mescla
+mescla racèmica
 mesclada
 mesclades
 mescladissa
@@ -106637,11 +107759,11 @@ mesosfera
 mesosferes
 mesoterm
 mesotròfic
+mesotòrax
 mesquer
 mesquera
 mesquida
 mesquinejar
-mesquineria
 mesquinesa
 mesquineses
 mesquita
@@ -106658,6 +107780,7 @@ messiàniques
 messènic
 mester
 mestissa
+mestissatge
 mestisses
 mestissos
 mestra
@@ -106758,6 +107881,7 @@ metafòrics
 metafòriques
 metal
 metall
+metall alcalí
 metall delta
 metall pesant
 metall preciós
@@ -106835,13 +107959,14 @@ metatarsianes
 metatarsians
 metatarsià
 metatarsos
+metatarsàlgia
 metatextual
 metatextualitat
 metatextualitats
 metatextuals
+metatòrax
 metavers
 metec
-meteix
 metem
 meten
 metent
@@ -106921,6 +108046,7 @@ metrallera
 metralleta
 metran
 metratge
+metratge trobat
 metre
 metre cúbic
 metre quadrat
@@ -106937,6 +108063,10 @@ metrològic
 metrològica
 metrològics
 metrològiques
+metronòmic
+metronòmica
+metronòmics
+metronòmiques
 metropolitana
 metropolitanes
 metropolitans
@@ -107034,6 +108164,7 @@ micoriza
 micorizació
 micos
 micosi
+micosis
 micotoxina
 micro-
 microagressió
@@ -107114,7 +108245,6 @@ mieloma
 mielopatia
 mielopaties
 mies
-mifa
 mig
 mig d'obertura
 mig de melé
@@ -107748,6 +108878,7 @@ mirandesos
 mirandès
 mirant
 mirar
+mirar d'esquitllèbit
 mirar fixament
 miraran
 mirarem
@@ -107828,10 +108959,12 @@ missatgers
 missatges
 misses
 missilístic
+missional
 missioner
 missionera
 missioneres
 missioners
+missionista
 missions
 mississipià
 missiva
@@ -107890,6 +109023,7 @@ mistifiquéssim
 mistifiquéssiu
 mistifiquí
 misto
+misto garibaldi
 mistos
 mistralenc
 misàndria
@@ -108391,6 +109525,9 @@ moduléssim
 moduléssiu
 modulí
 modèlic
+modèlica
+modèlics
+modèliques
 modèstia
 modèsties
 mofa
@@ -108669,6 +109806,7 @@ molíeu
 moment
 moment angular
 moment cinètic
+moment d'inèrcia
 moment de força
 moment magnètic
 momentet
@@ -108855,6 +109993,7 @@ monofòbia
 monofònic
 monografia
 monograma
+monogràfic
 monogàmia
 monogàmies
 monoic
@@ -108875,6 +110014,10 @@ monolítiques
 monomania
 monomi
 monomis
+monomètric
+monomètrica
+monomètrics
+monomètriques
 monoparental
 monoparentals
 monopatí
@@ -108983,6 +110126,7 @@ montblanquins
 montblanquí
 montenegrí
 montesí
+montiformes
 montnerenc
 monts
 montsianenc
@@ -109026,6 +110170,8 @@ monòlits
 monòman
 monòmer
 monòmers
+monòmetre
+monòmetres
 monòton
 monòtona
 monòtonament
@@ -109151,6 +110297,7 @@ morfema zero
 morfemes
 morfina
 morfines
+morfogènic
 morfologia
 morfologies
 morfològic
@@ -109212,6 +110359,7 @@ morrions
 morrissà bord
 morritort
 morritort d'aigua
+morritort d'Índies
 morritort salvatge
 morrió
 morro
@@ -109226,6 +110374,8 @@ mors
 morsa
 mort
 mort assistida
+mort cerebral
+mort de l'autor
 mort sobtada
 mort tèrmica
 morta
@@ -109465,6 +110615,7 @@ motins
 motiu
 motius
 motiva
+motivacional
 motivacions
 motivació
 motivació intrínseca
@@ -109571,6 +110722,7 @@ motocicletes
 motociclisme
 motociclismes
 motociclista
+motocicliste
 motociclistes
 motocròs
 motocultor
@@ -109582,6 +110734,7 @@ motor a reacció
 motor d'explosió
 motor de cerca
 motor de combustió interna
+motor dièsel
 motora
 motores
 motorista
@@ -109632,6 +110785,7 @@ motoritzéssiu
 motoritzí
 motors
 motos
+motoserra
 motriu
 motrius
 mots
@@ -109776,6 +110930,7 @@ mugís
 mugíssim
 mugíssiu
 muhàrram
+mujol
 mul
 mula
 mular
@@ -109948,6 +111103,7 @@ multipliquéssim
 multipliquéssiu
 multipliquí
 multis
+multisensorial
 multitasca
 multitud
 multitudinari
@@ -109983,6 +111139,7 @@ municipis
 munició
 munificència
 munions
+muniquès
 munió
 munt
 munt de compost
@@ -110001,6 +111158,7 @@ muntanyenca
 muntanyencs
 muntanyenques
 muntanyes
+muntanyes Rocoses
 muntanyes russes
 muntanyisme
 muntanyismes
@@ -110171,6 +111329,7 @@ musicòlegs
 musicòloga
 musicòlogues
 muslim
+musseta
 mussol
 mussol banyut
 mussol comú
@@ -110240,7 +111399,6 @@ muto
 muts
 muts i a la gàbia
 mutu
-mutual
 mutualment
 mutus
 mutxameler
@@ -110293,6 +111451,7 @@ màquina
 màquina d'escriure
 màquina de cosir
 màquina de polir
+màquina del temps
 màquina escurabutxaques
 màquina expenedora
 màquina simple
@@ -110307,6 +111466,7 @@ màrtirs
 màscara
 màscara antigàs
 màscara d'oxigen
+màscara mortuòria
 màscara quirúrgica
 màscares
 màser
@@ -110351,6 +111511,7 @@ més endavant
 més enllà
 més i més
 més o menys
+més que res
 més tard
 més trempat que un gínjol
 més val tard que no mai
@@ -110363,7 +111524,6 @@ mínim
 mínima
 mínimes
 mínims
-mínimum
 míssil
 míssils
 místic
@@ -110414,7 +111574,12 @@ músculs
 múse
 músic
 música
+música clàssica
+música de cambra
+música escènica
 música house
+música incidental
+música rock
 músics
 músiques
 múslim
@@ -110670,11 +111835,13 @@ nana roja
 nanes
 nanisme
 nanisme insular
+nanit
 nano
 nano-
 nanos
 nanosegon
 nanosegons
+nanotecnologia
 nans
 nansa
 nansa intestinal
@@ -110687,6 +111854,7 @@ nansú
 nantres
 nanòmetre
 nap
+nap del diable
 nap-buf
 napoleònic
 napoleònica
@@ -110697,7 +111865,6 @@ napolitanes
 napolitans
 napolità
 naps
-naquera
 naquerà
 narbonesa
 narboneses
@@ -110923,7 +112090,6 @@ natzarens
 natzarè
 natzaré
 nau
-nau aèria
 nau espacial
 naufraga
 naufragada
@@ -110983,6 +112149,7 @@ naval
 navalla
 navalla d'Occam
 navalla recta
+navalla suïssa
 navalles
 navalló
 navals
@@ -111042,6 +112209,7 @@ navegàrem
 navegàreu
 navegàvem
 navegàveu
+naveta
 navicular
 navili
 navili de línia
@@ -111072,6 +112240,7 @@ nebuloses
 nebulós
 necessari
 necessaris
+necesser
 necessita
 necessitada
 necessitades
@@ -111144,6 +112313,7 @@ nedada
 nedades
 nedador
 nedadora
+nedadors
 nedant
 nedar
 nedaran
@@ -111301,6 +112471,9 @@ negociació
 negociada
 negociades
 negociador
+negociadora
+negociadores
+negociadors
 negociant
 negociants
 negociar
@@ -111347,6 +112520,7 @@ negociós
 negra
 negre
 negre carbó
+negre d'atzabeja
 negre literari
 negrejar
 negrenc
@@ -111417,7 +112591,11 @@ neguitejàrem
 neguitejàreu
 neguitejàvem
 neguitejàveu
+neguitosa
+neguitoses
+neguitosos
 neguits
+neguitós
 negundo
 negués
 neguéssim
@@ -111453,6 +112631,7 @@ neoclàssic
 neoclàssica
 neoclàssics
 neoclàssiques
+neocòrtex
 neodimi
 neofeixisme
 neogòtic
@@ -111466,10 +112645,13 @@ neolític
 neolítica
 neolítics
 neolítiques
+neomexicana
+neomexicà
 neonatal
 neonatalogia
 neonatals
 neonazi
+neoplatonisme
 neoplàsia
 neoplàsic
 neoplàsies
@@ -111499,6 +112681,7 @@ nervadura
 nervat
 nervi
 nervi ciàtic
+nervi facial
 nervi medià
 nervi pneumogàstric
 nervi vague
@@ -111549,6 +112732,9 @@ neteja ètnica
 netejada
 netejades
 netejador
+netejadora
+netejadores
+netejadors
 netejament
 netejant
 netejar
@@ -111605,12 +112791,17 @@ neuro-
 neuroanatomia
 neurobiologia
 neuroblast
+neurocientífic
+neurocientífica
+neurocientífics
+neurocientífiques
 neurocirurgia
 neurocirurgiana
 neurocirurgianes
 neurocirurgians
 neurocirurgies
 neurocirurgià
+neurociència
 neurocrani
 neurocranial
 neurodegeneratiu
@@ -111618,6 +112809,7 @@ neurodegeneratius
 neurodegenerativa
 neurodegeneratives
 neurodiversitat
+neurodiversitats
 neurofibroma
 neurofibromatosi
 neurofibromes
@@ -111667,7 +112859,13 @@ neuròloga
 neuròlogues
 neuròpata
 neuròtic
+neuròtica
+neuròtics
+neuròtiques
 neuròtrop
+neuròtropa
+neuròtropes
+neuròtrops
 neus
 neutra
 neutral
@@ -111720,6 +112918,7 @@ neutralitzés
 neutralitzéssim
 neutralitzéssiu
 neutralitzí
+neutrals
 neutre
 neutre en carboni
 neutres
@@ -111841,12 +113040,15 @@ nina
 nina de drap
 nina russa
 ninar
+nines
 ningun
 ninguns
 ningú
 ningú dóna duros a quatre pessetes
 ningú no neix ensenyat
 ninja
+nino
+ninos
 ninot
 ninot de neu
 ninot de vudú
@@ -111855,6 +113057,10 @@ ninou
 nins
 ninxo
 niobi
+nipona
+nipones
+nipons
+nipó
 niquelar
 nirvana
 nirvi
@@ -111889,6 +113095,7 @@ nitrós
 nits
 niu
 niu d'ocell
+niu d'oreneta
 niuada
 niuet
 nius
@@ -111907,6 +113114,7 @@ no ... pas
 no agradar
 no aniversari
 no arrodonit
+no ben bé
 no capissono
 no contrastant
 no contrastant això
@@ -111927,6 +113135,7 @@ no fotis
 no fumador
 no fumadora
 no hi ha millor salsa que la de sant Bernat
+no hi ha res de nou sota el sol
 no ho entenc
 no ho sé
 no li miris el dentat
@@ -111940,6 +113149,7 @@ no parlo anglès
 no parlo català
 no passa res
 no perible
+no s'hi val
 no saber ni la a
 no tenir notícies és bona notícia
 no tenir on caure mort
@@ -112092,6 +113302,7 @@ noies
 noiet
 noieta
 noietes
+noiets
 nois
 noli
 noliejar
@@ -112099,8 +113310,10 @@ noltros
 nom
 nom abstracte
 nom d'usuari
+nom de domini
 nom de fonts
 nom de pila
+nom de ploma
 nom del mig
 nom propi
 nom verbal
@@ -112116,21 +113329,25 @@ nombre complex
 nombre d'Avogadro
 nombre de Gödel
 nombre de Mach
+nombre de massa
 nombre enter
 nombre imaginari
 nombre imparell
 nombre irracional
+nombre màssic
 nombre natural
 nombre ordinal
 nombre parell
 nombre perfecte
 nombre primer
+nombre pseudoaleatori
 nombre racional
 nombre real
 nombre rodó
 nombre sencer
 nombres
 nombres abstractes
+nombres amics
 nombres atòmics
 nombres cardinals
 nombres complexos
@@ -112489,6 +113706,7 @@ nostàlgics
 nostàlgies
 nostàlgiques
 nota
+nota de premsa
 notable
 notablement
 notables
@@ -112524,6 +113742,8 @@ noten
 notes
 notessin
 notessis
+noteta
+notetes
 noteu
 noti
 notifica
@@ -112573,6 +113793,7 @@ notifiquí
 notin
 notis
 noto
+notocordi
 notori
 notorietat
 notorietats
@@ -112657,6 +113878,7 @@ novells
 novel·la
 novel·la gràfica
 novel·la picaresca
+novel·la sentimental
 novel·lar
 novel·les
 novel·lesc
@@ -112761,6 +113983,8 @@ numeral
 numerar
 numerari
 numeraris
+numeret
+numerets
 numerologia
 numerària
 numeràries
@@ -112865,6 +114089,7 @@ nàxer
 nècia
 nèciament
 nècies
+nècora
 nèctar
 néixer
 nét
@@ -112908,9 +114133,13 @@ nòvio
 nòvios
 nós
 núbil
+núclid
 núm.
 número
+número de sèrie
+número de telèfon
 números
+números de sèrie
 núpcies
 núvia
 núvies
@@ -113581,11 +114810,15 @@ oca
 oca canadenca
 oca carablanca
 oca cigne
+oca comuna
 oca cridanera
 oca d'Egipte
+oca de collar
 oca de galta blanca
 oca de l'Índia
 oca de les Hawaii
+oca pigmea asiàtica
+oca pradenca
 oca riallera grossa
 oca riallera petita
 ocapi
@@ -113749,6 +114982,8 @@ ocell del paradís
 ocell elefant
 ocell rapaç
 ocell sedós
+ocell sedós americà
+ocell sedós europeu
 ocellaire
 ocellets
 ocells
@@ -114012,7 +115247,6 @@ oeixin
 oeixis
 oeixo
 oest
-ofagar
 ofec
 ofega
 ofegabous
@@ -114239,8 +115473,11 @@ oli de palma
 oli de pinyolada
 oli de ricí
 oli essencial
+oli mineral
 oli vegetal
 oliar
+olibani
+olibano
 olier
 oliera
 olifant
@@ -114273,6 +115510,10 @@ oligoxens
 oligoxè
 oligoxé
 oligàrquic
+oligàrquica
+oligàrquicament
+oligàrquics
+oligàrquiques
 oligòmer
 oligòmers
 oligúria
@@ -114292,9 +115533,13 @@ olivarda
 olivella
 oliver
 olivera
+olivera borda
+oliverar
+olivereda
 oliveres
 olivereta
 olivers
+oliveró
 olives
 olives negres
 olives verdes
@@ -114362,6 +115607,7 @@ olotí
 oltramar
 olècran
 olècranon
+olíban
 olímpic
 olímpica
 olímpicament
@@ -114372,6 +115618,7 @@ oma
 omanita
 omanites
 ombra
+ombra d'ulls
 ombrada
 ombrar
 ombratge
@@ -114471,6 +115718,7 @@ ompliments
 omplin
 omplint
 omplir
+omplir la cistella plena
 ompliran
 omplirem
 ompliren
@@ -114523,6 +115771,7 @@ onada
 onades
 onagra
 onagre
+onanisme
 onclastre
 onclastres
 oncle
@@ -114638,6 +115887,7 @@ ones llargues
 ones mitjanes
 ones portadores
 onicomicosi
+onicòlisi
 oniomania
 oniomanies
 onocentaure
@@ -114960,6 +116210,7 @@ opulència
 opulències
 opuscle
 opòssum
+oquer
 oques
 or
 or dels ximples
@@ -115471,7 +116722,6 @@ orinaven
 orinaves
 orinem
 orinen
-orinera
 orines
 orinessin
 orinessis
@@ -115581,7 +116831,6 @@ oromo
 oromos
 oronell
 oronella
-oronella de mar
 oroneta
 oros
 orpiment
@@ -115634,6 +116883,10 @@ orquestréssim
 orquestréssiu
 orquestrí
 orquídia
+orquídia de la granota
+orquídia del llangardaix
+orquídia encarnada
+orquídia lluna
 orquídies
 orri
 ors
@@ -115667,7 +116920,6 @@ ortopèdic
 ortorèxia
 ortostàtic
 ortoèpia
-ortòedre
 orwel·liana
 orwel·lianes
 orwel·lians
@@ -115680,6 +116932,7 @@ oràrem
 oràreu
 oràvem
 oràveu
+orèada
 orés
 oréssim
 oréssiu
@@ -115696,6 +116949,7 @@ os formiguer pigmeu
 os frontal
 os ilíac
 os lacrimal
+os marí
 os marí septentrional
 os palatí
 os parietal
@@ -115854,6 +117108,7 @@ ostensible
 ostensiblement
 ostensiu
 ostensió
+ostensori
 ostenta
 ostentació
 ostentada
@@ -115976,6 +117231,7 @@ oure
 ouroboros
 ous
 ous de granota
+outfit
 ouvella
 ovacionar
 ovacions
@@ -116141,6 +117397,7 @@ oïu
 oòcit
 oòcits
 p
+p-àdic
 p. e.
 p. ex.
 p. ex. (per exemple)
@@ -116148,6 +117405,7 @@ pa
 pa amb tomàquet
 pa blanc
 pa d'all
+pa de cada dia
 pa de cucut de bosc
 pa de motle
 pa de motlle
@@ -116221,6 +117479,7 @@ pacífics
 pacífiques
 padella
 padellàs
+padixah
 padrastre
 padrastres
 padrina
@@ -116241,6 +117500,7 @@ paella
 paellera
 paelles
 paga
+paga i senyal
 pagada
 pagades
 pagafantes
@@ -116390,6 +117650,8 @@ pala de rentar
 pala mixta
 palada
 paladar
+paladar dur
+paladar tou
 paladars
 paladegem
 paladegen
@@ -116454,6 +117716,7 @@ palanquejar
 palanques
 palanqueta
 palanquí
+palatabilitat
 palatal
 palatalitza
 palatalitzacions
@@ -116542,6 +117805,7 @@ paleontòleg
 paleontòlegs
 paleontòloga
 paleontòlogues
+paleotoca
 paleozoologia
 pales
 palesa
@@ -116567,6 +117831,7 @@ pali
 palilàlia
 palilàlies
 palindròmic
+palingenèsia
 palinologia
 palinòleg
 palissada
@@ -116588,6 +117853,7 @@ pallers
 palleró
 palles
 palleta
+palleta (d'or)
 pallissa
 pallisses
 pallusa
@@ -116712,6 +117978,7 @@ pamplonès
 pamplonés
 pampolatge
 pams
+pan tumaca
 pana
 panacea
 panacota
@@ -116731,7 +117998,6 @@ pancreàtica
 pancreàtics
 pancreàtiques
 panda
-panda gegant
 panda petit
 panda vermell
 pandemoni
@@ -116752,7 +118018,6 @@ panell
 panell solar tèrmic
 panellet
 panells
-paner
 panera
 paneres
 panerola
@@ -116769,7 +118034,6 @@ panical de muntanya
 panical marí
 panicular
 paniculat
-panisser
 panjabi
 panoli
 panorama
@@ -116867,6 +118131,7 @@ pantofla
 pantomim
 pantomima
 pantà
+pantèon
 panxa
 panxabuit
 panxacontent
@@ -116927,8 +118192,10 @@ paper
 paper assecant
 paper carbó
 paper ceba
+paper crepat
 paper cristall
 paper d'alumini
+paper d'arròs
 paper d'empaperar
 paper de cuina
 paper de tornassol
@@ -116939,6 +118206,7 @@ paper esmeril
 paper estirable
 paper higiènic
 paper maixé
+paper milimetrat
 paper pintat
 paperada
 paperassa
@@ -116946,10 +118214,12 @@ paperer
 paperera
 papereres
 papereria
+paperet
 papereta
 papereta d'examen
 papereta de vot
 paperetes
+paperetes de vot
 paperot
 papers
 papers de vàter
@@ -116974,7 +118244,6 @@ papissot
 papissotejar
 pappardelle
 papu
-papur crêp
 papà
 papú
 paquet
@@ -117028,6 +118297,7 @@ paradís
 paradís fiscal
 parafang
 parafangs
+parafernàlia
 parafilètic
 parafinar
 parafràstic
@@ -117090,7 +118360,6 @@ paral·lel
 paral·lela
 paral·lelament
 paral·lelepípede
-paral·lelepípede rectangular
 paral·lelepípedes
 paral·leles
 paral·lelisme
@@ -117127,6 +118396,7 @@ parapent
 parapentista
 parapents
 parapet
+parapetar
 paraplegia
 parapluja
 paraplègic
@@ -117168,6 +118438,8 @@ paratges
 paratiroïdal
 parats
 paraula
+paraula clau
+paraula d’honor
 paraula plana
 paraules
 paraulota
@@ -117180,6 +118452,7 @@ parc
 parc d'atraccions
 parc de bombers
 parc eòlic
+parc industrial
 parc infantil
 parc nacional
 parc natural
@@ -117196,7 +118469,6 @@ parcials
 parcs
 parcs d'atraccions
 pardal
-pardal barraquer
 pardal comú
 pardal d'ala blanca
 pardal de Java
@@ -117267,6 +118539,8 @@ paremiologia
 paremiologies
 paremiòleg
 paren
+parencer
+parenceria
 parences
 parenostre
 parent
@@ -117329,6 +118603,7 @@ parissin
 parissis
 parit
 paritat
+paritats
 parits
 pariu
 parkour
@@ -117454,8 +118729,10 @@ parot
 parotet
 paroxisme
 paroxítona
+parpalló
 parpella
 parpelleig
+parpellejar
 parpelles
 parques
 parquímetre
@@ -117659,10 +118936,12 @@ paròdics
 paròdies
 paròdiques
 parònim
+paròsmia
 pas
 pas a nivell
 pas de Calais
 pas de bou
+pas de l'oca
 pas de tortuga
 pas de vianants
 pas de zebra
@@ -117680,6 +118959,8 @@ pasqua jueva
 pasqual
 pasqües
 passa
+passa (5 peus)
+passa (5⁄6 braça)
 passa en fals
 passa-ho bé
 passa-rius
@@ -117704,6 +118985,7 @@ passar
 passar bou per bèstia grossa
 passar de moda
 passar el Rubicó
+passar el temps
 passar l'aspiradora
 passar l'estona
 passar la mà
@@ -117835,10 +119117,11 @@ pasta d'ametlla
 pasta d'ebenista
 pasta de dents
 pasta de full
+pasta de gambes
+pasta de malví
 pasta de te
 pasta fullada
 pasta fullosa
-pasta seca
 pastac
 pastada
 pastador
@@ -117969,6 +119252,7 @@ pataca
 patacada
 patacades
 patacó
+patafísica
 patagó
 pataplaf
 pataplum
@@ -118067,8 +119351,12 @@ patim
 patiment
 patiments
 patinada
+patinador
 patinar
 patinatge
+patinatge de velocitat
+patinatge sobre gel
+patinatge sobre rodes
 patinet
 patins
 patint
@@ -118130,8 +119418,10 @@ patriarques
 patrici
 patricis
 patrimoni
+patrimoni cultural
 patrimoni cultural immaterial de la humanitat
 patrimoni net
+patrimonial
 patrimonis
 patriota
 patriotes
@@ -118247,9 +119537,12 @@ patuès
 patués
 patètic
 patí
+patí de cua
+patí de fre
 patí de gel
 patí de pedals
 patí de rodes
+patí de vela
 patí en línia
 patíem
 patíeu
@@ -118269,6 +119562,7 @@ pau
 paulí
 paus
 pausa
+pausar
 pauta
 pautat
 pautes
@@ -118393,6 +119687,7 @@ pecàreu
 pecàvem
 pecàveu
 pecíol
+pecíols
 pecúnia
 pedagog
 pedagoga
@@ -118520,6 +119815,7 @@ pedra calcària
 pedra cantonera
 pedra d'esmolar
 pedra de lluna
+pedra de toc
 pedra del ronyó
 pedra en el ronyó
 pedra esmoladora
@@ -118656,15 +119952,20 @@ pejoratives
 pel
 pel cap alt
 pel cap baix
+pel compte de
 pel moixí
 pel qual
 pel que fa a
 pela
 pela de plàtan
+pela-roques
 pelacanyes
 pelada
 pelades
+pelador
+pelagrí
 pelant
+pelapatates
 pelar
 pelar-se-la
 pelaran
@@ -118713,6 +120014,7 @@ pell
 pell anserina
 pell de gallina
 pell de préssec
+pell de taronja
 pell dura
 pellerofa
 pelleró
@@ -118741,10 +120043,13 @@ pelvianes
 pelvians
 pelvis
 pelvià
+pel·letitzar
 pel·li
 pel·liculer
 pel·lis
 pel·lícula
+pel·lícula d'acció
+pel·lícula d'art
 pel·lícula muda
 pel·lícules
 pelà
@@ -118860,7 +120165,6 @@ pencàrem
 pencàreu
 pencàvem
 pencàveu
-pendant
 pendent
 pendents
 penedesenc
@@ -118902,6 +120206,7 @@ penetraré
 penetraríem
 penetraríeu
 penetrat
+penetratiu
 penetrats
 penetrava
 penetraven
@@ -118945,6 +120250,7 @@ penin
 peninsular
 peninsulars
 penis
+penitencial
 penitenciari
 penitenciaris
 penitenciària
@@ -119015,6 +120321,7 @@ pensades
 pensador
 pensadors
 pensament
+pensament crític
 pensament de grup
 pensament de jardí
 pensament silvestre
@@ -119209,6 +120516,7 @@ per caritat
 per casualitat
 per cent
 per cert
+per compte de
 per compte de la casa
 per contra
 per cosa
@@ -119225,6 +120533,7 @@ per favor
 per favor, passeu la sal
 per fi
 per fortuna
+per força
 per l'amor de Déu
 per la gràcia de Déu
 per la qual
@@ -119240,6 +120549,7 @@ per poc
 per què
 per sempre
 per ser
+per ser honest
 per si de cas
 per si mateix
 per si un cas
@@ -119306,6 +120616,7 @@ percentual
 percep
 percepcions
 percepció
+percepció del temps
 percepció extrasensorial
 perceps
 perceptible
@@ -119339,6 +120650,7 @@ perdessis
 perdeu
 perdi
 perdia
+perdible
 perdien
 perdies
 perdiganya
@@ -119353,7 +120665,6 @@ perdiu blanca
 perdiu boreal
 perdiu d'Escòcia
 perdiu de mar
-perdiu de neu
 perdius
 perdo
 perdona
@@ -119404,6 +120715,7 @@ perdre
 perdre el compte
 perdre el seny
 perdre els estreps
+perdre la cistella
 perdre temps
 perdrem
 perdreu
@@ -119476,7 +120788,6 @@ perdí
 perdíem
 perdíeu
 perdó
-perdó?
 perea
 peregrina
 peregrinacions
@@ -119606,6 +120917,7 @@ perfectiu
 perfet
 perfets
 perfil
+perfilador
 perfilador d'ulls
 perfilar
 perfils
@@ -119802,6 +121114,7 @@ perineal
 perineu
 perineus
 perint
+periode eduardià
 periodicitat
 periodicitats
 periodisme
@@ -120018,6 +121331,10 @@ permetíeu
 permisos
 permissibilitat
 permissions
+permissiu
+permissius
+permissiva
+permissives
 permissió
 permuta
 permutable
@@ -120267,6 +121584,7 @@ perseveréssim
 perseveréssiu
 perseverí
 persiana
+persiana enrotllable
 persianes
 persignada
 persignades
@@ -120375,6 +121693,7 @@ personalitzí
 personalment
 personals
 personatge
+personatge de cartó
 personatge no jugador
 personatges
 persones
@@ -120721,6 +122040,7 @@ pesa
 pesada
 pesadament
 pesades
+pesadesa
 pesant
 pesants
 pesar
@@ -120909,6 +122229,10 @@ petaner
 petanera
 petar
 petard
+petarrell
+petarrellada
+petarrelleig
+petarrellejar
 petat
 petats
 petaure del sucre
@@ -120985,6 +122309,7 @@ petrarquisme
 petrarquista
 petrell
 petri
+petricor
 petricó
 petrificar
 petrolat
@@ -120996,6 +122321,7 @@ petroquímic
 petrí
 petròglif
 pets
+pets de llops
 petulant
 petxina
 petxines
@@ -121004,6 +122330,8 @@ petó
 petó amb llengua
 petúnia
 peu
+peu (12 polzadas)
+peu (1⁄6 braça)
 peu de Crist
 peu de cabra
 peu de gall
@@ -121062,6 +122390,7 @@ pi suís
 pi ver
 pi vermell
 piadós
+piagetià
 pianenc
 pianissimo
 pianista
@@ -121075,6 +122404,8 @@ pic
 pica
 pica-soques
 pica-soques blau
+pica-soques de Còrsega
+pica-soques eurasiàtic
 picada
 picades
 picador
@@ -121086,6 +122417,7 @@ picapedra
 picapedrell
 picapedrer
 picapedrera
+picapedreres
 picaplatges
 picaplatges fosc
 picaplatges gros
@@ -121156,6 +122488,7 @@ picàvem
 picàveu
 picè
 picé
+picòrnia
 pidgin
 pidolaire
 pidolar
@@ -121309,6 +122642,7 @@ pillatge
 pillet
 pilot
 pilota
+pilota basca
 pilota de futbol
 pilota de set
 pilota de trencament
@@ -121359,6 +122693,10 @@ pilotí
 piló
 pilós
 pimpinella
+pimpinella major
+pimpinella morada
+pimpinella petita
+pimpinella rosada
 pin
 pinacle
 pinacles
@@ -121446,10 +122784,10 @@ pintés
 pintéssim
 pintéssiu
 pintí
+pinxar
 pinxejar
 pinxo
 pinya
-pinya americana
 pinya de Sant Joan
 pinyac
 pinyata
@@ -121475,6 +122813,7 @@ pinçar
 pioc
 pioca
 piocs
+piohèmia
 piolet
 pioner
 pionera
@@ -121520,6 +122859,7 @@ piramidals
 piranga alanegra
 piranya
 pirata
+pirateig
 piratejar
 pirateria
 pirateries
@@ -121549,6 +122889,7 @@ pirotècnica
 pirotècnics
 pirotècnies
 pirotècniques
+piroxenita
 piroxens
 piroxè
 piroxé
@@ -121574,7 +122915,6 @@ pisanes
 pisans
 pisar
 piscar
-piscatori
 pisces
 pisci-
 pisciforme
@@ -121607,6 +122947,8 @@ pistola de raigs
 pistola radar
 pistoler
 pistoles
+pistonada
+pistó
 pisà
 pit
 pit de pollastre
@@ -121616,6 +122958,9 @@ pitagòric
 pitblau
 pites
 pitet
+pitgrisa
+pitgrís
+pitjar
 pitjor
 pitjor dels casos
 pitjorar
@@ -121637,6 +122982,7 @@ pitxer
 pitxi
 pitxolí
 pitó
+pitó reial
 piu
 piuar
 piula
@@ -121659,6 +123005,7 @@ pixant
 pixapins
 pixapí
 pixar
+pixar fora de test
 pixaran
 pixarem
 pixaren
@@ -121716,9 +123063,12 @@ pizzeria
 pizzeries
 pizzers
 pizzes
+pièmia
+pièmic
 pió
 pk
 pla
+pla complex
 pla inclinat
 pla seqüència
 pla/prou que sí
@@ -121894,9 +123244,11 @@ planimètric
 plans
 planta
 planta baixa
+planta d'interior
 planta del peu
 planta dels diners
 planta enfiladissa
+planta incineradora
 planta suculenta
 plantacions
 plantació
@@ -122098,10 +123450,12 @@ platet volador
 platges
 platicnem
 platinar
+platirrin
 platirrí
 platirí
 platja
 platja de classificació
+platjola
 platonisme
 platonismes
 plats
@@ -122159,6 +123513,7 @@ plegadores
 plegadors
 plegadís
 plegament
+plegamí
 plegant
 plegar
 plegaran
@@ -122220,6 +123575,7 @@ pler
 pleroma
 plers
 plet
+pleta
 plets
 pletòric
 pletòrica
@@ -122361,7 +123717,6 @@ ploveu
 plovia
 plovien
 plovies
-ploviscar
 plovisqueig
 plovisquejar
 plovíem
@@ -122446,6 +123801,7 @@ plàstics
 plàstiques
 plàtan
 plàtan americà
+plàtan d'Amèrica
 plàtan de cuinar
 plàtan fals
 plàtans
@@ -122743,6 +124099,7 @@ polien
 poliens
 polies
 poliesportiu
+poliesportius
 poliestirè
 poliestiré
 polietilens
@@ -122884,6 +124241,7 @@ polititzí
 politja
 politologia
 politonia
+politoxicòman
 polits
 politè
 politècnic
@@ -122928,7 +124286,6 @@ polles
 pollestrenc
 pollestrí
 pollet
-polleta de mar
 pollets
 pollina
 pollinada
@@ -122955,6 +124312,7 @@ polps
 polpís
 polpós
 pols
+pols còsmica
 polsador
 polsant
 polsar
@@ -123043,6 +124401,7 @@ políeu
 polígala
 polígam
 polígon
+polígon industrial
 polígons
 polígraf
 polímer
@@ -123070,6 +124429,7 @@ pom
 pom de dalt
 poma
 poma de closca
+pomaci
 pomada
 pomejat
 pomell
@@ -123085,6 +124445,7 @@ pomerola
 pomers
 pomerània
 pomes
+pomes amb peres
 pomològic
 pompa
 pompes fúnebres
@@ -123161,7 +124522,6 @@ pontarró
 pontatge
 pontellanenc
 pontet
-pontifical
 pontificat
 pontifici
 pontificis
@@ -123246,6 +124606,7 @@ porc espí
 porc fer
 porc formiguer
 porc senglar
+porc vietnamita
 porca
 porca misèria
 porcatera
@@ -123335,6 +124696,7 @@ portadora
 portadores
 portadors
 portaequipatge
+portaequipatges
 portaestendard
 portafileres
 portal
@@ -123346,6 +124708,7 @@ portamines
 portant
 portantveus
 portaobjectes
+portapalets
 portar
 portar aigua al mar
 portar banyes
@@ -123456,6 +124819,7 @@ posar en el mateix sac
 posar en perill
 posar en quarantena
 posar en relleu
+posar nom a algù amb
 posar un parany
 posar-se
 posar-se bo
@@ -123590,6 +124954,7 @@ posseïa
 posseïda
 posseïdes
 posseïdor
+posseïdors
 posseïen
 posseïes
 posseïm
@@ -123651,6 +125016,7 @@ post de pit
 post de planxar
 post fronterer
 post-
+post-producció
 posta
 posta de lluna
 posta de sol
@@ -123672,6 +125038,7 @@ postilló
 postissa
 postisses
 postissos
+postitis
 postludi
 postludis
 postmodernisme
@@ -123884,7 +125251,7 @@ pou d'extracció
 pou negre
 pouar
 pous
-poyl
+poutine
 poètic
 poètica
 poèticament
@@ -123938,8 +125305,10 @@ practiquéssiu
 practiquí
 prada
 pradenc
+pradenca
 praderia
 praderies
+prades
 pradial
 pragmatisme
 pragmàtic
@@ -123952,12 +125321,18 @@ pragueses
 praguesos
 praguès
 pragués
+prandial
 praseodimi
 prat
 prats
 pre-
 prear
 prearqueà
+preautonomia
+preautonòmic
+preautonòmica
+preautonòmics
+preautonòmiques
 prebenda
 prec
 precambrià
@@ -124013,6 +125388,7 @@ precedíssim
 precedíssiu
 precepte
 preceptes
+precintar
 preciosa
 precioses
 preciosos
@@ -124112,6 +125488,8 @@ preciós
 precoces
 precocitat
 precocitats
+precognició
+precolombina
 precolombines
 precolombins
 precolombí
@@ -124602,6 +125980,7 @@ prenyi
 prenyin
 prenyis
 prenyo
+prenys
 prenyà
 prenyàrem
 prenyàreu
@@ -124773,9 +126152,11 @@ presbiterianisme
 presbiteris
 presbiterià
 presbícia
+prescient
 prescindible
 prescindir
 presciència
+prescriure
 presencial
 presencialment
 presencials
@@ -124987,6 +126368,7 @@ pressionéssiu
 pressioní
 pressió
 pressió arterial
+pressió atmosfèrica
 pressió osmòtica
 pressió venosa
 pressuposar
@@ -125104,6 +126486,8 @@ presumpta
 presumptament
 presumpte
 presumptes
+presumptiu
+presumptivament
 presumptuós
 presumí
 presumíem
@@ -125201,6 +126585,7 @@ prevaricat
 prevaricats
 prevencions
 prevenció
+prevenda
 prevenen
 prevenent
 prevenia
@@ -125340,6 +126725,7 @@ principat
 principats
 principesc
 principi
+principi actiu
 principi d'equivalència
 principi d'incertesa
 principi de Le Chatelier
@@ -125412,6 +126798,9 @@ prisar
 prisma
 prismes
 prismàtic
+prismàtica
+prismàtics
+prismàtiques
 pristina
 pristines
 pristins
@@ -125516,6 +126905,7 @@ priví
 prió
 pro
 proa
+proactiu
 proba d'accés a l'universitat
 probabilitat
 probabilitats
@@ -126082,6 +127472,9 @@ profètics
 profètiques
 profús
 progenitor
+progenitora
+progenitores
+progenitors
 progenitura
 prognosi
 programa
@@ -126130,6 +127523,7 @@ programi
 programin
 programis
 programo
+programoteca
 programà
 programàrem
 programàreu
@@ -126241,7 +127635,6 @@ prohibíreu
 prohibís
 prohibíssim
 prohibíssiu
-prohom
 projeccions
 projecció
 projecta
@@ -126268,6 +127661,7 @@ projectava
 projectaven
 projectaves
 projecte
+projecte de llei
 projectem
 projecten
 projectes
@@ -126551,6 +127945,7 @@ promovien
 promovies
 promovíem
 promovíeu
+prompte
 promulga
 promulgacions
 promulgació
@@ -126708,6 +128103,7 @@ pronunciï
 pronunciïn
 pronunciïs
 pronòstic
+pronòstic meteorològic
 pronòstics
 pronòstiga
 pronúncia
@@ -126763,9 +128159,11 @@ propagàreu
 propagàvem
 propagàveu
 proparoxíton
+propendir
 propens
 propensa
 propenses
+propensions
 propensió
 propensos
 proper
@@ -126836,7 +128234,6 @@ propis
 propis i estranys
 proporciona
 proporcionada
-proporcionadament
 proporcionades
 proporcional
 proporcionalitat
@@ -127277,6 +128674,7 @@ proteòmica
 proti
 proto-maia
 protoactini
+protobasc
 protocol
 protocols
 protocol·lari
@@ -127303,10 +128701,12 @@ protònic
 protònica
 protònics
 protòniques
+protòrax
 protó
 prou
 prou!
 prous
+proustià
 prova
 prova del nou
 prova i error
@@ -127567,6 +128967,7 @@ pruïda
 pruïdes
 pruïen
 pruïes
+pruïges
 pruïja
 pruïm
 pruïn
@@ -127595,6 +128996,7 @@ prémer
 préssec
 préssec pla
 préssecs
+préssecs plans
 préstec
 préstecs
 prímula
@@ -127608,6 +129010,8 @@ prínceps blaus
 pròdig
 pròfug
 pròfuga
+pròfugs
+pròfugues
 prògnat
 pròleg
 pròlegs
@@ -127635,6 +129039,7 @@ prónaos
 psalm
 psalmejar
 pseudo-
+pseudoaleatori
 pseudocientífic
 pseudociència
 pseudoefedrina
@@ -127643,6 +129048,7 @@ pseudohermafrodita
 pseudohermafrodites
 pseudohermafroditisme
 pseudohermafroditismes
+pseudohistòric
 pseudovector
 pseudònim
 pseudònims
@@ -127721,6 +129127,7 @@ psicopatia
 psicopatologia
 psicopatològic
 psicopatòleg
+psicopedagògic
 psicopomp
 psicopàtic
 psicosi
@@ -127835,6 +129242,7 @@ publiquéssim
 publiquéssiu
 publiquí
 puc
+puc ajudar-lo?
 puc entrar?
 puces
 pucu
@@ -127981,6 +129389,7 @@ pulsional
 pulsioximetria
 pulsioxímetre
 pulsió
+pulverimetal·lúrgia
 pulça
 puma
 pumicita
@@ -128032,6 +129441,7 @@ punt alçat
 punt cardinal
 punt cec
 punt d'honor
+punt d'inflexió
 punt de creu
 punt de foc
 punt de joc
@@ -128064,6 +129474,7 @@ puntala
 puntaler
 puntar
 punter
+punter làser
 puntera
 punteres
 punters
@@ -128202,6 +129613,11 @@ punyen
 punyent
 punyents
 punyeta
+punyeter
+punyetera
+punyeteres
+punyeteria
+punyeters
 punyetes
 punyi
 punyia
@@ -128267,6 +129683,9 @@ pureses
 purgacions
 purgar
 purgatiu
+purgatius
+purgativa
+purgatives
 purgatori
 purgatoris
 purifica
@@ -128334,6 +129753,7 @@ puríssima
 puríssimes
 puríssims
 pus
+pusil·lanimitat
 pusil·lànime
 put
 puta
@@ -128379,6 +129799,7 @@ pàmpola
 pàncrees
 pànic
 pànics
+pàpules perlades
 pària
 pàrquing
 pàrquings
@@ -128391,6 +129812,7 @@ pàtina
 pàtria
 pàtries
 pècari
+pècari de collar
 pèl
 pèl caní
 pèl moixí
@@ -128440,6 +129862,7 @@ pètals
 péixer
 pétasos
 pícea
+pícnic
 pífia
 píleu
 pílor
@@ -128451,6 +129874,7 @@ pírric
 píxel
 píxels
 píxide
+pòdcast
 pòdium
 pòlip
 pòlissa
@@ -128460,6 +129884,7 @@ pòl·lens
 pòmul
 pòmuls
 pòntic
+pòntica
 pònting
 pòquer
 pòquers
@@ -128467,6 +129892,7 @@ pòrtic
 pòrtics
 pòrtland
 pòsit
+pòsit marítim
 pòster
 pòsters
 pòstit
@@ -128503,6 +129929,7 @@ qatariana
 qatarianes
 qatarians
 qatarià
+qingsongita
 quad
 quadern
 quaderna
@@ -128683,7 +130110,7 @@ quansevol
 quant
 quant a
 quant de temps
-quant val?
+quant vals?
 quant és?
 quanta
 quantes
@@ -128866,6 +130293,8 @@ quatre-centè
 quatres
 que
 que a la fi es trenca
+que defend
+que defensa
 que et fotin !
 que hi ha algú que parli anglès?
 que jo sàpiga
@@ -128936,7 +130365,6 @@ queixalada
 queixalades
 queixalar
 queixals
-queixals de vella
 queixals del seny
 queixant
 queixar
@@ -129060,6 +130488,8 @@ quim
 quimelca
 quimera
 quimeres
+quimerut
+quimerós
 quimioterapèutic
 quimioterapèutica
 quimioteràpia
@@ -129148,6 +130578,7 @@ quiropràctic
 quiropràctica
 quiropràctics
 quiropràctiques
+quirra
 quiròfan
 quiròfans
 quirúrgic
@@ -129238,8 +130669,9 @@ quàquer
 quàsar
 què
 què collons
-què hi ha?
+què hi ha
 què significa...
+què tal
 què vol dir...
 quèiem
 quèieu
@@ -129395,6 +130827,7 @@ racial
 racials
 raciocinacions
 raciocinació
+raciocinar
 raciocini
 racional
 racionalisme
@@ -129451,10 +130884,12 @@ racisme
 racismes
 racista
 ració
+racnar
 raconada
 raconer
 raconera
 racons
+racèmic
 racó
 rada
 radar
@@ -129538,6 +130973,7 @@ radiofònica
 radiofònics
 radiofòniques
 radiografia
+radiografies
 radiograma
 radiolari
 radiologia
@@ -129655,6 +131091,7 @@ ral d'ardits
 ral de vuit
 ralinga
 ralingar
+rallar
 rals
 ral·li
 ral·lis
@@ -129763,7 +131200,6 @@ rantell
 ranuncle
 ranura
 ranxo
-raola
 raona
 raonable
 raonablement
@@ -129963,12 +131399,16 @@ raspar
 raspat
 raspats
 raspinell
-raspós
+raspinell americà
+raspinell comú
+raspinell pirinenc
 rasquem
 rasquen
 rasques
 rasquessin
 rasquessis
+rasquet
+rasqueta
 rasqueu
 rasqui
 rasquin
@@ -130030,7 +131470,7 @@ rastrejàvem
 rastrejàveu
 rastres
 rasura
-rasó
+rasurar
 rat
 rata
 rata cellarda
@@ -130229,6 +131669,7 @@ rave
 rave blanc
 rave de mar
 rave japonès
+rave negre
 rave picant
 rave rusticà
 rave xinès
@@ -130263,6 +131704,7 @@ raïmós
 raïssa
 raïssos
 raó
+raó de ser
 re
 re-
 rea
@@ -130314,6 +131756,8 @@ reaccionéssiu
 reaccioní
 reacció
 reacció de Cannizzaro
+reacció en cadena
+reacció en cadena de la polimerasa
 reaci
 reactant
 reactiu
@@ -130411,6 +131855,7 @@ reafirméssim
 reafirméssiu
 reafirmí
 real
+realimentació
 realisme
 realismes
 realista
@@ -130709,6 +132154,7 @@ rebent
 rebenta
 rebenta-
 rebentada
+rebentadalla
 rebentades
 rebentant
 rebentapisos
@@ -131675,6 +133121,9 @@ recolzéssim
 recolzéssiu
 recolzí
 recol·lectar
+recol·lecte
+recol·lector
+recol·lectora
 recomana
 recomanable
 recomanables
@@ -132270,6 +133719,7 @@ rectangular
 rectangulars
 recte
 rectes
+rectes finals
 rectifica
 rectificada
 rectificades
@@ -132576,7 +134026,9 @@ redimíssim
 redimíssiu
 redirecció
 redirigir
+redistribucions
 redistribució
+redistribuir
 redolta
 redona
 redones
@@ -132640,7 +134092,6 @@ reduït
 reduïts
 reduïu
 redó
-reebre
 reedició
 reedita
 reeditada
@@ -132764,6 +134215,7 @@ reelegíreu
 reelegís
 reelegíssim
 reelegíssiu
+reembolsable
 reemborsament
 reemborsar
 reemplacem
@@ -133088,6 +134540,8 @@ refinades
 refinador
 refinament
 refinant
+refinançament
+refinançar
 refinar
 refinaran
 refinarem
@@ -133570,6 +135024,7 @@ refrigerí
 refringir
 refugi
 refugi antiatòmic
+refugi d'animals
 refugia
 refugiada
 refugiades
@@ -134007,6 +135462,7 @@ regiréssiu
 regirí
 regiríem
 regiríeu
+regis
 regissin
 regissis
 registra
@@ -134057,8 +135513,12 @@ regit
 regits
 regiu
 regió
+regió administrativa especial
+regió autònoma
+regió ultraperifèrica
 regla
 regla de Cramer
+regla de L'Hôpital
 regla general
 reglament
 reglaments
@@ -134399,6 +135859,7 @@ reina
 reina de les flors
 reina dels boscs
 reina dels prats
+reinar
 reincident
 reincidir
 reincidència
@@ -134874,6 +136335,8 @@ relaxés
 relaxéssim
 relaxéssiu
 relaxí
+relectura
+relectures
 religions
 religiosa
 religiosament
@@ -135022,8 +136485,10 @@ relligàreu
 relligàvem
 relligàveu
 relliscada
+relliscall
 relliscar
 relliscós
+rellisquent
 rellogar
 rellotge
 rellotge de polsera
@@ -135032,6 +136497,8 @@ rellotge de sorra
 rellotger
 rellotgera
 rellotgeres
+rellotgeria
+rellotgeries
 rellotgers
 rellotges
 relluc
@@ -135248,6 +136715,7 @@ remenades
 remenador
 remenant
 remenar
+remenar les cireres
 remenar-se
 remenaran
 remenarem
@@ -135449,6 +136917,8 @@ remoldràs
 remoldré
 remoldríem
 remoldríeu
+remoleig
+remolejar
 remolem
 remolen
 remolent
@@ -136230,6 +137700,7 @@ reparéssim
 reparéssiu
 reparí
 repassada
+repatriacions
 repatriació
 repatriar
 repelenc
@@ -136336,6 +137807,8 @@ repeteixi
 repeteixin
 repeteixis
 repeteixo
+repetell
+repetellar-se
 repetia
 repetible
 repeticions
@@ -136345,6 +137818,7 @@ repetidament
 repetides
 repetidor
 repetidora
+repetidors
 repetien
 repeties
 repetim
@@ -136583,6 +138057,7 @@ reposeu
 reposi
 reposin
 reposis
+repositori
 reposo
 reposos
 reposà
@@ -137346,6 +138821,7 @@ resolien
 resolies
 resols
 resolt
+resolta
 resolucions
 resolució
 resolut
@@ -137418,6 +138894,7 @@ respiració artificial
 respirada
 respirades
 respirador
+respirador mèdic
 respiradors
 respirant
 respirar
@@ -137519,8 +138996,10 @@ resposta
 resposta immunitària
 resposta sensorial meridiana autònoma
 respostes
+resquitllar
 resquitx
 ressaca
+ressaga
 ressalt
 ressalta
 ressaltada
@@ -137657,6 +139136,8 @@ ressenyéssiu
 ressenyí
 ressogra
 ressogre
+ressol
+ressolar
 ressonador
 ressonador de Helmholtz
 ressonant
@@ -137808,6 +139289,7 @@ restades
 restant
 restants
 restar
+restar amagat
 restaran
 restarem
 restaren
@@ -137830,6 +139312,7 @@ restauració
 restaurada
 restaurades
 restaurador
+restauradors
 restaurament
 restaurant
 restaurants
@@ -137894,6 +139377,9 @@ restrenyiment
 restriccions
 restricció
 restrictiu
+restrictius
+restrictiva
+restrictives
 restringeix
 restringeixen
 restringeixes
@@ -138097,7 +139583,6 @@ retardada
 retardades
 retardant
 retardar
-retardar-se
 retardaran
 retardarem
 retardaren
@@ -138157,6 +139642,7 @@ reticle
 reticle endoplàsmic
 reticulòcit
 reticència
+reticències
 retien
 reties
 retin
@@ -138386,6 +139872,7 @@ retribució
 retribuir
 retrien
 retries
+retroacció
 retroactiu
 retroactius
 retroactiva
@@ -138852,6 +140339,7 @@ reverencií
 reverenciï
 reverenciïn
 reverenciïs
+reverenciós
 reverend
 reverent
 reverentment
@@ -139120,7 +140608,6 @@ revitalitzéssiu
 revitalitzí
 reviure
 revoca
-revocable
 revocació
 revocada
 revocades
@@ -139256,6 +140743,8 @@ ribeller
 riber
 riber negre
 ribera
+riberal
+riberejar
 riberenc
 riberenca
 riberencs
@@ -139456,6 +140945,7 @@ riscoses
 riscosos
 riscs
 riscós
+risible
 risoteràpia
 rissaga
 rissar
@@ -139691,6 +141181,7 @@ rodiola
 rodis
 rodo
 rododendre
+rododèndron
 rodola
 rodolada
 rodolades
@@ -139784,6 +141275,9 @@ roman
 romana
 romanalla
 romanc
+romancejar
+romancer
+romancista
 romandran
 romandre
 romandrem
@@ -139835,9 +141329,11 @@ romanogermàniques
 romans
 romanticisme
 romanticismes
+romantitzar
 romanx
 romanç
 romança
+romanço
 romanços
 romanència
 romanès
@@ -139889,6 +141385,7 @@ rompo
 rompran
 rompre
 rompre el glaç
+rompre's
 romprem
 rompreu
 rompria
@@ -139927,6 +141424,8 @@ romàs
 ronc
 ronca
 roncada
+roncadell
+roncadera
 roncades
 roncadissa
 roncador
@@ -139963,6 +141462,7 @@ ronda (carretera)
 rondalla
 rondalla de la vora del foc
 rondallaire
+rondallejar
 rondalles
 rondes
 rondiment
@@ -140085,6 +141585,7 @@ roquer
 roquerol
 roques
 roques ígnies
+roquetam
 roquetar
 rorqual
 rorqual blau
@@ -140193,6 +141694,7 @@ rossellonés
 rosses
 rosset
 rossinyol
+rossinyol cuablau
 rossinyols
 rossos
 rossí
@@ -140237,6 +141739,7 @@ rotaré
 rotaríem
 rotaríeu
 rotat
+rotatiu
 rotats
 rotava
 rotaven
@@ -140282,6 +141785,7 @@ rotés
 rotéssim
 rotéssiu
 rotí
+rotífer
 rou
 rouada
 roure
@@ -140366,7 +141870,6 @@ ruandès
 ruandés
 rubarbre
 rubicund
-rubicunda
 rubidi
 rubiol
 rubiol de bosc
@@ -140623,6 +142126,7 @@ russes
 russificar
 russojaponès
 russos
+rusticitat
 rustiquesa
 ruta
 rutena
@@ -140640,6 +142144,9 @@ ruté
 ruà
 ruïna
 ruïnes
+ruïnosa
+ruïnoses
+ruïnosos
 ruïnós
 rwandès
 ràbia
@@ -140653,6 +142160,7 @@ ràfec
 ràfecs
 ràfega
 ràfegues
+ràfia
 rànquing
 rànquings
 ràpel
@@ -140668,6 +142176,8 @@ rècords
 rècula
 rècules
 rèdit
+règia
+règies
 règim
 règims
 rèiem
@@ -140761,7 +142271,6 @@ sabateria
 sabaters
 sabates
 sabates de paper
-sabates foradades
 sabates grosses
 sabatilla
 sabatilles
@@ -140893,7 +142402,6 @@ sac amniòtic
 sac de bivac
 sac de boxa
 sac de cops
-sac de dormi
 sac de dormir
 sac de gemecs
 sac àmnic
@@ -141069,7 +142577,6 @@ sacsonut
 sacsó
 sacàrid
 sacàrids
-sadisme
 sadoll
 sadolla
 sadollada
@@ -141226,6 +142733,7 @@ sakhà
 sal
 sal d'api
 sal de la terra
+sal de taula
 sala
 sala d'estar
 sala d'operacions
@@ -141287,6 +142795,7 @@ saler
 sales
 sales d'estar
 sales d'operacions
+salesià
 salessin
 salessis
 saleu
@@ -141351,6 +142860,7 @@ salmorra
 salmorrar
 salmorreta
 salmorro
+salmòdia
 salmó
 salmó europeu
 salmó fumat
@@ -141478,6 +142988,7 @@ salsitxa de Frankfurt
 salsitxa de Viena
 salsitxaire
 salsitxes
+salsitxes de Frankfurt
 salsona
 salsufragi
 salt
@@ -141589,6 +143100,7 @@ saludéssim
 saludéssiu
 saludí
 salut
+salut mental
 salutacions
 salutació
 salutació angèlica
@@ -141611,6 +143123,7 @@ salvadorenyes
 salvadorenys
 salvadors
 salvant
+salvapantalles
 salvar
 salvaran
 salvarem
@@ -141839,6 +143352,7 @@ sanitàries
 sans
 sant
 sant i senya
+sant sínode
 santa
 santcrist
 santcristos
@@ -142041,6 +143555,7 @@ sartori
 sartoris
 sarvatxo
 sarzir
+sassafràs
 sasseresa
 sassereses
 sasseresos
@@ -142185,16 +143700,13 @@ saturin
 saturis
 saturn
 saturnal
-saturnal [1]
 saturni
-saturni [1]
 saturnina
 saturnines
 saturnins
 saturnis
 saturnisme
 saturnià
-saturnià [1]
 saturní
 saturo
 saturà
@@ -142259,6 +143771,7 @@ saïms
 saó
 saüc
 saücs
+schorre
 schwa
 scrimshaw
 se
@@ -142268,6 +143781,7 @@ seat of honor
 sebaci
 sebacis
 sebollir
+seborrea
 seborreic
 sebre
 sebàcia
@@ -142453,8 +143967,13 @@ sediciós
 sediment
 sedimentacions
 sedimentació
+sedimentar
+sedimentari
+sedimentaris
 sedimentologia
 sediments
+sedimentària
+sedimentàries
 seduccions
 seducció
 seductor
@@ -142660,6 +144179,8 @@ segresta
 segrestada
 segrestades
 segrestador
+segrestadora
+segrestadores
 segrestadors
 segrestant
 segrestar
@@ -142941,6 +144462,7 @@ selectives
 selectivitat
 seleni
 selenita
+selenocèntric
 selenogràfic
 selenur
 seljúcid
@@ -142969,6 +144491,7 @@ semal
 semala
 semaler
 semantema
+semantemes
 semasiològic
 sembla
 semblada
@@ -143074,16 +144597,23 @@ semiautomàtic
 semiautomàtica
 semiautomàtics
 semiautomàtiques
+semiautònom
+semiautònoma
+semiautònomes
+semiautònoms
 semicercle
 semicercles
 semicircular
 semicirculars
+semicircumferència
+semicircumferències
 semiconductor
 semiconductors
 semideessa
 semideu
 semidéu
 semieix
+semifactorial
 semifinal
 semifinalista
 semifinalistes
@@ -143122,6 +144652,7 @@ semitò
 semivida
 semiòtica
 sempervirent
+sempitern
 sempre
 sempre que
 sempre un sis o un as
@@ -143135,6 +144666,8 @@ semàntics
 semàntiques
 semític
 semítica
+sena
+senabre
 senador
 senadora
 senadores
@@ -143163,6 +144696,7 @@ senegaleses
 senegalesos
 senegalès
 senegalés
+senes
 senglar
 senglars
 sengles
@@ -143187,6 +144721,7 @@ sense anar més lluny
 sense assignar
 sense cap mena de dubte
 sense endolcir
+sense engaltar
 sense fil
 sense fills
 sense forma
@@ -143408,7 +144943,6 @@ senzills
 senària
 separa
 separable
-separablement
 separables
 separacions
 separació
@@ -143468,6 +145002,7 @@ septentrió
 septenària
 septuplicar
 sepulcral
+sepulcrals
 sepulcre
 sepulcres
 sepulta
@@ -143525,6 +145060,7 @@ sequi
 sequoia
 seqüela
 seqüeles
+seqüenciació
 seqüencial
 seqüencials
 seqüència
@@ -143533,6 +145069,7 @@ seqüències
 ser
 ser aprovat
 ser home mort
+ser millor
 ser més llest que algú
 ser responsable
 ser un cul inquiet
@@ -143569,6 +145106,7 @@ serien
 series
 serietat
 serietats
+serigot
 serigrafia
 seriosa
 seriosament
@@ -143580,6 +145118,7 @@ serjant
 sermonari
 sermons
 sermó
+sero-
 seroconcordant
 serodiscordant
 serofòbia
@@ -143629,6 +145168,7 @@ serra circular
 serra d'arc
 serra de cadena
 serra de metalls
+serracaps
 serrada
 serrades
 serradora
@@ -143714,6 +145254,7 @@ serventesc
 server
 servera
 serverola
+serves
 servia
 servici
 servicis
@@ -143887,6 +145428,7 @@ setmaner
 setmaners
 setmanes
 setmania
+setmesó
 setra
 setres
 setrill
@@ -143970,6 +145512,8 @@ sexaven
 sexaves
 sexe
 sexe anal
+sexe casual
+sexe oral
 sexe telefònic
 sexem
 sexen
@@ -144039,6 +145583,7 @@ si i només si
 si li plau
 si més no
 si no
+si no m'equivoco
 si només
 si passa el pitjor
 si per cas
@@ -144071,7 +145616,9 @@ sicilià
 sicle
 sicofanta
 sicofantes
+sicofància
 sida
+sidecar
 siderúrgia
 siderúrgies
 sidra
@@ -144303,6 +145850,7 @@ sil·labari
 sil·labejar
 sil·labificació
 sil·logisme
+sil·logisme disjuntiu
 sil·logismes
 sil·làbic
 sil·làbica
@@ -144319,6 +145867,7 @@ simbiòtics
 simbiòtiques
 simbolisme
 simbolismes
+simbolista
 simbolitza
 simbolitzada
 simbolitzades
@@ -144658,6 +146207,7 @@ sinofòbia
 sinonímic
 sinople
 sinopsi
+sinopsis
 sinovitis
 sintagma
 sintagma nominal
@@ -144709,6 +146259,7 @@ sintetitzéssim
 sintetitzéssiu
 sintetitzí
 sintonia
+sintonies
 sintonitza
 sintonitzada
 sintonitzades
@@ -144779,6 +146330,10 @@ sinònim
 sinònima
 sinònimes
 sinònims
+sinòptic
+sinòptica
+sinòptics
+sinòptiques
 sinó
 sionisme
 sionista
@@ -144839,6 +146394,7 @@ sistema limfàtic
 sistema límbic
 sistema mètric
 sistema nerviós
+sistema nerviós autònom
 sistema operatiu
 sistema parasimpàtic
 sistema reproductor
@@ -144866,6 +146422,7 @@ sisó
 sisó emplomallat
 sit
 sit blanc
+sit capnegre
 sit golanegre
 sit pintat
 sita golanegre
@@ -144920,6 +146477,7 @@ sitrell
 situa
 situacions
 situació
+situació de competició
 situada
 situades
 situant
@@ -144994,6 +146552,7 @@ sobrassada
 sobrassades
 sobre
 sobre de carta
+sobre la marxa
 sobre paper
 sobre-
 sobreacceleració
@@ -145008,6 +146567,9 @@ sobrealimentats
 sobrealè
 sobreargentar
 sobrebot
+sobrecoberta
+sobrecàrrega
+sobrecàrrega sensorial
 sobredosi
 sobreeixir
 sobreescalfa
@@ -145088,6 +146650,7 @@ sobreestimi
 sobreestimin
 sobreestimis
 sobreestimo
+sobreestimulació
 sobreestimà
 sobreestimàrem
 sobreestimàreu
@@ -145515,6 +147078,7 @@ socioeconòmic
 socioeconòmica
 socioeconòmics
 socioeconòmiques
+socioeducatiu
 sociolecte
 sociolingüístic
 sociolingüística
@@ -145533,6 +147097,9 @@ sociòlegs
 sociòloga
 sociòlogues
 sociòpata
+socorredor
+socorriment
+socorrisme
 socorrista
 socorristes
 socors
@@ -145686,6 +147253,7 @@ solana
 solans
 solant
 solapa
+solapar
 solar
 solaran
 solarem
@@ -145709,7 +147277,9 @@ solava
 solaven
 solaves
 solc
+solcada
 solcar
+solcat
 solcs
 solda
 soldada
@@ -146027,8 +147597,10 @@ solífug
 som
 som-hi
 soma
+somaia
 somali
 somalis
+somall
 somatotropina
 sombra
 sombres
@@ -146319,6 +147891,7 @@ sonéssiu
 soní
 sopa
 sopa de lletres
+sopa de niu d'oreneta
 sopada
 sopades
 sopaller
@@ -146375,6 +147948,7 @@ sopí
 soques
 sor
 sorbet
+sorbir
 sorbosa
 sord
 sord com una tàpia
@@ -146438,6 +148012,7 @@ sorgíreu
 sorgís
 sorgíssim
 sorgíssiu
+sorigot
 soriguer
 sorn
 sorna
@@ -147054,6 +148629,8 @@ subduir
 subdural
 subdurals
 subec
+subespai
+subespais
 subespècie
 subespècies
 subestima
@@ -147151,6 +148728,8 @@ subhastéssiu
 subhastí
 subiugō
 subjacent
+subjeccions
+subjecció
 subjecta
 subjectar
 subjecte
@@ -147190,6 +148769,7 @@ subjectiveu
 subjectivi
 subjectivin
 subjectivis
+subjectivisme
 subjectivitat
 subjectivo
 subjectivà
@@ -147729,6 +149309,7 @@ successió
 successor
 successora
 successores
+successori
 successors
 successos
 succeí
@@ -147765,9 +149346,9 @@ sucoses
 sucosos
 sucralosa
 sucre
-sucre cernut
 sucre de llustre
-sucre glacé
+sucre mascavado
+sucre mascavat
 sucre roig
 sucrer
 sucrera
@@ -147830,7 +149411,6 @@ suficiència
 suficiències
 sufisme
 sufix
-sufixal
 sufixos
 sufoca
 sufocació
@@ -148090,6 +149670,7 @@ superilles
 superin
 superior
 superioritat
+superioritat aèria
 superioritat numèrica
 superioritats
 superiors
@@ -148290,7 +149871,10 @@ supleixo
 suplement
 suplementar
 suplementari
+suplementaris
 suplements
+suplementària
+suplementàries
 suplent
 suplents
 suplert
@@ -148468,6 +150052,7 @@ supranacional
 suprem
 suprema
 supremacia
+supremacista
 supremament
 supremes
 suprems
@@ -148603,6 +150188,8 @@ surem
 suren
 surenc
 sureny
+sureny bai
+sureny fosc
 surer
 surera
 sures
@@ -148613,6 +150200,8 @@ surf
 surf de neu
 surfista
 surgir
+surgència
+surgències
 suri
 suricata
 surin
@@ -148816,6 +150405,7 @@ suàreu
 suàvem
 suàveu
 suèter
+suèters
 sués
 suéssim
 suéssiu
@@ -148932,6 +150522,7 @@ sèrie
 sèries
 sèrum
 sèrum de mantega
+sèrums
 sèsam
 sèsams
 sèssil
@@ -148942,6 +150533,7 @@ sé
 séc
 sécs
 ségol
+sénia
 sénior
 sépia
 séquia
@@ -148960,8 +150552,6 @@ símbol
 símbol d'estatus
 símbols
 símil
-símila
-símiles
 símils
 símplex
 símptoma
@@ -148975,11 +150565,14 @@ síndries
 síndrome
 síndrome alcohòlica fetal
 síndrome d'Estocolm
+síndrome d'abstinència
 síndrome de Behçet
 síndrome de Down
 síndrome de Guillain-Barré
 síndrome del canal carpià
 síndrome del túnel carpià
+síndrome d’esgotament professional
+síndrome premenstrual
 síndromes
 sínia
 sínies
@@ -149063,6 +150656,7 @@ t'hi
 t'ho
 t'odie
 t'odio
+ta
 taba
 tabac
 tabac indi
@@ -149078,6 +150672,7 @@ tabals
 tabaquejar
 tabaquer
 tabaquera
+tabaquera anatòmica
 tabaqueres
 tabaqueria
 tabaqueries
@@ -149448,6 +151043,7 @@ tanca viva
 tancada
 tancades
 tancament
+tancament patronal
 tancaments
 tancant
 tancar
@@ -149621,6 +151217,7 @@ tapeu
 tapi
 tapiar
 tapin
+tapiner
 tapioca
 tapir
 tapis
@@ -149738,11 +151335,13 @@ tarentí
 targes
 targeta
 targeta blava
+targeta de circuits
 targeta de crèdit
 targeta de dèbit
 targeta de lector
 targeta de visita
 targeta groga
+targeta gràfica
 targeta gráfica
 targeta mare
 targeta postal
@@ -149951,6 +151550,7 @@ taumaturgs
 taumaturgues
 taumatúrgia
 taumatúrgic
+taur
 taure
 tauroboli
 tauromàquia
@@ -149969,6 +151569,7 @@ tauró de mans llargues
 tauró de puntes blanques
 tauró follet
 tauró fosc
+tauró guineu
 tauró lleopard
 tauró martell
 tauró nassut
@@ -149994,6 +151595,7 @@ taverner
 tavernes
 tavà
 taxa
+taxa d'interès
 taxa de mortalitat
 taxador
 taxar
@@ -150011,6 +151613,7 @@ taxonòmica
 taxonòmics
 taxonòmiques
 taxímetre
+taxímetres
 taxó
 taüt
 taüts
@@ -150232,6 +151835,7 @@ telefonia fixa
 telefonies
 telefonin
 telefonis
+telefonista
 telefono
 telefonà
 telefonàrem
@@ -150271,6 +151875,8 @@ telenovel·la
 telenovel·les
 teleologia
 teleològic
+teleoperador
+teleoperadora
 telepantalla
 telepatia
 teleporqueria
@@ -150359,6 +151965,10 @@ tellerina
 tellina
 tellines
 telofase
+teloner
+telonera
+teloneres
+teloners
 telons
 telugu
 tel·lur
@@ -150368,6 +151978,7 @@ telèfon
 telèfon de disc
 telèfon intel·ligent
 telèfon mòbil
+telèfon públic
 telèfons
 telègraf
 telègrafs
@@ -150530,7 +152141,6 @@ teméssiu
 temí
 temíem
 temíeu
-ten
 tenaces
 tenacitat
 tenacitats
@@ -150644,6 +152254,7 @@ tenir por de
 tenir present
 tenir raó
 tenir sentit
+tenir temps
 tenir vara alta
 tenis
 tenis de taula
@@ -150802,6 +152413,7 @@ teoritzí
 teorètic
 teosof
 teosofia
+teosofies
 teosòfic
 teques
 tequila
@@ -150842,6 +152454,9 @@ terebint
 terebints
 terebè
 terebé
+tergiversable
+tergiversació
+tergiversador
 tergiversar
 termal
 termalisme
@@ -150888,6 +152503,7 @@ terminessin
 terminessis
 termineu
 termini
+termini de prescripció
 terminin
 terminis
 termino
@@ -150944,6 +152560,7 @@ termòmetre
 termòmetres
 tern
 terna
+ternal
 ternari
 terolà
 terpens
@@ -150953,6 +152570,7 @@ terpé
 terra
 terra de Cucanya
 terra de Xauxa
+terra del xe
 terra ferma
 terra franca
 terrabastall
@@ -151117,6 +152735,7 @@ terrè
 terré
 terrícola
 terròs
+terròs (de sucre)
 terrós
 tertuliana
 tertulianes
@@ -151125,6 +152744,7 @@ tertulià
 tertúlia
 tertúlies
 teràpia
+teràpia cognitivo-conductual
 teràpies
 terç
 terços
@@ -151179,6 +152799,10 @@ test d'alcoholèmia
 test d'embaràs
 test de Rorschach
 testa
+testador
+testadora
+testadores
+testadors
 testaferro
 testament
 testaments
@@ -151243,7 +152867,6 @@ testimoniatge
 testimoniatges
 testimonis
 testos
-testosterona
 tests
 tests de Rorschach
 testó
@@ -151325,7 +152948,6 @@ textuals
 textura
 textures
 texà
-teïna
 teòcrata
 teòcrates
 teòleg
@@ -151414,9 +153036,12 @@ tifarada
 tifarades
 tifes
 tiflitis
+tifoidal
 tifoide
 tifort
 tifus
+tifus endèmic
+tifus epidèmic
 tifó
 tiges
 tigra
@@ -151580,6 +153205,7 @@ tiradors
 tirallet
 tiralínies
 tiramisú
+tirana
 tiranejar
 tiranet
 tirania
@@ -151780,6 +153406,7 @@ titelles
 tites
 titeta
 titeta sorda
+titin
 titlla
 titllada
 titllades
@@ -151947,6 +153574,7 @@ tituli
 titulin
 titulis
 titulització
+titulitzar
 titulo
 titulà
 titulàrem
@@ -152019,6 +153647,7 @@ tocàrem
 tocàreu
 tocàvem
 tocàveu
+toesa
 tofa
 tofenc
 tofoner
@@ -152033,6 +153662,9 @@ togolès
 togolés
 toia
 toix
+toixa
+toixes
+toixos
 toixó
 toixó americà
 tokhari
@@ -152127,20 +153759,19 @@ toll
 tolosà
 tols
 tolt
+tolta
 toluè
 tolué
 tolíem
 tolíeu
 tom
 tomaca
-tomacó
 tomanyí
 tomaní
 tomaquera
 tomaquera d'arbre
 tomaques
 tomar
-tomata
 tomateguera
 tomatera
 tomatigueta daurada
@@ -152200,9 +153831,6 @@ tomografia
 tomàquet
 tomàquet d'arbre
 tomàquets
-tomàtec
-tomàtic
-tomàtiga
 ton
 tona
 tonada
@@ -152438,9 +154066,9 @@ tord cellard
 tord comú
 tord golanegre
 tord negre
+tord pitgrís
 tord roquer
 torderenc
-toreig
 torejador
 torejar
 torero
@@ -152595,6 +154223,8 @@ torraríem
 torraríeu
 torrat
 torrats
+torratxa
+torratxes
 torrava
 torraven
 torraves
@@ -152603,6 +154233,7 @@ torre Eiffel
 torre de control
 torre de guaita
 torre de l'homenatge
+torre de refrigeració
 torre de rellotge
 torre del silenci
 torre mestra
@@ -152665,11 +154296,17 @@ tortosins
 tortosí
 torts
 tortuga
+tortuga aligator
+tortuga al·ligàtor
+tortuga babaua
+tortuga carei
 tortuga careta
 tortuga de closca tova
 tortuga de jardí
+tortuga llaüt
 tortuga marina
 tortuga mossegadora
+tortuga verda
 tortugues
 tortura
 torturada
@@ -152770,14 +154407,17 @@ toscós
 tosquedat
 tosquejar
 tosquirar
+tossa
 tossal
 tossals
 tossar
+tossera
 tossia
 tossida
 tossides
 tossien
 tossies
+tossiguera
 tossim
 tossint
 tossir
@@ -152829,6 +154469,7 @@ tot i que
 tot junt
 tot just
 tot plegat
+tot s'apanya
 tot s'hi val
 tot seguit
 tot sol
@@ -152941,6 +154582,7 @@ toxiinfecció alimentària
 toxina
 toxines
 tra-
+traballar
 trabeació
 trabuc
 trabucada
@@ -153253,6 +154895,7 @@ trampes
 trampista
 trampolins
 trampolí
+tramposa
 trampós
 trams
 tramuntana
@@ -153332,6 +154975,7 @@ transbordador
 transbordadors
 transbordament
 transbordar
+transcapacitat
 transcaucasià
 transcendent
 transcendentalisme
@@ -153588,6 +155232,8 @@ transgènic
 transgènica
 transgènics
 transgèniques
+transhumanisme
+transhumanista
 transicions
 transició
 transició de fase
@@ -153786,6 +155432,7 @@ transmutació
 transmutar
 transmès
 transmés
+transpalet
 transparent
 transparentment
 transparents
@@ -153872,6 +155519,7 @@ trapezis
 trapezista
 trapezoide
 trapezoïdal
+trapezoïdals
 traqueal
 traqueals
 traqueobronquitis
@@ -154031,11 +155679,14 @@ trastorn afectiu
 trastorn bipolar
 trastorn d'identitat de gènere
 trastorn de comportament alimentari
+trastorn de l'alimentació
 trastorn esquizoide de la personalitat
 trastorn histriònic de la personalitat
+trastorn mental
 trastorn paranoide de la personalitat
 trastorn per afartament
 trastorn per dèficit d'atenció amb hiperactivitat
+trastorn per dèficit d'atenció i hiperactivitat
 trastorn per estrès posttraumàtic
 trastornar
 trastorns
@@ -154107,6 +155758,7 @@ traus
 trava
 travacavalls
 travador
+travadors
 travallengua
 travallengües
 travar
@@ -154162,6 +155814,7 @@ travestismes
 travestí
 traveta
 travetes
+travois
 través
 traç
 traça
@@ -154230,6 +155883,10 @@ traïts
 traïu
 treball
 treball de camp
+treball en equip
+treball forçós
+treball infantil
+treball sexual
 treballa
 treballada
 treballades
@@ -154362,6 +156019,7 @@ trempons
 trempó
 tremuja
 tren
+tren tramvia
 trena
 trenada
 trenades
@@ -154420,11 +156078,9 @@ trencapassa
 trencapedra
 trencapinyes
 trencapinyes becgròs
-trencapinyes comú
 trencapinyes d'ala blanca
 trencapinyes de la Hispaniola
 trencar
-trencar el servei
 trencar-se
 trencaran
 trencarem
@@ -154762,6 +156418,7 @@ tribulat
 tribulats
 tribuna
 tribunal
+tribunal cangur
 tribunal constitucional
 tribunal militar
 tribunals
@@ -154832,6 +156489,7 @@ tridents
 tridentí
 tridimensional
 tridimensionals
+tridimita
 tridu
 triella
 triem
@@ -155375,10 +157033,17 @@ troleibús
 trolejar
 tromba
 trombe
+trombocitopènia
 tromboembolisme
 trombonista
 trombons
 trombosi
+trombòcit
+trombòcits
+trombòtic
+trombòtica
+trombòtics
+trombòtiques
 trombó
 trompa
 trompa de Fal·lopi
@@ -155393,6 +157058,7 @@ trompes
 trompet
 trompeta
 trompeta de la mort
+trompeta grisa
 trompeta xinesa
 trompetada
 trompetejar
@@ -155482,7 +157148,11 @@ trossar
 trossejar
 trossos
 trossos de quòniam
+trot
 trota
+trotada
+trotador
+trotar
 trotllo
 trotllo negre
 trotllo ovat
@@ -155491,13 +157161,13 @@ trotskista
 troç
 truc
 truca
+truca els bombers
 truca la policia
 truca una ambulància
 trucada
 trucades
 trucant
 trucar
-trucar als bombers
 trucaran
 trucarem
 trucaren
@@ -155524,6 +157194,10 @@ trucàreu
 trucàvem
 trucàveu
 trufa
+trufa cuita
+trufada
+trufador
+trufar
 trufes
 truges
 truisme
@@ -155673,11 +157347,11 @@ tub d'assaig
 tub de buit
 tuba
 tubercle
-tubercolosi pulmonar
 tuberculosi
 tubs
 tubular
 tubulars
+tuca
 tucans
 tucà
 tudar
@@ -155752,6 +157426,8 @@ tunelar
 tungstè
 tungsté
 tungús
+tunicat
+tunicel·la
 tunisiana
 tunisianes
 tunisians
@@ -155775,6 +157451,9 @@ turba
 turbant
 turbes
 turbina
+turbina d'aigua
+turbina de gas
+turbina de vapor
 turbines
 turbohèlice
 turbohèlix
@@ -155792,6 +157471,7 @@ turcmans
 turcs
 turingi
 turisme
+turisme sexual
 turista
 turistes
 turistificació
@@ -155818,6 +157498,7 @@ turística
 turístics
 turístiques
 turó
+turó marbrat
 tus
 tussen
 tusses
@@ -155877,6 +157558,7 @@ tutora
 tutores
 tutoria
 tutorial
+tutoritzar
 tutors
 tutti frutti
 tutti-frutti
@@ -155911,6 +157593,7 @@ txi-kung
 txuktxi
 txuvaix
 txítxero
+tzatziki
 tàcit
 tàcita
 tàcitament
@@ -156198,6 +157881,8 @@ ullada
 ullades
 ullal
 ullals
+ullastre
+ullastre de frare
 ullat
 ullblau
 ullblaus
@@ -156205,9 +157890,14 @@ ullblava
 ullblaves
 ullera
 ullera de llarga vista
+ulleral
+ullerer
 ulleres
 ulleres de protecció
 ulleres de sol
+ulleres violetes
+ullerol
+ullerós
 ullprendre
 ulls
 ulls compostos
@@ -156233,6 +157923,7 @@ ultramarins
 ultramars
 ultramarí
 ultrapassar
+ultraperifèric
 ultrasò
 ultrasónico
 ultratge
@@ -156291,10 +157982,11 @@ umiac
 un
 un altre
 un altre cop
+un cas com un cabàs
 un cop
 un dia
 un pa
-un poc
+un senabre
 un xic
 una
 una altra
@@ -156705,6 +158397,7 @@ unànime
 unànimement
 unànimes
 unça
+unça (1
 uní
 uníem
 uníeu
@@ -156918,6 +158611,7 @@ usual
 usualment
 usuals
 usuari
+usuari final
 usuaris
 usufructuar
 usufructuari
@@ -157156,6 +158850,8 @@ vacunés
 vacunéssim
 vacunéssiu
 vacuní
+vacuïtat
+vacúol
 vaga
 vaga de fam
 vaga general
@@ -157197,6 +158893,7 @@ vaiver
 vaiverejar
 vaivé
 vaixell
+vaixell a la vista
 vaixell de càrrega
 vaixell de guerra
 vaixell en una botella
@@ -157288,6 +158985,7 @@ valons
 valor
 valor cívic
 valor de mercat
+valor veritatiu
 valora
 valoracions
 valoració
@@ -157410,6 +159108,7 @@ vanitoses
 vanitosos
 vanitós
 vano
+vanover
 vans
 vanta
 vantada
@@ -157523,6 +159222,8 @@ vaqueta de pi
 vaqueta negra
 var
 vara
+vara (1⁄2 braça)
+vara (3 peus)
 vara d'or
 varca
 varec
@@ -157767,6 +159468,7 @@ vehements
 vehemència
 vehemències
 vehicle
+vehicle aeri no tripulat
 vehicle d'hidrogen
 vehicles
 vehicula
@@ -157826,7 +159528,6 @@ veieu
 veig
 veixiga
 veixigues
-veixina
 veié
 veiérem
 veiéreu
@@ -157835,6 +159536,7 @@ veiéssim
 veiéssiu
 vejam
 vel
+vel del paladar
 vela
 vela aurica
 vela cangrea
@@ -158013,7 +159715,6 @@ vencíeu
 venda
 venda en descobert
 vendaval
-vendebou
 vendemiari
 vendes
 vendibilitat
@@ -158210,6 +159911,7 @@ ventilador
 ventilador de pedestal
 ventilador de sostre
 ventilador del sostre
+ventilador mecànic
 ventiladors
 ventilant
 ventilar
@@ -158382,11 +160084,14 @@ verdum
 verdura
 verdures
 verdós
+vereda
 veredicte
 verema
 veremar
 veremes
 verga
+vergallada
+vergançó
 vergat
 verge
 verger
@@ -158401,6 +160106,11 @@ vergonyosament
 vergonyoses
 vergonyosos
 vergonyós
+verguejar
+verguer
+verguera
+vergueta
+vergàs
 verifica
 verificable
 verificacions
@@ -158462,7 +160172,10 @@ verm
 vermell
 vermell de remolatxa
 vermella
+vermellejar
+vermellenc
 vermelles
+vermellet
 vermellor
 vermellosa
 vermelloses
@@ -158518,6 +160231,7 @@ versió
 versos
 versus
 versàtil
+versàtils
 vertader
 vertadera
 vertaderes
@@ -158550,8 +160264,10 @@ vescs
 vesicular
 vesiculars
 vespa
+vespa asiàtica gegant
 vesper
 vespes
+vespra
 vesprada
 vesprades
 vespre
@@ -158625,6 +160341,7 @@ vestigial
 vestigis
 vestim
 vestiment
+vestimenta
 vestint
 vestir
 vestir-se
@@ -158680,6 +160397,7 @@ vesícules seminals
 vesícules vitel·lines
 vet
 veta
+veta per als cabells
 vetada
 vetades
 vetant
@@ -158864,6 +160582,7 @@ vi rosat
 via
 via ferrada
 via fèrria
+via pecuària
 via romana
 viabilitat
 viabilitats
@@ -158879,6 +160598,7 @@ viaranys
 viari
 viaris
 viatge
+viatge de cotxe
 viatge en el temps
 viatgem
 viatgen
@@ -158991,6 +160711,8 @@ vicepresidentes
 vicepresidents
 vicepresidència
 vicepresidències
+vicesecretari
+vicesecretaris
 viceversa
 vichy
 vichyssoise
@@ -159036,7 +160758,11 @@ videoconferència
 videoconsola
 videocàmera
 videojoc
+videojoc d'esport
 videojoc de plataformes
+videojoc de sigil
+videojoc de tir
+videojoc de trencaclosques
 videojocs
 videojugador
 videojugadora
@@ -159224,11 +160950,15 @@ vinc
 vinca
 vinca petita
 vincapervinca
+vinclada
+vincladís
+vinclament
 vinclar
 vinclar-se
 vincle
 vincles
 vincula
+vinculable
 vinculacions
 vinculació
 vinculada
@@ -159291,6 +161021,7 @@ vindríem
 vindríeu
 vine
 vinent
+vinents
 viner
 vinga
 vinguda
@@ -159413,7 +161144,6 @@ viola alba
 viola boscana
 viola canina
 viola d'olor
-viola de bruixa
 viola de gamba
 viola de roda
 viola groga
@@ -159876,6 +161606,7 @@ vocacions
 vocació
 vocal
 vocal neutra
+vocalisme
 vocalista
 vocalistes
 vocalitza
@@ -160151,6 +161882,9 @@ voltí
 volum
 volumetria
 volumetries
+voluminosa
+voluminoses
+voluminosos
 voluminós
 volums
 volumètric
@@ -160219,7 +161953,6 @@ vomiteu
 vomiti
 vomitin
 vomitis
-vomitiu
 vomito
 vomità
 vomitàrem
@@ -160526,6 +162259,7 @@ vulnerarem
 vulneraren
 vulnerares
 vulnerareu
+vulnerari
 vulneraria
 vulnerarien
 vulneraries
@@ -160552,6 +162286,7 @@ vulnero
 vulnerà
 vulneràrem
 vulneràreu
+vulnerària
 vulneràvem
 vulneràveu
 vulnerés
@@ -160571,9 +162306,13 @@ vàlua
 vàlues
 vàlvula
 vàlvula cardíaca
+vàlvula d'alleujament
+vàlvula d'alleujament de pressió
+vàlvula de seguretat
 vàlvules
 vàndal
 vàndals
+vànoa
 vànova
 vàreig
 vàrem
@@ -160584,7 +162323,6 @@ vèdic
 vèiem
 vèieu
 vèncer
-vèncer, derrotar, batre
 vènet
 vèneta
 vènetes
@@ -160637,6 +162375,7 @@ vòrtexs
 vòtic
 vós
 w
+wampum
 wantan
 wanton
 waterpolista
@@ -160658,7 +162397,6 @@ wiki
 wikis
 wilaya
 witherita
-wolframi
 wonton
 wyandot
 wàter
@@ -160671,9 +162409,13 @@ x
 xa
 xabec
 xacal
+xacal comú
 xacal d'Etiòpia
 xacal de llom negre
+xacal gris
+xacal ratllat
 xacals
+xacona
 xacra
 xacres
 xacrós
@@ -160865,6 +162607,7 @@ xaloquejar
 xaloquell
 xaloquet
 xals
+xalupa
 xalà
 xalàrem
 xalàreu
@@ -160956,6 +162699,7 @@ xarop d'auró
 xarop de palma
 xarop simple
 xaropera
+xarops
 xaropós
 xarpellera
 xarranca
@@ -161008,6 +162752,7 @@ xarrupéssiu
 xarrupí
 xarxa
 xarxa de deriva
+xarxa elèctrica
 xarxa informàtica
 xarxa social
 xarxa tròfica
@@ -161076,6 +162821,7 @@ xatrac
 xatrac becllarg
 xatrac comú
 xatrac d'albufera
+xatrac fluvial
 xatrac menut
 xatrac àrtic
 xats
@@ -161091,6 +162837,7 @@ xavales
 xavalla
 xavals
 xaves
+xe
 xebronat
 xebronet
 xebró
@@ -161106,7 +162853,10 @@ xeic
 xeics
 xeix
 xeixs
+xel
+xelet
 xemeneia
+xemeneia d'aire
 xemeneia de fades
 xemeneia d’aire
 xemeneia francesa
@@ -161114,7 +162864,6 @@ xemeneies
 xenilla
 xenisme
 xenixell
-xenofilia
 xenofília
 xenofòb
 xenofòbia
@@ -161134,10 +162883,13 @@ xeric
 xericar
 xericà
 xerigot
+xerigots
 xeringa
 xeringues
 xerinola
 xerinoles
+xerlovita
+xerlovita camagroga
 xerocopiar
 xerocòpia
 xerografia
@@ -161208,14 +162960,17 @@ xerrí
 xerès
 xerés
 xeviot
+xibec
+xibec bru
 xibec cap-roig
-xibeca
+xibec peposaca
 xiboc
 xibòlet
 xic
 xica
 xicalla
 xicana
+xicle
 xiclet
 xiclet de nicotina
 xiclets
@@ -161225,6 +162980,9 @@ xicot
 xicota
 xicotes
 xicotet
+xicoteta
+xicotetes
+xicotets
 xicots
 xicotàs
 xicra
@@ -161238,6 +162996,7 @@ xifra
 xifra aràbiga
 xifra romana
 xifrar
+xifrat
 xifratge
 xifratge clàssic
 xifrer
@@ -161252,7 +163011,6 @@ xilemes
 xilena
 xilenes
 xilens
-xilla
 xillar
 xilo-
 xilofonista
@@ -161531,6 +163289,7 @@ xiïta
 xiïtes
 xo
 xoc
+xoc de colzes
 xoc sèptic
 xoca
 xocada
@@ -161725,7 +163484,6 @@ xucruts
 xueta
 xuetes
 xufa
-xufanc
 xufera
 xuferes
 xufes
@@ -161749,9 +163507,9 @@ xunga
 xungo
 xungos
 xungues
-xupa
 xurma
 xurmes
+xurrasco
 xurreria
 xurreries
 xurriacada
@@ -161838,6 +163596,7 @@ zaireses
 zairesos
 zairès
 zairés
+zakat
 zalabia
 zambiana
 zambianes
@@ -161856,6 +163615,7 @@ zelandesos
 zelandès
 zelandés
 zelkova
+zelós
 zenit
 zenits
 zepelí
@@ -161970,6 +163730,7 @@ zona horària
 zona monetària
 zona morta
 zona neutral
+zona sensible de la biodiversitat
 zona tropical
 zonal
 zones
@@ -162073,10 +163834,12 @@ zòsters
 Èumenes
 Èxode
 É
-Ìngrid
 Í
 Ícar
 Índia
+Índies
+Índies Occidentals
+Índies Orientals
 Ístria
 Ítala
 Ï
@@ -162085,6 +163848,8 @@ zòsters
 Òlt i Garona
 Òscar
 Ó
+Óblast de Kíev
+Óblast de Kíiv
 Óssos Amorosos
 Øresund
 Ú
@@ -162330,7 +164095,6 @@ zòsters
 ànec canyella
 ànec collverd
 ànec cuallarg
-ànec cullerot
 ànec de Carolina
 ànec de Pequín
 ànec de goma
@@ -162376,6 +164140,7 @@ zòsters
 àpex
 àrab
 àrab egipci
+àrabis
 àrabs
 àrbitra
 àrbitre
@@ -162385,6 +164150,7 @@ zòsters
 àrduament
 àrdues
 àrea
+àrea de càstig
 àrea de joc infantil
 àrea de meta
 àrea de penal
@@ -162437,7 +164203,6 @@ zòsters
 àzeri
 àzeris
 àzim
-ánsar común
 ç
 ça
 ça i enllà
@@ -162497,12 +164262,12 @@ zòsters
 èxtasi
 é
 ébens
+época
 érem
 éreu
 és
 és a dir
 és clar
-és inútil la salsa
 és més fàcil dir-ho que fer-ho
 és només la meva opinió
 és segur aquí
@@ -162534,6 +164299,7 @@ zòsters
 índex
 índexs
 índia
+índic
 índies
 ínfim
 ínfima
@@ -162597,6 +164363,7 @@ zòsters
 òssia
 òssies
 òstria
+òstria americana
 òtic
 òvid
 òvul
@@ -162619,6 +164386,7 @@ zòsters
 ós del Tibet
 ós formiguer
 ós malai
+ós marí
 ós morrut
 ós negre americà
 ós polar
@@ -162657,7 +164425,6 @@ zòsters
 útils
 úvula
 ü
-дегӏ
 ဂဥုဲချေံ
 ’l
 ’ls
@@ -162669,5 +164436,4 @@ zòsters
 → Italian: nostromo
 ◌̀
 ◌́
-◌̇
 聚四氟乙烯

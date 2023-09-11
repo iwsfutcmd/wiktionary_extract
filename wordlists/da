@@ -10,6 +10,7 @@
 (vaske)-program
 -'
 -'-
+-`vert``vert`-
 -a
 -abel
 -agtig
@@ -94,6 +95,7 @@
 -on
 -onym
 -plade
+-plastik
 -s
 -s-
 -sel
@@ -103,7 +105,6 @@
 -ske
 -skjold
 -skop
--slukker
 -som
 -st
 -stridig
@@ -115,7 +116,6 @@
 -tægt
 -vis
 -yn
--||-
 -årig
 -årige
 -årigt
@@ -155,6 +155,7 @@
 4.
 5.
 50'er
+500.)
 6.
 60-årig
 60-åring
@@ -198,6 +199,7 @@ ABC's
 ADHD
 ASSR
 ATK-stander
+Aabenraa
 Aachen
 Aagaard
 Aage
@@ -305,12 +307,14 @@ Alice
 Allah
 Allan
 Alma
+Almindelig Daglig Levevis
 Alper
 Alperne
 Alsace
 Altai
 Altaj
 Altaj kraj
+Alting
 Alvilda
 Alvin
 Alzheimers sygdom
@@ -341,6 +345,7 @@ Anders
 Anders And
 Anders And-blad
 Andersen
+Andersson
 Andes
 Andesbjergene
 Andet Korintherbrev
@@ -355,6 +360,7 @@ Andreasen
 Andresen
 Andromeda
 André
+Andøya
 Ane
 Anette
 Angara
@@ -576,6 +582,7 @@ Basse-Terre
 Basseterre
 Bastian
 Batseba
+Bay
 Bayern
 Beate
 Beaufort-skalaen
@@ -672,6 +679,7 @@ Bluetooth
 Blåbjerg
 Blåtand
 Bo
+Bob
 Bodensøen
 Bodil
 Bogotá
@@ -730,7 +738,6 @@ Britta
 Brixton
 Brjansk
 Brno
-Bronzealder
 Brun
 Brunei
 Bruno
@@ -969,6 +976,7 @@ Davidsstjerne
 De
 De Danskvestindiske Øer
 De Forenede Nationer
+De alliancefrie landes bevægelse
 De anglo-normandiske Øer
 De kanariske Øer
 Dehnkirurgi
@@ -987,6 +995,7 @@ Den Demokratiske Folkerepublik Korea
 Den Demokratiske Socialistiske Republik Sri Lanka
 Den Engelske kirke
 Den Europæiske Centralbank
+Den Europæiske Union
 Den Finske Bugt
 Den Forbudte By
 Den Føderative Republik Brasilien ()
@@ -996,10 +1005,9 @@ Den Himmelske Freds Plads
 Den Høje Port
 Den Iberiske Halvø
 Den Internationale Domstol
-Den Internationale Telekommunikations Union
 Den Islamiske Republik Iran
 Den Islamiske Republik Pakistan
-Den Kinesiske Folkerepublik ()
+Den Kinesiske Folkerepublik
 Den Kinesiske Mur
 Den Nye Verden
 Den Orientalske Republik Uruguay
@@ -1009,7 +1017,6 @@ Den Socialistiske Republik Vietnam
 Den Syriske Arabiske Republik
 Den Tidligere Jugoslaviske Republik Makedonien
 Den Tjekkiske Republik
-Den Tyrkiske Republik Nordcypern
 Den arabiske republik Egypten
 Den arabiske republik Ægypten
 Den bestøvlede kat
@@ -1092,6 +1099,8 @@ Dortmund
 Dover
 Doverstrædet
 Downs syndrom
+Drafn
+Dravn
 Dresden
 Dronningens engelsk
 Dublin
@@ -1241,7 +1250,6 @@ Europarådet
 Europas syge mand
 Europavej
 Europæisk portugisisk
-Europæiske Union
 Eurotunnelen
 Eurydike
 Euterpe
@@ -1295,8 +1303,8 @@ Finske Bugt
 Firebanden
 Firenze
 Firsårskrigen
+Fischer
 Fiskene
-Fiskene ♓︎
 Fisker
 Fjerde Mosebog
 Fjernkarelen
@@ -1309,17 +1317,20 @@ Flensburg
 Flevoland
 Florida
 Floridas
+Flyvende Fæstning
 Folkeforbund
 Folkerepublikken Donetsk
 Folkerepublikken Kina
 Folketing
 Folketinget
 Folkets Befrielseshær
+Folkmar
 ForbudsSverige
 Forbudssverige
 Forbundsrepublikken Nigeria
 Forbundsrepublikken Tyskland
 Forenede Arabiske Emirater
+Forenede Arabiske Republik
 Forenede Kongerige
 Forenede Stater
 Forlandet
@@ -1330,6 +1341,7 @@ Frands
 Frandsen
 Frank
 Franken
+Frankfurt
 Frankrig
 Frans
 Fransk Flandern
@@ -1389,6 +1401,7 @@ Gaas
 Gabon
 Gaborone
 Gabriel
+Gade
 Gaia
 Galaterbrevet
 Galicien
@@ -1453,6 +1466,7 @@ Gorkij
 Gorm
 Gotfred
 Gotland
+Gravesen
 Great Salt Lake
 Greater London
 Gregers
@@ -1515,6 +1529,7 @@ Guttorm
 Guyana
 Gyldenbørste
 Gytkjær
+Gælisk fodbold
 Gøteborg
 H
 HMS
@@ -1534,6 +1549,7 @@ Halmsted
 Hamborg
 Hamiltonoperator
 Hamlet
+Hammer
 Hanna
 Hannah
 Hanne
@@ -1556,6 +1572,7 @@ Harare
 Hardy
 Harriet
 Harry
+Hartmann
 Hassania
 Hattusas
 Hauts-de-France
@@ -1633,6 +1650,7 @@ Hizbollah
 Hjalmar
 Hjalte
 Hjaltland
+Hjorth
 Hjørdis
 Hohenzollern
 Hokkaido
@@ -1641,11 +1659,13 @@ Holgersen
 Holland
 Hollandsk Ostindien
 Holm
+Holmberg
 Holmgaard
 Holocaust
 Holocæn
 Holst
 Holsten
+Holt
 Homer
 Honduras
 Hongkong
@@ -1673,6 +1693,7 @@ Hyklerne
 Hyperion
 Hypnos
 Hälsingborg
+Høder
 Højbjerg
 Højsangen
 Høng
@@ -1780,6 +1801,7 @@ Jacob
 Jacobine
 Jacobsen
 Jaffa
+Jahve
 Jainisme
 Jakarta
 Jakob
@@ -1814,6 +1836,7 @@ Jeanett
 Jeanette
 Jeanne
 Jeannette
+Jeddah
 Jehova
 Jehovas Vidner
 Jehovas Vidners Rigssal
@@ -1881,7 +1904,6 @@ Johs.
 Jokum
 Jomfru Maria
 Jomfruen
-Jomfruen ♍︎
 Jomfruøerne
 Jon
 Jonas
@@ -1921,6 +1943,8 @@ Jutland north of the Limfjord
 Juzjno-Sakhalinsk
 Jylland
 Jytte
+Jæderen
+Jæger
 Jægerbombe
 Jødiske autonome oblast
 Jørgen
@@ -1932,11 +1956,13 @@ K
 K (konge)
 K-vitamin
 KBH
+KD
 KDM
 KISS
 KS
 K_S
 Ka'ba
+Kaas
 Kaastrup
 Kabardino-Balkarien
 Kabul
@@ -1960,6 +1986,7 @@ Kambriske Eksplosion
 Kamilla
 Kamma
 Kampala
+Kampuchea
 Kamtjatka
 Kanaan-hund
 Kanaløerne
@@ -2055,7 +2082,6 @@ Kilikien
 Kim
 Kimære
 Kina
-Kina ()
 Kinaradisen
 Kinesisk Taipei
 Kingston
@@ -2066,6 +2092,7 @@ Kirgisiske SSR
 Kirgisiske Socialistiske Sovjetrepublik
 Kirgisistan
 Kiribati
+Kirk
 Kirke
 Kirkenes
 Kirkestaten
@@ -2105,6 +2132,7 @@ Kolossenserbrevet
 Kolyma
 Komi
 Komintern
+Komiske Ali (Comical Ali)
 Kommandørøerne
 Komsomolsk ved Amur
 Komsomolsk-na-Amure
@@ -2113,6 +2141,7 @@ Konfutse
 Kong Arthur
 Kong Karls Land
 Kongelige Flåde
+Kongeriget Bahrain
 Kongeriget Belgien
 Kongeriget Cambodja
 Kongeriget Danmark
@@ -2150,10 +2179,10 @@ Kosovo
 Kraken
 Krakow
 Kraks blå bog
+Kramer
 Krasnodar
 Krasnojarsk
 Krebsen
-Krebsen ♋︎
 Krebsens vendekreds
 Kreml
 Kresten
@@ -2186,6 +2215,7 @@ Kuala Lumpur
 Kuban
 Kudsk
 Kurdistan
+Kure
 Kurgan
 Kurilerne
 Kurland
@@ -2224,6 +2254,7 @@ Lake Ontario
 Lakonien
 Landstinget
 Lang
+Lange
 Langtbortistan
 Laokoon
 Laos
@@ -2374,7 +2405,6 @@ Lærke
 Læsø
 Løvehjerte
 Løven
-Løven ♌︎
 M
 MF
 MF'en
@@ -2540,7 +2570,7 @@ Mette
 Meuse
 Mexico
 Mexico City
-Mexicos Forenede Stater
+Meyer
 Mia
 Miami
 Michael
@@ -2561,6 +2591,7 @@ Mikael
 Mikal
 Mike
 Mikkel
+Mikkel Mus
 Mikkelsen
 Miklagård
 Miklegård
@@ -2569,6 +2600,8 @@ Mikronesiens Forenede Stater
 Milano
 Milet
 Mille
+Miller
+Minecraft
 Minna
 Minnesota
 Minnesotas
@@ -2622,6 +2655,7 @@ Muscat
 Muse
 Muskat
 Myanmar
+Mycklegaard
 Myggenæs
 Mykines
 Mykolajiv
@@ -2762,7 +2796,6 @@ Nordcypern
 Norden
 Nordentoft
 Nordeuropa
-Nordfrisisk
 Nordfrisiske Øer
 Nordirland
 Nordkorea
@@ -2775,6 +2808,7 @@ Nordrhodesia
 Nordslesvig
 Nordsøen
 Nordvietnam
+Nordøen
 Norfolk Island
 Norge
 Normandiet
@@ -2794,6 +2828,7 @@ Novgorod
 Novorossijsk
 Novosibirsk
 Nu har jeg aldrig!
+Nubien
 Nuku'alofa
 Nur-Sultan
 Nuser
@@ -2821,6 +2856,7 @@ Nørgaard
 Nørrebro
 Nørrejylland
 Nørrejyske Ø
+Nürnberg
 O
 OCD
 ODS
@@ -2883,6 +2919,7 @@ Orla
 Ortodokse kirke
 Oscar
 Osiris
+Osj
 Oskar
 Oslo
 Osmannerriget
@@ -2933,6 +2970,7 @@ Paraguay
 Paramaribo
 Paris
 Parkinsons sygdom
+Partherriget
 Patras
 Patricia
 Patrick
@@ -2947,6 +2985,7 @@ Pavlovs hunde
 Paw
 Peder
 Pedersen
+Peer
 Peipus
 Peking
 Peleus
@@ -3007,6 +3046,7 @@ Polyhymnia
 Polynesien
 Pommerellen
 Pommern
+Pontos
 Pori
 Port Louis
 Port Moresby
@@ -3039,6 +3079,7 @@ Prinsen på den hvide hest
 Pristina
 Procopius
 Prokopius
+Prometheus
 Protektoratet Bechuanaland
 Provence
 Providence
@@ -3063,6 +3104,7 @@ Q
 QR-kode
 Qatar
 Queensland
+Quezon City
 Quidditch
 Quito
 Qvist
@@ -3080,6 +3122,7 @@ Ramkilde
 Randers
 Randi
 Rangoon
+Rask
 Rasmine
 Rasmus
 Rasmussen
@@ -3091,6 +3134,7 @@ Rebekka
 Regina
 Regine
 Regitze
+Rehabeam
 Reims
 Rene
 Rensdyret Rudolf
@@ -3169,6 +3213,7 @@ Rigsdag
 Rigsdagen
 Rigsdagsbygning
 Rigssal
+Riis
 Rijeka
 Rikard
 Rikke
@@ -3178,6 +3223,7 @@ Rjasan
 Robert
 Robeson kanal
 Robin
+Roblox
 Rocky Mountains
 Rolf
 Rom
@@ -3192,6 +3238,7 @@ Ronni
 Ronnie
 Rosa
 Rosamond
+Rose
 Roseau
 Rosenterne
 Rosettastenen
@@ -3225,6 +3272,7 @@ Røde Hav
 Røde Kors
 Rødhætte
 Rødovre
+Rømer
 Rønnow
 Rēzekne
 S
@@ -3386,7 +3434,6 @@ Skandinavien
 Skandinaviske Halvø
 Skopje
 Skorpionen
-Skorpionen ♏︎
 Skotland
 Skov
 Skt.
@@ -3396,7 +3443,6 @@ Skt. Hans
 Skt. Johannes
 Skytien
 Skytten
-Skytten ♐︎
 Skåne
 Skåne ()
 Slangen
@@ -3458,6 +3504,7 @@ Sri Jayawardenapura-Kotte
 Sri Lanka
 Staden
 Staffen
+Stage
 Stalin
 Stalingrad
 Staten Israel
@@ -3472,7 +3519,6 @@ Steiermark
 Stella
 Sten
 Stenbukken
-Stenbukken ♑︎
 Stenbukkens vendekreds
 Stepanakert
 Stephan
@@ -3524,6 +3570,7 @@ Svejts
 Svend
 Svendborg Sund
 Svendsen
+Svensson
 Sverige
 Sverigestan
 Sverrig
@@ -3543,6 +3590,7 @@ Sydirland
 Sydkinesiske Hav
 Sydkorea
 Sydkorset
+Sydlige Buh
 Sydlige Ishav
 Sydossetien
 Sydrhodesia
@@ -3551,6 +3599,7 @@ Sydsudan
 Sydtyrol
 Sydvietnam
 Sydværk
+Sydøen
 Sydøstasien
 Syktyvkar
 Syldavien
@@ -3562,6 +3611,7 @@ Syster
 São Tomé
 São Tomé og Príncipe
 Sæd
+Søgaard
 Søndergaard
 Søren
 Sørensen
@@ -3574,7 +3624,6 @@ T-rør
 T-shirt
 TB
 TJRM
-TRNC
 TV-avis
 TV-program
 TV-programmer
@@ -3611,6 +3660,7 @@ Tambov
 Tamilske tigere
 Tamperdag
 Tampere
+Tang
 Tanganyika
 Tanganyikasøen
 Tanger
@@ -3780,6 +3830,8 @@ Trondheim
 Trondhjem
 Truls
 Tryfæna
+Trøndelag
+Trøndelav
 Tskhinvali
 Tue
 Tula
@@ -3795,13 +3847,12 @@ Tuva
 Tuvalu
 Tuzla
 Tver
+Tvilling
 Tvillingerne
-Tvillingerne ♊︎
 Tycho
 Tydskland
 Tyr
 Tyren
-Tyren ♉︎
 Tyrki
 Tyrkiet
 Tyrkiet ()
@@ -3875,6 +3926,7 @@ Valakiet
 Valborg
 Valborgsaften
 Valdemar
+Valencia
 Valentin
 Valhal
 Valhall
@@ -3885,7 +3937,6 @@ Valmiera
 Van
 Vancouver
 Vandmanden
-Vandmanden ♒︎
 Vanessa
 Vansøen
 Vantaa
@@ -3951,7 +4002,9 @@ Villads
 Villadsen
 Villy
 Vilnius
+Vincent
 Vindeby
+Vingegaard
 Vinter-OL
 Viola
 Virginia
@@ -3973,21 +4026,22 @@ Volhynien
 Vologda
 Volyn
 Vor Frue
+Vorherre ved
 Vormsi
 Voronezj
+Voss
 Vuoksi
 Vyborg
 Vänern
 Vædderen
-Vædderen ♈︎
 Vædske
 Væfsen
 Vægten
-Vægten ♎︎
 W
 WC
 WWW
 Wagn
+Wagner
 Wales
 Wallis og Futunaøerne
 Warszawa
@@ -4080,9 +4134,12 @@ Zimbabwe
 Zion
 Zjitomir
 Zjytomyr
+Zodiakus
 Zulu
 Zürich
 a
+a cappella
+a cappella-kor
 a conto
 a la
 a'er
@@ -4101,6 +4158,7 @@ a-bomberne
 a-bombernes
 a-bombers
 a-bombes
+a-cappella-kor
 a-kasse
 a-kraft
 a-kraften
@@ -4291,6 +4349,7 @@ absolut temperatur
 absolutisme
 absolutist
 absolutkvadrat
+absorbere
 absorbering
 abstinens
 abstrakt
@@ -4358,6 +4417,7 @@ adamsæblers
 adamsæbles
 adamsæblet
 adamsæblets
+adapter
 addend
 addere
 addict
@@ -4821,8 +4881,8 @@ afhentning
 afhjælpe
 afhold
 afholde
-afholde sig fra
-afholde sig fra (at stemme)
+afholde sig
+afholde sig (fra at stemme)
 afholdende
 afholdenhed
 afholder
@@ -4848,6 +4908,7 @@ afhængighed af narkotika
 afhængighedsforhold
 afhøre
 afhøring
+afisoleringstang
 afkast
 afklæde
 afkode
@@ -4929,6 +4990,7 @@ afløbets
 afløbs
 afløbsforhold
 afløbsledning
+afløbsrens
 afløbssystem
 afløbsvand
 afløse
@@ -4970,6 +5032,7 @@ afprøvningers
 afprøvnings
 afprøvningsmetode
 afpudse
+afputinisering
 afreagere
 afrejse
 afrette
@@ -5113,8 +5176,10 @@ afspillede
 afspiller
 afspillet
 afsporing
+afspændingspolitik
 afspærre
 afspærring
+afstalinisering
 afstamning
 afstand
 afstande
@@ -5217,6 +5282,9 @@ aftnerne
 aftnernes
 aftners
 aftrækker
+aftrækkere
+aftrækkeren
+aftrækkerne
 aftvinge
 aftvætte ()
 aftægt
@@ -5537,6 +5605,7 @@ aktivists
 aktivitet
 akts
 aktstykke
+aktuar
 aktuel
 aktuel koncentration
 aktuelle
@@ -5634,6 +5703,7 @@ albummet
 albummets
 albums
 aldehyd
+aldeles
 alder
 alderdom
 alderdoms-
@@ -5902,6 +5972,7 @@ almindelig skråpe
 almindelig spidsmus
 almindelig stemmeret
 almindelig stenbider
+almindelig tornblad
 almindelig tørst
 almindelig ugedag
 almindelig valgret
@@ -5911,6 +5982,7 @@ almindeligere
 almindeligst
 almindeligste
 almindeligt
+almindeligt marsvin
 almisse
 almissegiver
 almægtig
@@ -5932,6 +6004,7 @@ alt godt kommer til den der venter
 alt i alt
 alt på ét bræt
 alt på ét kort
+alt taget i betragtning
 alt-right
 altan
 altanen
@@ -5946,6 +6019,7 @@ alteret
 alterets
 altergang
 alternativ
+alternativ behandling
 alternativ medicin
 alternative højre
 alters
@@ -6377,7 +6451,9 @@ anglofile
 anglofili
 angolaner
 angolansk
+angorakanin
 angorakat
+angorauld
 angre
 angreb
 angreb er det bedste forsvar
@@ -6409,6 +6485,7 @@ angstskrigets
 angstskrigs
 angående
 angår
+anhang
 anhold
 anholde
 anholdelse
@@ -6519,6 +6596,7 @@ annekteringers
 annekterings
 annektion
 annihilere
+annonce
 annoncere
 annonsør
 annullation
@@ -6582,6 +6660,7 @@ ansigtsbehåring
 ansigtshår
 ansigtsløftning
 ansigtsmaske
+ansigtstab
 ansigtstræk
 ansigtsudtryk
 ansjos
@@ -6592,6 +6671,8 @@ anspore
 anspænde
 anstand
 anstanden
+anstifter
+anstrenge
 anstrengelse
 anstrengende
 anstrøg
@@ -6771,6 +6852,7 @@ apokopers
 apokopes
 apollinaris
 apologet
+apologetisk
 apopleksi
 apoptose
 aposematisme
@@ -6957,6 +7039,7 @@ arbejdsgivernes
 arbejdsgivers
 arbejdsgruppe
 arbejdshest
+arbejdshukommelse
 arbejdsintensiv
 arbejdskammerat
 arbejdskollega
@@ -6991,6 +7074,7 @@ arbejdsomhed
 arbejdsplads
 arbejdsplatform
 arbejdsproces
+arbejdsret
 arbejdsro
 arbejdsskade
 arbejdsskadeforsikring
@@ -7033,6 +7117,7 @@ arena
 arene
 arenes
 arens
+areocentrisk
 arg
 argentiner
 argentinere
@@ -7074,6 +7159,9 @@ arkaisme
 arkebuse
 arkeisk
 arkeologisk
+arketype
+arketypisk
+arkipelag
 arkitekt
 arkitekten
 arkitektens
@@ -7146,6 +7234,7 @@ armlæn
 armod
 arms
 armstol
+armstrækning
 armé
 arnamagnæansk
 arne
@@ -7254,6 +7343,7 @@ as'
 asatro
 asbest
 asbesten
+asbestose
 ascorbinsyre
 ase
 asede
@@ -7355,6 +7445,13 @@ associativitet
 associativt
 associere
 assortiment
+assortimenter
+assortimenterne
+assortimenternes
+assortimenters
+assortimentet
+assortimentets
+assortiments
 assurandør
 assurandøren
 assurandørens
@@ -7439,6 +7536,7 @@ asylet
 asylets
 asyls
 asymmetrisk
+asymmetrisk krigsførelse
 asymmetriske
 asymptomatisk
 asynkron
@@ -7580,6 +7678,7 @@ australsk engelsk
 australsk fodbold
 austroasiatisk
 austronesisk
+autarki
 autenticitet
 autenticiteten
 autentificere
@@ -7961,6 +8060,7 @@ bachelorgrad
 bacilleskræk
 bacilskræk
 backgammon
+backpacker
 bad
 badass
 bade
@@ -8039,6 +8139,7 @@ bagefter
 bagekartoffel
 bagel
 bagelse
+bagende
 bagene
 bagenes
 bagens
@@ -8092,6 +8193,7 @@ bagning
 bags
 bagside
 bagskid
+bagskærm
 bagslag
 bagslagene
 bagslagenes
@@ -8509,6 +8611,7 @@ barnehoved
 barnekammer
 barnekonge
 barnekrop
+barneleg
 barnemad
 barnemoder
 barnemor
@@ -8644,6 +8747,7 @@ bat
 bataljon
 batat
 batik
+batist
 batong
 batte
 battede
@@ -9007,6 +9111,7 @@ bekendtes
 bekendtgøre
 bekendtgørelse
 bekendtliggøre
+bekkasin
 beklage
 beklagelig
 beklageligvis
@@ -9034,6 +9139,9 @@ bekvemmelighedsflag
 bekvemmelighedshensyn
 bekymre
 bekymring
+bekymringen
+bekymringer
+bekymringerne
 bekymringsfri
 bekymringsfrie
 bekymringsfrit
@@ -9055,6 +9163,7 @@ belejre
 belejring
 belejringshær
 belejringstilstand
+belejringsvåben
 belgier
 belgiere
 belgieren
@@ -9383,6 +9492,7 @@ bestyrelse
 bestyrelsesformand
 bestyrelseslokale
 bestyrer
+bestyrke
 bestyrtelse
 bestyrtelsen
 bestå
@@ -9697,6 +9807,7 @@ bifamiliernes
 bifamiliers
 bifamilies
 biflod
+bifobi
 big data
 big time
 bigami
@@ -9733,6 +9844,7 @@ biler
 bilerne
 bilernes
 bilers
+bilfri
 bilist
 bilisten
 bilister
@@ -10120,6 +10232,7 @@ blankest
 blanket
 blanko-
 blankocheck
+blankt
 blankvåben
 blasfemi
 blasfemien
@@ -10136,6 +10249,7 @@ bleg
 blegansigt
 blege
 blegemiddel
+blegfed
 bleghed
 blegheden
 bleghedens
@@ -10192,10 +10306,12 @@ blind
 blind høne kan også finde korn
 blind passager
 blind vej
+blindebuk
 blindeskrift
 blindestok
 blindgade
 blindgyde
+blindgænger
 blindhed
 blindt
 blindtarm
@@ -10296,6 +10412,7 @@ blodkredsløb
 blodlegeme
 blodløs
 blodmangel
+blodmåne
 blodomløb
 blodplade
 blodpladen
@@ -10656,6 +10773,7 @@ boers
 boet
 boets
 bofælle
+bofællesskab
 bog
 bogaktuel
 bogaktuelle
@@ -10713,6 +10831,7 @@ bogormes
 bogorms
 bogproduktion
 bogreol
+bogrulle
 bogs
 bogskab
 bogstav
@@ -10771,6 +10890,7 @@ boligen
 boliger
 boligerne
 boligforhold
+boligfremvisning
 boliglån
 boligløs
 boligløse
@@ -10781,6 +10901,7 @@ boligstøtte
 bolle
 bolle tyk
 bollede
+bollefed
 bollehår
 bollen
 bollens
@@ -10805,6 +10926,7 @@ bolsmand
 bolster
 bolt
 bolte
+boltpistol
 bolværk
 bolværker
 bolværkerne
@@ -10987,6 +11109,9 @@ borgenes
 borgens
 borger
 borgerbrev
+borgere
+borgeren
+borgerene
 borgerhus
 borgerhuse
 borgerhusen
@@ -11063,7 +11188,6 @@ bosnisk
 bosæde
 botanik
 botaniker
-botaniker ()
 botanikken
 botanikkens
 botanikker
@@ -11073,7 +11197,6 @@ botanikkers
 botaniks
 botaniser
 botanisere
-botanisere ()
 botaniserede
 botaniseredes
 botaniseren
@@ -11183,6 +11306,7 @@ brandsejl
 brandsikker
 brandstation
 brandstiftelse
+brandstifter
 brandstige
 brandsvamp
 brandsår
@@ -11223,9 +11347,14 @@ bratschers
 bratschist
 bratschnøgle
 bratschs
+bratte
+brattere
+brattest
+bratteste
 bravo
 bravurarie
 break
+breakbold
 breche
 bred
 bred ymer
@@ -11646,6 +11775,7 @@ bryd
 bryde
 bryde alle broer
 bryde alle broer bag sig
+bryde brød
 bryde ind
 bryde op
 bryde sammen
@@ -11734,6 +11864,7 @@ brystvorterne
 brystvorternes
 brystvorters
 brystvortes
+brystværn
 bræ
 bræddebolt
 bræddegulv
@@ -11998,6 +12129,7 @@ bumper
 bumpes
 bumpet
 bums
+bumset
 bund
 bund-
 bundalvorlig
@@ -12142,7 +12274,12 @@ butte
 butterdej
 butterdejskage
 butterfly
+butterflyen
+butterflyene
+butterflyenes
+butterflyens
 butterflykniv
+butterflys
 buttet
 bvadr
 bwadr
@@ -12631,6 +12768,7 @@ bønderne
 bønfalde
 bønne
 bønneagtig
+bønnebog
 bønnen
 bønner
 bønnerne
@@ -12857,6 +12995,8 @@ café latte
 cairnterrier
 calcit
 calcium
+californier
+californisk
 californisk kondor
 californium
 californiummet
@@ -13234,6 +13374,7 @@ choks
 christianiacykel
 christianit
 chrom
+chrysopras
 chutney
 cider
 ciffer
@@ -13364,6 +13505,7 @@ cirkus
 cis
 ciskønnede
 ciskønnet
+cisterne
 citadel
 citar
 citat
@@ -13453,7 +13595,6 @@ clairvoyance
 clairvoyant
 clavicyterium
 clavicytherium
-clean
 clickbait
 clips
 clips'
@@ -13540,6 +13681,7 @@ conditio humana
 congobajer
 congoleser
 congolesisk
+connaisseur
 controller
 controllere
 controlleren
@@ -13944,6 +14086,7 @@ danisere
 danisering
 danmarkshistorie
 danmarksmesterskab
+danne
 danne kø
 dannebrog
 dannebrogene
@@ -14215,7 +14358,6 @@ defækere
 degeneration
 degenerere
 degenereret
-degradere
 degradering
 degustere
 dehumanisere
@@ -14312,6 +14454,7 @@ delikatesse
 delikatessebutik
 delikatesseforretning
 deling
+delirium
 delle
 delmangfoldighed
 delmål
@@ -14369,12 +14512,14 @@ deltage
 deltagelse
 deltagelsen
 deltagelsesdemokrati
+deltagende
 deltager
 delte
 deltids-
 deltidsarbejde
 deltidslandbrug
 deltidslandmand
+deltog
 delvis
 dem
 demagog
@@ -14389,6 +14534,7 @@ demarkationernes
 demarkationers
 demarkations
 demarkationslinje
+dematerialisere
 demens
 dement
 dementere
@@ -14549,6 +14695,13 @@ deponiet
 deponiets
 deponis
 deportation
+deportationen
+deportationens
+deportationer
+deportationerne
+deportationernes
+deportationers
+deportations
 deportere
 depositar
 deposition
@@ -14816,6 +14969,13 @@ determinator
 determinere
 determinist
 detonation
+detonationen
+detonationens
+detonationer
+detonationerne
+detonationernes
+detonationers
+detonations
 detonator
 detonere
 dets
@@ -14908,6 +15068,7 @@ diatonisk
 dibrom
 dickpic
 did
+didaktiker
 didaktisk
 didym
 didymium
@@ -15041,6 +15202,7 @@ din nåde
 dine
 dingeling
 dingenot
+dingo
 dinitrogentetroxid
 dinosauren
 dinosaurens
@@ -15088,6 +15250,7 @@ direktør
 dirigent
 dirigentstok
 dirigere
+dirndl
 dirre
 dis
 discipel
@@ -15123,6 +15286,7 @@ diskriminant
 diskrimination
 diskriminere
 diskriminerende
+diskriminering
 diskurs
 diskursanalyse
 diskursanalysen
@@ -15263,6 +15427,7 @@ do-while-loop
 do-while-løkke
 dobbelt
 dobbelt flagknob
+dobbelt halvstik
 dobbelt rørblad
 dobbelt-v
 dobbeltagent
@@ -15317,6 +15482,8 @@ dodekagram
 dog
 doge
 dogmatik
+dogmatisk
+dogmatiske
 dogme
 dogmer
 dogmerne
@@ -15585,6 +15752,7 @@ drivbænk
 drive
 drive fremad
 drive landbrug
+drivende omkring
 drivene
 driver
 driveri
@@ -15798,6 +15966,7 @@ duemælk
 duen
 duens
 duer
+duerik
 duerne
 duernes
 duers
@@ -15810,6 +15979,7 @@ duffelcoat
 duft
 dufte
 duftende
+duftløs
 dug
 duge
 dugedrejl
@@ -15875,6 +16045,8 @@ dunkel
 dunkelhed
 duns
 duo
+duopol
+duosporvogn
 dup
 duplikator
 duppedit
@@ -16023,6 +16195,7 @@ dyreham
 dyrehandel
 dyrehjem
 dyrehold
+dyrehospital
 dyrehår
 dyrekreds
 dyrekredsj
@@ -16253,6 +16426,7 @@ dødkedeligt
 dødlækker
 dødlækkert
 dødlækre
+dødløft
 dødnervøs
 dødnervøse
 dødnervøst
@@ -16494,6 +16668,7 @@ e-post
 e-post-adresse
 e.Kr.
 e.Kr. (efter Kristus)
+e.v.t. (efter vor tidsregning)
 eagle
 eau de Cologne
 ebbe
@@ -16671,6 +16846,15 @@ ege
 ege-
 egen
 egen-
+egenart
+egenarten
+egenartens
+egenarter
+egenarterne
+egenarternes
+egenarters
+egenartet
+egenarts
 egenbeskydning
 egene
 egenes
@@ -16860,6 +17044,7 @@ eksistentialists
 eksistentiel
 eksistere
 eksisterende
+eksklave
 ekskludere
 ekskludering
 eksklusion
@@ -16877,6 +17062,7 @@ ekskones
 ekskrement
 ekskrementer
 ekskurs
+ekskursion
 eksludere
 eksmand
 eksmanden
@@ -16901,6 +17087,7 @@ ekspeditrice
 ekspeditrice - ekspedient
 eksperiment
 eksperimentel
+eksperimentere
 eksperimenteren
 ekspert
 ekspertise
@@ -16916,6 +17103,7 @@ eksplosiv
 eksponent
 eksponentiel
 eksponentiel funktion
+eksponentiel vækst
 eksponentielle
 eksponentielt
 eksponere
@@ -16996,12 +17184,14 @@ elcykel
 eldreven
 eldrift
 elefant
+elefantdriver
 elefanten
 elefantens
 elefanter
 elefanterne
 elefanternes
 elefanters
+elefantfører
 elefanthue
 elefantorden
 elefants
@@ -17232,6 +17422,7 @@ elskværdigste
 elskværdigt
 eltavle
 elv
+elver
 elveragtig
 elverhøj
 elveårsbarn
@@ -17274,6 +17465,8 @@ emboli
 embryon
 embryonal
 emfase
+emfatisk
+emfatiske
 emfysem
 emigrant
 emigration
@@ -17324,7 +17517,6 @@ en gros
 en groshandel
 en grosvirksomhed
 en heldig kartoffel
-en hyggelig fætter
 en hård nød at knække
 en kold dag i helvede
 en kæde kun så stærk som det svageste led
@@ -17338,6 +17530,7 @@ en smule
 en til
 en til chance
 en ulykke kommer sjældent alene
+en ung
 enantiomer
 enarmet kvast
 enarmet tyveknægt
@@ -17440,6 +17633,7 @@ eneste
 enestue
 enestående
 enet
+enetale
 eneulykke
 enevoldskonge
 enevælde
@@ -17621,6 +17815,7 @@ ensvarm
 ental
 entalpi
 enten
+entomo-
 entomolog
 entomologi
 entomologisk
@@ -17677,6 +17872,7 @@ epicykel
 epidemi
 epifyse
 epifyt
+epigon
 epilepsi
 epilepsien
 epileptiker
@@ -17747,6 +17943,7 @@ erfaren
 erfaring
 ergativ
 ergo
+ergometercykel
 ergonomisk
 erholde
 erhvers-
@@ -17778,6 +17975,7 @@ erindrede
 erindrer
 erindret
 erindring
+erindringer
 eritreer
 eritreisk
 erkende
@@ -17830,6 +18028,7 @@ erstatning
 erstatningsmodstand
 erstatningspligt
 erstatningspåstand
+erstatningsret
 erstatte
 erudition
 erytrocyt
@@ -17942,6 +18141,7 @@ etnisk
 etnisk gruppe
 etnisk tilhørsforhold
 etnisk udrensning
+etnocentrisk
 etnocentrisme
 etnogenese
 etnograf
@@ -17969,6 +18169,7 @@ eufori
 euforien
 euforisk
 euforisk ()
+eugenik
 euhemerisme
 eukalyptus
 euklidisk
@@ -18052,6 +18253,7 @@ eventyrverden
 evident
 evig
 evig fordømmelse
+evige stad
 evighed
 evigheden
 evighedens
@@ -18320,6 +18522,7 @@ faldskærm
 faldskærmsjæger
 faldskærmssoldat
 faldskærmsudspring
+faldskærmsudspringer
 faldt
 falk
 falkejagt
@@ -18335,6 +18538,7 @@ fallisk
 fallit
 falme
 falmet
+fals
 falsk
 falsk forklaring
 falsk frugt
@@ -18414,6 +18618,7 @@ fantasier
 fantasifuld
 fantast
 fantastisk
+fantasy
 fantom
 far
 farad
@@ -18553,6 +18758,7 @@ fastgøre
 fasthed
 fastland
 fastlægge
+fastmaske
 fastnøgle
 fastre
 fastrene
@@ -18631,6 +18837,7 @@ federationernes
 federationers
 federations
 federe
+fedladen
 fedme
 fedmeforsker
 feds
@@ -18661,6 +18868,7 @@ feedback
 feen
 feer
 feerne
+feit (nl)
 fej
 fejde
 fejden
@@ -19362,6 +19570,7 @@ fiskemel
 fisken
 fiskene
 fiskenes
+fiskenet
 fiskens
 fiskeolie
 fiskeolien
@@ -19380,6 +19589,7 @@ fiskeres
 fiskerhytte
 fiskeri
 fiskerinde
+fiskerknob
 fiskerkone
 fiskerne
 fiskernes
@@ -19509,6 +19719,7 @@ fjordterne
 fjorten
 fjorten dage
 fjortende
+fjumrehoved
 fjumreår
 fjært
 fjærte
@@ -19564,6 +19775,7 @@ flagers
 flages
 flaget
 flagets
+flagknob
 flagning
 flags
 flagskib
@@ -19772,6 +19984,7 @@ flokimmunitet
 flokkes
 flom
 flomme
+flommefed
 flonel
 floorball
 flop
@@ -19846,6 +20059,8 @@ flute
 flux
 fly
 flybillet
+flybilletten
+flybilletter
 flybrændstof
 flyd
 flyde
@@ -19872,6 +20087,7 @@ flyglets
 flygte
 flygtig
 flygtning
+flykrop
 flyktig
 flynder
 flyndere
@@ -20027,6 +20243,7 @@ fløjlsjakke
 fløjlskjole
 fløjlsmat
 fløjmand
+fløjmøtrik
 fløjsand
 fløjt
 fløjte
@@ -20043,6 +20260,7 @@ fløjtet
 fløjtets
 fløjtist
 fløjts
+fm
 fmd
 fnat
 fnis
@@ -20179,6 +20397,8 @@ fokomeli
 fokus
 fokusere
 fokusere på
+fokusgruppe
+fokusområde
 fokuspunkt
 fold
 folde
@@ -20282,6 +20502,7 @@ fondsbørs
 fondshandler
 fondue
 fonem
+fonematisk
 fonetik
 fonetiker
 fonetikken
@@ -20432,7 +20653,6 @@ forbipasserende
 forbitret
 forbjerg
 forblive
-forblommet
 forblænde
 forbløde
 forbløffe
@@ -20524,6 +20744,7 @@ fordrejende
 fordringer
 fordum
 fordummende
+fordums
 fordybning
 fordægtig
 fordærve
@@ -20672,6 +20893,7 @@ forfod
 forfordele
 forforståelse
 forfranske
+forfranskning
 forfremme
 forfremmelse
 forfriskende
@@ -20720,6 +20942,7 @@ forglemt
 forglemte
 forgrening
 forgribe
+forgude
 forgylde
 forgylder
 forgyldt
@@ -20740,6 +20963,7 @@ forhenværende
 forhindre
 forhindring
 forhistorie
+forhistorisk
 forhjulstrukken
 forhold
 forholdene
@@ -21107,8 +21331,10 @@ forplante sig
 forplantning
 forpleje
 forpligte
+forpligtelse
 forpremiere
 forpulet
+forpuppe
 forpuppe sig
 forpurre
 forrest
@@ -21363,7 +21589,6 @@ forstyrrelsen
 forstyrrelser
 forstyrrelserne
 forstå
-forstå sig på
 forstådes
 forståelig
 forståelige
@@ -21395,6 +21620,7 @@ forsvinde
 forsvinden
 forsvindende
 forsvinder
+forsvinding
 forsvindingspunkt
 forsvundet
 forsyn
@@ -21612,6 +21838,7 @@ forventningsværdis
 forvilde sig
 forvirre
 forvirrelse
+forvirrende
 forvirret
 forvirring
 forvise
@@ -22015,6 +22242,7 @@ fremtrædende
 fremtrække
 fremtvinge
 fremvise
+fremvisning
 frenologi
 freske
 fresken
@@ -22201,7 +22429,6 @@ frotterer
 frotteret
 fru
 frue
-fruebær
 fruen
 fruens
 fruer
@@ -22360,8 +22587,8 @@ fuchsierne
 fuchsiernes
 fuchsiers
 fuck
-fuck [⇒ thesaurus]
 fuck af
+fuck!
 fuck-finger
 fucke
 fuckfinger
@@ -22443,6 +22670,7 @@ fulde navn
 fuldende
 fuldendt
 fulderik
+fuldfed
 fuldgyldig
 fuldkommen
 fuldkommenhed
@@ -22667,6 +22895,7 @@ fyrtårnets
 fyrtårns
 fyrtøj
 fyrværkeri
+fys
 fysik
 fysiker
 fysiognomi
@@ -22677,6 +22906,7 @@ fysioterapi
 fysisk
 fysisk afstand
 fysisk distancering
+fysisk størrelse
 fysiurg
 fysiurgi
 fysiurgisk
@@ -22701,6 +22931,7 @@ få noget på den dumme
 få noget ud af verden
 få nys om
 få på krogen
+få sin vilje
 få til
 få til at arbejde
 få til at bide på
@@ -23055,6 +23286,8 @@ følgelige
 følgeligt
 følgende
 følger
+følgeskade
+følgeskadevirkning
 følgeskare
 følgesvend
 følgevirkning
@@ -23179,6 +23412,7 @@ gadedreng
 gadedør
 gadefejer
 gadehandler
+gadehjørne
 gadekamp
 gadekryds
 gadekær
@@ -23202,6 +23436,7 @@ gadeuorden
 gadevold
 gadget
 gadolinium
+gaffatape
 gaffel
 gaffelantilope
 gaffelbuk
@@ -23340,7 +23575,6 @@ gammel mand
 gammel vin på nye flasker
 gammeldags
 gammeldansk
-gammeldansk ()
 gammeljomfru
 gammelmandsbarn
 gammelnorsk
@@ -23460,6 +23694,7 @@ gasolie
 gasovn
 gaspedal
 gasse
+gast
 gastrik
 gastritis
 gastroenterolog
@@ -23485,6 +23720,7 @@ gasturbines
 gasværk
 gat
 gated community
+gauleiter
 gaussisk
 gav
 gave
@@ -23560,6 +23796,8 @@ geeks'
 geeksene
 geeksenes
 gegenschein
+gehejm
+gehejmearkiv
 gehør
 geigertæller
 geisha
@@ -23663,6 +23901,8 @@ generaliseringer
 generaliseringerne
 generalkonsul
 generalkonsulat
+generalløjtnant
+generalmajor
 generalprøve
 generalsekretær
 generation
@@ -23727,7 +23967,6 @@ genlæser
 genlæst
 genlæste
 genmodificere
-genmodificeret
 genmodificering
 genmæle
 gennem
@@ -23822,6 +24061,7 @@ gentage
 gentagelse
 gentaget
 gentagne gange
+gentleman
 gentlemen's agreement
 gentrificere
 gentrificering
@@ -23941,6 +24181,8 @@ gestussens
 gevaldig
 gevaldigt
 gevalt ()
+gevandt
+gevind
 gevinst
 gevinsten
 gevinstens
@@ -24083,7 +24325,7 @@ give råt for usødet
 give sig i kast med
 give sit besyv med
 give slip på
-give til kende ()
+give til kende
 give tilbage
 give ud
 give udtryk for
@@ -24183,6 +24425,7 @@ glatbarberet
 glatføre
 glatføreulykke
 glathed
+glatstrik
 glatte
 glda.
 glem det
@@ -24907,6 +25150,7 @@ grådig
 grådighed
 grågås
 gråhåret
+gråhærdet
 gråkrage
 grålig
 grån
@@ -25009,6 +25253,7 @@ græsslåmaskine
 grævling
 grød
 grødgryde
+grødomslag
 grøft
 grøn
 grøn af misundelse
@@ -25468,6 +25713,7 @@ gå ikke over åen efter vand
 gå ind
 gå ind i
 gå itu
+gå knep dig selv
 gå med museskridt
 gå ned
 gå ned af bakke
@@ -25537,6 +25783,8 @@ gårsdag
 gårsdagen
 gås
 gås'
+gåsebryst
+gåsefod
 gåsegrib
 gåsehud
 gåsen
@@ -25553,6 +25801,7 @@ gåsevin
 gåseøjne
 gåtur
 gåture
+gæk
 gækkebrev
 gæld
 gælde
@@ -25570,6 +25819,7 @@ gællers
 gælles
 gænger
 gær
+gærde
 gærdesmutte
 gærdesmutten
 gærdesmuttens
@@ -25705,6 +25955,7 @@ gøede
 gøen
 gøet
 gøg
+gøgeurt
 gøgle
 gøgler
 gøglere
@@ -25777,7 +26028,6 @@ habsburger
 hacke
 hacker
 had
-had-
 had-kærlighed
 had-kærligheds-forhold
 hade
@@ -25954,6 +26204,7 @@ halvdel
 halvdårlig
 halve
 halveringstid
+halvfed
 halvfems
 halvfemsindstyve
 halvfemsindstyvende
@@ -26026,6 +26277,7 @@ hammere
 hammeren
 hammerens
 hammeres
+hammerfed
 hammerhaj
 hammerne
 hammernes
@@ -26097,6 +26349,8 @@ handle om
 handlede
 handledygtig
 handleform
+handlekraft
+handlekraftig
 handlende
 handler
 handlere
@@ -26210,6 +26464,7 @@ hareskår
 haresteg
 harke
 harlekin
+harlekinade
 harme
 harmede
 harmen
@@ -26263,6 +26518,7 @@ harvetand
 hasard
 hase
 hash
+hash brown
 hashen
 hashish
 hashryger
@@ -26347,6 +26603,7 @@ have i sinde at
 have lov
 have lyst
 have lyst til
+have mange jern i ilden
 have mulighed for
 have på
 have ret
@@ -26798,6 +27055,7 @@ herredum
 herredyr
 herredømme
 herreekvipering
+herrefed
 herreflot
 herrefodbold
 herrefolk
@@ -26812,6 +27070,7 @@ herrejakke
 herrekamp
 herreklip
 herreklipning
+herreløs
 herremagasin
 herremand
 herremode
@@ -26893,6 +27152,7 @@ heterotrof
 hetman
 hetse
 hetzmager
+hetære
 heureka
 heuristiek
 heuristik
@@ -27073,9 +27333,12 @@ hirsutisme
 his
 hispaniolakorsnæb
 histamin
+histaminet
 histogram
+histologi
 historie
 historieforskning
+historiefortæller
 historien
 historiens
 historier
@@ -27092,6 +27355,7 @@ historikerne
 historikernes
 historikers
 historisk
+historisk materialisme
 histrionisk personlighedsforstyrrelse
 histrionisk personlighedsstruktur
 hit
@@ -27161,6 +27425,7 @@ hjemmet
 hjemmets
 hjemmets arne
 hjemmeværnsmand
+hjemover
 hjems
 hjemsendelse
 hjemsted
@@ -27318,6 +27583,7 @@ hjorts
 hjul
 hjulben
 hjulbenet
+hjuldamper
 hjulene
 hjulenes
 hjulet
@@ -27346,6 +27612,7 @@ hjælpemiddel
 hjælpen
 hjælpende
 hjælpene
+hjælpepind
 hjælper
 hjælpes
 hjælpes ad
@@ -27462,7 +27729,6 @@ holde kæft
 holde mund
 holde måde
 holde op
-holde pause
 holde snor i
 holde stand
 holde til
@@ -27510,6 +27776,7 @@ holmium
 holms
 holodomor
 hologram
+holoplankton
 homeomorfi
 homepage
 homerisk
@@ -27520,6 +27787,7 @@ homo-
 homofil
 homofili
 homofobi
+homofobien
 homofon
 homofoni
 homogen
@@ -27677,9 +27945,9 @@ hostesaft
 hostesaften
 hostie
 hot
-hot [⇒ thesaurus]
 hotdog
 hotel
+hotspot
 hotter
 house
 housecoat
@@ -27932,6 +28200,7 @@ hulers
 hules
 hulet
 hulhed
+hulke
 hulkort
 hulkortlæser
 hullemaskine
@@ -27991,7 +28260,6 @@ humørsyg
 hun
 hun er bevidstløs
 hun-
-hun- ()
 hun- or hunlig
 hunbavian
 hund
@@ -28200,6 +28468,7 @@ husmænd
 husmændene
 husmændenes
 husmænds
+husnøgle
 husskade
 husstand
 husstandsindkomst
@@ -28221,7 +28490,7 @@ hv-ord
 hv-spørgsmål
 hva
 hva'
-hva' så?
+hva' så
 hvabehar
 hvad
 hvad angår
@@ -28246,7 +28515,7 @@ hvad hedder du?
 hvad helvede
 hvad i alverden
 hvad koster det?
-hvad man ikke har i hovedet, må man have i benen
+hvad man ikke har i hovedet, må man have i benene
 hvad med
 hvad sagde du
 hvad sagde jeg
@@ -28255,7 +28524,6 @@ hvad sker der
 hvad sker der for
 hvad som helst
 hvad så
-hvad så?
 hvad søren
 hvad tænker du på?
 hvadbehager
@@ -28347,6 +28615,7 @@ hvid stok
 hvid stork
 hvid substans
 hvid vipstjert
+hvid-blå-hvide flag
 hvidblomme
 hvidbog
 hvide
@@ -28576,6 +28845,7 @@ hydrerede
 hydrerer
 hydreret
 hydro-
+hydrodynamik
 hydrofil
 hydrofob
 hydrofobi
@@ -28583,6 +28853,7 @@ hydrofyt
 hydrogen
 hydrogenet
 hydrogennitrat
+hydrografi
 hydrolog
 hydrologi
 hydrologisk
@@ -28594,6 +28865,7 @@ hygge
 hyggehomofobi
 hyggekrog
 hyggelig
+hyggelig fætter
 hyggelige
 hyggeligere
 hyggeligst
@@ -28695,6 +28967,7 @@ hypnotisøren
 hypnotisører
 hypnotisørerne
 hypogami
+hypokondri
 hyponym
 hypotakse
 hypotenuse
@@ -28825,6 +29098,7 @@ håndskydevåben
 håndsoprækning
 håndsprit
 håndsprøjte
+håndstand
 håndsæbe
 håndsætning
 håndtag
@@ -28838,6 +29112,7 @@ håndtaskers
 håndtaskes
 håndtere
 håndtryk
+håndvask
 håndvåben
 håndvægt
 håndværk
@@ -28932,6 +29207,7 @@ hæfteklamme
 hæfteklammefjerner
 hæftemaskine
 hæftepistol
+hæfteplaster
 hæfter
 hæfterne
 hæfternes
@@ -28943,6 +29219,7 @@ hæftets
 hæg
 hægebær
 hæggebær
+hægte
 hæhæ
 hæk
 hækbræt
@@ -28957,6 +29234,7 @@ hækkernes
 hækkers
 hækkes
 hækle
+hæklenål
 hæks
 hæl
 hælde
@@ -29676,6 +29954,7 @@ ildslukker
 ildsot
 ildspyende
 ildspåsættelse
+ildspåsætter
 ildsted
 ildsten
 ildsvåde
@@ -29741,6 +30020,7 @@ immigrerede
 immigrerer
 immigreret
 immun
+immundefekt
 immunforsvar
 immunitet
 immunologi
@@ -29772,6 +30052,7 @@ imponerer
 imponeres
 imponeret
 imponerethed
+import
 importforbud
 importør
 imposant
@@ -29793,6 +30074,7 @@ in Ordbog over det danske Sprog
 in mente
 in spe
 inaktiv
+inaktivitet
 incel
 incest
 incestforhold
@@ -29886,9 +30168,11 @@ indflyvningerne
 indforståede
 indforstået
 indfrielse
+indfødt
 indfødt sprog
 indføje
 indføre
+indførsel
 indgang
 indgange
 indgangen
@@ -29926,6 +30210,7 @@ indirekte
 indirekte frispark
 indirekte tale
 indisk
+indisk dværgand
 indisk gås
 indiske
 indiskret
@@ -30036,6 +30321,7 @@ indslag
 indsnige
 indspille
 indspist
+indsprøjtning
 indstigningsforhold
 indstille
 indstilling
@@ -30046,10 +30332,13 @@ indsukre
 indsætte
 indtage
 indtagning
+indtale
 indtaste
 indtil
 indtil videre
 indtjening
+indtjeningsevne
+indtjeningsmulighed
 indtryk
 indtræde i
 indtræffe
@@ -30124,10 +30413,12 @@ inertimomentets
 inertimoments
 infamøs
 infanteri
+infanterikampkøretøj
 infanterist
 infantil
 infantofili
 infektion
+infernalsk
 inferno
 infertilitet
 inficere
@@ -30179,6 +30470,7 @@ ingeniørerne
 ingeniørernes
 ingeniørers
 ingeniørs
+ingeniørvidenskab
 ingenlunde
 ingenmandsland
 ingensteds
@@ -30194,6 +30486,7 @@ initialord
 initiativ
 initiativløs
 initiere
+injektion
 injektionsport
 injektionssprøjte
 injektiv
@@ -30441,6 +30734,7 @@ internat
 international
 international enhed
 international lov
+international organisation
 international ret
 internationale
 internationale fonetiske alfabet
@@ -30546,6 +30840,7 @@ inverst
 invertibel
 investere
 investering
+investeringsportefølje
 investor
 invitere
 iod
@@ -30642,6 +30937,9 @@ islamisk
 islamisme
 islamofob
 islamofobi
+islamofobien
+islamofobiens
+islamofobis
 islamofobisk
 islandsk
 islandsk fårehund
@@ -30787,6 +31085,7 @@ jagede
 jagene
 jagenes
 jagerfly
+jagerpilot
 jaget
 jaget vildt
 jagets
@@ -30824,8 +31123,10 @@ jamaicaner
 jamaicansk
 jambe
 jambisk
+jamboree
 jamen
 jammer
+jamre
 janitshar
 jantelov
 janteloven
@@ -30885,6 +31186,7 @@ jeg beklager
 jeg blev leder af virksomhed for mine synders skyld
 jeg bløder
 jeg bor i Melbourne
+jeg elsker deg
 jeg elsker dig
 jeg er
 jeg er ... år gammel
@@ -31068,7 +31370,6 @@ jihad
 jiu-jitsu
 jo
 job
-jobannonse
 jobansøgning
 jobber
 jobbeskrivelse
@@ -31141,6 +31442,7 @@ jordansk
 jordart
 jordbakterie
 jordbearbejdning
+jordbesidder
 jordbo
 jordboer
 jordbrug
@@ -31177,6 +31479,7 @@ jordbærs
 jordbærtræ
 jorde
 jordegern
+jordejer
 jordemoder
 jordemoderen
 jordemoderens
@@ -31224,6 +31527,7 @@ jords
 jordskok
 jordskorpeplante
 jordskred
+jordskredssejr
 jordskælv
 jordskælvene
 jordskælvenes
@@ -31524,6 +31828,7 @@ kaffestue
 kaffetræ
 kafkask
 kage
+kagedame
 kagekone
 kagemand
 kagen
@@ -31532,6 +31837,7 @@ kager
 kagerne
 kagernes
 kagers
+kagerulle
 kages
 kagetallerken
 kagle
@@ -31732,6 +32038,7 @@ kampfly
 kampfælle
 kamphelikopter
 kamplysten
+kamppilot
 kampplejl
 kampråb
 kampsport
@@ -31759,6 +32066,7 @@ kan De hjælpe mig?
 kan du fortælle os
 kan du gentage
 kan ikke
+kan jeg hjælpe dig?
 kan jeg se menuen, tak?
 kan lide
 kanadisk
@@ -31792,6 +32100,7 @@ kancelli
 kancellistil
 kand
 kande
+kandelaber
 kandestøber
 kandestøbere
 kandestøberen
@@ -31899,6 +32208,7 @@ kapitalisme
 kapitalismen
 kapitalist
 kapitalistisk
+kapitalkrævende
 kapitel
 kapitulation
 kapitulere
@@ -31999,6 +32309,8 @@ karaokebar
 karate
 karatestænger
 karavane
+karavanestation
+karavanserai
 karavel
 karbamid
 karbamidsyre
@@ -32238,6 +32550,7 @@ kastellers
 kastellet
 kastellets
 kastels
+kastemaskine
 kasten
 kastene
 kastens
@@ -32491,11 +32804,11 @@ kemikalieaffald
 kemiker
 kemisk
 kemiske egenskab
+kemiske våben
 kend
 kende
 kende ind og ud
 kende sin vej rundt
-kende til
 kendelse
 kendemærke
 kendeord
@@ -32689,6 +33002,7 @@ kiles
 kileskrift
 kilesten
 kilet
+kilke
 killing
 killingen
 killingens
@@ -32709,6 +33023,7 @@ kilometertal
 kilovare
 kilowatt-time
 kilowattime
+kilt
 kim
 kimbrisk
 kime
@@ -32784,6 +33099,7 @@ kirketorn
 kirkeugle
 kirkeværge
 kiromanti
+kiropraktik
 kirsebær
 kirsebærfarvet
 kirsebærrød
@@ -32836,6 +33152,7 @@ kjolers
 kjoles
 kjortel
 kjove
+kjælke
 kjöd
 kl.
 klabautermand
@@ -32967,6 +33284,7 @@ klassikernes
 klassikers
 klassikerudgave
 klassisk
+klassisk låneord
 klassisk musik
 klat
 klatmaler
@@ -33011,8 +33329,10 @@ klimatologisk
 klimavenlig
 klimaændring
 kline
+klinge
 klingonsk
 klinik
+kliniker
 klinisk
 klinisk psykologi
 klink
@@ -33087,7 +33407,11 @@ klogere
 klogest
 klogeste
 klogeåge
+klogskab
 klogskab ()
+klogskaben
+klogskabens
+klogskabs
 klogt
 klokke
 klokkeblomst
@@ -33146,6 +33470,7 @@ kludrer
 kludret
 klumme
 klump
+klumpe
 klumpfisk
 klumpfod
 klumre
@@ -33167,6 +33492,7 @@ klyngernes
 klyngers
 klynges
 klynget
+klæbe
 klæbebånd
 klæbehjerne
 klæbende
@@ -33177,6 +33503,7 @@ klæde af
 klæde om
 klæde på
 klæde sig af
+klæde sig i sæk og aske
 klæde sig på
 klæde ud
 klædebørste
@@ -33399,6 +33726,7 @@ knoldet mjødurt
 knop
 knoppen
 knopper
+knopsvane
 knor
 knort
 knortegås
@@ -33517,6 +33845,7 @@ kodeord
 kodesprog
 kodex
 kodiakbjørn
+kodylfed
 koefficient
 koeksistens
 koen
@@ -33635,6 +33964,7 @@ kollegaerne
 kolleger
 kollegerne
 kollektiv bevidsthed
+kollektiv overenskomst
 kollektiv trafik
 kollektivisere
 kollektrice - kollektør
@@ -33763,6 +34093,7 @@ komme
 komme brusende
 komme for en dag
 komme i fedtefadet
+komme i fokusto come into focus
 komme i hu
 komme i klemme
 komme i møde
@@ -33874,6 +34205,7 @@ komplet graf
 komplicere
 kompliment
 komplimentere
+komplot
 komplotmager
 komponent
 komponenten
@@ -33979,7 +34311,9 @@ koncis
 koncis, fyndig
 kondensation
 kondenseret mælk
+kondicykel
 konditor
+kondolence
 kondolere
 kondom
 kondomer
@@ -33999,10 +34333,10 @@ konen
 koner
 konerne
 konet
-konfekt
 konference
 konferencetolkning
 konfetti
+konfigurer
 konfirmation
 konfirmationen
 konfirmationens
@@ -34011,6 +34345,7 @@ konfirmationerne
 konfirmationernes
 konfirmationers
 konfirmations
+konfirmere
 konfirmerede
 konfirmeret
 konfiskation
@@ -34059,6 +34394,7 @@ kongehus
 kongekobra
 kongelig
 kongelig familie
+kongelys
 kongemager
 kongemorder
 kongen
@@ -34111,6 +34447,7 @@ konjunktionernes
 konjunktioners
 konjunktions
 konjunktiv
+konjunktursvingning
 konk
 konkluder
 konkludere
@@ -34212,6 +34549,7 @@ konsolspil n. videospil
 konsonant
 konsonantklynge
 konsonat
+konsortium
 konspiration
 konspirationsteoretiker
 konspirationsteori
@@ -34321,6 +34659,9 @@ kontraintuitive
 kontraintuitivt
 kontrakt
 kontraktbrud
+kontrakten
+kontrakter
+kontrakterne
 kontraktforskning
 kontraproduktiv
 kontraspionage
@@ -34331,6 +34672,7 @@ kontrollen
 kontroller
 kontrollere
 kontrolleret kaos
+kontrolrum
 kontroltårn
 kontrovers
 kontrovers'
@@ -34470,6 +34812,7 @@ kornets
 kornetten
 kornetter
 kornetterne
+kornfed
 kornisk
 kornkammer
 kornmod
@@ -34555,6 +34898,7 @@ kortnæbbet gås
 kortnæbbet sneppeklire
 korts
 kortsigtet
+kortslutning
 kortslutte
 kortspil
 kortsynet
@@ -34670,11 +35014,11 @@ kraftkarl
 kraftmoment
 kraftpapir
 krafts
+kraftstation
 kraftudtryk
 kraftværk
 kraftædemig
 krage
-kragebær
 kragefugle
 kragen
 kragens
@@ -35184,9 +35528,11 @@ krypton
 kryptonit
 kryptovaluta
 krysantemum
+krysopras
 krystal
 krystalapparat
 krystalklar
+krystallinsk
 krystallisere
 krystallisere sig
 krystalmodtager
@@ -35394,6 +35740,7 @@ kulso
 kulsort
 kulstof
 kulstof 14-datering
+kulstofbinding
 kulstofkredsløb
 kulsyre
 kulsyreholdig
@@ -35493,6 +35840,7 @@ kunstgræs
 kunstgødning
 kunsthistorie
 kunsthistoriker
+kunsthistorisk
 kunsthåndværk
 kunstig
 kunstig befruktning
@@ -35702,6 +36050,7 @@ kvadratmeterne
 kvadratrod
 kvadrattal
 kvadratur
+kvadrere
 kvadreret
 kvadrering
 kvadron
@@ -35947,6 +36296,7 @@ kvælerslangerne
 kvælerslangernes
 kvælerslangers
 kvælerslanges
+kvælerstik
 kvælertag
 kvæles
 kvælning
@@ -36088,6 +36438,7 @@ kæde
 kæde sammen
 kædebrev
 kædede
+kædemaske
 kæden
 kædens
 kæder
@@ -36125,6 +36476,7 @@ kælenavn
 kæler
 kælet
 kælk
+kælke
 kælkning
 kælling
 kællingeknude
@@ -36390,6 +36742,7 @@ kønshår
 kønsidentitet
 kønskamp
 kønskorrigerende
+kønskrans
 kønskrig
 kønskromosom
 kønslem
@@ -36501,6 +36854,7 @@ laboratorium
 labrador
 labs
 labskovs
+labyrint
 lacrosse
 lad
 lad mig være i fred
@@ -36515,6 +36869,8 @@ lade gå
 lade hånt om
 lade lyde
 lade sig dumpe ned
+lade som om
+lade til
 lade vandet
 lade vide
 lade være
@@ -36586,6 +36942,7 @@ lagres
 lags
 lagt
 lagte
+lagting
 lagune
 lahar
 lak
@@ -36792,6 +37149,7 @@ landsformand
 landsforræder
 landsforræderi
 landsgennemsnit
+landshold
 landskab
 landskaber
 landskaberne
@@ -36834,10 +37192,12 @@ landtunge
 landvinding
 landzone
 lang
+lang gris
 lang tillægsform
 langbue
 langbølge
 lange
+lange linjer
 lange ud
 langemand
 langfart
@@ -36885,6 +37245,7 @@ langvejsfra
 lanse
 lanterne
 lanthan
+laotisk
 lap
 laparoskopi
 laplænder
@@ -36933,6 +37294,7 @@ laserprinter
 lasers
 laserstråle
 lasersværd
+laskefed
 last
 lastbil
 lastbilchauffør
@@ -37235,6 +37597,7 @@ lektiehjælper
 lektielæsning
 lektier
 lektion
+lektionar
 lektor
 lekture
 lem
@@ -37536,6 +37899,8 @@ ligurisk
 ligvogn
 like
 liktorbundt
+likvidere
+likvidering
 likviditet
 likviditeten
 likør
@@ -37738,6 +38103,7 @@ livsvigtigt organ
 livsværdi
 livsværk
 livvagt
+lm
 lobby
 lobbye
 lobbyede
@@ -37822,6 +38188,7 @@ lokke
 lokke frem
 lokkede
 lokkedue
+lokkefugl
 lokkemad
 lokkemiddel
 lokker
@@ -38010,6 +38377,7 @@ luftalarm
 luftangreb
 luftballon
 luftbase
+luftblander
 luftboble
 luftbro
 luftbåren
@@ -38043,6 +38411,8 @@ luftkonditioneret
 luftkrig
 luftkys
 luftkølet
+luftmadras
+luftmaske
 luftmodstand
 luftmodstanden
 luftpistol
@@ -38153,6 +38523,7 @@ lungepulsåre
 lungepulsåren
 lungepulsårer
 lungetransplantation
+lunisolarkalender
 lunken
 luns
 lunt
@@ -38200,6 +38571,7 @@ lyddæmpere
 lyddæmperen
 lyddæmperne
 lyde
+lydeffekt
 lydefterlignende
 lyden
 lydene
@@ -38332,6 +38704,7 @@ lysne
 lysning
 lysosom
 lyspunkt
+lysrød
 lyssej
 lyssignal
 lyssky
@@ -38493,6 +38866,7 @@ lægge til kaj
 lægge til side
 lægge tilbage
 lægge to og to sammen
+lægge vægt på
 lægge øde
 læggekartoffel
 læggen
@@ -38625,6 +38999,7 @@ lærte
 læs
 læsbar
 læse
+læse mellem linjerne
 læsebog
 læsebriller
 læseevne
@@ -38768,6 +39143,7 @@ løbebille
 løbebro
 løbebånd
 løbehjul
+løbelængde
 løbene
 løbenes
 løber
@@ -38781,6 +39157,7 @@ løbers
 løbet
 løbetid
 løbets
+løbeur
 løbs
 løft
 løfte
@@ -39089,6 +39466,8 @@ magtvakuum
 maharaja
 mahogni
 mahonie
+mahout
+mahut
 maieutik
 mail
 maile
@@ -39158,6 +39537,7 @@ makronæringsstoffets
 makronæringsstofs
 makrotilstand
 makroøkonomi
+makroøkonomisk
 maksimal
 maksime
 maksimen
@@ -39221,6 +39601,7 @@ malerkunst
 malerne
 malernes
 malers
+malertape
 malet
 malet byen rød
 maliciøs
@@ -39278,7 +39659,6 @@ man
 man kan ikke både blæse og have mel i munden
 man kan ikke lære en gammel hund nye kunster
 man kan tvinge hesten til truget, men man kan ikke tvinge den til at drikke
-man ligger som man har redt
 man ligger som man reder
 man må hyle med de ulve man er iblandt
 man må smede, mens jernet er varmt
@@ -39668,6 +40048,8 @@ marv
 marvstråle
 marxisme
 marxismen
+marxismens
+marxismes
 marxistisk
 mas
 mascara
@@ -39744,6 +40126,7 @@ massakrernes
 massakrers
 massakres
 masse
+masse-
 massebevarelse
 massefylde
 massegrav
@@ -39909,6 +40292,9 @@ medaljonernes
 medaljoners
 medaljons
 medarbejder
+medarbejdere
+medarbejderen
+medarbejderskab
 medbetydning
 medbringe
 medbringer
@@ -39916,6 +40302,7 @@ medbør
 meddelagtig
 meddele
 meddelelse
+meddeler
 medejer
 medens
 meder
@@ -39936,6 +40323,7 @@ medgifts
 medgive
 medgivelse
 medhjælper
+medhør
 median
 mediation
 mediator
@@ -40013,12 +40401,18 @@ medvindenes
 medvindens
 medvindes
 medvinds
+medvirke
 medvirken
+medvirkende
+medvirker
+medvirket
+medvirkning
 medynkvækkende
 mefistoansigt
 mefistofelesansigt
 mega
 mega-
+megafed
 megafon
 megahertz
 megakirke
@@ -40209,6 +40603,7 @@ meloner
 membran
 meme
 memento mori
+memoirer
 memorer
 memorere
 memorerede
@@ -40242,6 +40637,7 @@ meningitis
 meningsløs
 meningsmåling
 meningsmåling (På valgdagen)
+meningstilkendegivelse
 meningsundersøgelse
 menneske
 menneskealder
@@ -40540,6 +40936,7 @@ mig
 mig selv
 migrant
 migrantarbejder
+migrere
 migræne
 migræneanfald
 migrænen
@@ -40554,6 +40951,7 @@ mikro-
 mikrobe
 mikrobiolog
 mikrobiologi
+mikrobryggeri
 mikrobølge
 mikrobølgeovn
 mikrofilm
@@ -40611,6 +41009,7 @@ militær domstol
 militæraktion
 militærhospital
 militærmand
+militærpoliti
 militærstyre
 militærsygehus
 militærtjeneste
@@ -40655,6 +41054,9 @@ millimeter
 millimeteren
 millimeterne
 million
+millionbøf
+millionen
+millioner
 milliontedel
 millionær
 millionærinde
@@ -40695,6 +41097,7 @@ mindeværdig
 mindre
 mindretal
 mindretalsregering
+mindretalssprog
 mindreværd
 mindreårig
 mindsk
@@ -41003,6 +41406,7 @@ modernisering
 moderselskab
 moderskab
 modersmål
+modersmålstalende
 modeshow
 modet
 modeverden
@@ -41019,6 +41423,7 @@ modig
 modkultur
 modløs
 modløshed
+modoffensiv
 modpart
 modpave
 modpol
@@ -41402,6 +41807,7 @@ motherboard
 motion
 motionen
 motionere
+motionscykel
 motiv
 motivation
 motivationen
@@ -41522,6 +41928,7 @@ mulat
 mulatten
 mulatter
 mulatterne
+muld
 muldjord
 muldvarp
 muldvarpe
@@ -41707,6 +42114,7 @@ musicals
 musicals'
 musicere
 musik
+musik-
 musikal
 musikalbum
 musikalbummene
@@ -41991,6 +42399,7 @@ mådeholdende
 mådeholdet
 mådeholdets
 mådeholds
+mådelig
 mådesudsagnsord
 måge
 måger
@@ -42384,6 +42793,7 @@ møtrik
 møve
 müsli
 n
+n'te
 n-kant
 nabo
 naboen
@@ -42419,6 +42829,7 @@ nakkeosten
 nakkeostens
 nakkeosts
 nakkestøtte
+nammenam
 nano-
 nanobot
 nanometer
@@ -42456,6 +42867,7 @@ narkose
 narkotika
 narkotikum
 narre
+narrebriks
 narrefisse
 narreguld
 narrehat
@@ -42582,6 +42994,7 @@ nauster
 naustet
 nausts
 nautil
+nautisk mil
 nav
 navene
 navenes
@@ -42731,6 +43144,7 @@ nedlægge
 nedløbsrør
 nedprioritere
 nedprioritering
+nedre
 nedrig
 nedringet
 nedrustning
@@ -42796,6 +43210,7 @@ neglenes
 neglens
 neglerod
 negles
+neglesaks
 negligere
 negligering
 negls
@@ -42856,6 +43271,7 @@ neptunium
 nerd
 nerve
 nerve-
+nervebundt
 nervecelle
 nervekrig
 nervelæge
@@ -43038,6 +43454,7 @@ nip
 nippe
 nippel
 niqab
+nisproget
 nisse
 nissefar
 nissehue
@@ -43163,13 +43580,14 @@ norddansker
 norden
 nordeuropæer
 nordeuropæisk
+nordfrisisk
 nordisk
 nordisk lappedykker
 nordiske lande
 nordjysk
 nordkoreaner
 nordkoreansk
-nordkvinde https://books.google.ca/books?id=k8ROAQAAMAAJ&pg=PA283&lpg=PA283&dq=&source=bl&ots=l9OFIGT6QY&sig=xk7nHzXu8ZEyvPmh3nP9yU8k0-k&hl=en&sa=X&ved=2ahUKEwjBr6Gx_-HfAhXEyoMKHaqDDZc4ChDoATADegQICBAB#v=onepage&q=&f=false
+nordkvinde
 nordkyst
 nordlig
 nordligste
@@ -43348,6 +43766,7 @@ nulstille
 nulsumsspil
 nulte
 nultolerance
+nultrin
 nulvektor
 nulvækst
 numerale
@@ -43424,6 +43843,7 @@ nyerne
 nyernes
 nyers
 nyest
+nyeste
 nyet
 nyets
 nyfascisme
@@ -43551,6 +43971,7 @@ nået
 nåja
 nål
 nåle
+nålehus
 nålemager
 nålen
 nålene
@@ -43659,6 +44080,7 @@ nætterne
 nætternes
 nætters
 næve
+nævebold
 nævenyttig
 nævn
 nævne
@@ -43833,6 +44255,7 @@ nørdet
 nørds
 nørre
 nøs
+nøst
 o
 o.a.
 o.k.
@@ -43849,6 +44272,9 @@ obelisk
 oberst
 objekt
 objektivitet
+objektiviteten
+objektivitetens
+objektivitets
 objektorienteret programmering
 objektsprog
 objektsprædikat
@@ -44016,10 +44442,12 @@ oktaedre
 oktaedrene
 oktaedrenes
 oktaedres
+oktagonal
 oktantal
 oktav
 oktet
 oktober
+oktogonal
 old
 old-
 oldarabisk
@@ -44099,6 +44527,7 @@ olieraffinaderi
 olierne
 oliernes
 oliers
+olierørledning
 olies
 olieskifer
 olietankskib
@@ -44106,6 +44535,7 @@ oligark
 oligarki
 oligarkisk
 oligofreni
+oligopol
 oliven
 olivenen
 olivenene
@@ -44271,6 +44701,7 @@ omsorgssvigtede børn
 omspænde
 omstillingsproces
 omstridt
+omstrukturere
 omstyrte
 omstændelighed
 omstændig
@@ -44411,6 +44842,7 @@ operahuset
 operahusets
 operand
 operaproduktion
+operation
 operationen lykkedes
 operationen lykkedes, men patienten døde
 operationskniv
@@ -44515,6 +44947,7 @@ oplukker
 oplukning
 oplyse
 oplysende
+oplyser
 oplysning
 oplysningsblad
 oplysningsmand
@@ -44522,6 +44955,7 @@ oplysningspligt
 oplysningstid
 oplysningstiden
 oplyst
+oplyste
 oplæring
 opløse
 opløse i faktorer
@@ -44651,6 +45085,7 @@ opstrøms
 opstå
 opstød
 opstøve
+opsuge
 opsynsmand
 opsætsig
 opsætsige
@@ -44665,6 +45100,7 @@ optegne
 optegnelse
 optiker
 optimere
+optimering
 optimisme
 optimist
 option
@@ -44947,7 +45383,6 @@ orlogsskib
 orlov
 orm
 orme
-orme sig
 ormegård
 ormemedicin
 ormen
@@ -45000,6 +45435,7 @@ ortopædisk
 ortoreksi
 orwellsk
 os
+oscilloskop
 ose
 osen
 oskisk
@@ -45039,6 +45475,7 @@ ostesovs
 osts
 osv
 osv.
+othellolagkage
 other Danish letters
 oto-rhino-laryngologi
 otolit
@@ -45061,6 +45498,7 @@ otteogtres
 otteogtyve
 otter
 ottesang
+ottesproget
 ottetal
 otti
 ottonisk
@@ -45140,9 +45578,11 @@ overensstemme
 overensstemmelse
 overentusiastisk
 overes
+overfald
 overfalde
 overfaldsmand
 overfart
+overfed
 overflade
 overfladetemperatur
 overfladevand
@@ -45181,6 +45621,7 @@ overhovedet
 overhovedet ikke
 overhus
 overhånd
+overhåndsknob
 overhøre
 overilet
 overivrig
@@ -45210,6 +45651,7 @@ overlevende
 overlevere
 overlevering
 overlår
+overlæbe
 overlæge
 overlægge
 overlæs
@@ -45271,6 +45713,7 @@ oversavet jagtgevær
 overside
 oversigt
 oversigtsforhold
+overskift
 overskride
 overskrævs
 overskud
@@ -45386,6 +45829,7 @@ ovnrum
 ovnstege
 ovntørre
 ovnvarme
+ovre
 oxid
 oxidationsmiddel
 oxidationstal
@@ -45546,7 +45990,6 @@ palæontologien
 palæontologisk
 palæs
 palæstinenser
-palæstinenser ()
 palæstinensere
 palæstinenseren
 palæstinenserens
@@ -45593,6 +46036,7 @@ panderne
 pandernes
 panders
 pandes
+pandestege
 pandoro
 panegyrisk
 panel
@@ -45707,6 +46151,7 @@ papsøster
 paptallerken
 papvin
 papyrologi
+papyrus
 par
 para-
 parabel
@@ -45823,6 +46268,7 @@ parkens
 parker
 parkere
 parkering forbudt
+parkeringsbøde
 parkeringsforhold
 parkeringsgarage
 parkeringsgaragens
@@ -45888,6 +46334,7 @@ partiets
 partiformand
 partifælle
 partikel
+partikelaccelerator
 partikelfysik
 partikels
 partiklen
@@ -46163,6 +46610,7 @@ pebernød
 peberrod
 pebers
 peberspray
+pebersvend
 pebertræ
 pebet
 pebre
@@ -46292,7 +46740,6 @@ pengeverden
 penibel
 penicillin
 penis
-penis [⇒ thesaurus]
 penisblomst
 penishoved
 penismisundelse
@@ -46382,6 +46829,7 @@ perforerede
 perforerer
 perforeret
 perfume
+pergament
 periferi
 periferien
 periferiens
@@ -46392,6 +46840,7 @@ periferiers
 periferis
 perikonbrændevin
 perikumbrændevin
+period
 periode
 periodelæsning
 perioden
@@ -46408,6 +46857,7 @@ periodisere
 periodisering
 periodisk
 periodisk optrædende
+periodiske system
 periskop
 periskoper
 periskoperne
@@ -46542,7 +46992,7 @@ petroleumsblå
 petroleumslampe
 petroleumsovn
 petrologi
-peu à peu
+peu à peu pø om pø
 pga.
 philtrum
 phlogose
@@ -46559,6 +47009,7 @@ pibeand
 pibekrave
 pibene
 pibenes
+pibeorgel
 piber
 piberenser
 piberi
@@ -46620,6 +47071,7 @@ piggene
 piggenes
 piggens
 pigges
+pighvar
 pigs
 pigsko
 pigtråd
@@ -46818,6 +47270,7 @@ pis mig i øret
 pis os i øret
 pisk
 piske
+piske dreng
 piske op
 piskefløde
 pisker
@@ -46976,6 +47429,7 @@ planøkonomi
 plapre
 plask
 plaske
+plasma
 plast
 plaster
 plasteret
@@ -46987,6 +47441,7 @@ plasticbarn
 plasticfar
 plasticmor
 plasticperker
+plastikkirurgi
 plastikpik
 plastikspænde
 plastre
@@ -46998,6 +47453,7 @@ plastrets
 plat
 plat eller krone
 platan
+plateau
 platfod
 platfoden
 platfodens
@@ -47257,6 +47713,7 @@ politibetjentenes
 politibetjentens
 politibetjentes
 politibetjents
+politibil
 politiembedsmand
 politiet
 politifløjte
@@ -47272,6 +47729,7 @@ politikerlede
 politikerne
 politikernes
 politikers
+politikiosk
 politikken
 politikkens
 politikker
@@ -47380,6 +47838,7 @@ pomp
 pompelmus
 pompen
 pompøs
+pontisk
 pontonbro
 pony
 popcorn
@@ -47519,6 +47978,7 @@ postalveolar
 postalveolær
 postalveolære
 postalveolært
+postboks
 postbud
 postbuddet
 postbuddets
@@ -47715,6 +48175,7 @@ prises
 prisforhøjelse
 prisindeks
 priskrig
+prisliste
 prisme
 prissætte
 prist
@@ -47775,6 +48236,7 @@ processkrift
 processkrivning
 processtyring
 procesteknologi
+producent
 producer
 producere
 producerede
@@ -47933,10 +48395,12 @@ projektørbelyst
 projektørlys
 proklamere
 proklitikon
+prokrastinering
 prokrustesseng
 proletar
 proletarer i alle lande, foren jer
 proletariat
+proletariatets diktatur
 promethium
 promille
 prominent
@@ -48041,9 +48505,11 @@ proteinet
 protektionisme
 protektorat
 protese
+protest
 protestaktion
 protestant
 protestantisme
+protestere
 protist
 protoindoeuropæisk
 protokol
@@ -48051,10 +48517,12 @@ protolyse
 protomartyr
 proton
 prototype
+prototypisk
 proveniens
 provins
 provinsiel
 provision
+provisor
 provisorie
 provisorisk
 provitamin
@@ -48157,6 +48625,7 @@ præstebolig
 præstedømme
 præsteembede
 præstegård
+præstekjole
 præstekrave
 præstemand
 præsten
@@ -48459,6 +48928,7 @@ pyjamasser
 pyjamasserne
 pyjamassernes
 pyjamassers
+pynse
 pynt
 pynte
 pyntede
@@ -48473,7 +48943,9 @@ pynts
 pyramide
 pyrit
 pyroklastisk vulkanudbrud
+pyroman
 pyromanbrand
+pyroteknik
 pyrrhussejr
 pyrrhussejre
 pyrrhussejren
@@ -48679,6 +49151,7 @@ pædofilien
 pædofilt
 pæl
 pælerod
+pælestik
 pæn
 pæne
 pænere
@@ -48693,7 +49166,6 @@ pærer
 pærerne
 pæretræ
 pærevælling
-pø om pø
 pøbel
 pøj
 pøj!
@@ -48720,6 +49192,9 @@ pønal
 pønitense
 pønitentiær
 pønse
+pønsede
+pønser
+pønske
 q
 qatarer
 qatarere
@@ -48732,6 +49207,7 @@ qatarers
 qatarsk
 qatarske
 qua
+quadravigesimale talsystem
 quarterback
 quechua
 quechuas
@@ -48776,6 +49252,7 @@ race
 racede
 racehad
 racelære
+racemæssig
 racemøs
 racen
 racene
@@ -48795,6 +49272,7 @@ racist
 racistisk
 rad
 rad og række
+rada
 radar
 radbrække
 radbrækket
@@ -49130,6 +49608,7 @@ realistisk
 realists
 realitet
 realitetscheck
+realkredit
 realplan
 realpolitik
 realrente
@@ -49191,6 +49670,7 @@ recitationerne
 recitationernes
 recitationers
 recitations
+recitativ
 reciter
 recitere
 reciterede
@@ -49315,6 +49795,7 @@ refrænsang
 refrænsanger
 refugium
 refundere
+regederlig
 regel
 regelen
 regelens
@@ -49633,7 +50114,11 @@ ren og skær
 renafdrift
 renavl
 rend
+rend mig i røven
+rend og skid
 rende
+rende i røven
+rende og skide
 rendegraver
 rendemaske
 renden
@@ -49715,6 +50200,13 @@ reparerede
 reparerer
 repareret
 repatriering
+repatrieringen
+repatrieringens
+repatrieringer
+repatrieringerne
+repatrieringernes
+repatrieringers
+repatrierings
 repeter
 repetere
 repeterede
@@ -49895,6 +50387,7 @@ retronymers
 retronymet
 retronymets
 retronyms
+retroseksuel
 retræte
 rets
 retsbygning
@@ -49982,6 +50475,7 @@ revolutionernes
 revolutioners
 revolutions
 revolutionær
+revolver
 revolvermand
 revy
 revyen
@@ -50159,6 +50653,7 @@ rinde
 rinde ihu
 rinde ud
 ring
+ring efter brandvæsen
 ring efter en ambulance
 ring efter politiet
 ringagte
@@ -50336,6 +50831,7 @@ romanis
 romanisering
 romansk
 romanske
+romantik
 romantiker
 romantikere
 romantikeren
@@ -50350,6 +50846,7 @@ romberne
 rombernes
 rombers
 rombes
+rombisk
 romer
 romerlys
 romernæse
@@ -50494,6 +50991,7 @@ rubricere
 rubrik
 rucola
 rude
+rudekuvert
 ruden
 rudens
 ruder
@@ -50616,6 +51114,7 @@ runding
 rundkørsel
 rundmund
 rundorm
+rundpind
 rundsav
 rundsave
 rundsave på albuerne
@@ -50747,6 +51246,8 @@ rygrades
 rygrads
 rygs
 rygsæk
+rygsækrejsende
+rygsækturist
 rygsøjle
 rygsøjlen
 rygsøjler
@@ -50759,6 +51260,7 @@ rygterne
 rygternes
 rygters
 rygtes
+rygværn
 ryk
 rykke
 rykke frem
@@ -50766,6 +51268,7 @@ rykke til
 rykker
 rykkerbrev
 rynke
+rynke panden
 rynken
 rynkens
 rynker
@@ -50809,12 +51312,19 @@ råde
 rådede
 rådene
 råder
+råderum
 rådet
 rådgivende
 rådgiver
 rådgivningskontor
 rådhus
+rådhuse
+rådhusene
+rådhusenes
+rådhuses
 rådhuset
+rådhusets
+rådhuss
 rådhusvin
 rådmand
 rådne
@@ -50927,6 +51437,7 @@ rævegravenes
 rævegravens
 rævegraves
 rævegravs
+rævekage
 ræveklo
 rævekloen
 rævekloens
@@ -51018,6 +51529,7 @@ rødviolet
 røffel
 røg
 røgalarm
+røgdykker
 røge
 røgede
 røgelse
@@ -51321,6 +51833,7 @@ saltomortale
 salts
 saltstøtte
 saltsyre
+saltsø
 saltvand
 salut
 salutere
@@ -51369,6 +51882,7 @@ samboers
 sambos
 same
 sameksistens
+sameksistere
 samenbygge
 samfund
 samfundsborger
@@ -51382,6 +51896,7 @@ samfundshensyn
 samfundskritisk
 samfundskundskab
 samfundslag
+samfundsliv
 samfundsmæssig
 samfundsnyttig
 samfundsorden
@@ -51496,6 +52011,7 @@ sammensmeltning
 sammenstykke
 sammenstyrtning
 sammenstød
+sammensværge sig
 sammensværgelse
 sammensværgelsesteori
 sammensætning
@@ -51540,6 +52056,7 @@ samvittighedsfuldhed
 samvittighedsnag
 samvær
 samværdsret
+sanatorium
 sand
 sandal
 sandalen
@@ -51785,6 +52302,7 @@ scene
 sceneri
 sceneshow
 sceneskræk
+scenisk
 scepter
 schankel
 scheisse
@@ -52039,7 +52557,9 @@ sekvens
 sekventiel
 selektion
 selen
+selenocentrisk
 seler
+seletøj
 self
 self.
 selfie
@@ -52048,8 +52568,6 @@ seljepil
 selleri
 selskab
 selskabelig
-selskabelige
-selskabeligt
 selskaber
 selskaberne
 selskabernes
@@ -52117,6 +52635,7 @@ selvisolation
 selvklæbende
 selvklæbende tape
 selvkontrol
+selvkørende
 selvlyd
 selvlyde
 selvlyden
@@ -52133,6 +52652,7 @@ selvmedlidenhed
 selvmodsigelse
 selvmord
 selvmorder
+selvmorderisk
 selvmordsangreb
 selvmordspilot
 selvmål
@@ -52230,6 +52750,7 @@ senere
 seneskedehindebetændelse
 senest
 seneste
+senfølger af COVID-19
 seng
 senge
 sengeafdeling
@@ -52258,6 +52779,7 @@ sennepperne
 sennepsfrø
 sennepsgas
 sennepskål
+sensation
 sensationel
 sensitiv
 sensor
@@ -52283,6 +52805,7 @@ serafs
 serber
 serbisk
 serbokroatisk
+serenade
 sergent
 serie
 seriemorder
@@ -52323,6 +52846,7 @@ session
 set
 set i bakspejlet
 sete
+seværdig
 seværdighed
 sex
 sexakt
@@ -52513,6 +53037,7 @@ sikkerhedssele
 sikkerhedsteater
 sikkerhedstjeneste
 sikkerhedsvagt
+sikkerhedsventil
 sikkerhedszone
 sikkert
 sikr
@@ -52675,7 +53200,6 @@ sjovere
 sjovest
 sjoveste
 sjovt
-sjus
 sjusket
 sjuskethed
 sjækkel
@@ -52789,6 +53313,8 @@ skakken
 skakker
 skakkerne
 skakmat
+skakspil
+skakspiller
 skakur
 skal
 skala
@@ -52865,6 +53391,7 @@ skandaløs
 skandinav
 skandinavisk
 skandium
+skank
 skar
 skare
 skarlagen
@@ -52974,6 +53501,7 @@ skete
 ski
 skib
 skibbrud
+skibbruden
 skibe
 skibene
 skibenes
@@ -53004,6 +53532,7 @@ skide på
 skide ud
 skide-
 skideballe
+skidefed
 skidehus
 skideligeglad
 skider
@@ -53184,6 +53713,7 @@ skjønne
 sklerose
 sko
 skod
+skodde
 skoddene
 skoddenes
 skoddet
@@ -53285,6 +53815,7 @@ skorstenspibe
 skos
 skospænde
 skostørrelse
+skot
 skotsk
 skotskternet
 skotte
@@ -53507,6 +54038,7 @@ skråle
 skråne
 skråning
 skråstreg
+skråt overfor
 skrædder
 skræddere
 skrædderen
@@ -53567,6 +54099,7 @@ skubbets
 skubs
 skud
 skud i tågen
+skudangreb
 skuddene
 skuddenes
 skuddet
@@ -53957,7 +54490,6 @@ skøjter
 skøjterne
 skøjtet
 skøn
-skøn [⇒ thesaurus]
 skønhed
 skønhed kommer indefra
 skønhed ligger i øjet der ser
@@ -54047,6 +54579,7 @@ slagteoffer
 slagter
 slagteri
 slagteriaffald
+slagterstik
 slagtilfælde
 slagtilfældet
 slagtning
@@ -54395,6 +54928,7 @@ smadre
 smag
 smag og behag er forskellig
 smage
+smage til
 smagfuld
 smagfuldhed
 smagløs
@@ -54429,6 +54963,7 @@ smegmaet
 smegmaets
 smegmas
 smelt
+smelte
 smeltedigel
 smeltepunkt
 smeltevarme
@@ -54447,6 +54982,7 @@ smerteligere
 smerteligst
 smerteligste
 smerteligt
+smertelindring
 smerten
 smertens
 smertensbarn
@@ -54523,6 +55059,8 @@ smugkigge
 smugkro
 smugle
 smugler
+smugleri
+smugling
 smuglytte
 smuglæse
 smuk
@@ -54563,6 +55101,7 @@ småbørn
 småbørnene
 småbørnenes
 småbørns
+småfed
 småfisk
 småindustri
 småkage
@@ -54590,8 +55129,10 @@ småting
 småtterier
 smædekampagne
 smædeskrift
+smækfed
 smækfuld
 smække
+smældfed
 smærte
 smærtelig
 smærtelige
@@ -54617,6 +55158,7 @@ smøre
 smøre brødet
 smørebræt
 smørelse
+smøremiddel
 smørepålæg
 smørproduktion
 smørre
@@ -54671,6 +55213,7 @@ sne
 sneblind
 snebold
 snebolde
+sneboldeffekt
 snebolden
 sneboldene
 sneboldenes
@@ -54789,6 +55332,7 @@ snige
 snige ind
 snige udenom
 snigløbe
+snigmord
 snigmorder
 snigmorderske
 snigskytte
@@ -55093,6 +55637,7 @@ solskoldningers
 solskoldnings
 solsort
 solstik
+solstorm
 solsystem
 solsystemer
 solsystemerne
@@ -55405,6 +55950,7 @@ spar knægt
 spar konge
 spare
 spare på
+sparebøsse
 sparede
 sparegris
 sparegrise
@@ -55462,6 +56008,7 @@ specialafdeling
 specialbygge
 speciale
 specialisere
+specialiseret
 specialisering
 specialist
 specie
@@ -55598,6 +56145,7 @@ spiger
 spil
 spild
 spild af tid
+spild teen
 spilde
 spilder
 spildet
@@ -55791,6 +56339,7 @@ sporers
 spores
 sporet
 sporets
+sporløs
 sporløst
 sporofyt
 spors
@@ -56092,6 +56641,7 @@ spætmejse
 spætte
 spøg
 spøge
+spøgefugl
 spøgelse
 spøgelser
 spøgelserne
@@ -56186,6 +56736,7 @@ stambane
 stamcelle
 stamfader
 stamfunktion
+stamkunde
 stamme
 stammen
 stammens
@@ -56300,6 +56851,13 @@ statsanerkendelse
 statsbegravelse
 statsborger
 statsborgerskab
+statsborgerskaber
+statsborgerskaberne
+statsborgerskabernes
+statsborgerskabers
+statsborgerskabet
+statsborgerskabets
+statsborgerskabs
 statsbudget
 statsejet
 statsforfatningsret
@@ -56547,6 +57105,7 @@ steroidhormon
 stetoskop
 steward
 stewardesse
+sth
 sti
 stien
 stiens
@@ -56605,6 +57164,7 @@ stikke af
 stikke en kæp i hjulet
 stikke fingeren i jorden
 stikke i skede
+stikke med kniv
 stikke til
 stikkelsbær
 stikkelsbærbusk
@@ -56858,7 +57418,6 @@ storcirkelbue
 store
 store ballemuskel
 store bogstaver
-store bryster
 store tabel
 storebroder
 storebror
@@ -57035,6 +57594,8 @@ strategispil
 stratosfære
 stratosfæren
 strax
+streamer
+streamerflue
 streg
 strege
 strege ud
@@ -57115,6 +57676,7 @@ stridt
 strigle
 strike
 strikke
+strikkefasthed
 strikkehue
 strikkepind
 strikkepinde
@@ -57124,6 +57686,7 @@ strikkepindenes
 strikkepindens
 strikkepindes
 strikkepinds
+strikketøj
 striktrøje
 strinte
 stripklub
@@ -57159,6 +57722,7 @@ strudsfjer
 strukket
 struktur
 strukturere
+struktureret
 strutteskørt
 stryg
 stryge
@@ -57255,6 +57819,7 @@ strømpe
 strømpebukse
 strømpefod
 strømpeholder
+strømpepind
 strøms
 strømsild
 strømstyrke
@@ -57336,6 +57901,7 @@ stygge
 stygt
 stykke
 stykke sammen
+stykke smørrebrød
 stykke ud
 stylte
 styr
@@ -57364,6 +57930,7 @@ styrmand
 styrmanden
 styrmænd
 styrt
+styrtbombefly
 styrtbøjle
 styrte
 styrte ned
@@ -57577,6 +58144,7 @@ støttepunkt
 støttepædagog
 støttestrømper
 støv
+støvdrager
 støve
 støve af
 støve igennem
@@ -57681,6 +58249,7 @@ sufismen
 sug
 suge
 sugekolbe
+sugekop
 sugemærke
 sugerør
 suggerere
@@ -57727,6 +58296,8 @@ sum
 sumak
 sumerer
 sumerisk
+sumerolog
+sumerologi
 sumformel
 sump
 sumpbæver
@@ -57765,6 +58336,7 @@ supermarked
 supermarkedskæde
 supermodel
 supermåne
+supernova
 superorganisme
 superorganismen
 superorganismens
@@ -58144,7 +58716,7 @@ sværdfiskene
 sværdfiskenes
 sværdfiskens
 sværdfisks
-sværdkampe
+sværdkamp
 sværdknap
 sværdlilje
 sværds
@@ -58159,6 +58731,7 @@ sværge
 sværgede
 sværger
 sværhed
+sværindustri
 sværlemmet
 sværm
 sværme
@@ -58565,6 +59138,7 @@ såler
 sålerne
 sålunde
 såp
+såpe
 sår
 sårbar
 sårbehandling
@@ -58739,6 +59313,7 @@ sæson
 sæsonarbejde
 sæt
 sæt ikke dit lys under en skæppe
+sætbold
 sæter
 sæterhytte
 sætning
@@ -58758,6 +59333,7 @@ sætte alt på ét kort
 sætte det på spidsen
 sætte en kæp i hjulet
 sætte fast
+sætte fokus på ng(t)to focus on sb
 sætte frimærke på
 sætte håndjern på (nogen)
 sætte i
@@ -58812,6 +59388,7 @@ søers
 søfarer
 søfart
 søfugl
+søfyrbøder
 søg
 søgbar
 søge
@@ -58847,6 +59424,7 @@ søjlekirsebærtræ
 søknæler
 søko
 søkonge
+søkort
 søkrig
 søl
 søle
@@ -58871,6 +59449,7 @@ sølvfarvet
 sølvfisk
 sølvgrå
 sølvhalskæde
+sølvhejre
 sølvhvid
 sølvjubilæum
 sølvkræ
@@ -58919,7 +59498,6 @@ søndagsbilist
 søndagstøj
 sønderflænge
 sønderjysk
-sønderslå
 søndre
 sønlig
 sønlig (sonly)
@@ -59079,6 +59657,7 @@ tagdækning
 tage
 tage bagfra
 tage brodden af
+tage del
 tage den med ro
 tage en for holdet
 tage en prøve
@@ -59225,6 +59804,7 @@ taleboblers
 talebobles
 talefejl
 talefod
+talegenkendelse
 talehandling
 taleksempel
 talemåde
@@ -59235,6 +59815,8 @@ talemåderne
 talemådernes
 talemåders
 talemådes
+talen
+talende
 talende våben
 talens
 talent
@@ -59360,6 +59942,8 @@ tamarisk
 tamburin
 tamdue
 tamilsk
+tamp
+tampen brænder
 tampon
 tand
 tandbøjle
@@ -59597,6 +60181,7 @@ tavs
 tavshed
 tavshed er guld
 tavshedsløfte
+tavshedspligt
 taxa
 taxachauffør
 taxachaufføren
@@ -59633,6 +60218,7 @@ teaterets
 teatermand
 teaterproduktion
 teaters
+teatralsk
 teatre
 teatrene
 teatrenes
@@ -59831,6 +60417,7 @@ telegramadresse
 telekinese
 telelinse
 teleobjektiv
+teleplasma
 teleportation
 teleportere
 teleskop
@@ -59915,7 +60502,6 @@ tendensiøs
 tendentiøs
 tender
 tennessin
-tennessine
 tennis
 tennisalbue
 tennisbane
@@ -59952,6 +60538,7 @@ teologi
 teologisk
 teorem
 teoretiker
+teoretisk
 teoretisk spørgsmål
 teori
 teosofi
@@ -60149,6 +60736,7 @@ tiders
 tidevand
 tidevandsbølge
 tidevandsenergi
+tidevandsforskel
 tidevandsstrøm
 tidevandstabel
 tidlig
@@ -60239,6 +60827,7 @@ tiendernes
 tienders
 tiendes
 tier
+tier (2, 3)
 tiere
 tieren
 tierens
@@ -60431,6 +61020,7 @@ tildragelse
 tildække
 tilegne
 tilegne sig
+tilfald
 tilfalde
 tilflugtssted
 tilforladelig
@@ -60534,6 +61124,8 @@ tilråb
 tilråbe
 tilråde
 tilrådelig
+tilrådelige
+tilrådeligt
 tilsagn
 tilsammen
 tilsige
@@ -60671,6 +61263,7 @@ tirsdagens
 tirsdages
 tirsdags
 tis
+tisproget
 tisse
 tisse i bukserne for at holde varmen
 tisse på nogens sukkermad
@@ -61240,6 +61833,7 @@ trafikpropperne
 trafikproppernes
 trafikproppers
 trafikprops
+trafikskilt
 trafikulykke
 trafikø
 tragedie
@@ -61372,6 +61966,7 @@ traumecenter
 travl
 travlhed
 travlt
+travois
 trawler
 tre
 tre fjerdedele
@@ -61433,7 +62028,6 @@ trekanters
 trekantet
 trekants
 trekantsforhold
-trekke
 trekløver
 trelyd
 trelænget
@@ -61478,6 +62072,7 @@ tribune
 tribut
 trick
 triftong
+trifunktionel
 trigonometri
 trigonometrisk
 trigonometrisk funktion
@@ -61600,6 +62195,7 @@ trom
 trombone
 trombose
 tromle
+tromlefed
 tromme
 trommede
 trommehinde
@@ -61738,6 +62334,7 @@ trykpresse
 trykskrift
 trykstærk
 tryksvag
+trylle
 trylle væk
 trylledej
 trylleformel
@@ -61788,6 +62385,7 @@ træde i kraft
 træde i spinaten
 træde tilbage
 trædemølle
+trædepude
 træder
 trædesten
 træer
@@ -61840,6 +62438,7 @@ trække på snor
 trække sammen
 trække sig
 trække sig tilbage
+trække stikket
 trække til
 trække tilbage
 trække tænder ud
@@ -61933,6 +62532,10 @@ trøjerne
 trøjernes
 trøjers
 trøjes
+trønd
+trønder
+trøndersk
+trøndsk
 trøske
 trøst
 trøste
@@ -62087,6 +62690,7 @@ turteldue
 tus
 tus'
 tusch
+tuschpen
 tusind
 tusind tak
 tusindben
@@ -62317,6 +62921,7 @@ tyllet
 tylvt
 tympanon
 tynd
+tyndfed
 tyndhåret
 tyndis
 tyndnæbbet måge
@@ -62372,7 +62977,6 @@ tyrkers
 tyrkificering
 tyrkisk
 tyrkisk bad
-tyrkisk delight
 tyroler
 tyrolsk
 tyrs
@@ -62606,6 +63210,7 @@ tæp
 tæppe
 tæppebille
 tæppebombe
+tæppebombning
 tæppede
 tæppefejemaskine
 tæppemand
@@ -62695,6 +63300,7 @@ tømme
 tømmer
 tømmermand
 tømmermænd
+tømmerstik
 tømmersvamp
 tømrer
 tømrerbi
@@ -62837,6 +63443,7 @@ ubehagelig
 ubehageligere
 ubehandlet
 ubehændig
+ubehøvlet
 ubekendt
 ubekræftet
 ubekymrede
@@ -62956,9 +63563,13 @@ uddannelsesinstitutions
 uddannelsesmæssig
 uddannelsessted
 uddateret
+uddel
 uddele
 uddelegere
+uddeler
 uddeling
+uddelt
+uddelte
 uddrag
 uddrive
 uddybe
@@ -63099,6 +63710,7 @@ udkig
 udkigsmand
 udkigspost
 udkigspunkt
+udkigstønde
 udkiksmand
 udklip
 udklædning
@@ -63173,6 +63785,7 @@ udnævne til dronning
 udokumenteret
 udpege
 udplante
+udpønse
 udramatisk
 udrede
 udredning
@@ -63463,6 +64076,7 @@ uerstattelighed
 uf
 ufattelig
 ufavorabel
+ufed
 ufejlbarlig
 ufiltreret
 ufin
@@ -63530,6 +64144,7 @@ ugedages
 ugedags
 ugen
 ugenkendelig
+ugennemsigtighed
 ugennemtænkt
 ugens
 ugentlig
@@ -63593,6 +64208,7 @@ uheldsvanger
 uhellig
 uhensigtsmæssig
 uhensigtsmæssigt
+uhindret
 uhjælpsom
 uholdbar
 uhomogen
@@ -63616,6 +64232,8 @@ uigendrivelig
 uigenkaldelig
 uigenkaldeligt
 uigenkendelig
+uigennemsigtig
+uigennemsigtighed
 uigur
 uigursk
 uimodståelig
@@ -63774,6 +64392,7 @@ umuliggøre
 umulighed
 umuligt
 umusikalsk
+umådelig
 umælende
 umættelig
 umættet
@@ -63786,6 +64405,7 @@ unde
 under
 under fire øjne
 under kniven
+under tøflen
 under-
 underafdeling
 underarm
@@ -63824,8 +64444,10 @@ underholdningsværdi
 underhus
 underhåndsoplysning
 underjeg
+underjordisk
 underkaste sig
 underkende
+underkjole
 underkop
 underkrop
 underkue
@@ -63853,6 +64475,8 @@ underside
 underskole
 underskrift
 underskrive
+underskud
+underskørt
 underslæb
 understel
 understrege
@@ -63933,6 +64557,7 @@ undervisningsprogram
 undervisningssammenhæng
 undervisningstrin
 undervisningsvæsen
+undervurdere
 undfange
 undfangelse
 undfly
@@ -64166,7 +64791,9 @@ uretfærdighed
 uretmæssig
 urets
 urfugl
+urgamle
 urgammel
+urgammelt
 urgermansk
 urgermanske
 urimelig
@@ -64295,6 +64922,7 @@ usteriliserbar
 ustoppelig
 ustruktureret
 usund
+usurpation
 usurpator
 usympatisk
 usympatiske
@@ -64307,6 +64935,7 @@ usyret
 usædvanlig
 usødet
 utak er verdens løn
+utaknemlig
 utaknemmelig
 utal
 utallig
@@ -64771,6 +65400,7 @@ vandskyende
 vandspyer
 vandstand
 vandstof
+vandt
 vandtank
 vandtårn
 vandtæt
@@ -64911,6 +65541,7 @@ varmeledning
 varmeledningsevne
 varmelegeme
 varmelære
+varmemester
 varmemotstand
 varmeoptag
 varmeovn
@@ -64922,6 +65553,7 @@ varmestråling
 varmestrøm
 varmetab
 varmeveksler
+varmluftballon
 varmluftovn
 varmluftsovn
 varmt
@@ -64987,6 +65619,7 @@ vaskenes
 vaskens
 vaskepulver
 vasker
+vaskeri
 vaskes
 vaskeskind
 vasket
@@ -65059,6 +65692,7 @@ vegetation
 vegi-vare
 vegne
 vej
+vej til Damaskus
 vejarbejde
 vejbane
 vejbelægning
@@ -65146,7 +65780,6 @@ vekselvarme
 vekselvarmt
 vekselvirkning
 vekselvis
-veksle
 veksle sort
 vektor
 vektoren
@@ -65416,6 +66049,7 @@ verdensberygtet
 verdensberømt
 verdensbillede
 verdensborger
+verdensdel
 verdensfred
 verdenskendt
 verdenskendte
@@ -65542,6 +66176,7 @@ viceadmiral
 viceformand
 vicepresident
 vicevært
+victoriansk
 vid
 vidde
 viddet
@@ -65759,6 +66394,7 @@ vinde
 vinde hævd
 vinde op
 vindebro
+vindeltrappe
 vinden
 vindende
 vindene
@@ -65793,6 +66429,7 @@ vindmøllerne
 vindmøllernes
 vindmøllers
 vindmølles
+vindning
 vindpose
 vindrossel
 vindrue
@@ -66321,6 +66958,7 @@ vredest
 vredeste
 vredt
 vrid
+vridbor
 vriddene
 vriddenes
 vriddet
@@ -66365,6 +67003,7 @@ vulkanologi
 vulst
 vulva
 vunden
+vundet
 vundne
 vuns
 vurdere
@@ -66426,6 +67065,7 @@ vågne med et sæt
 vågnede
 vågner
 vågnet
+vånde
 vår
 våren
 vårene
@@ -66531,6 +67171,7 @@ vælde
 vældig
 vælg
 vælge
+vælge og vrage
 vælger
 vælger-
 vælgere
@@ -66609,6 +67250,7 @@ være gak i låget
 være her
 være i brunst
 være i den syvende himmel
+være i fokusto be in focus
 være i gære
 være i modstrid med
 være i sit es
@@ -66629,6 +67271,7 @@ være på vildspor
 være sammen
 være tabt bag en vogn
 være til
+være tilstrækkelig
 være tredje hjul
 være uafgjort
 være uenig (e)
@@ -66876,6 +67519,7 @@ x-aksers
 x-akses
 xanthangummi
 xenofob
+xenofoben
 xenofobi
 xenofobisk
 xenon
@@ -67021,6 +67665,7 @@ yvers
 yør
 z
 z-akse
+zakat
 zambier
 zar
 zarathustrianisme
@@ -67118,6 +67763,7 @@ zygote
 Á
 Å
 Åbenbaring
+Åbenrå
 Åge
 Ågård
 Åland
@@ -67248,6 +67894,7 @@ zygote
 ågerkarl
 åget
 ågets
+ågre
 ågs
 åh
 åh jeg be’r
@@ -67796,6 +68443,7 @@ zygote
 ævle
 é
 én
+én svale gør ingen sommer
 éne
 ét
 ételement
@@ -67884,6 +68532,7 @@ zygote
 øjenfarve
 øjenhule
 øjenhår
+øjenhøjde
 øjenkontakt
 øjenlåg
 øjenlæge
@@ -68182,8 +68831,6 @@ zygote
 ú
 ý
 Šiauliai
-Ǻ
-ǻ
 Ǽ
 ǽ
 Ǿ
@@ -68191,5 +68838,7 @@ zygote
 ɔ:
 –
 “sydvest
-◌́
-⦃⦃t¦da¦efterfølger ¦c¦¦¦¦¦¦¦¦⦄⦄
+⦃⦃t¦da¦kravle¦¦¦¦¦¦¦¦¦⦄⦄
+⦃⦃t¦da¦krybe¦¦¦¦¦¦¦¦¦⦄⦄
+⦃⦃t¦da¦orme sig¦¦¦¦¦¦¦¦¦⦄⦄
+⦃⦃t¦da¦åle¦¦¦¦¦¦¦¦¦⦄⦄

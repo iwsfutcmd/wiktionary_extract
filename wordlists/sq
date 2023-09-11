@@ -3,10 +3,13 @@
 (e) shfryrë
 (gjuha) shqipe
 (i) gëzuar
+*kantkë
 -a
 -agni
 -ai
 -aj
+-aman
+-amën
 -an
 -anj
 -anji
@@ -15,6 +18,7 @@
 -as
 -ash
 -at
+-atë
 -ave
 -avet
 -e
@@ -29,6 +33,8 @@
 -et
 -eve
 -evet
+-fish
+-fër
 -hem
 -hemi
 -hen
@@ -38,7 +44,9 @@
 -hna
 -i
 -ia
+-ikë
 -im
+-imë
 -in
 -isht
 -ishte
@@ -55,6 +63,7 @@
 -kë
 -këndësh
 -la
+-lloj
 -logjia
 -m
 -mbëdhjetë
@@ -66,21 +75,24 @@
 -nj
 -në
 -o
--ogne bashkimi
+-ogne
 -ohet
 -oj
 -ojmë
 -ojnë
+-ojs
 -ojë
 -on
 -oni
--onje
+-onjë
+-onjës
 -or
 -ore
 -ot
 -qe
 -ra
 -ri
+-roj
 -rë
 -s-
 -sa
@@ -89,28 +101,38 @@
 -sht
 -shëm
 -skop
+-soj
 -së
 -t
 -ta
 -tar
 -tare
+-th
+-toj
 -tra
 -të
 -tër
 -u
 -uar
+-uas
 -ues
+-uk
 -ukël
 -ull
+-ullë
 -un
+-uos
 -up
 -ur
 -ut
 -va
 -ve
 -vet
+-ysh
 -z-
 -zet
+-zoj
+-zë
 -çme
 -çëm
 -ë
@@ -129,7 +151,11 @@
 -ëvet
 -ëz
 /
+1980
+2006
 :
+>? Macedonian: Štip
+? vëlla
 A
 AIDS
 Abdullah
@@ -157,6 +183,7 @@ Afrika Jugore
 Afrike
 Afrikë
 Afrikë Jugore
+Afrikë Veriore
 Afrim
 Afrime
 Afrimi
@@ -189,6 +216,7 @@ Albania
 Albanor
 Aleksandri
 Aleksandër
+Alepo
 Alfabeti Fonetik Ndërkombëtar
 Algjer
 Algjeri
@@ -199,6 +227,8 @@ Allahu
 Alpe
 Alpet Shqiptare
 Alsasa
+Altin
+Alvin
 Amani
 Amazona
 Amerika
@@ -211,10 +241,13 @@ Amerikë Jugore
 Amerikë Veriore
 Amsterdam
 Amsterdami
+Anadoll
+Anadolli
 And
 Andi
 Andon
 Andora
+Andorra la Vella
 Andë
 Angli
 Anglia
@@ -241,7 +274,6 @@ Arbor
 Arbën
 Arbënesh
 Arbëni
-Arbëni f/Arbënia
 Arbënia
 Arbënor
 Arbënore
@@ -251,7 +283,6 @@ Arbëreshë
 Arbëreshë: glëmbë
 Arbëreshë: kurpël
 Arbëri
-Arbëri f/Arbëria
 Arbëria
 Arbërisht
 Arbërishtja
@@ -275,8 +306,10 @@ Arvanites
 Arven
 Arvën
 Arvënd
+Ashgabat
 Ashgabati
 Asi
+Asiria
 Astana
 Athina
 Athinë
@@ -286,12 +319,20 @@ Atë
 Australi
 Australia
 Austria
+Austro-Hungari
+Austro-Hungaria
 Avore
 Azerbajxhan
 Azerbajxhani
 Azi
+Azi Jugore
+Azi Qendrore
+Azi e Vogël
 Azia
+Azia Jugore
+Azia Lindore
 Azia Qendrore
+Azia e Vogël
 Aρbε̰ρίa
 Aρbε̰ρία
 B
@@ -300,6 +341,7 @@ BRSS
 BSHP
 Bab el Mandeb
 Baba Dimri
+Babilonia
 Bagdad
 Bagdadi
 Bahama
@@ -315,6 +357,7 @@ Ballor
 Ballsh
 Balë
 Bangkoku
+Bangladesh
 Bangladeshi
 Banka Qendrore Evropiane
 Barbullë
@@ -325,6 +368,8 @@ Bardhul
 Bardhull
 Bardhyl
 Bardhyll
+Bartolomeu
+Bashkim Evropian
 Bashkimi Evropian
 Bashkimi Sovjetik
 Bashkimi i Republikave Sovjetike Socialiste
@@ -339,8 +384,10 @@ Bdek
 Bejrut
 Belgjika
 Belgjikë
+Belgorod
 Beligrat
 Beliza
+Belize
 Bellopoja
 Bellopojë
 Benedeta
@@ -392,6 +439,7 @@ Bishkeku
 Bistrica e Pejës
 Bizant
 Bizanti
+Bjelli
 Bjellorusi
 Bjellorusia
 Bjeshkët e Bekuara
@@ -403,6 +451,7 @@ Bledi
 Blend
 Blendar
 Blendi
+Bob
 Bohemi
 Bolivi
 Bolivia
@@ -460,8 +509,10 @@ Canberra
 Cetina
 Cim
 Coca-Cola
+Covid-i kronik
 Cyrihu
 D
+DEBATIK
 Dalmaci
 Dalmacia
 Damasku
@@ -486,6 +537,7 @@ Dardan
 Dardanelet
 Dardhan
 Darka e Fundit
+Darëzezë
 Dash
 Dashi
 Dashnor
@@ -505,6 +557,8 @@ Delmin
 Delmina
 Demetra
 Demi
+Demir
+Demiraj
 Det
 Deti Adriatik
 Deti Andaman
@@ -570,7 +624,6 @@ Doha
 Domenik
 Don Kishoti
 Donikë
-Dousmanes
 Drilon
 Drin
 Drini
@@ -639,6 +692,7 @@ En
 Endre
 Endri
 Endrit
+Engjëllike
 Enjt
 Enjëti
 Enkel
@@ -651,6 +705,7 @@ Erag
 Eragim
 Erand
 Erbardh
+Erbili
 Erblin
 Erblind
 Erdet
@@ -671,18 +726,20 @@ Ethimi
 Etini
 Etiopi
 Eugent
+Eurazi
 Eurazia
 Europa
 Europa Perëndimore
-Europë
 Eurozona
 Eva
 Evgit
 Evropa
 Evropa Jugore
 Evropa Lindore
+Evropa Qendrore
 Evropa e Mesme
 Evropë
+Evropë Lindore
 F
 Farkë
 Fat
@@ -713,6 +770,7 @@ Fobosi
 Franca
 Francë
 Francë f Franca
+Frankfurti
 Françesk
 Frederik
 Friuli-Venecia Xhulia
@@ -721,6 +779,7 @@ Frëngjia
 Fuxhi
 G
 Gabon
+Gadishulli Apenin
 Gadishulli Ballkanik
 Gadishulli Pirinej
 Gaforrja
@@ -728,6 +787,7 @@ Gagauzia
 Galilea
 Galli
 Gangi
+Gavril
 Gegnia
 Gegënia
 Gegëria
@@ -735,10 +795,12 @@ Genc
 Gencian
 Gent
 Gentian
+Gert
+Gheg
 Gheg gjylpanë
 Gheg gjëlpërë
 Gheg mramë
-Gheg: Shqipni f/Shqipnia
+Gheg: Shqipni
 Gj
 Gjakova Gjakovë
 Gjebrea
@@ -755,6 +817,7 @@ Gjermani
 Gjermania
 Gjermania Lindore
 Gjermania Perëndimore
+Gjibraltar
 Gjibraltari
 Gjilani
 Gjin
@@ -791,6 +854,7 @@ Gogënisht
 Gogëri
 Golem
 Gramoz
+Greek λουλούδι
 Grenlanda
 Greqi
 Greqia
@@ -800,12 +864,14 @@ Grisoni
 Groenlanda
 Guajana
 Guatemala
+Guatemalë
 Gucia
 Guinea Ekuatoriale
 Gulam
 Gulielm
 Guran
 Gzim
+Gësmëni
 Gëzim
 Gëzuar Pashkët
 Gëzuar Vitin e Ri
@@ -813,8 +879,11 @@ H
 Hadi
 Haga
 Haiti
+Halepi
 Hana
+Handa
 Hanoi
+Harapes
 Hektori
 Hekuran
 Helsinki
@@ -823,6 +892,7 @@ Hesia
 Hila
 Himara
 Himarë
+Himni Akathist
 Himni i Flamurit
 Hipokrati
 Hiresia
@@ -851,9 +921,12 @@ Hyinora
 Hyjdhor
 Hyjlindëses
 Hyjnora
+Hyllas
+Hyllos
 Hysenbelliu
 Hënë
 I
+Iballë
 Ibrahim
 Ilir
 Ilirë
@@ -878,9 +951,13 @@ Irlandë
 Isabetë
 Isak
 Ish Republika Jugosllave e Maqedonisë
+Ishuj Solomon
 Ishujt Faroe
 Ishujt Kuk
+Ishujt Solomon
 Ishujt e Kanalit
+Ishulli i Jugut
+Ishulli i Veriut
 Islam
 Islamabad
 Islamabadi
@@ -963,7 +1040,9 @@ Kalashët
 Kalavrì
 Kaledonia e Re
 Kaliforni
+Kalifornia
 Kalium
+Kalkuta
 Kaltrin
 Kamboxhia
 Kamerun
@@ -988,6 +1067,7 @@ Kazakistan
 Kebeku
 Kel
 Kenia
+Kep i Gjelbër
 Kepi i Gjelbër
 Kiev
 Kievi
@@ -997,10 +1077,12 @@ Kina
 Kineze
 Kinë
 Kirgistan
+Kirgistani
 Kisha Anglikane
 Kisha Katolike
 Kisha Ortodokse Rumune
 Kisha e Jezu Krishtit e Shenjtoreve të Ditëve të Mëvonshme
+Kisha e Shëndëlliut
 Kisha orthodhokse ruse
 Kisha ortodokse greke
 Kisha skoceze
@@ -1027,6 +1109,8 @@ Koreja e Veriut
 Korfuz
 Korfuzi
 Korinti
+Korsika
+Korsikë
 Korça
 Korçar
 Korçare
@@ -1038,6 +1122,7 @@ Kostarika
 Kostarikë
 Kotorr
 Kotorri
+Koçani
 Kreta
 Krimeja
 Krisht
@@ -1053,6 +1138,7 @@ Krojana
 Kryngjëll
 Kryqi i Kuq
 Ksanthi
+Kserksi
 Kshnella
 Kuala Lumpur
 Kubë
@@ -1087,11 +1173,14 @@ Land
 Landi
 Landër
 Laos
+Laosi
 Leida
 Lejden
 Lek i Madhe
 Leka
 Leka e Madhe
+Lekini
+Lekiniu
 Lekë
 Lenin
 Leningrad
@@ -1111,11 +1200,14 @@ Lidhja e Kombeve
 Ligji i Përtërirë
 Lihtenshtajn
 Lihtenshtajni
+Limpópo
 Lindit
 Lindita
 Linditi
 Linditë
 Lindja e Largët
+Lindja e Mesme
+Lindje e Mesme
 Lipjan
 Liqenet e Mëdha
 Liqeni Erie
@@ -1146,9 +1238,11 @@ Llapit
 Llesh
 Lleshdër
 Lleshdër Lleshdri
+Lli
 Lluka
 Londër
 Lorena
+Ltirsi
 Luani
 Lubjana
 Lucifer
@@ -1159,11 +1253,16 @@ Luigj
 Lukashenko
 Luksemburgu
 Lulieta
+Lulzim
 Lumbardhi i Pejës
 Lush
 Lutja hyjnore
 Luzern
+Lvivi
 Lyon
+Lëtini
+Lëtirë
+Lëtirësi
 M
 Madrid
 Madridi
@@ -1174,6 +1273,7 @@ Malazi
 Mali Everest
 Mali i Shenjtë
 Mali i Zi
+Malo
 Malta
 Maltë
 Malé
@@ -1192,6 +1292,7 @@ Marigo
 Marigojë
 Marigonë
 Marijuane
+Marjan
 Mark
 Markaj
 Marki
@@ -1206,6 +1307,7 @@ Martinaj
 Martini
 Martinë
 Martja
+Masinë
 Maskat
 Matehorn
 Mathe
@@ -1233,8 +1335,11 @@ Meljisa
 Meria
 Mesia
 Mesik
+Meto
 Mhill
 Mikea
+Minikel
+Minikelë
 Minsku
 Misisipi
 Misr
@@ -1243,10 +1348,13 @@ Mitrovicë
 Mitër
 Miushi Miki
 Mjanmar
+Moezi
+Moezia f {{q|definite
 Moisiu
 Moldavi
 Moldavia
 Molla e Adamit
+Monako
 Mongoli
 Mongolia
 Mongolia e Brendshme
@@ -1264,12 +1372,15 @@ Muhammed
 Muhammedi
 Muji
 Mujo
+Mumbai
 Muri i Berlinit
+Musa
 Mustafa
 Myzeqe
 Mëhill
 Mëri
 Mërkur
+Mëzi
 Mëzia
 N
 NATO
@@ -1278,6 +1389,7 @@ Nallbani
 Namibia
 Napoli
 Napulë
+Natolia
 Navarre
 Ndermir
 Nderosa
@@ -1293,12 +1405,14 @@ Ndërlyse
 Nepal
 Nepalese
 Nepalisht
+Nevruz
 New Delhi
 New York City
 Nexhat
 Ngirterrë
 Ngirterrësh
 Ngirterrëshe
+Ngjiku
 Ngushtica e Beringut
 Ngushtica e Dover
 Ngushtica e Gjibraltarit
@@ -1327,12 +1441,13 @@ Nordrhein-Westfalen
 Normandia
 Norvegji
 Norvegjia
-Notice that while both adjectives require the adjectival article and the same masculine plural agreement
 Nreka
+Nubia
 Nuhu
 Numrat
 Nur-Sultan
 Nursultan
+Nxhiku
 O
 OFP
 OKB
@@ -1354,25 +1469,22 @@ Orfeu
 Organizata Botërore e Tregtisë
 Organizata e Kombeve të Bashkuara
 Osetia jugore
+Osh
 Oslo
 Ottawa
 P
 Pakistan
 Pal
 Palaj
-Palaj m ()
 Palestina
 Palestinë
 Pali
-Pali m ()
 Palina
 Pallatin e Buckingham
 Pallatin e Westminsterit
 Palush
 Palushaj
-Palushaj m ()
 Palushi
-Palushi m ()
 Panama
 Pandorë
 Pangea
@@ -1393,8 +1505,10 @@ Perandoria Gjermane
 Perandoria Osmane
 Perandoria Romake
 Perandoria Ruse
+Perandoria e Part'it
 Persisë
 Persië
+Peru
 Peruja
 Perëndia
 Perëndimi
@@ -1403,13 +1517,15 @@ Peshkopia
 Peshorja
 Peshqit
 Petrarka
+Petrograd
 Phnom Penh
 Pinoku
 Pisë
 Pitagora
 Pjetri
 Pjetër
-Pjongian
+Pjongiang
+Pjonjangu
 Pleqërishte
 Plevla
 Po të kish halla loqe, do e quanin dajë
@@ -1423,6 +1539,7 @@ Polinezi
 Polinezia
 Poloni
 Polonia
+Pont
 Portugali
 Portugalia
 Praga
@@ -1445,6 +1562,7 @@ Prizren
 Prizreni
 Progon
 Prokopi
+Prometeu
 Prusia
 Pulia
 Putin
@@ -1460,6 +1578,9 @@ Qarku i Lezhës
 Qarku i Shkodrës
 Qarku i Vlorës
 Qipro
+Qipro Verior
+Qiproja
+Qiproja Veriore
 Quercus frainetto
 Qup
 Qupi
@@ -1469,6 +1590,9 @@ RTSH
 Rabati
 Rambo
 Ramush
+Renc
+Renes
+Renës
 Republika Argjentine
 Republika Bjelloruse
 Republika Demokratike e Gjermanis
@@ -1483,6 +1607,7 @@ Republika Socialiste Federale Sovjetike e Rusisë
 Republika e Afrikës Qendrore
 Republika e Afrikës së Jugut
 Republika e Armenisë
+Republika e Bashkuar Arabe
 Republika e Estonisë
 Republika e Guinea-Bissau
 Republika e Indisë
@@ -1507,10 +1632,12 @@ Riga
 Rigë
 Rika
 Rikë
+Rilindje
 Rinim
 Rinor
 Rinosh
 Risan
+Roblox
 Rom
 Roma e lashtë
 Romë
@@ -1518,6 +1645,7 @@ Romët
 Rovinji
 Rr
 Rraman
+Rrapi
 Rrezag
 Rrezargjend
 Rrok
@@ -1533,12 +1661,15 @@ S
 SHBA
 SHPK
 SIDA
+Sabit
+Sahara
 Sahara Perëndimore
 Saharaja
 Saksonia
 Saksonia e Ulët
 Salvador
 Salvadori
+San Salvadori
 Sana
 Sarajeva
 Sarajevë
@@ -1561,6 +1692,7 @@ Sh
 Shaban
 Shefket
 Shefqet
+Shehi
 Shehu
 Shen Merija
 Sheshi i Kuq
@@ -1576,7 +1708,9 @@ Shkupi
 Shkurt
 Shkurtashtrembaluqi
 Shkurte
+Shkypëni
 Shkëlzen
+Shkërdhatokraci
 Shpirag
 Shpirti i Shenjtë
 Shpresë
@@ -1590,13 +1724,13 @@ Shqipëri
 Shqipëria
 Shqipërisë
 Shqypni
-Shqypni f/Shqypnia
 Shqypnia
 Shtete e Bashkuara
 Shtete e Bashkuara të Amerikës
 Shtetet e Bashkuara
 Shtetet e Bashkuara të Amerikës
 Shteti Shumëkombësh i Bolivisë
+Shtip
 Shtjefën
 Shtunë
 Shtëpia e Bardhë
@@ -1607,6 +1741,7 @@ Shën Mëhill
 Shën Nikolla
 Shën Petersburgu
 Shën Sofia
+Shën Vincenti dhe Grenadinet
 Shëngjin
 Shëngjini
 Shëtunë
@@ -1662,8 +1797,11 @@ T'arbrisht
 TKOB
 Taipei
 Taipei Kinez
+Tajlanda
 Tajlandë
 Tajvan
+Tajvani
+Taleia
 Talin
 Tanganjika
 Tanush
@@ -1690,7 +1828,8 @@ Thimphu
 Thjeshtak
 Thoma
 Thopç
-Timôro tî Tö
+Timor Lindor
+Timori Lindor
 Tirana
 Tirane
 Tiranë
@@ -1707,17 +1846,24 @@ Toka e Zjarrtë
 Tokio
 Tomor
 Tonibler
+Tony
+Topalli
 Toronto
 Torontoja
 Tos
 Tosk urth
-Tosk: Shqipëri f/Shqipëria
+Tosk: Shqipëri
+Toskëria
 Transilvania
 Trash
 Trashaj
 Trashe
 Trashi
 Trashja
+Trim
+Trimas
+Tringa
+Tringe
 Trinidad dhe Tobago
 Tripoli
 Troja
@@ -1738,6 +1884,7 @@ UFO
 Uashington
 Uashington D.C.
 Uellsi
+Uibardha
 Uika
 Ujka
 Ujkan
@@ -1749,6 +1896,7 @@ Uk
 Ukraina
 Ukrainë
 Ukshin
+Ulan Bator
 Ulan Batori
 Ulkan
 Ulpian
@@ -1772,11 +1920,15 @@ Valdet
 Valdete
 Valletta
 Vankuveri
+Vankuvër
+Vanuatu
 Varshava
 Varshavë
 Vasili
 Vatikan
+Vatikani
 Venezuela
+Venezuelë
 Venus
 Venusi
 Veprat e Apostujve
@@ -1788,6 +1940,7 @@ Vientiane
 Vietnam
 Vietnami
 Vilnius
+Vilson
 Virgjëresha
 Vis
 Visar
@@ -1830,8 +1983,10 @@ Xhuba
 Xhuljano
 Y
 Ylberina
+Yllas
 Yllballe
 Yllbardha
+Yllbardhë
 Ylldrita
 Yllesha
 Ylli
@@ -1844,6 +1999,7 @@ Yllmira
 Yllnesha
 Yllnore
 Yllore
+Yllos
 Yllpara
 Yllëza
 Z
@@ -1866,6 +2022,7 @@ Zhaki
 Zhaku
 Zimbabveja
 Zira
+Zjerma
 Zojz
 Zojzi
 Zonja Jonë
@@ -1926,7 +2083,9 @@ abonsina
 abonsinëm
 abonuar
 abort
-aborti
+abrash
+abrashe
+abrazh
 abrogim
 abrogoj
 absenteizëm
@@ -2011,8 +2170,9 @@ adresohem
 adresoj
 adresuar
 adresë
+adë
 aerodinamik
-aerodinamikëm
+aerodinamikë
 aerodrom
 aeroplan
 aeroplan reaktiv
@@ -2025,6 +2185,7 @@ afatgjatë
 afati
 afatshkurtër
 aferim
+aferín
 afgan
 afinitet
 afirmohem
@@ -2039,7 +2200,6 @@ afri
 afrikan
 afrikane
 afrim
-afrimi
 afrimohem
 afrishëm
 afro
@@ -2074,13 +2234,14 @@ afërmendshëm
 afërmendësi
 afërmënç
 afërsi
-afërsia
 afërsisht
 afërt
+afërím
 ag
 aga
 agat
 agimi
+agimprurës
 agjenci
 agjinoj
 agjëresë
@@ -2094,24 +2255,35 @@ agon
 agresion
 agresiv
 agresor
-agrokulturë
+agrikulturë
 agronom
 agronomi
+aguliçe
+aguliçore
 agull
 agullohet
 agullon
 agullor
+aguridh
+aguridhe
+agzot
+agë
 agër
 agërshak
+agëzót
 agór
 ah
 aha
 aheng
 ahishte
 aht
+ahur
+ahçillë́k
+ahçí
 ahë
 ai
 aids
+ajasmë
 ajatollah
 ajazmë
 ajdës
@@ -2129,12 +2301,17 @@ ajërt
 akacie
 akademi
 akademik
+akcizë
+akllek
+akllýk
 akoma
 akord
 akrep
 akrobat
 akromegalia
 aks
+aksham
+akshí
 aksident
 aksiomë
 aksion
@@ -2152,15 +2329,40 @@ aktivizëm
 aktor
 aktore
 aktorë
+aktpadi
 akuarium
 akull
+akullaç
+akullemë
+akullimë
+akullirë
+akullishtë
+akullmbajtëse
 akullnaja
 akullnajë
+akulloj
+akullor
 akullore
+akulloreshitës
+akullsi
+akullthyes
+akullçarës
 akuzativ
+akzot
+akzót
+akçeshë
+akçi
+akçihane
+akçiháne
+akçillëk
+akçillë́k
+akçiáne
+akçiásh
+akçí
 akë-
 akëll
 akëqysh
+ala
 alarm
 alarmim
 alarmohem
@@ -2174,11 +2376,13 @@ albanologjia
 album
 aleancë
 aleat
+alem
 alergji
 alfabet
 alfabetik
 alfabetike
 algjebër
+algjerian
 algoritëm
 algë
 aliazh
@@ -2192,6 +2396,7 @@ alkoolizëm
 alkë
 all
 allakat
+allban
 allme
 allosoj
 allosua
@@ -2204,9 +2409,11 @@ altruizëm
 alumin
 ama
 amahj
+aman
 amator
 ambasador
 ambasadë
+ambiental
 ame
 amebë
 americ
@@ -2218,6 +2425,7 @@ amiant
 amin
 amnisti
 amo
+amper
 ampermetri
 ampulë
 amshim
@@ -2245,6 +2453,7 @@ anabolizmi
 anadetas
 anagramë
 analist
+analizoj
 analizë
 analog
 analogji
@@ -2273,6 +2482,7 @@ andërroj [ɑ̃ndroj]
 ane
 anekdotë
 aneksim
+anem
 anembanë
 anemi
 ang
@@ -2285,6 +2495,7 @@ anglishte
 anglosakson
 angoj
 angth
+anguliçe
 angullij
 angullimë
 angullin
@@ -2310,6 +2521,7 @@ ankth
 ankuar
 anmik
 anoj
+anshëm
 ansujë
 antenë
 antibiotik
@@ -2329,13 +2541,19 @@ antonim
 antonimik
 antropolog
 antropologji
+antropologjia
+antropologjie
 antropologjik
 antropologjikisht
+antropologjinë
+antropologjisë
 antropomorfizëm
 anus
 anzë
 anë
+anëmbajtës
 anëmik
+anërrugë
 anës
 anësi
 anësisht
@@ -2378,16 +2596,22 @@ arbëreshë
 arbërisht
 arbërisht)
 arbërishte
+archived from the original on 2013-08-10:
 ardhangësi
 ardhangët
 ardhi
 ardhje
 ardhme
 ardhmje
+ardhshme
+ardhshmëri
+ardhshëm
 ardhur
 ardhëni
 ardhës
 arenë
+arf
+arfë
 arg
 argano
 argat
@@ -2416,6 +2640,7 @@ argëtoj
 argëtuar
 argëtues
 argëtuese
+arhond
 ari
 ari polar
 aristokraci
@@ -2428,6 +2653,7 @@ ariu polar
 arixheshkë
 arixhi
 arkaik
+arkaizëm
 arkas
 arkeolog
 arkeologe
@@ -2467,6 +2693,7 @@ armor
 armshor
 armë
 armë bërthamore
+armë kimike
 armëmbajtje
 armëndreqës
 armëpunues
@@ -2474,6 +2701,8 @@ armëpushim
 armëtar
 armëtore
 arn
+arnaut
+arnautkë
 arne
 arnesë
 arnim
@@ -2559,15 +2788,12 @@ arushkë
 arushë
 arushë mali
 arë
-arënd (Çam}
+arënd
 arënx
 arësye
-arësyetohem
 arësyetoj
-arësyetuar
 arëz
 as
-as the second is not in the immediate environment of the modified definite noun
 as-
 asamble
 asbest
@@ -2582,6 +2808,7 @@ asgjëkundi
 asgjësoj
 ashe
 ashensor
+ashik
 ashk
 ashkth
 ashkë
@@ -2610,6 +2837,7 @@ asketizëm
 askund
 askundi
 askush
+asm
 asnjanës
 asnjanësi
 asnjanësim
@@ -2709,6 +2937,7 @@ automatik
 automatizim
 automjet
 automobil
+automobil elektrik
 automobilistik
 autonom
 autonomi
@@ -2729,6 +2958,10 @@ avancë
 avantazh
 avari
 avash
+avash avash
+avash-avash
+avashllë́k
+avaz
 avdes
 avdeshanë
 avdos
@@ -2739,6 +2972,7 @@ aventurë
 avgellë
 aviacion
 avion
+avion luftarak
 avion pa motor
 avis
 avit
@@ -2758,7 +2992,11 @@ avull
 avulli
 avullim
 avulloj
+avullore
 avyt
+avásh-avásh
+aváshtë
+aváshëm
 avë
 avër
 axhami
@@ -2766,18 +3004,18 @@ axhë
 azalé
 azerbaixhan
 azhdë
-azi e vogël
 aziatik
 azil
+azilkërkues
 azot
 açik
 b
 baba
-baba ()
 babagjysh
 babai
 baballëk
 babanik
+babaxhan
 babi
 babil
 babo
@@ -2808,6 +3046,7 @@ bajm
 bajoneta
 bajonete
 bajonetë
+bajrak
 bajraktar
 bajram
 bajrimagë
@@ -2840,6 +3079,7 @@ bakërpunues
 bakërt
 bal
 baladë
+balan
 balancë
 balash
 balast
@@ -2869,6 +3109,8 @@ balluke
 ballungë
 ballë
 ballëbreshtëz
+ballëtár
+ballëtór
 balo
 baloj
 balok
@@ -2879,6 +3121,7 @@ baloshe
 baloz
 balsam
 baltinë
+baltishte
 baltë
 balzë
 balë
@@ -2918,6 +3161,7 @@ barabar
 barabartë
 barabrinjës
 baras
+baraspeshë
 barath
 baraz
 barazhgë
@@ -2948,6 +3192,7 @@ barishtor
 bariton
 barium
 bark
+barkalec
 barkar
 barkaris
 barkarisem
@@ -2962,13 +3207,10 @@ barm
 barmë
 barna
 barnash
-barnashitës
-barnatar
 barnatore
 barngrënës
 barni
 barometri
-baron
 baroneshë
 barqe
 barqeve
@@ -2976,6 +3218,7 @@ barrikadë
 barros
 barrë
 barsë
+bartshëm
 barukë
 barut
 barëra
@@ -2984,6 +3227,7 @@ baseta
 bash
 bashkangjitur
 bashkatdhetar
+bashkautor
 bashki
 bashkia
 bashkiak
@@ -2997,6 +3241,7 @@ bashkuar
 bashkuara
 bashkë
 bashkë-
+bashkëbart
 bashkëfajtor
 bashkëfajtore
 bashkëfajësi
@@ -3008,11 +3253,14 @@ bashkëndodhi
 bashkëngjis
 bashkënxënës
 bashkënxënëse
+bashkëpronar
 bashkëpunim
 bashkëpunoj
 bashkëpunëtor
 bashkëqytetar
 bashkëqytetare
+bashkërendoj
+bashkësi
 bashkëtingëllore
 bashkëveprim
 bashkëveprim thelbësor
@@ -3046,6 +3294,7 @@ batoj
 baule
 bazalt
 baze
+bazë
 bazë të dhënash
 baç
 be
@@ -3056,6 +3305,7 @@ beckë
 beduin
 bedunicë
 befas
+begatshëm
 begenis
 bej
 bejkë
@@ -3165,6 +3415,7 @@ bindet
 bindje
 bindur
 binjak
+binjëq
 binosh
 biofizikë
 biograf
@@ -3191,6 +3442,8 @@ birrë
 birth
 birucë
 birë
+birësoj
+birësuar
 bis
 bis!
 bisedar
@@ -3320,6 +3573,7 @@ bojkotim
 bojkotoj
 bojë
 bojë kafe
+bojë kine
 bojë shkrimi
 bojëgjake
 bojëkafe
@@ -3342,12 +3596,12 @@ bollë shtëpisë
 bollëk
 bollësharde
 bolshevik
+bolshevizëm
 bombardim
 bombardoj
 bombë
 bombë atomike
 bombë bërthamore
-bonbone
 bonjak
 bonjake
 bonjar
@@ -3376,6 +3630,7 @@ borë
 borës
 borës i bjeshkëve
 bosh
+boshatis
 boshllëk
 boshnjak
 bosht
@@ -3430,7 +3685,6 @@ bregaloj
 bregas
 bregcë
 bregdet
-bregdetar
 bregore
 bregu
 breh
@@ -3454,7 +3708,13 @@ brerore
 bresh
 bresharak
 breshk
+breshkamadh
+breshkamadhe
+breshkaman
+breshkaqen
 breshkë
+breshkë e ugareve
+breshkë toke
 breshkëz
 breshni
 breshnicë
@@ -3476,6 +3736,7 @@ bretkocë
 bretkosë
 bretëkë
 brez
+brezur
 breçkë
 bri
 briesë
@@ -3496,19 +3757,30 @@ brirët
 brishtë
 brisk
 brit
+britanik
 brith
 britm
+britm i dytë
+britm i parë
+britm i tretë
 britmë
 brizhdë
+brof
 brohoritje
 brojcë
 brokë
 brom
+bronx
 bronz
 broshurë
 brukë
 brumbull
+brumçë
 brumë
+brunc
+brunx
+brunz
+brunç
 brushtull
 brushtullë
 brushë
@@ -3518,10 +3790,12 @@ brydh
 brydhët
 brymë
 brymës
+brënda
 brëndës
 buall
 buallicë
 bubu
+bubu-
 bubullimë
 bubullon
 buburezë
@@ -3577,6 +3851,7 @@ bulgë
 bulgër
 buli
 buljar
+bulk
 bulkth
 bullafiq
 bullamaç
@@ -3594,6 +3869,7 @@ bulëz
 bum
 bumballë
 bumbar
+bumbë
 bumerang
 bun
 bundë
@@ -3615,10 +3891,10 @@ burinë
 burishtë
 burmë
 burokraci
+burokrat
 buron
 buronjë
 burr
-burr [bur]
 burra
 burrac
 burracak
@@ -3644,6 +3920,8 @@ bushtë
 bushtër
 busull
 butak
+butile
+butilë
 buton
 butë
 buxhak
@@ -3695,6 +3973,9 @@ bykëlina
 bykëra
 bykëzoj
 bylbyl
+bylyk
+bylykbash
+bymej
 byr
 byrek
 byreksheqer
@@ -3715,12 +3996,12 @@ bythëqirë
 bythëqyqe
 bythëtrashë
 bythëzbuluar
-byzylyk
 bzoj
 bâ
 bâhna
 bâj
 bân
+bâs
 bëhem
 bëj
 bëj seks
@@ -3795,6 +4076,7 @@ ce
 cece
 cedra
 cedër
+cefalopodë
 cehë
 cek
 cekë
@@ -3802,10 +4084,12 @@ cekët
 cekëtinë
 cekëtësi
 celo
+celular
 cemerlik
 cemtë
 cen
 cenim
+cenoj
 censurë
 cent
 central
@@ -3991,6 +4275,7 @@ daneze
 dang
 dangë
 danisht
+danoj
 dantellë
 dardalec
 dardan
@@ -4012,6 +4297,13 @@ dashakeq
 dashakeqje
 dashje
 dashni
+dashnia
+dashnie
+dashninë
+dashnish
+dashnisë
+dashnitë
+dashnive
 dashnohna
 dashnoj
 dashnor
@@ -4030,8 +4322,7 @@ dashuruar
 dashurues
 dashënohna
 dashënoj
-dashënor
-dashënore
+dashës
 dasma
 dasmat
 dasmor
@@ -4043,6 +4334,7 @@ datë
 daulle
 daxhë
 dazhë
+de
 debat
 debate
 debatoj
@@ -4065,11 +4357,14 @@ dejë
 dejët
 dekalitër
 deklaratë
+deklaroj
 dekë
 del
 dele
+deledash
 delegacion
 delegat
+delegate
 delegim
 deleje
 deleve
@@ -4085,6 +4380,7 @@ delmir
 delmuar
 delmur
 delmëtor
+delta
 deltar
 deltari ilir
 deltinë
@@ -4092,15 +4388,20 @@ deltë
 dem
 dembel
 demel [demɛl]
+demet
 demografia
 demokraci
 demokrat
 demokratik
 demokratisht
+demokratizim
+demokratizoj
 demon
 denazifikim
 dend
 dendur
+denduri
+dendësi
 deng
 denjë
 denjësi
@@ -4120,6 +4421,7 @@ derdhje
 derdhtore
 dergj
 deri
+derivat
 derk
 derk [dɛɾk]
 dermatolog
@@ -4130,6 +4432,7 @@ dermatologjikisht
 derpe
 derr
 derr në thes
+derrar
 derri i egër
 derrk
 derrkuc
@@ -4149,7 +4452,9 @@ detar
 detektiv
 detuar
 detyrë
+detyrë shtëpie
 deve
+devijimi standard
 devizë
 dezertim
 dezertor
@@ -4183,9 +4488,11 @@ dhelpër
 dhelëkundje
 dhem
 dhemasë
+dhemat
 dhemb
 dhembje
 dhembje koke
+dhembjeprurës
 dhembshuri
 dhemizë
 dhemje
@@ -4200,7 +4507,6 @@ dheu
 dheul
 dhez
 dhi
-dhia e egër
 dhia e shkëmbinjve
 dhiar
 dhim
@@ -4216,7 +4522,10 @@ dhjatë
 dhjes
 dhjetor
 dhjetë
+dhjetëkëndësh
+dhjetëmbëdhjetë
 dhogë
+dhomat
 dhomë
 dhomë e nëndheshmë
 dhomë gjumi
@@ -4240,10 +4549,12 @@ dhuratë
 dhurim
 dhuroj
 dhurë
+dhurëti
 dhâm
 dhên
 dhênd
 dhëmb
+dhëmballë
 dhëmp
 dhën
 dhëndër
@@ -4268,10 +4579,9 @@ diare
 diasporë
 diatezë
 diatezë pësore
-diatezë pësore ()
-diatezë pësore f ()
 diatezë veprore
 diatezë vetvetore
+die
 diejtë
 diell
 diellor
@@ -4279,6 +4589,7 @@ diellore
 dietë
 digitron
 digjem
+digjoj
 digë
 dihas
 dihat
@@ -4291,7 +4602,10 @@ dijetare
 dijës
 dikan
 dike
+dikoj
 diktator
+diktatore
+diktatura e proletariatit
 diktaturë
 diktim
 diktoj
@@ -4310,6 +4624,7 @@ dimëroj
 dimëror
 dimërues
 din
+dinamikë
 dinamit
 dinamo
 dinastia
@@ -4326,7 +4641,9 @@ diqysh
 dirigjent
 dirsë
 disa
+disajavësh
 disfatë
+dishipujë
 dishkë
 dishonor
 dishtë
@@ -4347,7 +4664,6 @@ dita
 dita e të dashuruarve
 ditar
 dith
-dithë
 ditor
 dituri
 ditë
@@ -4356,9 +4672,11 @@ ditën e mirë
 ditëzi
 divan
 diversant
+divizion
 divorc
 dizajn
 dizenteri
+dizet
 diçka
 djali
 djalin
@@ -4377,6 +4695,7 @@ djeg
 djegagur
 djegje
 djegqerrës
+djek
 djem
 djemsh
 djemtë
@@ -4392,15 +4711,18 @@ djersij
 djersitur
 djersitura
 djersë
+djéshëm
 do
 do të
 dobedole
 dobi
+dobiprurës
 dobishëm
 dobërdole
 dobërdolë
 dobët
 doganë
+dogmatik
 dok
 doke
 dokrra
@@ -4434,7 +4756,6 @@ dorë
 dorëshkrim
 dorëzohem
 dorëzoj
-doshta
 dosë
 dosëbalë
 dot
@@ -4453,8 +4774,10 @@ dragua
 drague
 dragë
 drakëm
+dramaturgji
 drambur
 dramidhe
+dramë
 drang
 drangue
 drapër
@@ -4463,11 +4786,16 @@ drathe
 dre
 dre brilopatë
 dre i rëndomtë
+dre lopatar
 dredh
 dredh bishtin
+dredharak
 dredhkë
+dredhor
+dredhues
 dredhë
 dredhëz
+dregaman
 dregë
 drejt
 drejtar
@@ -4477,6 +4805,7 @@ drejtim
 drejtkëndësh
 drejtoj
 drejtor
+drejtore
 drejtoreshë
 drejtpërdrejt
 drejtshkrim
@@ -4523,6 +4852,7 @@ drizë
 drodhi këmbën
 droe
 droga
+drogaman
 drogë
 drojë
 drokth
@@ -4564,6 +4894,7 @@ duam
 duan
 duartrokas
 duartrokitje
+dublimi
 dubloj
 dubnium
 dudum
@@ -4653,7 +4984,10 @@ dyshek
 dyshim
 dyshoj
 dytë
+dyvjeçar
 dyzet
+dyzet e dhjetë
+dyzetedhjetë
 dyzetedy
 dyzetegjashtë
 dyzetekatër
@@ -4663,10 +4997,15 @@ dyzetepesë
 dyzeteshtatë
 dyzetetetë
 dyzetetre
+dyzetkëmbësh
+dyzetvjetor
+dyzetvjeçar
 dyzetë
+dãnë
 dëbim
 dëboj
 dëborë
+dëfrim
 dëftesë
 dëftohem
 dëftoj
@@ -4684,11 +5023,14 @@ dëkoj
 dëlgoj
 dëlgonj
 dëlir
+dëlirë
+dëlirësi
 dëllenjë
 dëllinjë
 dëllëndyshe
 dëllënjë
 dëm
+dëmprurës
 dëmshpërblej
 dëmshëm
 dëmtim
@@ -4740,7 +5082,6 @@ dσ
 dσ̈
 dẽjun
 e
-e ()
 e ardhme
 e bardhë
 e bukura e dheut
@@ -4774,6 +5115,7 @@ edh
 edhe
 edhe pse
 edukim
+edukim fizik
 edukoj
 edukologjia
 efekt
@@ -4785,9 +5127,14 @@ egjëll
 egjër
 egzosfera
 egër
+egërsirë
 eh
 ehojo
 ehull
+eigenhapësirë
+eigenvektor
+eigenvlerë
+ej
 eja
 ejakulacion
 ekip
@@ -4802,15 +5149,20 @@ ekonomist
 ekran
 ekser
 ekskavator
+ekskursion
 ekspansionizëm
 eksperiencë
 eksperiment
 ekspert
 eksplorim
+eksport
+eksportues
 ekspozitë
+ekstradim
 ekstremizëm
 ekuacion
 ekuator
+ekuinoks
 ekur
 ekzekutim
 ekzistencë
@@ -4819,6 +5171,7 @@ elb
 elbth
 elefant
 elektricitet
+elektrik
 elektrodë
 elektrokardiografia
 elektromagnetizëm
@@ -4826,9 +5179,11 @@ elektron
 elektronik
 elektronika
 element
+elhamdulilah
 eliminoj
 elin
 eline
+elips
 elitë
 embargo
 emblemë
@@ -4841,6 +5196,7 @@ emigrim
 emigroj
 emirat
 emision
+emnak
 emocion
 emtë
 emën
@@ -4862,7 +5218,9 @@ endëse
 energi
 energik
 energji
+energjia kinetike
 energjia mekanike
+energjia potenciale
 energjik
 energjikisht
 eng
@@ -4896,6 +5254,8 @@ epistemologjik
 epistemologjikisht
 epo
 epokë
+epokë e bronzit
+epos
 epror
 epsh
 epshmëri
@@ -4908,6 +5268,7 @@ epërme
 epërmi
 epërsi
 epërsia
+epërsia ajrore
 epërsitë
 erashkë
 erbium
@@ -4919,6 +5280,7 @@ eritropoeza
 ermelina
 erotik
 err
+errem
 errij
 errshajë
 errësirë
@@ -4960,6 +5322,7 @@ et
 etapë
 eth
 ethe
+etheprurës
 ethol
 ethëzë
 etik
@@ -4981,6 +5344,8 @@ evropian
 ezofag
 ezoterika
 f
+f.
+fabrikant
 fabrikë
 fabul
 fagot
@@ -4990,6 +5355,7 @@ fajdexhi
 fajkua
 fajkë
 faks
+fakt
 fakulltet
 fal
 fala
@@ -5030,10 +5396,12 @@ famëmadh
 fanar
 fanatik
 fanatizëm
+fang
 fantazi
 fantazmë
 fantazoj
 faqe
+faqe interneti
 faqebardhë
 faqebutë
 faqedjegur
@@ -5057,6 +5425,7 @@ faqerrumbullak
 faqeshegë
 faqetrëndafil
 faqeverdhë
+faqeza
 faqezbehtë
 faqezi
 faqezjarr
@@ -5069,6 +5438,8 @@ farefis
 farishtë
 farkë
 farkëtar
+farmaceutikë
+farmacist
 farmakologji
 faroj
 faros
@@ -5087,6 +5458,7 @@ fatkeq
 fatkeqësi
 fatkeqësisht
 fatlum
+fatprurës
 faturë
 favorit
 fazani
@@ -5121,7 +5493,6 @@ fengem
 fengur
 feniks
 ferma
-fermer
 fermium
 fermë
 ferr
@@ -5158,12 +5529,14 @@ figurë
 fijan
 fije
 fik
+fikth
 fikur
 fikës
 filantropia
 filigran
 filiz
 fill
+fillestar
 fillim
 filloj
 fillor
@@ -5178,6 +5551,7 @@ fin
 finale
 financiar
 financë
+finestër
 fing
 finjë
 fink
@@ -5203,19 +5577,17 @@ fistik
 fiston
 fiston deti
 fistík
+fit
+fitil
 fitim
-fitimi
+fitimdhënës
+fitimprurës
 fitimtar
-fitimtari
-fitohet
 fitoj
 fitore
-fitorja
 fituar
-fituara
 fitues
-fituese
-fituesi
+fitëz
 fizarmonikë
 fizik
 fizika bërthamore
@@ -5227,6 +5599,7 @@ fiziologji
 fiziologjik
 fiziologjikisht
 fjala
+fjalaman
 fjale
 fjali
 fjalim
@@ -5255,9 +5628,11 @@ fjord
 fjuhull
 fjur
 flak
+flaka të djeg, prushi të ngroh
 flakaresh
 flakurimë
 flakë
+flakërij
 flakërimë
 flama
 flamur
@@ -5299,6 +5674,7 @@ flok
 flok bore
 floktar
 flokëverdhë
+flotë
 fluer
 flug
 flugë
@@ -5320,6 +5696,7 @@ fluturën
 fluturës
 fmi
 fobi
+fokë
 fol
 fole
 folje
@@ -5338,6 +5715,8 @@ forca e fortë
 forca e fortë bërthamore
 forca elektromagnetike
 forca gravitacionale
+forca qendërikëse
+forca qendërsynuese
 forcat e armatosura
 forcë
 forcë thelbësore
@@ -5379,6 +5758,7 @@ frazë
 fre
 fregatë
 fregull
+frekuencë
 frenjë
 frenë
 freskore
@@ -5387,6 +5767,7 @@ freth
 frigorifer
 frigoriferi
 frikacak
+frikaman
 frikshme
 frikë
 frizë
@@ -5407,6 +5788,7 @@ frymor
 frymë
 frymëmarrje
 frymëz
+frymëzim
 frymëzoj
 fryshëm
 fryt
@@ -5455,11 +5837,13 @@ ftonjtë
 ftu
 ftua
 fuga e kopshtit
+fugare
 fugë
 fugë kokëzezë
 fukadrugë
 fuki
 fulterëz
+fumatë
 fun
 fund
 fundi
@@ -5476,6 +5860,7 @@ funn [fũn]
 funor
 fuqi
 fuqishëm
+fuqizoj
 furatë
 furkulicë
 furnelë
@@ -5497,8 +5882,13 @@ fushor
 fushë
 fushë betejë
 fustan
+fustane
+fustanellë
+fustenëz
+fustë
 fut
 futboll
+futboll Amerikan
 futboll kanadez
 futem
 fuzhnjar
@@ -5521,14 +5911,19 @@ fëllig
 fëlliq
 fëlliqem
 fëlliqësi
+fëmi
 fëmijaq
 fëmijaqëri
 fëmijë
 fëmijëri
+fëmiror
 fëndyell
 fëndë
 fënequllë
+fënestër
+fëng
 fëngem
+fëngishtë
 fëngjill
 fëngur
 fënjeshtër
@@ -5558,12 +5953,14 @@ gacë
 gadishull
 gadishullor
 gadolin
+gafil
 gaforre
 gaforre e madhe
 gaft
-gaga
 gagth
 gajasje
+gajde
+gajdexhi
 gajdhur
 gajushë
 gak
@@ -5623,6 +6020,7 @@ garrjepçe
 garues
 garuese
 garuzhdë
+garé
 garë
 gashtellë
 gashtë
@@ -5633,10 +6031,14 @@ gati
 gatoj
 gatuaj
 gatë
+gavas
 gavër
 gaz
+gaz lotsjellës
+gazavaj
 gazeta zyrtare
 gazetar
+gazetare
 gazetari
 gazetë
 gazhup
@@ -5656,6 +6058,7 @@ gdhi
 gdhij
 gdhimë
 gdhin
+gdhinj
 gdhirë
 gdhitë
 gdhê
@@ -5674,6 +6077,7 @@ gegënishte
 gegërisht
 gegërishte
 geishë
+gelotologji
 gem
 gemb
 gemtë
@@ -5708,6 +6112,7 @@ gj
 gjah
 gjahtar
 gjahtarëve
+gjaj
 gjak
 gjak qumështi
 gjakatar
@@ -5723,6 +6128,7 @@ gjakpirës
 gjakpërlyer
 gjakrrjedhje
 gjakëmbël
+gjakës
 gjalles
 gjallese
 gjallë
@@ -5735,13 +6141,14 @@ gjalpanik
 gjalpatore
 gjalpë
 gjalpën
+gjalpër
 gjan
 gjanë
 gjarkëz
 gjarpij
 gjarpinj
 gjarpna
-gjarpnij gjërpânjë
+gjarpnij
 gjarpra
 gjarpën
 gjarpër
@@ -5765,6 +6172,8 @@ gjashtëdhjetë e një
 gjashtëkëndësh
 gjashtëmbëdhjetë
 gjasim
+gjasë
+gjataman
 gjath
 gjatë
 gjatësi
@@ -5779,6 +6188,7 @@ gjegje
 gjej
 gjel
 gjel deti
+gjelaman
 gjelbër
 gjelbërim
 gjelbërimë
@@ -5850,6 +6260,7 @@ gjerbë
 gjerdhe
 gjerdhet
 gjerdheve
+gjeri
 gjerlbëremë
 gjerlbëri
 gjerlbëroj
@@ -5862,6 +6273,7 @@ gjermanishte
 gjeroj
 gjerpîj
 gjerë
+gjerë e gjatë
 gjerësi
 gjesh
 gjeshk
@@ -5893,6 +6305,7 @@ gjind
 gjinde
 gjinekologji
 gjineshtër
+gjingallë
 gjini
 gjinj
 gjinjsh
@@ -5904,6 +6317,8 @@ gjinkallë
 gjinonj
 gjinor
 gjinore
+gjiparë
+gjir
 gjirafë
 gjire
 gjiri
@@ -5916,6 +6331,7 @@ gjirit
 gjisht
 gjishë
 gjitar
+gjitar detar
 gjitha f shumë ()
 gjithandej
 gjithaq
@@ -5930,6 +6346,7 @@ gjithë të mirat
 gjithëbotërisht
 gjithëcili
 gjithëkombëtar
+gjithëmëshirshëm
 gjithëpërfshirës
 gjithëshikues
 gjithësi
@@ -5946,6 +6363,7 @@ gjobëtar
 gjoc
 gjog
 gjoj
+gjoja
 gjojë
 gjok
 gjoke
@@ -5972,7 +6390,6 @@ gjuetar
 gjueti
 gjuha
 gjuha Xhosa
-gjuha amtare
 gjuha angleze
 gjuha arabe
 gjuha arumune
@@ -5980,6 +6397,7 @@ gjuha aymara
 gjuha bjelloruse
 gjuha boshnjake
 gjuha bullgare
+gjuha dalmate
 gjuha estoneze
 gjuha finlandeze
 gjuha franceze
@@ -6000,7 +6418,6 @@ gjuha maqedorumune
 gjuha meglenorumune
 gjuha ndërsllave
 gjuha norvegjeze
-gjuha perse
 gjuha polake
 gjuha portugeze
 gjuha ruse
@@ -6012,8 +6429,11 @@ gjuha vllahe
 gjuha çeke
 gjuhcë
 gjuhë
+gjuhë amtare
 gjuhë e huaj
 gjuhë e nënës
+gjuhë letrare
+gjuhë perse
 gjuhë programimi
 gjuhësi
 gjuhësisht
@@ -6030,6 +6450,8 @@ gjumin
 gjumit
 gjumth
 gjumë
+gjunjë
+gjunjëzoj
 gjuoj
 gjuonj
 gjurmë
@@ -6083,6 +6505,7 @@ gjëagjëzë
 gjëegjëzë
 gjëjë
 gjëkund
+gjëllij
 gjëlpërë
 gjëmb
 gjëmoj
@@ -6092,8 +6515,13 @@ gjëmëmadh
 gjëmëshumë
 gjëmëtar
 gjëmëzi
+gjëngallë
 gjënj
+gjënkallë
+gjëparë
 gjër
+gjërpânjë
+gjërë
 gjëthë
 gjî
 gjîzë
@@ -6102,6 +6530,7 @@ gjûj
 gjûni
 glaciologjia
 gladiator
+glaj
 glatë
 gledhë
 glep
@@ -6136,6 +6565,7 @@ goditje
 goditje e lirë
 godë
 gogeshë
+goglie
 gogol
 gogolesh
 gogozhare
@@ -6145,6 +6575,7 @@ gogënisht
 gogënisht (gheg)
 gogërisht
 gogërisht (tosk)
+gogëshë
 gogësij
 gogësonj
 gojdhânë
@@ -6175,7 +6606,6 @@ gondolë
 gonxhe
 googloj
 gop
-gopedër
 gopzerr
 gopzherr
 gopç
@@ -6248,6 +6678,7 @@ grerak
 grerë
 grerëz
 grerëz e madhe
+greshit
 greshtë
 grestë
 gresë
@@ -6280,6 +6711,7 @@ grimcue
 grimcë
 grimë
 grind
+grindaman
 grindem
 grindje
 grindë
@@ -6299,9 +6731,11 @@ grresë
 grrusë
 grrykë
 grua
+grua e vjeter
 gruaja
 gruaje
 gruar
+grue
 grumbull
 grumbullim
 grumbullohem
@@ -6310,6 +6744,7 @@ grumbullor
 grumbullues
 grundë
 grup
+grupi i Mitrovices
 grurth
 grurë
 grurë bolle
@@ -6333,6 +6768,7 @@ grykashkë
 grykele
 grykem
 grykë
+grykë zjarri
 grykëderdhje
 grykëgjatë
 grykëgjerë
@@ -6375,7 +6811,6 @@ gugloj
 guguçe
 guh
 guha
-guhak
 guhë
 gujava
 gul
@@ -6386,6 +6821,8 @@ gulm
 gultoj
 gulçoj
 gumoj
+gumëzhij
+gumëzhimë
 gunga
 gunga-gunga
 gungalec
@@ -6407,6 +6844,7 @@ gunëdhirë
 gur
 gur gëlqeror
 gur ranor
+gur shahu
 gur varri
 guracak
 gurajë
@@ -6451,15 +6889,18 @@ gurëzoj
 gush
 gushakuq
 gusht
+gushtovjeshtë
 gushë
 gushëkuq
 gutë
+guvernator
 guvë
 guxim
 guximshëm
 guzhinë
 gâtë [ɡɑtə]
 gätë [ɡɒtə]
+gëlaj
 gëlbazë
 gëlep
 gëlltis
@@ -6585,6 +7026,7 @@ gëthapë
 gëthep
 gëzim
 gëzimdhënës
+gëzimprurës
 gëzof
 gëzohem që po takohemi
 gëzohem që u takuam
@@ -6609,6 +7051,7 @@ habitshëm
 habitur
 hacker
 hadith
+hadë
 hafnium
 haggis
 hahem
@@ -6617,16 +7060,22 @@ hajduku
 hajdut
 hajdutëri
 haje
+hajgar
+hajgare
+hajgarexhi
 hajmë
 hajthëm
 hak
 hakmarrje
 hakoç
 hakrri
+hakshí
+hakull
 hakë
 hakël
 hakëll
 hakërrohem
+hala
 halbë
 hale
 halinos
@@ -6670,10 +7119,10 @@ hap gojën
 hapem
 hapje
 haps
-hapsane
 hapu sezam
 hapur
 hapës
+hapësinor
 hapësirë
 harabel
 haram
@@ -6699,6 +7148,7 @@ hardhël
 hardhël(ë)
 hare
 harem
+harf
 haristís
 hark
 harkoç
@@ -6726,8 +7176,10 @@ harrueshëm
 harrën
 harta e botës
 hartinë
+hartografi
 hartoj
 hartë
+harxhoj
 harç
 harën
 has
@@ -6736,14 +7188,21 @@ hashish
 hasium
 hasja
 hasje
+hasm
+hasmeshë
+hasmoj
 hasmëri
+hasmërohem
+hasmëroj
 hasur
+hasëm
 hata
 hatull
 hatër
 hatërmadh
 hatëroj
 hauz
+havaz
 havjar
 haxh
 haxhi
@@ -6772,6 +7231,7 @@ helikë
 helium
 hell
 helm
+helmarinë
 helmim
 helmoj
 helmuar
@@ -6807,6 +7267,7 @@ herezi
 heri
 hermeneutika
 hero
+heroina
 heroizëm
 herr
 hershmëri
@@ -6839,12 +7300,13 @@ hidhëroj
 hidhës
 hidhët
 hidrat
+hidroenergjia
 hidrogjen
+hidrografia
 hie
 hienë
 hierarki
 hierarkik
-hieroglif
 higjienë
 hijab
 hije
@@ -6875,16 +7337,18 @@ hingëloj
 hinje
 hinkë
 hip
+hiperbolë
 hiperglikemia
 hipi
 hipodrom
 hipokrit
-hipokrite
+hipokrizi
 hipopotam
 hipotalamusi
 hipotekoj
 hipotekë
 hipotermia
+hipotezë
 hippopotamus
 hipën
 hiqem
@@ -6907,6 +7371,7 @@ hise
 hiskull
 histeri
 histeria
+histerik
 histori
 histori e shkurtër
 historian
@@ -7001,6 +7466,7 @@ hudhër
 hudhër e egër
 hudhëroj
 hudër
+huej
 huell
 hujdis
 hukas
@@ -7034,6 +7500,7 @@ hungarez
 hungarisht
 hungërim
 hungëroj
+huoj
 hup
 hupni
 huptë
@@ -7074,6 +7541,7 @@ hyjnia
 hyjnim
 hyjnizoj
 hyjnor
+hyjnore
 hyjplimja
 hyjplimje
 hyll
@@ -7102,9 +7570,9 @@ hëpërhë
 hîsëll
 hŷj
 i
-i ()
 i afte
 i afërt
+i akullt
 i amët
 i barbar
 i bardhë
@@ -7113,6 +7581,7 @@ i bukur
 i burgosun
 i burgosur
 i butë
+i dashuni i giξe tditunavet
 i dehur
 i dendur
 i djersitur
@@ -7124,6 +7593,8 @@ i dëshirueshëm
 i dëshirushëm
 i epërm
 i fijë
+i fitimshëm
+i fitimët
 i fortë
 i gjatë
 i gjembtë
@@ -7172,6 +7643,7 @@ i nderuar
 i ndryshëm
 i ndërlikuar
 i ndërvarur
+i nevojshëm
 i ngadalshëm
 i ngjashëm
 i ngopur
@@ -7183,26 +7655,39 @@ i njëanshëm
 i njëqindtë
 i nënkuptuar
 i pagojë
+i pakthyer
+i pakujdesshëm
 i panjerëzishëm
 i panjohur
 i paparashikueshëm
 i papunë
+i papërkthyeshëm
 i paqytetëruar
 i parapëlqyeshëm
 i pashpjegueshëm
 i pasigurt
+i pasjellshëm
 i pasur
 i paturpshëm
 i pavarur
 i pikëlluar
+i pistë
 i pjesshëm
+i plótë
 i preferueshëm
 i punuar
 i punësuar
 i përbashkët
 i përdorshëm
+i përgjakshëm
+i përgjaktë
+i përgjakur
+i përgjakëm
 i përgjithshem
 i përgjithshëm
+i përkthyer
+i përkthyeshëm
+i përkthyet
 i qetë
 i qytetëruar
 i rinisë
@@ -7212,13 +7697,16 @@ i saj
 i saji
 i shijshëm
 i shkathët
+i shkujdesur
 i shkurtër
 i shqetësuar
 i shquar
 i shurdhër
+i shurdhët
 i shëndetshëm
 i sinqertë
 i sjellshëm
+i sqepkthyer
 i stuhishëm
 i sëmurë
 i thatë
@@ -7245,7 +7733,6 @@ i vobek
 i vobëtë
 i vogël
 i vonë
-i vorfën
 i vështirë
 i zemëruar
 i zgjuar
@@ -7265,6 +7752,7 @@ ide
 ideal
 idealist
 idealizëm
+identifikoj
 ideologji
 idhtë
 idhujtar
@@ -7273,6 +7761,7 @@ idhull
 idiomë
 idiot
 ienj
+iftar
 ijas
 ijazi
 ijë
@@ -7294,6 +7783,7 @@ ilirolog
 ilirologji
 ilirologjia
 ilirologu
+ill
 ilqe
 ilter
 im
@@ -7314,6 +7804,8 @@ imonik
 imperialist
 imperialiste
 imperializëm
+import
+importues
 imshte
 imshtë
 imt
@@ -7339,6 +7831,7 @@ imur
 imë
 imët
 imёt
+in []
 inat
 inatos
 ind
@@ -7353,6 +7846,8 @@ indonezian
 industri
 infarkti
 infarkti miokardial
+infeksion
+infektim
 infermiere
 inflacion
 informacion
@@ -7361,6 +7856,8 @@ informoj
 infrastrukturë
 ingllënj
 inj
+injeksion
+injektim
 injorancë
 injorant
 injorohem
@@ -7375,6 +7872,7 @@ institut
 instrument muzikor
 instrumental
 insulina
+integral
 inteligjenca artificiale
 inteligjence artificiale
 inteligjencie
@@ -7385,6 +7883,7 @@ interesant
 interesim
 interlingua
 internacional
+internacionalizëm
 internet
 internim
 internuar
@@ -7392,28 +7891,32 @@ internuare
 interpretoj
 interpretues
 intervistë
+inventar
 invertebrore
 investim
 inxhinier
+inxhinieri
+inç
 ipshtë
 iranian
 iraniane
 irid
 iriq
 iriq deti
-iriq i zi
 iriqa
 iriqe
-iriqëz
-irizë
 irlandez
+irlandisht
 irnohem
 irnosem
 ironi
 ironik
 ironikisht
+irredentizëm
 irë
 irënoj
+iríqëz
+irízë
 ish
 ish-
 isha
@@ -7451,6 +7954,7 @@ izraelit
 izraelite
 izë
 j
+jahni
 jaht
 jak
 jakatar
@@ -7479,6 +7983,7 @@ jam një muslimane
 jam çifut
 jam çifute
 janar
+jani
 janë
 jap
 jap shfaqje
@@ -7500,6 +8005,7 @@ jastëk
 jatagan
 jatër
 java
+javásh
 javë
 je
 jeans
@@ -7517,6 +8023,7 @@ jep
 jepja gishtin, të merr dorën
 jerm
 jermësinë
+jerug
 jes
 jesh
 jeshil
@@ -7532,9 +8039,11 @@ jetë
 jetë [jɛt] : he will remain
 jetër
 jetëshkrim
+jetëshkrimor
 jetëshkrues
 jetësoj
 jevg
+jezer
 jezuit
 jezull
 ji
@@ -7549,7 +8058,9 @@ jofetar
 jofitimprurës
 jogurt
 jokalimtar
+jometal
 jomiqësor
+jon
 jongan
 jongar
 jongarsharki
@@ -7570,6 +8081,7 @@ ju falem nderit
 ju lutem
 juaj
 juaji
+jubile
 jufkë
 jug
 jugor
@@ -7577,6 +8089,7 @@ jugosllav
 jugosllave
 jugosllavisht
 jugë
+jullar
 jurisdiksion
 jurta
 justifikoj
@@ -7591,18 +8104,31 @@ kaberr
 kabinet
 kabisht
 kabllo
+kaca-
 kacabu
 kacabû
 kacadre
 kacadrê
 kacafik
+kacafyt
+kacafytas
 kacafytem
+kacafytje
 kacagjel
+kacagjelohem
+kacagjelthi
+kacagjelë
+kacambyt
+kacambytem
+kacambytje
 kacamic
 kacamisër
 kacamit
+kacandre
 kacarroj
+kacarrum
 kacarruml
+kacarry
 kacaturr
 kacaturrë
 kacavidhë
@@ -7611,15 +8137,21 @@ kacavjerrës
 kacek
 kaci
 kaci f. lopatë
+kaci-
+kacu-
 kadal
 kadale
 kadalkadale
+kadavore
 kade
 kadhë
 kadife
 kadis
 kadmium
+kafas
+kafash
 kafaz
+kafaz i kraharorit
 kafaz lepujsh
 kafe
 kafehane
@@ -7627,6 +8159,7 @@ kafeinë
 kafeja
 kafene
 kafenjtë
+kafes
 kafexhi
 kafir
 kafjall
@@ -7671,6 +8204,7 @@ kalakiç
 kalama
 kalaman
 kalamanllëk
+kalambur
 kalamend
 kalamâ
 kalaqafe
@@ -7720,6 +8254,7 @@ kallamishte
 kallamoq
 kallamsheqer
 kallauz
+kallaúz
 kallcë
 kalli
 kallm
@@ -7736,7 +8271,6 @@ kallumë
 kallzoj
 kallëm
 kallëz
-kallëza
 kallëzoj
 kallëzore
 kallëzues
@@ -7750,6 +8284,7 @@ kalorës
 kalorëse
 kalorësi
 kalqyqe
+kalthëronj
 kaltë
 kaltën
 kaltër
@@ -7780,11 +8315,14 @@ kamatëmarrës
 kamatëpagues
 kamatëvonesë
 kameleon
+kameraman
 kamerier
 kameriere
 kamerë
 kamfë
 kamion
+kamosh
+kamoshë
 kamp
 kampion
 kampionat
@@ -7794,6 +8332,7 @@ kanadez
 kanadeze
 kanadezë
 kanal
+kanal televiziv
 kanalizime
 kanape
 kanavacë
@@ -7803,12 +8342,12 @@ kancelar
 kancer
 kand
 kandar
-kanderrngrënës
 kandidat
 kandidate
 kandil deti
 kandë
 kandërr
+kandërrngrënës
 kanellë
 kangjelë
 kangur
@@ -7816,7 +8355,9 @@ kangë
 kanilqyqe
 kanion
 kanjushë
+kankë
 kanoniera
+kanoçe
 kantinë vere
 kanun
 kanunar
@@ -7828,13 +8369,16 @@ kanû
 kap
 kapacitet
 kapak
+kapedan
 kapelabërë
 kapelapunues
 kapelë
 kapem
+kapfok
 kapilar
 kapinok
 kapis
+kapistër
 kapital
 kapitalizëm
 kapitem
@@ -7849,6 +8393,7 @@ kapje
 kaplohem
 kaploj
 kapluar
+kaposh
 kaproll
 kaprolle
 kapruall
@@ -7897,18 +8442,20 @@ karakter
 karakteristikë
 karamanjollë
 karamel
-karamele
 karamele me gjalpë
 karantinë
+karanxha
 karaoke
 karavan
 karavec
 karavele
 karavidhe
+karbohidrat
 karbon
 karboni
 karburant
 karbë
+kardinal
 karficë
 kargatis
 kargatisje
@@ -7936,9 +8483,11 @@ karrige
 karrike
 karrikë
 karrocier
+karrocë
 karrocë dore
 karrondreqës
 karroqe
+karroçul
 karsh
 karstavec
 karthi
@@ -7948,9 +8497,14 @@ karton
 kartotekë
 kartpostale
 kartë
+kartë identiteti
+kartë imbarkimi
 kartë krediti
 kartëvizitë
 karuc
+karusel
+karvansaraj
+karvanserai
 kasafortë
 kasetë
 kashalot
@@ -7968,6 +8522,7 @@ kasnecar
 kasneci
 kasnecoj
 kasolle
+kastile
 kastor
 kastori
 kastravec
@@ -7979,10 +8534,22 @@ katalog
 katastrofë
 katec
 katedrale
+kategori
 kath
 kati i pare
 kati perdhe
 katimi
+katirzet
+katra-
+katrabrez
+katragjysh
+katrahurë
+katralig
+katralojë
+katramëz
+katrasyll
+katraurë
+katravesh
 katror
 katua
 katund
@@ -7992,14 +8559,21 @@ katundari
 katundisht
 katundës
 katër
+katërkëndësh
 katërmbëdhjetë
 katërshor
 katërt
+katërzet
+katërzet e dhjetë
+katërzetedhjetë
 katûn(d)
 kaurdis
 kaush
 kauçuk
 kavanoz
+kavas
+kavaz
+kaves
 kavie
 kaza
 kazah
@@ -8010,10 +8584,16 @@ kazasë
 kazermë
 kazhup
 kazino
+kazmë
+kazëm
 kaç
+kaça-
+kaçadre
 kaçadrê
+kaçatur
 kaçavidë
 kaçel
+kaçi-
 kaçirubë
 kaçkavall
 kaçuban
@@ -8040,10 +8620,9 @@ kelp [qɛlp]
 kelpt [qɛlpt]
 kem
 kep
-kep ()
 kepa
+kepi
 kepë
-kepë ()
 keq
 keqardhje
 keqardhës
@@ -8090,6 +8669,8 @@ kimi
 kimist
 kimçë
 kinema
+kinematikë
+kinetikë
 kinez
 kingj
 kingëlë
@@ -8099,31 +8680,40 @@ kirgiz
 kirium
 kirrem
 kirurg
+kirurgji
 kirë
 kish
 kisha ortodokse
 kishar
 kishtar
 kishë
+kitarist
+kitariste
 kitarë
 kith
 kitër
 kitërr
 kizë
+kiç
 kjaj
 kjartë
+kjen
 kjo
 kjor
 kjuer
 klaj
 klanj
 klarinetë
+klartë
 klasë
 klaviçembal
 klekë
 klemzë
 kleni
 klenje
+klep
+kleptokraci
+klesh
 klient
 klikë
 klimë
@@ -8157,7 +8747,6 @@ kmer
 kmerrë
 kmesë
 kmishë
-kmr
 knaq
 knaç
 knot: bullungë
@@ -8205,10 +8794,12 @@ koftor
 koftorr
 koftë [kɔftə]
 koftëlargti
+koha
 koha e shkuar
 koha e tashme
 kohor
 kohë
+kohë e bronzit
 kohë lufte
 kohëmatës
 kohëpaskohshëm
@@ -8219,6 +8810,7 @@ kojlik mesatar
 kojotë
 kojrrilë
 kojsi
+kok
 kokall
 kokallë
 kokalë
@@ -8234,6 +8826,7 @@ kokosh
 kokoshka
 kokosit
 kokrrizë
+koks
 koksë
 koktej
 kokull
@@ -8249,6 +8842,8 @@ kokëçarje
 kol
 koleg
 kolege
+koleksion
+koleksionist
 kolektivizim
 kolendër
 kolibe
@@ -8270,14 +8865,18 @@ kolonializëm
 kolonizim
 kolonjë
 kolonë
+kolovajzë
 kolumbez
 kolumbeze
 kom
 komandant
+komandant i përgjithshëm
 komb
 kombësi
 kombëtar
 kombëtarisht
+kombëtarist
+kombëtarizëm
 kome | pllakatore
 koment
 kometë
@@ -8310,17 +8909,23 @@ koncept
 koncert
 kondak
 kondicioner
+konditë
 konfederatë
 konferencë
+konfiskoj
 konflikt
 kongres
 konkurrencë
+konkurrent
+konkurrim
+konkurroj
+konkurrues
 konkurs
 konop
 konopishtë
 konsistoj
+konsorcium
 konspekt
-konstelacion
 konstruksion
 konstruktor
 konsull
@@ -8330,6 +8935,8 @@ kont
 kontekst
 kontinent
 kontra
+kontrabandist
+kontrabandë
 kontratë
 konvikt
 kopaç
@@ -8387,9 +8994,11 @@ kori
 korije
 korit
 koritë
+kornizë
 korografia
 koronavirus
 korp
+korpus
 korr
 korridh
 korridor
@@ -8407,6 +9016,7 @@ kosaxhi
 kosdej
 koshere
 koshë
+kosinus
 koskë
 kosmonaut
 kosore
@@ -8422,7 +9032,6 @@ kotem
 kothere
 kotorr
 kotun
-kovaç
 kovë
 kozak
 kozhuf
@@ -8516,7 +9125,8 @@ kreshnike
 kreshniki
 kreshtë
 kresë
-kreu i shtetit
+kreu
+kreu i qeverisë
 krevat
 krezhëm
 kri
@@ -8527,6 +9137,7 @@ krife
 krifshë
 krifë
 krijoj
+krijues
 kriket
 krikëll
 krillë
@@ -8537,6 +9148,7 @@ kriminel
 kriminele
 kriminologjia
 krimp
+krimë
 krinë
 krip
 kripshë
@@ -8555,6 +9167,7 @@ kriter
 kritikë
 krizalidë
 krizë
+kriç
 kroat
 kroate
 kroatisht
@@ -8596,6 +9209,7 @@ kruj
 krunde
 krundja
 krup
+krupat
 krupë
 krushk
 krushkamadh
@@ -8614,6 +9228,8 @@ krybe
 krydh
 krydhje
 krye
+krye i qeverisë
+krye i shtetit m kreu i shtetit
 kryeartëz
 kryebashkiak
 kryebashkiaku
@@ -8623,12 +9239,14 @@ kryej
 kryejavë
 kryelartësi
 kryemadh
+kryeministre
 kryeministri
 kryeministër
 kryemurg
 kryengjëll
 kryengritje
 kryepeshkop
+kryeplak
 kryeqytet
 kryeqyteteve
 kryesi
@@ -8641,8 +9259,9 @@ krym
 krypë
 kryq
 kryqëzatë
+kryqëzim
+kryqëzoj
 kryqëzor
-kryzëzim
 krândç
 krândëje
 krânth
@@ -8668,11 +9287,13 @@ kthellë
 kthesë
 kthetër
 kthill
+kthim
 kthinë
 kthjell
 kthjelloj
 kthjellë
 kthjellët
+kthyer
 ku
 ku jemi ne?
 ku jeton ti?
@@ -8687,6 +9308,7 @@ kual
 kualitet
 kuar
 kub
+kubik
 kuc
 kucë
 kudh
@@ -8706,12 +9328,15 @@ kuis
 kuj
 kujdes
 kujdesem
+kujdesi
 kujdesshëm
 kujdestar
 kujdestari
 kujt
 kujtesë
+kujtesës
 kujtim
+kujtime
 kujtoj
 kujë
 kuk
@@ -8719,6 +9344,7 @@ kukoj
 kuku
 kukull
 kukulla ruse
+kukumalkë
 kukur
 kukurec
 kukutë
@@ -8757,6 +9383,7 @@ kulë
 kumbara
 kumbi
 kumboj
+kumborë
 kumbull
 kumbulla
 kumbullash
@@ -8786,6 +9413,7 @@ kund
 kundra
 kundrejt
 kundrim
+kundrinor
 kundrinë
 kundroj
 kundër
@@ -8794,6 +9422,7 @@ kundërkultura
 kundërshtar
 kundërshtim
 kundërshtoj
+kundërsulm
 kundërt
 kundërthem
 kundërti
@@ -8801,6 +9430,8 @@ kundërvidhë
 kundërvihem (i)
 kundërvë
 kundërvënie
+kundërzbulim
+kundërzjarr
 kunel
 kunetër
 kunetërish
@@ -8820,6 +9451,8 @@ kuptim
 kuptoj
 kuptueshëm
 kupë
+kupëtoj
+kupëtonj
 kuq
 kuqal
 kuqalak
@@ -8842,17 +9475,22 @@ kurbetqar
 kurbetxhi
 kurd
 kureshtar
+kurgjo
+kurgjô
 kurm
 kurmagjak
 kuroj
 kurorë
 kurorëz
+kurorëzim
 kurorëzoj
 kurp
 kurpul
 kurpën
 kurpër
+kurrgjo
 kurrgjë
+kurrgjô
 kurrillë
 kurrilë
 kurriz
@@ -8878,11 +9516,13 @@ kushtor
 kushtore
 kushtrim
 kushtueshëm
+kushtëzoj
 kusi
 kuskutë
 kusur
 kut
 kuti
+kutia e Pandorës
 kuturu
 kutëndoj
 kuvell
@@ -8891,6 +9531,7 @@ kuvendim
 kuvendoj
 kuvertë
 kuvêt
+kuvënd
 kuzhinë
 kuç
 kuçedra
@@ -8920,6 +9561,7 @@ këllcas
 këllehem
 këllk
 këllëf
+këllëf dysheku
 këllëç
 këlpurdhë
 këlshejt
@@ -8931,6 +9573,8 @@ këm
 këmbanë
 këmbej
 këmbim
+këmbonë
+këmborë
 këmbë
 këmbënyjorët
 këmbësor
@@ -8955,9 +9599,11 @@ këndim
 këndirr
 këndis
 kënditem
+këndmatës
 këndoj
 këndshëm
 këndë
+këndërr
 kënec
 kënetë
 kënetëzim
@@ -8975,8 +9621,8 @@ këput
 këputhër
 këputje
 këputë
+këqij
 këqija
-këqinj
 këqyr
 kërbisht
 kërbë
@@ -8994,6 +9640,7 @@ kërcënoj
 kërhanë
 kërkan
 kërkesë
+kërkesëpadi
 kërkim
 kërkimor
 kërkimtar
@@ -9058,6 +9705,9 @@ kështjella në erë
 kështjellar
 kështjellë
 kështu
+kështu e ka jeta
+këshyrë
+kësmet
 kësoll
 kësollë
 kësuljë
@@ -9073,13 +9723,14 @@ këthjellët
 këthmill
 këto
 këtu
-këtë ()
+këtë
 këtû
 kîgj
 kúkú
 kû
 kûh
 kûn
+kālë
 kɔ̃n
 kёthatёr
 l
@@ -9087,11 +9738,14 @@ lab
 labardh
 labirint
 laborator
+labrik
 labë
 labërgoj
 labërisht
 labërkoj
 lacë
+laf
+lafe
 lafis
 lafshë
 lag
@@ -9099,6 +9753,7 @@ lagaterë
 lagja
 lagje
 lagjet
+laguna
 lagur
 lagë
 lagësht
@@ -9109,15 +9764,18 @@ lagështoj
 lagët
 lagëtur
 lahem
+lahuta
 laik
 laj
 lajka
 lajkatar
 lajkatoj
 lajkë
+lajle
 lajm
 lajmdhënës
 lajmesë
+lajmprurës
 lajmërim
 lajmërimthirrje
 lajmëroj
@@ -9141,6 +9799,7 @@ lakmim
 lakmitar
 lakmoj
 lakmues
+lakoj
 lakshte
 lakth
 lakthi
@@ -9162,6 +9821,8 @@ lakër jeshile
 lakërarme
 lakërishtë
 lakëroj
+lalo
+lalth
 lalë
 lamantina
 lamth
@@ -9183,7 +9844,7 @@ lap
 laparos
 lapetë
 laps
-laptopi
+laptop
 lapë
 lapër
 lapërdhi
@@ -9201,6 +9862,7 @@ laraskë
 larg
 largohem
 largoj
+largë
 largët
 laring
 larmi
@@ -9265,6 +9927,7 @@ le
 le që
 le se
 le të
+lecka
 leckaman
 leckë
 ledh
@@ -9346,10 +10009,16 @@ leton
 letonez
 letonisht
 letra bixhozi
+letrar
 letër
 letër higjienike
 letër motivimi
+letërkëmbim
+letërnjoftim
+letërprurës
 letërsi
+leukimi
+leukozë
 levrek
 levë
 lexim
@@ -9361,6 +10030,7 @@ lexueshëm
 lez
 lezbike
 leze
+lezet
 lezetim
 lezë
 li
@@ -9390,6 +10060,7 @@ ligatë
 ligavec
 ligj
 ligj i luftës
+ligj ushtarak
 ligje
 ligjor
 ligjvënës
@@ -9422,6 +10093,7 @@ liman
 limon
 limë
 lind
+lindem
 lindje
 lindje e parakohshme
 lindje fëmije
@@ -9442,11 +10114,20 @@ liq
 liqen
 liqenor
 liri
+liriprurës
 liroj
 lirë
 lirë (i/e)
 lis
+lisa
+lisash
+lisat
+lisave
+lisavet
 lise
+lisi
+lisin
+lisit
 lismë
 listë
 lisë
@@ -9457,6 +10138,7 @@ lith
 litium
 litiumi
 litosfera
+litrar
 lituan
 lituanez
 lituanisht
@@ -9473,7 +10155,12 @@ liópe
 liútem
 lkitër
 ll
+llacaman
 llaf
+llafazan
+llafazanëri
+llafe
+llafezan
 llafos
 llafosem
 llafosje
@@ -9485,6 +10172,7 @@ llambadar
 llamburitës
 llambë
 llap
+llapazan
 llapë
 llastik
 llastoj
@@ -9493,6 +10181,8 @@ llasë
 llautë
 llavënj
 llaç
+llet
+llez
 lli
 llogari
 llogaris
@@ -9504,6 +10194,9 @@ lloh
 llohë
 lloj
 lloj brejtësi
+lloje
+llokandaxhi
+llokandë
 llokum
 llom
 llonxhë
@@ -9518,6 +10211,7 @@ llukë
 llullaq
 llullë
 llum
+llumbardhë
 llup
 llupash
 llupesh
@@ -9525,6 +10219,7 @@ llups
 llurbë
 llurdhë
 llym
+llânë
 llëmbë
 llënjëz
 llëra
@@ -9563,6 +10258,7 @@ lojtar
 lojtare
 lojë
 lojë biliardo
+lojë fjalësh
 lojës topin
 lokal
 lokalitet
@@ -9633,7 +10329,10 @@ lugaç
 luginë
 lugë
 lugëlëngës
+lugët
 luhare
+luhas
+luhat
 luj
 lukth
 lukër
@@ -9653,6 +10352,7 @@ lule mosmëharro
 luleborë
 lulediell
 lulegjake
+lulekuqe
 lulekëmborë
 lulelakër
 lulepëllumb
@@ -9669,6 +10369,7 @@ lulishte
 lulja
 lulohet
 luloj
+lulor
 luluar
 lulëkuqe
 lulëse
@@ -9678,6 +10379,7 @@ lulëzimi
 lulëzoj
 lum
 lumak
+lumbardhë
 lumenj
 lumenjsh
 lumenjtë
@@ -9745,7 +10447,6 @@ lâj
 lêhem
 lêna
 lë
-lë ()
 lë-
 lëbardh
 lëbarke
@@ -9757,6 +10458,7 @@ lëken
 lëkund
 lëkurçe
 lëkurë
+lëmajë
 lëmanjë
 lëmaqe
 lëmashk
@@ -9780,6 +10482,7 @@ lëng mishi
 lëng seminal
 lëngatë
 lëngoj
+lëngshëm
 lëngë
 lënë
 lëpe
@@ -9802,6 +10505,9 @@ lëshuar
 lëshues
 lëshuese
 lëskitër
+lëti
+lëtirësi
+lëtî
 lëvar
 lëvare
 lëvdatë
@@ -9848,12 +10554,12 @@ magji
 magjistar
 magjup
 magnet
+magnetizëm
 magnetofon
 magneziumi
 magulë
 magunë
 magë
-mah
 mahnit
 maj
 maja
@@ -9862,20 +10568,25 @@ majdanoz
 majm
 majmun
 majmun i mjerë
+majmë
 majonezë
 major
 majr [majɾ]
 majtas
+majth
 majtnerium
 majtë
 majë
+majëtor
 makalush
+makar
 makinist
 makinë
 makinë larëse
 makinë llogaritëse
 makinë qepëse
 makinë shkrimi
+makinë zjarrfikëse
 makra
 makrohet
 makrosë
@@ -9918,6 +10629,7 @@ malore
 malsi
 malsor
 malsí
+maltez
 malë
 malësi
 malësia
@@ -9956,11 +10668,13 @@ mangth
 mangut
 mangë
 mangët
+manifest
 manifestim
 manipulim
 mankth
 manxuranë
 manz
+mançuriane
 manë toke
 maqedon
 maqedonas
@@ -9974,6 +10688,7 @@ maqorr
 mar
 maraj
 marajë
+marak
 maraq
 maraskë
 mardh
@@ -9993,6 +10708,7 @@ marketing
 marksizëm
 markë
 maroj
+maroken
 marr
 marr erë
 marr frymë
@@ -10005,6 +10721,7 @@ marramendës
 marramenth
 marramenëse
 marrash
+marrdhanës
 marre
 marri
 marrim
@@ -10063,6 +10780,7 @@ mashtrues
 masi
 maska kirurgjike
 maska mjekësore
+maskara
 maskë
 maskë për fytyrën
 masmedie
@@ -10075,6 +10793,7 @@ masturbues
 masturbuese
 masë
 mat
+matanë
 matem
 matematik
 matematikan
@@ -10084,6 +10803,7 @@ material
 mathematikan
 matit
 matje
+matricë
 matrioshka
 matshëm
 mauzole
@@ -10098,9 +10818,9 @@ mazë
 maç
 maçe
 maçok
+mb.
 mbahem
 mbaj
-mbaj larg
 mbajtje
 mbajtës
 mbajtëse
@@ -10148,6 +10868,7 @@ mbarësoj
 mbarësuar
 mbas
 mbase
+mbashkë
 mbasi
 mbath
 mbathtar
@@ -10164,6 +10885,7 @@ mbi
 mbiemër
 mbiemëror
 mbij
+mbijetesë
 mbikëqyr
 mbikëqyrje
 mbikëqyrës
@@ -10173,6 +10895,7 @@ mbipopullim
 mbiprodhim
 mbjell
 mbledh
+mbledhja
 mbledhje
 mbledhunë
 mbledhurë
@@ -10190,6 +10913,9 @@ mbodhis
 mbodhit
 mbramë
 mbrapa
+mbrat
+mbratë
+mbraz
 mbreh
 mbrej
 mbres
@@ -10248,6 +10974,7 @@ mbuzem
 mbuzje
 mbuzur
 mby
+mbydh
 mbyll
 mbylle gojën!
 mbyllur
@@ -10265,7 +10992,11 @@ mbëhi
 mbëledhënj
 mbëllezë
 mbëlçi
+mbërat
+mbëratësë
+mbërdhe
 mbërdhi
+mbëret
 mbëroj
 mbërrij
 mbërrîj
@@ -10308,12 +11039,17 @@ mekanik
 mekanikë
 mekanizëm
 meksh
+meksikan
 mekth
 mekërij
 mekët
 mel
+melaiqe
+melek
+meleq
 melisa
 mellan
+melleq
 melodi
 meluc
 memec
@@ -10334,6 +11070,9 @@ mendoj, pra jam
 mendër
 mendër e butë
 menec
+menefregist
+menefregizëm
+menefrego
 menjë
 menjëherë
 menopauzë
@@ -10345,10 +11084,15 @@ mençur
 meqë ra fjala
 mer
 meraj
+merak
+merakleshë
+merakli
+merakos
+merakshëm
 meranë
-mercenar
 merimagë
 merimangë
+merkati
 merr
 merrem
 merruk
@@ -10360,8 +11104,10 @@ mes [mɛs]
 mesazh
 mesditë
 meshesë
+meshhur
 meshin
 meshë
+mesjetë
 mesnatë
 mesore
 mesë
@@ -10380,12 +11126,17 @@ metronom
 metropol
 metë
 metër
+mexhid
+mexhidje
+mexhit
+mexhite
 mez
 mgji
 mhm
 mholë
 mi
 mi arash
+miaft
 micak
 micë
 midhje
@@ -10405,6 +11156,8 @@ mihje
 mihës
 mijë
 mik
+mike
+mikeshë
 mikolog
 mikologji
 mikologjik
@@ -10416,6 +11169,7 @@ mikrofon
 mikroskop
 mikrovalë
 mikser
+mikth
 mili-
 miliard
 miliardë
@@ -10433,6 +11187,7 @@ milor
 minare
 mineral
 minierë
+ministre
 ministri
 ministër
 minj
@@ -10443,15 +11198,18 @@ minjvet
 minuta
 minutë
 minë
+minë tokësore
 miq
 miqtë
 miqësi
+miqësisht
 miqësohem
 miqësor
 mir [miɾ]
 mirakë
 miratim
 miratoj
+miratues
 mirazh
 mirupafshim
 mirë
@@ -10459,6 +11217,7 @@ mirë se vini
 mirë se vjen
 mirë u pafshim
 mirëdita
+mirëfilltë
 mirëmangë
 mirëmbajtje
 mirëmbeç
@@ -10476,6 +11235,7 @@ mis
 mish
 mish derri
 mish lope
+mishkonjë
 mishngrënës
 mishtor
 mishë
@@ -10505,6 +11265,7 @@ miu
 miu i gjirizeve
 miush
 miut
+mixhid
 mizantropi
 mizogjen
 mizogjin
@@ -10513,8 +11274,8 @@ mizor
 mizori
 mizë
 mjaft
-mjaftueshme
-mjaftueshëm
+mjaftoj
+mjaftë
 mjalcë
 mjaltë
 mjarush(kë)
@@ -10574,6 +11335,7 @@ mjeshtëroj
 mjeshtërok
 mjeshtëror
 mjet
+mjetë
 mjetërr
 mjez
 mjezditë
@@ -10582,11 +11344,13 @@ mkat
 mledh
 mledhje
 mllef
+mlleh
 mllezë
 mllâz
 mlohna
 mloj [mloj]
 mlysh
+mnemoteknika
 mner
 mnershëm
 mnerë
@@ -10617,7 +11381,13 @@ modull
 modullë
 modë
 modër
+moh
+mohim
 mohoj
+mohor
+mohtar
+mohues
+mohës
 moi
 moj
 mojë
@@ -10630,6 +11400,7 @@ molibden
 molicë
 molikë
 molis
+molivë
 molla
 molla e Adamit
 mollaftua
@@ -10643,6 +11414,8 @@ mollë
 mollë dheu
 mollë e dheut
 mollë e egër
+mollë e fytit
+mollë i kuq
 mollëkuqe
 mollëmuçe
 mollët
@@ -10690,7 +11463,9 @@ mortje
 mos
 mos prek!
 mosarritje
+mosbesim
 mosbestimtar
+mosgjë
 mosha e pëlqimit
 moshar
 moshatar
@@ -10700,6 +11475,13 @@ moshuar
 moshë
 moshëm
 moshëthyer
+moskthim
+moskund
+moskuptim
+moskurrë
+moskush
+mosmirënjohës
+mosnjeri
 mospajtim
 mostër
 mosveprim
@@ -10721,8 +11503,10 @@ motivueshëm
 motje
 motkeqe
 motmot
+motobarkë
 motoj
 motor
+motoskaf
 motoçikletë
 motrë
 motshë
@@ -10735,6 +11519,7 @@ motërqire
 motërqirë
 motërë
 motës
+motÿlliξunavẹt
 moujtun
 moçal
 moçalik
@@ -10788,6 +11573,7 @@ mu
 mua
 muaj
 muaji i mjaltit
+mubareq
 mudir
 mudiri
 mudirë
@@ -10853,24 +11639,16 @@ mund të më ndihmosh?
 mundbjerrët
 mundem
 mundim
-mundimi
-mundimshme
 mundimshëm
-mundja
 mundje
-mundohem
 mundoj
 mundqar
-mundqari
-mundshme
 mundshëm
-munduar
 mundur
-mundzezë
 mundzi
+mundënj
 mundës
 mundësi
-mundësia
 mundësisht
 mungesor
 mungestar
@@ -10880,17 +11658,22 @@ mungoj
 mungon
 mungues
 municion
+munëgj
 muoj
 mur
 muranë
 murator
 murg
+murgar
 murgash
 murgator
 murgeshë
 murgë
+murgëri
+murgësi
 murgët
 murgëz
+murmuroj
 murr
 murriz
 murrmë
@@ -10907,9 +11690,9 @@ mushqerrë
 mushqetë
 musht
 mushtjerrë
+mushtë
 mushtëkohem
 mushël
-musiek (af)
 muskul
 muskulaturë
 muskulor
@@ -10937,6 +11720,8 @@ myftarët
 myk
 mykë
 mykëz
+mylk
+mynyrë
 mys
 myshk
 mysliman
@@ -10949,8 +11734,10 @@ mytesarifë
 mytesarifët
 mytna
 myxhahit
+myxhiza
 myzë
 mzith
+mâ
 mâc
 mâj
 mâjt
@@ -11021,6 +11808,7 @@ mëngore
 mëngë
 mëni
 mënjanoj
+mënjanë
 mënyra
 mënyra dëftore
 mënyra dëshirore
@@ -11042,6 +11830,7 @@ mërgoj
 mëri
 mërkosh
 mërkur
+mërmërit
 mërrij
 mërshë
 mërthej
@@ -11065,6 +11854,7 @@ mëshirë
 mëshirëmadh
 mëshirëplotë
 mëshkenjë
+mëshkonjë
 mëshoj
 mëshqerrë
 mështekën
@@ -11079,12 +11869,15 @@ mësipërm
 mësipërme
 mësohem
 mësoj
+mësonj
 mësonjës
 mësonjëtore
 mësues
 mësuese
-mësus
 mësysh
+mëtim
+mëtoj
+mëtues
 mëz
 mëzak
 mëzat
@@ -11093,7 +11886,6 @@ mëzatore
 mëze
 mëzenj
 mëzetër
-mëzikë
 mëzoj
 mëzor
 mëzore
@@ -11101,31 +11893,39 @@ mëzuer
 mëzër
 mîl
 múndënj
+mûj
+mûjhna
+mûn
+mûng
 mȣt [myt]
 n
-n'doshta
 n-
 na
 na ishte njëherë
 nacional-socializëm
+nacionalist
 nacionalistik
+nacionalizim
+nacionalizëm
 nadje
 naftë
 nahija
 nahije
 nahijet
 nahijë
-naiv
 najher
 najllon
 najlon
 najsonj
 nal [nal]
 nallban
+nallbant
 nalna
-namazi
+namaz
 namazi i mëngjesit
 namazi i sabahut
+namur
+namuri
 namë
 nandor
 nani
@@ -11133,6 +11933,7 @@ nanuq
 nanë
 nanëqimë
 napë
+nargjile
 narkotik
 narth
 narvali
@@ -11154,12 +11955,15 @@ natyshëm
 natë
 natën
 natën e mirë
+nauk
 naxhake
+naze
 nazifikim
 nazist
 nazizëm
 ndahem
 ndaj
+ndajf.
 ndajfolje
 ndajfoljor
 ndal
@@ -11207,8 +12011,11 @@ ndihmë
 ndihmë e shpejtë
 ndihmë kontribo
 ndihmës
+ndihmëtar
 ndikim
+ndikoj
 ndishk
+ndith
 ndjehem
 ndjej
 ndjek
@@ -11272,12 +12079,15 @@ ndryshku
 ndryshkull
 ndryshohem
 ndryshoj
+ndryshore
 ndryshëm
 nduk
 ndulk
 ndulkem
 ndulket
 ndyj
+ndyracak
+ndyraman
 ndyrë
 ndë
 ndëgjoj
@@ -11295,6 +12105,7 @@ ndërkombëtar
 ndërlikoj
 ndërlikuar
 ndërlikuara
+ndërmarr
 ndërmarrje
 ndërmjet
 ndërmjetëm
@@ -11305,6 +12116,7 @@ ndërrim
 ndërroj
 ndërsa
 ndërsej
+ndërsjellë
 ndërsllav
 ndërsllavishtja
 ndërtekst
@@ -11320,6 +12132,7 @@ ndëshkim
 ndëshkohem
 ndëshkoj
 ne
+ne manuti
 nebulozë
 nef
 negocim
@@ -11351,6 +12164,7 @@ nerona
 nerv
 nerënxë
 nes
+neshter
 nestrë
 nesër
 neth
@@ -11369,10 +12183,11 @@ nevojshëm
 nevojtar
 nevojtore
 nevojë
+nevolë
 nevrikos
 nga
+nga A në Z
 nga ana tjetër
-nga larg
 nga pak
 ngac
 ngacmoj
@@ -11395,6 +12210,7 @@ ngaldaltë
 ngalem
 ngallec
 ngallmoj
+nganjëherë
 ngaqë
 ngarkesa elektrike
 ngarkesë
@@ -11420,6 +12236,7 @@ ngjalistër
 ngjall
 ngjallë
 ngjalë
+ngjan
 ngjarje
 ngjashmëri
 ngjashëm
@@ -11437,6 +12254,7 @@ ngjethura
 ngjethës
 ngjicë
 ngjinoj
+ngjir
 ngjire
 ngjirem
 ngjis
@@ -11492,7 +12310,9 @@ ngrij
 ngrijs
 ngritje
 ngroh
+ngrohje
 ngrohtë
+ngrohës
 ngrydh
 ngrydhem
 ngrydhët
@@ -11503,6 +12323,7 @@ nguha
 nguhë
 ngujoj
 ngul
+ngulmoj
 nguroj
 nguros
 ngurroj
@@ -11514,12 +12335,14 @@ ngushticë
 ngushtoj
 ngushtë
 ngushëlli
+ngushëllim
 ngushëllimtar
 ngushëllohet
 ngushëlloj
 ngushëllues
 ngut
 ngutem
+ngutshëm
 ngërdhej
 ngërdhesh
 ngërmoj
@@ -11536,14 +12359,16 @@ nikel
 nikoqir
 nikoqirllëk
 nime
-nime ()
 nimen
 nimoj
 nina nana
 nina nëna
 nina-nanë
+ninananë
 ninimi
 ninoj
+ninullë
+ninë
 niob
 nip
 nipash
@@ -11555,6 +12380,7 @@ nipërit
 nipët
 nis
 nishan
+nishter
 nitrogjenit
 nivel
 nj
@@ -11564,13 +12390,16 @@ njef
 njeg
 njegull(ë)
 njeh
+njehsoj
 njehsues
 njek
 njer
 njeri
+njeri i shpellave
 njeri prej bore
 njeri vulgar
 njeriut
+njerizoj
 njerk
 njerkë
 njerëz
@@ -11584,11 +12413,13 @@ njihem
 njilë
 njinimi
 njinoj
+njizet
 njof
 njoftim
 njoftoj
 njoftues
 njoh
+njohje
 njohur
 njohura
 njohuri
@@ -11598,6 +12429,8 @@ njollë
 njom
 njomur
 njomë
+njomësht
+njuton
 një
 një nga një
 një palë
@@ -11605,6 +12438,8 @@ një për të gjithë, të gjithë për një
 një shenjë diakritike
 njëbrirësh
 njëdrejtimësh
+njëemërak
+njëemërsh
 njëgjuhësh
 njëjta
 njëjtë
@@ -11622,20 +12457,29 @@ njësi administrative
 njësia
 njësitë
 njësoj
+njëtrajtshëm
 njëzet
+njëzetditor
 njëzetedy
 njëzetegjashtë
 njëzetekatër
+njëzetekatërorësh
 njëzetenjë
 njëzetenëntë
 njëzetepesë
 njëzeteshtatë
 njëzetetetë
 njëzetetre
+njëzetqindarkësh
+njëzetvjetor
+njëzetvjeçar
 njëzetë
+njëzetësh
+njëzetëshe
 nnal [nːal]
-nnoscta
 nobelium
+nobetçi
+noc
 nocebo
 nofkë
 nofull
@@ -11643,7 +12487,9 @@ nofulldalë
 nofullgjerë
 nofullor
 nofullshtrëmbër
+noke
 noktulë
+nokër
 nominativ
 nont
 nonëqimë
@@ -11664,6 +12510,8 @@ notoj
 notë
 nouk
 novelist
+novelë
+novojë
 noçkë
 noçë
 nrikëll
@@ -11671,6 +12519,7 @@ nrrojc
 nsho
 nu
 nub
+nudizëm
 nuhas
 nuhat
 nuk
@@ -11681,6 +12530,7 @@ nuk jam fetar
 nuk jam fetare
 nuk ka
 nuk ka përse
+nuk kam para
 nuk kuptoj
 nuk mendoj kështu
 nuk mund të bëj diçka me të
@@ -11688,6 +12538,7 @@ nullë
 nullëz
 nulë
 numratore
+numri atomik
 numri kryesor
 numri njëjës
 numri shumës
@@ -11718,6 +12569,7 @@ nusëz
 nvjerr
 nxehtë
 nxehtësi
+nxehtësimatës
 nxehtësisht
 nxej
 nxis
@@ -11747,12 +12599,14 @@ nând
 nânduer
 nãnë
 nãnëqimë
+nésërm
 nêr
 në
 në kohë
 në krye të vatrës
 në qoftë se
 në rregull
+në të zezë
 në vend që
 në vend të
 në-shenjë
@@ -11762,6 +12616,7 @@ nën
 nëndetëse
 nëndrejtor
 nëndë
+nënkontinent
 nënkresë
 nënkuptim
 nënkuptoj
@@ -11779,6 +12634,7 @@ nënshkruari
 nënshkrues
 nënshkruesi
 nënshkruhet
+nënshtroj
 nëntekst
 nëntor
 nëntë
@@ -11786,6 +12642,7 @@ nëntëdhjetë
 nëntëdhjetë e dy
 nëntëmbëdhjetë
 nënvete
+nënvizoj
 nënvleftësoj
 nënë
 nënëqime
@@ -11793,15 +12650,18 @@ nënëqimë
 nënëqire
 nënëqirë
 nëpër
+nëpërmjet
 nëse
 o
 obelisk
 obobo
 oborr
+observatori
 obus
 odhijitrie
 odokët
 odometr
+odë
 ofendoj
 ofensivë
 ofertë
@@ -11811,6 +12671,7 @@ ogiç
 ograjë
 ohtë
 ohtënj
+okllai
 oksigjen
 oksimoron
 oktapod
@@ -11821,15 +12682,16 @@ okupator
 okër
 oligark
 oligarki
+oligopoli
 olimpiadë
 oman
 ombrellë
 omz
+omëletë
 onagër
 onanizëm
 onjë
 onkologjia
-only the first adjectival article takes its definite form
 onomatope
 ons
 onë
@@ -11839,6 +12701,7 @@ operacion
 operë
 opingar
 opingë
+opinion publik
 opozitë
 oqean
 oqeanografia
@@ -11880,12 +12743,12 @@ orë diellore
 orë dore
 orë me zile
 ose
+oshiloskopi
 osht
 osman
 osmium
 otoman
 otorinolaringologjia
-outdated
 ovum
 oxhak
 ozoni
@@ -11908,10 +12771,14 @@ pacifizëm
 padamar
 padepërtueshëm
 padi
+padis
 padishah
 padit
+paditje
+paditur
 padituri është bekim
 paditës
+paditëse
 padjallëzuar
 padrejtueshëm
 padrejtë
@@ -11942,6 +12809,7 @@ pagëzore
 pah
 paha
 paharrueshëm
+paj
 paja
 pajisje
 pajt
@@ -11953,8 +12821,10 @@ pajë
 pak
 pak a shumë
 paketë
+pakicë
 pako
 pakt
+pakujdesshëm
 pakuptueshmëri
 pakuptueshëm
 pakurorë
@@ -11974,7 +12844,6 @@ palidhje
 paligjshme
 palindromi
 pall
-pallat
 pallavra
 pallmadhi
 pallohem
@@ -11982,6 +12851,7 @@ palloj
 pallto
 pallua
 pallue
+palluqe
 pallë
 palnie
 palnjë
@@ -12006,6 +12876,7 @@ pamotivueshëm
 pamvarësi
 pamëkatë
 panair
+pandallona
 pandazëm
 pandemi
 pandispanjë
@@ -12017,6 +12888,7 @@ panjë
 pankreasi
 panorama
 pantallona
+pantofël
 panxhar
 panxharsheqeri
 papafingo
@@ -12025,14 +12897,20 @@ papaja
 papalinë
 paparashikuar
 paparashikueshëm
+paparundë
+paparunë
 papastërti
 papijshëm
+papirus
 papritmas
 papritur
 papun
 papunësi
 papuçë
 papë
+papërcaktuar
+papërkthyer
+papërkthyeshëm
 papërtueshëm
 paq
 paqartë
@@ -12045,6 +12923,7 @@ para
 para erës sonë
 parabolik
 parabolë
+paraburgim
 paracukël
 paradigmë
 paradoks
@@ -12053,7 +12932,10 @@ parafjalor
 parafjalë
 parafundit
 paragraf
+parahistori
+parahistorik
 parajsë
+parakaloj
 parakohshëm
 parakrah
 paralajmëroj
@@ -12061,6 +12943,9 @@ paralindje
 paraliza cerebrale
 paralizë
 parandi
+paranojë
+paraprij
+paraprurës
 parapsikologjia
 parapëlqehem
 parapëlqej
@@ -12077,6 +12962,7 @@ parashkruaj
 parashkruar
 parashkruhet
 parashtesë
+parashutist
 parashutë
 paratë e ri
 paratë e vjetra
@@ -12096,16 +12982,23 @@ parking
 parlament
 parmendë
 parmênd
+parmë
 parmëndë
+parmëz
 parodi
+parriz
 parti
 partinë
+partitë politike
 partizan
 partizane
 partner
 parukë
 parullë
+parzmak
+parzmor
 parzmore
+parzëm
 parë
 parësor
 pas
@@ -12117,6 +13010,7 @@ pashembullt
 pashkruar
 pashkruara
 pashkë
+pashmangshëm
 pashpjegueshëm
 pashquar
 pashquarsi
@@ -12130,6 +13024,7 @@ pasivitet
 pasja
 pasje
 paskajore
+paskal
 paskan
 pasme
 pasmë
@@ -12173,6 +13068,7 @@ pasunuar
 pasur
 pasur e ri
 pasuri
+pasuri të paluajtshme
 pasuria
 pasurohem
 pasuroj
@@ -12183,14 +13079,21 @@ pasë
 pat
 pata
 pata e egër
+pataks
+pataksem
+pataksi
 patate
 patate të skuqura
+patejdukshmëri
+patejdukshëm
 patentë shoferi
+patinator
 patinë
 patkua
 patkue
 patnie
 patnje
+patok
 patolog
 patologji
 patologjik
@@ -12200,6 +13103,7 @@ patriark
 patrik
 patriotik
 patriotizëm
+patrixhan
 patur
 patë
 patëllxhan
@@ -12275,6 +13179,7 @@ perde
 perendi
 perenni [peɾenní]
 performancë
+pergament
 pergjegjësi
 pergjigje
 perime
@@ -12282,9 +13187,11 @@ perineum
 periodike
 periudhë
 perndi
+pers
 persian
 person i padëshirueshëm
 person i tretë
+personalitet
 perudi
 perundi
 perupi
@@ -12338,8 +13245,10 @@ pesëdhjetë e dy
 pesëdhjetë e katër
 pesëdhjetë e një
 pesëdhjetë e tre
+pesëkëndësh
 pesëmbëdhjetë
 pesëmbëdhjetë minuta famë
+pesëzet
 peth-peth
 petk
 petkua
@@ -12348,6 +13257,7 @@ petrit
 petriti
 petull
 petë
+petës
 pezull
 pezulloj
 pezëm
@@ -12423,8 +13333,9 @@ pikëllim
 pikëlëkurë
 pikëpresje
 pikëpyetje
+pikëzoj
 pil
-pilikuri
+pilaf
 pilivesë
 pilivoesë
 pill
@@ -12439,6 +13350,8 @@ pinguin
 pingul
 pingë
 pingël
+pioner
+pionier
 pip
 piper
 piperkë
@@ -12448,12 +13361,17 @@ pirash
 pirashe
 pirat
 piri
+piroteknikë
 pirun
 pirë
 pis
+pisanik
 pishak
 pishinë
 pishk
+pishman
+pishmën
+pishmënd
 pishore
 pishtar
 pishtë
@@ -12462,6 +13380,7 @@ pishë e butë
 pishë e zezë
 pishët
 piskatore
+pisllëk
 pisputh
 pistoletë
 pistoletë f. armë
@@ -12475,6 +13394,7 @@ pitër
 pizhamë
 piçkë
 piçmagë
+pj.
 pjalm
 pjatalarëse
 pjatë
@@ -12496,10 +13416,14 @@ pjerr
 pjerëz
 pjeshkë
 pjesore
+pjestar
 pjesë
 pjesë e ligjëratës
 pjesëmarrje
 pjesëmarrës
+pjesërisht
+pjesëtim
+pjesëtoj
 pjetem
 pjetë
 pjetëposhtë
@@ -12544,6 +13468,7 @@ plasë
 platformë
 platin
 plazh
+plazmë
 plaçkit
 pleh
 plehna
@@ -12596,17 +13521,22 @@ plisët
 plithar
 plitë
 plizhgë
+pllaja
 pllajë
 pllak
 pllakë
+pllas
 plle
 pllenoj
 plloçkë
 pllug
+pllum
+pllumb
 pllymëz
 pllâmë
 plog
 plogë
+ploje
 plojë
 plokë
 plonj
@@ -12649,6 +13579,7 @@ poezi
 pohim
 pohoj
 pojë
+poktua
 pol
 polak
 polake
@@ -12680,6 +13611,8 @@ por
 porcelan
 pordh
 pordhac
+pordhaman
+pordhash
 pordhë
 pordhëmadh
 porno
@@ -12712,6 +13645,9 @@ portugaleze
 portugalisht
 portugez
 portë
+posa
+posaçe
+posaçëm
 poshtme
 poshtroj
 poshtë
@@ -12721,6 +13657,7 @@ poshtërohem
 poshtëroj
 postel
 postier
+postulat
 postë
 postë elektronike
 posulle
@@ -12729,7 +13666,9 @@ pothuaj
 pothue
 potir
 potis
+potkoj
 potkua
+potkue
 potpuri
 pozicion
 poç
@@ -12744,12 +13683,15 @@ pramë
 prandaj
 prandverë
 pranga
+prangoj
 prani
 pranim
 pranoj
 pranverë
 pranë
 prapa
+prapakthehu
+prapakthim
 prapanicë
 prapashtesë
 prapë
@@ -12779,6 +13721,7 @@ prehalohem
 prehaluq
 prehem
 prehena
+prehistorik
 prehje
 prehën
 prehër
@@ -12787,6 +13730,7 @@ prejardhje
 prejse
 prek
 prekje
+prell
 premtim
 premtoj
 prende
@@ -12797,6 +13741,7 @@ presh i egër
 preshi
 president
 presion
+presioni atmosferik
 presje
 presë
 pret
@@ -12824,6 +13769,7 @@ prind
 pringj
 pringjëri
 printer
+prioritet
 priqe
 prirje
 pris
@@ -12838,7 +13784,7 @@ pritje
 pritoj
 pritë
 prizë
-pro ashtũ
+prizëm
 problem
 proces
 prodhim
@@ -12908,6 +13854,7 @@ prroskë
 prrue
 pruj
 prura
+prurës
 prush
 prutekë
 pruth
@@ -12950,6 +13897,7 @@ pubis
 publicitet
 publik
 pucka
+puk
 pula faraone
 pullaz
 pullë
@@ -12967,15 +13915,19 @@ pulëbardha e kepit
 pulëbardha mesatare shpinëzezë
 pulëbardha ngjyrë hiri
 pulëdeti
+puna e fëmijëve
 punim
 punishte
 punjashe
 punoj
 punonjës
+punonjëse
 punë
 punë e paqme
 punëdashës
 punëdhënës
+punëdhënëse
+punëdore
 punësi
 punësohem
 punësoj
@@ -12991,6 +13943,7 @@ pupë
 pupël
 puq
 purgator
+purgatuor
 puro
 purpur
 purpurt
@@ -12998,6 +13951,7 @@ purri
 purtekë
 purtekëz
 purth
+purtoj
 pus
 push
 pushim
@@ -13010,11 +13964,14 @@ pushtues
 pushues
 pustull
 pusullë
+putanë
 puth
 puthje
 putinizëm
+putir
 putë
 putër
+putërë
 puçerr
 puçërr
 pves
@@ -13029,6 +13986,7 @@ pykëz
 pykëzoj
 pylkë
 pyll
+pylltar
 pyllë
 pylë
 pys
@@ -13036,10 +13994,12 @@ pê
 pênnë
 pênë
 pêsë
+pëkulem
 pëlcas
 pëlhurendës
 pëlhurë
 pëlhurëz
+pëllas
 pëllcas
 pëlle
 pëllumb
@@ -13067,7 +14027,6 @@ për shkak të
 për te
 për tek
 për të
-për ç’atë
 për-
 përafri
 përafrim
@@ -13094,9 +14053,12 @@ përbuzje
 përbuzshme
 përbuzshëm
 përbuzur
+përbërje
+përbërës
 përbûj
 përcaktim
 përcaktoj
+përcaktuar
 përcjellës
 përcëlloj
 përdaj
@@ -13135,19 +14097,26 @@ përdorshëm
 përdorues
 përdorë
 përemri
+përemër
 përemër vetor
 përfaqësues
 përfaqësuese
+përfill
 përfitim
 përfitoj
 përfitues
 përfshij
 përfshirë
-përfund
+përftim
+përftoj
 përfytyrim
 përfytyroj
 përgatis
 përgatit
+përgjak
+përgjakje
+përgjakoj
+përgjakos
 përgjakshëm
 përgjatë
 përgjegjës
@@ -13169,9 +14138,12 @@ përhap
 përhapje
 përhiroj
 përhitje
+përimtim
+përimtoj
 përjashta
 përjashtim
 përjetoj
+përkap
 përkas
 përkeq
 përkeqje
@@ -13182,9 +14154,13 @@ përkryej
 përkryerje
 përkryhem
 përkthej
+përkthenjës
+përkthesë
 përkthim
+përkthyer
 përkthyes
 përkthyese
+përkthyeshëm
 përkuer
 përkufizim
 përkufizoj
@@ -13198,6 +14174,7 @@ përkund
 përkundrazi
 përkundër
 përkundërt
+përkushti
 përkëdhel
 përkëdhele
 përkëdhelem
@@ -13208,6 +14185,7 @@ përleshje
 përligj
 përmasë
 përmbajtje
+përmbas
 përmbi
 përmbi këto
 përmbledh
@@ -13237,13 +14215,16 @@ përparëse
 përpij
 përpiqem
 përpjekje
+përpjesëtim
+përpjesëtimisht
+përpjesëtuar
 përpjetë
 përposh
 përpunimi i të dhënave
 përpush
 përpëlit
 përpëlitje
-përqafimi i dashur
+përqafim
 përqafoj
 përqas
 përqell
@@ -13285,6 +14266,7 @@ përshtypje
 përshëndet
 përshëndetje
 përshëndetje të sinqerta
+përsias
 përsiat
 përsipër
 përsos
@@ -13297,9 +14279,9 @@ përtaci
 përtej
 përtestar
 përtesë
+përthith
 përtim
 përtoj
-përtokë
 përtrollëm
 përtueshëm
 përtyp
@@ -13309,6 +14291,8 @@ përulje
 përultas
 përulur
 përulës
+përvetim
+përvetoj
 përvetësoj
 përveç
 përvist
@@ -13316,18 +14300,21 @@ përvjel
 përvjetor
 përvojë
 përvëloj
+përzgjedh
 përzhit
 përzore
 përzân
 përzân (gheg)
 përzë
 përzënie
+përç
 përçaj
 përçak
 përçarje
 përçartje
 përçitës
 përçudnoj
+përçór
 përëndoj
 pëshinj
 pëshkoj
@@ -13354,6 +14341,7 @@ qall
 qan [tɕan]
 qanj
 qapë
+qaraman
 qarje
 qark
 qarke
@@ -13363,6 +14351,7 @@ qarkull
 qarkut
 qarqe
 qarqet
+qarqet e integruara
 qarr
 qarr i kuq
 qartas
@@ -13393,12 +14382,20 @@ qelq
 qem
 qemë
 qen
+qen deti
+qen gjahu
 qen pastori gjerman
+qen roje
+qen stani
 qen-ujk
 qendror
 qendrës tregtare
 qendër
 qendër e vëmendjes
+qendërikës
+qendërikëse
+qendërsynues
+qendërsynuese
 qene
 qengj
 qengjë
@@ -13424,13 +14421,14 @@ qençe
 qenë
 qenër
 qenëri
+qenësishëm
+qenësor
 qenëz
 qep
 qepa
 qepallë
 qepshe
 qepë
-qepë ()
 qere
 qeros
 qerpik
@@ -13443,6 +14441,7 @@ qershi toke
 qershigël
 qershizë
 qershor
+qershore
 qershori
 qersë
 qerth
@@ -13462,6 +14461,7 @@ qeshem
 qeshje
 qeshë
 qeski
+qeskë
 qesëndis
 qeth
 qetë
@@ -13478,9 +14478,11 @@ qeverisje
 qeverisjes
 qeverisjet
 qeveritar
+qi
 qiell
 qiellgërvishtës
 qiellor
+qiellore
 qiellzor
 qiellzë
 qifsha
@@ -13505,6 +14507,7 @@ qimëzohet
 qin(ë)
 qind
 qindarkë
+qingallë
 qingj
 qingje
 qingjth
@@ -13512,6 +14515,7 @@ qingël
 qinroj
 qintar
 qiparis
+qiparë
 qipi
 qipull
 qiqër
@@ -13555,6 +14559,7 @@ qortoj
 qos
 qoshe
 qoshk
+qostër
 quaj
 quajtje
 quajtur
@@ -13576,6 +14581,7 @@ qukem
 qukë
 qukël
 qull
+qullaman
 qullos
 qullosem
 qullur
@@ -13583,12 +14589,18 @@ qumësht
 qumështi i kondensuar
 qumështor
 qurra
+qurrac
+qurrak
+qurraman
+qurran
+qurrash
+qurravec
 qurrohem
 qurroj
+qurros
 qurrshi
 quzë
 qye
-qye f ()
 qye mali
 qyfteli
 qyl
@@ -13598,8 +14610,14 @@ qymyr
 qymyrguri
 qyqe
 qyr
+qyrek
 qyrlek
 qyrlik
+qyrra
+qyrrak
+qyrrash
+qyrravec
+qyrro
 qyrylyk
 qyrylyk i madh
 qyrylyk i murrmë
@@ -13646,9 +14664,13 @@ qëlloj
 qëndresë
 qëndrim
 qëndroj
+qëndër
 qëngjëlë
+qëparë
 qëro
 qërrshi
+qërshor
+qërí
 qëtash
 qîgj
 r
@@ -13672,6 +14694,7 @@ radiolog
 radiologji
 radiologjik
 radiologjikisht
+radiostacion
 raft
 raft librash
 rafte
@@ -13681,6 +14704,8 @@ rahat llokum
 raht
 rahát
 rai
+rajh
+rajhu
 rajon
 rajon policie
 rajonal
@@ -13688,6 +14713,7 @@ rakee
 raketë
 raki
 rallëherë
+ram
 ramazan
 ramë
 randë
@@ -13710,6 +14736,8 @@ reagim
 reagoj
 reaksion zinxhi
 reaktor
+realitet
+realizoj
 rebel
 rebelim
 rebelohem
@@ -13717,12 +14745,14 @@ rebë
 recensioni
 recesion
 recetë
+reciprok
 redaktor
 referencë
 referendum
 reflektim
 reformë
 refren
+refuzoj
 regj
 regjim
 regjiment
@@ -13738,7 +14768,9 @@ rehatuar
 rehj
 reja
 reklamë
+rekomandim
 rekrut
+rekrutim
 rekës
 relaksohem
 relativiteti i përgjithshëm
@@ -13753,7 +14785,9 @@ rendit
 renditje
 rendoj
 renium
+rentë
 renë
+reper
 reporter
 reptil
 republika popullore
@@ -13764,7 +14798,6 @@ repë
 req
 reqët
 resh
-resh ()
 reshje
 reshpe
 resht
@@ -13774,8 +14807,17 @@ respekt
 respektoj
 rest
 restorant
+restoranti
+restorantin
+restorantit
+restorantë
+restorantësh
+restorantët
+restorantëve
+restorantëvet
 resë
 retorikë
+retushoj
 revanshizëm
 revistë
 revizionizëm
@@ -13786,30 +14828,40 @@ revolucionar
 reze
 rezervist
 rezerviste
+rezervoj
+rezervuar
 rezhdë
 rezistencë
 rezultat
 reçel
 rgjand
 ri
+ri-
 rig
 rigash
 rigon
 rigë
 rij
+rikthej
 rikujtoj
 rikë
 rikëz
+rilindem
+rilindje
+rilindës
 rimorkiator
 rimtë
 rimë
 rini
 rinia
 rinoceront
+ripecanj
 riprodhim
 riprodhoj
+ripërkthej
 riqebull
 rishte
+risi
 rit
 rit i shenjtë
 ritual
@@ -13820,6 +14872,7 @@ rjep
 rnoj
 rob
 rob lufte
+robdëshambër
 robi
 robinjë
 robot
@@ -13841,6 +14894,7 @@ romak
 roman
 romancier
 romanizim
+romantizëm
 romb
 rondele
 rone
@@ -13848,7 +14902,6 @@ roni
 rosa e vëndit
 rosak
 rosë
-rotësamë
 router
 rozmarinë
 rr
@@ -13906,6 +14959,7 @@ rrathët
 rre
 rrebe
 rrebull
+rreckaman
 rredhë
 rrege
 rregull
@@ -13930,6 +14984,7 @@ rreth
 rrethanë
 rrethatore
 rrethi
+rrethi dorës
 rrethim
 rrethinë
 rrevë
@@ -13945,8 +15000,8 @@ rrezikshëm
 rrezit
 rrezoj
 rri
-rri larg
 rribë
+rric
 rrikë
 rrime
 rrimtë
@@ -14002,7 +15057,6 @@ rromullak [romuɬak]
 rronj
 rrotull
 rrotë
-rrotësamë
 rrozg
 rrozgë
 rroço
@@ -14030,6 +15084,7 @@ rrugëdalja
 rrugëdalje
 rruhem
 rrum
+rrumbej
 rrumbull
 rrumbullak
 rrumbullt
@@ -14076,6 +15131,7 @@ rrëkëllej
 rrëmaç
 rrëmbej
 rrëmbim
+rrëmbythje
 rrëmejtë
 rrëmih
 rrëmoj
@@ -14129,10 +15185,12 @@ rrëzë e kofshës
 rrëzëllen
 rrëzëllimë
 rrëzëmalas
+rrúgës
 rs
 rshajë
 ruaj
 ruajtar
+ruajtar 25 June 2015
 ruajtur
 ruajtës
 rubid
@@ -14189,6 +15247,7 @@ rênj
 rêu
 rëfyrë
 rëkuall
+rëm
 rëmbullë
 rëmen
 rëmoj
@@ -14219,7 +15278,6 @@ rëzigojë
 rëzëgojë
 rîj
 s
-s ̊
 s'
 s'bëhet gjaku ujë
 s'e di
@@ -14230,6 +15288,7 @@ s'ka përse
 s'kuptoj
 s-
 sa
+sa kushton ajo?
 sa vjeç jeni?
 sa është ora?
 sabotator
@@ -14243,7 +15302,9 @@ sajim
 sajoj
 sajë
 sakaroza
+sakat
 sakatim
+sakatoj
 sakavicë
 sakicë
 sakrifica
@@ -14272,12 +15333,14 @@ samovar
 samuraj
 samë
 sanatadita
+sanatorium
 sandale
 sandali
 sanduiç
 sandviç
 sanjë
 sanksion
+sanksionoj
 sanskritishte
 sanxhak
 sanxhakbej
@@ -14301,13 +15364,13 @@ satanizmi
 satanizëm
 satelit
 satirik
+satirizój
 satirë
+satirík
 saudit
 saç
 sccyp
 scnnet
-scnnosc
-scpraɛ [ʃpɾɒzə]
 sctreit
 sctrễmnii [ʃtɾɛ̃mniː]
 sctrễmt [ʃtɾɛ̃mt]
@@ -14365,6 +15428,7 @@ sfurk
 sh
 sh-
 shafran
+shag
 shah
 shah mat
 shahist
@@ -14414,6 +15478,7 @@ she
 shef
 shefteli
 shegë
+sheh
 shehadet
 sheik
 shejt
@@ -14436,12 +15501,14 @@ shembullor
 shembëll
 shemnoqe
 shemull
+shemë
 shemëllnjënj
 shemër
 shenjtor
 shenjtë
 shenjtëroj
 shenjë
+shenjë rrugore
 sheqer
 sheqer diabetik
 sheqerkë
@@ -14470,6 +15537,7 @@ shfuqizim
 shfuqizohem
 shfuqizoj
 shfuqizues
+shhur
 shi
 shifër
 shigjetak
@@ -14482,6 +15550,7 @@ shihemi më vonë
 shihemi nesër
 shije
 shijoj
+shijshmëri
 shijshëm
 shikim
 shikimi
@@ -14493,16 +15562,20 @@ shikues
 shikuese
 shikuesi
 shikuesja
+shilarth
+shilarës
 shilor
 shimshir
 shindër
 ship
 shipuc
-shiqoj
 shiringë
 shirit
 shirit magnetik
 shishe
+shishko
+shishman
+shitblerje
 shitim
 shitje
 shitoj
@@ -14581,6 +15654,7 @@ shkishëroj
 shkja
 shkjerr
 shkjerrë
+shkla
 shklas
 shklesë
 shkllotë
@@ -14591,6 +15665,7 @@ shkoj
 shkoj e vij
 shkoj të marr
 shkojëz
+shkolla
 shkollim
 shkollë
 shkop
@@ -14641,6 +15716,7 @@ shkrimtarucja
 shkronja
 shkronje
 shkronjë
+shkronjës
 shkrryej
 shkruaj
 shkruar
@@ -14723,6 +15799,8 @@ shmajt
 shmang
 shmangem
 shndritshëm
+shndërrim
+shndërroj
 shnet
 shnetka
 shnosh
@@ -14813,6 +15891,7 @@ shpiftar
 shpifur
 shpifë
 shpifës
+shpih
 shpik
 shpikje
 shpinas
@@ -14847,11 +15926,7 @@ shportë
 shpoti
 shpotit
 shpotitës
-shprazje
-shprazt
-shprazë [ʃpɾɒzə]
-shprazëm
-shprazësi
+shpraz
 shpreh
 shprehem
 shprehet
@@ -14875,15 +15950,20 @@ shpurrit
 shpurë
 shputë
 shpuzë
+shpyrt
 shpëlaj
 shpëlarë
 shpërblej
 shpërblim
+shpërdoroj
 shpërej
+shpërfill
 shpërlaj
+shpërndaj
 shpërthej
 shpërthim
 shpëtim
+shpëtimprurës
 shpëtoj
 shqa
 shqarr
@@ -14991,7 +16071,9 @@ shqyrtim
 shqyrtoj
 shqyt
 shqytar
+shrafciger
 shrapnel
+shregull
 shtab
 shtagë
 shtaj
@@ -15018,11 +16100,11 @@ shtat
 shtator
 shtatore
 shtatpikaloshe
-shtatzane
 shtatzënë
 shtatzënësi
 shtatë
 shtatëdhjetë
+shtatëkëndësh
 shtatëmbëdhjetë
 shtazor
 shtazë
@@ -15038,6 +16120,7 @@ shtegtuar
 shtegtues
 shtekth
 shtemët
+shtenjë
 shter
 shterkë
 shteroj
@@ -15066,6 +16149,7 @@ shtir
 shtira
 shtirem
 shtirë
+shtirësi
 shtizë
 shtizë flamuri
 shtjalpë
@@ -15143,8 +16227,10 @@ shtrëngoj
 shtrënguar
 shtuar
 shtuara
+shtuarë
 shtuf
 shtullung
+shtuom
 shtupoj
 shtupë
 shtura
@@ -15177,7 +16263,7 @@ shtëpiak
 shtëpreshë
 shtëpresë
 shtëpâ
-shtër
+shtër-
 shtërg
 shtërk
 shtërmen
@@ -15187,6 +16273,7 @@ shtërras
 shtëzë
 shtŷj
 shuaj
+shuej
 shufër
 shugroj
 shugurim
@@ -15208,6 +16295,7 @@ shumëkëmbësh
 shumëkëndësh
 shumëngjyrësh
 shumës
+shumëzim
 shumëzoj
 shungulloj
 shuplak
@@ -15216,11 +16304,17 @@ shurbë
 shurdh
 shurdhac
 shurdhak
+shurdhaman
+shurdhaq
+shurdhavel
+shurdhesë
+shurdhmemec
 shurdhoj
 shurdhuar
 shurdhuara
 shurdhën
 shurdhër
+shurdhësi
 shurdhët
 shurqel
 shurrohem
@@ -15262,6 +16356,7 @@ shëndet paç
 shëndetdobët
 shëndetshëm
 shëndetësi
+shëndosh
 shëndoshë
 shëndërtat
 shëngjetë
@@ -15290,7 +16385,6 @@ si jeni
 si jeni?
 si quheni
 si quheni?
-si quheni? ()
 si quhesh
 si quhesh?
 si rrini? si rri?
@@ -15314,12 +16408,15 @@ sillë
 siluetë
 silur
 simahor
+simbas
 simbol
 simbolik
 simfoni
 simite
 simpozium
+simptomë
 sinagogë
+sinapizëm
 sindikata
 sindikatat
 sindikatave
@@ -15331,11 +16428,14 @@ sindikatës
 sindromi i mungesës së imunitetit të fituar
 sinekdohë
 sinjal
-sinjali rrugore
+sinjal rrugor
 sinonim
 sinonimik
 sinqertë
+sintaksë
 sintetizues
+sinus
+sinusoidë
 sionizëm
 sipas
 sipër
@@ -15353,6 +16453,7 @@ sistematikë
 sistematizohem
 sistematizoj
 sistemi i informacionit
+sistemi periodik i elementeve
 sistemohem
 sistemoj
 sisë
@@ -15368,7 +16469,9 @@ sjellshëm
 ska
 ska probljem
 skaj
-skajore
+skajor
+skajshëm
+skallankur
 skandal
 skandium
 skarë
@@ -15380,11 +16483,13 @@ skenar
 skenë
 skepticizmi
 ski
+skiator
 skifter
 skifter kthetraverdhë
 skifter kthetrazi
 skile
 skipóni
+skitar
 skizofrenia
 sklep
 skllav
@@ -15393,6 +16498,7 @@ skllavëri
 skllavëroj
 skllavëruar
 skollë
+skorcë
 skrotum
 skuadër
 skulpturë
@@ -15419,7 +16525,13 @@ slloven
 sllovene
 sllovenisht
 slogan
+smirak
+smiran
+smiroj
+smiror
 smirë
+smirës
+smirëtar
 sobë
 social
 socialist
@@ -15427,7 +16539,6 @@ socialiste
 socializmi
 socializëm
 sociolog
-sociologja
 sociologji
 sociologjik
 sociologjikisht
@@ -15439,6 +16550,7 @@ sodomi
 sodomit
 sodomizohem
 sodomizoj
+sofizëm
 softuer
 softver
 sofër
@@ -15449,10 +16561,12 @@ sole
 solidaritet
 sonde
 sonte
+sonëte
 sopata
 sopatë
 sorkadh
 sorkadhe
+sormë
 sorrash
 sorrat
 sorrë
@@ -15460,12 +16574,14 @@ sorrën
 sorrëqokë
 sos
 sot
+sotmë
 sotëm
 sovjet
 sovran
 sovranitet
 spanjisht
 spanjoll
+spastrim etnik
 spastrohem
 spastroj
 spatë
@@ -15474,9 +16590,12 @@ specialist
 specialiste
 specie
 specifik
+speckë
 spektri
 spektri elektromagnetik
 spermë
+spikas
+spikat
 spiker
 spikth
 spinaq
@@ -15489,6 +16608,7 @@ spirancë
 spital
 spital psikiatrik
 spith
+spiunazh
 spontan
 spontanisht
 sport
@@ -15517,14 +16637,17 @@ sqotë
 srimbi i mëndafshit
 stacion
 stacion benzine
+stacion hapësinor
 stadium
 stalinizëm
 stampë
 stan
 stanar
 standard
+stanoj
 stanore
 stap
+statikë
 statistikë
 statujë
 stemë
@@ -15534,6 +16657,7 @@ sterkandrret
 stetoskop
 stihi
 stihji
+stilograf
 stilolaps
 stimul
 stimulim
@@ -15553,7 +16677,9 @@ strall
 strateg
 strategji
 strategjik
+stre
 strehë
+strejë
 stres
 stridhe
 stringël
@@ -15563,9 +16689,11 @@ stroncium
 struci
 strukturor
 strukturë
+strum
 strunxë
 student
 studente
+studim
 studioj
 studiues
 stufë
@@ -15573,6 +16701,8 @@ stuhi
 stuhi dëbore
 stuhishëm
 stër-
+stërall
+stërdhëmb
 stërg
 stërgjysh
 stërhollim
@@ -15599,7 +16729,6 @@ suedeze
 suedisht
 sufloj
 sugjerim
-suk
 sukses
 sukull
 sukë
@@ -15611,6 +16740,7 @@ sulmohem
 sulmoj
 sulmues
 sultan
+sum
 sumbull
 sumë
 sundi
@@ -15622,6 +16752,7 @@ sunnoj
 sup
 supe
 supermarket
+supernovë
 supersticion
 supesh
 supet
@@ -15645,6 +16776,7 @@ suvenir
 suxhuk
 svastikë
 sy
+syfyri
 sylesh
 sylikokë
 sylëkokë
@@ -15672,6 +16804,7 @@ së prapthi
 sëlloj
 sëmboj
 sëmundje
+sëmundjeprurës
 sëmundjeshkaktues
 sëmundur
 sëmunë
@@ -15681,7 +16814,10 @@ sënduk
 sëpatar
 sëpatë
 sëpatë-daltë
+sërish
 sërma
+sërë
+sótëm
 s‑kana
 s‑kimi
 s‑kä
@@ -15700,6 +16836,7 @@ tagër
 taifun
 tajga
 tajlandez
+tajlandisht
 takat
 taketuke
 takim
@@ -15754,6 +16891,7 @@ tash
 tashi
 tashmë
 tashti
+tast
 tastierë
 tata
 tatar
@@ -15761,6 +16899,7 @@ tatim
 tatuazh
 tatullë
 tatë
+tatëmadh
 tavan
 tavllë
 tavolinë
@@ -15777,6 +16916,7 @@ teatër
 tefsir
 teh
 tej
+tejdukshmëri
 tejdukshëm
 teje
 tejkombëtar
@@ -15809,6 +16949,7 @@ teleskop
 televizion
 televizor
 tellall
+tellallis
 telur
 tematik
 temperaturë
@@ -15848,11 +16989,13 @@ terbium
 teri
 terik
 term
+terminologji
 termodinamikë
 termometr
 terplote
 terr
 territor
+territorial
 terror
 terrorist
 terroriste
@@ -15876,6 +17019,7 @@ tetë
 tetëdhjetë
 tetëdhjetë e tetë
 tetëkëmbësh
+tetëkëndësh
 tetëmbëdhjetë
 teveqel
 teze
@@ -16037,7 +17181,6 @@ thurr
 thuthaq
 thuthuq
 thyej
-thyen
 thyese
 thyeshëm
 thyesë
@@ -16048,6 +17191,7 @@ thëllëzë
 thëmër
 thënegull
 thënegullë
+thënegël
 thëngjill
 thëngjillor
 thëni
@@ -16098,7 +17242,7 @@ tirë
 tis
 titan
 titull
-tjatër
+tjatërGoogle Books using
 tjegull
 tjerr
 tjetër
@@ -16132,6 +17276,7 @@ tokës
 tollë
 ton
 top
+topall
 tope
 topit
 toptan
@@ -16163,6 +17308,7 @@ tradhëtoj
 tradicionalisht
 traditë
 trafik
+tragjedi
 tragë
 trajm [tɾajm]
 trajme
@@ -16172,10 +17318,13 @@ trajner
 trajnim
 trajtoj
 trajtë
+trajtësoj
 traktat
 traktor
 tramvaj
+tramëzoj
 trance
+trand
 trandit
 trangull
 trangull m kastravec
@@ -16196,6 +17345,9 @@ trashamak
 trashamake
 trashaman
 trashamane
+trashamani
+trashamançe
+trashamanësi
 trashanik
 trashanike
 trashe
@@ -16232,6 +17384,7 @@ trashëgueshëm
 trashësi
 trashësia
 trath
+trazirë
 trazirë f. rrëmujë
 trazoj
 tre
@@ -16248,7 +17401,9 @@ tregu i zi
 tregë
 trekëmbësh
 trekëndësh
+trem
 tremb
+trembur
 trembëdhjetë
 tren
 tren i blinduar
@@ -16261,6 +17416,11 @@ tretje
 tretë
 trevoj
 trevë
+trezet
+trezet e dhjetë
+trezetedhjetë
+treçerek
+treçerekëshe
 tri
 triadhë
 tricel
@@ -16291,7 +17451,10 @@ trimëni
 trimëri
 trincë
 tringec
+trini
 trinia
+trinjak
+trinjake
 trink
 trinkë
 trinoj
@@ -16314,6 +17477,7 @@ trishue
 trishull
 triskë
 triton
+trizet
 triçikël
 trofe
 troftë
@@ -16346,6 +17510,7 @@ trung
 truni
 trup
 trupak
+trupjedh
 trupmadh
 trupor
 trupvogël
@@ -16359,6 +17524,8 @@ trys
 trysni
 trystë
 trêk
+trëmb
+trëmbur
 trëndafil
 trëndafil i bardhë
 trũnië
@@ -16367,6 +17534,7 @@ tualet
 tub
 tuberkuloz
 tufë
+tufë trima
 tul
 tulipani
 tulium
@@ -16412,7 +17580,7 @@ tushë gushëbardhë
 tushë këngëtare
 tushë mali
 tushë vetullbardhë
-tut Gheg
+tut
 tuta
 tutje
 tutor prostitutash
@@ -16424,6 +17592,7 @@ tymos
 tymosim
 tymosje
 tymosur
+tymues
 tyne [tynɛ]
 typth
 tyre
@@ -16525,9 +17694,11 @@ udhëtues
 udhëzim
 udhëzoj
 udhëzues
+uej
 ugar
 ugiç
 uikend
+uill
 uiski
 uj
 uja
@@ -16543,6 +17714,7 @@ ujkeshë
 ujkonjë
 ujkth
 ujkë
+ujkónjë
 ujor
 ujqër
 ujqëri
@@ -16566,6 +17738,7 @@ ul
 ulem
 ulk
 ulkonjë
+ull
 ullashtër
 ullastër
 ulli
@@ -16583,11 +17756,14 @@ ulurij
 ulzë
 ulçera në stomak
 ulçerë
+ulëras
 ulërij
 ulët
 umas
+umb
 ummë
 un [ũn]
+una
 unazë
 une nuk mendoj kështu
 ungj
@@ -16616,6 +17792,7 @@ unë nuk jam fetare
 unë nuk kuptoj
 unë quhem...
 unë të dua ty
+uoj
 upeshk
 upeshkup
 upri
@@ -16671,6 +17848,7 @@ urëz
 urëzak
 urëzoj
 ush
+ushanka
 ushkur
 ushojza
 ushqehem
@@ -16703,6 +17881,7 @@ uvill
 uvri
 uzdajë
 v
+v-
 va
 vabeh
 vabek
@@ -16730,6 +17909,7 @@ vaht
 vahti
 vaj
 vajgur
+vajguri
 vaji i ullirit
 vajtim
 vajtoj
@@ -16747,6 +17927,7 @@ vakëf
 vakësirë
 vakët
 val
+valenca
 valixhe
 valkyre
 valle
@@ -16773,8 +17954,12 @@ vanë
 vapkëth
 vapor
 vapë
+vapëherë
 vapëk
+vapësirë
+vapët
 var
+varavashk
 vardua
 vare
 varesë
@@ -16810,6 +17995,8 @@ varësi
 vashtër
 vashë
 vaskë
+vat
+vatan
 vaterpolo
 vath
 vathë
@@ -16821,6 +18008,7 @@ vazhdë
 vazo
 vdekatar
 vdekatare
+vdekja klinike
 vdekje
 vdekje e lehtë
 vdekjeprurës
@@ -16850,7 +18038,6 @@ vegël muzikor
 vehte
 vej
 vejan
-vejanë
 vejkë
 vejme
 vejni
@@ -16859,6 +18046,7 @@ vejushë
 vejë
 vejëri
 vejëroj
+vektor
 vel
 velime
 velit
@@ -16871,12 +18059,14 @@ vend
 vend falje
 vend i shenjtë
 vendim
+vendimtar
 vendlindje
 vendor
 vendore
 vendos
 vendoset
 vendosje
+vendpushim
 vendës
 venit
 venj
@@ -16907,6 +18097,7 @@ veriore
 verr
 verri
 verrë
+version
 versë
 vervele
 verzë
@@ -16957,7 +18148,6 @@ veshël
 veshëz
 vesë
 vet
-vet ()
 veta
 veta e dytë
 veta e parë
@@ -16992,11 +18182,14 @@ vetvetiu
 vetvetor
 vetvetore
 vetë
+vetëdije
+vetëdijshëm
 vetëdijë
 vetëkënaqësi
 vetëlëvizës
 vetëm
 vetëmi
+vetëmohim
 vetët
 vetëtim
 vetëtimë
@@ -17005,6 +18198,7 @@ vetëvendosje
 vetëvete
 vetëvetiu
 vetëvrasje
+vetëvrasës
 vezir
 vezull
 vezullon
@@ -17052,7 +18246,10 @@ vigmë
 vigël
 vihem
 vij
+vijoj
 vijë
+vijëzim
+vijëzoj
 viktimë
 vilajet
 vilajete
@@ -17096,6 +18293,7 @@ vito
 vitore
 vitrinë
 vitruk
+vitua
 vitë
 vitërk
 vizatim
@@ -17106,6 +18304,7 @@ vizitoj
 vizitor
 vizitore
 vizitë
+vizoj
 vizore
 vizull
 vizullon
@@ -17143,6 +18342,9 @@ vjerrje
 vjerrës
 vjershë
 vjeshtë
+vjeshtë e dytë
+vjeshtë e parë
+vjeshtë e tretë
 vjet
 vjetruar
 vjetullë
@@ -17161,6 +18363,7 @@ vlej
 vlerë
 vlerësi
 vlerësoj
+vllah
 vllahe
 vllahisht
 vllahishte
@@ -17178,6 +18381,8 @@ vobekësi
 vobekët
 vobëzi
 voc
+voce
+vockël
 vodhë
 vodkë
 voesë
@@ -17208,6 +18413,7 @@ vorbëtinë
 vorbëz
 vorfën
 vorr
+vorraxhi
 vorrezë
 voshtër
 vosë
@@ -17220,6 +18426,7 @@ votë
 votër
 vovë
 vozë
+vragë
 vrajë
 vrangull
 vranç
@@ -17230,11 +18437,14 @@ vranët
 vrap
 vrapim
 vrapoj
+vrapues
+vrapuese
 vras
 vrasës
 vrasës i paguar
 vrasëse
 vrasësi serik
+vravashkë
 vrazhdë
 vraç
 vregën
@@ -17264,6 +18474,7 @@ vrugoj
 vrugët
 vrujon
 vrull
+vrymë
 vrâç
 vrëndë
 vrërët
@@ -17291,6 +18502,7 @@ vyeshëm
 vyshkem
 vyshkët
 vâkth
+vâth
 vêsht
 vë
 vëd
@@ -17300,6 +18512,9 @@ vëlla
 vëllai
 vëllait
 vëllam
+vëllamëri
+vëllamërim
+vëllamësi
 vëllanë
 vëllazni
 vëllazëni
@@ -17311,10 +18526,14 @@ vëllezërve
 vëllezërvet
 vëllim
 vëmendje
+vënd
 vënd i rrjetës
+vëng
 vëngër
 vëngëroj
 vërcall
+vërdallë
+vërdhoj
 vërej
 vërejtje
 vërgër
@@ -17324,6 +18543,7 @@ vërshoj
 vërshëllej
 vërteroj
 vërteta
+vërtetim
 vërtetoj
 vërtetë
 vërtit
@@ -17349,6 +18569,7 @@ xeheror
 xehetar
 xehetari
 xehë
+xerk
 xh
 xhade
 xhagajdur
@@ -17358,6 +18579,7 @@ xhami
 xhan
 xhandar
 xhandarmëri
+xhanëm
 xhaxha
 xhaxhai
 xhaxhait
@@ -17367,6 +18589,7 @@ xhaxhallarët
 xhaxhallarëve
 xhaxhanë
 xhaxhillarë
+xhdo
 xhehenem
 xhehnem
 xhel
@@ -17376,6 +18599,7 @@ xhelozi
 xhelozisht
 xhenem
 xhenet
+xheni
 xhenxhefil
 xhep
 xhepist
@@ -17386,6 +18610,7 @@ xhind
 xhingla-mingla
 xhingël
 xhingërrima
+xhini
 xhins
 xhiton
 xhixhë
@@ -17418,11 +18643,11 @@ xunkthore
 xunkthpunues
 xunkthëri
 xunkthëtar
+xverk
 xëgit
 y
 ydh
 yej
-yj
 yje
 yjeplotë
 yjesh
@@ -17431,14 +18656,17 @@ yjet e mëdhenj të largët
 yjeve
 yjevet
 yjor
+yjore
 yjësi
 yjëzë
 ylber
 ylbertë
 yll
+yll i mbrëmjes
 yllak
 ylle
 ylli
+ylli i mbrëmjes
 yllin
 yllit
 yllkë
@@ -17460,6 +18688,7 @@ yshtës
 yshtëse
 yt
 yti
+yyll
 yzengji
 z
 z-
@@ -17502,6 +18731,7 @@ zbavis
 zbavitës
 zbeh
 zbehem
+zbehët
 zbej
 zbledh
 zbokth
@@ -17509,12 +18739,10 @@ zborak
 zborakës i malit
 zborë
 zbraz
-zbrazem
-zbrazëje
-zbrazësir
 zbrazët
 zbrazëti
 zbres
+zbritja
 zbritje
 zbruaj
 zbruhem
@@ -17555,6 +18783,7 @@ zemre
 zemër
 zemërim
 zemëroj
+zeqati
 zerdeli
 zero
 zeshkan
@@ -17587,6 +18816,7 @@ zgjoj
 zgjua
 zgjuar
 zgjuara
+zgjue
 zgjues
 zgjyrë
 zgledh
@@ -17605,8 +18835,8 @@ zgërdhihem
 zh
 zh-
 zhabë
-zhanr
 zhanri
+zhanër
 zhapi
 zhapik
 zhapjak
@@ -17615,6 +18845,7 @@ zhavorr
 zhbllokim
 zhbllokohet
 zhbllokoj
+zhdo
 zhdrejtazi
 zhdrejtë
 zhdryp [ʒdɾyp]
@@ -17625,6 +18856,7 @@ zhdëp
 zhdërvjell
 zhdërvjellët
 zheg
+zhelaman
 zhgabë
 zhgardhoj
 zhgoj
@@ -17704,6 +18936,7 @@ zogjsh
 zogjtë
 zogjve
 zogjvet
+zogjët
 zogth
 zogu
 zogë
@@ -17725,11 +18958,15 @@ zoologji
 zoologjia
 zoologjik
 zoologjikisht
+zoq
+zoqtë
+zoqët
 zorrë
 zorshëm
 zot
 zota
 zoti
+zotim
 zotni
 zotnoj
 zotohem
@@ -17739,7 +18976,10 @@ zotëri
 zotërisht
 zotëroj
 zotësi
+zugrafetë
+zukamë
 zukat
+zukatje
 zulmë
 zulë
 zurkal
@@ -17788,6 +19028,7 @@ zâ
 zêmër
 zë
 zëdhënës
+zëgjonj
 zëj
 zëmbër
 zëmër
@@ -17798,9 +19039,7 @@ zët
 zëvendës
 zëvendësueshëm
 zôjë
-¸
 Ç
-Ç'të mbjellësh, do korrësh
 Çadi
 Çam
 Çame
@@ -17823,6 +19062,9 @@ zôjë
 Çupi
 Égneti
 Ë
+Ëlli
+Ëngjëllike
+Ëngjëlliqe
 Øresund
 ádra
 â
@@ -17837,12 +19079,10 @@ zôjë
 ânnroj
 ânë
 âsht
-ã
 ãndrr
 ãndrroj
 ãndërr
 ãndërroj
-ãsht
 ç
 ç'
 ç'kemi
@@ -17862,6 +19102,7 @@ zôjë
 çakordoj
 çakëll
 çakëlloj
+çalaman
 çallmë
 çaloj
 çalë
@@ -17876,6 +19117,7 @@ zôjë
 çapare
 çapka e përhime
 çapkë
+çapkën
 çapë
 çark
 çarki
@@ -17889,7 +19131,10 @@ zôjë
 çastshëm
 çastësi
 çati
+çaul
+çaulë
 çazë
+çaúlë
 çdo
 çek
 çekan
@@ -17911,7 +19156,17 @@ zôjë
 çerdhukël
 çerek
 çereke
+çerekfinale
+çerekje
+çerekkilësh
+çereklitërsh
 çerekore
+çereksh
+çerekshe
+çerekshekull
+çerekshekullor
+çerekçi
+çereqe
 çerr
 çershinar
 çetinë
@@ -17922,16 +19177,19 @@ zôjë
 çfarëdolloj
 çfarëdoqoftë
 çfarësi
+çfut
 çiban
 çierr
 çift
 çifteli
 çifut
+çifutkë
 çifutëri
 çifutërisht
 çiklizmit
 çikë
 çil
+çiltër
 çimento
 çimkë e shullanit
 çinar
@@ -17960,8 +19218,8 @@ zôjë
 çmuar
 çmërs
 çnderoj
+çnjerëzoj
 çoban
-çobaneshë
 çohem
 çoj
 çok
@@ -17970,6 +19228,8 @@ zôjë
 çorape
 çoçër
 çpall
+çpoj
+çpraz
 çudi
 çudibërës
 çudit
@@ -17982,6 +19242,7 @@ zôjë
 çukë
 çukël
 çukërmoj
+çumçakiz
 çun
 çupë
 çuç
@@ -17990,6 +19251,7 @@ zôjë
 çyrek
 çâkiç
 çë
+çëfut
 çërap
 çështje
 çē
@@ -18003,6 +19265,7 @@ zôjë
 ëmbëlsoj
 ëmbëltore
 ëmë
+ën-
 ëndje
 ëndrra në diell
 ëndë
@@ -18022,8 +19285,6 @@ zôjë
 ëzë
 ô
 ôsht
-õ
-õsht
 šḱip
 šḱĭp
 Ƃ
@@ -18097,7 +19358,7 @@ zôjë
 λ̇
 λλ
 μ
-μπούρ [bur]
+μπούρ
 μπρέτ [mbɾɛt]
 ν
 ν̇
@@ -18105,7 +19366,7 @@ zôjë
 ο
 π
 περεντή [peɾəndi]
-πούρ [pur]
+πούρ
 πρέμε [pɾɛmə]
 ρ
 ρ̇
@@ -18132,4 +19393,4 @@ zôjë
 ẽm [ɛ̃m]
 → Greek: βαΐζω
 ◌̈
-⦃⦃t¦sq¦haromë¦f¦¦¦¦¦¦¦¦⦄⦄
+◌̧

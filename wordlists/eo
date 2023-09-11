@@ -1,3 +1,4 @@
+" | Disnomio
 &
 '
 (dukrura) drako
@@ -57,8 +58,8 @@
 -enda
 -er-
 -ero
--ero ()
 -es
+-eska
 -estr-
 -estro
 -et-
@@ -109,6 +110,7 @@
 -njo
 -o
 -obla
+-oble
 -oido
 -ologio
 -ologo
@@ -132,10 +134,11 @@
 -plena
 -riĉa
 -scienco
+-simila
 -skopo
 -u
 -ujo
--ujo for countries named after their inhabitants: Anglujo
+-ujo for places named after their inhabitants: Anglujo
 -ul-
 -ulaĉo
 -ulo
@@ -146,6 +149,7 @@
 -us
 -ĉj-
 -ĉjo
+-ŝajna
 0-a
 1
 1-a
@@ -201,6 +205,7 @@ ADHD-ulo
 AHP
 AHP-ulo
 AI
+ASMR
 ASOAN
 Aarono
 Aaronon
@@ -277,6 +282,7 @@ Ajnulo
 Ajuno
 Ajunon
 Ak.
+Akarnanio
 Akeno
 Akermana funkcio
 Akerona
@@ -304,7 +310,6 @@ Alasko Pacifiko
 Alaskon
 Albajo
 Albanio
-Albanio · Makedonio
 Albanio · Makedonio · Bulgario
 Albanion
 Albanujo
@@ -417,6 +422,7 @@ Antikva Makedonio
 Antiloj
 Antilojn
 Antioĥio
+Antono
 Antverpeno
 Antverpenon
 Anunciacio
@@ -633,6 +639,7 @@ Bankoko
 Bankokon
 Banĵulo
 Banĵulon
+Barako
 Barata Respubliko
 Barato
 Barato · Nepalo · Barato · Butano · Barato · Birmo · Laoso · Vjetnamio
@@ -758,6 +765,7 @@ Blank-Monto
 Blanka Domo
 Blanka Monto
 Blanka maro
+Blubarbulo
 Bludento
 Bocvano
 Bocvanon
@@ -789,6 +797,7 @@ Bostono
 Bostonon
 Botnia golfo
 Bova Spongoforma Encefalopatio
+Bovo
 Brabanto
 Brahmao
 Brajan
@@ -802,6 +811,7 @@ Bratislavo
 Bratislavon
 Brazavilo
 Brazavilon
+Brazila
 Brazila vagaraneo
 Brazilaj subŝtatoj: Akro
 Braziljo
@@ -858,12 +868,14 @@ Burundio
 Burundion
 Burundo
 Burundon
+Busano
 Butano
 Butanon
 Buĵumburo
 Buĵumburon
 C
 C diesa
+COBOL
 Cecilia
 Cefanja
 Cejlono
@@ -876,6 +888,7 @@ Centaŭro
 Centr-Afrika Respubliko
 Centr-Afrika Respubliko · Sud-Sudano
 Centr-Afrikan Respublikon
+Centra Luzono
 Centra Parko
 Centrafriko
 Cerbero
@@ -892,6 +905,7 @@ Cidono
 Cigno
 Cindrulino
 Cindrulinon
+Cipriano
 Ciro
 Cisjordanio
 Cremona
@@ -1045,6 +1059,7 @@ Edmontono
 Edmontonon
 Eduardo
 Eduardon
+Edvino
 Edzinonta Turo
 Efesanoj
 Efeso
@@ -1060,9 +1075,9 @@ Egiptujon
 Egisto
 Egiston
 Eiffel-Turo
-Einstein
 Ejfelturo
 Ejfelturon
+Ejnŝtejno
 Ejro
 Ejron
 Eklesio de Anglio
@@ -1084,6 +1099,7 @@ El-Ninjo
 Elbo
 Elefeno
 Elefenon
+Eli
 Eliezero
 Elija
 Eliro
@@ -1145,6 +1161,7 @@ Esperantistojn
 Esperantiston
 Esperanto
 Esperanto terms suffixed with -ono
+Esperanto-parolanto
 Esperanton
 Esperantujo
 Esperantujon
@@ -1189,6 +1206,8 @@ Eŭropa cifero
 Eŭropan Union
 Eŭropo
 Eŭropon
+Eŭrovido
+Eŭrovizio
 Eŭskio
 EŭskioRioĥoAragono
 EŭskioRioĥoKastilio kaj Leono
@@ -1248,6 +1267,8 @@ Filipina maro
 Filipinoj
 Filipinojn
 Filipo
+Filiŝtio
+Filiŝtujo
 Fingrulino
 Fingrumad kaj Fingrumid
 Finlando
@@ -1306,6 +1327,7 @@ Frankfurton
 Frederiko
 Frederikon
 Freiburg
+Freŭdo
 Frisio
 Frislando
 Frislandon
@@ -1325,7 +1347,6 @@ Fuĵio
 Fuĵion
 Fårö
 G
-GEVA
 GIF
 GLAT
 GLAT-a
@@ -1386,6 +1407,7 @@ Germanujon
 Gertrudo
 Gertrudon
 Gervasio
+Getsemano
 Gibelino
 Gideon
 Gilgameŝ
@@ -1410,6 +1432,7 @@ Gotenburgo
 Gotenburgon
 Gotfredo
 Gracioj
+Grahamo
 Grajo
 Grajon
 Granado
@@ -1463,6 +1486,7 @@ Guglo
 Guglon
 Gujano
 Gujanon
+Guntero
 Gustavio
 Gustavion
 Gustavo
@@ -1514,7 +1538,7 @@ Hari
 Harlemo
 Harlemon
 Haskell
-Havaj-Insulo ()
+Havaj-Insulo
 Havaja ansero
 Havajio
 Havajion
@@ -1583,7 +1607,7 @@ Hispanjolo
 Hispanujo
 Hispanujon
 Hizbulaho
-Ho-Chi-Minh-urbo
+Ho-Ĉi-Min-urbo
 Hogvarto
 Hokajdo
 Holando
@@ -1676,6 +1700,7 @@ Interreton
 Interslava lingvo
 Inĉono
 Ionia Maro
+Iono
 IonoEŭropoGanimedoKalisto
 Iovao
 IovaoMisurio
@@ -1705,6 +1730,7 @@ Istanbulon
 Itala
 Itala Respubliko
 Itala Reĝlando
+Itala duoninsulo
 Italio
 Italio · Slovenio
 Italion
@@ -1739,6 +1765,7 @@ Jangono
 Jangzio
 Janjo
 Janjon
+Jankilando
 Jano
 Januaro
 Januaroj
@@ -1785,6 +1812,7 @@ Jiska
 Joakimo
 Joda
 Johanesburgo
+Johanido
 Johanino
 Johaninon
 Johano
@@ -1800,10 +1828,12 @@ Jordano
 Jordanon
 Jorko
 Jorkŝiro
+Josuo
 Jozefo
 Jozefon
 Joĉjo
 Joĉjon
+Joŝuo
 Judujo
 Jugoslavio
 Jukatanio
@@ -1834,6 +1864,7 @@ KD-NLM
 KEP
 KIR
 KOVIM-19
+KPI
 KREH
 KSŜ
 KVF
@@ -1849,6 +1880,7 @@ Kabo-Verdo
 Kabulo
 Kabulon
 Kafarnao
+Kagajana Valo
 Kairo
 Kairon
 Kajafas
@@ -1862,6 +1894,7 @@ Kalifornio ∙ Nevado
 Kalifornion
 Kaliningrado
 Kaliopo
+Kalkato
 Kalmukio
 Kalmukujo
 Kamasutro
@@ -1875,6 +1908,7 @@ Kamerunon
 Kampalo
 Kampalon
 Kanaano
+Kanadestro
 Kanado
 Kanado ∙ Miĉigano
 Kanado ∙ Montano
@@ -1902,6 +1936,7 @@ Kantabrion
 Kantiano
 Kapitano Evidenta
 Kaporeto
+Kaprikorno
 Kapuĉa Robĉjo
 Karakalo
 Karakaso
@@ -1917,7 +1952,7 @@ Karlon
 Karmena
 Karnatako
 Karnatakon
-KaronoStiksoNiksoKerberosoHidro
+Karono | style="width: 7.1%
 Karpaĉo
 Kartago
 Kartagon
@@ -2030,6 +2065,7 @@ Klevlando
 Klingonio
 Kloeo
 Knoso
+Kobolo
 Koimbro
 Koka-kolao
 Kokburno
@@ -2042,7 +2078,6 @@ Kolombon
 Kolonjo
 Kolonjon
 Koloradio
-Koloradio ()
 Koloradion
 Kolorado
 Koloradon
@@ -2090,6 +2125,7 @@ Koreana
 Koreio
 Koreio Norda
 Koreio Suda
+Koreioj
 Koreo
 Koreon
 Koreujo
@@ -2150,7 +2186,6 @@ Kriŝno
 Kroatio
 Kroatio Adriatiko
 Kroatio · Serbio
-KroatioBosnio kaj HercegovinoMontenegro
 Kroation
 Kroatujo
 Kroatujon
@@ -2164,6 +2199,7 @@ Kuala-Lumpuron
 Kubo
 Kubon
 Kukinsuloj
+Kuracao
 Kuritibo
 Kuronio
 Kutberto
@@ -2208,8 +2244,10 @@ Lakŝmio
 Lalibelo
 Lanceloto
 Langvedoko
+Lankaŝiro
 Lanko
 Lankon
+Lanterna Festo
 Laocio
 Laocion
 Laokoonto
@@ -2339,6 +2377,7 @@ Lutero
 Luteron
 Luvro
 M
+MAC-adreso
 MB
 MBR
 MEP
@@ -2422,6 +2461,7 @@ Malta febro
 Malto
 Malton
 Malvarma milito
+Malviva Maro
 Mamudzo
 Mamudzon
 Managvo
@@ -2604,6 +2644,7 @@ Mogola Imperio
 Mohamedo
 Mohamedon
 Mojosujo
+Mokao
 Moldavio
 Moldavion
 Moldavujo
@@ -2644,6 +2685,7 @@ Mormonismon
 Morta Maro
 Mortulo
 Moseo
+Moskovio
 Moskvo
 Moskvon
 Mozambika Kanalo
@@ -2679,6 +2721,7 @@ NU
 Nabereĵnije Ĉelni
 Nacia Aeronaŭtika kaj Kosma Administracio
 Nadsato
+Najrobio
 Namibio
 Namibio . Bocvano . Zimbabvo
 Namibio · Bocvano · Zimbabvo
@@ -2857,9 +2900,9 @@ Novembrojn
 Novembron
 Novgorodo
 Novialo
+Novjaro
 Novjorkiano
 Novjorkio
-Novjorkio ()
 Novjorkion
 Novjorko
 Novjorkon
@@ -2874,6 +2917,7 @@ Novtajpeo
 Novtajpeon
 Novzelando
 Novzelandon
+Nubio
 Nuko
 Nultero
 Nunavuto
@@ -2929,6 +2973,7 @@ Oregono
 Oregono · Idaho
 Oregonon
 Orfeo
+Orienta Azio
 Orienta Eŭropo
 Orienta Timoro
 Orientalo
@@ -2956,6 +3001,7 @@ Oziriso
 Oĝibvoj
 Oĥocka Maro
 Oĥocko
+Oŝo
 P
 P-ro
 PIV
@@ -2967,6 +3013,7 @@ Pacifiko
 Pacifikon
 Pada Ebenaĵo
 Pado
+Pafisto
 Pajno
 Pakistano
 Pakistanon
@@ -3043,7 +3090,9 @@ Peruo Ĉilio
 Peruon
 Pesaĥo
 Pesaĥon
+Pesilo
 Petro
+Petrogrado
 Petron
 Peĉjo
 Peĉjon
@@ -3143,6 +3192,7 @@ Psiĥa
 Psiĥo
 Puerto-Riko
 Pulva konspiro
+Pusano
 Putin
 Putino
 Puŝkin
@@ -3160,6 +3210,7 @@ Randolfo
 Ranguno
 Rapunkolo
 Rasalĥajmo
+Raĝastani
 Raĝastano
 Raĥel
 Raĥelo
@@ -3168,10 +3219,10 @@ Raŭmismo
 Raŭmismon
 Reading
 Readmono
-Readmono ()
 Readmonon
 Rebeka
 Regiono Olomouc
+Rehoboam
 Rejkjaviko
 Rejkjavikon
 Rejnlando
@@ -3257,7 +3308,6 @@ Rubi
 Rubikono
 Rumanio
 Rumanio · Moldavio
-RumanioBulgario
 RumanioDanubo
 Rumanion
 Rumanujo
@@ -3425,6 +3475,8 @@ Sfinkso
 Sfinksoj
 Sfinksojn
 Sfinkson
+Shvabio
+Shvabion
 Shvabujo
 Shvabujon
 Siberia moskulo
@@ -3452,6 +3504,7 @@ Siono
 Sirakuso
 Sirio
 Sirion
+Siriuso
 Skandinavio
 Skandinavion
 Skandinavujo
@@ -3462,6 +3515,7 @@ Skita
 Skito
 Skopjo
 Skopjon
+Skorpio
 Skotlando
 Skotlandon
 Skotujo
@@ -3502,9 +3556,11 @@ Spotifajo
 Sri-Lanko
 Sri-Lankon
 Srilanko
+Sriĝajavardenapurakoto
 Stalin
 Stalino
 Stanislao
+Staten-Insulo
 Stefano
 Stel-milita tago
 Stelaj Militoj
@@ -3534,6 +3590,7 @@ Suda Aŭstralio
 Suda Dakoto
 Suda Dakoto Nebrasko
 Suda Karolino
+Suda Koreio
 Suda Mato-Groso
 Suda Oceano
 Suda Rio-Grando
@@ -3590,6 +3647,8 @@ SvislandoLiĥtenŝtejnoSvislando
 Svislandon
 Svisujo
 Svisujon
+Sxvabio
+Sxvabion
 Sxvabujo
 Sxvabujon
 Sĥeldo
@@ -3605,6 +3664,7 @@ TTT-ejo
 TTT-ejoj
 TTT-ejojn
 TTT-ejon
+TTT-legilo
 Tabita
 Tablomonto
 Tadeo
@@ -3615,6 +3675,7 @@ Tago de Ĉiuj Sanktuloj
 Tajlando
 Tajlando · Sudĉina Maro · Brunejo
 Tajlandon
+Tajo
 Tajpeo
 Tajpeon
 Tajvana Markolo
@@ -3757,7 +3818,7 @@ Turkmenujo
 Turkoj kaj Kajkoj
 Turkujo
 Turkujon
-Turmo de Londono
+Turo de Londono
 Tut-Tera Teksaĵo
 Tutanĥamono
 Tuttera Teksaĵo
@@ -3791,6 +3852,7 @@ Unikodon
 Unio de Sovetaj Socialismaj Respublikoj
 Unio de Sovetaj Socialistoj Respublikoj
 Universala Esperanto-Asocio
+Unuiĝinta Araba Respubliko
 Unuiĝinta Regno
 Unuiĝinta Reĝlando
 Unuiĝinta Reĝlando de Granda Britio kaj Nord-Irlando
@@ -3866,12 +3928,15 @@ Varsovio
 Varsovion
 Vatikano
 Vatikanon
+Vatikanurbo aŭ Vatikano
 Vaud
 Vaŝingtonio
 VaŝingtonioOregono
 Vaŝingtonion
 Vaŝingtono
 Vaŝingtonon
+Vaŝintonio
+Vaŝintono
 Vd
 Vegetalismo
 Velaro
@@ -3894,6 +3959,7 @@ Vermonton
 Vermonto·Nov-Hampŝiro
 Veronika
 Versajlo
+Verŝisto
 Vespertulo
 Vespertviro
 Vesto
@@ -3918,7 +3984,9 @@ Vikivortaro
 Vikivortaron
 Viko
 Vikon
+Viktoria
 Viktoria lago
+Viktorino
 Viktorio
 Viktorion
 Viktoro
@@ -3932,6 +4000,8 @@ Virgilio
 Virginia
 Virginio
 Virginion
+Virgo
+Virgulino
 Virgulinsuloj
 Virgulinsulojn
 Viskonsino
@@ -3977,6 +4047,8 @@ Yellowknife
 Z
 Zagrebo
 Zagrebon
+Zakario
+Zakarion
 Zakinto
 Zambio
 Zambio . Malavio . Malavia Lago . Tanzanio
@@ -4255,7 +4327,6 @@ abelregxinoj
 abelregxinojn
 abelregxinon
 abelreĝino
-abelreĝino reĝinabelo
 abelreĝinoj
 abelreĝinojn
 abelreĝinon
@@ -4472,7 +4543,6 @@ abomenatoj
 abomenatojn
 abomenaton
 abomenaĵo
-abomenaĵo ()
 abomenaĵoj
 abomenaĵojn
 abomenaĵon
@@ -4658,6 +4728,7 @@ abortigiloj
 abortigilojn
 abortigilon
 abortigis
+abortigistino
 abortigisto
 abortigistoj
 abortigistojn
@@ -4902,6 +4973,7 @@ absorbu
 absorbus
 abstemio
 abstemion
+abstina sindromo
 abstinado
 abstinadoj
 abstinadojn
@@ -5516,7 +5588,6 @@ adjektivatojn
 adjektivaton
 adjektive
 adjektivi
-adjektivi ()
 adjektivinta
 adjektivintaj
 adjektivintajn
@@ -5791,12 +5862,10 @@ adoleskuloj
 adoleskulojn
 adoleskulon
 adolta
-adolta ()
 adolteco
 adoltecon
 adoltino
 adolto
-adolto ()
 adopta
 adoptaj
 adoptajn
@@ -6080,6 +6149,9 @@ advokatoj
 advokatojn
 advokaton
 adzo
+adzoj
+adzojn
+adzon
 aedo
 aedoj
 aedojn
@@ -6104,7 +6176,6 @@ aerglitiloj
 aerglitilojn
 aerglitilon
 aeri
-aeri ()
 aerkastelo
 aerkasteloj
 aerkastelojn
@@ -6253,7 +6324,6 @@ afablaj
 afablajn
 afablan
 afablaĵo
-afablaĵo ()
 afable
 afableco
 afablecoj
@@ -6322,6 +6392,7 @@ afektitoj
 afektitojn
 afektiton
 afekto
+afekton
 afektonta
 afektontaj
 afektontajn
@@ -6347,7 +6418,6 @@ afektulo
 afektus
 afelio
 afera
-afera ()
 aferaĉo
 afereca
 aferema
@@ -6506,13 +6576,10 @@ afustojn
 afuston
 agaca
 agacaĵo
-agacaĵo ()
 agaci
 agaciĝa intesta sindromo
 agaciĝi
-agaciĝi ()
 agaco
-agaco ()
 agacoj
 agacojn
 agacon
@@ -6999,7 +7066,6 @@ agrablecon
 agrafi
 agrafilo
 agrafingo
-agrafingo ()
 agrafio
 agrafo
 agrafoj
@@ -7007,7 +7073,6 @@ agrafojn
 agrafon
 agrara
 agraro
-agraro ()
 agresa
 agresaj
 agresajn
@@ -7425,6 +7490,7 @@ akcesora
 akcesoraj
 akcesorajn
 akcesoran
+akcesoro
 akcia
 akcia kompanio
 akcia societo
@@ -7632,7 +7698,6 @@ akompanatoj
 akompanatojn
 akompanaton
 akompanaĵo
-akompanaĵo ()
 akompani
 akompaninta
 akompanintaj
@@ -7845,6 +7910,7 @@ aktiva voĉo
 aktivaj
 aktivajn
 aktivan
+aktivaĵo
 aktive
 aktiveco
 aktivecoj
@@ -7923,7 +7989,6 @@ aktojn
 akton
 aktorado
 aktori
-aktori ()
 aktorino
 aktorinoj
 aktorinojn
@@ -8139,7 +8204,6 @@ akuŝaton
 akuŝdoloro
 akuŝi
 akuŝigi
-akuŝigi ()
 akuŝinta
 akuŝintaj
 akuŝintajn
@@ -8151,7 +8215,6 @@ akuŝintojn
 akuŝinton
 akuŝis
 akuŝistino
-akuŝistino ()
 akuŝistinoj
 akuŝistinojn
 akuŝistinon
@@ -8191,7 +8254,6 @@ akuŝotoj
 akuŝotojn
 akuŝoton
 akuŝpeno
-akuŝpeno ()
 akuŝu
 akuŝus
 akva
@@ -8224,7 +8286,6 @@ akvariojn
 akvarion
 akvatinta gravuraĵo
 akvatintaĵo
-akvatintaĵo ()
 akvatinto
 akvavito
 akvedukto
@@ -8450,7 +8511,6 @@ alaranĝus
 alarma
 alarmi
 alarmilo
-alarmilo ()
 alarmistino
 alarmisto
 alarmo
@@ -8468,6 +8528,7 @@ alaskanon
 alaskigi
 alaspekta
 alastrimo
+alaterno
 alativo
 alativoj
 alativojn
@@ -8521,7 +8582,6 @@ albitojn
 albiton
 alblovi
 albordigi
-albordigi ()
 albordiĝejo
 albordiĝi
 albordiĝo
@@ -8558,7 +8618,6 @@ aldehidojn
 aldehidon
 aldirekti
 aldiri
-aldiri ()
 aldo
 aldoj
 aldojn
@@ -8704,6 +8763,7 @@ aleto
 aletoj
 aletojn
 aleton
+aletŝraŭbingo
 alfa testado
 alfabeta
 alfabete
@@ -8722,10 +8782,8 @@ alfabetumoj
 alfabetumojn
 alfabetumon
 alfajfi
-alfajfi ()
 alfali
 alfalo
-alfalo ()
 alfaranta
 alfarantaj
 alfarantajn
@@ -8789,12 +8847,10 @@ alfarus
 alfaŭki
 alfiksi
 alfingrigi
-alfingrigi ()
 alfinigi
 alflosi
 alfluanto
 alflugi
-alflugi ()
 alflui
 alfluo
 alfo
@@ -8803,7 +8859,6 @@ alfojn
 alfon
 alfortikigi
 alforĝi
-alforĝi ()
 alfrapa kratero
 alfrontanta
 alfrontantaj
@@ -8866,9 +8921,7 @@ alfrontoton
 alfrontu
 alfrontus
 alfundigi
-alfundigi ()
 alfundiĝi
-alfundiĝi ()
 algalopi
 algapi
 algebro
@@ -8899,7 +8952,7 @@ aliaj
 aliajn
 alial
 alial for another reason
-aliam ()
+aliam
 aliam at another time
 aliamaniere
 alian
@@ -8919,7 +8972,6 @@ alianciĝantojn
 alianciĝanton
 alianciĝas
 alianciĝi
-alianciĝi ()
 alianciĝinta
 alianciĝintaj
 alianciĝintajn
@@ -8953,7 +9005,6 @@ alibiojn
 alibion
 alidirekte
 alie
-alieco
 aliel
 aliel in another way
 alienismo
@@ -8968,7 +9019,6 @@ alifoje
 aliformi
 aliformigi
 aliformiĝi
-aliformiĝi ()
 aliformiĝo
 aligatora
 aligatoraro
@@ -8982,9 +9032,7 @@ aligxi
 alihejmulo
 alii
 aliigi
-aliigi ()
 aliiĝi
-aliiĝi ()
 aliiĝo
 alikaze
 alikonstrui
@@ -9108,17 +9156,14 @@ aliulo
 aliuloj
 aliulojn
 aliulon
-aliutiligi
 aliuzi
 alivesti
 alivestiĝi
 alivesto
 alivorte
 alizarbo
-alizarbo ()
 alizo
 alizujo
-alizujo ()
 aliĝas
 aliĝi
 aliĝilo
@@ -9160,7 +9205,6 @@ alkanon
 alkanti
 alkapti
 alkateni
-alkateni ()
 alkatenu
 alkazabo
 alkazaboj
@@ -9204,7 +9248,6 @@ alklakatoj
 alklakatojn
 alklakaton
 alklaki
-alklaki ()
 alklakinta
 alklakintaj
 alklakintajn
@@ -9456,6 +9499,7 @@ alkovo
 alkovoj
 alkovojn
 alkovon
+alkrementi
 alkreska disko
 alkreski
 alkresko
@@ -9575,7 +9619,6 @@ almanaĥo
 almanigi
 almanĝaĵo
 almanĝi
-almanĝi ()
 almarŝi
 almenau
 almenaux
@@ -9586,11 +9629,11 @@ almeojn
 almeon
 almeti
 almezuri
-almezuri ()
 almiksas
 almiksi
 almiliti
 almontri
+almozdonado
 almozdoni
 almozi
 almozistino
@@ -9710,10 +9753,8 @@ alparolus
 alpaŝi
 alpeli
 alpendigi
-alpendigi ()
 alpikas
 alpiki
-alpiki ()
 alpikis
 alpikos
 alpiku
@@ -10034,13 +10075,12 @@ alpuŝu
 alpuŝus
 alrajdi
 alrampi
-alrampi ()
 alrapidas
 alrapidi
 alremi
-alremi ()
 alrideti
 alrigardi
+alrigidiĝi
 alruliĝi
 alsalti
 alsendi
@@ -10211,6 +10251,7 @@ alteriĝotojn
 alteriĝoton
 alteriĝu
 alteriĝus
+alterna kurento
 alternado
 alternadoj
 alternadojn
@@ -10226,6 +10267,7 @@ alternantojn
 alternanton
 alternas
 alternativa
+alternativa medicino
 alternativa registrumo
 alternativa rokmuziko
 alternativa rokmuzko
@@ -10272,10 +10314,10 @@ altfrekvencoj
 altfrekvencojn
 altfrekvencon
 altgrada
-altgrada ()
 altgrade
 alti
 altigi
+altipigo
 altira
 altiranta
 altirantaj
@@ -10372,7 +10414,6 @@ altrangulojn
 altrangulon
 altranĉi
 altrinki
-altrinki ()
 altrozo
 altrozoj
 altrozojn
@@ -10512,7 +10553,6 @@ aluvioj
 aluviojn
 aluvion
 alvagi
-alvagi ()
 alvenanta
 alvenantaj
 alvenantajn
@@ -10552,11 +10592,8 @@ alvenu
 alvenus
 alverŝi
 alveturi
-alveturi ()
 alveturigi
-alveturigi ()
 alveturo
-alveturo ()
 alviciĝi
 alvoki
 alvokiĝi
@@ -10640,7 +10677,6 @@ alĥemion
 alĵeti
 alŝovi
 alŝraŭbi
-alŝraŭbi ()
 alŝteliri
 alŝteliĝi
 alŝutanta
@@ -10707,7 +10743,6 @@ alŝutus
 am-rendevuo
 ama
 amafero
-amafero ()
 amaj
 amajn
 aman
@@ -10733,7 +10768,6 @@ amarigi
 amariĝi
 amaro
 amarsento
-amarsento ()
 amarsenton
 amas
 amasa
@@ -10807,7 +10841,6 @@ amasigu
 amasigus
 amasinformilo
 amasiĝi
-amasiĝi ()
 amaskomunikilo
 amaskomunikiloj
 amaskomunikilojn
@@ -10899,6 +10932,7 @@ ambaŭseksemulojn
 ambaŭseksemulon
 ambaŭseksulo
 ambaŭtranĉa
+ambaŭtranĉa glavo
 ambicia
 ambiciaj
 ambiciajn
@@ -10915,9 +10949,7 @@ ambigue
 ambiguo
 ambli
 amblo
-amblo ()
 amblulo
-amblulo ()
 amboso
 ambosoj
 ambosojn
@@ -11026,7 +11058,6 @@ amento
 americio
 americion
 amerika
-amerika ()
 amerika alko
 amerika bizono
 amerika fajfanaso
@@ -11035,7 +11066,6 @@ amerikajn
 amerikan
 amerikanisme
 amerikano
-amerikano ()
 amerikanoj
 amerikanojn
 amerikanon
@@ -11043,7 +11073,6 @@ ametas
 ameti
 ametis
 ametista
-ametista ()
 ametisto
 ametistoj
 ametistojn
@@ -11083,6 +11112,7 @@ amikaj
 amikajn
 amikan
 amikaro
+amikas
 amikaĵo
 amike
 amikeco
@@ -11094,6 +11124,7 @@ amikino
 amikinoj
 amikinojn
 amikinon
+amikis
 amikiĉo
 amikiĉoj
 amikiĉojn
@@ -11104,12 +11135,16 @@ amiko
 amikoj
 amikojn
 amikon
+amikos
+amikpeto
+amiku
 amikumas
 amikumi
 amikumis
 amikumos
 amikumu
 amikumus
+amikus
 amikzono
 amilopektino
 amilopektinoj
@@ -11372,7 +11407,6 @@ amortizitoj
 amortizitojn
 amortiziton
 amortizo
-amortizo ()
 amortizonta
 amortizontaj
 amortizontajn
@@ -11401,6 +11435,7 @@ amorveka
 amorvekaj
 amorvekajn
 amorvekan
+amorveki
 amos
 amota
 amotaj
@@ -11633,8 +11668,8 @@ amputoton
 amputu
 amputus
 amrakonto
+amrendevuo
 amrilato
-amrilato ()
 amrilatoj
 amrilatojn
 amrilaton
@@ -11817,7 +11852,6 @@ analitikoj
 analitikojn
 analitikon
 analiza
-analiza ()
 analizado
 analizanta
 analizantaj
@@ -11839,7 +11873,6 @@ analizatoj
 analizatojn
 analizaton
 analizema
-analizema ()
 analizi
 analizilo
 analizinta
@@ -11967,6 +12000,7 @@ anaĥoreto
 andaluza
 andaluzino
 andaluzo
+andezito
 andrea kruco
 androgeno
 androgina
@@ -12069,10 +12103,8 @@ anerojdaj
 anerojdajn
 anerojdan
 anesteza
-anesteza ()
 anestezi
 anestezilo
-anestezilo ()
 anestezistino
 anestezisto
 anestezo
@@ -12150,7 +12182,6 @@ angori
 angoriga
 angorige
 angorigi
-angorigi ()
 angoro
 angoroj
 angorojn
@@ -12158,6 +12189,7 @@ angoron
 angstromo
 angula
 angula frekvenco
+angula minuto
 angula movokvanto
 angulaj
 angulaj frekvencoj
@@ -12183,23 +12215,37 @@ angulŝtono
 angviso
 anhela
 anhelado
+anhelanta
+anhelante
+anhelanto
+anhelas
+anhelata
+anhelate
+anhelato
 anhele
 anheli
+anhelinta
+anhelinte
+anhelinto
+anhelis
 anhelo
+anhelonta
+anhelonte
+anhelonto
+anhelos
+anhelus
 anhidrido
 anhidridoj
 anhidridojn
 anhidridon
 ani
 anigi
-anigi ()
 anigita
 anima
 animacia
 animaciaĵo
 animaciita desegno
 animacio
-animacio ()
 animagordo
 animaj
 animajn
@@ -12310,7 +12356,6 @@ anizoj
 anizojn
 anizon
 anizujo
-anizujo ()
 anizujoj
 anizujojn
 anizujon
@@ -12419,7 +12464,6 @@ anoncatojn
 anoncaton
 anonci
 anoncigi
-anoncigi ()
 anoncilo
 anoncinta
 anoncintaj
@@ -12482,7 +12526,6 @@ anoreksio
 anosmio
 anseraro
 anseraĵo
-anseraĵo ()
 ansergrifo
 anserhaŭto
 anserido
@@ -12510,7 +12553,6 @@ anstatauxulojn
 anstatauxulon
 anstataŭ
 anstataŭa
-anstataŭa ()
 anstataŭa instruisto
 anstataŭa rado
 anstataŭanta
@@ -12570,7 +12612,6 @@ anstataŭigitoj
 anstataŭigitojn
 anstataŭigiton
 anstataŭigo
-anstataŭigo ()
 anstataŭigonta
 anstataŭigontaj
 anstataŭigontajn
@@ -12634,7 +12675,6 @@ antaua
 antauhierau
 antaumanghajho
 antaux
-antauxenigi
 antauxhieraux
 antauxmangxajxo
 antaŭ
@@ -12683,7 +12723,7 @@ antaŭatojn
 antaŭaton
 antaŭaverti
 antaŭaĵo
-antaŭaŭrora ()
+antaŭaŭrora
 antaŭbrako
 antaŭdati
 antaŭdaŭrigo
@@ -12708,7 +12748,6 @@ antaŭelekto
 antaŭen
 antaŭenema
 antaŭenigi
-antaŭenigi ()
 antaŭenigo
 antaŭeniri
 antaŭeniĝi
@@ -12725,7 +12764,7 @@ antaŭfiguri
 antaŭfiksi
 antaŭflari
 antaŭforigi
-antaŭgardi ()
+antaŭgardi
 antaŭglui
 antaŭgusto
 antaŭhaltigi
@@ -12733,7 +12772,6 @@ antaŭhaveno
 antaŭhejti
 antaŭhelena
 antaŭhieraŭ
-antaŭhieraŭ ()
 antaŭhieraŭa
 antaŭhistorio
 antaŭi
@@ -12823,10 +12861,11 @@ antaŭjuĝo
 antaŭjuĝoj
 antaŭjuĝojn
 antaŭjuĝon
-antaŭkafejo ()
+antaŭkafejo
 antaŭkalkuli
 antaŭkanti
 antaŭkapablo
+antaŭkomplico
 antaŭkondiĉo
 antaŭkongreso
 antaŭkoni
@@ -12834,12 +12873,12 @@ antaŭkonsenti
 antaŭkonstruaĵo
 antaŭkorto
 antaŭkristnaska
-antaŭkuri ()
+antaŭkuri
 antaŭlasta
 antaŭlegi
 antaŭlerneja
 antaŭlernejo
-antaŭliberigi ()
+antaŭliberigi
 antaŭlonge
 antaŭludi
 antaŭludo
@@ -12852,8 +12891,9 @@ antaŭmatenajn
 antaŭmatenan
 antaŭmenciita
 antaŭmendi
-antaŭmeti ()
+antaŭmeti
 antaŭmilita
+antaŭmolaro
 antaŭmontoj
 antaŭmontri
 antaŭmontro
@@ -12925,7 +12965,7 @@ antaŭtagmezo
 antaŭtago
 antaŭtempa
 antaŭtempe
-antaŭteni ()
+antaŭteni
 antaŭtimi
 antaŭtitolo
 antaŭtraktado
@@ -12946,6 +12986,9 @@ antaŭurbojn
 antaŭurbon
 antaŭus
 antaŭvelo
+antaŭveloj
+antaŭvelojn
+antaŭvelon
 antaŭveni
 antaŭvespero
 antaŭvidas
@@ -12969,7 +13012,6 @@ antaŭĉambroj
 antaŭĉambrojn
 antaŭĉambron
 antaŭĝoji
-antaŭĝoji ()
 antaŭĝoji (pri)
 antaŭĝui
 anteno
@@ -13043,13 +13085,11 @@ antikvaĵojn
 antikvaĵon
 antikve
 antikveco
-antikveco ()
 antikvecoj
 antikvecojn
 antikvecon
 antikvisto
 antikvo
-antikvo ()
 antikvulo
 antilopo
 antilopoj
@@ -13092,7 +13132,6 @@ antisemitisma
 antisemitismo
 antisemito
 antisepsa
-antisepsa ()
 antisepsanta
 antisepsantaj
 antisepsantajn
@@ -13113,7 +13152,6 @@ antisepsatoj
 antisepsatojn
 antisepsaton
 antisepsaĵo
-antisepsaĵo ()
 antisepsi
 antisepsinta
 antisepsintaj
@@ -13252,7 +13290,6 @@ aortojn
 aorton
 aparatara programprotektilo
 aparataro
-aparataro ()
 aparataroj
 aparatarojn
 aparataron
@@ -13382,6 +13419,8 @@ apaĉaro
 apaĉino
 apaĉo
 apaĉoj
+apelacia kortumo
+apelacii
 apelacio
 apenau
 apenaux
@@ -13663,6 +13702,7 @@ aplombojn
 aplombon
 apneo
 apo
+apoga punkto
 apoganta
 apogantaj
 apogantajn
@@ -14046,6 +14086,7 @@ arakidajn
 arakidajn buterojn
 arakidan
 arakidan buteron
+arakidbutero
 arakido
 arakidoj
 arakidojn
@@ -14224,6 +14265,7 @@ arbaristo
 arbaristoj
 arbaristojn
 arbariston
+arbarkoturno
 arbaro
 arbaroj
 arbarojn
@@ -14340,6 +14382,7 @@ areo
 areoj
 areojn
 areon
+arepo
 arestanta
 arestantaj
 arestantajn
@@ -15121,6 +15164,7 @@ arĥivu
 arĥivus
 arĥonto
 arŝino
+asaio
 asbesto
 asbeston
 ascendanta
@@ -15486,6 +15530,7 @@ asistantino
 asistanto
 asisti
 askalono
+askaridozo
 asketisma
 asketismaj
 asketismajn
@@ -15985,6 +16030,7 @@ atenuos
 atenuu
 atenuus
 atesta
+atestado
 atestanta
 atestantaj
 atestantajn
@@ -16139,6 +16185,7 @@ atleton
 atm
 atm.
 atmosfera
+atmosfera premo
 atmosferaj
 atmosferajn
 atmosferan
@@ -16170,6 +16217,8 @@ atomkerno
 atomkernoj
 atomkernojn
 atomkernon
+atomnombro
+atomnumero
 atomo
 atomoj
 atomojn
@@ -16718,6 +16767,7 @@ azenĉevalon
 azerbajĝanigi
 azia
 azia leono
+azia nananaso
 aziaj
 aziaj leonoj
 aziajn
@@ -16732,6 +16782,7 @@ azianon
 azido
 aziigi
 azilo
+azilpetanto
 azotato
 azotatoj
 azotatojn
@@ -16760,7 +16811,6 @@ aĉajn
 aĉan
 aĉas
 aĉaĵaro
-aĉaĵaro ()
 aĉaĵo
 aĉe
 aĉetanta
@@ -16800,7 +16850,6 @@ aĉetintojn
 aĉetinton
 aĉetis
 aĉetisto
-aĉetisto ()
 aĉetistoj
 aĉetistojn
 aĉetiston
@@ -16946,7 +16995,6 @@ aĵaĵo
 aĵeto
 aĵetoj
 aĵgenro
-aĵgenro ()
 aĵo
 aĵoj
 aĵojn
@@ -17095,6 +17143,7 @@ aŭdiĝonton
 aŭdiĝos
 aŭdiĝu
 aŭdiĝus
+aŭdkapabla
 aŭdo
 aŭdoj
 aŭdojn
@@ -17118,6 +17167,7 @@ aŭdoto
 aŭdotoj
 aŭdotojn
 aŭdoton
+aŭdsenso
 aŭdu
 aŭdus
 aŭgmento
@@ -17373,6 +17423,7 @@ aŭtoktono
 aŭtolavejo
 aŭtolizo
 aŭtomata
+aŭtomata kiosko
 aŭtomataj
 aŭtomatajn
 aŭtomatan
@@ -17524,6 +17575,14 @@ bacilon
 badlandoj
 badmintono
 bagatela
+bagatelaj
+bagatelajn
+bagatelan
+bagatelema
+bagatelemaj
+bagatelemajn
+bagateleman
+bagateligi
 bagatelo
 bagateloj
 bagatelojn
@@ -17612,6 +17671,8 @@ bakoto
 bakotoj
 bakotojn
 bakoton
+bakpulvoro
+baksodo
 bakteria
 bakteriaj
 bakteriajn
@@ -17770,6 +17831,7 @@ balbuti
 balbutis
 balbutos
 balbutu
+balbutulo
 balbutus
 baldakeno
 baldakenoj
@@ -17788,6 +17850,7 @@ balena
 balenaro
 balenkaptado
 balenkapulo
+balenlameno
 baleno
 balenoj
 balenojn
@@ -17898,6 +17961,7 @@ bambuo
 bambuoj
 bambuojn
 bambuon
+bamio
 banala
 banalaj
 banalajn
@@ -18489,6 +18553,7 @@ baroto
 barotoj
 barotojn
 baroton
+barto
 baru
 barus
 barĉo
@@ -18497,7 +18562,6 @@ barĉojn
 barĉon
 barĝo
 basa
-basa ()
 basan
 basbala
 basbala ĉapo
@@ -18566,6 +18630,7 @@ baskulos
 baskulu
 baskulumi
 baskulus
+baskulŝaltilo
 basmatio
 baso
 bason
@@ -18588,6 +18653,7 @@ bastonon
 bastonpano
 batadi
 batado
+batala hakilo
 batalado
 bataladoj
 bataladojn
@@ -18904,10 +18970,8 @@ bazopilkadaj
 bazopilkadajn
 bazopilkadan
 bazopilkado
-bazopilkado ()
 bazopilkadon
 bazopilko
-bazopilko ()
 bazopilkoj
 bazopilkojn
 bazopilkon
@@ -19206,6 +19270,7 @@ benefico de dubo
 beneficoj
 beneficojn
 beneficon
+bengala
 bengalia tigro
 bengaligi
 bengalo
@@ -19285,6 +19350,7 @@ benzolo
 benzoloj
 benzolojn
 benzolon
+beo
 beos
 beraro
 beraroj
@@ -19349,6 +19415,7 @@ bestokuraciston
 beston
 bestoĝardeno
 beta
+beta testado
 beto
 betoj
 betojn
@@ -19431,7 +19498,6 @@ bezonoton
 bezonu
 bezonus
 beĵa
-biaso
 biatlono
 bibimbapo
 biblia
@@ -19477,7 +19543,7 @@ biciklintoj
 biciklintojn
 biciklinton
 biciklis
-biciklistino ()
+biciklistino
 biciklisto
 biciklo
 bicikloj
@@ -19516,6 +19582,8 @@ bieroj
 bierojn
 bieron
 bierumi
+bifobia
+bifobio
 bifsteko
 bifstekoj
 bifstekojn
@@ -19752,6 +19820,8 @@ biodegradeblaj
 biodegradeblajn
 biodegradeblan
 biodiverseco
+biodiverseco-riĉajejo
+biodiverseco-varmpunkto
 biodiversecon
 biogeografio
 biografia
@@ -19805,6 +19875,7 @@ biosfero
 biosferoj
 biosferojn
 biosferon
+biotopo
 bioĥemio
 birda
 birda gripo
@@ -19850,6 +19921,7 @@ birdokantojn
 birdokanton
 birdon
 birdotimigilo
+birdreĝo
 birdumo
 birdumon
 bireto
@@ -19896,8 +19968,8 @@ bizono
 bizonoj
 bizonojn
 bizonon
-biŝnuprija manipuri
-biŝnuprija manipuri lingvo
+biŝnuprija
+biŝnuprija lingvo
 blablai
 blagi
 blago
@@ -19906,6 +19978,7 @@ blagojn
 blagon
 blagu
 blanka
+blanka armilo
 blanka cikonio
 blanka flago
 blanka ipomeo
@@ -19913,6 +19986,7 @@ blanka kavaliro
 blanka nano
 blanka nimfeo
 blanka nokto
+blanka santalo
 blanka urso
 blanka visko
 blankaj
@@ -19935,6 +20009,7 @@ blankharaj
 blankharajn
 blankharan
 blanki
+blankiga likvo
 blankigi
 blankiĝi
 blanknaĝila delfeno
@@ -20135,7 +20210,6 @@ blovpafilo
 blovu
 blovus
 blua
-blua ()
 blua baleno
 blua fromaĝo
 blua garolo
@@ -20175,7 +20249,6 @@ blufu
 blufus
 blugorĝulo
 blui
-blui ()
 bluigi
 bluinta
 bluintaj
@@ -20207,7 +20280,6 @@ bluontojn
 bluonton
 bluos
 bluso
-bluso ()
 bluson
 blusroko
 bluu
@@ -20246,6 +20318,7 @@ boaton
 boavino
 boavo
 bobeli
+bobelmetoda ordigo
 bobelo
 bobeno
 bobenoj
@@ -20738,6 +20811,7 @@ bonfamaj
 bonfamajn
 bonfaman
 bonfamo
+bonfara
 bonfaranto
 bonfaro
 bonfaroj
@@ -20764,6 +20838,7 @@ bongustaĵo
 bongustaĵoj
 bongustaĵojn
 bongustaĵon
+bongusti
 bonhava
 bonhavaj
 bonhavajn
@@ -20783,11 +20858,14 @@ bonmanierajn
 bonmanieran
 bono
 bonodora
+bonodoro
 bonon
 bonsajo
 bonstato
+bonstato bonfaro
 bontenado
 bonteni
+bontrovo
 bonulo
 bonuloj
 bonulojn
@@ -21111,6 +21189,7 @@ boteletojn
 boteleton
 botelfermilo
 boteligi
+botelkukurbo
 botelmalfermilo
 botelo
 botelo de Leiden
@@ -21171,6 +21250,7 @@ bovo
 bovofreneziĝo
 bovoj
 bovojn
+bovokulo
 bovolakto
 bovon
 bovtintilo
@@ -21308,6 +21388,7 @@ bravajn
 bravan
 bravaĉa
 brave
+braveco
 bravulo
 bravura
 bravuro
@@ -21323,6 +21404,7 @@ brazilano
 brazilanoj
 brazilanojn
 brazilanon
+brazileco
 braĝo
 breco
 bredanta
@@ -21410,8 +21492,10 @@ bretonon
 breviero
 breĉeto
 breĉi
-breĉiĝi
 breĉo
+breĉoj
+breĉojn
+breĉon
 brido
 bridoj
 bridojn
@@ -21482,6 +21566,7 @@ britaj
 britajn
 britan
 brite
+britestro
 britigi
 brito
 britoj
@@ -21790,6 +21875,7 @@ brulbombo
 brulbomboj
 brulbombojn
 brulbombon
+brulbotelo
 brulego
 brulegoj
 brulegojn
@@ -21910,8 +21996,10 @@ bruliĝonton
 bruliĝos
 bruliĝu
 bruliĝus
+brulkamero
 brulkrimo
 brulkrimon
+brulligno
 brulmuŝeto
 brulo
 bruloj
@@ -21989,6 +22077,7 @@ brulvundotojn
 brulvundoton
 brulvundu
 brulvundus
+brulŝnuro
 brumero
 bruna
 bruna falko
@@ -22408,6 +22497,7 @@ burito
 burko
 burleska
 burnuso
+buro
 burokrataro
 burokrataroj
 burokratarojn
@@ -22424,6 +22514,7 @@ burso
 bursoj
 bursojn
 burson
+burtforta metodo
 burĝaro
 burĝino
 burĝinoj
@@ -22477,6 +22568,7 @@ buteoj
 buteojn
 buteon
 buterarbo
+buterigilo
 buterlakto
 butero
 buterograso
@@ -22751,9 +22843,11 @@ cedemaj
 cedemajn
 cedeman
 cedemo
+cedemulo
 cedi
 cedi al
 cedigi
+cedilo
 cedinta
 cedintaj
 cedintajn
@@ -23086,11 +23180,13 @@ centralojn
 centralon
 centran
 centre
+centri
 centrifuga forto
 centrifugilo
 centrifugiloj
 centrifugilojn
 centrifugilon
+centrigi
 centriolo
 centrioloj
 centriolojn
@@ -23101,6 +23197,7 @@ centrismaj
 centrismajn
 centrisman
 centro
+centro de atento
 centroj
 centrojn
 centron
@@ -23189,6 +23286,7 @@ ceramikoj
 ceramikojn
 ceramikon
 cerba
+cerba morto
 cerba paralizo
 cerba ponto
 cerba trunko
@@ -23500,6 +23598,9 @@ chia
 chiam
 chie
 chielo
+chieloj
+chielojn
+chielon
 chimichango
 chimichangoj
 chimichangojn
@@ -23574,7 +23675,6 @@ ciferecajn
 ciferecan
 ciferecigilo
 cifero
-cifero ()
 ciferoj
 ciferojn
 ciferon
@@ -23622,6 +23722,10 @@ cikatron
 ciklisto
 ciklo
 ciklo de akvo
+cikloido
+cikloidoj
+cikloidojn
+cikloidon
 ciklono
 ciklonoj
 ciklonojn
@@ -24023,7 +24127,6 @@ citozoj
 citozojn
 citozon
 citrata acido
-citrinarbo
 citro
 citroj
 citrojn
@@ -24037,6 +24140,7 @@ citronarbejo
 citronarbejoj
 citronarbejojn
 citronarbejon
+citronarbo
 citronherbo
 citrono
 citronoj
@@ -24142,12 +24246,14 @@ co
 co-oj
 co-ojn
 co-on
+codoromo
 colo
 coloj
 colojn
 colon
 color blind
 comptilo
+criproĉi}}
 cugo
 cumo
 cunamo
@@ -24619,6 +24725,7 @@ dangxeroj
 dangxerojn
 dangxeron
 danhundo
+daniano
 danigi
 dank' al
 dank' al Dio
@@ -24675,6 +24782,7 @@ dankito
 dankitoj
 dankitojn
 dankiton
+dankmono
 danko
 dankoj
 dankojn
@@ -24869,6 +24977,7 @@ dazipo
 dazipoj
 dazipojn
 dazipon
+daĉo
 daŭra
 daŭragusto
 daŭragustoj
@@ -25551,6 +25660,16 @@ deflorotojn
 defloroton
 defloru
 deflorus
+defluas
+deflui
+defluilo
+defluiloj
+defluilojn
+defluilon
+defluis
+defluos
+defluu
+defluus
 degelanta
 degelantaj
 degelantajn
@@ -25623,6 +25742,7 @@ degnis
 degnos
 degnu
 degnus
+degradado
 degradanta
 degradantaj
 degradantajn
@@ -25747,12 +25867,15 @@ dehakoton
 dehaku
 dehakus
 dehidratiĝo
+deikta
+deikto
 dek
 dek ...
 dek du
 dek kvar
 dek kvara
 dek kvin
+dek kvin minutoj da gloro
 dek kvina
 dek mil
 dek naŭ
@@ -26929,15 +27052,17 @@ derivaĵo
 derivaĵoj
 derivaĵojn
 derivaĵon
+derma
 dermatologio
 dermatologo
 dermesto
+dermo
 derviŝo
 derviŝoj
 derviŝojn
 derviŝon
 des
-des mapli
+des malpli
 des pli
 desalti
 descendanta
@@ -27088,6 +27213,7 @@ detaloj
 detalojn
 detalon
 detekti
+detektivado
 detektivino
 detektivo
 detektivoj
@@ -27229,6 +27355,7 @@ detruoton
 detruu
 detruus
 deturni
+devanagario
 devanta
 devantaj
 devantajn
@@ -27385,6 +27512,7 @@ dezajnoj
 dezajnojn
 dezajnon
 dezerta
+dezerta urbo
 dezertaj
 dezertajn
 dezertan
@@ -27712,6 +27840,7 @@ diagramo de Hertzsprung-Russell
 diaj
 diajn
 diakono
+diakrita
 diakrita signo
 diakritilo
 dialekta
@@ -28241,6 +28370,7 @@ dikfingro
 dikfingroj
 dikfingrojn
 dikfingron
+diktafono
 diktamno
 diktanta
 diktantaj
@@ -28262,6 +28392,7 @@ diktatoj
 diktatojn
 diktaton
 diktatoreco
+diktatoreco de la proletaro
 diktatoro
 diktatoroj
 diktatorojn
@@ -28423,6 +28554,7 @@ diplomo
 diplomoj
 diplomojn
 diplomon
+diporto
 dipsomanio
 dipsomanion
 dipsomaniulo
@@ -28570,6 +28702,7 @@ diritojn
 diriton
 dirlididi
 dirmaniero
+dirndelo
 diro
 diroj
 dirojn
@@ -28601,6 +28734,10 @@ disakaridoj
 disakaridojn
 disakaridon
 disblovi
+disciplina
+disciplinaj
+disciplinajn
+disciplinan
 disciplinanta
 disciplinantaj
 disciplinantajn
@@ -28663,6 +28800,8 @@ disciplinoton
 disciplinu
 disciplinus
 disde
+disdegni
+disdegno
 disdividanta
 disdividantaj
 disdividantajn
@@ -28792,6 +28931,7 @@ disdonoton
 disdonu
 disdonus
 dise
+dise-mise
 disenterio
 disenterion
 diserigi
@@ -28806,6 +28946,7 @@ disertaĵojn
 disertaĵon
 diserti
 diservo
+disfagio
 disfali
 disfalo
 disfalon
@@ -28842,6 +28983,7 @@ disfloronton
 disfloros
 disfloru
 disflorus
+disflui
 disforia
 disforio
 disfroti
@@ -29288,6 +29430,7 @@ disligotojn
 disligoton
 disligu
 disligus
+dislimi
 dismaŝigo
 disneniiĝi
 dispelanta
@@ -29369,6 +29512,7 @@ disponantojn
 disponanton
 disponas
 disponaĵo
+disponebla
 disponeblo
 disponi
 disponigi
@@ -29468,8 +29612,9 @@ disputoton
 disputu
 disputus
 dispuŝi
+disreviĝo
 disrompita
-dissalti ()
+dissalti
 dissaltigi
 dissemas
 dissemi
@@ -29762,6 +29907,8 @@ disvastiĝo
 disvastiĝoj
 disvastiĝojn
 disvastiĝon
+disverŝi
+disverŝiĝi
 disvolvado
 disvolvadoj
 disvolvadojn
@@ -30063,6 +30210,7 @@ diversonton
 diversos
 diversu
 diversus
+diverĝi
 dividado
 dividanta
 dividantaj
@@ -30173,6 +30321,7 @@ divorco
 divorcoj
 divorcojn
 divorcon
+dizellokomotivo
 dizelmotoro
 dizelmotoroj
 dizelmotorojn
@@ -30216,6 +30365,7 @@ dogma
 dogmaj
 dogmajn
 dogman
+dogmema
 dogmo
 dogmoj
 dogmojn
@@ -30392,7 +30542,6 @@ dolorigatoj
 dolorigatojn
 dolorigaton
 dolorigi
-dolorigi ()
 doloriginta
 dolorigintaj
 dolorigintajn
@@ -30443,6 +30592,7 @@ dolorintoj
 dolorintojn
 dolorinton
 doloris
+doloriĝi
 doloro
 doloroj
 dolorojn
@@ -30466,6 +30616,7 @@ dolorĝemos
 dolorĝemu
 dolorĝemus
 dolĉa
+dolĉa terpomo
 dolĉa ĉerizo
 dolĉaj
 dolĉaj ĉerizoj
@@ -30559,7 +30710,6 @@ domajnoj
 domajnojn
 domajnon
 doman ŝteliston
-domanaro
 domaro
 domaroj
 domarojn
@@ -30589,6 +30739,7 @@ dometo
 dometoj
 dometojn
 dometon
+domfesto
 dominanta
 dominantaj
 dominantajn
@@ -30924,6 +31075,7 @@ dormoĉambro
 dormoĉambroj
 dormoĉambrojn
 dormoĉambron
+dormsako
 dormu
 dormulino
 dormulo
@@ -30937,7 +31089,6 @@ dorno
 dornoj
 dornojn
 dornon
-dorse
 dorso
 dorsoflanko
 dorsoflankoj
@@ -31078,6 +31229,7 @@ draŝiloj
 draŝilojn
 draŝilon
 draŝmaŝino
+draŭgro
 dreliko
 drenilo
 dresi
@@ -31195,6 +31347,7 @@ drogestro
 drogita
 drogiĝi
 drogo
+drogon
 drogumi
 drola
 drolaj
@@ -31491,6 +31644,7 @@ dudekkvaraj
 dudekkvarajn
 dudekkvaran
 dudekkvaredro
+dudekkvaruma sistemo
 dudekkvarĉelo
 dudekkvin
 dudekkvina
@@ -31636,6 +31790,7 @@ dukolora mielvorulo
 dukomponanta
 dukon
 dukonveksa
+dukorno
 dukto
 duktoj
 duktojn
@@ -31799,6 +31954,7 @@ duobligito
 duobligitoj
 duobligitojn
 duobligiton
+duobligo
 duobligonta
 duobligontaj
 duobligontajn
@@ -31910,6 +32066,7 @@ duonjaraj
 duonjarajn
 duonjaran
 duonjaro
+duonkodo
 duonkonduktanto
 duonkonduktaĵo
 duonkonduktaĵoj
@@ -31949,6 +32106,7 @@ duonvokalojn
 duonvokalon
 duonvoĉe
 duopa
+duopa faktorialo
 duopaj
 duopajn
 duopan
@@ -31960,6 +32118,10 @@ duopon
 duparta
 dupaŝo
 dupi
+dupiedulo
+dupieduloj
+dupiedulojn
+dupiedulon
 dupiramido
 dupiramidoj
 dupiramidojn
@@ -31981,12 +32143,18 @@ duriojn
 duriujo
 dusekcanto
 dusekseco
+dusemajna
 dusenca
 dusencaj
 dusencajn
 dusencan
 dusencaĵo
+dushas
 dushi
+dushis
+dushos
+dushu
+dushus
 duspirita
 duspiritulo
 dusxi
@@ -32027,7 +32195,6 @@ duŝejojn
 duŝejon
 duŝi
 duŝilo
-duŝilo ()
 duŝiloj
 duŝilojn
 duŝilon
@@ -32053,7 +32220,6 @@ duŝiton
 duŝkapo
 duŝkurteno
 duŝo
-duŝo ()
 duŝoj
 duŝojn
 duŝon
@@ -32304,9 +32470,12 @@ ecoj
 ecojn
 econ
 ecx
+edafologio
+edama fromaĝo
 edemo
 ediakara
 ediakaro
+edifi
 edikto
 ediktoj
 ediktojn
@@ -32644,7 +32813,9 @@ efektoj
 efektojn
 efekton
 efemera
+efemera momenta
 efemero
+eferveska
 eferveski
 efika
 efikaj
@@ -32759,7 +32930,6 @@ egalvenkatoj
 egalvenkatojn
 egalvenkaton
 egalvenki
-egalvenki ()
 egalvenkinta
 egalvenkintaj
 egalvenkintajn
@@ -33271,7 +33441,6 @@ ekflugantojn
 ekfluganton
 ekflugas
 ekflugi
-ekflugi ()
 ekfluginta
 ekflugintaj
 ekflugintajn
@@ -33566,6 +33735,12 @@ eklaboros
 eklaboru
 eklaborus
 eklampsio
+eklektika
+eklektikaj
+eklektikajn
+eklektikan
+eklektikismo
+eklektikismon
 eklerni
 eklezia
 ekleziestro
@@ -34140,6 +34315,7 @@ ekscitus
 ekscitvesto
 eksciu
 ekscius
+ekscizo
 eksedzino
 eksedziĝo
 eksedziĝoj
@@ -34381,6 +34557,7 @@ ekskurso
 ekskursoj
 ekskursojn
 ekskurson
+ekslibriso
 eksoni
 eksonimo
 eksosfero
@@ -34694,6 +34871,7 @@ ekspluatotojn
 ekspluatoton
 ekspluatu
 ekspluatus
+eksponento
 eksponi
 ekspono
 eksponoj
@@ -34844,6 +35022,7 @@ eksteraĵoj
 eksteraĵojn
 eksteraĵon
 ekstercena voĉo
+eksterdoni
 ekstere
 eksteredzeca infano
 eksteredzeco
@@ -35422,7 +35601,6 @@ el la fundo de la koro
 el ĉiuj tempoj
 el-
 elakompani
-elakompani ()
 elangligi
 elanio
 elano
@@ -35652,7 +35830,6 @@ eldonoton
 eldonu
 eldonus
 elefanta
-elefantaro
 elefantino
 elefantinoj
 elefantinojn
@@ -35843,6 +36020,7 @@ elektrigus
 elektrizi
 elektro
 elektro-
+elektroaŭto
 elektrobiologio
 elektrobiologion
 elektrodinamiko
@@ -35993,6 +36171,7 @@ elflatis
 elflatos
 elflatu
 elflatus
+elflui
 elfo
 elfoj
 elfojn
@@ -36808,6 +36987,7 @@ elŝaltotojn
 elŝaltoton
 elŝaltu
 elŝaltus
+elŝarĝi
 elŝipiĝanta
 elŝipiĝantaj
 elŝipiĝantajn
@@ -36948,6 +37128,8 @@ embrioj
 embriojn
 embriologio
 embrion
+embusko
+emerito
 emerĝi
 emfazi
 emfazo
@@ -36987,7 +37169,6 @@ emociajn
 emocian
 emocie
 emocii
-emocii ()
 emocio
 emocioj
 emociojn
@@ -37145,6 +37326,7 @@ enfluejo
 enfluejoj
 enfluejojn
 enfluejon
+enfokusigi
 engaĝi
 engaĝo
 englo
@@ -37217,6 +37399,11 @@ enhavu
 enhavus
 enhejma perforto
 enhejma violento
+eniga klavo
+enigilo
+enigiloj
+enigilojn
+enigilon
 enigma
 enigmaj
 enigmajn
@@ -37650,6 +37837,7 @@ enposteniĝo
 enposteniĝoj
 enposteniĝojn
 enposteniĝon
+enpoŝigi
 enprizoniganta
 enprizonigantaj
 enprizonigantajn
@@ -37877,6 +38065,7 @@ enterigoton
 enterigu
 enterigus
 enterovakcino
+entjera
 entjero
 entjeroj
 entjerojn
@@ -38322,6 +38511,7 @@ eoston
 epenteza
 epenteze
 epentezo
+epicikloido
 epidemia
 epidemio
 epidemioj
@@ -38469,6 +38659,7 @@ ergativo
 ergo
 ergometro
 ergonomio
+erikejo
 eriko
 erikoj
 erikojn
@@ -38629,7 +38820,6 @@ eseojn
 eseon
 esivo
 eskadro
-eskadro ()
 eskadrono
 eskalanta
 eskalantaj
@@ -38934,6 +39124,7 @@ esperantologio
 esperantologion
 esperantologo
 esperanton
+esperantoparolanto
 esperantumado
 esperantumas
 esperantumi
@@ -38986,7 +39177,6 @@ esplorantajn
 esplorantan
 esplorante
 esploranto
-esploranto ()
 esplorantoj
 esplorantojn
 esploranton
@@ -39020,7 +39210,6 @@ esplorintojn
 esplorinton
 esploris
 esploristo
-esploristo ()
 esploristoj
 esploristojn
 esploriston
@@ -39034,7 +39223,6 @@ esploritoj
 esploritojn
 esploriton
 esploro
-esploro ()
 esploroj
 esplorojn
 esploron
@@ -39533,6 +39721,7 @@ etanolon
 etanon
 etapo
 etato
+etaĝlito
 etaĝo
 etaĝoj
 etaĝojn
@@ -40156,6 +40345,7 @@ evoluonton
 evoluos
 evoluu
 evoluus
+exosyangyo cyiujyawde
 ezofaga
 ezofago
 ezoko
@@ -40306,6 +40496,12 @@ eŭstazio
 eŭtanazio
 f
 f italino
+f*k
+f*ka
+f*kfek
+f*ki
+f*kinda
+f*ko
 f-ino
 f-inoj
 f-inojn
@@ -40547,7 +40743,6 @@ facilos
 facilu
 facilus
 faco
-faco ()
 facoj
 facojn
 facon
@@ -40591,7 +40786,6 @@ fajfaton
 fajfi
 fajfi pri
 fajfilo
-fajfilo ()
 fajfinta
 fajfintaj
 fajfintajn
@@ -40923,6 +41117,7 @@ fakto
 faktoj
 faktojn
 fakton
+faktorialo
 faktoro
 faktoroj
 faktorojn
@@ -41032,6 +41227,7 @@ falato
 falatoj
 falatojn
 falaton
+falbalo
 faldas
 faldi
 faldo
@@ -41040,6 +41236,7 @@ falegoj
 falegojn
 falegon
 faleristiko
+faleti
 falfolia
 fali
 fali de sitelo en barelon
@@ -41152,6 +41349,7 @@ faloto
 falotoj
 falotojn
 faloton
+falpuŝiĝi
 falsa
 falsa amiko
 falsa haringo
@@ -41306,6 +41504,7 @@ fandato
 fandatoj
 fandatojn
 fandaton
+fandaĵo
 fandi
 fandinta
 fandintaj
@@ -41360,6 +41559,7 @@ fandiĝos
 fandiĝu
 fandiĝus
 fando
+fandogardilo
 fandoj
 fandojn
 fandon
@@ -41853,6 +42053,7 @@ fasadon
 fascina
 fascinan
 fascini
+fasko
 fasmo
 fasonanta
 fasonantaj
@@ -42127,7 +42328,6 @@ faŭkantojn
 faŭkanton
 faŭkas
 faŭki
-faŭki ()
 faŭkinta
 faŭkintaj
 faŭkintajn
@@ -42309,7 +42509,6 @@ fekunda
 fekundeco
 fekundigi
 fekus
-felanaro
 felanino
 felano
 feldspato
@@ -42363,15 +42562,15 @@ feliĉigi
 feliĉiĝi
 feliĉo
 feliĉon
-felkostumado
+feliĉu
 felkostumo
-felkostumulo
 felo
 feloj
 felojn
 felon
 felpersono
 felsono
+feltharoj
 feltkrajono
 feltkrajonoj
 feltkrajonojn
@@ -42435,6 +42634,7 @@ fendu
 fendus
 feneko
 fenestra
+fenestraĵo
 fenestreto
 fenestretoj
 fenestretojn
@@ -42749,7 +42949,6 @@ festonton
 festos
 festota
 festotago
-festotago ()
 festotagoj
 festotagojn
 festotagon
@@ -42788,6 +42987,7 @@ fezoj
 fezojn
 fezon
 feĉo
+feĉon
 feĉulo
 feŭda
 feŭdaj
@@ -42798,6 +42998,7 @@ feŭdestro
 feŭdismo
 feŭdo
 fi
+fi!
 fi-
 fia
 fiaj
@@ -43083,7 +43284,6 @@ fifroj
 fifrojn
 fifron
 figarbo
-figarbo ()
 figarboj
 figarbojn
 figarbon
@@ -43163,6 +43363,7 @@ figurotojn
 figuroton
 figuru
 figurus
+fihelpanto
 fiherbo
 fiherboj
 fiherbojn
@@ -43572,7 +43773,7 @@ filtrito
 filtritoj
 filtritojn
 filtriton
-filtriĝi ()
+filtriĝi
 filtronta
 filtrontaj
 filtrontajn
@@ -43611,6 +43812,7 @@ finalojn
 finalon
 finan
 financa
+financa merkato
 financaj
 financajn
 financan
@@ -43855,6 +44057,7 @@ finiĝus
 finna
 finna lingvo
 finnigi
+finnlandano
 finnlingvano
 finno
 finnparolanto
@@ -44079,6 +44282,8 @@ firmonomo
 firmonomoj
 firmonomojn
 firmonomon
+firmprogramo
+firmvaro
 fishajho
 fishajhoj
 fishajhojn
@@ -44116,6 +44321,7 @@ fivortojn
 fivorton
 fizika
 fizika geografio
+fizika grando
 fizikaj
 fizikajn
 fizikan
@@ -44141,7 +44347,6 @@ fizioterapiisto
 fizioterapio
 fiĝia lingvo
 fiŝa
-fiŝa ()
 fiŝa kato
 fiŝaglo
 fiŝaj
@@ -44149,7 +44354,6 @@ fiŝajn
 fiŝan
 fiŝaro
 fiŝaĵo
-fiŝaĵo ()
 fiŝaĵoj
 fiŝaĵojn
 fiŝaĵon
@@ -44164,7 +44368,6 @@ fiŝisto
 fiŝistoj
 fiŝistojn
 fiŝiston
-fiŝiĉo
 fiŝkaptado
 fiŝkaptadoj
 fiŝkaptadojn
@@ -44422,10 +44625,10 @@ flandro
 flanka
 flankaj
 flankajn
+flankalflanke
 flankan
 flankapunkta arbanaso
 flanke
-flanke ()
 flanken
 flankenlasanta
 flankenlasantaj
@@ -44501,7 +44704,6 @@ flankĉaroj
 flankĉarojn
 flankĉaron
 flano
-flano ()
 flanĝita
 flanĝo
 flaranta
@@ -44662,7 +44864,6 @@ flavetajn
 flavetan
 flavgriza
 flavi
-flavi ()
 flavinta
 flavintaj
 flavintajn
@@ -44937,6 +45138,7 @@ fleksoton
 fleksu
 fleksus
 flerovio
+fleso
 flibustro
 flibustroj
 flibustrojn
@@ -45065,7 +45267,6 @@ flosaĵoj
 flosaĵojn
 flosaĵon
 flosi
-flosi ()
 flosiganta
 flosigantaj
 flosigantajn
@@ -45167,6 +45368,7 @@ fluantoj
 fluantojn
 fluanton
 fluas
+fluaĵa
 fluaĵo
 flue
 flueco
@@ -45195,7 +45397,6 @@ flugaparatoj
 flugaparatojn
 flugaparaton
 flugarmeisto
-flugarmeisto ()
 flugarmeistoj
 flugarmeistojn
 flugarmeiston
@@ -45302,10 +45503,8 @@ flugpendos
 flugpendu
 flugpendus
 flugpilkado
-flugpilkado ()
 flugpilkadon
 flugpilko
-flugpilko ()
 flugpilkoj
 flugpilkojn
 flugpilkon
@@ -45353,6 +45552,7 @@ fluos
 flupost
 flusablo
 flusego
+fluskemo
 flustranta
 flustrantaj
 flustrantajn
@@ -45435,6 +45635,7 @@ fobio
 fobioj
 fobiojn
 fobion
+foceno
 foino
 foiro
 foiroj
@@ -45454,6 +45655,7 @@ fojo
 fojoj
 fojojn
 fojon
+fokatĉo
 fokido
 foko
 fokoj
@@ -45476,6 +45678,7 @@ folioŝtormojn
 folioŝtormon
 foliumas
 foliumi
+foliumilo
 foliumis
 foliumos
 foliumu
@@ -45560,6 +45763,7 @@ fondoton
 fondu
 fondus
 fone
+fonemo
 fonetika
 fonetikaj
 fonetikajn
@@ -45599,6 +45803,7 @@ for de l’ okuloj, for de la koro
 for el
 for kun la feinoj
 for!
+for-
 fora
 foraj
 forajn
@@ -45778,6 +45983,7 @@ forestonton
 forestos
 forestu
 forestus
+forf*kiĝu
 forfikiĝu
 forfikulo
 forfluganta
@@ -45813,6 +46019,7 @@ forflugonton
 forflugos
 forflugu
 forflugus
+forflui
 forfluo
 forfrotiĝo
 forgalopi
@@ -46002,7 +46209,8 @@ forkapti
 forkapto
 forkego
 forketo
-forkisi ()
+forkisi
+forkiĝi
 forko
 forkoj
 forkojn
@@ -46015,6 +46223,7 @@ forkomentanto
 forkomentantoj
 forkomentantojn
 forkomentanton
+forkomentarigi
 forkomentas
 forkomentata
 forkomentataj
@@ -47446,6 +47655,7 @@ fotokopion
 fotokopios
 fotokopiu
 fotokopius
+fotomuntaĵo
 foton
 fotono
 fotonoj
@@ -47664,6 +47874,7 @@ frankoj
 frankojn
 frankon
 frankoprovenca lingvo
+franĝa kulturo
 franĝo
 frapanta
 frapantaj
@@ -47684,6 +47895,7 @@ frapato
 frapatoj
 frapatojn
 frapaton
+frapego
 frapi
 frapinta
 frapintaj
@@ -47941,6 +48153,7 @@ frenezeta
 frenezetaj
 frenezetajn
 frenezetan
+frenezi
 freneziga
 frenezigi
 freneziĝi
@@ -48461,7 +48674,6 @@ fukojn
 fukon
 fukozo
 fuksina
-fuksina ()
 fuksinaj
 fuksinajn
 fuksinan
@@ -48524,6 +48736,8 @@ fumaĵoj
 fumaĵojn
 fumaĵon
 fumi
+fumigacii
+fumigacio
 fuminta
 fumintaj
 fumintajn
@@ -48752,6 +48966,7 @@ funikularoj
 funikularojn
 funikularon
 funka
+funkcia grupo
 funkcianta
 funkciantaj
 funkciantajn
@@ -48840,6 +49055,7 @@ furiozonton
 furiozos
 furiozu
 furiozus
+furniro
 furo
 furoj
 furojn
@@ -49076,16 +49292,19 @@ galaksio
 galaksioj
 galaksiojn
 galaksion
+galaktozo
 galanta
 galantaj
 galantajn
 galantan
+galanterio
 galantino
 galanto
 galegino
 galego
 galeno
 galerio
+galero
 galerpuno
 galicianino
 galiciano
@@ -49097,6 +49316,8 @@ galio
 galiumo
 galiumon
 galo
+galoa
+galoa lingvo
 galoj
 galojn
 galon
@@ -49128,6 +49349,7 @@ ganaano
 ganaigi
 ganaĉo
 ganglio
+gango
 gangreno
 gangrenoj
 gangrenojn
@@ -49435,7 +49657,9 @@ gastroenterito
 gastroenterologio
 gastronomio
 gastronomion
+gasttradukilo
 gastu
+gasturbino
 gastus
 gasujo
 gasumas
@@ -49451,6 +49675,8 @@ gazelon
 gazetanonco
 gazetara konferenco
 gazetarkonferenco
+gazetaro
+gazetaĉo
 gazetema
 gazetemaj
 gazetemajn
@@ -49479,12 +49705,15 @@ gazontondilo
 gazontondisto
 gaŭlino
 gaŭlo
+gaŭro
+gaŭsa
 gaŭĉo
 gaŭĉoj
 gaŭĉojn
 gaŭĉon
 ge-
 gea
+geabortigistoj
 geamantoj
 geamantojn
 geamikoj
@@ -49543,8 +49772,9 @@ geedzoringo
 geepiskopoj
 geesperantistoj
 gefianĉo
-gefianĉoj ()
+gefianĉoj
 gefilo
+gefiloj
 gefrato
 gefratoj
 gefratojn
@@ -49647,6 +49877,7 @@ genetika
 genetiko
 genetikon
 genevo
+genevoj
 genforigo
 genia
 geniaj
@@ -49791,11 +50022,14 @@ gepatroj
 gepatrojn
 gepatron
 gepraavo
+gepraavoj
 geprinco
+geprincoj
 gereĝo
 gereĝoj
 gereĝojn
 gereĝon
+geriatria
 geriatrio
 geriso
 germana
@@ -49828,6 +50062,8 @@ germanparolantojn
 germanparolanton
 gero
 gerontokratio
+gerontologio
+gerontologo
 ges-roj
 gesinjoro
 gesinjoroj
@@ -49853,7 +50089,14 @@ getaon
 geto
 getrovantoj, gegardantoj
 gevidvo
+geĝui
+geĝuo
 gh
+ghangalo
+ghangaloj
+ghangalojn
+ghangalon
+ghardenado
 ghardeno
 ghardenoj
 ghardenojn
@@ -49946,7 +50189,6 @@ gigantaj
 gigantajn
 gigantan
 giganto
-giganto ()
 gigantoj
 gigantojn
 giganton
@@ -50134,6 +50376,7 @@ giĉetoj
 giĉetojn
 giĉeton
 gjako
+glabelo
 glaceo
 glaceoj
 glaceojn
@@ -50158,12 +50401,14 @@ glaciaron
 glaciaĵisto
 glaciaĵo
 glaciaĵon
+glacibloketo
 glaciejo
 glaciejoj
 glaciejojn
 glaciejon
 glaciepoko
 glacihokeo
+glaciinsulo
 glacikampo
 glacikampoj
 glacikampojn
@@ -50171,6 +50416,7 @@ glacikampon
 glacikampooj
 glacikampoojn
 glacikampoon
+glacikubo
 glacilaktuko
 glacimonto
 glacimontoj
@@ -50379,7 +50625,7 @@ glavo de Damoklo
 glavoj
 glavojn
 glavon
-glavsaltulo ()
+glavsaltulo
 glazuranta
 glazurantaj
 glazurantajn
@@ -50447,6 +50693,7 @@ glaĉero
 glaĉeroj
 glaĉerojn
 glaĉeron
+glaŭka
 glebo
 gleboj
 glebojn
@@ -50536,6 +50783,7 @@ glitintoj
 glitintojn
 glitinton
 glitis
+glitkurado
 glitkuranta
 glitkurantaj
 glitkurantajn
@@ -50888,6 +51136,7 @@ gondolo
 gondoloj
 gondolojn
 gondolon
+gongo
 gonoreo
 goo
 gooj
@@ -51076,7 +51325,6 @@ grandskalaj
 grandskalajn
 grandskalan
 grandulo
-grandulo ()
 granduloj
 grandulojn
 grandulon
@@ -51119,6 +51367,7 @@ grasulojn
 grasulon
 grati
 gratifikacio
+gratifiki
 gratifiko
 gratifo
 gratis
@@ -51268,6 +51517,8 @@ gravinto
 gravintoj
 gravintojn
 gravinton
+graviolbero
+graviolo
 gravis
 gravita interago
 gravita lenso
@@ -51497,6 +51748,7 @@ griza kronogruo
 griza mevo
 griza tringo
 griza tufparuo
+griza urso
 grizaj
 grizajn
 grizan
@@ -51653,7 +51905,6 @@ guglontoj
 guglontojn
 guglonton
 gugloplekso
-gugloplekso ()
 guglos
 guglota
 guglotaj
@@ -51820,6 +52071,7 @@ gustontoj
 gustontojn
 gustonton
 gustos
+gustosenso
 gustota
 gustotaj
 gustotajn
@@ -51952,6 +52204,7 @@ gvamano
 gvarania
 gvardio
 gvati
+gvatnesto
 gvatoturo
 gvatoturoj
 gvatoturojn
@@ -52095,6 +52348,11 @@ gvidus
 gvineanino
 gvineano
 gx
+gxangalo
+gxangaloj
+gxangalojn
+gxangalon
+gxardenado
 gxardeno
 gxardenoj
 gxardenojn
@@ -52171,6 +52429,7 @@ h-sistemon
 ha
 ha lo
 habilitiĝo
+habubo
 hadrono
 hadronoj
 hadronojn
@@ -52430,6 +52689,7 @@ hangaron
 hangulo
 hantado
 hanti
+hapakso
 harakiro
 hararo
 hararon
@@ -52561,9 +52821,7 @@ hatoton
 hatu
 hatus
 hava
-hava ()
 havaja
-havaja ()
 havaja kolĉeno
 havaja lingvo
 havajaj
@@ -52753,6 +53011,7 @@ haŭsa
 haŭsa lingvo
 haŭsi
 haŭso
+haŭsoj
 haŭtero
 haŭtkancero
 haŭtkremo
@@ -52771,7 +53030,6 @@ haŭzo
 he
 he ho
 hebrea
-hebrea ()
 hebrea (la hebrea, la hebrea lingvo)
 hebreaj
 hebreajn
@@ -52779,6 +53037,9 @@ hebrean
 hebreigi
 hebreino
 hebreo
+hebreoj
+hebreojn
+hebreon
 hedero
 hederoj
 hederojn
@@ -52789,6 +53050,10 @@ hedonismajn
 hedonisman
 hedonismo
 hedonismon
+hedonisto
+hedonistoj
+hedonistojn
+hedoniston
 hegela
 hegemonio
 hegemonioj
@@ -52935,6 +53200,7 @@ hela nebulozo
 helaj
 helajn
 helan
+heldenso
 hele
 heleboro
 heleboroj
@@ -52952,7 +53218,6 @@ helenoj
 helenojn
 helenon
 helico
-helico ()
 helicoj
 helicojn
 helicon
@@ -53015,6 +53280,7 @@ heliĝos
 heliĝu
 heliĝus
 helo
+helodenso
 helon
 help
 help!
@@ -53304,6 +53570,9 @@ heroojn
 heroon
 herpesto
 herpeto
+herpetoj
+herpetojn
+herpeton
 herso
 hetajro
 hetajroj
@@ -53338,7 +53607,6 @@ hhoro
 hhoroj
 hhorojn
 hhoron
-hhoruso
 hiacinto
 hiacintoj
 hiacintojn
@@ -53365,6 +53633,7 @@ hidrogena cianido
 hidrogena peroksido
 hidrogeno
 hidrogenon
+hidrografio
 hidrokarbono
 hidrokarbonoj
 hidrokarbonojn
@@ -53573,12 +53842,16 @@ hipnotoj
 hipnotojn
 hipnoton
 hipocentro
+hipocikloido
 hipodromo
+hipofagio
 hipofiza
 hipofizito
 hipofizo
 hipokampo
 hipokapnio
+hipokaŝtano
+hipoklorita akvo
 hipokondria
 hipokondriulo
 hipokrita
@@ -53591,7 +53864,6 @@ hipokritaĵojn
 hipokritaĵon
 hipokrite
 hipokriteco
-hipokriteco ()
 hipokritecon
 hipokriti
 hipokrito
@@ -53695,6 +53967,7 @@ histonoj
 histonojn
 histonon
 historia
+historia materiismo
 historiaj
 historiajn
 historian
@@ -53745,6 +54018,7 @@ hodiaŭaj
 hodiaŭajn
 hodiaŭan
 hodiaŭe
+hodiaŭo
 hodometro
 hoj!
 hojlas
@@ -53764,6 +54038,7 @@ hoketon
 hoko
 hokoj
 hokojn
+hokokruco
 hokon
 hoktriki
 hola
@@ -53976,6 +54251,7 @@ honte
 hontema
 hontemo
 honti
+hontiga
 hontiganta
 hontigantaj
 hontigantajn
@@ -54036,6 +54312,7 @@ hontigotojn
 hontigoton
 hontigu
 hontigus
+hontinda
 hontinta
 hontintaj
 hontintajn
@@ -54131,6 +54408,7 @@ hospitaloj
 hospitalojn
 hospitalon
 hostio
+hot
 hotdogo
 hotdogoj
 hotdogojn
@@ -54159,7 +54437,8 @@ hufuloj
 hufulojn
 hufulon
 hufumisto
-hufumludo ()
+hufumkrabo
+hufumludo
 hufumo
 hufumoj
 hufumojn
@@ -54173,6 +54452,20 @@ humanaj
 humanajn
 humanan
 humane
+humaneco
+humanecon
+humanigas
+humanigi
+humanigis
+humanigos
+humanigu
+humanigus
+humanismo
+humanismon
+humanisto
+humanistoj
+humanistojn
+humaniston
 humero
 humida
 humideco
@@ -54403,7 +54696,6 @@ hxoro
 hxoroj
 hxorojn
 hxoron
-hxoruso
 hyrako
 i
 i-
@@ -54839,6 +55131,7 @@ igvanojn
 igvanon
 igxi
 ikono
+ikonografio
 ikonoklasmo
 ikonostazo
 ikoro
@@ -54849,7 +55142,6 @@ iksodo
 iksoj
 iksojn
 iksokodo
-iksokodo ()
 ikson
 iktero
 iktiologia
@@ -55145,6 +55437,7 @@ impedanco
 imperativo
 imperfekta
 imperfekto
+imperfekton
 imperia
 imperialisma
 imperialismaj
@@ -55589,6 +55882,7 @@ indiga
 indigaj
 indigajn
 indigan
+indigno
 indigo
 indigujo
 indikanta
@@ -55618,7 +55912,7 @@ indikato
 indikatoj
 indikatojn
 indikaton
-indikaĵo ()
+indikaĵo
 indiki
 indikilo
 indikinta
@@ -55778,7 +56072,6 @@ inerteco
 inertecon
 inertforto
 infana
-infana ()
 infana ludo
 infanaj
 infanajn
@@ -55787,7 +56080,7 @@ infanaĉo
 infanaĉoj
 infanaĉojn
 infanaĉon
-infanaĝa ()
+infanaĝa
 infanaĝo
 infanaĝon
 infanaĵa
@@ -55802,10 +56095,10 @@ infanetojn
 infaneton
 infanigi
 infanino
-infanino ()
 infaninoj
 infaninojn
 infaninon
+infanlaboro
 infanmurdintino
 infanmurdinto
 infanmurdo
@@ -56108,6 +56401,7 @@ influintoj
 influintojn
 influinton
 influis
+influisto
 influita
 influitaj
 influitajn
@@ -56142,6 +56436,7 @@ influotojn
 influoton
 influu
 influus
+inform-scienco
 informa
 informa scienco
 informa sistemo
@@ -56168,6 +56463,7 @@ informataj
 informatajn
 informatan
 informate
+informatiko
 informato
 informatoj
 informatojn
@@ -56375,7 +56671,6 @@ ingvenoj
 ingvenojn
 ingvenon
 ingvenumo
-ingvenumo ()
 ingvenumoj
 ingvenumojn
 ingvenumon
@@ -56669,6 +56964,7 @@ inkujo
 inkujoj
 inkujojn
 inkujon
+inkvizicio
 ino
 inoj
 inojn
@@ -57117,6 +57413,7 @@ insularoj
 insularojn
 insularon
 insulazia arbanaso
+insuleco
 insuleto
 insuletoj
 insuletojn
@@ -57195,6 +57492,7 @@ insultu
 insultus
 intakta
 integra
+integra cirkvito
 integrado
 integraj
 integrajn
@@ -57211,6 +57509,7 @@ integralon
 integreco
 integrecon
 integri
+integrita programaro
 integro
 intelekta kvociento
 intelekto
@@ -57350,6 +57649,7 @@ interaktoj
 interaktojn
 interakton
 interalie
+interbrovo
 intercivitana milito
 interdimensia
 interesa
@@ -57380,6 +57680,7 @@ interesato
 interesatoj
 interesatojn
 interesaton
+interesaĵo
 interese
 interesi
 interesinta
@@ -57516,6 +57817,7 @@ internacia
 internacia helplingvo
 internacia juro
 internacia maro
+internacia organizaĵo
 internacia planlingvo
 internaciaj
 internaciajn
@@ -57535,6 +57837,7 @@ internaĵon
 interne
 interne de
 internen
+internigi
 interno
 internoj
 internojn
@@ -57608,6 +57911,8 @@ interparolotojn
 interparoloton
 interparolu
 interparolus
+interpelacii
+interpelacio
 interplaneda
 interplektanta
 interplektantaj
@@ -57671,6 +57976,7 @@ interplektotojn
 interplektoton
 interplektu
 interplektus
+interpretado
 interpretanta
 interpretantaj
 interpretantajn
@@ -58401,6 +58707,7 @@ iometa
 iomete
 iompostioma
 ion
+iona
 iovaa
 iovaano
 iperito
@@ -58515,7 +58822,9 @@ ironton
 iros
 iru
 iru al la diablo
+iru k*cen
 iru kacen
+iru m*rden
 iru merden
 irus
 irvojeto
@@ -58545,6 +58854,7 @@ islamanoj
 islamanojn
 islamanon
 islamigi
+islamismo
 islamo
 islamon
 islanda
@@ -58589,6 +58899,7 @@ italon
 italparola
 italparolanta
 italparolanto
+iteracinombrilo
 iterbio
 iterbion
 itinero
@@ -58716,6 +59027,9 @@ iĉo
 iĉoj
 iĉojn
 iĉon
+iĉuzismo
+iĉuzisto
+iĉuzo
 iĝanta
 iĝantaj
 iĝantajn
@@ -59208,7 +59522,9 @@ jubileoj
 jubileojn
 jubileon
 jubo
+jud-bolŝevikismo
 juda
+juda bolŝevikismo
 juda preĝtuko
 judaismo
 judaismon
@@ -59236,7 +59552,6 @@ jughos
 jughu
 jughus
 juglandarbo
-juglandarbo ()
 juglandarboj
 juglandarbojn
 juglandarbon
@@ -59378,6 +59693,7 @@ junos
 junu
 junula
 junula krimeco
+junulara
 junulargastejo
 junulargastejoj
 junulargastejojn
@@ -59583,6 +59899,11 @@ jxurnalojn
 jxurnalon
 jxus
 k
+k*cen
+k*co
+k*cujo
+k*culo
+k*jono
 k-disko
 k-diskoj
 k-diskojn
@@ -59677,6 +59998,7 @@ kabineta
 kabineto
 kabla telefono
 kablanda motacilo
+kablero
 kablingo
 kablisto
 kablo
@@ -59697,6 +60019,7 @@ kaco
 kacoj
 kacojn
 kacon
+kacuda
 kacujo
 kacujoj
 kacujojn
@@ -59713,6 +60036,7 @@ kadavrigi
 kadavro
 kadavroj
 kadavrojn
+kadavromanĝulo
 kadavron
 kadeto
 kadmio
@@ -59774,6 +60098,7 @@ kajakoj
 kajakojn
 kajakon
 kajaû
+kajena pipro
 kajero
 kajeroj
 kajerojn
@@ -59806,6 +60131,7 @@ kakaarbo
 kakao
 kakaoarbo
 kakatuo
+kaki
 kakia
 kakinoko
 kakomistlo
@@ -59814,6 +60140,7 @@ kaktoj
 kaktojn
 kakton
 kalabaseto
+kalabaso
 kalamito
 kalamitoj
 kalamitojn
@@ -59889,6 +60216,7 @@ kalendoj
 kalendulo
 kaleŝo
 kalia
+kalia nitrato
 kaliaj
 kaliajn
 kalian
@@ -59913,6 +60241,7 @@ kaligrafaĵo
 kaligrafaĵoj
 kaligrafaĵojn
 kaligrafaĵon
+kaligrafia tiparo
 kaligrafio
 kaligrafion
 kaliko
@@ -59925,7 +60254,6 @@ kalkanoj
 kalkanojn
 kalkanon
 kalkanumo
-kalkanumo ()
 kalkanumoj
 kalkanumojn
 kalkanumon
@@ -60101,7 +60429,7 @@ kamelon
 kamemoro
 kamemorobero
 kamenbreto
-kamenkapuĉo ()
+kamenkapuĉo
 kameno
 kamenoj
 kamenojn
@@ -60111,6 +60439,10 @@ kameo
 kameoj
 kameojn
 kameon
+kameraisto
+kameraistoj
+kameraistojn
+kameraiston
 kamerao
 kameraoj
 kameraojn
@@ -60215,7 +60547,6 @@ kanabcigaredo
 kanabeno
 kanabo
 kanabokafejo
-kanabokafejo ()
 kanabon
 kanada
 kanada anglalingva
@@ -60238,6 +60569,7 @@ kanadanojn
 kanadanon
 kanadigi
 kanadigo
+kanadino
 kanajlaro
 kanajlaron
 kanajlo
@@ -60421,6 +60753,7 @@ kantatojn
 kantaton
 kantaĉi
 kantaĵo
+kantelo
 kanteto
 kanti
 kantianismo
@@ -60568,6 +60901,7 @@ kapelon
 kaperanto
 kaperi
 kapfulardo
+kapibaro
 kapilara
 kapilaraj
 kapilarajn
@@ -60726,6 +61060,7 @@ kaprido
 kapridoj
 kapridojn
 kapridon
+kaprimulgo
 kaprino
 kaprinoj
 kaprinojn
@@ -60745,6 +61080,7 @@ kapron
 kapruko
 kapsiketo
 kapsiko
+kapsikofrukto
 kapsikoj
 kapsikojn
 kapsikon
@@ -60829,6 +61165,7 @@ kapturniga
 kapturnigaj
 kapturnigajn
 kapturnigan
+kapturniĝo
 kaptus
 kapuĉi
 kapuĉino
@@ -60992,6 +61329,7 @@ karavanserajoj
 karavanserajojn
 karavanserajon
 karavelo
+karbeto
 karbo
 karboj
 karbojn
@@ -61078,6 +61416,7 @@ karbonikan
 karbonikan acidon
 karbono
 karbonon
+karbujo
 karbunklo
 karcergardisto
 karcergardistoj
@@ -61093,6 +61432,7 @@ karcerĉambroj
 karcerĉambrojn
 karcerĉambron
 karcinomo
+kardano
 kardelo
 kardeloj
 kardelojn
@@ -61120,6 +61460,7 @@ karegajn
 karegan
 karegulino
 karegulo
+karekso
 karena digo
 kareo
 kareoj
@@ -61278,6 +61619,7 @@ karikaturoj
 karikaturojn
 karikaturon
 kariljono
+kario
 kariofilo
 kariopso
 karismo
@@ -61293,6 +61635,7 @@ karmezino
 karmezinoj
 karmezinojn
 karmezinon
+karminativa
 karmino
 karmo
 karmoj
@@ -61325,7 +61668,9 @@ karoserio
 karoserioj
 karoseriojn
 karoserion
+karota oranĝkoloro
 karoteno
+karotkoloro
 karoto
 karotoj
 karotojn
@@ -61334,6 +61679,7 @@ karpeno
 karpenoj
 karpenojn
 karpenon
+karpetunela sindromo
 karpo
 karpoj
 karpojn
@@ -61365,15 +61711,20 @@ kartografojn
 kartografon
 kartoj
 kartojn
+kartoludo
 karton
+kartona skatolo
 kartono
 kartonoj
 kartonojn
 kartonon
 kartoĉa fusilo
 kartoĉo
+kartoĉŝargilo
 kartuno
 kartuŝo
+kartvela
+kartvela lingvo
 kartvele
 kartveligi
 kartvelino
@@ -61383,7 +61734,7 @@ karulino
 karulinoj
 karulinojn
 karulinon
-karuliĉo ()
+karuliĉo
 karulo
 karuloj
 karulojn
@@ -61394,6 +61745,7 @@ kasedoj
 kasedojn
 kasedon
 kaserolo
+kaseto
 kashas
 kashi
 kashu
@@ -61609,7 +61961,9 @@ katekolamino
 katekolaminoj
 katekolaminojn
 katekolaminon
+katenado
 kateni
+kateniĝo
 kateno
 katetero
 kateto
@@ -61621,7 +61975,6 @@ kateĥizi
 kateĥizisto
 kateĥizo
 katherbo
-katidaro
 katidino
 katidinoj
 katidinojn
@@ -61849,6 +62202,9 @@ kazernojn
 kazernon
 kazigilo
 kazino
+kazinoj
+kazinojn
+kazinon
 kazo
 kazoj
 kazojn
@@ -61937,7 +62293,6 @@ kaŝiĝantojn
 kaŝiĝanton
 kaŝiĝas
 kaŝiĝi
-kaŝiĝi ()
 kaŝiĝinta
 kaŝiĝintaj
 kaŝiĝintajn
@@ -61962,6 +62317,7 @@ kaŝiĝu
 kaŝiĝus
 kaŝlingvo
 kaŝludo
+kaŝmemoro
 kaŝnomo
 kaŝnomoj
 kaŝnomojn
@@ -62182,7 +62538,6 @@ kernorompulo
 kernrompulo
 kero
 keroj
-keroj ()
 kerojn
 keron
 keroseno
@@ -62237,6 +62592,7 @@ kiamaniere
 kian
 kian muzikon ŝatas vi?
 kianito
+kibernetiko
 kibibitoko
 kibibitokoj
 kibibitokojn
@@ -62264,6 +62620,7 @@ kiel elefanto en porcelanejo
 kiel oni diras … angle?
 kiel oni literumas cxi tiun vorton?
 kiel supre, tiel malsupre
+kiel vi
 kiel vi fartas
 kiel vi fartas ()
 kiel vi fartas?
@@ -62340,25 +62697,24 @@ kinindustrio
 kinino
 kininon
 kinkajuo
+kinkono
 kino
 kinoj
 kinojn
 kinon
 kio
-kio ()
 kio ajn
 kio diable
-kio estas la problemo?
+kio estas la problemo
 kio estas tio
 kio estas tio?
 kio estas via nomo
 kio estas via nomo?
 kio estas via telefonnumero
 kio estis pruvota
-kio misas?
-kio novas?
+kio misas
+kio novas
 kio okazas
-kio okazas?
 kioj
 kiojn
 kiom
@@ -62376,6 +62732,7 @@ kion oni volas, tion oni povas
 kion signifas
 kion vi faras?
 kion vi faros morgaŭ?
+kiosko
 kipao
 kipra
 kipro
@@ -62383,12 +62740,13 @@ kiraso
 kirasoj
 kirasojn
 kirason
+kirastrajno
 kirko
 kirkoj
 kirkojn
 kirli
 kirlilo
-kirliĝi ()
+kirliĝi
 kirlo
 kirlofritaĵo
 kirlovaĵo
@@ -62489,7 +62847,6 @@ kisus
 kitino
 kitinon
 kiu
-kiu ()
 kiu ajn
 kiu estas vi?
 kiu glavon prenas, per glavo pereos
@@ -62559,7 +62916,6 @@ klaketantojn
 klaketanton
 klaketas
 klaketi
-klaketi ()
 klaketigi
 klaketinta
 klaketintaj
@@ -62571,7 +62927,7 @@ klaketintoj
 klaketintojn
 klaketinton
 klaketis
-klaketo ()
+klaketo
 klaketonta
 klaketontaj
 klaketontajn
@@ -62844,6 +63200,7 @@ klaĉos
 klaĉu
 klaĉulo
 klaĉus
+klaŭnfiŝo
 klaŭnino
 klaŭno
 klaŭnofobio
@@ -62854,6 +63211,7 @@ klaŭstrofobio
 klaŭstrofobion
 klefo
 klementino
+kleptomanio
 klera
 kleraj
 klerajn
@@ -62917,6 +63275,7 @@ klingonon
 klingonparolanto
 klini
 klinika
+klinika morto
 klinika psikologio
 klinika psiĥologio
 klinikeca
@@ -62941,7 +63300,6 @@ klinitoj
 klinitojn
 kliniton
 kliniĝi
-kliniĝi ()
 klinko
 klino
 klinonta
@@ -63027,7 +63385,7 @@ kliŝon
 kloakaperturo
 kloakaĵo
 kloakaĵon
-kloakfaŭko ()
+kloakfaŭko
 kloako
 kloakoj
 kloakojn
@@ -63037,6 +63395,7 @@ kloakuloj
 kloakulojn
 kloakulon
 kloni
+klono
 klopodado
 klopodanta
 klopodantaj
@@ -63121,6 +63480,7 @@ klozeton
 klozetpapero
 klozetpaperon
 kloŝo
+klubano
 klubo
 kluboj
 klubojn
@@ -63157,7 +63517,6 @@ knabetojn
 knabeton
 knabina
 knabinaĉo
-knabinaĉo ()
 knabineco
 knabinecon
 knabineto
@@ -63176,7 +63535,6 @@ knabo
 knaboj
 knabojn
 knabon
-knabulino
 knali
 knanjo
 knanjoj
@@ -63313,15 +63671,22 @@ kobron
 kodaĵo
 kodeino
 kodekso
+kodi
 kodicilo
 kodigo
+kodilo
 kodisko
+kodisto
 kodnomo
 kodo
 kodoj
 kodojn
 kodon
 kodono
+kodoprezento
+kodpaĝo
+kodrompisto
+kodteorio
 kodumulo
 kodvorto
 koeficiento
@@ -63335,6 +63700,7 @@ kofrojn
 kofron
 kofrovorto
 kofrujo
+kofto
 kognato
 kognatoj
 kognatojn
@@ -63368,6 +63734,7 @@ koita
 koiti
 koito
 koiton
+koj*no
 kojlo
 kojloj
 kojlojn
@@ -63450,6 +63817,7 @@ kokiĉo
 kokiĉoj
 kokiĉojn
 kokiĉon
+kokluktado
 kokluŝo
 kokluŝon
 koko
@@ -63461,6 +63829,7 @@ kokoj
 kokojn
 kokon
 kokono
+kokosakvo
 kokosarbo
 kokosarboj
 kokosarbojn
@@ -63517,7 +63886,7 @@ kolapsatoj
 kolapsatojn
 kolapsaton
 kolapsi
-kolapsigi ()
+kolapsigi
 kolapsinta
 kolapsintaj
 kolapsintajn
@@ -63583,6 +63952,7 @@ kolegaro
 kolegaroj
 kolegarojn
 kolegaron
+kolegino
 kolegio
 kolegioj
 kolegiojn
@@ -63692,9 +64062,7 @@ koleregan
 kolerego
 kolerema
 koleri
-koleri ()
 kolerigi
-kolerigi ()
 kolerinta
 kolerintaj
 kolerintajn
@@ -63706,7 +64074,6 @@ kolerintojn
 kolerinton
 koleris
 koleriĝi
-koleriĝi ()
 kolero
 koleroj
 kolerojn
@@ -63764,7 +64131,7 @@ kolombiĉo
 kolombo
 kolomboj
 kolombojn
-kolombokolora ()
+kolombokolora
 kolombolakto
 kolombon
 kolon
@@ -63773,7 +64140,7 @@ kolonia
 koloniaj
 koloniajn
 kolonian
-kolonianino ()
+kolonianino
 koloniano
 kolonianoj
 kolonianojn
@@ -63824,6 +64191,7 @@ kolorblindaj
 kolorblindajn
 kolorblindan
 kolorblindeco
+kolorcirklo
 koloreco
 kolorecoj
 kolorecojn
@@ -63934,6 +64302,7 @@ koloroto
 kolorotoj
 kolorotojn
 koloroton
+kolorozo
 koloru
 kolorus
 kolosa
@@ -63966,6 +64335,7 @@ kolĉenon
 kolĥozano
 kolĥozo
 komacuno
+komanda linio
 komandanta
 komandantaj
 komandantajn
@@ -64005,6 +64375,7 @@ komandito
 komanditoj
 komanditojn
 komanditon
+komandlinia interfaco
 komando
 komandonta
 komandontaj
@@ -64228,7 +64599,6 @@ komenciĝantojn
 komenciĝanton
 komenciĝas
 komenciĝi
-komenciĝi ()
 komenciĝinta
 komenciĝintaj
 komenciĝintajn
@@ -65168,6 +65538,8 @@ kompromiso
 kompromisoj
 kompromisojn
 kompromison
+komputa sistemo
+komputado
 komputas
 komputero
 komputeroj
@@ -65176,6 +65548,10 @@ komputeron
 komputi
 komputiko
 komputila
+komputila arkitekturo
+komputila klero
+komputila reto
+komputila sistemo
 komputila tomografio
 komputila viruso
 komputilego
@@ -65183,6 +65559,7 @@ komputilejo
 komputileto
 komputilisto
 komputilizi
+komputilizita projektado
 komputillingvo
 komputillingvoj
 komputillingvojn
@@ -65368,6 +65745,7 @@ konantojn
 konanton
 konas
 konata
+konata mono
 konataj
 konatajn
 konatan
@@ -65878,7 +66256,7 @@ konektitoj
 konektitojn
 konektiton
 konektiva histo
-konektiĝi ()
+konektiĝi
 konekto
 konektonta
 konektontaj
@@ -66564,6 +66942,7 @@ konkavkonveksa
 konkavkonveksaj
 konkavkonveksajn
 konkavkonveksan
+konkerado
 konkeranta
 konkerantaj
 konkerantajn
@@ -66594,6 +66973,7 @@ konkerintoj
 konkerintojn
 konkerinton
 konkeris
+konkeristo
 konkerita
 konkeritaj
 konkeritajn
@@ -67029,6 +67409,7 @@ konsiderato
 konsideratoj
 konsideratojn
 konsideraton
+konsidere
 konsideri
 konsiderinda
 konsiderinde
@@ -67296,6 +67677,7 @@ konstantaj
 konstantajn
 konstantan
 konstante
+konstanto
 konstanto de Avogadro
 konstati
 konstato
@@ -67341,6 +67723,8 @@ konstruaĵon
 konstrui
 konstrui kastelojn en aero
 konstrui kastelojn en la aero
+konstruigita proceso
+konstruilo
 konstruinta
 konstruintaj
 konstruintajn
@@ -67476,7 +67860,6 @@ kontaktatojn
 kontaktaton
 kontakti
 kontaktilo
-kontaktilo ()
 kontaktiloj
 kontaktilojn
 kontaktilon
@@ -67742,6 +68125,7 @@ kontraŭata
 kontraŭataj
 kontraŭatajn
 kontraŭataki
+kontraŭatako
 kontraŭatan
 kontraŭate
 kontraŭato
@@ -67823,6 +68207,7 @@ kontraŭfaŝisto
 kontraŭfebra
 kontraŭfeminismo
 kontraŭfiulo
+kontraŭflue
 kontraŭfundamenta
 kontraŭgramatika
 kontraŭgramatikaj
@@ -67865,6 +68250,7 @@ kontraŭkoncipilojn
 kontraŭkoncipilon
 kontraŭkoncipo
 kontraŭkonstitucie
+kontraŭkopia protekto
 kontraŭkristo
 kontraŭkulturo
 kontraŭleĝa
@@ -67874,12 +68260,14 @@ kontraŭleĝan
 kontraŭleĝe
 kontraŭmalfondistismo
 kontraŭmaliculo
+kontraŭmalriĉuleco
 kontraŭmilitarismo
 kontraŭnatura
 kontraŭnaturaj
 kontraŭnaturajn
 kontraŭnaturan
 kontraŭo
+kontraŭofensivo
 kontraŭoj
 kontraŭojn
 kontraŭon
@@ -68247,6 +68635,7 @@ konvenonton
 konvenos
 konvenu
 konvenus
+konverbo
 konversacias
 konversacii
 konversaciis
@@ -68477,11 +68866,17 @@ konvinkotojn
 konvinkoton
 konvinku
 konvinkus
+konvoji
+konvojo
 konvolvulo
 konvulsio
 konvulsioj
 konvulsiojn
 konvulsion
+konĉerto
+konĉertoj
+konĉertojn
+konĉerton
 koopera
 kooperado
 kooperadoj
@@ -68583,7 +68978,7 @@ kopojn
 kopon
 kopro
 kopron
-kopuli
+kopulacii
 kora
 kora malsano
 kora malsufiĉo
@@ -68598,12 +68993,10 @@ korakon
 korala
 koralo
 koramikino
-koramikino ()
 koramikinoj
 koramikinojn
 koramikinon
 koramiko
-koramiko ()
 koramikoj
 koramikojn
 koramikon
@@ -68623,7 +69016,6 @@ kordinstrumentojn
 kordinstrumenton
 kordo
 kordofrapado
-kordofrapado ()
 kordofrapi
 kordoj
 kordojn
@@ -68813,6 +69205,7 @@ kornikoj
 kornikojn
 kornikon
 korno
+korno de abundeco
 kornoj
 kornojn
 kornon
@@ -69471,6 +69864,7 @@ kranio
 kranioj
 kraniojn
 kranion
+kranko
 krano
 kranoj
 kranojn
@@ -69879,6 +70273,7 @@ kremujo
 kremujoj
 kremujojn
 kremujon
+krenelo
 kreno
 krenoj
 krenojn
@@ -70320,9 +70715,11 @@ krimado
 krimaj
 krimajn
 kriman
+krimbruliganto
 krimeco
 krimecon
 krimestro
+krimfajro
 krimi
 kriminalan
 kriminalisto
@@ -70509,7 +70906,8 @@ kristnaskoj
 kristnaskojn
 kristnaskon
 kristnaskotago
-kristnaskotago ()
+krita sekcio
+krita vojo
 kriterio
 kriterioj
 kriteriojn
@@ -70699,6 +71097,7 @@ kromosomo
 kromosomoj
 kromosomojn
 kromosomon
+kromprocesoro
 kromprodukto
 kromprogramo
 kromsenco
@@ -70824,6 +71223,7 @@ krozatoj
 krozatojn
 krozaton
 krozi
+krozilo
 krozinta
 krozintaj
 krozintajn
@@ -70905,6 +71305,7 @@ kroĉito
 kroĉitoj
 kroĉitojn
 kroĉiton
+kroĉo
 kroĉonta
 kroĉontaj
 kroĉontajn
@@ -70949,7 +71350,6 @@ krucbekulo
 krucbredi
 krucbredulo
 kruce
-kruce ()
 kruci
 krucifikso
 krucifiksoj
@@ -71132,7 +71532,6 @@ krucvorto
 krucvortoj
 krucvortojn
 krucvorton
-krud petrolo
 kruda
 krudaj
 krudajn
@@ -71218,6 +71617,7 @@ ksilofonoj
 ksilofonojn
 ksilofonon
 ksilolo
+ksilozo
 ksio
 ksioj
 ksiojn
@@ -71234,7 +71634,6 @@ kubanojn
 kubanon
 kube
 kubigi
-kubigi ()
 kubismo
 kubismon
 kubo
@@ -71242,6 +71641,7 @@ kubo de Rubik
 kuboj
 kubojn
 kubon
+kubuta saluto
 kubuto
 kubutoj
 kubutojn
@@ -71825,6 +72225,11 @@ kunesti
 kunesto
 kunfandi
 kunfandiĝi
+kunfluejo
+kunfluejoj
+kunfluejojn
+kunfluejon
+kunflui
 kunfluo
 kunfondinto
 kunfondintoj
@@ -72202,12 +72607,15 @@ kunposedaĵo
 kunpremi
 kunpremiĝi
 kunpreni
+kunprogramo
+kunrulo
 kunsendaĵo
 kunsidas
 kunsidi
 kunsido
 kunsignifo
 kunteksto
+kuntekstohava gramatiko
 kuntekstoj
 kuntekstojn
 kuntekston
@@ -72362,6 +72770,7 @@ kupran
 kupro
 kuprominejo
 kupron
+kuracado
 kuracanta
 kuracantaj
 kuracantajn
@@ -72381,6 +72790,7 @@ kuracato
 kuracatoj
 kuracatojn
 kuracaton
+kuracejo
 kuraci
 kuracilo
 kuraciloj
@@ -72410,6 +72820,7 @@ kuracito
 kuracitoj
 kuracitojn
 kuraciton
+kuraco
 kuraconta
 kuracontaj
 kuracontajn
@@ -72439,6 +72850,7 @@ kuradoj
 kuradojn
 kuradon
 kuranta
+kuranta dosierujo
 kurantaj
 kurantajn
 kurantan
@@ -72668,7 +73080,6 @@ kurenton
 kuri
 kurierkolombo
 kuriero
-kuriero ()
 kurieroj
 kurierojn
 kurieron
@@ -72702,6 +73113,7 @@ kuristojn
 kuriston
 kuriumo
 kuriumon
+kurkumino
 kurkumo
 kurkumon
 kurlo
@@ -72876,6 +73288,10 @@ kuŝu
 kuŝujo
 kuŝus
 kv
+kvadranto
+kvadrantoj
+kvadrantojn
+kvadranton
 kvadrata
 kvadrata kilometro
 kvadrata metro
@@ -72891,7 +73307,7 @@ kvadratan kilometron
 kvadratan radikon
 kvadrate
 kvadrateco
-kvadrati ()
+kvadrati
 kvadratigi
 kvadratigo
 kvadratmetro
@@ -73155,6 +73571,10 @@ kvaropajn stelojn
 kvaropan
 kvaropan stelon
 kvarope
+kvarpiedulo
+kvarpieduloj
+kvarpiedulojn
+kvarpiedulon
 kvarsilaba
 kvartalaĉo
 kvartalo
@@ -73177,6 +73597,7 @@ kvazau
 kvazaux
 kvazaŭ
 kvazaŭa
+kvekto-
 kvenja lingvo
 kverelema
 kvereli
@@ -73198,6 +73619,7 @@ kverkon
 kvero
 kvesti
 kvestoro
+kveta-
 kvf
 kvieta
 kvietaj
@@ -73389,6 +73811,7 @@ kviraj
 kvirajn
 kviran
 kvirigi
+kvirplatona
 kvita
 kvitaj
 kvitajn
@@ -73484,6 +73907,7 @@ labirinto
 labirintoj
 labirintojn
 labirinton
+labora juro
 laborabelo
 laborabeloj
 laborabelojn
@@ -73518,6 +73942,7 @@ laboremaj
 laboremajn
 laboreman
 laboremo
+laborgrupo
 labori
 laborilo
 laboriloj
@@ -73540,6 +73965,8 @@ laboristo
 laboristoj
 laboristojn
 laboriston
+laborkontrakto
+laborlingvo
 labormaltaŭga
 labormaniulo
 labormerkato
@@ -73638,6 +74065,7 @@ laciĝonton
 laciĝos
 laciĝu
 laciĝus
+laco
 lacxo
 lacxoj
 lacxojn
@@ -73656,6 +74084,7 @@ lafofluaĵo
 lafoj
 lafojn
 lafon
+lagenario
 lageto
 lagetoj
 lagetojn
@@ -73798,7 +74227,6 @@ landlimoj
 landlimojn
 landlimon
 lando
-lando ()
 landoj
 landojn
 landokodo
@@ -73847,6 +74275,7 @@ lanugajn
 lanugan
 lanugo
 lanugon
+lanĉado
 lanĉanta
 lanĉantaj
 lanĉantajn
@@ -73886,6 +74315,7 @@ lanĉito
 lanĉitoj
 lanĉitojn
 lanĉiton
+lanĉo
 lanĉonta
 lanĉontaj
 lanĉontajn
@@ -73906,6 +74336,7 @@ lanĉotoj
 lanĉotojn
 lanĉoton
 lanĉu
+lanĉulo
 lanĉus
 laparotomio
 lapfermilo
@@ -74193,6 +74624,7 @@ lavato
 lavatoj
 lavatojn
 lavaton
+lavaŝo
 lavbaseno
 lavbroso
 lavbutiko
@@ -74222,7 +74654,6 @@ lavito
 lavitoj
 lavitojn
 laviton
-lavkraftiana
 lavmaŝino
 lavmaŝinoj
 lavmaŝinojn
@@ -74255,6 +74686,7 @@ lavotojn
 lavoton
 lavotuko
 lavpulvoro
+lavtabulaj ventromuskoloj
 lavtabulo
 lavtabuloj
 lavtabulojn
@@ -74267,10 +74699,15 @@ lavujon
 lavus
 lazanjo
 lazareto
+lazas
+lazi
+lazis
 lazo
 lazoj
 lazojn
 lazon
+lazos
+lazu
 lazura
 lazuraj
 lazurajn
@@ -74280,6 +74717,7 @@ lazuritoj
 lazuritojn
 lazuriton
 lazuro
+lazus
 laĉi
 laĉo
 laĉoj
@@ -74288,6 +74726,7 @@ laĉon
 laŭ
 laŭ mia scio
 laŭ tio sekvas
+laŭ-…-a
 laŭalfabeta
 laŭalfabetaj
 laŭalfabetajn
@@ -74379,12 +74818,13 @@ laŭfaktaj
 laŭfaktajn
 laŭfaktan
 laŭfakte
+laŭflue
 laŭgramatika
 laŭgramatikaj
 laŭgramatikajn
 laŭgramatikan
 laŭigi
-laŭiri ()
+laŭiri
 laŭleĝa
 laŭleĝaj
 laŭleĝajn
@@ -74394,9 +74834,8 @@ laŭlitera
 laŭlitere
 laŭlonge
 laŭmerite
-laŭmezure ()
+laŭmezure
 laŭmoda
-laŭmode
 laŭnature
 laŭpete
 laŭplaĉe
@@ -74547,6 +74986,7 @@ legotoj
 legotojn
 legoton
 legu
+legumino
 legumo
 legus
 legxo
@@ -74702,6 +75142,7 @@ leksikono
 leksikonoj
 leksikonojn
 leksikonon
+lekto
 leku
 lekus
 lemanta
@@ -74961,6 +75402,7 @@ lerteco
 lertecon
 lertiĝi pri
 lerto
+lertxuntxo handia
 lesba
 lesbaj
 lesbajn
@@ -74976,7 +75418,7 @@ lesbojn
 lesbon
 lesivo
 lesivon
-lesivpulvoro ()
+lesivpulvoro
 letargia
 letargie
 letargio
@@ -74988,7 +75430,6 @@ leteristino
 leteristo
 leterkesto
 leterkolombo
-leterkolombo ()
 letero
 leteroj
 leterojn
@@ -75132,6 +75573,7 @@ leŭgo
 leŭgoj
 leŭgojn
 leŭgon
+leŭkemio
 leŭkismo
 leŭkocito
 leŭkocitoj
@@ -75502,10 +75944,14 @@ likvorojn
 likvoron
 lilio
 liliputo
+lima
+limaj
+limajn
 limako
 limakoj
 limakojn
 limakon
+liman
 limdato
 limdatoj
 limdatojn
@@ -75527,6 +75973,7 @@ limfrekvenco
 limfrekvencoj
 limfrekvencojn
 limfrekvencon
+limi
 limiganta
 limigantaj
 limigantajn
@@ -75594,6 +76041,7 @@ limito
 limitoj
 limitojn
 limiton
+limiĝi
 limlinia
 limlinieco
 limo
@@ -75620,6 +76068,7 @@ lingva
 lingva baro
 lingva diskriminacio
 lingva familio
+lingva kapablo
 lingvaj
 lingvajn
 lingvan
@@ -75670,7 +76119,6 @@ linioj
 liniojn
 linion
 linipaŝo
-linipaŝo ()
 liniŝipo
 linko
 linkoj
@@ -75680,6 +76128,7 @@ lino
 linoleo
 linoleumo
 linsemo
+lintelo
 linĉado
 linĉas
 linĉi
@@ -75794,6 +76243,7 @@ litanio
 litanioj
 litaniojn
 litanion
+litaĵo
 litbenko
 litcimo
 litera
@@ -76215,6 +76665,7 @@ longano
 longaĉa
 longe
 longeco
+longhara
 longiganta
 longigantaj
 longigantajn
@@ -76322,7 +76773,7 @@ longtempa
 longviveco
 lonicero
 lordedzino
-lordino ()
+lordino
 lordo
 lordoj
 lordojn
@@ -76349,7 +76800,6 @@ lotusnimfeoj
 lotusnimfeojn
 lotusnimfeon
 lotuso
-lovecraftiana
 loza
 lozaj
 lozajn
@@ -76888,6 +77338,7 @@ lumbriko
 lumbrikoj
 lumbrikojn
 lumbrikon
+lumdisko
 lumdisko (eble tro ĝenerala)
 lumglavo
 lumglavoj
@@ -77061,6 +77512,7 @@ lunarcoj
 lunarcojn
 lunarcon
 lunarka bulko
+lunarko
 lunatika
 lunatikaj
 lunatikajn
@@ -77238,6 +77690,8 @@ luu
 luus
 luzerno
 m
+m*rda
+m*rdo
 m.
 m.m.
 maceri
@@ -77248,6 +77702,7 @@ macon
 macutako
 madagaskaranino
 madagaskarano
+madamo
 made of alabaster
 madejranino
 madejrano
@@ -77258,6 +77713,10 @@ madonon
 madrida
 madridano
 madrigalo
+madzo
+madzoj
+madzojn
+madzon
 mafiano
 mafino
 mafio
@@ -77390,6 +77849,7 @@ magnetigu
 magnetigus
 magnetismo
 magnetismon
+magnetkerna memoro
 magneto
 magnetofono
 magnetofonoj
@@ -77401,6 +77861,7 @@ magnetokemio
 magneton
 magnezio
 magnezion
+mago
 magra
 mahagono
 mahagonoj
@@ -77431,6 +77892,7 @@ majesta
 majestaj
 majestajn
 majestan
+majesto
 majfloro
 majo
 majoj
@@ -77459,6 +77921,9 @@ majusklajn
 majusklan
 majusklaro
 majuskleto
+majuskletoj
+majuskletojn
+majuskleton
 majusklo
 majuskloj
 majusklojn
@@ -77619,13 +78084,11 @@ malagrablaj
 malagrablajn
 malagrablan
 malagrablaĵo
-malagrablaĵo ()
 malagrablaĵoj
 malagrablaĵojn
 malagrablaĵon
 malagrable
 malagrableco
-malagrableco ()
 malagrafi
 malaj
 malaja
@@ -77877,6 +78340,7 @@ malamato
 malamatoj
 malamatojn
 malamaton
+malambigua
 malame
 malameganta
 malamegantaj
@@ -77956,7 +78420,6 @@ malamikeme
 malamiki
 malamikigi
 malamikino
-malamikino ()
 malamikiĝi
 malamiko
 malamikoj
@@ -78364,6 +78827,10 @@ maldekstra
 maldekstra korno
 maldekstraj
 maldekstrajn
+maldekstramana
+maldekstramanaj
+maldekstramanajn
+maldekstramanan
 maldekstran
 maldekstre
 maldekstregulo
@@ -78478,6 +78945,7 @@ male
 malebena
 malebligi
 malebrie
+malebriiĝi
 maleebla
 malefika
 malegala
@@ -78865,6 +79333,14 @@ malgejo
 malgejoj
 malgejojn
 malgejon
+malglata
+malglataj
+malglatajn
+malglatan
+malglataĵo
+malglataĵoj
+malglataĵojn
+malglataĵon
 malglori
 malglui
 malgracia
@@ -78898,6 +79374,7 @@ malgravajn
 malgravan
 malgrave
 malgraŭ
+malgraŭ ke
 malgraŭe
 malgraŭvola
 malhava
@@ -79051,6 +79528,9 @@ malhonorigu
 malhonorigus
 malhonoro
 malhumana
+malhumanaj
+malhumanajn
+malhumanan
 malhumilulo
 malhumiluloj
 malhumilulojn
@@ -79071,6 +79551,7 @@ malimpliki
 malina
 malinda
 malingi
+malino
 malinstali
 malinteresa
 malinteresaj
@@ -79078,7 +79559,6 @@ malinteresajn
 malinteresan
 malinterpreti
 maljuna
-maljuna ()
 maljuna virino
 maljunaj
 maljunajn
@@ -80174,6 +80654,7 @@ malmulto
 malmultoj
 malmultojn
 malmulton
+malnajli
 malnature
 malneta enlanda produkto
 malnetaj
@@ -80222,7 +80703,6 @@ malnomadiĝos
 malnomadiĝu
 malnomadiĝus
 malnova
-malnova ()
 malnovaj
 malnovajn
 malnovaltgermana
@@ -80244,6 +80724,7 @@ malnovplanto
 malnovritano
 malnovslava lingvo
 malo
+malobeado
 malobeanta
 malobeantaj
 malobeantajn
@@ -80452,6 +80933,7 @@ malpermesu
 malpermesus
 malpersono
 malpeza
+malpeza industrio
 malpezaj
 malpezajn
 malpezan
@@ -80473,6 +80955,7 @@ malplena
 malplenaj
 malplenajn
 malplenan
+malpleni
 malpleniganta
 malplenigantaj
 malplenigantajn
@@ -80620,6 +81103,7 @@ malprudentan
 malprudente
 malprudenteco
 malprudi
+malprunto
 malpruvebleco
 malpublika
 malpublikaj
@@ -80793,6 +81277,10 @@ malrideto
 malridetoj
 malridetojn
 malrideton
+malrigida
+malrigidaj
+malrigidajn
+malrigidan
 malrigli
 malriverenco
 malriĉa
@@ -81302,8 +81790,10 @@ malsuproj
 malsuprojn
 malsupron
 malsuprulo
+malsurda
 maltanino
 maltano
+maltaŭga
 maltima
 maltimo
 maltiphava
@@ -81479,9 +81969,11 @@ malutopion
 malva
 malvaj
 malvajn
+malvalidigi
 malvan
 malvarma
 malvarma milito
+malvarma reŝargo
 malvarma tomatsupo
 malvarmaj
 malvarmajn
@@ -81859,6 +82351,7 @@ malĉastoton
 malĉastu
 malĉastulo
 malĉastus
+malĉea
 malĉifranta
 malĉifrantaj
 malĉifrantajn
@@ -82035,6 +82528,11 @@ malĝustajn
 malĝustan
 malĝuste
 malŝalti
+malŝargi
+malŝargilo
+malŝargiĝi
+malŝargo
+malŝargotubo
 malŝarĝanta
 malŝarĝantaj
 malŝarĝantajn
@@ -82856,6 +83354,7 @@ manuskripto
 manuskriptoj
 manuskriptojn
 manuskripton
+manĉura
 manĉuro
 manĝanta
 manĝantaj
@@ -82956,7 +83455,7 @@ manĝigotojn
 manĝigoton
 manĝigu
 manĝigus
-manĝilo
+manĝilaro
 manĝinta
 manĝintaj
 manĝintajn
@@ -83024,10 +83523,10 @@ mapuĉo
 mara
 mara erinaco
 mara monstro
+mara salo
 maraj
 marajn
 marakujo
-maralfluo
 maran
 maranaso
 maranasoj
@@ -83065,6 +83564,7 @@ mardoj
 mardojn
 mardon
 mardorno
+marelo
 marenfluejo
 marenfluejoj
 marenfluejojn
@@ -83158,6 +83658,7 @@ markizoj
 markizojn
 markizon
 marko
+markobutono
 markoj
 markojn
 markolo
@@ -83224,12 +83725,14 @@ marokanino
 marokano
 maron
 marono
+marpigo
 marrabisto
 marrabistoj
 marrabistojn
 marrabiston
 marrozo
 marsa
+marsalo
 marsanino
 marsano
 marsejlano
@@ -83866,6 +84369,7 @@ materio
 materioj
 materiojn
 materion
+matnakaŝo
 mato
 matoj
 matojn
@@ -84117,6 +84621,7 @@ medicinaĵo
 medicino
 medicinon
 medie
+medikago
 medikamento
 medikamentoj
 medikamentojn
@@ -84263,12 +84768,13 @@ melanomo
 melanomoj
 melanomojn
 melanomon
+melanĥolio
 melaso
+melduo
 meleagra
 meleagraĵo
-meleagrido ()
+meleagrido
 meleagrino
-meleagrino ()
 meleagriĉo
 meleagro
 meleagroj
@@ -84383,9 +84889,11 @@ membrecoj
 membrecojn
 membrecon
 membro
+membro de la Eŭropa Parlamento
 membroj
 membrojn
 membron
+membruda
 memcentreco
 memcerta
 memcerteco
@@ -84454,6 +84962,7 @@ memorejoj
 memorejojn
 memorejon
 memorgenerilo
+memorhelpilo
 memori
 memoriganta
 memorigantaj
@@ -84768,9 +85277,14 @@ menonito
 menorao
 menoro
 mensa
+mense
 menso
+mensoga
 mensogado
 mensogadon
+mensogaj
+mensogajn
+mensogan
 mensoganta
 mensogantaj
 mensogantajn
@@ -84815,6 +85329,7 @@ mensoj
 mensojn
 menson
 menstruanto
+menstrui
 menstruo
 mento
 mentoj
@@ -84832,6 +85347,7 @@ menuo
 menuoj
 menuojn
 menuon
+menŝeviko
 merda
 merdo
 merdon
@@ -84885,11 +85401,13 @@ mero
 meroj
 merojn
 meron
+meronpano
 meropo
 merĝo
 merĝoj
 merĝojn
 merĝon
+mesaĝi
 mesaĝo
 mesaĝoj
 mesaĝojn
@@ -85056,7 +85574,7 @@ metito
 metitoj
 metitojn
 metiton
-metiĝi ()
+metiĝi
 meto
 metodismo
 metodo
@@ -85111,6 +85629,7 @@ mevojn
 mevon
 meza
 meza fingro
+meza punkto
 mezaj
 mezajn
 mezan
@@ -85289,6 +85808,7 @@ mi estas blinda
 mi estas budhano
 mi estas fraŭla
 mi estas geja
+mi estas gejo
 mi estas graveda
 mi estas islamano
 mi estas judino
@@ -85297,6 +85817,7 @@ mi estas katoliko
 mi estas kristanino
 mi estas kristano
 mi estas laca
+mi estas lesbanino
 mi estas malgeja
 mi estas malsata
 mi estas samseksema
@@ -85433,6 +85954,9 @@ mielchelaro
 mielcxelaro
 mielkuko
 mielmonato
+mielmonatoj
+mielmonatojn
+mielmonaton
 mielo
 mieloj
 mielojn
@@ -85537,6 +86061,7 @@ mikroorganismo
 mikroorganismoj
 mikroorganismojn
 mikroorganismon
+mikroprogramaro
 mikroskopa
 mikroskopaj
 mikroskopajn
@@ -85618,6 +86143,7 @@ miksrasajn
 miksrasan
 miksu
 miksus
+miksuskla
 mil
 mil cent
 mil kaj unu
@@ -85732,6 +86258,7 @@ militjuro
 militkampanjo
 militklopodoj
 militkortumo
+militkrimo
 militmartelo
 militmarteloj
 militmartelojn
@@ -85769,6 +86296,7 @@ militu
 militus
 militŝiparo
 militŝiparoj
+militŝiparojn
 militŝiparon
 militŝipo
 militŝipoj
@@ -85923,10 +86451,12 @@ ministroj
 ministrojn
 ministron
 ministroprezidanto
+minkarbo
 mino
 minoj
 minojn
 minon
+minoritata lingvo
 minportilo
 minsemanto
 minuciosa
@@ -86077,7 +86607,7 @@ mise
 misfino
 misfleksi
 misfortuna
-misfortuno ()
+misfortuno
 misfunkcio
 misfunkcioj
 misfunkciojn
@@ -86093,6 +86623,7 @@ misiistoj
 misiistojn
 misiiston
 misilo
+misinterpreti
 misio
 misioj
 misiojn
@@ -86183,6 +86714,7 @@ mistifikotojn
 mistifikoton
 mistifiku
 mistifikus
+mistika
 mistikismo
 mistiko
 mistraktanta
@@ -86379,6 +86911,9 @@ mizogino
 mizoginoj
 mizoginojn
 mizoginon
+mizraĥa
+mizraĥo
+mjaŭ
 mjela plilongigo
 mjelo
 mjeloj
@@ -86389,6 +86924,7 @@ mnemonika
 mnemonikaj
 mnemonikajn
 mnemonikan
+mnemonikaĵo
 mnemoniko
 mnemonikoj
 mnemonikojn
@@ -86500,6 +87036,13 @@ modeste
 modesteco
 modifi
 modifo
+modlas
+modli
+modlilo
+modlis
+modlos
+modlu
+modlus
 modo
 modoj
 modojn
@@ -86730,6 +87273,7 @@ molanaso
 molanasoj
 molanasojn
 molanason
+molaro
 moldava
 moldavaj
 moldavajn
@@ -86739,6 +87283,7 @@ moldavo
 moldavoj
 moldavojn
 moldavon
+moldorna anono
 mole
 molega
 molegaj
@@ -86812,6 +87357,8 @@ monata
 monataj
 monatajn
 monatan
+monataĵo
+monataĵon
 monato
 monatoj
 monatojn
@@ -86901,6 +87448,7 @@ moneron
 monerumado
 monfarejo
 mongola
+mongola lingvo
 mongolaj
 mongolajn
 mongolan
@@ -86919,7 +87467,13 @@ monigis
 monigos
 monigu
 monigus
+monitoras
+monitori
+monitoris
 monitoro
+monitoros
+monitoru
+monitorus
 monlavado
 monludi
 monludisto
@@ -86987,6 +87541,7 @@ monpuno
 monpunoj
 monpunojn
 monpunon
+monsinjoro
 monstra
 monstra pronomo
 monstraj
@@ -87060,7 +87615,6 @@ montozaj
 montozajn
 montozan
 montpasejo
-montpasejo ()
 montpasejoj
 montpasejojn
 montpasejon
@@ -87090,7 +87644,6 @@ montrealano
 montrebla
 montri
 montrilo
-montrilo ()
 montriloj
 montrilojn
 montrilon
@@ -87356,9 +87909,11 @@ mortantojn
 mortanton
 mortanĝelo
 mortas
+mortdeziro
 morte
 morteco
 mortecon
+mortema
 mortemulo
 morti
 mortiga
@@ -87445,12 +88000,14 @@ mortinton
 mortis
 mortkondamno
 mortmalsana
+mortmasko
 mortnaskita
 mortnaskitaj
 mortnaskitajn
 mortnaskitan
 mortnombro
 morto
+mortodeziro
 mortoj
 mortojn
 mortokoridoro
@@ -87537,6 +88094,7 @@ motorsledo
 motorsledoj
 motorsledojn
 motorsledon
+motorveturilo
 movado
 movadoj
 movadojn
@@ -87567,6 +88125,7 @@ moveblajn
 moveblan
 movflegisto
 movi
+movi en la poŝon
 movinta
 movintaj
 movintajn
@@ -87791,6 +88350,7 @@ multrimenilo
 multu
 multuniverso
 multus
+mulĉo
 mumio
 mumioj
 mumiojn
@@ -87808,6 +88368,7 @@ municipoj
 municipojn
 municipon
 muntado
+muntas
 muntaĵo
 munti
 muo
@@ -87845,6 +88406,7 @@ murdema
 murdemaj
 murdemajn
 murdeman
+murdento
 murdi
 murdinta
 murdintaj
@@ -88033,6 +88595,7 @@ musojn
 muson
 musono
 mustarda gaso
+mustardi
 mustardo
 mustardoj
 mustardojn
@@ -88169,6 +88732,7 @@ naboj
 nabojn
 nabon
 naboĉapo
+nacelo
 nacia
 nacia himno
 nacia parko
@@ -88226,7 +88790,6 @@ najbaraĵon
 najbareco
 najbarecon
 najbarejo
-najbarejo ()
 najbarejoj
 najbarejojn
 najbarejon
@@ -88390,6 +88953,7 @@ naskatoj
 naskatojn
 naskaton
 naski
+naski bovidon
 naskinta
 naskintaj
 naskintajn
@@ -88494,6 +89058,7 @@ nasturtioj
 nasturtiojn
 nasturtion
 natria
+natria bikarbonato
 natria klorido
 natriaj
 natriajn
@@ -88503,6 +89068,7 @@ natrio
 natrion
 natura
 natura frekvenco
+natura historio
 natura kapro
 natura lingvo
 natura nombro
@@ -88736,7 +89302,6 @@ naĝantoj
 naĝantojn
 naĝanton
 naĝas
-naĝbaseno
 naĝejo
 naĝejoj
 naĝejojn
@@ -88766,6 +89331,7 @@ naĝontoj
 naĝontojn
 naĝonton
 naĝos
+naĝoveziko
 naĝu
 naĝus
 naĝveziko
@@ -88893,7 +89459,6 @@ ne enmiksiĝi
 ne falas frukto malproksime de l'arbo
 ne gravas
 ne iru fadeno antaŭ kudrilo
-ne kunportu tranĉilon al pafillukto
 ne plu
 ne zorgu
 ne ĉio batas, kio tondras
@@ -88969,6 +89534,7 @@ neaŭdeblaj
 neaŭdeblajn
 neaŭdeblan
 neaŭdeble
+neaŭtisma
 nebiblia
 nebibliaj
 nebibliajn
@@ -89153,6 +89719,7 @@ neeviteblaj
 neeviteblajn
 neeviteblan
 neeviteble
+nefacetita
 nefarebla
 nefidinda
 nefidindaj
@@ -89377,6 +89944,7 @@ nekondiĉaj
 nekondiĉajn
 nekondiĉan
 nekoni
+nekonkerebla
 nekontenta
 nekontentaj
 nekontentajn
@@ -89404,6 +89972,7 @@ nekrologo
 nekrologoj
 nekrologojn
 nekrologon
+nekropolo
 nekropsii
 nekropsio
 nekrozo
@@ -89415,6 +89984,7 @@ nektaro
 nektaroj
 nektarojn
 nektaron
+nekuracebla
 nekutima
 nekutimaj
 nekutimajn
@@ -89476,7 +90046,7 @@ nenieco
 neniel
 nenien
 nenies
-neniesaĵo ()
+neniesaĵo
 neniesulo
 neniiganta
 neniigantaj
@@ -89575,7 +90145,6 @@ neniiĝus
 nenio
 nenio nova sub la suno
 neniom
-neniom ()
 nenion
 neniu
 neniuj
@@ -89689,7 +90258,6 @@ neptunio
 neptunion
 neracia
 neracionala
-neracionala ()
 neracionala nombro
 neracionalaj
 neracionalaj nombroj
@@ -89702,6 +90270,7 @@ nerdoj
 nerdojn
 nerdon
 nerealigebla
+nereciproka amo
 nereduktebla
 nerefutebla
 nerefuteblaj
@@ -89746,6 +90315,7 @@ nervozaj
 nervozajn
 nervozan
 nervoze
+nervozeco
 nesama
 nesamaj
 nesamajn
@@ -89770,6 +90340,7 @@ nesekuraj
 nesekurajn
 nesekuran
 nesimetria
+nesimetria milito
 nesimetriaj
 nesimetriajn
 nesimetrian
@@ -89927,6 +90498,7 @@ netoleremaj
 netoleremajn
 netolereman
 netolereme
+netradukebla
 netransitiva
 netransitiva verbo
 netransitivaj
@@ -89946,6 +90518,7 @@ nevenkebla
 nevenkeblaj
 nevenkeblajn
 nevenkeblan
+nevenkita
 nevera
 neveraj
 neverajn
@@ -89990,6 +90563,7 @@ neĝanton
 neĝas
 neĝblanka
 neĝborulo
+neĝemberizo
 neĝero
 neĝeroj
 neĝerojn
@@ -90066,7 +90640,6 @@ neŭrologiajn
 neŭrologian
 neŭrologie
 neŭrologino
-neŭrologino ()
 neŭrologio
 neŭrologion
 neŭrologo
@@ -90209,6 +90782,7 @@ nigra pulvo
 nigra rato
 nigra rinocero
 nigra tabulo
+nigra teo
 nigra truo
 nigra vendredo
 nigra vidvino
@@ -90295,6 +90869,7 @@ nikotino
 nikotinon
 nikso
 niktereŭto
+nilono
 nilpotenta
 nimbo
 nimfeo
@@ -90460,6 +91035,7 @@ noca
 noci
 nociaro
 nocio
+nocu
 nodo
 nogaja lingvo
 nokoj
@@ -90493,6 +91069,7 @@ noktomezon
 nokton
 noktosurtuto
 noktotablo
+noktovagulo
 noktovazo
 noktovida
 noktovidaj
@@ -90501,6 +91078,7 @@ noktovidan
 noktoĉemizeto
 noktoĉemizo
 noktpapilio
+noktulo
 noktuo
 noktvestaĵo
 nomada
@@ -90536,6 +91114,7 @@ nomatojn
 nomaton
 nombazo
 nombri
+nombrilo
 nombro
 nombroj
 nombrojn
@@ -90710,6 +91289,7 @@ nomŝildo
 nomŝildoj
 nomŝildojn
 nomŝildon
+noo
 noradrenalino
 noradrenalinon
 nord-irlanda
@@ -91162,7 +91742,6 @@ nululo
 numbato
 numenio
 numeralo
-numeralo ()
 numeraloj
 numeralojn
 numeralon
@@ -91185,6 +91764,7 @@ nuna tempo
 nunaj
 nunajn
 nunan
+nuncio
 nune
 nuneco
 nunecon
@@ -91777,6 +92357,7 @@ ofico
 oficoj
 oficojn
 oficon
+ofsajdo
 ofta
 oftaj
 oftaj demandoj
@@ -91792,6 +92373,7 @@ oftaĵo
 ofte
 ofteco
 oftecon
+ofti
 ofto
 oftoj
 oftojn
@@ -91830,6 +92412,7 @@ okazaĵoj
 okazaĵojn
 okazaĵon
 okaze
+okazfrazo
 okazi
 okazigi
 okazintaĵo
@@ -91839,6 +92422,7 @@ okazintaĵon
 okazis
 okazis akcidento
 okazo
+okazo ordona
 okazoj
 okazojn
 okazon
@@ -91969,6 +92553,7 @@ okopo
 okopoj
 okopojn
 okopon
+oksidanto
 oksidigo
 oksidigoj
 oksidigojn
@@ -92108,6 +92693,7 @@ okulo
 okuloj
 okulojn
 okulon
+okulon pro okulo
 okulon pro okulo, denton pro dento
 okulsigni
 okulta
@@ -92367,6 +92953,7 @@ oligarko
 oligarkoj
 oligarkojn
 oligarkon
+oligarĥia
 oligarĥio
 oligarĥioj
 oligarĥiojn
@@ -92634,6 +93221,8 @@ opiniu
 opinius
 opio
 opion
+opiopapavo
+opipapavo
 opistokomo
 opo
 opoj
@@ -92734,8 +93323,8 @@ oranĝkolora
 oranĝkoloraj
 oranĝkolorajn
 oranĝkoloran
+oranĝkoloro
 oranĝo
-oranĝo ()
 oranĝo-floro
 oranĝoflora akvo
 oranĝofloran akvon
@@ -92839,6 +93428,7 @@ ordinato
 ordinatoj
 ordinatojn
 ordinaton
+ordizi
 ordo
 ordoj
 ordojn
@@ -93049,7 +93639,6 @@ organizoton
 organizu
 organizus
 organo
-organo ()
 organoj
 organojn
 organon
@@ -93096,7 +93685,6 @@ orgenistoj
 orgenistojn
 orgeniston
 orgeno
-orgeno ()
 orgenoj
 orgenojn
 orgenon
@@ -93106,6 +93694,7 @@ orgojlo
 orgojloj
 orgojlojn
 orgojlon
+orielo
 orienta
 orienta danco
 orienta sapherbo
@@ -93162,6 +93751,7 @@ oriolo
 orita
 orkestrestro
 orkestro
+orkestrofosaĵo
 orkestroj
 orkestrojn
 orkestron
@@ -93191,10 +93781,12 @@ orkojn
 orkolora
 orkolora reporthundo
 orkon
+orlo
 orminejo
 orminejoj
 orminejojn
 orminejon
+ornama
 ornama epiteto
 ornamanta
 ornamantaj
@@ -93437,6 +94029,7 @@ oscilontoj
 oscilontojn
 oscilonton
 oscilos
+osciloskopo
 oscilota
 oscilotaj
 oscilotajn
@@ -93576,10 +94169,12 @@ oĉjon
 oĥlokratio
 oŭzo
 p
+p*go
+p*gtruo
+p*ĉo
 p.K.
 p.s.
 p.t.m.
-p/a (per adreso)
 pa
 paca
 pacaj
@@ -93618,12 +94213,15 @@ pacifistoj
 pacifistojn
 pacifiston
 pacismo
+packiso
 paco
 pacoj
 pacojn
 pacon
 pad taj
 padavano
+padelŝipo
+padiŝaho
 pado
 paf
 pafado
@@ -94004,7 +94602,6 @@ palmo
 palmobranĉo
 palmodimanĉo
 palmofesto
-palmofesto ()
 palmoj
 palmojn
 palmoleo
@@ -94038,7 +94635,6 @@ panamano
 panamianino
 panamiano
 panarbo
-pandaro
 pandemio
 pandemonio
 pando
@@ -94124,11 +94720,14 @@ papajojn
 papajon
 papamobilo
 paparaco
+papava ruĝo
+papaveto
 papavo
 papavoj
 papavojn
 papavon
 papaĥo
+papera tigro
 paperfarejo
 paperfarejoj
 paperfarejojn
@@ -94230,10 +94829,16 @@ parados
 paradu
 paradus
 paradĉevalo
+parafrazas
+parafrazi
+parafrazis
 parafrazo
 parafrazoj
 parafrazojn
 parafrazon
+parafrazos
+parafrazu
+parafrazus
 paraglisado
 paragrafo
 paragrafoj
@@ -94558,6 +95163,7 @@ parlamentoj
 parlamentojn
 parlamenton
 paro
+parodia proceso
 parodii
 parodio
 paroj
@@ -94575,6 +95181,7 @@ paroksitonan
 parola
 parola historio
 parola tradicio
+parola veziko
 paroladaĉo
 paroladi
 parolado
@@ -94630,6 +95237,7 @@ parolintoj
 parolintojn
 parolinton
 parolis
+parolisto
 parolita
 parolitaj
 parolitajn
@@ -94703,7 +95311,6 @@ participo
 participoj
 participojn
 participon
-partieco
 partigi
 partikla fiziko
 partiklan fizikon
@@ -94863,6 +95470,9 @@ pasigito
 pasigitoj
 pasigitojn
 pasigiton
+pasigo per algoritmo
+pasigo per referenco
+pasigo per valoro
 pasigonta
 pasigontaj
 pasigontajn
@@ -94956,6 +95566,7 @@ pasporto
 pasportoj
 pasportojn
 pasporton
+pastaĵo
 pastelo
 pasterno
 pasteĉo
@@ -94995,6 +95606,7 @@ pasvorto
 pasvortoj
 pasvortojn
 pasvorton
+patato
 patelo
 patkukejo
 patkuko
@@ -95407,7 +96019,15 @@ pedalo
 pedaloj
 pedalojn
 pedalon
+pedanta
+pedantaj
+pedantajn
+pedantan
+pedanteco
 pedanto
+pedantoj
+pedantojn
+pedanton
 pederasta
 pederasto
 pederastoj
@@ -95435,6 +96055,7 @@ pego
 pegoj
 pegojn
 pegon
+pejlo
 pejotlo
 pejzaĝo
 pejzaĝoj
@@ -95768,6 +96389,7 @@ pendumu
 pendumus
 pendus
 pene
+peneo
 penetra
 penetraj
 penetrajn
@@ -95977,7 +96599,6 @@ pentagramoj
 pentagramojn
 pentagramon
 pentaklo
-pentaklo ()
 pentakloj
 pentaklojn
 pentaklon
@@ -96154,6 +96775,7 @@ peptidon
 pepu
 pepus
 per
+per adreso
 per armila forto
 per la jeno
 per ligno
@@ -96427,6 +97049,7 @@ perko
 perkoj
 perkojn
 perkomputila dezajnado
+perkomputila grafiko
 perkomputila projektado
 perkon
 perkutas
@@ -96541,8 +97164,8 @@ perpendikularaj
 perpendikularajn
 perpendikularan
 perpendikulare
+perreferenca parametro
 persa
-persa ()
 persa kato
 persa leono
 persa leporhundo
@@ -96576,6 +97199,7 @@ persoj
 persojn
 person
 persona
+persona nomo
 persona pronomo
 personaj
 personajn
@@ -96595,6 +97219,9 @@ perspektivojn
 perspektivon
 persvadi
 persvado
+persvadoj
+persvadojn
+persvadon
 perturbi
 perturbo
 perturboj
@@ -96705,6 +97332,7 @@ petanto
 petantoj
 petantojn
 petanton
+petardo
 petas
 petata
 petataj
@@ -96757,6 +97385,7 @@ petolemaj
 petolemajn
 petoleman
 petoli
+petolo
 petolulo
 petolumi
 peton
@@ -96811,6 +97440,7 @@ petus
 petveturi
 petveturisto
 peza
+peza industrio
 pezaj
 pezajn
 pezan
@@ -96843,6 +97473,7 @@ pezintoj
 pezintojn
 pezinton
 pezis
+pezkomenca
 pezmetalo
 pezmetaloj
 pezmetalojn
@@ -96880,7 +97511,6 @@ pianetoj
 pianetojn
 pianeton
 pianistino
-pianistino ()
 pianisto
 pianistoj
 pianistojn
@@ -96919,6 +97549,7 @@ piedfingron
 piedfingropinte
 piedingo
 piediranta
+piediranta transiro
 piedirantino
 piedirantiĉo
 piediranto
@@ -96985,7 +97616,6 @@ pikfosilo
 piki
 pikilhava kukumo
 pikilo
-pikilo ()
 pikis
 piknikanta
 piknikantaj
@@ -97109,6 +97739,7 @@ piloto
 pilotoj
 pilotojn
 piloton
+pimento
 pimpa
 pinarbo
 pinarboj
@@ -97237,11 +97868,13 @@ pipojn
 pipon
 pipra
 pipro
+piproarbedo
 pipromento
 pipromentoj
 pipromentojn
 pipromenton
 pipron
+piprujo
 piracino
 piramida
 piramide
@@ -97348,6 +97981,7 @@ pisito
 pisitoj
 pisitojn
 pisiton
+piso
 pisonta
 pisontaj
 pisontajn
@@ -97374,18 +98008,77 @@ pispoton
 pistado
 pistako
 pistakujo
+pistanta
+pistantaj
+pistantajn
+pistantan
+pistante
+pistanto
+pistantoj
+pistantojn
+pistanton
+pistas
+pistata
+pistataj
+pistatajn
+pistatan
+pistate
+pistato
+pistatoj
+pistatojn
+pistaton
 pistaĵo
 pistejo
 pisti
 pistilo
 pistilo kaj pistujo
+pistinta
+pistintaj
+pistintajn
+pistintan
+pistinte
+pistinto
+pistintoj
+pistintojn
+pistinton
+pistis
+pistita
+pistitaj
+pistitajn
+pistitan
 pistitaĵo
+pistite
+pistito
+pistitoj
+pistitojn
+pistiton
 pistolo
 pistoloj
 pistolojn
 pistolon
 pistomaŝino
+pistonta
+pistontaj
+pistontajn
+pistontan
+pistonte
+pistonto
+pistontoj
+pistontojn
+pistonton
+pistos
+pistota
+pistotaj
+pistotajn
+pistotan
+pistote
+pistoto
+pistotoj
+pistotojn
+pistoton
+pistu
 pistujo
+pistus
 pisu
 pisus
 pitagora
@@ -97682,6 +98375,7 @@ plantiton
 planto
 plantoj
 plantojn
+plantolakto
 planton
 plantonta
 plantontaj
@@ -97712,6 +98406,8 @@ plasmidojn
 plasmidon
 plasmo
 plasmon
+plasta
+plastia kirurgio
 plastiko
 plasto
 plastoj
@@ -97930,6 +98626,9 @@ plej
 plej bone ridas, kiu laste ridas
 plej fora
 plej malmulta
+plej moderna
+plej nova furoro
+plej nova modo
 plej preferata
 plej ŝatata
 pleja
@@ -98032,7 +98731,7 @@ plenajn
 plenan
 plenaĝiĝi
 plenaĝo
-plenblovi ()
+plenblovi
 plendanta
 plendantaj
 plendantajn
@@ -98167,6 +98866,7 @@ plenplenaj
 plenplenajn
 plenplenan
 plenpova
+plenpoviga leĝo
 plenpovo
 plenpovulo
 plenumanta
@@ -98812,7 +99512,6 @@ plonĝi
 plonĝistino
 plonĝisto
 plonĝiĝi
-plonĝiĝi ()
 plonĝmasko
 plorante
 ploras
@@ -98996,10 +99695,10 @@ pluralajn
 pluralan
 plurale
 pluralo
-pluralo ()
 pluraloj
 pluralojn
 pluralon
+pluramema
 pluramemo
 pluraneco
 plurangula
@@ -99033,6 +99732,7 @@ plurlingvulo
 plurnombra
 plurrolulo
 plursenca
+plurtaskado
 plurĉelo
 plurĉeloj
 plurĉelojn
@@ -99081,6 +99781,7 @@ pluvarbaroj
 pluvarbarojn
 pluvarbaron
 pluvas
+pluvegi
 pluvego
 pluvegoj
 pluvegojn
@@ -99182,7 +99883,7 @@ poemoj
 poemojn
 poemon
 poentaro
-poenti ()
+poenti
 poentkvoto
 poento
 poentoj
@@ -99214,6 +99915,7 @@ pogromo
 pogute versi
 pojnduelo
 pojno
+pokalisto
 pokalo
 pokaloj
 pokalojn
@@ -99247,6 +99949,8 @@ polemikojn
 polemikon
 poleno
 polenon
+polento
+polenton
 poli-
 poliandrio
 polica
@@ -99301,13 +100005,13 @@ polimeron
 polinezianino
 polineziano
 polino
-polio
 poliomjelito
 poliomjeliton
 polipeptido
 polipeptidoj
 polipeptidojn
 polipeptidon
+polipo
 poliptiko
 polisemio
 politeismo
@@ -99372,6 +100076,7 @@ poluato
 poluatoj
 poluatojn
 poluaton
+poluaĵo
 polucianta
 poluciantaj
 poluciantajn
@@ -99676,12 +100381,14 @@ poo
 pooj
 poojn
 poon
+popa
 popece
 poplito
 poplo
 poploj
 poplojn
 poplon
+popmuzika
 popo
 popoj
 popojn
@@ -99696,6 +100403,7 @@ popolamasojn
 popolamason
 popolan
 popolanaro
+popolmedicino
 popolmuziko
 popolmuzikon
 popolnombrado
@@ -100004,6 +100712,7 @@ poshtoj
 poshtojn
 poshton
 post
+post konfeso venas forgeso
 post ĉiom
 post-ioma
 posta
@@ -100041,11 +100750,13 @@ posteuloj
 posteulojn
 posteulon
 postfojno
+postgusto
 postiljono
 postkolonia
 postkoloniaj
 postkoloniajn
 postkolonian
+postkomplico
 postkranio
 postkuri
 postkuro
@@ -100108,6 +100819,10 @@ postulos
 postulu
 postulus
 postveni
+postveturilo
+postveturiloj
+postveturilojn
+postveturilon
 postvivanta
 postvivantaj
 postvivantajn
@@ -100182,6 +100897,7 @@ potencaj
 potencajn
 potencan
 potenciala
+potenciala energio
 potenciala koramiko
 potencialaj
 potencialajn
@@ -100346,7 +101062,6 @@ poŝtmarkoj
 poŝtmarkojn
 poŝtmarkon
 poŝto
-poŝto ()
 poŝtoficejo
 poŝtoficejoj
 poŝtoficejojn
@@ -100403,7 +101118,7 @@ prahistoria
 prahistorio
 prahistorion
 prahomaj pentraĵoj
-prahomo ()
+prahomo
 prajmi
 prajmo
 prajmoj
@@ -100542,6 +101257,7 @@ pravu
 pravus
 prazeodimo
 prazeodimon
+praĉelo
 praŝargo
 praŝarĝi
 praŝarĝo
@@ -100852,6 +101568,7 @@ premmarmito
 premo
 premoj
 premojn
+premolaro
 premon
 premonta
 premontaj
@@ -101099,6 +101816,7 @@ presiton
 preskau
 preskaux
 preskaŭ
+preskaŭ freŝa ĉeĥa manĝaĵo
 preskaŭ nesufiĉa
 preskaŭ ĉiel
 preskaŭ ĉiom
@@ -101122,6 +101840,7 @@ presoto
 presotoj
 presotojn
 presoton
+prestidigitatoro
 prestidigiti
 prestidigitiisto
 prestidigitisto
@@ -101249,7 +101968,6 @@ preterflugu
 preterflugus
 preteriras
 preteriri
-preteriri ()
 preterita participo
 preterito
 preteritoj
@@ -101698,7 +102416,6 @@ pridisputitaj
 pridisputitajn
 pridisputitan
 prifajfi
-prifajfi ()
 prifumi
 priinstrua
 priinstruaj
@@ -101719,6 +102436,7 @@ priman faktoron
 primara
 primavero
 primitiva
+primitiva komando
 primo
 primoj
 primojn
@@ -101739,7 +102457,6 @@ principoj
 principojn
 principon
 princiĉo
-princiĉo ()
 princlando
 princlandoj
 princlandojn
@@ -102285,6 +103002,7 @@ private
 privateco
 privatecon
 privatigi
+privatlernejano
 priveti
 privilegio
 prizona
@@ -103341,6 +104059,8 @@ propri
 proprietaĵo
 proprieto
 proprietulo
+proprioceptado
+propriocepto
 propulsanta
 propulsantaj
 propulsantajn
@@ -103490,6 +104210,7 @@ prostituu
 prostituus
 protaktinio
 protaktinion
+proteina trinkaĵo
 proteino
 proteinoj
 proteinojn
@@ -103903,6 +104624,7 @@ prudulo
 pruduloj
 prudulojn
 prudulon
+prufiguro
 prujno
 prujnoj
 prujnojn
@@ -104187,6 +104909,7 @@ pubhararo
 pubharo
 publika
 publika havaĵo
+publika servo
 publikaj
 publikajn
 publikan
@@ -104319,7 +105042,6 @@ pufigatoj
 pufigatojn
 pufigaton
 pufigi
-pufigi ()
 pufiginta
 pufigintaj
 pufigintajn
@@ -104398,6 +105120,7 @@ pugfrapadebla
 pugfrapadi
 pugfrapadinda
 pugno
+pugnobatego
 pugnobati
 pugnobato
 pugnoj
@@ -104435,6 +105158,7 @@ pulovero
 puloveroj
 puloverojn
 puloveron
+pulpo
 pulsanta
 pulsantaj
 pulsantajn
@@ -104497,11 +105221,11 @@ pumojn
 pumon
 pumpas
 pumpata
+pumperniklo
 pumpi
 pumpilo
 pumpis
 pumpo
-pumpo ()
 pumpos
 pumpu
 pumpus
@@ -104859,6 +105583,8 @@ pusxotojn
 pusxoton
 pusxu
 pusxus
+put*inido
+put*ino
 putineca
 putinfilo
 putinido
@@ -104866,7 +105592,6 @@ putinidoj
 putinidojn
 putinidon
 putino
-putino ()
 putinoj
 putinojn
 putinon
@@ -104988,13 +105713,12 @@ rabenoj
 rabenojn
 rabenon
 rabi
-rabinto ()
+rabinto
 rabis
 rabista
 rabistaj
 rabistaro
 rabisto
-rabisto ()
 rabistoj
 rabistojn
 rabiston
@@ -105024,10 +105748,8 @@ racieco
 raciismo
 raciismon
 racio
-racio ()
 racion
 racionala
-racionala ()
 racionala funkcio
 racionala nombro
 racionalaj
@@ -105041,6 +105763,7 @@ racionalan funkcion
 racionalan nombron
 racionalismo
 racionalisto
+radaro
 radblokilo
 radiadilo
 radiado
@@ -105088,10 +105811,12 @@ radiitoj
 radiitojn
 radiiton
 radikalega
+radikalulo
 radikaro
 radikaroj
 radikarojn
 radikaron
+radikato
 radikbiero
 radiko
 radikoj
@@ -105119,6 +105844,7 @@ radiofrekvencojn
 radiofrekvencon
 radioj
 radiojn
+radiokarbona datado
 radion
 radionta
 radiontaj
@@ -105154,6 +105880,8 @@ radojn
 radon
 radono
 radonon
+radseĝo
+radsulko
 radŝpinilo
 raelismo
 raelismon
@@ -105167,6 +105895,7 @@ rafanojn
 rafanokadavro
 rafanon
 rafini
+rafio
 ragdola kato
 ragtimo
 raguo
@@ -105371,6 +106100,8 @@ rakitismoj
 rakitismojn
 rakitismon
 rakito
+rako
+rakonta
 rakontanta
 rakontantaj
 rakontantajn
@@ -105443,6 +106174,7 @@ rakontu
 rakontus
 ralardeo
 rameno
+ramno
 ramnozo
 ramnozoj
 ramnozojn
@@ -105530,6 +106262,8 @@ ranunkolacoj
 ranunkolacojn
 ranunkolo
 ranĉ-saŭco
+ranĉisto
+ranĉo
 rapida
 rapida fervojo
 rapida metalroko
@@ -105557,7 +106291,6 @@ rapidigus
 rapidis
 rapidiĝi
 rapidmanĝaĵo
-rapidmezurilo
 rapido
 rapidoj
 rapidojn
@@ -105749,6 +106482,7 @@ raspote
 raspoto
 raspu
 raspus
+rastabukloj
 rastero
 rastilo
 rastro
@@ -105875,6 +106609,7 @@ razintojn
 razinton
 razio
 razis
+razisto
 razita
 razitaj
 razitajn
@@ -106294,6 +107029,7 @@ redaktoton
 redaktu
 redaktus
 rediri
+reditero
 redonanta
 redonantaj
 redonantajn
@@ -106585,9 +107321,14 @@ refleksivo
 reflekso
 refleksologio
 reflekta nebulozo
+reflektas
 reflekti
+reflektis
 reflekto
 reflektoro
+reflektos
+reflektu
+reflektus
 refluo
 refoje
 reformo
@@ -106765,7 +107506,10 @@ registritaj partnerecoj
 registritajn partnerecojn
 registritan partnerecon
 registriĝi
+registrumo
 reglui
+regna
+regnano
 regnestro
 regnestroj
 regnestrojn
@@ -106776,6 +107520,7 @@ regnoj
 regnojn
 regnon
 regos
+regsigno
 regu
 regula
 regula pluredro
@@ -107052,6 +107797,7 @@ rekordo
 rekordoj
 rekordojn
 rekordon
+rekremento
 rekreski
 rekrutinstruisto
 rekrutinstruistoj
@@ -107079,7 +107825,9 @@ rektoŝnuro
 rekudri
 rekuriga klavo
 rekuro
+relajso
 relativa
+relativa plimulto
 relative
 relativeco
 relativigi
@@ -107166,10 +107914,12 @@ relikvujo
 relikvujoj
 relikvujojn
 relikvujon
+reliŝo
 relo
 reloj
 relojn
 relon
+reltobogano
 reludversio
 remado
 remao
@@ -107203,6 +107953,10 @@ remeti
 remi
 remiksaĵo
 remilo
+remisto
+remistoj
+remistojn
+remiston
 remizedoj
 remorko
 remparo
@@ -107256,6 +108010,7 @@ renkontiĝintoj
 renkontiĝintojn
 renkontiĝinton
 renkontiĝis
+renkontiĝo
 renkontiĝonta
 renkontiĝontaj
 renkontiĝontajn
@@ -107472,6 +108227,8 @@ reokazos
 reokazu
 reokazus
 repagi
+repagi per la sama monero
+repago
 repdigito
 repepi
 repertuaro
@@ -107658,7 +108415,6 @@ resaltonton
 resaltos
 resaltu
 resaltus
-resani
 resanigi
 resanigiisto
 resanigilo
@@ -107698,6 +108454,7 @@ resaniĝos
 resaniĝu
 resaniĝus
 reserĉata
+resono
 resp.
 respekta
 respektaj
@@ -107813,7 +108570,6 @@ respondecantojn
 respondecanton
 respondecas
 respondeci
-respondeci ()
 respondecigi
 respondecinta
 respondecintaj
@@ -108273,7 +109029,6 @@ retpoŝtelefonojn
 retpoŝtelefonon
 retpoŝti
 retpoŝto
-retpoŝto ()
 retpoŝton
 retre
 retro-
@@ -108294,6 +109049,7 @@ retseminario
 rettrompado
 retumado
 retumanto
+retumejo
 retumi
 retumilo
 retumiloj
@@ -108853,6 +109609,7 @@ rezistotojn
 rezistoton
 rezistu
 rezistus
+rezolucio
 rezonado
 rezonas
 rezonema
@@ -108908,6 +109665,7 @@ reĝa
 reĝa aglo
 reĝa moŝto
 reĝa ni
+reĝa ĵeleo
 reĝaj
 reĝajn
 reĝan
@@ -108932,7 +109690,6 @@ reĝidino
 reĝidinoj
 reĝidinojn
 reĝidinon
-reĝidiĉo
 reĝido
 reĝidoj
 reĝidojn
@@ -108964,7 +109721,6 @@ reĝisoro
 reĝisoroj
 reĝisorojn
 reĝisoron
-reĝiĉo
 reĝlando
 reĝlandoj
 reĝlandojn
@@ -108993,8 +109749,10 @@ reĝontojn
 reĝonton
 reĝos
 reĝu
+reĝulo
 reĝus
 reĝustigi
+reŝargi
 reŭmatismo
 reŭmatismoj
 reŭmatismojn
@@ -109369,6 +110127,8 @@ rigida
 rigidaj
 rigidajn
 rigidan
+rigide
+rigidiĝi
 rigidkovrila
 riglado
 riglanta
@@ -110042,6 +110802,7 @@ rivoluito
 rivoluitoj
 rivoluitojn
 rivoluiton
+rivoluo
 rivoluonta
 rivoluontaj
 rivoluontajn
@@ -110104,6 +110865,7 @@ riĉerkaroj
 riĉerkarojn
 riĉerkaron
 riĉo
+riĉulido
 riĉulo
 riĉuloj
 riĉulojn
@@ -110126,6 +110888,7 @@ roboto
 robotoj
 robotojn
 roboton
+rodeo
 rodio
 rodion
 rodisanino
@@ -110136,6 +110899,7 @@ rojo
 rojoj
 rojojn
 rojon
+rok-muziko
 rokego
 rokegoj
 rokegojn
@@ -110234,6 +110998,7 @@ romantikan
 romantikismo
 romantikulo
 romanĉa
+romanĉa lingvo
 romanĉaj
 romanĉajn
 romanĉan
@@ -110370,6 +111135,7 @@ rompoton
 rompoŝtelo
 rompu
 rompus
+rona-
 ronda
 rondaj
 rondajn
@@ -110383,6 +111149,7 @@ rondon
 rondoplaco
 ronki
 ronroni
+ronto-
 ronĝanta
 ronĝantaj
 ronĝantajn
@@ -110519,6 +111286,7 @@ rostontoj
 rostontojn
 rostonton
 rostos
+rostostango
 rostota
 rostotaj
 rostotajn
@@ -110538,6 +111306,7 @@ rostus
 rotacia
 rotaciado
 rotaciadon
+rotacii
 rotaismo
 roto
 rotoj
@@ -110615,12 +111384,14 @@ roŝtio
 roŭmo
 ruandanino
 ruandano
+rubakvo
 rubanda krocbekulo
 rubando
 rubandoj
 rubandojn
 rubandon
 rubaĵo
+rubekolo
 rubeno
 rubenoj
 rubenojn
@@ -110811,10 +111582,8 @@ rusigi
 rusigo
 rusigon
 rusino
-rusino ()
 rusko
 ruslandanino
-ruslandanino ()
 ruslandano
 ruslingvano
 ruslingvanoj
@@ -110841,7 +111610,6 @@ rusto
 rustokoloro
 ruston
 rusujanino
-rusujanino ()
 rusujano
 rutenio
 rutenion
@@ -111017,6 +111785,7 @@ ruĝu
 ruĝus
 ruĝventra kukabarao
 ruĝvostulo
+ruŝo
 s
 s-ano
 s-ino
@@ -111285,6 +112054,7 @@ salajroj
 salajrojn
 salajron
 salajrotago
+salakva lago
 salakvo
 salakvoj
 salakvojn
@@ -111326,6 +112096,8 @@ saldojn
 saldon
 salejo
 salfarejo
+salfloro
+salgusta
 sali
 saligi
 salika
@@ -111396,6 +112168,7 @@ saloto
 salotoj
 salotojn
 saloton
+salpetro
 salsekiĝejo
 salso
 saltadi
@@ -111724,6 +112497,7 @@ sanga vaskulo
 sangadulto
 sangaj
 sangajn
+sangalfluo
 sangan
 sanganta
 sangantaj
@@ -111916,7 +112690,13 @@ sanktfiguro
 sanktiganto
 sanktigi
 sanktigi la sabaton
+sanktoleas
+sanktolei
+sanktoleis
 sanktoleo
+sanktoleos
+sanktoleu
+sanktoleus
 sanktrestaĵo
 sanktulino
 sanktuliĉo
@@ -111941,6 +112721,7 @@ sanontojn
 sanonton
 sanos
 sansaro
+santalo
 santolo
 sanu
 sanulo
@@ -112060,6 +112841,7 @@ sarkofago
 sarkofagoj
 sarkofagojn
 sarkofagon
+sarkomo
 sarongjupo
 sarongjupoj
 sarongjupojn
@@ -112263,7 +113045,6 @@ scenaristojn
 scenariston
 scenaro
 scenejo
-scenfilmado
 sceno
 scenoj
 scenojn
@@ -112318,7 +113099,6 @@ scientistojn
 scientiston
 scietis
 scii
-scii ()
 sciiganta
 sciigantaj
 sciigantajn
@@ -112537,7 +113317,6 @@ scivole
 scivoleco
 scivolecon
 scivoleme
-scripture
 se
 se kaj nur se
 se la monto ne venas al Mohamedo, Mohamedo devas iri al monto
@@ -112686,6 +113465,7 @@ segotojn
 segoton
 segu
 segus
+seisma
 seismo
 sejno
 sejtano
@@ -112882,6 +113662,7 @@ seksemulojn
 seksemulon
 seksismo
 seksismon
+sekskuniĝi
 sekskuniĝo
 sekslaboristo
 sekslaboristoj
@@ -113054,7 +113835,9 @@ sekvato
 sekvatoj
 sekvatojn
 sekvaton
+sekvaĵo
 sekve
+sekvenco
 sekvestrado
 sekvi
 sekvinbero
@@ -113104,6 +113887,7 @@ sekvotojn
 sekvoton
 sekvu
 sekvus
+selakto
 selekti
 seleno
 selenon
@@ -113201,7 +113985,6 @@ semitoj
 semitojn
 semiton
 semo
-semo ()
 semolino
 semolo
 semon
@@ -113525,7 +114308,7 @@ sendormecoj
 sendormecojn
 sendormecon
 sendos
-sendostacio ()
+sendostacio
 sendota
 sendotaj
 sendotajn
@@ -113544,6 +114327,7 @@ sendubajn
 senduban
 sendube
 sendus
+senegala
 senegalianino
 senegaliano
 senekvilibra
@@ -113685,6 +114469,7 @@ senkapigo
 senkapigoj
 senkapigojn
 senkapigon
+senkaptuka
 senkiala
 senkialaj
 senkialajn
@@ -113711,7 +114496,6 @@ senkorpaj
 senkorpajn
 senkorpan
 senkosta
-senkosta ()
 senkostaj
 senkostajn
 senkostan
@@ -113732,10 +114516,13 @@ senkulpigoj
 senkulpigojn
 senkulpigon
 senkulpigu min
+senkultivejo
 senkultura
 senkulturaj
 senkulturajn
 senkulturan
+senkunteksta gramatiko
+senkunteksta lingvo
 senkuraĝa
 senlaborulo
 senlaboruloj
@@ -113757,6 +114544,7 @@ senloĝantejon
 senmanka
 senmaskigi
 senmaskiĝi
+senmemora cirkvito
 senmentona
 senmentonaj
 senmentonajn
@@ -113786,6 +114574,7 @@ senmortuloj
 senmortulojn
 senmortulon
 senmova
+senmova punkto
 senmovaj
 senmovajn
 senmovan
@@ -113992,6 +114781,7 @@ senperspektivan
 senpilota aviadilo
 senplumba
 senporda
+senpostena ministro
 senpova
 senpovaj
 senpovajn
@@ -114040,6 +114830,7 @@ sensignife
 sensignifeco
 sensignifecon
 sensilo
+senso
 sensoifigi
 sensoifiĝi
 sensolve
@@ -114054,6 +114845,10 @@ senstreĉiĝi
 sensuka
 sensukcese
 sensukera
+sensuna
+sensunaj
+sensunajn
+sensunan
 sentanta
 sentantaj
 sentantajn
@@ -114275,6 +115070,7 @@ senĝoja
 senĝojaj
 senĝojajn
 senĝojan
+senŝargigi
 senŝeligi
 senŝua
 senŝuaj
@@ -114390,6 +115186,68 @@ septembro
 septembroj
 septembrojn
 septembron
+sepultanta
+sepultantaj
+sepultantajn
+sepultantan
+sepultante
+sepultanto
+sepultantoj
+sepultantojn
+sepultanton
+sepultas
+sepultata
+sepultataj
+sepultatajn
+sepultatan
+sepultate
+sepultato
+sepultatoj
+sepultatojn
+sepultaton
+sepultejo
+sepulti
+sepultinta
+sepultintaj
+sepultintajn
+sepultintan
+sepultinte
+sepultinto
+sepultintoj
+sepultintojn
+sepultinton
+sepultis
+sepultita
+sepultitaj
+sepultitajn
+sepultitan
+sepultite
+sepultito
+sepultitoj
+sepultitojn
+sepultiton
+sepulto
+sepultonta
+sepultontaj
+sepultontajn
+sepultontan
+sepultonte
+sepultonto
+sepultontoj
+sepultontojn
+sepultonton
+sepultos
+sepultota
+sepultotaj
+sepultotajn
+sepultotan
+sepultote
+sepultoto
+sepultotoj
+sepultotojn
+sepultoton
+sepultu
+sepultus
 serafo
 serajlo
 serba
@@ -114449,6 +115307,7 @@ serpenta
 serpentaj
 serpentajn
 serpentan
+serpenti
 serpentido
 serpentino
 serpento
@@ -114565,6 +115424,7 @@ servotojn
 servoton
 servu
 servus
+servuto
 serĉafiŝo
 serĉanta
 serĉantaj
@@ -114768,12 +115628,15 @@ sesono
 sesonoj
 sesonojn
 sesonon
+sesopo
 sesterco
+sesŝarga
 severa
 severaj
 severajn
 severan
 severe
+severŝparado
 sezama pasto
 sezono
 sezono de protekto
@@ -115234,6 +116097,7 @@ siesto
 siestoj
 siestojn
 sieston
+sieĝarmo
 sieĝi
 sieĝo
 sieĝoj
@@ -115330,10 +116194,14 @@ signifu
 signifus
 signis
 signo
+signobildo
+signogenerilo
 signoj
 signojn
+signoklaso
 signon
 signonumero
+signoĉeno
 sika
 sikaj
 sikajn
@@ -115719,6 +116587,7 @@ simptomon
 simulado
 simuli
 simulilo
+simuno
 sin
 sin deteni
 sin klini
@@ -115828,6 +116697,8 @@ sinjorojn
 sinjoron
 sinkopo
 sinkreta
+sinkretismo
+sinkretismon
 sinkrona
 sinkronaj
 sinkronajn
@@ -115839,6 +116710,7 @@ sinmasturbado
 sinmasturbadoj
 sinmasturbadojn
 sinmasturbadon
+sinmasturbi
 sinmortiganta
 sinmortigantaj
 sinmortigantajn
@@ -115970,6 +116842,7 @@ sinto
 sintoj
 sintojn
 sinton
+sintrovi
 sinuo
 sinusito
 sinuso
@@ -116010,6 +116883,7 @@ siropvaflo
 siropvafloj
 siropvaflojn
 siropvaflon
+sisma
 sismo
 sistema
 sistema ruĝa lupuso
@@ -116599,10 +117473,11 @@ skrapgumoj
 skrapgumojn
 skrapgumon
 skrapi
+skrapmaŝino
 skrapvundo
 skriba
 skribadarto
-skribado ()
+skribado
 skribaj
 skribajn
 skriban
@@ -116688,11 +117563,12 @@ skribaĉoton
 skribaĉu
 skribaĉus
 skribaĵo
-skribaĵo writing
 skribaĵoj
 skribaĵojn
 skribaĵon
+skribdifekti
 skribe
+skribesko
 skribi
 skribi al
 skribilo
@@ -116815,6 +117691,7 @@ skulptisto
 skulptistoj
 skulptistojn
 skulptiston
+skuno
 skuo
 skuoj
 skuojn
@@ -116857,9 +117734,11 @@ skvamoza
 skvamulo
 skvaŝo
 skvo
+slalomo
 slango
 slangon
 slava
+slavaĵo
 slave
 slavino
 slavistiko
@@ -116907,6 +117786,8 @@ smokingojn
 smokingon
 smurfo
 smuzio
+snajperino
+snajpero
 snoba
 snobeco
 snobo
@@ -116930,6 +117811,7 @@ socia
 socia justeco
 socia medio
 socia retejo
+socia statuso
 sociaj
 sociajn
 sociala
@@ -116946,13 +117828,13 @@ socialismo
 socialismon
 socialista
 socialistino
-socialistino ()
 socialisto
 socialistoj
 socialistojn
 socialiston
 socian
 socie
+sociema
 societo
 societoj
 societojn
@@ -116976,7 +117858,9 @@ sofisto
 sofo
 sofoj
 sofojn
+sofolito
 sofon
+softvaro
 soifanta
 soifantaj
 soifantajn
@@ -116988,7 +117872,6 @@ soifantojn
 soifanton
 soifas
 soifi
-soifi ()
 soifinta
 soifintaj
 soifintajn
@@ -117442,6 +118325,9 @@ sonditoj
 sonditojn
 sonditon
 sondo
+sondoj
+sondojn
+sondon
 sondonta
 sondontaj
 sondontajn
@@ -117583,7 +118469,6 @@ sonĝantojn
 sonĝanton
 sonĝas
 sonĝaĉo
-sonĝaĉo premsonĝo
 sonĝaĉoj
 sonĝaĉojn
 sonĝaĉon
@@ -117765,6 +118650,7 @@ sorĉon
 sorĉos
 sorĉu
 sorĉus
+sorĉvergo
 soteriologio
 soula
 soulaj
@@ -117839,6 +118725,7 @@ sovetian
 sovetiano
 soveto
 sovĥozo
+sozio
 sozo
 sozo-oj
 sozo-ojn
@@ -118138,6 +119025,7 @@ spegulotoj
 spegulotojn
 speguloton
 spegulu
+spegulumo
 spegulus
 spektaklo
 spektakloj
@@ -118226,7 +119114,6 @@ spermatozoojn
 spermatozoon
 spermelĵeti
 spermo
-spermo ()
 spermodukto
 spermon
 sperta
@@ -118875,7 +119762,6 @@ starigatoj
 starigatojn
 starigaton
 starigi
-starigi ()
 stariginta
 starigintaj
 starigintajn
@@ -118937,7 +119823,6 @@ stariĝantojn
 stariĝanton
 stariĝas
 stariĝi
-stariĝi ()
 stariĝi tendare
 stariĝinta
 stariĝintaj
@@ -118980,7 +119865,6 @@ staru
 starus
 stas
 stati
-stati ()
 statika
 statistanta
 statistantaj
@@ -119055,6 +119939,7 @@ stato de aferoj
 statoj
 statojn
 staton
+statu
 statua
 statuarto
 statueto
@@ -119081,6 +119966,7 @@ staĝo
 staĝoj
 staĝojn
 staĝon
+staŭdo
 stebi
 stekiometrio
 stekiometrioj
@@ -119136,6 +120022,8 @@ stepoj
 stepojn
 stepon
 steradiano
+stereofonio
+stereofonion
 stereoizomero
 stereotipo
 sterila
@@ -119206,6 +120094,7 @@ sterkoton
 sterku
 sterkus
 sterlingo
+sternaĵo
 sterni
 sternumo
 stetoskopo
@@ -119330,6 +120219,7 @@ stirato
 stiratoj
 stiratojn
 stiraton
+stirflua diagramo
 stiri
 stirinta
 stirintaj
@@ -119351,6 +120241,7 @@ stiritoj
 stiritojn
 stiriton
 stiriĝi
+stirkonstruaĵo
 stirlernejo
 stironta
 stirontaj
@@ -119361,6 +120252,7 @@ stironto
 stirontoj
 stirontojn
 stironton
+stirorgano
 stiros
 stirota
 stirotaj
@@ -119371,6 +120263,7 @@ stiroto
 stirotoj
 stirotojn
 stiroton
+stirpanelo
 stirpermesilo
 stirpo
 stirpoj
@@ -119380,6 +120273,7 @@ stirrado
 stirradoj
 stirradojn
 stirradon
+stirsigno
 stiru
 stirus
 stis
@@ -119389,6 +120283,7 @@ stokasto
 stokholm-sindromo
 stokholmanino
 stokholmano
+stoki
 stoko
 stomaka kancero
 stomakdoloro
@@ -119483,6 +120378,7 @@ stratoj
 stratojn
 straton
 stratosfero
+stratotruo
 stratulino
 stratĝibo
 strebado
@@ -119742,6 +120638,7 @@ striktan
 striktasence
 striku
 strikus
+stringovalvo
 strio
 strioj
 striojn
@@ -119946,6 +120843,7 @@ stultumos
 stultumu
 stultumus
 stultus
+stumbli
 stumbligilo
 stumpo
 stumpoj
@@ -120004,6 +120902,7 @@ subakviĝos
 subakviĝu
 subakviĝus
 suban
+subarbaraĵo
 subarbusto
 subarkta
 subaro
@@ -120314,6 +121213,7 @@ subskribotojn
 subskriboton
 subskribu
 subskribus
+subspaco
 subspecio
 subspecioj
 subspeciojn
@@ -120485,6 +121385,7 @@ subtilajn
 subtilan
 subtitulo
 subtituloj
+subtrahi
 subtraho
 subtrahoj
 subtrahojn
@@ -120942,10 +121843,12 @@ sukero
 sukeroj
 sukerojn
 sukeron
+sukerpomo
 sukerujo
 sukerujoj
 sukerujojn
 sukerujon
+sukerŝpinaĵo
 suko
 sukoj
 sukojn
@@ -121372,6 +122275,7 @@ supertagoj
 supertagojn
 supertagon
 supertera fervojo
+supertera kablo
 supertuto
 superu
 superulo
@@ -121391,6 +122295,8 @@ superŝtupara
 superŝtupare
 superŝuti
 supino
+supkulero
+suplemento
 supligaĵo
 supo
 supoj
@@ -121436,6 +122342,7 @@ supozito
 supozitoj
 supozitojn
 supoziton
+supozitorio
 supozo
 supozoj
 supozojn
@@ -121619,6 +122526,7 @@ surfacon
 surfas
 surfi
 surfis
+surfo
 surfos
 surfu
 surfus
@@ -121690,6 +122598,7 @@ surmetoton
 surmetu
 surmetus
 suro
+surpliso
 surportas
 surporti
 surportis
@@ -122066,6 +122975,10 @@ svedo
 svedoj
 svedojn
 svedon
+svelta
+sveltaj
+sveltajn
+sveltan
 svenanta
 svenantaj
 svenantajn
@@ -122225,6 +123138,7 @@ sŭahilaj
 sŭahilajn
 sŭahilan
 t
+t-ĉemizo
 t.e.
 t.n.
 taa
@@ -122410,6 +123324,7 @@ tahitianino
 tahitiano
 taja
 taja bokso
+taja lingvo
 tajan
 tajasuo
 tajdo
@@ -122425,6 +123340,9 @@ tajfunoj
 tajfunojn
 tajfunon
 tajgo
+tajgoj
+tajgojn
+tajgon
 tajkonaŭto
 tajlanda
 tajlandanino
@@ -122621,6 +123539,7 @@ taksito
 taksitoj
 taksitojn
 taksiton
+taksono
 taksonomio
 taksonomion
 taksonta
@@ -122660,9 +123579,11 @@ taktikojn
 taktikon
 taktindiko
 takto
+taktofrekvenco
 taktoj
 taktojn
 takton
+talamo
 talanto
 talenta
 talentaj
@@ -122684,6 +123605,7 @@ talito
 talki
 talko
 talkon
+talkopudro
 talono
 talosa
 talosa lingvo
@@ -122844,6 +123766,7 @@ taskus
 tasmanianino
 tasmaniano
 taso
+taso da teo
 tasoj
 tasojn
 tason
@@ -122879,6 +123802,8 @@ taĝika
 taĝiko
 taĥikardio
 taĥilalio
+taĥimetro
+taĥiono
 taĵino
 taŭga
 taŭgaj
@@ -122961,6 +123886,7 @@ taŭrino
 taŭro
 taŭroj
 taŭrojn
+taŭrokulo
 taŭrokurigo
 taŭrokuro
 taŭron
@@ -123085,10 +124011,10 @@ tegotojn
 tegoton
 tegu
 tegus
+tehoro
 teino
 teisma
 teismo
-teismo ()
 teismon
 teista
 teisto
@@ -123310,7 +124236,6 @@ teleportado
 teleporti
 teleportilo
 teleportiĝi
-teleportiĝi ()
 teleregilo
 telerlavilo
 telerlaviloj
@@ -123326,6 +124251,7 @@ teleskopojn
 teleskopon
 teletajpilo
 televida
+televidi
 televidilo
 televidiloj
 televidilojn
@@ -123376,6 +124302,7 @@ templaj
 templajn
 templan
 templano
+templimo
 templo
 temploj
 templojn
@@ -123439,7 +124366,6 @@ tendumus
 tenebro
 tenejo
 tenera
-tenera ()
 tenere
 tenero
 teneso
@@ -123706,7 +124632,6 @@ ternintojn
 terninton
 ternis
 terno
-terno ()
 ternoj
 ternojn
 ternon
@@ -123756,6 +124681,7 @@ terpomoj
 terpomojn
 terpomon
 terpompistilo
+terpomsalato
 terporko
 terposedanto
 terpotero
@@ -123842,6 +124768,7 @@ terurotojn
 teruroton
 teruru
 terurus
+tervermo
 terzono
 terzonoj
 terzonojn
@@ -123863,6 +124790,7 @@ testikoj
 testikojn
 testikon
 testikujo
+testo
 testosterono
 testosteronon
 testudaĵo
@@ -123934,7 +124862,6 @@ thanksgiving
 thanksgiving celebration
 ti-
 tia
-tia ()
 tiaaĵo
 tiaj
 tiajn
@@ -124330,10 +125257,9 @@ tintonton
 tintos
 tintu
 tintus
-tinusaĵo ()
+tinusaĵo
 tinuso
 tio
-tio ()
 tio estas
 tio kaj alio
 tio ne gravas
@@ -124433,6 +125359,7 @@ tiroido
 tiroidoj
 tiroidojn
 tiroidon
+tirola kablo
 tirolino
 tirolo
 tironta
@@ -124470,6 +125397,7 @@ titano
 titanoj
 titanojn
 titanon
+titino
 titolanta
 titolantaj
 titolantajn
@@ -124535,7 +125463,6 @@ titoloton
 titolu
 titolus
 tiu
-tiu ()
 tiu ĉi
 tiufoje
 tiuj
@@ -124548,6 +125475,7 @@ tiutempaj
 tiutempajn
 tiutempan
 tiutempe
+tizano
 tjurka
 tl;nl
 tlaspo
@@ -124733,7 +125661,6 @@ tomografaĵo
 tompuso
 tonalo
 tonalto
-tonalto ()
 tondanta
 tondantaj
 tondantajn
@@ -124782,6 +125709,7 @@ tondito
 tonditoj
 tonditojn
 tonditon
+tondobufro
 tondonta
 tondontaj
 tondontajn
@@ -124871,6 +125799,7 @@ topografio
 topografion
 topologio
 toponimio
+toporo
 toraka
 toraka vertebro
 torako
@@ -125274,6 +126203,7 @@ tradukotoj
 tradukotojn
 tradukoton
 tradukprunto
+traduktempa
 traduku
 tradukus
 trae
@@ -125340,6 +126270,7 @@ trafito
 trafitoj
 trafitojn
 trafiton
+traflueti
 trafo
 trafonta
 trafontaj
@@ -125469,6 +126400,7 @@ traktonto
 traktontoj
 traktontojn
 traktonton
+traktoperiodo
 traktoro
 traktoroj
 traktorojn
@@ -125508,6 +126440,8 @@ trampolino
 trampolinoj
 trampolinojn
 trampolinon
+tramtrajno
+tramveturilo
 tranchatajn
 tranchi
 trancxi
@@ -126004,7 +126938,6 @@ translokiĝu
 translokiĝus
 transloĝiĝas
 transloĝiĝi
-transloĝiĝi ()
 transloĝiĝis
 transloĝiĝo
 transloĝiĝos
@@ -126037,6 +126970,7 @@ transportis
 transportos
 transportu
 transportus
+transpoŝigi
 transpreni
 transprenis
 transrealismo
@@ -126053,10 +126987,9 @@ transsekseca
 transsekseco
 transseksismo
 transseksulo
-transskribado ()
+transskribado
 transskribi
 transskribo
-transskribo ()
 transsorĉi
 transtombo
 transulo
@@ -126082,6 +127015,7 @@ transvestulo
 transvestus
 transviro
 transvivi
+transvivo
 tranĉanta
 tranĉantaj
 tranĉantajn
@@ -126151,6 +127085,7 @@ tranĉoto
 tranĉotoj
 tranĉotojn
 tranĉoton
+tranĉrando
 tranĉu
 tranĉulo
 tranĉus
@@ -126230,6 +127165,7 @@ trapezopluredron
 traplekti
 trarigardi
 traserĉi
+trastreko
 travadanta
 travadantaj
 travadantajn
@@ -127185,7 +128121,9 @@ trinketotojn
 trinketoton
 trinketu
 trinketus
+trinkfontano
 trinki
+trinki ĝis ebriiĝo
 trinkinta
 trinkintaj
 trinkintajn
@@ -127412,6 +128350,7 @@ tritono
 tritonoj
 tritonojn
 tritonon
+trituro
 triumfas
 triumfe
 triumfi
@@ -127538,7 +128477,9 @@ troloton
 trolu
 trolus
 trombo
+trombocitopenio
 tromboj
+trombojn
 trombonisto
 trombonistoj
 trombonistojn
@@ -127978,6 +128919,7 @@ truditoj
 truditojn
 truditon
 trudkitelo
+trudlaboro
 trudo
 trudoj
 trudojn
@@ -128007,6 +128949,7 @@ truego
 truegoj
 truegojn
 truegon
+trueto
 trufo
 trui
 truilo
@@ -128047,6 +128990,7 @@ trusto
 trustoj
 trustojn
 truston
+trutido
 truto
 trutoj
 trutojn
@@ -128108,6 +129052,7 @@ tujmesaĝiloj
 tujmesaĝilojn
 tujmesaĝilon
 tujmesaĝo
+tujo
 tujpercepti
 tukano
 tuko
@@ -128185,6 +129130,7 @@ turkajn
 turkan
 turkino
 turkisa
+turkiskoloro
 turkiso
 turkisoj
 turkisojn
@@ -128302,7 +129248,6 @@ turniĝantojn
 turniĝanton
 turniĝas
 turniĝi
-turniĝi ()
 turniĝinta
 turniĝintaj
 turniĝintajn
@@ -128496,6 +129441,7 @@ tuŝontoj
 tuŝontojn
 tuŝonton
 tuŝos
+tuŝosenso
 tuŝota
 tuŝotaj
 tuŝotajn
@@ -128581,8 +129527,10 @@ ultraviolajn
 ultraviolajn radiadojn
 ultraviolan
 ultraviolan radiadon
+ululas
 ululi
 ululo
+umamo
 umbelo
 umbilika
 umbiliko
@@ -129081,6 +130029,7 @@ urnon
 uro
 uroboro
 urogalaro
+urogalaĵo
 urogalo
 urogaloj
 urogalojn
@@ -129114,6 +130063,7 @@ urtiko
 urtikoj
 urugvajanino
 urugvajano
+uruŝiolo
 urĝa
 urĝaj
 urĝajn
@@ -129184,10 +130134,14 @@ urĝoton
 urĝu
 urĝus
 uskleco
+usklecodistinga
 usklecoj
 usklecojn
 usklecon
 usklo
+uskloj
+usklojn
+usklon
 usona
 usona futbalo
 usona piedpilkado
@@ -129389,10 +130343,12 @@ uzurpus
 uzurulino
 uzurulo
 uzus
+uŝanko
 uŝuisto
 uŝuo
 uŝuon
 v
+v-hoketo
 vadado
 vadadon
 vadanta
@@ -129530,7 +130486,7 @@ vakerino
 vakerinoj
 vakerinojn
 vakerinon
-vakeriĉo ()
+vakeriĉo
 vakero
 vakeroj
 vakerojn
@@ -129679,6 +130635,7 @@ vanelojn
 vanelon
 vangharoj
 vango
+vangofrapi
 vangoj
 vangojn
 vangon
@@ -129690,7 +130647,6 @@ vanilo
 vanilon
 vanjo
 vanta
-vanta ()
 vantano
 vanteco
 vantono
@@ -130120,14 +131076,17 @@ varon
 varsovia
 varsovianino
 varsoviano
+vartas
 vartejo
 varti
+vartis
 vartistino
-vartistino ()
 vartisto
-vartisto ()
 vartito
 vartolernejo
+vartos
+vartu
+vartus
 varvagono
 vasabio
 vasabioj
@@ -130527,7 +131486,6 @@ vendantajn
 vendantan
 vendante
 vendanto
-vendanto ()
 vendantoj
 vendantojn
 vendanton
@@ -130546,6 +131504,7 @@ vendaŭtomatoj
 vendaŭtomatojn
 vendaŭtomaton
 vendejaro
+vendejeto
 vendejo
 vendejoj
 vendejojn
@@ -130702,6 +131661,7 @@ venerologion
 venezuelanino
 venezuelano
 veni
+veni al la potenco
 veniganta
 venigantaj
 venigantajn
@@ -130965,7 +131925,6 @@ ventrozo
 ventumas
 ventumi
 ventumilo
-ventumilo ()
 ventumiloj
 ventumilojn
 ventumilon
@@ -131008,6 +131967,7 @@ verandojn
 verandon
 veraĵo
 verba
+verba genro
 verbaj
 verbajn
 verban
@@ -131163,7 +132123,6 @@ verkatoj
 verkatojn
 verkaton
 verkaĵo
-verkaĵo ()
 verkaĵoj
 verkaĵojn
 verkaĵon
@@ -131192,7 +132151,6 @@ verkitoj
 verkitojn
 verkiton
 verko
-verko ()
 verkoj
 verkojn
 verkon
@@ -131593,6 +132551,7 @@ veterprognozo
 veterprognozoj
 veterprognozojn
 veterprognozon
+veterstacio
 veti
 vetkuri
 vetkuro
@@ -131706,7 +132665,6 @@ vian
 vianda
 viandhaketaĵpano
 viando
-viando ()
 viandobulo
 viandohakilo
 viandoj
@@ -131731,7 +132689,7 @@ vibrafonon
 vibras
 vibratoro
 vibri
-vibrigi ()
+vibrigi
 vibrilo
 vibris
 vibriso
@@ -131898,15 +132856,6 @@ videblantoj
 videblantojn
 videblanton
 videblas
-videblata
-videblataj
-videblatajn
-videblatan
-videblate
-videblato
-videblatoj
-videblatojn
-videblaton
 videble
 videbleco
 videblecoj
@@ -131923,15 +132872,6 @@ videblintoj
 videblintojn
 videblinton
 videblis
-videblita
-videblitaj
-videblitajn
-videblitan
-videblite
-videblito
-videblitoj
-videblitojn
-videbliton
 videblonta
 videblontaj
 videblontajn
@@ -131942,15 +132882,6 @@ videblontoj
 videblontojn
 videblonton
 videblos
-videblota
-videblotaj
-videblotajn
-videblotan
-videblote
-videbloto
-videblotoj
-videblotojn
-videbloton
 videblu
 videblus
 video
@@ -132059,6 +132990,7 @@ vidpunkto
 vidpunktoj
 vidpunktojn
 vidpunkton
+vidsenso
 vidu
 vidus
 vidvado
@@ -132297,6 +133229,7 @@ violonĉeloj
 violonĉelojn
 violonĉelon
 vipanta
+vipanta knabon
 vipantaj
 vipantajn
 vipantan
@@ -132372,7 +133305,6 @@ vipus
 vir-
 vir-al-ina transseksulo
 vira
-vira ()
 vira anglo
 vira hundo
 virabelisto
@@ -132380,6 +133312,7 @@ virabelo
 virabeloj
 virabelojn
 virabelon
+virabortigisto
 viradolto
 viraj
 virajn
@@ -132420,7 +133353,6 @@ virepiskoparo
 vireŭropana
 vireŭropano
 virfarbisto
-virfiŝo
 virga
 virgaj
 virgajn
@@ -132448,6 +133380,7 @@ viriloj
 virilojn
 virilon
 virina
+virina seksa mutilado
 virinaj
 virinajn
 virinan
@@ -132644,6 +133577,7 @@ vitroj
 vitrojn
 vitrolano
 vitron
+vitroskatola testado
 viva
 vivadi
 vivado
@@ -132677,7 +133611,6 @@ viveco
 vivernaro
 viverno
 vivi
-vivi ()
 viviganta
 vivigantaj
 vivigantajn
@@ -132796,6 +133729,7 @@ vivukrioj
 vivukriojn
 vivukrion
 vivus
+vivĝojo
 vizaĝa
 vizaĝaj
 vizaĝajn
@@ -132906,6 +133840,7 @@ viĉanon
 viĉo
 viĉon
 viŝas
+viŝebla lumdisko
 viŝi
 viŝileto
 viŝilo
@@ -133000,6 +133935,7 @@ vojetojn
 vojeton
 vojforko
 vojiro
+vojkavo
 vojkonvekso
 vojkruciĝo
 vojkruciĝoj
@@ -133123,6 +134059,7 @@ volapuke
 volapukistino
 volapukisto
 volapuko
+volapyk
 volas
 volata
 volataj
@@ -133218,6 +134155,7 @@ volumojn
 volumon
 volupta
 volupteco
+voluptema
 voluptiga
 volupto
 voluptoj
@@ -133745,6 +134683,7 @@ vuvuzeloj
 vuvuzelojn
 vuvuzelon
 white
+white-space: nowrap
 x
 x-kodo
 x-radiado
@@ -133759,6 +134698,7 @@ zairino
 zairo
 zajdeko
 zajdekon
+zakato
 zambianino
 zambiano
 zambianoj
@@ -133909,9 +134849,9 @@ zodiakajn
 zodiakan
 zodiako
 zodiakon
+zoeto
 zokiedro
 zombia
-zombia ()
 zombiaj
 zombiajn
 zombian
@@ -134105,11 +135045,14 @@ zumus
 Ĉiopovulon
 Ĉivava hundo
 Ĉomolungmo
+Ĉornobajivka
 Ĉornobilo
 Ĉukotka aŭtonoma distrikto
 Ĉukĉa maro
 Ĉuvaŝa lingvo
 ĉ
+ĉ*ri
+ĉ*ro
 ĉ.
 ĉabrako
 ĉadoro
@@ -134220,6 +135163,7 @@ zumus
 ĉambelanoj
 ĉambelanojn
 ĉambelanon
+ĉambra muziko
 ĉambraro
 ĉambraroj
 ĉambrarojn
@@ -134299,6 +135243,7 @@ zumus
 ĉarlatanoj
 ĉarlatanojn
 ĉarlatanon
+ĉarlestono
 ĉarlotkuko
 ĉarma
 ĉarma princo
@@ -134438,7 +135383,6 @@ zumus
 ĉasantan
 ĉasante
 ĉasanto
-ĉasanto ()
 ĉasantoj
 ĉasantojn
 ĉasanton
@@ -134481,7 +135425,6 @@ zumus
 ĉasion
 ĉasis
 ĉasisto
-ĉasisto ()
 ĉasistoj
 ĉasistojn
 ĉasiston
@@ -134533,7 +135476,9 @@ zumus
 ĉe
 ĉe botisto la ŝuo estas ĉiam kun truo
 ĉe l'
+ĉea
 ĉedaro
+ĉeesta
 ĉeestanta
 ĉeestantaj
 ĉeestantajn
@@ -134600,7 +135545,6 @@ zumus
 ĉeestus
 ĉef-
 ĉefa
-ĉefa ()
 ĉefa afergvida oficisto
 ĉefa fako
 ĉefa komputilo
@@ -134949,6 +135893,7 @@ zumus
 ĉefŝtonojn
 ĉefŝtonon
 ĉei
+ĉeigi
 ĉekaro
 ĉekaroj
 ĉekarojn
@@ -134974,7 +135919,9 @@ zumus
 ĉemizoj
 ĉemizojn
 ĉemizon
+ĉena reakcio
 ĉenbendo
+ĉenbutiko
 ĉenero
 ĉeneroj
 ĉenerojn
@@ -135202,6 +136149,7 @@ zumus
 ĉesoton
 ĉesu
 ĉesus
+ĉeulo
 ĉevala
 ĉevalaj
 ĉevalajn
@@ -135240,7 +136188,6 @@ zumus
 ĉevalpovo
 ĉevalprizorganto
 ĉevalviro
-ĉevalviro ()
 ĉevalviroj
 ĉevalvirojn
 ĉevalviron
@@ -135257,13 +136204,10 @@ zumus
 ĉeĥe
 ĉeĥeco
 ĉeĥino
-ĉeĥio
 ĉeĥo
 ĉeĥoj
 ĉeĥojn
 ĉeĥon
-ĉeĥoslovakio
-ĉeĥujo
 ĉi
 ĉi tial
 ĉi tie
@@ -135286,7 +136230,6 @@ zumus
 ĉi-rilate
 ĉi-vespere
 ĉia
-ĉia ()
 ĉiaj
 ĉiajn
 ĉiakoste
@@ -135413,6 +136356,7 @@ zumus
 ĉifitojn
 ĉifiton
 ĉifoje
+ĉifonaĵo
 ĉifonfiguro
 ĉifono
 ĉifonoj
@@ -135427,6 +136371,7 @@ zumus
 ĉifontoj
 ĉifontojn
 ĉifonton
+ĉifonulo
 ĉifos
 ĉifota
 ĉifotaj
@@ -135506,6 +136451,7 @@ zumus
 ĉifrotoj
 ĉifrotojn
 ĉifroton
+ĉifroŝlosilo
 ĉifru
 ĉifrus
 ĉifu
@@ -135846,6 +136792,7 @@ zumus
 ĉirkaŭkolojn
 ĉirkaŭkolon
 ĉirkaŭkovri
+ĉirkaŭlimi
 ĉirkaŭmano
 ĉirkaŭmanoj
 ĉirkaŭmanojn
@@ -136113,7 +137060,7 @@ zumus
 ĉizotoj
 ĉizotojn
 ĉizoton
-ĉizsaltulo ()
+ĉizsaltulo
 ĉizu
 ĉizus
 ĉiĉeroni
@@ -136141,9 +137088,11 @@ zumus
 ĉokoladoj
 ĉokoladojn
 ĉokoladon
+ĉopsuo
 ĉorizo
 ĉu
 ĉu la buso malfruos ĉi tiun fojon.
+ĉu mi povas helpi vin?
 ĉu ne?
 ĉu pluvos?
 ĉu vere?
@@ -136211,6 +137160,7 @@ zumus
 ĉuvaŝa
 Ĝ
 Ĝajnismo
+Ĝajpuro
 Ĝakarto
 Ĝakarton
 Ĝamuo kaj Kaŝmiro
@@ -136218,7 +137168,6 @@ zumus
 Ĝemeloj
 Ĝemelojn
 Ĝemelturoj
-Ĝemelturoj ()
 Ĝemelturojn
 Ĝenerala Asembleo de Unuiĝintaj Nacioj
 Ĝenevo
@@ -136234,10 +137183,10 @@ zumus
 Ĝibraltaro
 Ĝibraltaron
 Ĝibutio
-Ĝibutio ()
 Ĝibution
 Ĝibuto
 Ĝibuton
+Ĝido
 Ĝingis-Ĥano
 Ĝirono
 Ĝokonda
@@ -136252,6 +137201,7 @@ zumus
 ĝangalojn
 ĝangalon
 ĝardena
+ĝardenado
 ĝardenaj
 ĝardenajn
 ĝardenan
@@ -136311,9 +137261,11 @@ zumus
 ĝemadojn
 ĝemadon
 ĝemego
+ĝemela
 ĝemelino
 ĝemeliĝo
 ĝemeliĝon
+ĝemelmetodo
 ĝemelo
 ĝemeloj
 ĝemelojn
@@ -136601,13 +137553,15 @@ zumus
 ĝismentone
 ĝismorta malliberejo
 ĝisnuna
-ĝisnuna ()
 ĝisnunaj
 ĝisnunajn
 ĝisnunan
 ĝisnune
 ĝiso
 ĝisoj kaj kisoj
+ĝisosta
+ĝisoste
+ĝisostulo
 ĝispieda piĵamo
 ĝistiame
 ĝisvivi
@@ -137014,7 +137968,9 @@ zumus
 ĥoron
 ĥoruso
 ĥoto
+ĥrizoprazo
 ĥromo
+ĥulo
 Ĵ
 Ĵakvo
 Ĵakvo la Buĉisto
@@ -137104,6 +138060,7 @@ zumus
 ĵaluzu
 ĵaluzulo
 ĵaluzus
+ĵamboreo
 ĵami
 ĵargonanta
 ĵargonantaj
@@ -137369,6 +138326,9 @@ zumus
 ĵetu
 ĵetus
 ĵibo
+ĵiboj
+ĵibojn
+ĵibon
 ĵifi
 ĵifo
 ĵigo
@@ -137540,10 +138500,13 @@ zumus
 Ŝivaon
 Ŝjinĝjiango
 Ŝlesvigo-Holstinio
+Ŝoaho
 Ŝota
 Ŝtala Viro
 Ŝtato de Israelo
 Ŝtato de Libio
+Ŝvabio
+Ŝvabion
 Ŝvabujo
 Ŝvabujon
 Ŝvico
@@ -137587,9 +138550,8 @@ zumus
 ŝafhundojn
 ŝafhundon
 ŝafidaĵo
-ŝafidaĵo ()
 ŝafidaĵon
-ŝafidetaĵo ()
+ŝafidetaĵo
 ŝafido
 ŝafidoj
 ŝafidojn
@@ -137671,6 +138633,7 @@ zumus
 ŝajnigatojn
 ŝajnigaton
 ŝajnigi
+ŝajnigi sin morta
 ŝajniginta
 ŝajnigintaj
 ŝajnigintajn
@@ -137764,7 +138727,6 @@ zumus
 ŝakero
 ŝakhorloĝo
 ŝakistino
-ŝakistino ()
 ŝakisto
 ŝakistoj
 ŝakistojn
@@ -138067,9 +139029,13 @@ zumus
 ŝanĝu
 ŝanĝus
 ŝarado
+ŝargado
 ŝargi
+ŝargilo
+ŝargiĝi
 ŝargkuplita aparato
 ŝargo
+ŝargujo
 ŝarifo
 ŝario
 ŝarioj
@@ -138284,6 +139250,7 @@ zumus
 ŝatoton
 ŝatu
 ŝatus
+ŝauma
 ŝavarmo
 ŝaĥto
 ŝaŝliko
@@ -138380,6 +139347,7 @@ zumus
 ŝerifon
 ŝero
 ŝerĉi
+ŝeĥavati
 ŝi
 ŝi estas senkonscia
 ŝia
@@ -138456,6 +139424,7 @@ zumus
 ŝipkonstruejoj
 ŝipkonstruejojn
 ŝipkonstruejon
+ŝipkuirejo
 ŝipmalantaŭo
 ŝipo
 ŝipobileto
@@ -138709,6 +139678,7 @@ zumus
 ŝnuroj
 ŝnurojn
 ŝnuron
+ŝnursaltado
 ŝnursalti
 ŝo
 ŝo-oj
@@ -139072,7 +140042,6 @@ zumus
 ŝrapneloj
 ŝrapnelojn
 ŝrapnelon
-ŝraŭb(o)turnilo
 ŝraŭba
 ŝraŭbas
 ŝraŭbi
@@ -139084,7 +140053,6 @@ zumus
 ŝraŭbis
 ŝraŭbkanelo
 ŝraŭbo
-ŝraŭbo ()
 ŝraŭboj
 ŝraŭbojn
 ŝraŭbon
@@ -139112,6 +140080,8 @@ zumus
 ŝrotojn
 ŝroton
 ŝrumpado
+ŝrumpaĵo
+ŝrumpfolio
 ŝrumpi
 ŝrumpigi
 ŝtala
@@ -139123,6 +140093,7 @@ zumus
 ŝtalo
 ŝtalon
 ŝtata
+ŝtata funebro
 ŝtata kapitalismo
 ŝtata lernejo
 ŝtatestro
@@ -139365,6 +140336,7 @@ zumus
 ŝtoniĝos
 ŝtoniĝu
 ŝtoniĝus
+ŝtonkarbo
 ŝtonmalsano
 ŝtonminejo
 ŝtonminejoj
@@ -139402,7 +140374,6 @@ zumus
 ŝtopilingojn
 ŝtopilingon
 ŝtopilo
-ŝtopilo ()
 ŝtopiloj
 ŝtopilojn
 ŝtopilon
@@ -139781,6 +140752,7 @@ zumus
 ŭo-oj
 ŭo-ojn
 ŭo-on
+ŭoko
 ŭonbulismo
 ŭonbulismon
 ŭulong-teo
@@ -139789,3 +140761,4 @@ zumus
 ◌́
 ◌̂
 ◌̆
+⦃⦃t+¦eo¦serpentumi¦¦¦¦¦¦¦¦¦⦄⦄

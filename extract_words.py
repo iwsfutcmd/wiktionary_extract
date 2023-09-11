@@ -94,7 +94,7 @@ def get_all_words(entries):
     output = defaultdict(set)
     for (word, _, code), _ in tqdm(entries):
         output[code].add(word)
-    for code in output:
+    for code in tqdm(output):
         with open("wordlists/" + code, "w") as file:
             for word in sorted(output[code]):
                 file.write(word + "\n")

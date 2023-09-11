@@ -1,5 +1,6 @@
 --
 -ay
+4MI
 @
 A
 Abdullah
@@ -20,8 +21,10 @@ Aostralia Andrefana
 Aostralia Atsimo
 Asan' ny Apôstôly
 Azia
+Azia Atsinanana
 Banky Foibe Eoropeana
 Belzika
+Bishkek
 Bokin’ny Fitomaniana
 Bonaventure
 Borneo
@@ -34,6 +37,7 @@ Eglizy Katolika
 Eglizy Katolika Apostolika Romana
 Ejipta
 Ekoatera
+Ely
 Etazonia
 Famelana
 Fanahy Masina
@@ -56,6 +60,7 @@ Goal(Relative)
 Golaghat
 Groenlanda
 Halôhinina
+Hoala Persika
 Ikala
 Ikelimalaza
 India
@@ -64,6 +69,7 @@ Ineny
 Irlanda
 Japana
 Jehovah
+Jerôbôama
 Jesoa
 Jesosy
 Josefa
@@ -94,17 +100,21 @@ Nosy Cook
 Nosy Kook
 Nosy Marshall
 Nosy Sôlômôna
+N̈
 Palaôsy
 Papoazia-Ginea-Vaovao
 Patient(Passive)
 Queensland
 Ramatoa
+Ranomasina Mainty
 Rapeto
 Ray-nay any an-danitra
+Rehôbôama
 Repoblika demôkratika entim-bahoakan'i Kôrea
 Repoblikan' i Irlandy
 Repoblikan'i Kôrea
 Rosia
+Saikanosy Italiana
 Sakalava & Tsimiety Malagasy: vôky
 Sakamasay
 Sakave
@@ -132,6 +142,7 @@ ababe
 abahana
 abaribary
 abidy
+abidy ara-drafipeo iraisam-pirenena
 abily
 aboretaka
 ada
@@ -345,6 +356,8 @@ ampaly
 ampanga
 ampanga fisaka
 ampangaina
+ampango
+ampangoro
 amparasily
 ampela
 ampelam-bantotra
@@ -524,6 +537,7 @@ antoana
 antoandro
 antoandrobenanahary
 antoka
+antoko pôlitika
 anton-draharaha
 anton-javatra
 antonta
@@ -570,6 +584,7 @@ aotra
 apiaka
 aprikaoty
 aprily
+ara
 ara-ben-dalana
 ara-keviny
 ara-panahy
@@ -608,6 +623,7 @@ arosy
 arsenika
 arseveka
 ary
+asa fiantrana
 asa mahadinirina
 asabotsy
 asaha
@@ -1305,6 +1321,7 @@ fandrakotra
 fandrama
 fandramanana
 fandramby
+fandrana
 fandrasalambo
 fandrasangara
 fandravana
@@ -1695,6 +1712,7 @@ fitenenana
 fiteny
 fiteny afrikaans
 fiteny espaniola
+fiteny foronina
 fiteny malagasy
 fiteny tahisiana
 fitetika
@@ -1719,6 +1737,7 @@ fitopolo
 fitoraka
 fitoviana
 fitrebika
+fitsaboana nentim-paharazana
 fitsangatsanganana
 fitsapana
 fitsarana
@@ -1984,6 +2003,8 @@ hazakazaka
 hazandrano
 hazary
 hazo
+hazoarina
+hazoary
 hazon-damosina
 hazondandy
 hebiheby
@@ -2986,6 +3007,7 @@ masontantely
 matavy
 matevina
 matoanteny
+matoatoa
 matoriandro
 matory
 matso
@@ -3436,6 +3458,7 @@ ny
 ny maìzina
 ny nofy ratsy
 nôty
+n̈
 oaka
 ofaka
 ofisiely
@@ -3446,6 +3469,7 @@ oksizena
 oktobra
 olakolaka
 olana
+olika voafintina anaty
 oliva
 oliva volo
 oloko
@@ -3579,6 +3603,7 @@ ranomainty
 ranomandry
 ranomanitra
 ranomasina
+ranon'ampango
 ranon-tsirilahy
 ranontrambo
 ranoray
@@ -3587,6 +3612,7 @@ rantsam-bity
 rantsana
 ranu
 ranu (Bushi)
+raofia
 raoka
 raozy
 ratsy
@@ -3675,6 +3701,7 @@ salasala
 salazana
 salohy
 sambatra
+sambo
 sambo fitsangatsanganana
 sambon-danitra
 sambosa
@@ -3786,6 +3813,7 @@ sàha
 sôlipsisma
 tabaka
 tabataba
+tabilaon'ny singa
 taboara
 taboi-drano
 tadiana
@@ -4197,6 +4225,7 @@ voanketsihetsy
 voantsokona
 voany
 voapaza
+voara
 voarangy
 voarantra
 voasary
@@ -4287,6 +4316,7 @@ zafindraony
 zahatra
 zaikakelim-pamoahankevitra
 zaitra
+zakat
 zamany
 zana-bola
 zana-pehintany
@@ -4329,6 +4359,7 @@ zerao
 zezi-bazaha
 zihitra
 zirkôniôma
+zitina miherina
 zohy
 zoky
 zom-pamorona

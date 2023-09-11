@@ -78,6 +78,7 @@
 171j
 18th Dynasty
 18th dynasty
+20th Dynasty]
 20th dynasty]
 26
 278
@@ -113,6 +114,7 @@
 3ˤˤwj
 3ˤˤwy
 3ṯp
+9
 <-x-w-f-w->-Ax-x*t:N18-O24-niwt
 <-x:w-f:w->-Ax-t-O24
 A
@@ -130,11 +132,11 @@ A-H-t:N23
 A-M-G5-Z1:H_SPACE
 A-M-Q7
 A-M:a:t
-A-MQ7
+A-M«F45A»Q7
 A-S:r-F51
 A-S:r-Q7
 A-S:r:t-spr:M39
-A-T-i
+A-T-i«Q19»
 A-T-w-t:M3
 A-T:t-Q18
 A-W-t*q:r-d:r
@@ -146,6 +148,7 @@ A-a-b-t-F17-G37:Z2
 A-a-w
 A-a-w-F27
 A-a:a-D6
+A-a:a-O24
 A-a:a-W-D6
 A-a:a-W-Y1:A24
 A-a:a-W24
@@ -172,9 +175,14 @@ A-a:n-F27-Z1
 A-b-x
 A-d-w-I3
 A-d:I3
+A-d:I3«A14A»
 A-d:t*F37B-F51
 A-d:t*Y1-A24
 A-d:w-a:A1
+A-f:a
+A-f:a-F51
+A-f:a-H8
+A-f:a-nDs
 A-h-Aa2:nDs
 A-h:d-nDs
 A-h:nDs
@@ -190,6 +198,8 @@ A-k:r
 A-k:r-A40
 A-k:r-G7
 A-k:r-N17
+A-k:r«C274A»
+A-k:r«C274»
 A-l-G20-i-i-n:A-N25
 A-m-Q7
 A-m-T30
@@ -203,9 +213,9 @@ A-m-s-S44
 A-mm-D49:D40
 A-ms-s-nDs:Z2
 A-p-H-Z5
-A-p:d
 A-p:d-G38
 A-p:d-G41-D54
+A-p:d«G306»
 A-p:t-G38-D54
 A-q*Z9:nDs
 A-q-A-Z9:nDs
@@ -231,7 +241,6 @@ A-s-x-U1
 A-s-x:U2
 A-s-x:a
 A-st-t-B1
-A-t
 A-t*p:D40
 A-t-A24
 A-t-I12
@@ -249,12 +258,11 @@ A-t:I3-A1
 A-t:M3
 A-t:N23
 A-t:R12
-A-t:Z5
 A-t:Z5-N23:Z1-Z3
 A-t:Z5-ra
-A-t:f
 A-t:f-w-F7
 A-t:f-w-S8
+A-t:f«F7D»
 A-t:p-A9
 A-t:p-A9-D40
 A-t:p-i-i-A9
@@ -262,7 +270,7 @@ A-t:p-i-i-t-A9
 A-t:p-w-A9-A24
 A-t:p-w-A9-D40
 A-t:p-w:*t-A9-D40:Z2
-A-t:pD40
+A-t:p«A125»D40
 A-t:ra
 A-t:ra*Z1
 A-t:t-B5
@@ -272,7 +280,9 @@ A-t:y-F37B-F51
 A-t:y-F41
 A-ti-i-W:t-xt
 A-ti-i-i-t-B5
-A-ti-i-it
+A-ti-i-i«t:«Q19»»
+A-t«F90»
+A-t«Q19»
 A-w&y-V1:V1
 A-w-i
 A-w-r
@@ -293,12 +303,18 @@ A-y:H_SPACE
 A-y:W
 A-z:Aa2
 A-z:V2-D54
-A-z:x
 A-z:x-T30
 A-z:x-U1
 A-z:x-U2:D40
 A-z:x-nb
+A-z:x«A148»
+A-z:x«P76A»
+A-z:x««U54»:«N33A»»
 A1
+A1*B1:Z2
+A1-A1-A1
+A1-B1
+A1-Z3
 A12-A1:Z2
 A12-D54:Z2
 A12-P1
@@ -307,6 +323,7 @@ A19:t
 A2
 A2-Z3
 A21
+A25-n:y
 A26
 A30
 A30-w-Y1:Z2
@@ -315,6 +332,7 @@ A33-W:Y1
 A35-D40
 A36-t:y
 A36-t:y-A24
+A37
 A37-t:y
 A38-s-y:niwt
 A40
@@ -325,6 +343,7 @@ A48-i-i-T30
 A50
 A50-s-s-p:t-H
 A53-w-Y1:Z2
+A54
 A6-A1
 A9-A24
 A9-a:Z2
@@ -349,6 +368,9 @@ Aa18:Z1-Aa18:Z1-D54
 Aa1:D43-I9-G43
 Aa2
 Aa2*t:N25
+Aa23
+Aa24
+Aa24:d
 Aa28-D46:W24-A35
 Aa28-t:Z1-i-i-A1-Z3
 Aa2:Y1
@@ -356,11 +378,13 @@ Aa2:Z1
 Aa2:Z1-Z3
 Aa2:Z2
 Aa2:Z2ss
+Aa2:t*Z1-T14-N25
+Aa2:t*Z1-mwt-t*t:xAst-Z3
 Aa2:t-D40
 Aa2:t-N34
-Aa2:t-T14-N25
+Aa2:t-W10
 Aa2:t-a:A1
-Aa2:t-tyw-T14-A1*B1:Z2-N25 wḥꜣtjw
+Aa2:t-tyw-T14-A1*B1:Z2-N25
 Aa30-Z3
 Aa5:A4
 Aa5:D54
@@ -409,7 +433,7 @@ Ab-b-x:D40
 Ab-b-x:a
 Ab-b-xAst-niwt
 Ab-b-y:D41
-Ab-bw-O49
+Ab-b«F100»«O36B»w-O49
 Ab-w-E26
 Ab-w-O49
 Ab-x-b-Z9:Y1
@@ -424,8 +448,10 @@ Amarna boundary stela S
 Apd
 As
 As a symbol for zero in subtractions
+As part of the proper name jtwnj-rꜥꜣ-yh
 Ast
 At
+Attested twice on the southern towerof the first pylon at Medinet Habu
 Aw
 Aw-SA-N33C:Z2ss
 Aw-SA:N33A
@@ -441,7 +467,7 @@ Aw-Z5-Z5-Y1-A24-d:t*Z1-r
 Aw-Z5-i-i-Z9:D40-d:t*Z5-r
 Aw-Z7-SA-A-m-m-N25
 Aw-ib
-Aw-ib-Z1
+Aw-ib-Z1«N33Aw»
 Aw-ib-i-i-N33B:N33B*N33B-R7
 Aw-ib:F51
 Aw-t*ib:Y1
@@ -480,6 +506,7 @@ Aw:W-mw
 Aw:W-nDs
 Aw:W-sw-W-t:xt
 Aw:W:t-pr
+Aw:W«S103A»
 Aw:Y1
 Aw:ib
 Aw:ib*t
@@ -488,6 +515,7 @@ Aw:t*W-O36
 Aw:t-X2*W22:X6
 Aw:t-Y1V-D&t&tA
 Aw:y*w-ib-Z1
+Aw«S103A»
 Ax
 Ax-Y1:Z2
 Ax-Z1:H_SPACE
@@ -517,6 +545,7 @@ Axt:t*pr
 Axt:t*pr-tyw-A40-Z3
 Axt:t*y
 Axt:t*y-pr:pr-A40-A40
+A«F90»
 B1
 B3
 B4
@@ -524,33 +553,38 @@ Bab el Meluk
 Beni Hasan
 C11
 C11-Z1
+C12-sxm-nw-anx
+C2
 C2-nfr-nfr-nfr
 C7-i-i
+CT I 76i B4C
+D
+D&d-md-Z1:Z2ss
 D-H-r-F27
 D-a:r
 D-a:r-rd-D54
 D-n:n:t*tp
+D-s-T30
+D-s-W22
 D-s-nDs
 D17
 D17-t:Z1
 D21-S29-G43-X1-T13-D4
 D21:N35-Q3-M4-A17-A1
 D21:N35-W24:Z7-V12:Z2
-D26
 D27
 D27:t
 D28:D21-M17-M17-A24
 D28:D21-M17-M17-M43-A1
 D29
-D2:D21-X1-O20
 D2:D21-X1:N25
-D2:X1*D21-N1:N25
 D3
 D32
 D33-n:P1-A24
 D33-n:n-nw-w-E20-A24
 D33-n:t*y-A22
 D33-n:t-A22
+D33:n-S28
 D33:n-n:nw*W-E21-A24-A1
 D34A-w-T11
 D35
@@ -562,7 +596,6 @@ D36-G17-D36-G1-X1:M3
 D36:N37-G1-Aa2
 D36:X1-N35:X1-M3:X1-Z1-O1
 D37:D37-ms-s-w
-D37:N35B
 D37:f-D26
 D38-r:Z1:k-b-t-w
 D38:n-nH-H-N33C:Z2ss
@@ -570,33 +603,35 @@ D38:t-B1
 D40
 D40-nb:Z1:f
 D40:nb-G6:f
-D40:t
 D40:x*t-nb:f
-D40f
+D40««E151»:f»
 D41
 D41-w-G38
 D41:Z1
 D41:x*Z9
 D42
 D42:Z1
+D43
 D44
 D45-z:r
-D46:N35-W11:F21 A1
+D46:N35-W11:F21«A282»A1
 D46:O4-N35:X1-D1
 D48
 D49
 D50
 D52:H8
-D52:X1*Z5-M17-M17
 D52:X1-T14-T14-X1:F51
 D52:t-B1
 D53:Y1-M29-Z1-U9:Z2
 D54
+D54*D54:D54
 D54-W
 D54-w
 D54-w-f:p*W
 D54-w-s-p-w
+D54-w-z:p*zp
 D54:t*Z1
+D54:t*Z2ss
 D57-pr:Z2ss
 D58-D58-Z7:X1-D3
 D58-G29-G1-Aa18:Z1*Z5
@@ -604,7 +639,6 @@ D58-G29-G1-V28-D53
 D58-S29-F28
 D6-t:pt
 D7
-D9
 D:D12
 D:D12:f
 D:F51*D12
@@ -617,10 +651,10 @@ D:a-P5
 D:a-P5:W*Z2
 D:a-T14-D54
 D:a-T14-P5
-D:aD54
-D:b-a
+D:a«M3B»D54
 D:b-a-Dba
-D:bat
+D:b:a
+D:b«a:t «S21A»»
 D:d
 D:d-A-Aa2
 D:d-A-F1
@@ -628,6 +662,9 @@ D:d-Aa2-A24
 D:d-Dd
 D:d-Hr:Z1
 D:d-f-I14
+D:d-md-d:t*Z1-A2
+D:d-md-d:t-Z3
+D:d-md-d:w-A2-Z3
 D:d-t:W-M1-N33C:Z2ss
 D:d-t:W-M1-Z3
 D:f
@@ -660,6 +697,8 @@ DA-A-P1:D54
 DA-A-Z9:xt
 DA-A-i-W-A14
 DA-A-i-s-A2
+DA-A-m-A1:Z2ss
+DA-A-m-Xrd-Z3
 DA-A-nDs
 DA-A-r:V32-A2
 DA-A-t:P1
@@ -686,19 +725,22 @@ DHwty
 Dam
 Db-b-t:O39
 DbA-b-w-Y1:Z2
-DbA-bD40
+DbA-b««O36w»:D40»
 Dba
 Dba-Z1
 Dba-Z1:F51
 Dba-a-w-nDs
-Dba-wt
+Dba-w«t:«S21A»»
+Dba:a
 Dba:a-i-i-t:S20
 Dba\:a-t-S20
-Dbat
+Dba«t:«S21A»»
 Dd
 Dd-Dd
 Dd-Dd-w-O49
 Dd-O49-w
+Dd-Z1-A40
+Dd-Z1-nTr
 Dd-d:O49-w
 Dd-d:d-w-O49
 Dd-mdw
@@ -732,6 +774,7 @@ Dw:O39
 Dw:Z1
 Dw:Z1-O39
 Dw:Z9-G37
+E1
 E1-S:N17
 E1-Z1
 E10
@@ -741,6 +784,7 @@ E12
 E15
 E17
 E17-Z1:H_SPACE
+E17-t*t:xAst
 E18
 E20-A40
 E20-i-i
@@ -751,7 +795,7 @@ E21:D40-G7
 E22
 E24
 E25
-E9-E9
+E9-E9«W54»
 E9-W-wr:r-B3
 E9-a:t*Z5-Y1:Z2
 E9-w-H-mw-nw-A24
@@ -764,19 +808,21 @@ E9-w-h-a:D40
 E9-w-i-i-t:nDs:Z2
 E9-w-sw-w-U38
 E9-w-sw-w-xt
+E9-w-t:n-N21:Z1
 E9-w-zp:Z1*Z1-F27
 E9-wr:r-B2
 E9:W-E9:W-A2
 E9:W-E9:W-F27
 E9:W-F27
+E9:W-d:n-t:N23*Z1
 E9:a
 E9:a-F44
 E9:a-w-iwa:H_SPACE
 E9:r-B2
 E9:r-Q7-F51*F51:F51
+E9:t-n:N21*Z1
 E9:t-w-iwa
 E9:z-U38
-Egyptian: G5-M:Axt-xpr-i-A40-ra:t:tm
 F1
 F12-E17
 F14:Hb
@@ -784,10 +830,11 @@ F15
 F18:Y1-r:*r:t-Hn
 F18:Y1-rw:Z1-rw:Z1-Hn
 F18:Z1
-F18:r:r
 F18:r:r-I14:Z2
+F18:r:r«M86»
 F21:Aa15-D36:N37-A2
 F21:Z1
+F22-M17-M17-F51
 F29-X1-M17-M17-N35A
 F31-n:nw*Z7-T19-A1
 F32:V31:D21-Aa30-Aa30-Aa30
@@ -808,6 +855,7 @@ F48:n:O39
 F49:n-D54
 F49:n-O39
 F5-w-Y1:Z2
+F51-F51-F51
 F51B:r-A40
 F7:t
 From Annals of Thutmose III
@@ -817,13 +865,13 @@ From Tutankhamon’s Restoration Stela
 From after the ꜣ became silent
 From the Luxor Temple
 From the Story of Sinuhe B
+G12
 G17-X1:G43
 G17-X1:Z6
 G18
 G18-D38
 G18-Z4-F27
-G19-i-i-w-mw
-G19-mw
+G19-W-mw
 G20
 G20-DA-A-Z9:N23*Z1
 G20-E23:Z1-k:A-b-W-ti-i-M3:Z2
@@ -833,7 +881,7 @@ G24-i-i-t
 G26
 G26-A40
 G26:t*Z4-G7
-G26:t*t
+G26:t*t«R33»
 G26:t*y-C3
 G27
 G27:r
@@ -843,11 +891,10 @@ G30-Y2:Z2
 G31
 G35-q:D54-F34:Z1
 G38
-G38-K5:X4-Z3
 G39-N21:Z1
 G39-Z1::
 G39-z:t
-G3T12A1
+G3««D153»:T12»A1
 G40-i-i-A1
 G40-i-i-T
 G40-i-i-T:n:Z2
@@ -857,19 +904,51 @@ G41-A
 G41-A-i-i
 G41-A-sbA-Z1-xa:a*Y1-niwt:t*Z1-A52
 G42-m-V16:f
-G43-S29-I9:D54
 G45-H-iaH:N33A
 G47-G1-G17-D52
+G48
 G5
+G5-A20
 G5-A40
+G5-Ax-x*t:N18
+G5-Axt:t*y-A40
+G5-E21-ir:U2-t
+G5-E21-mA-ir:t
+G5-G5-G5
+G5-G5-Z2ss:H_SPACE
 G5-G7
+G5-G7-A19-G7-G7
+G5-G7-G5-G7-Z3A
 G5-H8:H_SPACE-st-t:H8
-G5-N19-A40
+G5-H8:Z1-st-t:H8-A52
+G5-M:Axt-pr
+G5-M:Axt-xpr-i-A40-ra:t:tm
+G5-M:H_SPACE-xAst:t*pr
+G5-N19:H_SPACE
+G5-N19:H_SPACE-A40
+G5-Xrd
+G5-Xrd-H_SPACE:p
 G5-Z1:H_SPACE
+G5-Z1:H_SPACE-A19-A40
+G5-Z1:H_SPACE-A19-W-G7
+G5-Z1:H_SPACE-G5-Z1*Z1:H_SPACE
+G5-Z1:H_SPACE-G5-Z1:H_SPACE-G5-Z1:H_SPACE
+G5-Z1:H_SPACE-Xrd«C159A»
 G5-Z1:H_SPACE-bH:d-t:niwt
+G5-Z1:H_SPACE-p-Xrd
+G5-Z1:H_SPACE-wr:r-nTr
+G5-Z1:H_SPACE-xAst:t*N18
+G5-Z1:H_SPACE«Z9:«D153»»
+G5-md-Z1
+G5-n:D-nD-ti-t:f-A40:f
+G5-p-Xrd
+G5-t:H8
+G5-t:H8«B1A»
+G5-zmA«M127»wAD
 G53-Z1
 G5:n:t*y
 G7
+G7-H8:Z1-st-t:H8
 H*Hz:z-P5
 H*Hz:z-i-i-A2-A1
 H*N5*H
@@ -877,9 +956,11 @@ H-A
 H-A-N25:R12-G7
 H-A-X4
 H-A-b-W4
+H-A-t-Q6
 H-A-t:N21
 H-A-t:N23
 H-A-t:Z4-F34
+H-A-t«O24A»
 H-A24
 H-A25-A24
 H-A25-i-i-t:N35B
@@ -904,19 +985,32 @@ H-Hn:n-nw:W-D52
 H-Hn:n-nw:W-D53
 H-Hn:n-nw:W-T19-F51
 H-Hn:n-nw:W-W22:Z2ss
-H-Hn:n-nw:W-i-i
+H-Hn:n-nw:W-i-i«P62»
+H-Hn:n-t-A24
+H-Hn:n-t:y-I3
+H-Hn:n-t:y-N31
+H-Hn:n-t:y-N31:N31
+H-Hn:n-t:y-V36
+H-Hn:n-t:y-V36-A24
+H-Hn:n-t:y-V36-N31:N31
+H-Hn:n-t:y-V36-V36
+H-Hn:n-t:y-Y1
 H-Hn:n:n-D52
 H-Hn:n:n-D53:Y1-M29-Z1-U9:Z2
 H-Hn:n:n-T19-F51
 H-Hn:n:n-U8
 H-Hr:r
+H-Hr:r-t*y:pt-A40
+H-Hr:r-t:N31
+H-Hr:r-t:pt
+H-Htp:t*p
 H-Hz-s-P5
 H-Hz-s-t:*nw
 H-Hz-z:t-Hz
 H-M22-M22-D52
 H-M22-M22-D53
 H-M22-M22-T19-F51
-H-M2:n-k-s-t:Z4
+H-M2:n-k-s-t:Z4«D156»
 H-M2:n-k:t-D3
 H-M2:n-w-W10
 H-M42-Xrd
@@ -927,12 +1021,16 @@ H-M42:n-F51
 H-M42:n-nw:t-Xrd-B1
 H-M42:n-t-A17-i-m-t-D4
 H-N42-m-w-M3
+H-N42-s-A7
 H-R4:t*p
 H-R7:R7-N36
 H-T:T-t:D41
 H-T:T-t:F51
 H-T:t*pr
 H-U8:n-nw-w-W23
+H-U8:n:t*y-V36-V36
+H-V36-N-t:I3
+H-W-A25-A24-n:y
 H-Xr-b
 H-a-A28-Y1
 H-a-DA-A-D40
@@ -946,16 +1044,26 @@ H-a:nDs
 H-a:p*y-N36
 H-a:p-mw
 H-b-M22-M22-w-t
+H-b-S28
+H-b-V6-s-W10A*h:n
 H-b-W3
 H-b-W3-A24
 H-b-W4
 H-b-b-i-N36
 H-b-b-t*N21:N35B
+H-b-s-H_SPACE:t-w
 H-b-s-S28
+H-b-s-S28-D40
 H-b-s-V6
+H-b-s-V6-A24
 H-b-s-i-i-t-S28-B1
-H-b-w
+H-b-s-i-i-t:V6
+H-b-s-t:V6-Z3-t*W
 H-b-w-O39
+H-b-w«Z26»
+H-b-z:S28
+H-b-z:S28-D40
+H-b-z:V6:D40-g-b-A2-t:pr
 H-f-A-w-I14
 H-f:Aw-w-I14
 H-f:Aw-w-I15
@@ -963,9 +1071,9 @@ H-k:n-nw:W-N33C:Z2ss
 H-k:nw-A2
 H-kA-A-A2
 H-kA:Y1
-H-m
 H-m-m--t--N8:Z2ss
 H-mA-A-t-U32-N33C:Z2ss
+H-m«G51»
 H-n
 H-n:a
 H-n:k-t-D39:nw*nw*nw
@@ -988,8 +1096,9 @@ H-q:t-S38
 H-q:t-W22
 H-r:*r-I14
 H-r:*r:t-Hn
+H-r:*t-N31
+H-r:t:pt
 H-ra-H-W23-Z3
-H-s
 H-s-Aa2:Z2
 H-s-Aa3:Z2
 H-s-F52
@@ -1004,6 +1113,7 @@ H-st-m-G38-nDs
 H-st-t:E4
 H-st:t-m-G38-Y1
 H-st:t-m-G38-Y1V
+H-s«A359»
 H-t*:r-E6
 H-t-i-i-t-F10-F51
 H-t-ti-Q7
@@ -1028,17 +1138,19 @@ H-z:p*N21
 H1
 H1:pXr
 H3:q-N33
+H5\
 H8
 H8:Z1
 H8:Z1-N21
 H8:Z1-st-t:H8
+H8:r
 H8:t
 H8:t-B1
 HA
 HA-A-A2-A
 HA-A-D1
-HA-A-m
-HA-A-mD40
+HA-A-m«G51A»
+HA-A-m«G51»D40
 HA-A-pr
 HA-A-q:D40
 HA-A-q:H_SPACE-A24
@@ -1056,6 +1168,7 @@ HAt
 HAt-A51
 HAt-E17
 HAt-W-t:y-Z9:Y1
+HAt:t
 HAt:t*Z1-A51
 HAt:t*Z1-A51-s-B1-t:Z2ss
 HAt:t*Z1-A51-z:t
@@ -1076,6 +1189,7 @@ HD-t:Z5-G7
 HDt
 H_SPACE:H-w-a:iaH
 H_SPACE:N21-Ax-Z1:H_SPACE
+H_SPACE:V6-S28
 H_SPACE:s-m-d-m-t
 H_SPACE:s-m-d:t
 H_SPACE:t-A&t-B5
@@ -1111,6 +1225,8 @@ HqA-q:Y1
 HqA-q:t-I12
 Hr
 Hr*Z1:r
+Hr*t:pt
+Hr*t:xAst
 Hr-Z1-a-Z1-W:y
 Hr-n:t:t
 Hr-tp
@@ -1125,25 +1241,68 @@ Hr:r
 Hr:r-N31-A40
 Hr:r-ib
 Hr:r-pr
+Hr:r-pt
+Hr:r-pt:t*niwt
 Hr:r-r:*t-Hn
 Hr:r-s-S:t*tA
+Hr:r-t*t:xAst
 Hr:r-t-Hn
+Hr:r-t:D54
+Hr:r-t:pr
+Hr:r-t:pt
+Hr:r-t:pt-xAst
+Hr:r-t:y-nTr
+Hr:r-t:y-rd-D54
+Hr:r-t:y-sbA
 Hr:r-tp:Z1
 Hr:r-y
 Hr:r-y:N1
+Hr:r-y:pt
+Hr:r:pt-pr:Z1
+Hr:r:t-O20
+Hr:r:t-mw
 Hrt
 Hry
 Htp
+Htp:Htp:Htp
+Htp:Htp:Htp-w
+Htp:Z2
+Htp:p*t
 Htp:p*t-Hr:r-s
+Htp:p*t-X4:Z2
+Htp:t
 Htp:t*p
+Htp:t*p-Hn-X4:Z2
+Htp:t*p-O39
+Htp:t*p-O39-mw
+Htp:t*p-X2*W22:X4
+Htp:t*p-X4
+Htp:t*p-X4:Z2
+Htp:t*p-Y1:Z2
+Htp:t*p-Y1V
+Htp:t*p-Y2
+Htp:t*p-Y2:Y2:Y2
+Htp:t*p-Z3
 Htp:t*p-t
 Htp:t*p-t:Y1
+Htp:t*p-w-X4:Z2
 Htp:t*p-w-Y1:Z2
+Htp:t*p-w-Z3
+Htp:t*p«R3F»
+Htp:t-X4:Z2
+Htp:t-Y2:Y2:Y2
 Htp:t-p:t-X4:N33A
+Htp:t:Y2
+Hwt-G5-G5-G5-G5
+Hwt-G5-Z1:H_SPACE-G5-G5-G5
+Hwt-G5-Z1:H_SPACE-G5-Z1:H_SPACE-G5-Z1:H_SPACE-G5-Z1:H_SPACE
+Hwt-G5-Z1:H_SPACE-G5-Z2ss:H_SPACE
+Hwt-G5-Z1:H_SPACE-G5-Z2ss:H_SPACE-t:niwt
 Hz
 Hz-s-H_SPACE:t-A2
 Hz-t
 I10:N35-M17-X1:U8-N23-Z1
+I12
 I2
 I3-H-Htp-t:p
 I3-Htp:t*p
@@ -1159,7 +1318,6 @@ I9:Aa1-X1-O30-D3
 III
 J
 Joined by n(j) to nouns they modify
-K3
 K4-A-b-U1
 K4-A-r:V19*Z1
 Karnak King List
@@ -1167,9 +1325,9 @@ L6:t-R1
 Late Egyptian
 Lepsius
 M-DA-Hn
-M-Q7
 M-mn:n-t:hrw
 M1
+M1-m
 M1-t
 M12
 M12-A-O27
@@ -1188,7 +1346,6 @@ M16
 M16-A-r:*r:t-Hn
 M16-G1-M16-G1-D54
 M16-M16-D54
-M17 V28-F20
 M17-Aa15:F18-V12
 M17-D36-V28-N11
 M17-D46-A17
@@ -1199,6 +1356,7 @@ M17-V31:N35-W24:Z7-U7
 M17-V31:R7-N36
 M17-s-sw-w-r
 M17-s-sw-w-r:Z1
+M17«Aa56»V28-F20
 M22*M22:n
 M22-M22-Sm-F51
 M22-M22-Sm-m-F51
@@ -1211,29 +1369,34 @@ M34-t:U10
 M34-t:y-U9:Z2ss
 M34:M33
 M4
-M4-O50
 M4-t:Z1
 M42
 M42-A2
 M42-A2-w-X4:Z2
-M42-m-A2
+M42-X7:X7
 M42-n:t
 M42:Dw-E1:Z2
 M42:X1-A2-X2-X4:Z2
 M42:n
+M42:n-O31
 M42:n-b-M13
 M42:n-i-n
+M42:n-nDs
 M42:n-t
 M44-p:d-t:N14-B1
 M44-t:B1
 M44-t:sbA
+M5
+M5-r
 M8:t
 M8:t*ra
 M8:x*t
 M8:x*t-ra
 M:D37
+M:a-D:d-Aa23-D40
 M:a-r:d-V29-Y1V
 N
+N-b
 N1
 N10:n-t:Z5-W3:N5
 N10:t-R8A-G7-Z3
@@ -1245,6 +1408,7 @@ N13-t
 N13:Hb
 N14-t:N5
 N14:t*Z1
+N14:t*Z1-A1:Z2ss
 N16:N23*Z1
 N17:N21*Z1
 N17:h-rw:q
@@ -1265,6 +1429,10 @@ N27:t*pr
 N29-D58-M17-M17-X1:F51B
 N29-G1-D58-X1:F16
 N29:N35-M17-V19
+N31
+N31-A40-nD-nw:Y1-i-t:f:Z1-f
+N31-i
+N31:pt:t
 N31:t*Z1
 N33C:N33C*N33C
 N33C:Z2ss
@@ -1273,7 +1441,10 @@ N35:D46-D58-A2
 N35:M17-N35:M17
 N35:Q3-G40-G1-G43-Z2:Z7
 N35:Q3-N35:Q3-X1-S28
-N35:Z4-N35:Z4
+N35:Z4-N35:Z4«A85»
+N35:Z4-N35:Z4«B13A»
+N35B:N36
+N35B:Z2
 N36
 N36:N21*Z1
 N36:N23
@@ -1281,21 +1452,25 @@ N36:N23-wr:r-mw-N36:N23
 N36:N23-wr:r-t:niwt
 N36:Z1
 N36:t-p:t-H
+N37:D21-A17
 N37:N37-G48
 N37:V31-D21-Aa30:Z2
+N41-m-s-B4
 N41:t-B1
 N41:t-E1
 N42-m-D54
 N42-m-P10
 N42-m-W:Y1-A24
+N42-m-s-A3
 N42-m:a
-N42-s-A3
 N42-s-Xrd
 N42:z-A7
 N42:z-Xrd
+N8
 N8-A1*B1:Z2
 N8-G7
 N8-M:M-t:Z2ss
+N8-Z3
 N8-m-m-t:Z2ss
 N8-nw*W:D26
 N8-nw-w-F51
@@ -1309,7 +1484,9 @@ N9:t-A40:N33A
 N9:t-R8A-A40:Z2
 N:t-H-s-b-Aa2
 O10
+O10-G5-Z2ss:H_SPACE
 O12
+O12-pr
 O22
 O23
 O24
@@ -1323,8 +1500,10 @@ O29:a-m-T14
 O29:p-w
 O29V
 O31
+O31:D40
 O31:Z1
 O32
+O33
 O34:Aa15-O34:Aa15-A2
 O34:N37-O31
 O34:N37-T30
@@ -1336,13 +1515,9 @@ O36-N21:Z1
 O36-t:N23*Z1
 O36-t:N23*Z1-pr
 O39:Z1
-O42-Q3-G43
-O42:p-G7
-O43
 O43-p-N8
 O43-p:N11
 O43-p:t-N33C:Z2ss
-O43:p
 O44
 O44-O44-O44
 O44-t
@@ -1351,7 +1526,6 @@ O44-t-tyw-A1-Z3
 O44-t:Z1
 O45*t:pr
 O48
-O4:O1
 O5-wr-E1
 O5-wr:r-E1
 O51
@@ -1369,11 +1543,11 @@ P7-w-D54:Z2ss
 P9-y
 PT 254.39
 Papyrus Chester Beatty I
-Papyrus Ebers 2
 Papyrus Louvre 3129
 Papyrus Sallier I
 Papyrus Westcar 9.16
 Piye’s Victory Stele
+Q2:ir
 Q2:ir-A40
 Q2:t
 Q2:t*O1
@@ -1393,15 +1567,23 @@ R4:R4-R4
 R4:Z2
 R4:t*p
 R4:t-p:Y1
+R7*t:pr
 R7-bA-Z1
 R7-rw:n-ir:g-t:H8
 R7:q-hrw
 R8A
 R8A-R8A-R8A
+R8A-w
+S
 S-E10-kA
+S-S36-w
+S-Sw-w
+S-Sw-w-A40
+S-Sw-w-w-Hn:Z2ss
 S-b-X2:W22
 S-b-n
 S-b-w-X2:W22
+S-i-w-S36
 S-m-m-Q7
 S-m-m-t-Q7
 S-mA-D54
@@ -1411,17 +1593,19 @@ S-s-Sms-D54
 S-s-V6:W3
 S-w-t-S36
 S1
+S11
 S13-i-i-t:O49
 S17-n:t-N33B:N33B:N33B
 S18
 S21
-S22-N35A
 S24
 S25-A1-Z3
 S26
 S26:t
 S27
 S28
+S28-D40
+S28-H_SPACE:t-w
 S28-Z2ss
 S29-D36-D58-T30
 S29-D58-N14:X1
@@ -1437,8 +1621,6 @@ S38-q:t
 S40-m-nbw:N33A
 S40-m-nbw:N33C:Z2
 S40-t:t-W22
-S42-Z1
-S43-d:t-A2
 S44
 S44-s
 S45
@@ -1450,7 +1632,7 @@ S:T-w-I2
 S:a
 S:a-T30
 S:a-d:T30-A24
-S:a-i-i
+S:a-i-i«N33Aw»
 S:a-q-U37
 S:a-t-F41:N33A
 S:a-t-T30:Z2
@@ -1475,6 +1657,7 @@ S:n-i-t-N4
 S:n:d-i-i-t
 S:n:f-N33C:Z2ss
 S:n:f-t:N33C
+S:p
 S:p-s-t-B1
 S:r-i-Xrd
 S:r-i-nDs
@@ -1486,7 +1669,8 @@ S:t*U30-Y1V
 S:t-F41-T30:Z2
 S:t-Y1:Z2
 S:t-tyw-I2
-S:z-p:O43
+S:z-Szp-p
+S:z-p:Szp
 SA-A-HASH-HASH
 SA-A-SA-A-n:q-A52
 SA-A-SA-A-q-A-A1-G7
@@ -1514,8 +1698,7 @@ SA-Z5-SA-q-A52
 SA-b-t:y
 SA-b-t:y-A53
 SA-b-w-t:y
-SA-i-i-A-rw-SA-A
-SA-q-i-i
+SA-q-i-i«N33Aw»
 SA-s
 SA-sw
 SA-sw-w
@@ -1523,7 +1706,7 @@ SA:N23*Z1
 SA:N23-Z1-Hn
 SA:SA-nw:q
 SA:SA-q
-SA:q-b |link=
+SA:q-b«E131»
 SAa-r
 Saqqara King List
 Saqqara King List 24
@@ -1561,7 +1744,10 @@ Sn:n-t:V1-A2
 Sn:n-y:D3
 Sn:n:d-i-i
 Sn:z-X3
+Sna-pr:Z1
+Sna-w-pr
 Sna:a-pr
+Sna:a-w-pr:Z1
 Sna:pr
 Snbt
 Sps
@@ -1572,12 +1758,48 @@ Spsi
 Ss
 SsA
 Sw
+Sw-A28
+Sw-A40
 Sw-H_SPACE:t-w-S36
+Sw-N8
+Sw-W
+Sw-W-A28
+Sw-W-N8
+Sw-W-Y1V-A24
+Sw-W-Z9:nDs
+Sw-W-i-i-N8
 Sw-W-nDs
+Sw-W-nTr
+Sw-W:Aa2
+Sw-W:W-arq:Z2
+Sw-W:W-ra
+Sw-W:nDs
+Sw-arq
+Sw-ra
 Sw-t:Z1
 Sw-w
 Sw-w-A40
 Sw-w-E12
+Sw-w-Hn:Z2ss
+Sw-w-N8
+Sw-w-Z9:nDs
+Sw-w-nDs
+Sw-w-ra
+Sw-w-ra:Z2ss
+Sw-w-w-N8
+Sw-w-w-t:N23-Z3
+Szp
+Szp-N11:Z1
+Szp-p:D37
+Szp-p:D40
+Szp-p:N11
+Szp-p:a
+Szp:p
+Szp:p-A40
+Szp:p-G7
+Szp:p-N11:Z1
+Szp:p-Y1-A24
+Szp:p«E151»
 T
 T-H-S16-n:t:N33A
 T-H-n:a
@@ -1594,6 +1816,8 @@ T-s-t-U39-Y1
 T-w-f:Hn-Z2ss
 T-w-f:y-M15-Hn-Z3
 T-wn:n-D40
+T-wr:r
+T-wr:r-i-qs-Y1V
 T10:t*Z1
 T10:t*y-D40
 T14
@@ -1602,7 +1826,7 @@ T14-A14-Z3
 T14-A1:Z2
 T14-N25
 T14-U11
-T14-W:tZ3A
+T14-W:t«E186»Z3A
 T14-bH-A2-A1
 T14-m
 T14-m-A1
@@ -1613,7 +1837,7 @@ T14-m-w
 T14-n:t*Z1
 T21:a*W-Z1:n
 T21:a*Z1
-T28:D21-G43-Z4
+T28:D21-G43-Z4«D283»
 T29-t:pr*Z1
 T30:X1*Z1-A24
 T33
@@ -1646,6 +1870,7 @@ T:r-M5
 T:r-p-G38
 T:r-p-G54
 T:r-t-M1
+T:r-tr
 T:t-R3A:Z1
 T:z-T14
 T:z-Tz
@@ -1679,9 +1904,7 @@ The Schoyen Collection
 The final hieroglyph is inverted
 The second glyph is unclearand may be something else
 Thebes
-This abbreviated form is much preferred over the full spelling
 This was the usual writing before the Late Period
-This writing is more common than the full form
 Tomb IX
 Turin King List
 Tz:Z1
@@ -1710,10 +1933,6 @@ U26-b-bA-A-i-i-t:Y1-B1
 U26-b-bA-A-t:Y1-B1
 U28-A-n:Z4-n:Z4-Z9:D40
 U28-X1:O39-G39
-U2:Aa11-a:H2
-U2:Aa11-a:t*Z5-Y1
-U2:Aa11-a:t-y:Y1
-U2:Aa11-a:t:Y1
 U2:D4-A-A
 U2:D4-A-t-F27
 U2:D4-A-w-D4:Z2
@@ -1724,11 +1943,15 @@ U2:a-F16
 U2:a-N21-pr
 U2:a-Y1-F16-N23-Z1
 U2:a-t:pr
-U2:ir Z1
 U2:ir-A-r:T12-A1
 U2:ir-A-r:T12-nDs:A1
 U2:ir-F81-Z1
+U2:ir«F81»Z1
 U2:mAa-a-w-H2-TAw
+U2:mAa-a:H2
+U2:mAa-a:t*Z5-Y1
+U2:mAa-a:t-y:Y1
+U2:mAa-a:t:Y1
 U2:q*t-P6
 U2:q*t-P6-xt
 U2:t-W7
@@ -1740,13 +1963,17 @@ U32-n:N33C:Z2ss
 U35-A24
 U35-D40-A-t-F3:ra
 U36-Z1-G7
+U40-ir-A40
 U5:a-Y1V
 U5:a-t-Sw-Y1:Z2
 U5:a-w-TAw
+U7
 U7*r:r*t-O38
+U7-A2
 U7-i-i-N23
 U7:D21-G43-N25
 U7:N36
+U7:r
 U7:r-A2
 U7:r-A2-A1-T-w
 U7:r-A2-A1-T:n
@@ -1755,13 +1982,14 @@ U7:r-A2-B1-T:n
 U7:r-H-N33C:Z2ss
 U7:r-H-t-W22:Z2ss
 U7:r-H-t-W23:Z2ss
+U7:r-N36
 U7:r-S
 U7:r-W-mw-N36:N23
 U7:r-W:t-A2-Z2
-U7:r-i-i
 U7:r-i-i-D52:E1
 U7:r-i-i-t-r:a:ra
 U7:r-i-i-t:N21*Z1
+U7:r-i-i«E101»
 U7:r-i-t-i-mw
 U7:r-mw
 U7:r-mw-N36:N23
@@ -1774,15 +2002,12 @@ U7:t-r:a:ra*Z1
 U9:Z1
 U9:t*Z1
 Unmarked for number and gender
+Urk. I 150
+Urk. I 71
 V1
 V13:D21-G17-D6
 V13:N35-T14-M17-O49
 V13:N35-W24-G43-X1-Y1:Z2
-V15
-V15-A24
-V15:D40
-V15:t-A24
-V15:t-D40
 V16
 V16-O1:Z1
 V16:Z1
@@ -1803,14 +2028,16 @@ V25-V28-W24:D36
 V25-i-i-t:
 V25-w-i-i-t:D54
 V28-D36:X1*V1
-V28-D36X1
-V28-D58-G43
+V28-D36«D133»X1
+V28-D58-G43«T57»
 V28-O34:Q3-N24
 V2:t*t
 V31:I9-N17
 V33
 V33:Z1
 V35*V35:V35-U9
+V36-V36-N31:N31
+V36-t:y
 V39
 V39-i-i
 V4-A-Aa18:Z1-i-i-T30-A24
@@ -1821,7 +2048,6 @@ V6-Z1-U9:Z2ss
 V6-s-r:T11
 V6:z-m-F27-Z1
 W
-W*y:pr
 W-A1
 W-D:a-wDa-A24
 W-DA-A-t:Z5-wDAt
@@ -1835,16 +2061,27 @@ W-i
 W-i-A1
 W-n:Z2
 W-s-N31:ra
+W-s-gb-A40
 W-s-x*W10:Y1
 W1-di-p:t
 W1-p:D37
 W1-t:t-B1
 W1-t:t-p:D37-H8:Z1
+W10
 W10*t:tA:tA
+W10*t:x-D40
+W10*x:M-N36
 W10:W10-W:y-D6
 W10:Y1
 W10:t
 W10:x-H5
+W10A*h:n
+W10A-N21:nw-T30
+W10A:h-A-i-i-W-TAw-V19:Z2ss
+W10A:h-D54
+W10A:h-t-Q7
+W10A:h-t:Aa3
+W10A:h-t:fnD
 W10A:n-nw-w
 W10A:nw-nw:W
 W10A:t-U9:Z2ss
@@ -1883,11 +2120,15 @@ X1:N35-W24-G43:X1-Y1:Z2
 X1:N35:Z4-O49
 X1:O4-G43-D56-D54-A1
 X2
+X2-X4:Z2
 X6:t
+X7:X7-A2
 X:N33C*t
+X:Z1
 X:d-b-T30:D40
 X:k:r-Aa30
 X:k:r-Aa30-Y1V
+X:n
 X:p-G41-A-F51
 X:p-pA-A-w-Aa2:F51
 X:r-d-w-Xrd-Z3
@@ -1895,18 +2136,28 @@ X:r:d-Xrd
 X:r:d-nDs-A1
 X:t*F51
 X:t*Z1
+X:t*Z1*F51
 X:z
+X:z-y:nDs
+X:z-y:nDs-A1
 X:z:r-sk-a
 XA-A-k-ib:Z1-A13
 XA-A-r:*t-B1
 XA:A-m-D32
 XA:t*N23
 Xn-n:nw*W-niwt
+Xn-nw*Z1:pr
 Xn-nw:t-pr
+Xn:n-F27:Z2ss
 Xn:n-S28
+Xn:n-nw-W-niwt:pr
+Xn:n-nw-w-pr
+Xn:n-nw:D54
 Xn:n-nw:niwt
 Xn:n-nw:pr
 Xn:n-nxn:niwt
+Xn:n-pr
+Xn:nw
 Xnm
 Xnm-t:N35B
 XpA
@@ -1928,6 +2179,8 @@ Y1:t*Z1-V12:Z1
 Y3-Y1V
 Y4-A1
 Y4-Y1:N33A-n-a:t-i-mn:n-t
+Y8
+Y8-m-A24-ir:f-A44
 Z1
 Z1*Z1*Z1:Z1*Z1
 Z1*Z1*Z1:Z1*Z1*Z1-Z1*Z1*Z1:t
@@ -1936,17 +2189,17 @@ Z1*Z1*Z1:nw
 Z1*Z1:nw
 Z1-p-w
 Z11
-Z11-H_SPACE:t-m-pr:Z1-Y1:Z2
 Z11-m
 Z11-m&t
 Z11-m-Z4-t:W
 Z11-m-Z4: -t:W
 Z2ss
 Z3A
-Z7
 Z7-s-A-t:T30
 Z9:D54
+Z9:N31
 Z9:r-Aa15:N36
+Z9:r-pH:R12
 [10th Dynasty]
 [11th Dynasty]
 [12th Dynasty]
@@ -1954,12 +2207,16 @@ Z9:r-Aa15:N36
 [18th Dynasty and Greco-Roman Period]
 [18th Dynasty]
 [18th dynasty]
+[18th to 20th Dynasty]
 [18th-19th Dynasty]
 [18th-20th Dynasty]
 [18th–19th Dynasty]
 [18th–22th Dynasty]
 [19th
 [19th Dynasty]
+[19th and 20th Dynasties]
+[19th and 20th Dynasty]
+[19th to 20th Dynasty]
 [19th-20th Dynasty]
 [19th–20th Dynasty]
 [20th Dynasty]
@@ -1972,60 +2229,87 @@ Z9:r-Aa15:N36
 [2nd Dynasty]
 [Abydos King List]
 [Amarna Period]
+[Amduat]
 [Book of the Dead]
 [Coffin Texts]
 [Coffin texts]
 [Greco-Roman Period, occasionally earlier]
 [Greco-Roman Period]
+[Late Egyptian and Greco-Roman Period]
 [Late Egyptian]
 [Late Period, Greco-Roman Period]
 [Late Period]
 [Late and Greco-Roman Periods]
+[Medical Papyri]
+[Medical papyri]
 [Middle Egyptian]
+[Middle Kingdom and 18th Dynasty]
+[Middle Kingdom literature]
 [Middle Kingdom to 26th Dynasty]
+[Middle Kingdom to Late Period]
 [Middle Kingdom to New Kingdom]
 [Middle Kingdom, Late Period]
 [Middle Kingdom]
 [Middle and Late Egyptian]
 [Middle and New Kingdom]
+[Middle and New Kingdoms]
 [Middle to New Kingdom]
 [New Kingdom and Greco-Roman Period]
 [New Kingdom,Greco-Roman Period]
 [New Kingdom]
 [Old Egyptian]
+[Old Kingdom and 18th Dynasty]
 [Old Kingdom and Late Period]
+[Old Kingdom and since the New Kingdom]
 [Old Kingdom to Coffin Texts]
 [Old Kingdom,Middle Kingdom,Late Period, Greco-Roman Period]
 [Old Kingdom]
 [Old and Middle Kingdom, Greco-Roman Period]
+[Old and Middle Kingdoms and Greco-Roman Period]
+[Old and Middle Kingdoms]
 [Old and New Kingdom]
+[Old and New Kingdoms]
+[Old to Middle Kingdom]
 [Ptolemaic Period]
 [Pyramid Texts to 18th Dynasty]
+[Pyramid Texts to Middle Kingdom]
 [Pyramid Texts, 18th Dynasty, Late and Greco-Roman Periods]
 [Pyramid Texts]
+[Pyramid and Coffin Texts]
+[Saite Period]
 [Second Intermediate Period?]
 [Second Intermediate Period]
 [Since 18th Dynasty]
+[Theban royal tombs andGreco-Roman Period]
+[Theban royal tombs]
 [after the 12th Dynasty]
-[after the Middle Kingdom]
 [c. 21st Dynasty]
 [chiefly Greco-Roman Period]
 [chiefly Old Kingdom]
+[chiefly Pyramid Texts to Middle Kingdom]
+[chiefly Pyramid Texts]
 [chiefly since the Middle Kingdom]
 [chiefly since the New Kingdom]
 [common since the Middle Kingdom]
 [common since18th Dynasty]
 [earlier form]
 [early Middle Egyptian, Late Egyptian]
+[late New Kingdom]
 [later]
 [medical papyri]
 [sic]
 [since Old Egyptian]
+[since the 12th Dynasty]
 [since the 18th Dynasty]
 [since the 18th dynasty]
 [since the 19th Dynasty]
 [since the Amarna Period]
+[since the Book of the Dead]
+[since the First Intermediate Period]
+[since the Greco-Roman Period]
 [since the Late Period]
+[since the Medical papyri]
+[since the Middle Kingdom,especially Greco-Roman Period]
 [since the Middle Kingdom]
 [since the New Kingdom]
 [since the Old Kingdom]
@@ -2039,7 +2323,7 @@ a-A-d-t-X2
 a-F17-b-w
 a-G3-M-i-i-t-F27
 a-H-T24
-a-H-T24:D40
+a-H-T24-D40
 a-H-aH
 a-U1-t:pr
 a-V4-A-A24
@@ -2079,16 +2363,20 @@ a:M:M-i-i-t
 a:O31-T14-m-A1
 a:S-A
 a:S-A-aSA
+a:S-A2
 a:S-A26
 a:S-Aa2-M1
 a:S-aSA
 a:S-m-G7
 a:S:M-G11
+a:S:t-aSA-A1-A1-A1
 a:X-G41
 a:X-H5
+a:X-T14-G41
 a:X-nw*t:y
 a:Xn-n:nw-ti-t:y-pr
 a:a-D6
+a:a-O24
 a:a-S21
 a:a-b-W10
 a:a-f-V6-A24
@@ -2106,7 +2394,7 @@ a:f-t:y-A36
 a:f:f-G39
 a:f:f-L3
 a:f:t-A36
-a:g*w-t
+a:g*w-t«M33C»
 a:m:t-M:t-w-A14:Z2
 a:n-M22-M22-V1
 a:n-a:n-F51
@@ -2132,7 +2420,6 @@ a:p-SA-A-i-i-L1
 a:q-i-i-t
 a:q-w-U9:Z2ss
 a:q-w-X4:Z2
-a:r
 a:r-E23-M2
 a:r-M2
 a:r-N31
@@ -2153,20 +2440,32 @@ a:r:r-t:pr
 a:r:r-w-t-O32
 a:r:r-w-t:pr
 a:r:t*pr
-a:r:t*prZ3
+a:r:t*pr«O32B»Z3
+a:r«M195»
+a:t**x-A24
+a:t**x-W:Y1-A24
+a:t*pr-i-f:F51*Z2ss
 a:t*pr-s-b-N14-A-A24
+a:t-i-f:F51
+a:t-n:t-xt:t*Z1-O1
 a:x*x-W-N2
 a:x-H5
 a:x-Q7
 a:x-i-i-H5
+a:x-m-F10-A2
 a:x-m-Q7
 a:x-m-Q7-mw
 a:x-m-mw
 a:x-m-t:N21
 a:x-mwt-t:N23:Z2ss
+a:x-pt
+a:x-pt:D40
 a:x:M-G12
 a:x:M-G7
-a:z-T-r:Z1-U33-M17-I12
+a:x:M-mw
+a:z-T-r:Z1-ti-i-I12
+a:z-T:r-d-t:H8-B1
+a:z:T-t:H8-B1
 aA
 aA-A-Y1
 aA:D52-E7
@@ -2185,7 +2484,9 @@ aA:a-M3
 aA:a-N31
 aA:a-O31
 aA:a-O31:Z1-M3
+aA:a-s-y-ti-i-i
 aA:a-t:N33C
+aA:a:z-ti-i-r:Z1
 aA:p*p-I14
 aA:p*p-I2
 aA:t
@@ -2197,7 +2498,6 @@ aApp
 aD:D&t-P1
 aD:d-Y1
 aH
-aH-a:pr
 aH-pr
 aHA
 aHA-A-A24
@@ -2221,14 +2521,18 @@ aSA-A-Z3
 aSA-Z1
 aSA:Z2
 aSA:t*Z2ss
+aSA:t-A1*B1:Z2
 aXm
+abbrevation
 abbreviation
 abbreviation in dates
+abbreviation in namesof types of ritual loaves
 abbreviation in theoffering formula
 after merger with feminine st
 after merger withfeminine st
 also on theAbydos King List 39
 also used as an abbreviationfor the word
+alsocommon in other uses duringthe Greco-Roman Period
 alternative reading of theattestation on the Merneptah Stele
 am HH
 am-mwt
@@ -2251,8 +2555,9 @@ anx-Z1-X4:Z2
 anx-n:x
 anx-n:x-M2:Z2
 anx-n:x-Y1V
-anx-t:Z1
+anx-t:Z1«Q24»
 anx-x-L1
+anx«Q24»
 apparently a scribal error
 apr
 apr-Y1V
@@ -2265,31 +2570,51 @@ aq:q-w-X4:Z2
 aq:t
 archaic by Middle Egyptian
 as a divine epithet
+as a given name
 as a god
 as a team of horse
+as a term introducing the serekh name
 as a unit of measure
 as abbreviation for arura
-as an elementin personal names
 as an epithet for fire
 as an epithet for goddesses
+as if ḏd-mdw
 as part of ẖnmt-jmn-ḥꜣt-špswt
 at
 at the beginning of a sentence
-awt-w-tZ3
+attested only once
+attested only once as singular
+awt-w-t«E186»Z3
 axm
+b
+b nfr
 b*M32:M33
+b-A1-B1-Z3-nb:W*Z2ss
+b-H-N-T30
+b-H-W-Aa2:Z2ss
+b-H-Y1-A24
 b-H-bH-s
+b-H-n
+b-H-n:T30
+b-H-n:T30:D40
+b-H-n:bH
 b-H-s-D54
 b-H-s-T30:D40
 b-H-s-rd
+b-H-y:D40
 b-H-z:bH-E9
-b-S
 b-S-D26-mw
 b-S3-nw-w
 b-S:t*fnD
+b-S«D154»
+b-S«D87»
+b-T-A27
 b-X-b-X-A24
 b-X-w-D4:N25
 b-X:D7-t:N25
+b-Z1
+b-Z1:nb
+b-Z1:pr
 b-a-H-G32
 b-a-H-G32-mw
 b-a-H-w-mw
@@ -2308,12 +2633,25 @@ b-bA-kA:dwA
 b-bA-st-t:O49
 b-bA-t:Hn
 b-bH:N42-w-xAst:Z2
+b-bH:n-T30
 b-bnr
 b-d:d-w-D28:D52-M2:Z2
 b-d:d-w-D52:w-M2:Z2
 b-d:t-M34
 b-f:D6
 b-g-sw-w-T8A
+b-h-A
+b-h-A-S35-xt
+b-h-A-w-D54-A1
+b-h-nw:D54
+b-h:D54
+b-h:F51
+b-h:d-Q7
+b-h:d-fnD:Y1
+b-h:t-A14A
+b-h:t-Q7
+b-h:t-S35
+b-h:t-fnD
 b-i-A-r:n-i-i-g:t*H8
 b-i-A-t:bH-Y1:Z2
 b-i-N-nDs
@@ -2326,12 +2664,18 @@ b-i-t*W10:bH
 b-i-t-A2
 b-i-t:N42-bH-A2
 b-i-t:bH
+b-i-t:pr
+b-iTi
+b-iTi:D40
+b-iTi:t
+b-iTi:t-D54
 b-kA-hrw:N19
 b-kA:t-hrw
 b-n-i-M32-N33C:Z2ss
+b-n:*t*t-D27:D27
 b-n:S-xt
 b-n:nw
-b-n:nw*W-M32
+b-n:nw*W-M32««U54»:«N33A»»
 b-n:nw*w
 b-n:nw*w-A40
 b-n:nw*w-G31
@@ -2341,19 +2685,30 @@ b-n:r-bnr
 b-n:r-i-M32-M1-N33C:Z2ss
 b-n:r-i-bnr
 b-n:r-i-bnr-Y1V
+b-n:t-D27:D27
+b-nb
+b-nb-A1-B1-Z3
+b-nbw
+b-nfr
+b-nfr-X4
+b-nfr-X4:Z2
 b-r:n-i-i-k:t*H8
 b-s-Aa2:Y1
 b-s-bz
-b-t*t:xAst-niwt
+b-t:U30-A-D54
 b-t:U30-A-Z9:G37
+b-t:U30-A-rd-D54
 b-t:U30-Z9:G37
+b-t:pr
 b-t:y-M34
 b-t:y-U9:Z2ss
 b-w-i-i-tyw-K2:nDs-Z3
 b-w-nb
+b-w-nb-w-A1-B1-Z3
+b-w-nfr
 b-w-t:nDs
-b-x:n:t-F5
 b-x:n:t-F5-O1
+b-x:n:t-F5«O139»
 b3
 b3k3
 b3st
@@ -2367,6 +2722,7 @@ bA-Z1-Z6
 bA-Z1: -d:t*Z5-Hn
 bA-Z3
 bA-bA-rw:xAst
+bA-h:t-Q7
 bA-k:H_SPACE-A1
 bA-k:H_SPACE-Y1:Z2
 bA-k:t-B1
@@ -2376,6 +2732,8 @@ bAst
 bAstt
 bAt
 bH-A2
+bH:r-G7-zmA-A-m-y:Y1-tA:tA:N23*N23-Z2:niwt-G7
+bH:z-E3
 bH:z-E9
 bT
 bb
@@ -2386,8 +2744,8 @@ bd ḏwj
 bdS
 bddw k3
 bddw kA
-bddw kꜣ
-bddw kꜣw
+bddw-kꜣ
+bddw-kꜣw
 bdt
 bdš
 before suffix pronouns
@@ -2395,19 +2753,26 @@ beforedivine
 bf
 bgs
 bgsw
+bh
+bhd
+bhn
+bht
+bhꜣ
 bhꜣw
+bhꜣyw
 biA:t-Y1:Z2
 biAt
 biAyt
 bik
 bin
 bint
-bit
 bit-M15
 bit-t-A-x:H_SPACE-M15-niwt
 bit-t:Z1
 bit-t:y-A45
 bit:t
+bit:t-pr
+bit«M139»
 bj
 bjf
 bjk
@@ -2436,7 +2801,9 @@ bnr-Z1-it:Z2ss
 bnrj
 bnrt
 bns
+bnt
 bntj
+bntt
 bntwt
 bnw
 bnš
@@ -2445,13 +2812,25 @@ brnykt
 bs
 bsj
 bsnt
+bt
 btA
 btj
 btꜣ
 but rendered by Černý and the Wörterbuchas an otherwise unknown sign resembling a sack
 but treated syntactically as masculine plurals when used with participles and relative forms
 bw
+bw bjn
+bw jqr
+bw mnḫ
+bw mꜣꜥ
+bw nfr
+bw wr
+bw wꜥ
+bw ḏsr
+bw ḏw
+bw ḥwrw
 bw-nb
+bw-nbw
 bwpw
 bwt
 bwtj
@@ -2464,12 +2843,18 @@ bšt
 bšṯ
 bšṯw
 bḏꜣ
+bḥ
 bḥdt
 bḥdt jꜣbtt
 bḥdt mḥt
 bḥdtj
+bḥj
 bḥn
+bḥnj
+bḥnt
+bḥnwj
 bḥs
+bḥw
 bḥz
 bḫnt
 bṯ
@@ -2482,6 +2867,7 @@ bꜣ ꜥnḫ
 bꜣbꜣrw
 bꜣgj
 bꜣgsw
+bꜣht
 bꜣj
 bꜣjr
 bꜣjryw
@@ -2500,7 +2886,6 @@ bꜣstjt
 bꜣstt
 bꜣt
 bꜣw
-bꜣw ()
 bꜣyr
 bꜣyt
 bꜣšj
@@ -2514,19 +2899,24 @@ bꜥḥj
 bꜥḥw
 ca. 1st century CE
 can alsorepresent ḫꜣst
+capture’
 causatives
 ceiling inscriptions
+chiefly as an elementin personal names
 chiefly in weak verbs
 circa 1334 BCE
+common only in theOld Kingdom
 consisting of women
+d
 d*p:ns:F51
-d-A-b
 d-A-b-M43-N33C
 d-A-b-V12
+d-A-b«M194»
 d-A-g-A1
 d-A-g-i-i
 d-A-i-r-T12-A24
-d-A-n:g
+d-A-i-r-rwd-A24-ib-Z1
+d-A-n:g«D77»
 d-A-t:dwAt
 d-Hr:r-i-W-nDs
 d-b-DbA-Y1:Z2
@@ -2540,11 +2930,14 @@ d-g-A-ir
 d-gm-m-M1
 d-i-b-E25
 d-i-d-i
-d-mi
-d-mi-G7
+d-mi-G7«S116»
 d-mi-N21:Z1
 d-mi-i-D41
+d-mi-i-D54
 d-mi-i-N23*Z1
+d-mi-i-Y1V
+d-mi«G142»
+d-p-W:t-P1
 d-s-i-A2
 d-w-s-A2
 d:N38:r-t:N25
@@ -2558,6 +2951,7 @@ d:S:r
 d:S:r-Z5
 d:T30
 d:T30-m-A2
+d:Z9:r-qs-mw
 d:Z9:r-qs-mw-A1
 d:bH
 d:bH-Htp:t*p
@@ -2592,12 +2986,15 @@ d:p-ns:niwt
 d:p-ns:t
 d:q-r:D51-N33C:Z2ss
 d:r-g-i-i-t-G38
+d:t*Z1
 d:wA-dwA:t
 d:wA-t:dwA
-d:x
+d:wr:r-N36
+d:wr:r-qs-mw
+d:x«D84»
 d:z-T30
 d:z-W22
-d:z-Z4:W22
+d:z-y:W22
 dAdA
 dSr
 dSr-r:t*-N25
@@ -2654,9 +3051,11 @@ dnd
 dng
 dnjt
 dns
+doorway’
 dp
 dpj
 dpt
+dpwt
 dpy
 dqr
 dr
@@ -2666,6 +3065,7 @@ dsj
 dual
 dw3 mwt.f
 dwA
+dwA*dwA:dwA
 dwA-A-A30
 dwA-A-A30-Y1V-mwt-A40-f
 dwA-A-W-t:pr
@@ -2674,8 +3074,8 @@ dwA-A-i-i-t:hrw
 dwA-A-t:pr
 dwA-A-w-hrw:
 dwA-A-w-hrw:H_SPACE
-dwA-A30
 dwA-A30-t:Y1
+dwA-A30«B1A»
 dwA-R8A-nb:n
 dwA-mwt-t:f-A40
 dwA-nTr-n
@@ -2685,6 +3085,7 @@ dwA:t
 dwAt
 dwAt-t:pr
 dwAw
+dwA«B18»«B1A»
 dwn
 dwr
 dws
@@ -2713,13 +3114,15 @@ dꜣb
 dꜣdꜣ
 dꜣg
 dꜣjr
+dꜣjr jb
 dꜣng
 dꜣr
+dꜣr jb
 dꜣt
-equivalence with jkn disputed
 erroneous determinative
 especially beforesuffix pronouns
-especially in papyri
+especially in hieratic
+especially in the sense ‘graciousness’
 f
 f-A-A9
 f-A-A9-D40
@@ -2729,10 +3132,10 @@ f-s-Q7
 f:A-t
 f:d-q-Z9:D40
 f:d-q:Z9
-f:g-A
+f:g-A«A81»
 f:g-D53
 f:g-n:D53
-f:g:n
+f:g:n«A81»
 f:n-D-nD-D19
 f:n-D:D19
 f:n-d:D19
@@ -2755,7 +3158,7 @@ fnD:tA
 fnd
 fnḏ
 fnḏ nb
-fnḏj ()
+fnḏj
 fnḫw
 fnṯ
 for inflected ꜣꜥꜥ.wj
@@ -2779,14 +3182,15 @@ g-b-t-Hn:Z2ss
 g-s-sA-A-O37
 g:S-i-qs
 g:n-X:t-sbA
-g:n-gA2
+g:n-g«M67»A2
 g:n:n-A7
 g:n:n-A7-nDs
 g:r
-g:r-A1
+g:r-A2
 g:r-A2-A1
 g:r-H-D41:Y1
 g:r-H-N2
+g:r-Y1V
 g:r-g-grg-A2
 g:r-grg
 g:r-grg-A2
@@ -2803,7 +3207,6 @@ gbt
 gbtjw
 gbꜣ
 general
-gk-G37
 gm
 gm-M
 gm-m
@@ -2826,6 +3229,7 @@ gp n mw
 gr
 grH
 grg
+grg pr
 grg-G37:Z2
 grg-ꜣpd
 grgt
@@ -2849,9 +3253,12 @@ gꜣw
 gꜣš
 gꜣšj
 h
+h*Z1:pr
 h-A-D54
 h-A-D54:H_SPACE
+h-A-R7-hb
 h-A-W-Q7
+h-A-b-W-hb-xt:Z2
 h-A-h-A-Q7
 h-A-i-i-A2
 h-A-i-i-A28
@@ -2860,6 +3267,7 @@ h-A-k-W4
 h-A-k:i*r-Hb
 h-A-p-V12:Z2
 h-A-w-Y1:Z2
+h-Z1-pr-Z1
 h-b-G26
 h-b-U13
 h-b-h-b-hb
@@ -2878,11 +3286,14 @@ h-m-h-m&t-A2-Z3
 h-m-h-m*t-A2
 h-n:d-wA-i-i-N25
 h-n:n-F5
+h-pr:Z1
 h-q-A-rw:Z1
 h-r:W*hrw-Z1
 h3
 h:D52
 h:D54-A-k:r-A8
+h:R7-A-hb
+h:Z1
 h:h-y-Q7
 h:k-r:Hb
 h:k-rw:Z1
@@ -2893,21 +3304,30 @@ h:n-nw-w-W22
 h:n:n-D41
 h:n:n-D41:D40
 h:nw-ti-wA-T14-xAst
-h:pZ2
+h:pr
+h:p««H27»:Z2»
+h:r
+h:r-hrw:Z1
+h:r-t
 h:r-w-hrw
+h:r-y:Y1
 h:r:M-T14-t:t:xAst
 h:r:M-t*t:xAst
+h:r:N33A
 hA
 hAb
 hAw
 hapax
 hb
 hb-n:y-Aa40
+hb:N33C*Z2ss
 hb:n-y:M3
+hb:t*Z2ss
 hbhb
 hbj
 hbnj
 hby
+hbꜣ
 hd
 herd of elephants
 hgr
@@ -2927,9 +3347,11 @@ hnn
 hnw
 hnwtjwꜣ
 hny
+hold
 hp
 hqꜣrw
 hr
+hrj
 hrm
 hrrt
 hrw
@@ -2942,6 +3364,8 @@ hy
 hypostyle hall
 hꜣ
 hꜣb
+hꜣbw
+hꜣbꜣ
 hꜣhꜣ
 hꜣj
 hꜣk
@@ -2974,31 +3398,44 @@ i-A-T-D57-nDs
 i-A-W-A30-Y1:Z2
 i-A-W:t-O44-Y1:Z2
 i-A-W:y-A19-Y1
-i-A-Z7:t
+i-A-Z7:t«A200»
 i-A-a:S-A2
+i-A-b-TAw
 i-A-b-t
 i-A-b-ti
+i-A-d-Xrd-A1
 i-A-d-w-Xrd-nDs-A1
 i-A-d:F37B-D40
 i-A-d:F37B-t:F51
 i-A-d:N4
+i-A-d:Z9:nDs
 i-A-d:nDs
 i-A-d:r-E1:Z2
 i-A-d:r-idr\-E1:Z2
+i-A-d:t*Z5-V1
+i-A-d:t*Z5-idt
 i-A-d:t*Z5-ra:Z1
+i-A-d:t-N18:N23*Z1
 i-A-d:t-aD:N23*Z1
+i-A-d:t-idt
+i-A-d:t-mw-N36:N23
 i-A-i-i-Z7-Z4:r-Z1-F27
 i-A-i-i-t-A19-B1
 i-A-i-i-t-B1
-i-A-i-w
+i-A-i-w«D88»«D77»«D77»«D77»
+i-A-ir:ir:t-M43
 i-A-k-b-D3
-i-A-k-b-i-i-t-B1
-i-A-k-b-i-i-t-D3
+i-A-k-b-i-i-A40
+i-A-k-b-i-i-t:D3-B1
 i-A-k-i-i-A1:Z2
+i-A-k:W-A19-xAst
 i-A-m-M1
+i-A-m-Q7
 i-A-m-T30
 i-A-q:D54
 i-A-q:t-M2:Z2ss
+i-A-r-w-Hn:Z2ss
+i-A-r:*r-ir:nDs
 i-A-r:D3
 i-A-t-F37
 i-A-t-M44
@@ -3026,8 +3463,10 @@ i-A2-G20-y:r*Z1-T14:N25
 i-A2-bA-Z1:H_SPACE-y:r*Z1-i-i-F28-Z1
 i-A2-d-W-m:a-T14-N25
 i-A2-d:W-G20-T14-N25
+i-A2-g:r
 i-A2-i-i-A
 i-A2-i-n
+i-A2-k-b-D3-A2
 i-A2-ms-s-Z5:Z7*t-M2:Z2
 i-A2-r:k-t:Z7-M3:Z2
 i-A2-r:q-t:Z7-M3:Z2
@@ -3035,10 +3474,10 @@ i-A2-rw:rw
 i-A2-rw:rw-i
 i-A2-ti-i-i-A23
 i-A2-ti-i-i-G7
-i-A2-w&t\-n:Z4-Z1*r:X-i-i-h-A52
-i-A2-w&t\-n:Z4-Z1*r:X:Y1-i*i:h-A52
-i-A2-w-Z1*r:X:Y1-i-i-h-A52
-i-A2-w-n:Z4-Z1*r:X:Y1-i-i-A52
+i-A2-w&t-n:Z4-r*Z1:aA-i-i-h-A52
+i-A2-w&t-n:Z4-r*Z1:aA:Y1-i-i-h-A52?
+i-A2-w&t-r*Z1:aA-i-i-h-A52
+i-A2-w-n:Z4-r*Z1:aA:Y1-i-i-B1
 i-A26
 i-A26-i-n
 i-A30-Z3
@@ -3046,16 +3485,20 @@ i-Aa15-m-s-t:M2
 i-Aa28-i-i-A40-Z3
 i-Aw-W23-Z3
 i-Aw:W-D40
+i-D54-w
 i-G7
 i-H
 i-H-A-D36
 i-H-E1
 i-H-T24
+i-H-T24-rmi-Z1-G7
+i-H-V1
 i-H-aH
 i-H-t:y-F10
 i-H_SPACE:R7-bA-Z1:H_SPACE-r:Z1-E6
 i-H_SPACE:R7-bA-r:Z1-E6
 i-H_SPACE:t-A19
+i-H_SPACE:t-imi-pr:Z1
 i-Hn:Z2ss
 i-Hn:z
 i-K1:n-s-t-N33C:Z2ss
@@ -3065,10 +3508,10 @@ i-N
 i-N-i-w-H_SPACE:R7-bA-Z1:xt
 i-O35-HA-q-D40:Z2
 i-R13
-i-S:S
 i-S:S-A9
 i-S:S-D26
 i-S:S-D26-A9
+i-S:S«D146»
 i-S:V6-s-t:Y1
 i-S:d:t-N33A
 i-S:r-F51
@@ -3080,6 +3523,7 @@ i-TA-A-D51:D40
 i-TA-A-D51:D40-A1
 i-V6:z-t-A2
 i-W
+i-W:F51
 i-W:f-F51:Z2ss
 i-Z1
 i-Z1-i-n
@@ -3102,37 +3546,60 @@ i-a:n-nw-W-A2
 i-a:n:a-E32
 i-a:r-O41
 i-b-A-Y6
+i-b-A2
 i-b-A32
 i-b-D41
 i-b-E3-H-w-mw-F18:Z1*Z1*Z1
 i-b-E8
 i-b-E8-A2
 i-b-E8-mw-A2
+i-b-E8-mw-A2-A1
+i-b-E8-t:N35B
 i-b-E8-t:N35B-A2
-i-b-E8A-A2
+i-b-E8:t-A2
 i-b-H-F18:Z1
+i-b-N4
+i-b-N4-E8
+i-b-T:t-T27
+i-b-ib
+i-b-mw
+i-b-mw-A24
 i-b-t-E8-mw
+i-b-t-T26
+i-b-t:E8
+i-b-t:E8-mw-A2
+i-b-t:N35B-A2
+i-b-t:W22
+i-b-t:y«T26G»
 i-b-x
+i-b«D118»
+i-b«T:«T92»»
 i-d-H-M15
 i-d-H-w-N23
 i-d-H-w-niwt
 i-d-b-E25
 i-d-b-N21
-i-d-m
 i-d-mi-S28
 i-d-mi-i-V6
+i-d-m«G143»
 i-d-w-N1
 i-d-w-N4
+i-d:I3«A14A»
 i-d:W-N4
 i-d:idr
+i-d:n-idn:D40
 i-d:r-E26:Z2
 i-d:r-idr-E1
 i-d:r-zA:Z2
+i-d:t-idt
 i-f:F51
+i-f:F51*F51*F51
+i-f:F51*Z2ss
 i-f:d-D54
 i-f:d-Z1-Z1-Z1
 i-f:d:N23
 i-f:t-T19-W24:Z2
+i-g:r
 i-h-Aa2:nDs
 i-h-C7:S12
 i-h-m
@@ -3141,22 +3608,20 @@ i-h:nDs
 i-i
 i-i-A
 i-i-A-i-A2
-i-i-D40
+i-i-H_SPACE:t-w-a:w-i-E21-A1
 i-i-M:a-mw
 i-i-M:a-mw-N36
 i-i-W-m:a-mw-N36:N23
 i-i-Z5
 i-i-Z5-A2
-i-i-a:D40
-i-i-a:N35B
-i-i-a:N35B-D40
 i-i-a:p*q-h:r
 i-i-a:q*p-h:r
+i-i-h
+i-i-h-rwd-A
 i-i-i
 i-i-m:a-W-mw-N36:N23*Z1
 i-i-m:a-mw-N36:N23
 i-i-m:a-mw-N36:N23*Z1
-i-i-mw-D40
 i-i-mw-N36:Z1*N21
 i-i-n
 i-i-p-W-Z1-N25
@@ -3169,6 +3634,8 @@ i-im-m-W:pr
 i-im:m-P1:Z1
 i-im:z:T
 i-imAx:x
+i-imi-m&t-pr:Z1
+i-imi-m-w-A30
 i-in:n-H-D13
 i-in:n-T34-m-F27
 i-in:n-b-inb
@@ -3196,8 +3663,10 @@ i-iz-s-y:Hn
 i-iz-s-y:pr
 i-iz-z:pr
 i-k-A19
+i-k-b-D3
 i-k:n-A24
-i-kA:n-A
+i-k:r-t*t:xAst
+i-k\:n-nw-W-N34
 i-km-m-F27
 i-km-m-W-F27
 i-m
@@ -3222,6 +3691,7 @@ i-mn:n-Aa5:A4-Y1V
 i-mn:n-C12
 i-mn:n-D35
 i-mn:n-G7
+i-mn:n-H-T30-A1
 i-mn:n-N17*n:wA*ti
 i-mn:n-R8
 i-mn:n-U7:t-i-i
@@ -3266,16 +3736,24 @@ i-p:t-Aa30-pr
 i-p:t-O45
 i-p:t-O45:pr
 i-p:t-st-st-st
+i-q-H-N8
 i-q-H-w-N34:Z2ss
+i-q:N21-D54
+i-q:N21-ra
 i-q:Y1
+i-q:bH-D54
+i-q:bH-ra
 i-q:nDs
 i-q:r
+i-q:r-t:xAst
 i-qd-d:nw-w-A35
 i-r
+i-r-A48
+i-r-i
 i-r-rwD:D40
 i-r:T:t-W20
+i-r:Z2
 i-r:p-M43
-i-r:p-W21
 i-r:p-W22:Z2ss
 i-r:t:t-W20
 i-r:y-A48
@@ -3291,7 +3769,7 @@ i-s-k
 i-s-p*t:M3
 i-s-p:Y1
 i-s-p:t-F27
-i-s-p:t-w
+i-s-p:t-w«T65»
 i-s-pA-A-ti-i-F27-Z3
 i-s-q-A-n:U19-nw-w-N25
 i-s-q-A-r:n:y-T14:N25
@@ -3315,7 +3793,9 @@ i-t*:r-w-mw
 i-t*W:r-mw-N36:N23*Z1
 i-t-A1
 i-t-H-V1:D40
+i-t-b-mw
 i-t-ti-i-i-A23
+i-t:*nw-idn
 i-t:*r-ra
 i-t:*r-t:pr
 i-t:D17
@@ -3324,6 +3804,9 @@ i-t:M33
 i-t:f-A1
 i-t:iAt
 i-t:n-A24
+i-t:n-N21:Z2ss
+i-t:n-nw-w-fnD-N33C:Z2ss
+i-t:n-nw-w-fnD-Z3
 i-t:n:nw*W-fnD:Z2
 i-t:n:ra-N36:t
 i-t:n:ra-N36:t-B1
@@ -3331,12 +3814,17 @@ i-t:p-A9
 i-t:r:t
 i-t:r:t-O32
 i-t:t-B5
+i-t:x
+i-t:y-nw:W-fnD:pr
 i-ti-A21
 i-ti-i-i-G7
 i-tm-m-W-nDs:Z2
-i-tnTr
+i-t«Aa56»nTr
 i-w
 i-w-a:F44
+i-w-f:F51
+i-w-f:F51*F51*F51
+i-w-g:r-t:xAst
 i-w-ms-s
 i-w-s-t-st
 i-w-x:x-N2:Z2
@@ -3356,6 +3844,8 @@ i-x:x-i-M15
 i-x:x-w-N2
 i-x:x-w-N2:Z2
 i-x:x-w-N8
+i-y-b-ib
+i-y-i-h-A-xAst
 i-z-A
 i-z:f:t-N18
 i-z:r-M34
@@ -3366,6 +3856,8 @@ iAb-A1-B1-Z1:Z1*Z1
 iAb-A2
 iAb-A53
 iAb-D59
+iAb-TAw
+iAb-TAw-t
 iAb-W*W10:y-F51
 iAb-W-b
 iAb-W10A:x-A2
@@ -3387,19 +3879,24 @@ iAb-b-d:K5
 iAb-b-d:W*niwt
 iAb-b-i-i-F27
 iAb-b-qs-Z1-F51
+iAb-b-t*t:M3
 iAb-b-t*y:xAst
 iAb-b-t:t-N23-Z1-xAst
 iAb-b-t:t-N23:Z1
 iAb-b-t:xAst
+iAb-b-t:y-N23:Z1
 iAb-b-tyw-A1*B1:Z2
+iAb-b-tyw-xAst
 iAb-b-x:Z9
 iAb-b-x:Z9-A2
 iAb-b-xAst
 iAb-b-y:D41
 iAb-b-y:D54
 iAb-d-K1
+iAb-ib-b
 iAb-qs
 iAb-t
+iAb-t*t:xAst
 iAb-t*y:N23
 iAb-t*y:S
 iAb-t-b-K5
@@ -3407,6 +3904,7 @@ iAb-t-b-niwt:t*Z1
 iAb-t:K5
 iAb-t:t
 iAb-tyw
+iAb-tyw-N21:Z1
 iAb-tyw-Z2ss:H_SPACE
 iAb-w-A53
 iAb-x
@@ -3421,6 +3919,11 @@ iArrt
 iAt:t*Z1*N23
 iAt:t:N23*Z1
 iH
+iTi
+iTi-A24
+iTi:D40
+iTi:t-A24
+iTi:t-D40
 iaH
 iaH-ms-s-i-i
 iaH-ms-s-w
@@ -3434,19 +3937,29 @@ iaH:sbA-d:X4
 iaH:sbA-d:ra
 iaH:sbA-d:ra*Z1
 iaH:sbA:d-W4
-iaH:sbAHb
+iaH:sbA««O32A»:Hb»
 iar
 ib
+ib-b
 ib:Z1
+identification questionable
 idr-E1:Z2
+idt
 ii
+ii--i-D54-w&y
 ii-i-D54
 ii-i-D54-ti-i
+ii-i-i-t:D54
+ii-i-i-t:D54-nDs:Z2
+ii-i-i-t:nDs
 ii-i-i-y:D54-im-Htp:t*p
+ii-i-y:D54
+ii-i-y:D54-ti-i
 ii-m-Htp:t*p
 ii-w
 ii-w&y
 ii-w-im-Htp:t*p
+ii-w-z:p*zp
 ii-y:D54
 iizriAr
 im
@@ -3458,36 +3971,57 @@ imAx-Z1
 imAx-i-i
 imAx:x-i-i
 imAxw
+imi-A2
+imi-H_SPACE:t-m-pr:Z1-Y1:Z2
 imi-fnD:t
+imi-m-A2
+imi-m-W-A2
 imi-m-W-D9
 imi-m-W-Z3A-i-A-i-i-t:Z5-I14:Z2
 imi-m-W-Z3A-i-A-t:Z5-i-i-I14-Z3A-HASH
 imi-m-W-Z3A-i-A-t:Z5-i-i-N23-s-n:Z2
+imi-m-t:pr-Y1:Z2
+imi-m-y:H_SPACE-pr:Z1-V12
+imi-m:*t-Y1:Z2-pr:Z1
 imi-t-A2-t:X2-X4:Z2
+imi:Y1
 imn
 imn ra
-imnt-Z1
 imnt-m-y:D41
-imnt-t*t:xAst
-imnt-t:xAst
-ims-s
 in Late Egyptian
+in Late Egyptian texts
 in Middle Egyptian
+in compounds
+in hieratic
 in hieratic papyri
-in papyri
+in personal names
+in reference to a king
+in reference to a person
+in reference to the king
 in sense ‘block up’
+in sense ‘inlay’
 in sense ‘tie up’
 in sense ‘to send upstream’
+in senses relating to ‘opening
+in senses relating to ‘seize
 in the dual
 in the later titulary of the Aten
 in the perfective
 in the plural
 in the sense of ‘the moon’
 in the sense ‘Horus as hieracosphinx’
+in the sense ‘ashes’
+in the sense ‘bread’
+in the sense ‘duties’
+in the sense ‘graciousness’
 in the sense ‘not be
 in the sense ‘ox haunch’
+in the sense ‘semen’
 in the sense ‘to die’
 in the sense ‘to urinate’
+in wider usage in the Old Kingdom
+in:n-i-i
+inb-HD
 inb-Z1
 indistinguishable from masculine ḥm-nṯr
 inflected form
@@ -3496,15 +4030,19 @@ ini-n:nw*w-Y1:Z2
 ini-nw:Z2ss
 ini:n
 ini:n-Hr:r:t-N31-G7
+initially chieflyused in counting
 inpw
 ir
 ir-Hr:r-t-Hn
-ir-Q1-A40
+ir-st
+ir-st-A40
 ir-w
 ir-x*p:r-w-Y1:Z2
 ir-xpr-r:W-A53-Z3
 ir:N31-Q7
 ir:N6
+ir:Q2
+ir:st*nTr
 ir:t*Z1
 ir:t*Z1-G5
 ir:t*Z1-ra:Z1
@@ -3534,7 +4072,10 @@ iz-t:pr
 iz-w&t-A1:Z2
 iz-w:*t-A1:Z2
 iz-z:pr
-izz
+iz«z:«O234»»
+i«V71»«N62A»ms-s
+i«n:«S56» D49»
+i««S56»:nw»D49
 iˤr
 j
 j-jn
@@ -3563,9 +4104,11 @@ jbj
 jbn
 jbr
 jbt
+jbšꜣ
 jbḥ
 jbḥw
 jbḫ
+jbṯ
 jbṯt
 jbṯtj
 jbꜣ
@@ -3578,7 +4121,8 @@ jdj
 jdm
 jdmj
 jdmjt
-jdnw n mšꜥ
+jdn
+jdnw-n-mšꜥ
 jdr
 jdt
 jdw
@@ -3588,10 +4132,10 @@ jdḥ
 jdḥw
 jf
 jfd
-jfd ()
 jfdnw
 jfdw
 jft
+jgr
 jgrt
 jh
 jhb
@@ -3601,42 +4145,51 @@ jhw
 jj
 jj-m-ḥtp
 jj.tj
+jjb
 jjj
 jjw
+jjw zp
 jjw-m-ḥtp
 jjwj
+jkb
 jkj
 jkm
 jkmw
 jkn
+jknw
+jkrtt
 jkw
 jky
 jkꜣnꜣ
+jkꜣw
+jkꜣw-ḥr
 jm
 jm3
 jmj
-jmj dwꜣt
+jmj bꜣḥ
 jmj jb
 jmj swḥt.f
 jmj wnwt
+jmj ḥꜣt
+jmj ḫt
 jmj ꜥnḫk
-jmj-bꜣḥ
+jmj-dwꜣt
 jmj-jz
 jmj-r
-jmj-r mšꜥ
-jmj-r mšꜥ wr
-jmj-r pr
-jmj-r prwj
-jmj-r šnt
-jmj-r ḥwt-nṯr
 jmj-r ḫntjw-š
 jmj-r ḫntjw-š pr-ꜥꜣ
+jmj-r-mšꜥ
+jmj-r-mšꜥ-wr
+jmj-r-pr
+jmj-r-šnt
+jmj-r-ḥbsw
+jmj-r-ḥwt-nṯr
 jmj-rn.f
 jmj-ḏw
-jmj-ḥꜣt
 jmj-ḫnt
 jmj-ḫt
 jmj-ḫt ḫntjw-š pr-ꜥꜣ
+jmj-ꜥḥ
 jmjr
 jmjtw
 jmjtw-nj
@@ -3660,11 +4213,9 @@ jmn-rꜥ
 jmn-rꜥ nswt nṯrw
 jmn-ḥtp
 jmnt
-jmnt ()
 jmntj
 jmntt
 jmnw
-jmnw ()
 jmnyt
 jmnḥ
 jmr
@@ -3729,6 +4280,7 @@ jnt
 jntf
 jntjrwywꜣšꜣ
 jnw
+jny
 jnˤ
 jnḥ
 jnḥw
@@ -3742,8 +4294,8 @@ jpj-jpj
 jpn
 jpnj
 jpt
-jpt ḥmt
 jpt-swt
+jpt-ḥmt
 jptf
 jptfj
 jptn
@@ -3758,6 +4310,9 @@ jq
 jqdw
 jqdw-nḏswt
 jqr
+jqr m mdw-nṯr
+jqrt
+jqḥ
 jqḥw
 jr
 jr 3t
@@ -3773,13 +4328,13 @@ jrj ḥrt
 jrj ḫprw
 jrj ꜣ r gs
 jrj ꜣbw
-jrj ꜣt
 jrj ꜥnḫ
 jrj ꜥnḫ n nb
 jrj-nfr-ḥꜣt
 jrj-pḏt
 jrj-pꜥt
 jrj-šnj
+jrj-ḥbsw
 jrj-ꜥt
 jrj-ꜥꜣ
 jrkt
@@ -3793,16 +4348,16 @@ jrrt
 jrsjrnꜣt
 jrsny
 jrt
-jrt rꜥ
-jrt ḥr
-jrt ḥr bnrt
-jrt ḥr wrt
-jrt ḥr wḏꜣt
-jrt ḥr wꜣḏt
-jrt ḥr ḥḏt
-jrt ḥr ꜣḫt
-jrt ḥr ꜥnḫt
 jrt-pꜥt
+jrt-rꜥ
+jrt-ḥr
+jrt-ḥr bnrt
+jrt-ḥr wrt
+jrt-ḥr wḏꜣt
+jrt-ḥr wꜣḏt
+jrt-ḥr ḥḏt
+jrt-ḥr ꜣḫt
+jrt-ḥr ꜥnḫt
 jrtjw
 jrtt
 jrw
@@ -3847,12 +4402,14 @@ jt-mḥ
 jt-nṯrw
 jt-šmꜥ
 jtj
+jtjnw
 jtm
 jtmw
 jtn
 jtn ꜥnḫ
 jtnt
 jtnw
+jtnw n h
 jtp
 jtr
 jtrt
@@ -3862,11 +4419,13 @@ jtrw
 jtry
 jtt
 jtw
-jtw-rẖ-yh
-jtwny-rẖ-yh
+jtw-rꜥꜣ-yh
+jtwnj-rꜥꜣ-yh
 jty
 jtḥ
+jtḫ
 jw
+jw zp
 jw-m-jtrw
 jw-n-ꜣmw-m-sḫt-sjsj
 jw-snb
@@ -3876,7 +4435,9 @@ jw.s pw
 jw3
 jwd
 jwdnb
+jwdnt
 jwf
+jwgrt
 jwh
 jwj
 jwjt
@@ -3884,11 +4445,11 @@ jwjw
 jwms
 jwn
 jwnj
+jwnj-rꜥꜣ-y
 jwnm
 jwnt
 jwntj
 jwnw
-jwny-rẖ-y
 jwnyt
 jwr
 jwrꜣḥy
@@ -3897,9 +4458,10 @@ jwst
 jwsw
 jwt
 jwtj
-jwtj ḥꜣtj ()
+jwtj ḥꜣtj
 jwtj-n.f
 jwtj-sw
+jwtn
 jwtt
 jwtt ntt
 jwtw
@@ -3920,10 +4482,12 @@ jz n kꜣt
 jzft
 jzftj
 jzftjw
+jzj
 jzkn
 jzr
 jzwt
 jzyt
+jzzj
 jzꜣ
 jšdt
 jšr
@@ -3937,6 +4501,7 @@ jˤr
 jˤḥ
 jḥ
 jḥ wsrw
+jḥ-rmyt
 jḥtj
 jḥw
 jḥꜣ
@@ -3965,8 +4530,11 @@ jꜣdw
 jꜣft
 jꜣj
 jꜣjw
+jꜣk
 jꜣkb
+jꜣkby
 jꜣkbyt
+jꜣkw
 jꜣky
 jꜣm
 jꜣmw
@@ -3974,11 +4542,13 @@ jꜣq
 jꜣq.t
 jꜣqt
 jꜣr
+jꜣrjrt
+jꜣrr
 jꜣrrt
 jꜣrw
 jꜣs
 jꜣt
-jꜣt-wꜥbt
+jꜣt wꜥbt
 jꜣtj
 jꜣtjw
 jꜣtt
@@ -4002,6 +4572,7 @@ jꜣꜣt
 jꜣꜣyt
 jꜣꜥ
 jꜣꜥš
+jꜥ
 jꜥb
 jꜥf
 jꜥj
@@ -4041,6 +4612,7 @@ k-s-A16
 k-w
 k-w-i
 k-w-i-A1
+k-ḏd
 k3
 k3k3
 k3mn
@@ -4060,6 +4632,7 @@ k:k-N2
 k:k-w-F27
 k:k-w-N2
 k:r-t:y-y-A40-A40
+k:z
 k:z-A19
 k:z-i-i-r:z
 kA
@@ -4080,8 +4653,8 @@ kA:Z1
 kA:Z1-b:n-T14
 kA:r-O18
 kA:r-i-O18
-kA:t
 kA:t-F51
+kA:t«Aa55»
 kAS
 kAkA
 kAp
@@ -4123,7 +4696,6 @@ ksj
 ksw
 ksyrs
 kt-st
-ktj
 ktt
 kw
 ky
@@ -4141,6 +4713,7 @@ kꜣbn
 kꜣhs
 kꜣj
 kꜣkꜣ
+kꜣkꜣj
 kꜣm
 kꜣmn
 kꜣmw
@@ -4182,14 +4755,18 @@ m mAwt
 m mjtt
 m mnt
 m mꜣwt
+m prwj
 m qꜣb
 m r wꜥ
+m sḫm
 m sꜣ
 m t3 3t
 m tꜣ ꜣt
 m wHm a
 m wHm-a
+m wn mꜣꜥ
 m wnwt
+m wsṯn
 m wḥm
 m wḥm ˤ
 m wḥm ꜥ
@@ -4197,9 +4774,11 @@ m xt
 m zp
 m ḏd
 m ḥr
+m ḥrt
 m ḥtp
 m ḥꜣt
 m ḫd
+m ḫm
 m ḫnt
 m ḫt
 m ẖnw
@@ -4222,13 +4801,15 @@ m-
 m-Aw-t:Y1-Y1:Y1-D&t&tA
 m-Aw:W-D&t&tA
 m-Aw:W-n-D&t&tA
+m-D-Aa23
 m-D33:n-t:P1
 m-D37
 m-D37-A-i-i-t:Y1
 m-D37-Z5
-m-D37:N35B
 m-D37:t
 m-D38:S-r:rw-w-hrw
+m-D38:h*y-nDs
+m-D38:h-nDs
 m-D38:k-ti-i-xAst
 m-D38:t-B1
 m-D52:Z1
@@ -4237,6 +4818,7 @@ m-D:t-W1
 m-Dr:r
 m-Dr:r-i-inb
 m-Dr:r-t:y
+m-H
 m-H-D38:k
 m-H-s-H-s-F52
 m-P6-t:pr
@@ -4250,13 +4832,17 @@ m-X:t*Z1
 m-X:t*w-F51:Z2ss
 m-Xn:n-nw:pr
 m-a
+m-a-D-d-Aa24:D40
+m-a-D:d-Aa23-A24
+m-a-D:d-Aa24
 m-a-d:z-T30
+m-a-h-A-nDs
 m-a-i-D54
 m-a-xA-A&t-U38
-m-a:A-i-i-N35B:Z2
 m-a:S-w-N34:Z1
 m-a:W10-b
 m-a:Xr-r:pr
+m-a:h*y-nDs
 m-a:k-Y1V
 m-a:k-t:Y1
 m-a:q
@@ -4274,25 +4860,35 @@ m-b-i-A2
 m-bj
 m-bjꜣ
 m-bjꜣt
+m-d-md
 m-d-md-w
+m-d-w-xt
 m-dj
 m-djt
 m-djꜣyt
 m-dyt
 m-dꜣyt
-m-f:kA t
+m-f:kA«t:«N33Aw»»
+m-h:nDs
+m-h:t-nDs:Z2
 m-jr
 m-jr-djt
 m-k:t
 m-m
 m-m:a
+m-mH
+m-mH-H
+m-mH:Y1
 m-md-d-w
 m-n:Dr:r
 m-n:t*W-Z3
+m-pr*Z1:pr*Z1
 m-r
 m-r-O24
 m-r:H_SPACE
+m-r:pr*Z1
 m-s-A-siA:t
+m-s-D
 m-s-H-F27
 m-s-H-I3
 m-s-d:t
@@ -4302,7 +4898,6 @@ m-s-sA-D:t*D19
 m-t:A14
 m-t:D53-w&t
 m-t:Z6
-m-w-i-w-mw
 m-w-w-A1-Z3
 m-xA-A&t-U38-xt
 m-xnt:t
@@ -4310,10 +4905,9 @@ m-xt
 m-z-wr:r-A2
 m-z:t-F51
 m-z:t-M33
-m-z:wr-rnb:Z1
+m-z:wr-r«D118»nb:Z1
 m-ḏr
 m-ḏrtj
-m-ḫm
 m-ḫnt
 m-ꜥ
 m-ꜥ ntt
@@ -4327,10 +4921,13 @@ m3y
 m3ˤt
 m:D40-E23*Z1:k-A-b-W-ti-i-M3
 m:a
+m:a-D:d«Aa23C»G7
 m:a-O35-D54
 m:a-S:r-rw:W-N3
 m:a-Xn:n-t:P1
 m:a-Z4:r*Z1-k:A-b-W-ti-i-M3:Z2
+m:a-h*t:nDs
+m:a-h:nDs
 m:a-i-i-A2
 m:a-i-y:D54
 m:a-i-y:D54-B1
@@ -4352,12 +4949,13 @@ mA-A-i-r:nDs-A1
 mA-A-q*t:xt
 mA-A-q:t-P6-xt
 mA-A-x-Q7
-mA-Aa11:a:Y1
+mA-G5«E146»
 mA-HD
 mA-H_SPACE:q-A-t-P6
 mA-HsA
 mA-i-E22
 mA-i-H-s-E22
+mA-mAa:a:Y1
 mA-w-E22
 mA-w-w-A50-Z3
 mA:D4-A-A
@@ -4370,11 +4968,24 @@ mAi
 mAt
 mAtt
 mAy
+mD:xt
 mH
+mH-H
 mH-H-t-M15-niwt
 mH-H-w-M15
+mH:D40
 mH:D41
+mH:D41*Z1
 mH:D42
+mH:F37B
+mH:N33A
+mH:N33C*Z2ss
+mH:O39
+mH:Y1
+mH:Y1-m-r:d-rd-rd-F51
+mH:Z1:D41
+mH:Z1:a
+mH:a
 mH:t*y
 mH:t:Z2
 mHw
@@ -4385,43 +4996,87 @@ male human
 maq
 masculine plural only
 masculine singular only
+may also be read as z
 md
 md*D
 md-A19
+md-A2
+md-D
+md-D:Z1:Z2ss
+md-D:Z2ss
+md-G7
+md-H-Hp-E1
+md-H-Hp:p-G38
+md-H-Hp:p-G38-E1
+md-HD-kA:mt-E2
+md-Z1
+md-Z1-A40
+md-Z1-A51-s-y:Y1
 md-Z1-i-A19
-md-Z1:Z2
+md-Z1:Z2ss
 md-Z1:n-A19
+md-Z1:xt
+md-Z1«H13»
+md-Z1«H13»A51-s
+md-Z3
 md-d
+md-d-A2
 md-d-w
+md-d-w-A2
+md-d-w-Y1V
+md-d:Y1
 md-d:t
-md-d:t*Z5
+md-d:t*Z5-A2
 md-d:t*Z5-A2-Z3-km-m-niwt
 md-d:t*y
+md-d:t*y-A2
+md-d:t-A2
+md-d:t-A2-Z3
+md-d:t-Y1
+md-kA:mt-HD-E1
+md-m-d
 md-md-md
-md-t
+md-t:Y1
+md-t:Z1-xt
 md-w
+md-w-A2
+md-w-G23
+md-w-d-w
+md-xt:nw*Z1-spAt:t*Z1
 mds
 mdt
-mdt m ḥr
-mdt nb wꜥ
-mdt nfrt
-mdt nṯr
-mdt pḥtj
-mdt ḥꜣpt
 mdw
-mdw jꜣw
 mdw n jꜣw
-mdw nṯr
+mdw n š
+mdw nw spꜣt
+mdw r ḫrw.f
+mdw šps
+mdw šps n spꜣt
+mdw špsj
+mdw-jꜣw
+mdw-kꜣ-ḥḏ
+mdw-nṯr
+mdw-rḫyt
+mdw-ḥp
+mdw-ḥr
 mdwj
-mdwj m
 mdwt
 mdwt kmt
-mdwt rmṯ kmt
+mdwt m ḥr
+mdwt nb wꜥ
+mdwt nfrt
+mdwt nṯr
+mdwt pḥtj
+mdwt rmṯ n kmt
+mdwt ḥꜣpt
+mdwtj
 meaning ‘to die’
 mfkꜣt
 mfḫ
 mgꜣ
 mhj
+mht
+mhꜣj
 mi
 mi-i
 mi-i-N31:t*Z1
@@ -4471,7 +5126,11 @@ mm jrj
 mmj
 mmy
 mn
+mn-kꜣ-rꜥ
+mn-kꜣw-rꜥ
+mn-kꜣw-ḥr
 mn-nfr
+mn-pḥtj-rꜥ
 mn-ḏr
 mn-ḫpr-rꜥ
 mn:n
@@ -4480,6 +5139,8 @@ mn:n-H-ti-i-M2:Z2ss
 mn:n-H-y-M15-M2
 mn:n-H-y-N33C:Z2ss
 mn:n-M1-Hn:Z2
+mn:n-U32
+mn:n-U32-Y1V
 mn:n-a:t
 mn:n-a:t*D27
 mn:n-d:D27
@@ -4492,6 +5153,7 @@ mn:n-i-T14-Z6
 mn:n-i-t-T14-xt
 mn:n-mn:n-E1:Z2
 mn:n-mn:n-Z9:D40
+mn:n-nDs
 mn:n-nfr-f:r-O24-O49
 mn:n-nw-W-Y1:Z2
 mn:n-nw-w-M1-M1-M1
@@ -4502,13 +5164,15 @@ mn:n-x*U22:Y1
 mn:n-x:Y1
 mn:n-x:t-S27
 mn:n:Y1
-mn:n:t
+mn:n:Y1-A1
 mn:n:t*Z9-nDs:Z2
 mn:n:t-B1
 mn:n:t-G38
 mn:n:t-Y1:B1
 mn:n:t-nDs:Z2
 mn:n:t-rd
+mn:n:t«F114»
+mn:nDs
 mn:nw*t
 mnD
 mnDt
@@ -4544,7 +5208,9 @@ mnṯw
 mnṯw-wsr
 mnṯw-ḥtp
 mnꜥt
-most common Old Kingdom form
+most common form
+most common formafter the Old Kingdom
+most common formoutside Pyramid Texts
 most common writing
 most commonly
 mqr
@@ -4591,6 +5257,8 @@ mrḥt
 ms
 ms ꜥꜣt
 ms-A-D:t*D19
+ms-D
+ms-D-A2
 ms-D-mwt-t
 ms-D:r-F21
 ms-Dr:r-D18
@@ -4605,18 +5273,20 @@ ms-s
 ms-s-A17
 ms-s-Aa7:q*t-xAst
 ms-s-B3
+ms-s-D
 ms-s-D-A2
 ms-s-D-F21
-ms-s-D40
 ms-s-Dr:r-sDm
 ms-s-E3
 ms-s-W-A2
 ms-s-Xrd
 ms-s-Z5
 ms-s-d-A-t:N33-D20
+ms-s-d-A2
 ms-s-d-m-t
 ms-s-d-w-A2
 ms-s-d:im:t
+ms-s-d:nDs
 ms-s-d:t*D19
 ms-s-k-A-F27
 ms-s-kA:F27
@@ -4626,9 +5296,8 @@ ms-s-t:y-D19
 ms-t:t-D19:Z2ss
 ms-w-t
 ms-x-tyw-U21:N14
-ms-x:n
+ms-x:n«Q38»
 ms-z:d-A-t:y-D20
-ms:z
 msDr
 msH
 msdmt
@@ -4673,11 +5342,14 @@ msꜣdt
 msꜣdtj
 msꜣḏt
 mt
+mt:t*Z5-i-i-F51
+mt:t-Dba-Dba-Y1V
 mt:t-W:t-D53:Z2
 mt:t-w-t:D53
 mt:t-w-t:Z2ss
 mt:t-wn:n-E1-Z1
 mt:t:r-Dba-Dba-A2
+mt:t:r-Dba-Dba-Y1V
 mtj
 mtn
 mtr
@@ -4686,26 +5358,33 @@ mtt
 mtw
 mtwn
 mtwt
+mty
 mw
-mw-N36:Z4*Z1
+mw-D26
+mw-D52
+mw-D53:Z1
+mw-N36:N21*Z1
+mw-N36:N23
 mw-W-i-i
+mw-W22
+mw-i-i-D53
 mw-i-i-mw
-mwj
+mw-w
 mwjbw
-mwjw
 mwt
 mwt-mwt
 mwt-nfr
 mwt-nfr.t
 mwt-t-B1
 mww
+mwy
 my
-myw
 mz
 mzt
 mzwr
 mzwt
 mzḥ
+m«A115»
 mšrw
 mšw
 mšˤ
@@ -4715,6 +5394,12 @@ mšꜥqt
 mˤb3
 mˤḥˤt
 mḏ
+mḏd
+mḏd mṯn
+mḏd wꜣt
+mḏd-r-nbtj
+mḏdt
+mḏdw
 mḏrj
 mḏt
 mḏw
@@ -4724,10 +5409,12 @@ mḏꜣ
 mḏꜣt
 mḏꜣy
 mḥ
+mḥ m rdwj
 mḥ nfr
 mḥ rdwj
 mḥ t3
-mḥ tꜣ
+mḥ šrr
+mḥ-nswt
 mḥ-t3
 mḥ-tꜣ
 mḥj
@@ -4779,7 +5466,9 @@ mꜣḫ
 mꜣṯ
 mꜣẖ
 mꜣꜣ
+mꜣꜣ-ḥr-stẖ
 mꜣꜣt-ḥr-nfrw-rꜥ
+mꜣꜣt-ḥr-stẖ
 mꜣꜥ
 mꜣꜥ-ḫrw
 mꜣꜥt
@@ -4795,16 +5484,17 @@ mꜥqt
 mꜥr
 mꜥrd
 mꜥḥꜥt
-mꜥꜣy
 n
 n jb
 n jb n
 n mrwt
 n ntt
+n wn mꜣꜥ
 n wnwt
 n ws
 n zp
 n ḏr jꜣḫw
+n ḥrt
 n ꜣbb
 n ꜣbw
 n&xt-D40
@@ -4827,13 +5517,14 @@ n-ns:F51
 n-nṯr
 n-qw
 n-w-w
+n-wsr-rꜥ
 n-z:p*zp
 n-ḏr
 n.f-ꜥꜣw-rwḏt
 n3
 n3y
 n:*t*t
-n:*xt-x*t:D40f
+n:*xt-x*t:D40««E151»:f»
 n:*xt-x:t
 n:*xt-x:t-A24
 n::t-t:n:Z2
@@ -4870,34 +5561,46 @@ n:Hr-X2
 n:Hr-rw
 n:N41-m-a:n
 n:N42-m-A24
+n:R7
 n:S-m-T30
 n:S-n:y-E20
 n:S:M-t:P3
 n:S:n-m
 n:Szp-p-fnD
+n:T:r-w-A40-Z3
 n:U19-nw-w-H-V1
 n:U19-nw-w-d:H_SPACE
+n:U21-E15
 n:Xnm-m
 n:Z2
 n:Z9:D40-nb:f-A40
+n:b
 n:b*s-i-M1
 n:b-d:D3
-n:bmw
+n:b«A96»mw
+n:f-A-N31
+n:f-A-nDs
+n:f-A-y:N31
 n:f-P5
 n:f-aA:W-r:rwD*t
+n:f-nDs:Z2
+n:f:y-N31
+n:f:y-nDs
 n:g-A-w-E1
 n:h*p
 n:h*t-M1
+n:h-G37
 n:h-G37-N33C:Z2ss
 n:h-M1
 n:h-w-nDs
-n:h:z
+n:h:z«A103»
 n:i*w
 n:i*w-G34
 n:k
 n:k-D53
 n:k-t:Z9
-n:m*m-i
+n:k«D280»
+n:m*m-i«A282»
 n:m-D38
 n:m-n:m
 n:n-nw*nw:nw-w
@@ -4914,9 +5617,10 @@ n:nb-b-mw
 n:nb-b-s-M1
 n:nb-b-t
 n:nbw-b-mw
+n:nb«A100B»
 n:niwt*t
-n:nm*m-W:y
-n:nm*m-i
+n:nm*m-W:y«A282»
+n:nm*m-i«A282»
 n:nm*m-t*t:D54
 n:ns-s
 n:ns-t:g
@@ -4941,9 +5645,11 @@ n:t-w
 n:t-w-Z3
 n:t:f
 n:t:f-mw-A24
+n:t:r-w-nTr-Z3
 n:t:z
-n:x
-n:x*t:D40f
+n:wA-A
+n:wA-A-U21-E18
+n:x*t:D40««E151»:f»
 n:x*x-G6
 n:x-W:t-A2-Z3
 n:x-w-t-A2
@@ -4952,8 +5658,10 @@ n:x:n-nw-w-Xrd
 n:x:n-nw-w-Xrd-Z3
 n:x:n-t-Xrd
 n:x:n-t:nDs-Xrd
-n:xt:x*t-A24
 n:xt:x*t-ti-nb:f
+n:x«D143»
+n:y:f
+n:y:f-N31:Z2
 n:z-w
 n:z:r-t-Q7
 nD-D:Hr
@@ -4985,43 +5693,71 @@ nTr-O21
 nTr-T-b-niwt
 nTr-X1:D21:Y1
 nTr-Xr:r-N25
+nTr-Z1:Z2ss
 nTr-iAb-W-b-A53-V6:Z2ss
 nTr-iAb-W:V6
 nTr-iAb-W:y-V6:Z2ss
+nTr-md-Y1
+nTr-md-Y1:Z2
+nTr-md-Z1:Z2ss
+nTr-md-Z3
+nTr-md-arq:Z1
+nTr-md-arq:Z2
+nTr-md-d-w-A2
+nTr-md-md-md
 nTr-r
 nTr-r:*t-B1
 nTr-r:*t-N33C:Z2ss
 nTr-sn-T:r:N33A
 nTr-sn-n:T:r-tr-N33C:Z2ss
+nTr-t:*r-X:t*F51
 nTr-t:*r-Y1
+nTr-w&y
+nTr:Z2ss
 nTri
 nar
 nb
 nb jmꜣt
 nb msn
 nb ḫˤw
-nb ḫꜥw
 nb-A1
 nb-A41
+nb-G7
+nb-U5:a-t-Sw
 nb-anx
 nb-anx-n:x-A54
 nb-anx-n:x-Q6
+nb-b
 nb-b-s-M1
+nb-kA-Z1
+nb-kꜣ
+nb-mdw-nṯr
+nb-mꜣꜥt
 nb-mꜣꜥt-rꜥ
+nb-mꜣꜥt-rꜥ-mr-jmn
+nb-mꜣꜥt-rꜥ-nḫt.w
+nb-mꜣꜥt-rꜥ-tjt-jmn
+nb-mꜣꜥt-rꜥ-ẖnm-ptḥ
+nb-mꜣꜥt-snfr-wj
 nb-nswt-tꜣwj
 nb-pt
 nb-r-ḏr
 nb-rꜥ
+nb-sḫm
 nb-tm
 nb-tꜣ-ḏsr
 nb-tꜣwj
+nb-w
 nb-wꜥ
+nb-ḫꜥw
 nb-ꜣbḏw
 nb-ꜣꜥꜥw
 nb-ꜥnḫ
+nb-ꜥḥ
 nb:Z1
 nb:g*g*g:N17:N17-N21:N21
 nb:pt
+nb:t
 nb:t*pr
 nb:t-Hwt-t:pr-B1
 nbj
@@ -5033,6 +5769,7 @@ nbt jmꜣt
 nbt jꜣdw
 nbt-pr
 nbt-r-ḏr
+nbt-sḫm
 nbt-tꜣ
 nbt-ḥwt
 nbt-ꜥnḫ
@@ -5046,14 +5783,13 @@ nf
 nf3
 nfj
 nfr
-nfr jb
 nfr n
 nfr nj
 nfr pw
 nfr ꜣ
 nfr-Htp
 nfr-S1:t
-nfr-U2:Aa11-a:t
+nfr-U2:mAa-a:t
 nfr-Z1:Z2ss
 nfr-Z3
 nfr-f:r
@@ -5064,12 +5800,16 @@ nfr-f:r-Y1V
 nfr-f:r-i-t:r:y
 nfr-f:r-md-d-w-A2
 nfr-f:r-t:*r-i-M7
+nfr-f:r-t:Y1
 nfr-f:r-ti-i-r:Z2
 nfr-f:r-w
 nfr-f:r:D35
 nfr-f:r:t
 nfr-f:r:t-E1:Z2
 nfr-f:r:t-i-r:y
+nfr-jb
+nfr-jdww
+nfr-jr-kꜣ-rꜥ
 nfr-kA-Z1-z:k\:r*Z5-G7
 nfr-kꜣ-rꜥ
 nfr-kꜣ-zkr
@@ -5085,8 +5825,13 @@ nfr-nfr-nfr-s-b-k
 nfr-nfrw-jtn
 nfr-nfrw-rꜥ
 nfr-p-w
+nfr-r:*t
+nfr-r:*t-B1
 nfr-r:*t-k:k:k
 nfr-r:w
+nfr-t
+nfr-t-B1
+nfr-t:H8
 nfr-t:Z1
 nfr-ti-i-r:y
 nfr-tm
@@ -5094,6 +5839,7 @@ nfr-ḥtp
 nfr-ḥtp.s
 nfr-ḥtp.w
 nfr-ḥḏt
+nfr.f-rꜥ
 nfrt
 nfrt-jj.tj
 nfrt-jr
@@ -5110,14 +5856,18 @@ nfrw-ptḥ
 nfrw-rꜥ
 nfrw-sbk
 nfrwt
-nfryt-r
+nfryt r
+nfr«C10A»
 nfꜣ
+nfꜣj
 ng3w
 ngꜣw
 nh
 nhj
 nhm
 nhmhm
+nhnh
+nhnhꜣ
 nhp
 nht
 nhw
@@ -5139,6 +5889,7 @@ nj
 nj js
 nj wnt
 nj zp
+njf
 njk
 njkw
 njnj
@@ -5154,6 +5905,7 @@ nkk
 nkt
 nkw
 nm-m-t:t-D54:Z2ss
+nm-t:t-D54*D54:D54
 nmj
 nmnm
 nms
@@ -5200,11 +5952,12 @@ nsw
 nswt
 nswt-bjtj
 nswt-nṯrw
+nswt-ḥw
 nswtyw
 nsyt
 nt
-nt-jqrt
-nt-jqrtj
+nt-jqr.t
+nt-jqr.tj
 nt-ḥsb
 nt-ḥtp
 nt-ḥtrj
@@ -5218,6 +5971,8 @@ ntjw
 ntjw jm
 ntk
 ntrj
+ntrj-ẖt
+ntrw
 ntry
 ntryt
 nts
@@ -5256,7 +6011,7 @@ nwy
 nwyt
 nwḥ
 nwḫ
-nwꜣ wpwt
+nwꜣ
 nxAxA
 nxn:Z1
 nxn:n-niwt
@@ -5277,6 +6032,7 @@ nḏ
 nḏ r
 nḏ-ḥr
 nḏdnḏd
+nḏdḏd
 nḏm
 nḏnḏ
 nḏr
@@ -5312,7 +6068,6 @@ nḫbt
 nḫbḫb
 nḫj
 nḫn
-nḫnj
 nḫnt
 nḫnw
 nḫt
@@ -5324,13 +6079,15 @@ nḫḫ
 nḫꜣw
 nḫꜣḫꜣ
 nṯr
-nṯr ꜥꜣ
 nṯr-nfr
+nṯr-ꜥꜣ
 nṯrj
 nṯrj-kꜣ-rꜥ
+nṯrj-ẖt
 nṯrt
 nṯrtj
 nṯrw
+nṯrwj
 nṯryt
 nẖnm
 nẖs
@@ -5354,10 +6111,13 @@ nꜥrt pḥwt
 nꜥrt ḫntt
 nꜥꜥ
 occasional
+occasionally
 of a pharaoh
 of meat
 often with personal pronouns
 only as a goddess
+only attested in the Tale ofthe Eloquent Peasant
+only attested in theInstruction of Amenemope
 only when attached to a dual
 or animals
 p
@@ -5367,7 +6127,9 @@ p*g:z-D26
 p*t:Z4-tr-A2
 p*t:pt
 p*t:r-M4-D6
+p*t:r-M4-N21:Z1
 p*t:r-i-M4-D6
+p*t:r-i-tr-N21:Z1
 p--W--r:Z1--Aa18:Z1-ti-i--A1:Z2ss
 p-A-D
 p-A-d-D56-F51
@@ -5392,7 +6154,7 @@ p-s-D-F37
 p-s-D-N8
 p-s-D-Z1*Z1*Z1:Z1*Z1*Z1:Z1*Z1*Z1
 p-s-D:F37
-p-s-g
+p-s-g«D154»
 p-sbA-xa:niwt
 p-sbA:t-xa:niwt
 p-sbꜣ-ḫꜥ-n-nwt
@@ -5421,6 +6183,7 @@ p:Z7-G39-Z1-G39-Z1-Z9:D40
 p:d-D56
 p:d-T9:D54
 p:d-s-rd-xt
+p:f-A-N31
 p:f-TAw-a-W2-t:H8
 p:f-TAw-t:a-W2-t
 p:f-s-Q7
@@ -5458,12 +6221,12 @@ p:z-n:X6
 pA
 pA--D37-W1-t:H8-
 pA-A
-pA-A&y-T14-s-y
 pA-A-D:N33
 pA-A-i-i
 pA-A-q-i-i-t:O39
 pA-A-sbA:Z1-xa:a-w-niwt:t:Z1
 pA-A-w-t:y-X6
+pA-A-y:H_SPACE-T14-s-y
 pA-T14-s
 pA-di-W1-t:t
 pA-i-i-f
@@ -5479,6 +6242,7 @@ pAz
 pDt
 pDt psDt
 pH
+pH*pH:pH
 pH-ib:Z1
 pH-t*y:D40
 pH-w&y
@@ -5488,6 +6252,7 @@ pH:ib
 pH:t*y-A24
 pH:t*y-F9-F9
 pLondon EA10793
+pPrisse 2.7
 page 11
 pd
 pd:t*Z1:xt
@@ -5501,6 +6266,7 @@ pgs
 pgꜣ
 pgꜣs
 pj
+playful spelling
 plural
 plural hapax
 plural only
@@ -5511,57 +6277,114 @@ pnꜥ
 possibly also .n
 possibly erroneousor metathesized from *.wj
 possiblya very archaic form
+possiblyto be interpreted differently
 ppy
 pq
 pqt
 pqyt
 pr
 pr aA
-pr bjtj
-pr dwꜣt
-pr dšr
-pr mḏꜣt
+pr n nbw
 pr n nḥḥ
 pr n ꜥnḫw
-pr nbw
 pr nfr
-pr nw
-pr nzr
-pr wr
-pr wꜣḏ
-pr šnꜥ
+pr nfr n nḥḥ
 pr ˤ3
 pr ḥrj
-pr ḫntj
 pr ẖrj
-pr ꜥnḫ
-pr ꜥꜣ
+pr ẖrjt
+pr*Z1:U31-t:Z2ss
 pr*Z1:n-D:t:n
 pr*Z1:n-D:t:tA
 pr-HD-pr
+pr-Sna-pr
 pr-aA
+pr-anx
+pr-anx-pr
 pr-bjt
+pr-bjtj
 pr-bꜣstt
+pr-dwꜣt
+pr-dšr
 pr-m-ws
 pr-ms
+pr-mḏꜣt
+pr-mꜣ
 pr-n-ḏt
+pr-nbw
+pr-nbw:N33A
+pr-nfr
 pr-nswt
+pr-nw
+pr-nzr
 pr-r:D54-a:Z1
 pr-snt
 pr-tm
+pr-wr
+pr-wꜣḏ
+pr-xnt-pr
+pr-šnꜥ
 pr-ḏt
 pr-ḥḏ
+pr-ḫnr
+pr-ḫnrt
+pr-ḫnt
+pr-ḫntj
+pr-ꜥnḫ
+pr-ꜥḥꜣ
+pr-ꜥḥꜣw
+pr-ꜥꜣ
+pr.sn
+pr:D54
+pr:Sna-A1-B1
+pr:Y1
+pr:Z1-Xr:r-y:Y1-t:N23*Z1-pr
+pr:Z1-Y1:t*Z1-V12
+pr:Z1-Y1:t*Z1-V12:pr
+pr:Z1-i-i-pr:Z2ss
+pr:Z1-nfr-f:r
+pr:Z1-nfr-f:r-n-nH-H-ra-H
+pr:Z1-nfr-pr
+pr:Z1-sw-t:n
+pr:Z1-xnt-n:t*y-fnD:pr
+pr:Z1-xnt-n:t*y-fnD:pr-B1:Z2ss
+pr:Z1-xnt-t:y-fnD:pr
 pr:aA
+pr:aHA-pr
+pr:fnD-pr
+pr:fnD-pr-B1-Z3
+pr:n-nbw:N33A
+pr:r
 pr:r-D54
 pr:r-D54-Xr:r
+pr:r-i-i-pr:Z2ss
+pr:r-t:D54
+pr:r-t:Hb
+pr:r-t:N33C
+pr:r-t:X4
+pr:r-t:ra
+pr:r-t:y
+pr:r:*t
+pr:r:*t-Hb:ra
+pr:r:*t-aA:t
+pr:r:*t-hb:N33A
+pr:t
+pr:t-D54
 pr:z-n:X4
 prj
 prj ẖr
 prt
-prt spdt
+prt-mnw
+prt-sm
+prt-spdt
+prt-tpt
+prt-wp-wꜣwt
 prt-ḫrw
+prt-ꜥꜣt
+prtj
 prtpr:r-t:ra
 prwypwsꜣ
+pry
 pryt
 przn
 ps
@@ -5574,7 +6397,7 @@ psn
 pst
 psw
 psš
-psš kꜣf
+psš-kꜣf
 psšt
 psštj
 psšty
@@ -5591,6 +6414,9 @@ psḥ
 psḫ
 pt
 pt:T10:t*Z1
+pt:pr*Z1
+pt:t
+pt:t*t:xAst
 ptj
 ptpt
 ptr
@@ -5755,7 +6581,7 @@ qdt
 qdtt
 qdš
 qdšt
-qdšt-ẖzṯrt-ꜥnṯjt
+qdšt-ꜥꜣsṯrt-ꜥnṯjt
 qdšw
 qjs
 qjsj
@@ -5797,7 +6623,10 @@ qsnt
 qsrs
 qysrs
 qš
+qḥqḥ
+qḥqḥw
 qꜣ
+qꜣ-ḥḏt
 qꜣ-ꜥ
 qꜣb
 qꜣbt
@@ -5817,12 +6646,17 @@ qꜥḥ
 r
 r 3w
 r gs
+r jqr
 r mj
 r mn m
+r mḏdw n jb
+r mḏdw n jb n
 r n kmt
 r ntt
 r nḥḥ
 r sꜣ
+r wn mꜣꜥ
+r šꜣꜥ
 r ḏbꜣ
 r ḏd
 r ḏr
@@ -5844,16 +6678,18 @@ r-Aw:W*y
 r-Aw:Y1
 r-H-w-A1-Z3
 r-H-w-Z3
-r-Q7
 r-bꜣḥ
 r-di
 r-h-A-n:D41-A24
 r-jb
 r-jmjtw
-r-jqr
 r-m-D9
+r-m-T-A1-B1
+r-m-T:Z2
+r-m-T«D77»«D124»
 r-m-in
 r-m-ir
+r-mwt-A1*B1:Z2
 r-nfr-HAt
 r-nfr-HAt:t
 r-nfr-ḥꜣt
@@ -5864,32 +6700,45 @@ r-s-s-y:N31
 r-sṯꜣ
 r-sṯꜣw
 r-w-d-O40
-r-w-d:T12
+r-w-d:rwD
 r-w-d:t*O39
 r-w-d:t-rwD:O39
 r-w-i-M43
 r-w-rw
 r-w-t-O32
-r-šꜣꜥ
 r.
 r:*r-H-W:y-H-nTr-nTr
 r:*r-i-E12
 r:*r-t-F27
+r:*t-A1*B1:Z2
 r:*t-H-t*y:U31-A1
 r:*t-n:nw*W-T14-A1*B1:Z2-xAst
+r:A1
 r:Aw-Aw:Aw
 r:D37
 r:Dw-w-Aa2:H_SPACE
-r:N25
+r:F51
 r:S-fnD-A2
 r:S-fnD-zp:Z1*Z1
 r:S-r:S-fnD
 r:T-A1
 r:T-A1 n:y km-m-t:O49
+r:T-A1*B1
+r:T-A1*B1:Z2
+r:T-A1-A1-A1
+r:T-A1-B1
+r:T-A1:Z2
+r:T-Z2
 r:T-n:nw*W-T14-G41-xAst
+r:T:t-A1*B1:Z2
+r:T«D77»«D124»
 r:V2:xAst
+r:W10*N6
 r:Z1
+r:Z1*F51
 r:Z1-H-w&y-A40-A40
+r:Z1-O31
+r:Z1-O31:O31
 r:Z1-V2:V2-V2:xAst
 r:Z1-V2:Z2-xAst
 r:Z1-a:Z1
@@ -5897,25 +6746,33 @@ r:Z1-b-T14:N25
 r:Z1-b-w-T14-A1:Z2
 r:Z1-b-w-T14-N25
 r:Z1-b-w-T14-N25-A1-Z3
+r:Z1-mw
 r:Z1-n-km-m-t:O49
+r:Z1-n:km-t:O49
 r:Z1-pr*Z1:niwt
 r:Z1-pr:Z1
 r:Z1:N33A-nw-Z1-pr:r-t:D54-m-h:r-w-hrw:Z1
 r:Z1:a
+r:Z2
 r:a
+r:a-C1
 r:a-Htp:t
 r:a-Htp:t*p
 r:a-N5:Z1-C2
+r:a-N6
+r:a-ra-A40
+r:a-ra-G7
 r:a-ra:Z1
+r:a-ra:Z1-G7
 r:a-ra:Z1-ms-s
 r:a-ra:nb
 r:a-x:t-Q7-i-m
 r:d-O40
 r:d-T12
 r:d-T12-Y1
-r:d-T12:Y1
 r:d-rd
 r:d-rd-F51
+r:d-rwD:Y1
 r:im-K1
 r:k-H-W-Q7
 r:k-hrw
@@ -5928,6 +6785,7 @@ r:n-p-i-i-t-Hn:Z2ss
 r:n:D41
 r:q-D41:nDs
 r:r*-m-K1:Z1
+r:r:r
 r:rw-w-t:pr
 r:t:a
 r:x
@@ -5947,6 +6805,9 @@ ra-U7:r-i-i
 ra-Z5
 ra-ms-s-s
 ra-ms-sw
+ra-nfr-f:r
+ra-nfr-r
+ra-nfr-r:ir-kA
 ra-p:W-i-A-m
 ra-xa-w-f
 ra-xa:a-f
@@ -5954,10 +6815,16 @@ ra:E22-H-s-Aa18-w
 ra:Htp
 ra:U7-i-i
 ra:U7:t
+ra:Z1
+ra:Z1-A40
 ra:Z1-U7:t
 ra:Z1-ms-s-s
 ra:Z1-ms-s-sw
+ra:f-Dd
+ra:f-nfr
+ra:mn-kA
 ra:nb
+ra:r:a
 ra:t-i
 rare
 rb
@@ -5981,29 +6848,36 @@ rkḥ-nḏs
 rkḥ-ꜥꜣ
 rkḥw
 rm
+rmi
 rmj
 rmn
 rmrm
 rmrmt
+rmt
+rmwt
 rmyt
 rmṯ
 rmṯ jzwt
 rmṯt
+rmṯw
 rn
-rn-nfr
+rn nfr
 rn.s-rs
 rnn
 rnn-wtt
 rnnt
 rnnw
 rnp
+rnp-O50
+rnp-t:Z1
 rnp-wp:Hb
 rnp-wp:ra
 rnp-wp:ra:n
 rnpj
 rnpt
 rnpt jꜣdw
-rnpt ḥsb
+rnpt-mḏd-ꜥ
+rnpt-ḥsb
 rnpwt
 rnpyt
 royal names
@@ -6024,7 +6898,9 @@ rtḥ
 rtḥtj
 rw
 rw nw prt m hrw
+rw:a-Sna:pr
 rw:a-pr
+rw:a-ra:Z1
 rwD
 rwD:O39
 rwd
@@ -6036,6 +6912,7 @@ rwt
 rwḏ
 rwḏ-jmn
 rwḏt
+rwꜥ
 rx
 rš
 ršrš
@@ -6062,7 +6939,7 @@ rḏj wꜣt
 rḏj wꜣt n
 rḏj wꜣt n rdwj
 rḏj ḥr wꜣt
-rḏj ḥꜣtj m sꜣ ()
+rḏj ḥꜣtj m sꜣ
 rḏw
 rḥw
 rḥwj
@@ -6080,6 +6957,8 @@ rꜥ nb
 rꜥ-ms
 rꜥ-ms-s
 rꜥ-ms-sw
+rꜥ-nfr
+rꜥ-ḏd.f
 rꜥ-ḥr-ꜣḫtj
 rꜥ-ḥtp
 rꜥmss
@@ -6092,7 +6971,6 @@ s-A1
 s-Aa18-A-H-D61-F51
 s-Aa18-A-H-D61:Y1
 s-D:F21-m
-s-D:Z9
 s-D:b
 s-D:d
 s-D:f-A-X4
@@ -6101,7 +6979,6 @@ s-D:t-Q7
 s-DA
 s-Dr:r-A55
 s-Dr:r-A55-Aa2
-s-F29-t-T11:D40
 s-F30:d-V12:Z1
 s-G54
 s-H-d-w-pt
@@ -6114,11 +6991,17 @@ s-HD-D:N8
 s-M14-Y1
 s-M21-m-Hn:Z2ss
 s-M42:n-t:Y1
+s-M44
+s-M44-d
+s-M44-p:d
+s-S-Sw-w
 s-S:d-V12
 s-S:p*t-Hn:Z2ss
-s-S:p-O43
+s-S:p-Szp
 s-S:t-W10
 s-Sd:d-I3-sbA:Z1
+s-Sw-W-Z9:nDs
+s-Sw-w-nDs
 s-T
 s-T-H-b-O22-W1
 s-T:Aa2
@@ -6132,12 +7015,14 @@ s-U23-A1
 s-U23-m-r-A21-A1
 s-U23-r
 s-V6:r-U9:Z2ss
+s-W-xA-A-N2
 s-W15-pr:pr
 s-W16
 s-W16-H
 s-W:hrw
 s-X:r-T11:D40
 s-Z1-A1
+s-Z9:r-i-mw-A2
 s-a-H-E31
 s-b
 s-b*H:bH-A2
@@ -6175,6 +7060,8 @@ s-d-w-x-Aa2:D40
 s-d-w-x:Aa2
 s-d:sd
 s-d:sd-Z9:D40
+s-f:D19
+s-f:D19-A2
 s-f:T-W-tyw-T30:D40-G7
 s-f:n-fnD-A2
 s-f:ra
@@ -6202,12 +7089,13 @@ s-k
 s-kA-A-U13
 s-km-m-D3
 s-m
+s-m-D
 s-m-H-D41
 s-m-H-P13
 s-m-H-y:a-V29-Z1-N33:Z2ss
-s-m-mH-H
 s-m-mH-H-P1
 s-m-mH-H-P13
+s-m-mH-H«P19»
 s-m-mH-P13
 s-m-mH:H-P13
 s-m-x:H_SPACE
@@ -6220,6 +7108,8 @@ s-mi
 s-mi-i-A2
 s-mi-i-i-A2
 s-mn:n
+s-mn:n-U32
+s-mn:n-Y1V
 s-n:T-V12:V12
 s-n:Z2
 s-n:b-Hz
@@ -6237,12 +7127,15 @@ s-nfr-r:f-w
 s-nfr-w
 s-p-d:d-M44-Y1V
 s-p:Y1
+s-p:d-M44
 s-p:d-t-M44
 s-p:r
 s-p:r-spr
 s-p:r-spr-A2
 s-p:r-w-spr-A2-A1
 s-p:t-D24
+s-p:t-M44
+s-p:zp
 s-q-b-H
 s-q-b-W16-w-pr
 s-q-b-b-W:y-W15-mw-pr
@@ -6255,13 +7148,16 @@ s-r-E27-A2
 s-r-gb
 s-r-w-d:T12-Y1
 s-r-w-x:D40
+s-r-wD-w-D:T12
 s-r:*t-M44
 s-r:H1
 s-r:f
 s-r:f-Q7
 s-r:f-fnD-A2
 s-r:w-gb
+s-r:x-O33
 s-r:x-nDs
+s-r:x-pr
 s-r:x:Y1
 s-s-Aa18:Z1-A2
 s-s-D19
@@ -6280,10 +7176,17 @@ s-sSm:M-A40
 s-sbA-b-i-i-t:Y1
 s-sk-k-s-sk-k:nDs
 s-st-t
+s-sti-t-T11:D40
 s-stp-V16
+s-sxm-x
+s-sxm-x-ir:f
+s-sxm-x-m
+s-sxm-x-m-ir:f
+s-sxm-x-m-sxm
+s-sxm-x-m-sxm-Z1
+s-sxm-x:t
 s-t
 s-t-A-G38
-s-t:F29-a
 s-t:S
 s-t:S-A40
 s-t:U30-A-V2:D54
@@ -6292,6 +7195,7 @@ s-t:Z2ss
 s-t:p-A2
 s-t:p-stp:Y1
 s-t:p-t:stp-E1
+s-t:sti-a
 s-t:sti-w-t-N8
 s-t:t
 s-t:w-t-A53-Y1
@@ -6304,29 +7208,40 @@ s-w-t:F44
 s-w-t:M33
 s-w-wD-A2
 s-w-x-N2
+s-w-xA-y:nDs
+s-wA-A-D54
+s-wA-A-N31
+s-wA-A-Z9:D54
 s-wA-A-Z9:N31
+s-wA-D54
+s-wA-N31
 s-wA-N31:D54
 s-wD-D:w
 s-wn:n-nw-w-D6
 s-wn:n-nw:W-T11:Y1
 s-wn:n-nw:W-T11:niwt
 s-wr-r:d-nDs
-s-wr:r-A2
 s-wr:r-i-A2
 s-wr:r-i-mw-A2
+s-x-m-D35
+s-x-m-sxm
+s-x-m-xt
 s-x-s-rd-D54
 s-x-w-W10:Y1
 s-x-xA-A-A2
 s-x:D40
+s-x:M«Y18»
 s-x:W10
 s-x:d
 s-x:n-D54
-s-x:nw
+s-x:nw«D189»
+s-x:r-A2
 s-x:r-W-Y1:Z2
 s-x:r-Y1V
 s-x:r-i-i-Y1-A1
 s-x:t-sxt
 s-xA-A-A2
+s-xA-A-N2
 s-xA-x-A-A2
 s-xnt-n:t-P1
 s-xnt-n:t-fnD
@@ -6345,12 +7260,11 @@ sDA
 sDm
 sDm-m
 sDm-m-w-A1
-sF18:M2-Z3
 sHAbi
-sN4
 sS
 sS:n-b-t:F51
 sSr-Z1-U9:Z2ss
+sT-mw
 sT:t*t-T14:N25
 sTAt
 saA
@@ -6360,6 +7274,7 @@ sbA
 sbA-A
 sbA-A-pr:H_SPACE
 sbdj
+sbhꜣ
 sbj
 sbjk-ḥtp
 sbjw
@@ -6455,6 +7370,7 @@ smr-ẖt
 smsj
 smsm
 smsw
+smsw-pr
 smt
 smw
 smwn
@@ -6472,7 +7388,6 @@ sn-n-mwt
 sn-n:A1
 sn-n:D19
 sn-n:fnD-tA
-sn-n:i*i
 sn-n:n-mwt-t
 sn-n:nw*W-Z1*Z1
 sn-n:nw-A1
@@ -6485,6 +7400,8 @@ snD
 snD-A2
 snD-W-A2-Z3A
 snD-Z3
+snD-w-A1
+snD:Y1
 snDw
 snb
 snb-n.j
@@ -6541,6 +7458,7 @@ specifically beef
 specifically beef and fowl
 spj
 sporadic
+sporadically in later writings
 sportive writing
 spr
 spr r dmj
@@ -6595,15 +7513,18 @@ st
 st-Z1
 st-a
 st-ib
+st-ir:r-A40
 st-jb
+st-r-mḏd
+st-ra-A40
 st-t
 st-t-B1
 st-t-G7
 st-t:H8
 st-t:H8-I12
 st-t:H8-bit-M15
-st-t:H8-n-bit
-st-t:H8:n-x-b
+st-t:H8-n-bit«M139»
+st-t:H8:n-x-b«M138»
 st-t:O1
 st-t:Z1
 st-t:Z5
@@ -6613,6 +7534,7 @@ st-t:ib
 st-t:t-m-x-b-bit-M16-t:niwt
 st-ˤ
 st-ꜥ
+st:ir
 st:ir-A40
 sti-t-w&t-ra:Z2ss
 stj
@@ -6633,6 +7555,7 @@ stpt
 stt
 stwt
 sty
+st«Q19»
 stš
 stẖ
 stẖ-nḫt
@@ -6652,6 +7575,7 @@ sw-W
 sw-W-t:x-A40
 sw-X8-t:Htp
 sw-i-i-t:Y1-Z2
+sw-pr:Z1
 sw-r*:t
 sw-t-Xr:r-tp:Z1
 sw-t:Z2ss-nTr
@@ -6659,6 +7583,7 @@ sw-t:n
 sw-t:n-G7
 sw-t:n-pr:Z1
 sw-t:n-r:x:Y1
+sw-t:pr
 sw-ti-i-i
 sw-tp:Xr
 sw-w-t:x
@@ -6675,7 +7600,6 @@ swn
 swn ḥr
 swnt
 swnw
-swr
 swrd
 swrj
 swsḫ
@@ -6688,6 +7612,7 @@ swḏꜣ
 swḏꜣ jb
 swḥt
 swḫ
+swḫj
 swḫꜣ
 swꜣj
 swꜣḏ
@@ -6695,16 +7620,45 @@ swꜣḥ
 swꜣḥt
 swꜥb
 sxm
+sxm-A40
+sxm-A40-ir:f
 sxm-G7
+sxm-H_SPACE:x-m&t
+sxm-M:D40
 sxm-Z1
+sxm-Z1-A40
+sxm-Z1-nTr
+sxm-m
 sxm-m&t-I12
+sxm-m-A24
+sxm-m-D40
+sxm-m-ir:f
+sxm-m-t:Y1:Z2ss
+sxm-m-t:Z2ss
+sxm-n-E15
+sxm-n-p*t:pt
+sxm-nTr
+sxm-nTr-N-i-nw:p-nTr
+sxm-t
+sxm-x*t:M-H8
+sxm-x:t*Z5-I12
+sxm-x:t-I12
+sxm-x:t«C232»
+sxm«Aa56»A40
+sxm«Aa56»D40
+sxm«Aa56»Z9:D40
 sxnt
+sxt-gb-r-nTr
 sxt-t:N23
 sxt-t:Z1
 sxt-t:y-A1
 sy
 syt
+szf
 szwr
+s«Aa56»F18:M2-Z3
+s«Aa56»n
+s«U39E»N4
 sš
 sšd
 sšm
@@ -6717,6 +7671,7 @@ sšr
 sšrw
 sšt
 sštꜣ
+sšwj
 sšꜣ
 sˤ3
 sˤḥ
@@ -6758,7 +7713,20 @@ sḫdḫd
 sḫj
 sḫm
 sḫm-jb-pr.n-mꜣꜥt
+sḫm-jr.f
+sḫm-jr.f-mjtt-rꜥ
+sḫm-n-jnpw
+sḫm-n-jnwp
+sḫm-n-pt
+sḫm-n-rꜥ
+sḫm-n-sḫmw
+sḫm-nṯrw
+sḫm-pt
 sḫm-pḥtj-ḏsr-ḫꜥw
+sḫm-tꜣwj
+sḫm-ẖt
+sḫm-ꜥnḫ-jmn
+sḫm-ꜥnḫ-nw-jmn
 sḫmt
 sḫmtj
 sḫn
@@ -6786,6 +7754,7 @@ sṯ
 sṯ-ḥb
 sṯ-ḥꜣb
 sṯ3t
+sṯj
 sṯjt
 sṯnj
 sṯpt
@@ -6818,6 +7787,7 @@ sꜣsꜣ
 sꜣt
 sꜣw
 sꜣḥ
+sꜣḥ-wj-rꜥ
 sꜣḫ
 sꜣḫꜣḫ
 sꜣꜣ
@@ -6835,8 +7805,9 @@ t
 t ꜣšr
 t*U30:S-Z9*N21:Z2
 t*W
-t*t:N25
+t*X2:X4
 t*t:Y1
+t*x:W*W22
 t*x:n-F2
 t*x:n-O25
 t*y:Z2
@@ -6853,7 +7824,6 @@ t-D17-t
 t-O25
 t-O44-y-A1
 t-R2
-t-S8
 t-W
 t-W-B1
 t-W-n:n:Z2
@@ -6862,7 +7832,7 @@ t-b-W:t-S33
 t-i
 t-i-i
 t-i-i-t:z
-t-i-t-i
+t-i-t-i«A459»
 t-i-t:U21
 t-jmn
 t-mA-A-m-V19
@@ -6888,6 +7858,10 @@ t-wn:n-E1-Y1
 t-wr:r
 t-wr:r-A30
 t-wr:r-A4
+t-wr:r-Y1V
+t-wr:r«D254»
+t-wr:r«D83»
+t-wr«D94»
 t-ḥḏ
 t3
 t3(w)
@@ -6895,42 +7869,55 @@ t3wj
 t3wy
 t3y
 t:*nw-m-m-W22:Z2
-t:*r-Y1
-t:*r-i-i-A30
+t:*r-M4
+t:*r-i-A30
+t:*r-i-M4-A4-nDs
 t:*r-i-tr-A2
+t:*r-i-tr-A30
 t:*r-i-tr-Hn
 t:*r-i-tr-ra
 t:*r-p-G41
 t:*r-tr
+t:*r-tr-A30
+t:*r-tr-A30-Y1V
+t:*r-tr-Y1
+t:*r-tr-ra
 t::n
 t:A-st-t:pr-nfr-nfr-nfr
 t:D17
-t:D40
 t:F51-D26
 t:G24-A1*B1:Z2
-t:H8-wDAt
-t:P3
 t:S--Z9:D40
 t:U15-m-t:xt
 t:U30-A-S:Z9-N23-Z1
 t:U30-A-w-Q7
 t:W
 t:W-i-i
+t:W-r-i-M4-Hn:Z2ss
 t:W-t:W
+t:X2
 t:X2-C3
 t:X2-X4-HD
 t:X2-X4:Z2
 t:X2-r:*t-H-rtH
 t:Z2
 t:Z2ss
-t:f
+t:f-A-N31
 t:f-A1
 t:f-A40
 t:f-D26
 t:f-n:nDs-A1
 t:f-n:t-B1
+t:f«D146»
+t:f«D154»
+t:h
+t:h-A-rd-D54
+t:h-D54
+t:h-D56-D54-A1
 t:h-nDs
 t:h-rd-D54
+t:h-rd-D54-m:a-t:n-T14-G41-N31
+t:h-rd-D54-m:a-t:n-T14-G41-N31:nDs
 t:k-r:N18-ti
 t:kA-A-w-Q7
 t:kA-Q7
@@ -6954,8 +7941,6 @@ t:p-H-t:pr
 t:p-i-D19
 t:p-i-D19:D40
 t:rtH:t
-t:t
-t:t-W22
 t:t-i-A1
 t:t-i-i
 t:t-w
@@ -6964,7 +7949,11 @@ t:tm-m
 t:tm-m-A40
 t:tm:D35-m
 t:tm:im-w-A40
-t:wr:r-A30
+t:wr
+t:wr:r-i-qs
+t:wr:r-i-qs-A2
+t:wr:r-i-qs-Y1V
+t:x-w-W22
 t:y
 t:y-t:y-S33-S33
 tA
@@ -6973,6 +7962,7 @@ tA-tmw
 tA:N21*Z1-Dsr:xAst
 tA:N23*Z1
 tA:SA-sw-w-i-i-h-rwd-A
+tA:SA-sw-w-i-i-h:wA-A
 tA:tA
 tAS
 tAwy
@@ -6984,6 +7974,8 @@ tfn
 tfnt
 tfnwt
 tfꜣ
+th
+th-mtn
 the Book of the Dead of Iuefankh
 the Coffin Texts III
 the Ebers Papyrus
@@ -7005,10 +7997,13 @@ the pyramid of King Unas
 the second mis thus actually a phonetic complement of the first mꜣ
 the stacking method is altered
 the story of Sinuhe
+the tomb of Rekhmire
+the tomb of Seti I
 thismorpheme is left unwritten
 thj
 thm
 thw
+thꜣj
 ti
 ti-H-n-THn
 ti-H-n:t-N33C:Z2ss
@@ -7024,6 +8019,8 @@ ti-ms-q-w-xAst
 ti-ms-z:q-w-xAst
 ti-n:t-i-mn:n
 ti-sw-w-xt
+ti-wr:r-P10:D40
+ti-wr:r-qs-mw
 tj
 tj-nt-jmn
 tjkrtj
@@ -7034,6 +8031,7 @@ tjsw
 tjt
 tjtj
 tjw
+tjwr
 tjḥn
 tjḥnt
 tjꜥꜣ
@@ -7063,13 +8061,12 @@ tnṯ
 tomb no.2 at Beni Hasan
 tp
 tp wꜣt
+tp ꜥ
+tp ꜥw
 tp-a
 tp-r
-tp-rnp
 tp-rnpt
 tp-ˤ
-tp-ꜥ
-tp-ꜥw
 tp:Z1
 tp:Z1-rnp
 tp:a-w
@@ -7084,7 +8081,6 @@ tr
 tr-ra
 trj
 trp
-try
 tt
 ttj
 tty
@@ -7119,7 +8115,6 @@ tḫt
 tḫw
 tꜣ
 tꜣ n ꜥnḫw
-tꜣ šꜣsw yhwꜣ
 tꜣ-mrj
 tꜣ-mḥ
 tꜣ-mḥw
@@ -7127,6 +8122,7 @@ tꜣ-nt-jmn
 tꜣ-nṯr
 tꜣ-tmw
 tꜣ-wr
+tꜣ-šꜣsw-yhwꜣ
 tꜣ-ḏsr
 tꜣ-ṯnn
 tꜣ-ꜣḫtjw
@@ -7144,6 +8140,9 @@ tꜣš
 tꜣšj
 uncertain reading
 uncommon
+usual Old Kingdom form
+usual form
+usual singular outside the Pyramid Texts.Reading disputed
 version B2 of The Eloquent Peasant
 von Beckerath 1984
 w
@@ -7154,6 +8153,7 @@ w-A40
 w-A41
 w-A42
 w-A50
+w-Aa2:t*Z1-xAst:niwt
 w-B1
 w-D-a-wDa
 w-D52:Z3A-O1
@@ -7164,14 +8164,20 @@ w-DA-t:D12
 w-DA-wDAt
 w-G7
 w-H-A
-w-H-A-t:W23
-w-H-A-t:W7
+w-H-A-t:N25
+w-H-A-t:W10
+w-H-Aa2:t*Z1-A1-xAst:Z2
+w-H-Aa2:xAst
+w-H-a:w-A1
 w-H-a:wHa
 w-H-i-i-T14-A1*B1:Z2
 w-H-i-i-t-A1*B1:Z2
 w-H-i-i-t-T14-A1:Z2
-w-H-t:W23
-w-Ht
+w-H-t
+w-H-t:W6
+w-H-y:a-wHa
+w-HA-A-t:W6
+w-N-Z3
 w-S-A-G42
 w-S-b-T-i-A53
 w-S-b-t:y-A53-Z3
@@ -7182,7 +8188,7 @@ w-S:nDs
 w-Z1
 w-Z1:N23
 w-Z2ss::
-w-a-H
+w-a-H«N11y»
 w-a-w-D40
 w-a:r-rd-D54
 w-a:r:*t-rd-N23
@@ -7196,26 +8202,43 @@ w-d:f-G38-D54
 w-d:n
 w-d:n-O39
 w-d:n-Z9:D40
-w-d:nZ9
+w-d:n«Z9:«D245»»
 w-f-A-F51
 w-f-A-nDs-A2
 w-f-A-w-F51
+w-h-A-i-i-Z9:nDs
+w-h-A-nDs
 w-i
+w-i-A-n:D41:D40
 w-i-A1
 w-i-i
+w-i-in:n
 w-i-in:n-D40
+w-i-in:n-D41:D40
+w-i-in:n-D41:D54
 w-i-n:D32
 w-mt:t
 w-s-T30:D40
+w-s-T:n-rd-D54
+w-s-f:D54
+w-s-f:G41-D54
+w-s-f:W-G41-D54-A1
+w-s-f:w-Y1V
+w-s-r:A40
 w-s-r:w-P10
-w-s-t
 w-s-t-T30-N33:Z2
+w-s-t:*nw-D54
+w-s-t:n-D54
+w-s-t:n-rd-D54
+w-s-t«T30D»
+w-s-x:S11
 w-s-x:W10
 w-t
 w-t*t:D53
 w-t:T
 w-t:t-D53:Y1
 w-t:y
+w-t«V38»
 w-wA-wAH
 w-x-N2
 w-xA-A-nDs-A1
@@ -7223,13 +8246,19 @@ w-xA-A-xt
 w-xA-nDs-A1
 w-z:G37
 w-z:S-D53
+w-z:d:n-nw:W-D54
+w-z:f-w-G41
+w-z:f-w-G41-D54-A1
 w-z:t:n-D54
+w-z:t:n-nw:W-rd-D54
+w-z:x*W10
+w-z:x-P1
 w-z:x-W10:Y1
 w3st
 w3ḏ
 w:a-wa:Z1
 wA
-wA*W12:D39
+wA*W12:D39«R33»
 wA-A-D:wAD
 wA-A-H-wAH
 wA-A-H-wAH-A24
@@ -7262,6 +8291,7 @@ wAD-Z1:O39
 wAD-Z1:d
 wAD-i-i-t-I12
 wAD-t-I12
+wAD«N33Aw»
 wAH
 wAH-H-Y1V
 wAH-H-a
@@ -7272,6 +8302,7 @@ wAH-H-t-U9:Z2ss
 wAH-H-y:Y1
 wAH-i-i-t:U9
 wAs
+wAs-ir
 wAs-t:N24
 wAs-t:O49
 wD-D
@@ -7280,11 +8311,15 @@ wD-md-Y1V
 wD-w-Y1
 wDA
 wDAt
-wDAt-pt
 wDAt-t:H8
 wDa
 wHa
+wHa:a
+wHa:a-D54
+wHa:a-V1
 wHa:a-V1-in
+wHa:a-V1:D40
+wHa:a-Y1-A24
 wHm
 wHm-m
 wHm-m-A2
@@ -7328,6 +8363,7 @@ wbꜣ jb
 wbꜣ nswt
 wbꜣt
 wbꜣyt
+wd-r-mḏd
 wdf
 wdfj
 wdj
@@ -7344,13 +8380,15 @@ wfꜣ
 wfꜣw
 wgg
 when meaning the fruit
-when referring to the king
 when used at the startof inscriptions
 when used in referenceto a feminine
 where it iscombined in one cartouche withthe birth name nmtj-m-zꜣ.f
 which sounded like m ẖnw
+whj
 whm mswt
 whm ꜥnḫ
+whꜣ
+whꜣy
 wi
 with both nouns in the plural
 with feminine addressee
@@ -7362,24 +8400,34 @@ wjn
 wjꜣ
 wjꜣ-n-ḥḥ
 wjꜣ-n-ḥḥw
+wjꜣn
 wmt
 wmwt
 wn
+wn mꜣꜥ
 wn-n:O31
 wn.jn
 wn.ḫr
 wn:n
 wn:n-O31:D40
 wn:n-S-E17
+wn:n-U2:mAa-a:H2-Y1
+wn:n-U5:a-Y1V
 wn:n-W
+wn:n-X7:X7«D82»
 wn:n-i-i-t:pr
+wn:n-i-i-t:pr«O212»«O212»«O212»
 wn:n-i:n
 wn:n-m-A2
+wn:n-nw:t-N14-N5
 wn:n-nw:t-N14-N5:Z1
+wn:n-nw:t-N14:Y1
 wn:n-t
+wn:n-t:N14-A1:Z2ss
 wn:n-x-w-S28-Z1-Z1
 wn:n-y:D54
 wn:n:n
+wn:n:n-nfr-f:r-A40
 wn:nw
 wn:r-F51*F51:F51
 wnb
@@ -7441,7 +8489,7 @@ wp:p-w-t:Z9-A2
 wp:p-w-t:y-D54-A1
 wp:r-d:D3
 wp:r-t*Z1:D3
-wp:r-t:t
+wp:r-t:t«D156»
 wp:t
 wp:t-Y1
 wpj
@@ -7451,7 +8499,7 @@ wprtt
 wps
 wpst
 wpt
-wpt r
+wpt-r
 wptj
 wpw
 wpw r
@@ -7460,13 +8508,14 @@ wpwt
 wpwtj
 wpyt
 wr
-wr ḥkꜣw
 wr-A1
 wr-mꜣw
+wr-ḥkꜣw
 wr-ḫrp-ḥmwt
 wr:r
 wr:r-A1
 wr:r-H
+wr:r-H-kA:Z2-A40
 wr:r-S-i-i-hrw:A1
 wr:r-d-A7-nDs
 wr:r-m-t-O36
@@ -7476,7 +8525,7 @@ wr:r-r:*t-xt
 wr:r-rs-s-Q4
 wr:r-sw-w-xt
 wr:r:d-A7-ib:Z1
-wr:t
+wr:t«P30»
 wrH
 wrd
 wrd-jb
@@ -7502,6 +8551,7 @@ wrḏ
 wrḥ
 ws
 wsbꜣpsynꜣs
+wsdnw
 wsf
 wsfw
 wsir
@@ -7511,8 +8561,11 @@ wsn
 wspjsyns
 wsr
 wsr*s-r:*t-z:n
+wsr-kꜣ-rꜥ
+wsr-kꜣ.f
 wsr-mnṯw
 wsr-mꜣꜥt-rꜥ
+wsr-s-kA:f
 wsr-s-r-w-A24-Z2
 wsr-s-r:D40
 wsr-s-r:t*H8-I12
@@ -7520,6 +8573,7 @@ wsrt
 wsrw
 wst
 wstn
+wstnw
 wsx
 wsḫ
 wsḫt
@@ -7544,6 +8598,7 @@ wšš
 wˤ
 wˤb
 wḏ
+wḏ mdwt
 wḏ-md
 wḏ-mdw
 wḏb
@@ -7556,7 +8611,9 @@ wḏꜣ jb
 wḏꜣ n ꜥnḫ
 wḏꜣt
 wḏꜥ
+wḏꜥ mdwt
 wḥ3t
+wḥjꜥ
 wḥm
 wḥmmyt
 wḥmt
@@ -7567,9 +8624,12 @@ wḥyt
 wḥyw
 wḥꜣ
 wḥꜣt
+wḥꜣtjw
+wḥꜣtw
 wḥꜥ
 wḥꜥ ṯzzt
 wḥꜥt
+wḥꜥw
 wḫd
 wḫdt
 wḫdw
@@ -7586,6 +8646,7 @@ wꜣjwrjy
 wꜣr
 wꜣs
 wꜣsj
+wꜣsjr
 wꜣst
 wꜣstj
 wꜣsꜣjrkn
@@ -7638,18 +8699,25 @@ wꜥḥ
 wꜥꜣ
 wꜥꜥ
 wꜥꜥw
+x*F51:D6
 x*R7:z-Z9:D40-mw
 x*p:D
 x*p:S-F24
 x*p:S-F24:N14-A40
-x*p:d
 x*p:d-w-Z4
+x*p:d«D318»
 x*p:r-w-Y1:Z2
 x*t:U30*T14:N25
 x*t:Y1
 x*t:Y1:Z2
 x*t:f
 x*t:f-A13
+x*x:x
+x*x:x-D43
+x*x:x-a
+x*x:x-w
+x-A-A2
+x-A-f-A2
 x-A-pr-Z1
 x-O27
 x-SA-i*i:rw-SA
@@ -7663,28 +8731,41 @@ x-b-z:w-t:D3
 x-i-i-A17
 x-m-i-i-TAw
 x-m-w-TAw-Z3
-x-s-U34-f-A-t
+x-s-U34-f-A-t«F90»
 x-s-U35-A24
 x-s-b
 x-s-b-D-N33C
 x-s-b-D-N33C:Z2ss
 x-s-xsf-f:P1
+x-w
 x-w-f
 x-xA-A-U9
 x-xA-A-m-D41
 x-xA-A-w&t-R2
 x-xA-A-w-t:-R1
 x-xA-A-x:D54
+x:D43
 x:D43-f-w
 x:D43-w-Y1V
+x:D43-w-nDs
+x:D43-w-nDs:Z2
 x:D43-w-s-A34
 x:D52-t:Z1*Z1*Z1
+x:F51-A-X4:Z2
+x:F51-Q7
 x:L6-A-a
 x:L6-A-t-b
 x:a-s-a
+x:f-A-D54
+x:f-A-i-i-t:X4:Z2
+x:f-A-t-X4:Z2
+x:f-N21:Z2ss
+x:f-Q7
 x:f-W
+x:f-i-i-t:Y1:Z2
 x:f-w
 x:f-w:f
+x:f-y-i-i-mw-N36:N21*Z1-Z3
 x:f:t
 x:f:t*y-A13
 x:f:t-y-A14
@@ -7723,7 +8804,7 @@ x:p-p:Y1
 x:p-xpr-r
 x:pr
 x:r
-x:r-p-w
+x:r-p-w«P89»
 x:r-s
 x:r-xrw
 x:r-xrw-A2
@@ -7751,7 +8832,7 @@ xA-A-i-i-T14-T14-V1
 xA-A-i-i-V1
 xA-A-i-i-t-R1
 xA-A-i-i-t:Aa2-G37:Z2
-xA-A-i-i-tZ2
+xA-A-i-i-t««A98»:Z2»
 xA-A-m-D32
 xA-A-t:*r-w
 xA-A-t:Aa2-G37:Z2
@@ -7825,6 +8906,10 @@ xwfw
 xwi
 y
 y:A
+y:r*Z1-F51
+yh
+yhwꜣ
+yhꜣ
 ym
 ymw
 ynm
@@ -7833,6 +8918,8 @@ yqbꜥ-hr
 yrdwnꜣ
 ysrj3r
 ysrjꜣr
+ytwꜥw-bꜥr
+ytwꜥwj-bꜥr
 ywd-hmꜥrwk
 ywdh mꜥrwk
 ywm
@@ -7846,18 +8933,23 @@ yꜥpq-hr
 yꜥqb-hr
 yꜥqp-hr
 z
-z-A-T
+z-A-T«W54A»
 z-Ab-E17
 z-F27-b-E17
 z-G39*t
+z-Sw-Sw-Y8
+z-Sw-W:nDs
 z-b-E17
 z-b-H-bH-A2
 z-i-p:Y1
 z-m-i-i-t:xAst
+z-m-x:H_SPACE
 z-n-wsrt
 z-s-n:Z2
 z-s-t
+z-wA-A-N31:D54
 z-wn:n-T11
+z-w«W76»
 z::n
 z:A-b-E17
 z:A1
@@ -7867,20 +8959,34 @@ z:G39*t
 z:M3
 z:N*b-V6
 z:S-A-Y1
-z:S-S:t-Y8
+z:S-Y8
 z:S-d:V12
 z:S-m-m-Q7
+z:S-z:S«Y18»
+z:S:M-D35
+z:S:M-sxm
+z:S:S-Y8
+z:S:S-t
+z:S:S-t-Y8
+z:S:S-t«Y18»
+z:S:S«Y18»
 z:S:n-M9
 z:SA-A-F5-Y1
+z:S«Y18»
 z:T
 z:T:z-U40
-z:TS15
-z:TW10*H_SPACE*H_SPACE
+z:T«A133»
+z:T«A4B»«A135B»
+z:T«A6N»
+z:T«U39A»S15
+z:T««W45»:W10*H_SPACE*H_SPACE»
 z:U2-A-w
 z:U2-A-zmA-Y1
 z:U2-zmA-F51
 z:V16
 z:V9*W10A-V6
+z:W*W-Y8
+z:W-xA-A-nDs
 z:W10A*t
 z:Z1*A1
 z:Z4
@@ -7893,6 +8999,7 @@ z:f-z:F51-Q7
 z:f-z:f-Q7
 z:f:T-T30
 z:f:t-T30
+z:k:n-I3
 z:km-m-Y1V
 z:mH-H-P13
 z:mH:F18-P13
@@ -7913,8 +9020,12 @@ z:n:f:Z2
 z:p*t-N21
 z:p*t-spt:N21*Z1
 z:p*t-zp
+z:p*y-zp
 z:p*zp
+z:p*zp-T8
 z:p*zp-Z1-Z1
+z:p*zp-i-i-t:Z2ss
+z:p*zp-tp:p
 z:p-H-V1:D40
 z:p-pA-A-L5
 z:p-zp
@@ -7924,6 +9035,9 @@ z:r-E10
 z:r-i-E10
 z:r-w
 z:r-w-G54
+z:r:x-A2
+z:r:x-O33
+z:r:x-Y1V
 z:t
 z:t*B1
 z:t*F51-T30
@@ -7938,16 +9052,27 @@ z:t:M33
 z:t:N41*t-B1
 z:t:xAst
 z:w-z:x-W10:Y1
+z:wA-A-N31
 z:wn-n:X1-T11
+z:wr-W22
 z:wr:r-A2
-z:x*nw
+z:wr:r-W22
+z:wr:r-i-mw-A2
+z:wr:r-mw
+z:wr:r-mw-A2
+z:wr:r«D118»
+z:wr«D118»
+z:wr«W76»
+z:x*nw«D189»
+z:x-M:D35
 z:x-n:F51
 z:x-r:D40
 z:x-r:Y1
 z:x-w-W10:Y1
-z:x:n
-z:x:nF51
+z:x:n«D189»
+z:x:n«D189»F51
 z:x:r-T11-A24
+z:x«Aa56»«Y18»
 z:y
 z:z-m-E6
 z:z:D19
@@ -7963,6 +9088,7 @@ zA-Z1:H_SPACE-A40
 zA-Z1:H_SPACE-i-mn:n
 zA-Z1:H_SPACE-i-mn:n-G7
 zA-Z1:H_SPACE-st-t:H8
+zA-pr:Z1
 zA-st-t
 zA-t-B1
 zA-z
@@ -7974,8 +9100,10 @@ zb n sḏt
 zbj
 zbn
 zbṯ
+zf
 zfn
 zft
+zfw
 zfṯ
 zfṯyw
 zin:nw
@@ -8005,27 +9133,38 @@ znḥm
 zp
 zp 2
 zp snwj
+zp tp
+zp tpj
+zp-T8
 zp-Z1-Z1
-zp-tpj
+zp-tp
 zpj
 zpt
 zpwj snwj
+zpyt
 zpꜣ
 zr
 zrj
 zt
 zt-ḥmt
+zw
+zwj
 zwn
 zwnt
 zwnw
 zwr
+zwrj
 zwt
+zww
 zy
 zy nw
 zš
 zšj
 zšn
+zšwšw
 zšy
+zšzš
+zšš
 zššn
 zššt
 zšꜣ
@@ -8041,12 +9180,15 @@ zṯ
 zẖj
 zẖꜣ
 zẖꜣw
-zẖꜣw n ṯmꜣ
 zẖꜣw šꜥt
+zẖꜣw-mdw-nṯr
+zẖꜣw-n-ṯmꜣ
 zꜣ
 zꜣ-jmn
 zꜣ-nht
 zꜣ-nswt
+zꜣ-nḫt
+zꜣ-pr
 zꜣ-ptḥ
 zꜣ-rnnwtt
 zꜣ-rꜥ
@@ -8067,6 +9209,115 @@ zꜣwtj
 zꜣy
 zꜣṯ
 zꜣṯw
+«:«D283»Z7»
+«A101D»
+«A115»
+«A121C»
+«A282»
+«A291»
+«A36A»t:y
+«A410»
+«A62»A1
+«A73»
+«A73»Z1
+«Aa11w»xrw
+«Aa56»w
+«Aa58»
+«B51»sn-n:i*i
+«C11B»
+«C232»
+«C7A»D40:t
+«C7A»n:xt:x*t-A24
+«C7A»t:D40
+«D154»
+«D218»
+«D283»W*y:pr
+«D304»t*t:N25
+«D310»D26
+«D46D»
+«E100»ib:Z1
+«E151»
+«E152»
+«E154A»
+«E186»
+«E35»
+«E35»Hr:Z1
+«E35»Sw
+«E92B»ib:Z1
+«F90»
+«G100»Z3
+«G104»
+«G106»
+«G106»A19
+«G108»N6:t
+«G142»
+«G161»
+«G162»
+«G56»A-t:Z5
+«G56»i-i-D40
+«G56»i-i-a:D40
+«G56»i-i-a:N35B
+«G56»i-i-a:N35B-D40
+«G56»i-i-mw-D40
+«G57»G38-K5:X4-Z3
+«G57»r-Q7
+«G57»t-S8
+«G58»D49
+«G58»E22
+«G58»G5-Z1:H_SPACE
+«G58»M-Q7
+«G66»W:y
+«H18»
+«H18»md
+«H18»md-md-md
+«Hr:«D153»»t:N36
+«I24»
+«K13»
+«L19»
+«M131A»K3
+«M51»
+«M86»
+«M86»Hn
+«N11z»ms
+«N62A»Xrd
+«N62A»ms
+«N62A»ms-s
+«N62A»ms-s-B3
+«N62A»ms-s-D40
+«N62A»ms:z
+«N6B»G5-t
+«O292»
+«O307»
+«O62»pr
+«O64»
+«Q37»«Q37»
+«R119»
+«R18A»b-t*t:xAst-niwt
+«R50»r:N25
+«S151»t:t-W22
+«S152A»
+«S152B»
+«S152»t:t
+«S152»t:t-W22
+«S158»A40
+«S158»D40
+«S158»Z9:D40
+«S158»t:H8
+«S159»
+«S44A»
+«S44A»ib
+«S44A»nTr
+«U29A»t:H8-wDAt
+«U29A»wDAt-pt
+«U68»
+«U68»pr
+«V27v»t:P3
+«W10B»SA-i-i-A-rw-SA-A
+«g:«D153»»k-G37
+«z:«W65» w»i«W76»
+«z:«W65» w»«W76»
+««D189»:Y1»
+««E151»:Z1»
 Černý considers this a variant ofmrw rather than mryt
 š
 š3
@@ -8093,6 +9344,7 @@ zꜣṯw
 šfy
 šfyt
 šfꜣ
+šjw
 škr
 škrw
 šmj
@@ -8132,10 +9384,13 @@ zꜣṯw
 šnꜥ
 šnꜥtj
 šnꜥw
+šp
 šps
 šps wnwt bjnt
 špsj
 špss
+špss-kꜣ-rꜥ
+špss-kꜣ.f
 špss-ptḥ
 špssw
 špst
@@ -8152,9 +9407,9 @@ zꜣṯw
 šsp
 šspt
 šspt-dḫn
-šspw
 šsr
 šsꜣ
+šsꜣ m mdw-nṯr
 šsꜣw
 št
 št3w
@@ -8166,6 +9421,9 @@ zꜣṯw
 šw
 šwj
 šwt
+šww
+šwwt
+šwy
 šwꜣw
 šzp
 šzp bjꜣt
@@ -8180,6 +9438,7 @@ zꜣṯw
 šzp ꜣwt-jb
 šzp ꜥḥꜣ r
 šzpt
+šzpw
 ššnq
 ššy
 šṯw
@@ -8212,7 +9471,7 @@ zꜣṯw
 šꜣšꜣqꜣ
 šꜣ…
 šꜣꜥ
-šꜣꜥ-r
+šꜣꜥ r
 šꜥ
 šꜥd
 šꜥj
@@ -8268,8 +9527,12 @@ zꜣṯw
 ḏbꜥwt
 ḏbꜥyt
 ḏd
+ḏd pw
 ḏd ꜥnḫ
+ḏd-kꜣ-rꜥ
+ḏd-kꜣ-ḥr
 ḏd-mdw
+ḏd-mdwt
 ḏd-pꜣ-nṯr-jw.f-ꜥnḫ
 ḏd-ḥr
 ḏdb
@@ -8343,6 +9606,7 @@ zꜣṯw
 ḏꜣj tꜣ
 ḏꜣjs
 ḏꜣjw
+ḏꜣm
 ḏꜣmꜥ
 ḏꜣr
 ḏꜣt
@@ -8367,7 +9631,17 @@ zꜣṯw
 ḥbbt
 ḥbnnwt
 ḥbs
+ḥbs bhn
+ḥbs bht
+ḥbs ḥr r
+ḥbs-bgt
+ḥbs-bꜣg
+ḥbs-nṯr
+ḥbs-sꜣy
+ḥbs-ḫprw
+ḥbstw
 ḥbsw
+ḥbswt
 ḥbsyt
 ḥbw
 ḥbꜣbꜣ
@@ -8388,6 +9662,7 @@ zꜣṯw
 ḥm-nswt
 ḥm-nṯr
 ḥm-nṯr tpj
+ḥm-nṯr-tpj
 ḥmj
 ḥmmt
 ḥmsj
@@ -8416,6 +9691,7 @@ zꜣṯw
 ḥnqt
 ḥns
 ḥnt
+ḥntj
 ḥnw
 ḥnwt
 ḥnwt-tꜣwj
@@ -8449,7 +9725,6 @@ zꜣṯw
 ḥr jꜣmw
 ḥr mj
 ḥr mr.f
-ḥr nbw
 ḥr ntt
 ḥr snnw sy
 ḥr sꜣ
@@ -8463,40 +9738,56 @@ zꜣṯw
 ḥr ꜥwj
 ḥr-bḥdt
 ḥr-bḥdtj
-ḥr-bḥdtj ()
-ḥr-dšrt ()
-ḥr-jwn-mwt.f ()
-ḥr-kꜣ-pt ()
-ḥr-m-jrtj ()
+ḥr-dšrt
+ḥr-jwn-mwt.f
+ḥr-kꜣ-pt
+ḥr-m-jrtj
+ḥr-m-pr.f
 ḥr-m-ḥꜣt
 ḥr-m-ꜣḫt
-ḥr-m-ꜣḫt ()
 ḥr-m-ꜣḫt-ḫprj-rꜥ-tm
+ḥr-m-ꜥḥ.f
 ḥr-nb
+ḥr-nb-ꜥḥ
+ḥr-nbw
+ḥr-nḏ-jt.f
+ḥr-p-ẖrd
 ḥr-pr
-ḥr-pꜣ-ẖrd ()
+ḥr-pꜣ-ẖrd
 ḥr-tp
 ḥr-wps-tꜣwj
-ḥr-wr ()
+ḥr-wr
+ḥr-wrw
 ḥr-wḏꜣ
-ḥr-zmꜣ-tꜣwj ()
+ḥr-zmꜣ-tꜣwj
+ḥr-zmꜣj-tꜣwj
 ḥr-zꜣ-ꜣst
 ḥr-ḏd.f
+ḥr-ḥrw
+ḥr-ḥrw-m-ꜣḫt.f
+ḥr-ḥrw-wnnw-mṯnw.sn
+ḥr-ḫw
+ḥr-ẖrd
+ḥr-ꜣḫt
 ḥr-ꜣḫtj
 ḥrj
 ḥrj jb
+ḥrj sštꜣ n mdw-nṯr
 ḥrj-pr
 ḥrj-pḏt
 ḥrj-sštꜣ
 ḥrj-tp
 ḥrj-wḏb
-ḥrjt
 ḥrr
 ḥrrt
 ḥrrwt nbt
 ḥrt
 ḥrt jb
+ḥrt-nbw
+ḥrt-nḏt-jt.s
 ḥrt-pr
+ḥrtj
+ḥrtt
 ḥrw
 ḥrw r
 ḥrwrw
@@ -8519,9 +9810,9 @@ zꜣṯw
 ḥtm
 ḥtp
 ḥtp m ꜥnḫ
+ḥtp ḏj
+ḥtp ḏj nswt
 ḥtp-sḫmwj
-ḥtp-ḏj
-ḥtp-ḏj-nswt
 ḥtp-ḥr.s
 ḥtpt
 ḥtpw
@@ -8536,6 +9827,8 @@ zꜣṯw
 ḥwj
 ḥwj ꜣ
 ḥwn
+ḥwnj
+ḥwnj r ḥr
 ḥwnt
 ḥwnwt
 ḥwrw
@@ -8545,8 +9838,12 @@ zꜣṯw
 ḥwt-jbṯt
 ḥwt-kꜣ-ptḥ
 ḥwt-nṯr
+ḥwt-sḫm
 ḥwt-wꜥrt
+ḥwt-zššt
 ḥwt-ḥr
+ḥwt-ḥr-ḥrw
+ḥwt-ḥr-ḥrw-nt-ḥr-ḥrw
 ḥwt-ꜥꜣt
 ḥwtt
 ḥww
@@ -8601,11 +9898,12 @@ zꜣṯw
 ḥꜣt-ꜥ
 ḥꜣt-ꜥ m
 ḥꜣtj
-ḥꜣtj n bjꜣ ()
+ḥꜣtj n bjꜣ
 ḥꜣtj-ꜥ
 ḥꜣtjw
 ḥꜣtt
 ḥꜣw
+ḥꜣw ḥbs.tw
 ḥꜣw-nbw
 ḥꜣw-nbwt
 ḥꜣwj-nbwj
@@ -8644,6 +9942,9 @@ zꜣṯw
 ḫbzwt
 ḫbꜣ
 ḫdj
+ḫf
+ḫfj
+ḫfjy
 ḫft
 ḫft jrj
 ḫft ntt
@@ -8651,6 +9952,11 @@ zꜣṯw
 ḫftj
 ḫftt
 ḫftw
+ḫfyt
+ḫfꜣ
+ḫfꜣj
+ḫfꜣt
+ḫfꜣyt
 ḫfꜣꜣt
 ḫfꜥ
 ḫjt
@@ -8660,7 +9966,6 @@ zꜣṯw
 ḫmnw
 ḫmnyw
 ḫmt
-ḫmt ()
 ḫmt-rw
 ḫmtnw
 ḫmtw
@@ -8749,10 +10054,10 @@ zꜣṯw
 ḫsfj
 ḫsr
 ḫt
+ḫt n šnj
 ḫt n ˤnḫ
 ḫt n ꜥnḫ
 ḫt pr
-ḫt-n-šnj
 ḫt-ꜥꜣ
 ḫtj
 ḫtjw tꜣ
@@ -8773,6 +10078,7 @@ zꜣṯw
 ḫwj
 ḫwj.f-wj
 ḫwsj
+ḫww
 ḫwzj
 ḫy
 ḫšꜣyrwšꜣ
@@ -8780,11 +10086,11 @@ zꜣṯw
 ḫˤw
 ḫḫ
 ḫꜣ
-ḫꜣ tꜣ
 ḫꜣ-tꜣ
 ḫꜣb
 ḫꜣbbšꜣ
 ḫꜣbꜣbꜣšꜣ
+ḫꜣf
 ḫꜣj
 ḫꜣjt
 ḫꜣjw
@@ -8811,6 +10117,7 @@ zꜣṯw
 ḫꜣꜥ ḥr wꜣt
 ḫꜣꜥ ḥꜣ
 ḫꜥ
+ḫꜥ-bꜣ
 ḫꜥ-m-wꜣst
 ḫꜥ-n-wꜣst
 ḫꜥ-sḫmwj
@@ -8863,7 +10170,10 @@ zꜣṯw
 ṯwfj
 ṯwfy
 ṯwn
+ṯwpꜣjr
+ṯwpꜣjr ydjꜥꜣ
 ṯwr
+ṯwrj
 ṯwt
 ṯz
 ṯz-pẖr
@@ -8903,10 +10213,11 @@ zꜣṯw
 ẖnmt-nfr-ḥḏt
 ẖnmw
 ẖnmw-ḥtp
+ẖnmw-ḫw.f-wj
 ẖnn
 ẖnnw
 ẖnt
-ẖnt ḥwt-ḥr
+ẖnt-ḥwt-ḥr
 ẖntj
 ẖnw
 ẖnwt
@@ -8941,6 +10252,7 @@ zꜣṯw
 ẖt
 ẖt.f
 ẖtj
+ẖz
 ẖzj
 ẖꜣk
 ẖꜣk-jb
@@ -8966,15 +10278,15 @@ zꜣṯw
 ꜣbt
 ꜣbtt
 ꜣbw
-ꜣbw šmꜥt
 ꜣbw-nṯr
+ꜣbw-šmꜥt
 ꜣbwd
 ꜣbwj
 ꜣbwj-nṯr
 ꜣbwt
 ꜣby
-ꜣby mḥw
-ꜣby šmꜥ
+ꜣby-mḥw
+ꜣby-šmꜥ
 ꜣbyt
 ꜣbḏw
 ꜣbḏwt
@@ -9229,6 +10541,7 @@ zꜣṯw
 ꜥnḫ ḏt mj rꜥ
 ꜥnḫ ḥtp
 ꜥnḫ-jmj
+ꜥnḫ-n-mšꜥ
 ꜥnḫ-n-nwt
 ꜥnḫ-nṯr
 ꜥnḫ-tꜣwj
@@ -9272,21 +10585,24 @@ zꜣṯw
 ꜥrꜥt
 ꜥrꜥyt
 ꜥsṯjrṯt
+ꜥsṯrdt
 ꜥsṯrtj
+ꜥsṯt
 ꜥt
 ꜥt nt ḫt
-ꜥt sbꜣw
+ꜥt-jf
+ꜥt-jwf
+ꜥt-sbꜣw
 ꜥtḫ
+ꜥtḫw
 ꜥw
 ꜥwj
-ꜥwn-jb
+ꜥwn jb
 ꜥwt
 ꜥwꜣ
 ꜥwꜣj
 ꜥwꜣy
 ꜥwꜥw
-ꜥzṯjrṯt
-ꜥzṯrtj
 ꜥš
 ꜥšm
 ꜥšꜣ
@@ -9296,6 +10612,8 @@ zꜣṯw
 ꜥḏ-jb
 ꜥḏt
 ꜥḥ
+ꜥḥ-rmyt
+ꜥḥ-wr
 ꜥḥꜣ
 ꜥḥꜣtj
 ꜥḥꜣw
@@ -9304,15 +10622,15 @@ zꜣṯw
 ꜥḥꜥ
 ꜥḥꜥ.n
 ꜥḥꜥw
+ꜥḫj
 ꜥḫm
 ꜥḫmt
 ꜥḫmwt
+ꜥḫy
 ꜥḫḫw
-ꜥẖ
 ꜥẖj
 ꜥẖm
 ꜥẖmw nw ꜣḫt
-ꜥẖy
 ꜥꜣ
 ꜥꜣ n jzwt
 ꜥꜣ n št
@@ -9329,6 +10647,8 @@ zꜣṯw
 ꜥꜣnbpꜣjr
 ꜥꜣpp
 ꜥꜣppj
+ꜥꜣsjty
+ꜥꜣstjr
 ꜥꜣt
 ꜥꜣt bjꜣt
 ꜥꜣt nt ẖr
@@ -9349,7 +10669,6 @@ zꜣṯw
 ꜥꜥnꜣ
 ꜥꜥnꜥ
 ꜥꜥw
-ꜥꜥw ()
 ꜥꜥwj
 𒁉𒁕𒌑 (14th bce cuneiform)
 𒄑𒊭𒌑 (14th century bce cuneiform)
@@ -9360,6 +10679,7 @@ zꜣṯw
 𒉿𒅆𒀉 (14th bce cuneiform)
 𓀀
 𓀁
+𓀂
 𓀐
 𓀠
 𓁐
@@ -9383,6 +10703,7 @@ zꜣṯw
 𓂋
 𓂝
 𓂧
+𓂻
 𓃀
 𓃭
 𓃰

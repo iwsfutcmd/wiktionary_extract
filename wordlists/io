@@ -63,6 +63,7 @@
 -int-
 -io
 -ir
+-irar
 -is
 -ist
 -ist-
@@ -202,17 +203,14 @@ Biblo
 Bielorusia
 Bielorusiala
 Bielorusiana
-Bielorusiana ()
 Bielorusiano
-Bielorusiano ()
+Bishkek
 Blanka Domo
 Blanka-Monto
 Bosnia e Herzegovina
 Brazilia
 Braziliana
-Braziliana ()
 Braziliano
-Braziliano ()
 Brekiro
 Bruxel
 Bucarest
@@ -274,6 +272,7 @@ Espista
 Espisti
 Espisto
 Espo
+Estal Azia
 Ester
 Estonia
 Etoliano
@@ -304,6 +303,7 @@ Francianino
 Franciano
 Francino
 Franco
+Frankfurt
 G
 Galatiani
 Gaskonia
@@ -313,6 +313,7 @@ Genova
 Gent
 Genève
 Germana
+Germana Imperio
 Germani
 Germania
 Germaniana
@@ -387,14 +388,14 @@ Izraelano
 Izraelidi
 Izraelido
 J
+Jaipur
 Jamaika
 Jamaikana
 Jamaikano
 Japonana
 Japonia
-Japoniana ()
+Japoniana
 Japoniano
-Japoniano ()
 Japono
 Jordan
 Jordania
@@ -451,7 +452,6 @@ Kuwait
 L
 L'Internacionalo
 LI
-La Republiko di Korea
 Lago Viktoria
 Lamenti
 Laos
@@ -463,6 +463,7 @@ Lasta Supeo
 Latina
 Latinal alfabeto
 Latvia
+Leningrad
 Leono
 Levitiko
 Libano
@@ -479,26 +480,6 @@ Luxemburgia
 M
 MMI
 Macedonia
-Main:palpebraganta
-Main:palpebragante
-Main:palpebraganti
-Main:palpebraganto
-Main:palpebragar
-Main:palpebragas
-Main:palpebragez
-Main:palpebraginta
-Main:palpebraginte
-Main:palpebraginti
-Main:palpebraginto
-Main:palpebragir
-Main:palpebragis
-Main:palpebragonta
-Main:palpebragonte
-Main:palpebragonti
-Main:palpebragonto
-Main:palpebragor
-Main:palpebragos
-Main:palpebragus
 Makiavelismo
 Malaizia
 Malakias
@@ -562,6 +543,7 @@ Ocitaniana
 Olimpia
 Oman
 Osee
+Osh
 Otoman imperio
 Ouagadougou
 P
@@ -581,6 +563,7 @@ Pater
 Persiana
 Persiana gulfo
 Peruano
+Petrograd
 Petrus
 Piemont
 Piemontana
@@ -611,6 +594,7 @@ Reda maro
 Reji
 Republiko Socialista Sovietiana di Ukraina
 Republiko Texas
+Republiko di Korea
 Republiko di Norda-Macedonia
 Republiko di Sudafrika
 Rhenlando
@@ -622,6 +606,7 @@ Romancha
 Romani
 Ruda Placo
 Rumania
+Rusa imperio
 Rusia
 Ruto
 S
@@ -631,6 +616,7 @@ Sahara
 Samosata
 Samuel
 San-Marino
+Sankt-Peterburg
 Sanskriti
 Sanskrito
 Sardinia
@@ -640,6 +626,7 @@ Saturno
 Saxonia
 Semida
 Semidala
+Senegalano
 Serbia
 Shanghai
 Sicilia
@@ -690,18 +677,18 @@ Troya
 Tunizia
 Turingia
 Turingiano
-Turka ()
+Turka
 Turkia
 Turkiana
-Turkiana ()
-Turkiano ()
-Turko ()
+Turkiano
+Turko
 Turmo Eiffel
 Turmo di London
 Turo di Francia
 U
 Ukraina
 Unesma Mondo-Milito
+Unionita Araba Republiko
 Unionita Nacioni
 Unionita Rejio
 Unionita Stati di Amerika
@@ -933,14 +920,13 @@ abortala
 abortar
 abortas
 abortez
-abortiganta ()
+abortiganta
 abortigar
-abortigar ()
 abortigez
 abortigilo
 abortigiva
 abortigivo
-abortigo ()
+abortigo
 abortis
 aborto
 abortos
@@ -1002,7 +988,7 @@ abreviuro
 abrevius
 abrikotea
 abrikoti
-abrikotiero ()
+abrikotiero
 abrikoto
 abrogar
 abrogo
@@ -1086,11 +1072,11 @@ acendus
 acensanta
 acensar
 acensas
-acenseyo ()
+acenseyo
 acensez
 acensilo
 acensis
-acenso rekta ()
+acenso rekta
 acenso-festo
 acensos
 acensus
@@ -1103,14 +1089,13 @@ aceptanta
 aceptante
 aceptanti
 aceptanto
-aceptanto ()
 aceptar
 aceptas
 aceptata
 aceptate
 aceptati
 aceptato
-aceptebla ()
+aceptebla
 aceptez
 aceptinda
 aceptinta
@@ -1171,17 +1156,12 @@ aden
 adepto
 adequata
 adfluar
-adfluar ()
 adfluo
-adheme
 adheranta
-adheranta ()
 adheranto
 adherar
 adherema
-adherema ()
 adheremeso
-adheremeso ()
 adherigar
 adherigas
 adherigez
@@ -1212,6 +1192,7 @@ adicionos
 adicionus
 adio
 adios
+adirar
 adjacanta
 adjacar
 adjektiva
@@ -1232,7 +1213,7 @@ adjustigez
 adjustigis
 adjustigos
 adjustigus
-adlatere ()
+adlatere
 admaxime
 adminime
 administranti
@@ -1393,14 +1374,16 @@ aeri
 aerizar
 aero
 aeroflueto
-aeroflueto ()
 aerojelo
 aeroliti
 aerolito
+aeronautiko
 aeronavi
+aeronavigado
 aeronavo
 aeroplani
 aeroplano
+aeroportui
 aeroportuo
 aeropumpilo
 aerosako
@@ -1468,7 +1451,7 @@ agendo
 ageskar
 agez
 agi
-agigar ()
+agigar
 aginta
 aginte
 aginti
@@ -1609,6 +1592,7 @@ agro
 agrokultiva
 agrokultivala
 agrokultivi
+agrokultivisti
 agrokultivisto
 agrokultivo
 agromezuro
@@ -1623,7 +1607,7 @@ agulo-truo
 agus
 ah
 ajila
-ajiotar ()
+ajiotar
 ajornar
 ajornas
 ajornez
@@ -1704,6 +1688,7 @@ akra
 akrochar
 akromio
 aktiva
+aktiveso
 aktivisto
 akto
 aktorala
@@ -1801,6 +1786,7 @@ albergestri
 albergestro
 albergi
 albergo
+albumeni
 albumenizar
 albumeno
 albumino
@@ -1865,13 +1851,16 @@ almoni
 almonisto
 almono
 almonokesto
-almonoza ()
+almonoza
 alo
 alonge
+alongirar
 aloo
 alopecii
 alopecio
 alostroko
+alotropa
+alotropeso
 alpako
 alta
 altagrade
@@ -1936,9 +1925,7 @@ altrigis
 altrigos
 altrigus
 altro
-altro ()
 altru
-altru ()
 altrube
 altruismo
 altruisto
@@ -1996,6 +1983,8 @@ amebi
 amebo
 amegata
 ameliorar
+ameliorebla
+amelioro
 amema
 amendo
 ameskar
@@ -2012,7 +2001,6 @@ amikala
 amikalajo
 amikale
 amikeskar
-amikeskar ()
 amikeskez
 amikeso
 amiki
@@ -2047,7 +2035,7 @@ amorato
 amoratuli
 amoratulo
 amordeklaro
-amordeo ()
+amordeo
 amoregar
 amoregata
 amorema
@@ -2078,7 +2066,6 @@ amortisajo
 amortisar
 amortisebla
 amortisilo
-amortisilo ()
 amortisita kuglo
 amortiso
 amortisuro
@@ -2110,7 +2097,6 @@ amuzoparko
 amuzos
 amuzus
 an
-an ()
 an-
 anabaptismo
 anabiosi
@@ -2170,6 +2156,7 @@ anhelabez
 anhelabis
 anhelabos
 anhelabus
+anhelado
 anhelanta
 anhelante
 anhelanti
@@ -2182,12 +2169,14 @@ anheligar
 anheligez
 anhelinta
 anhelinte
+anhelinti
 anhelinto
 anhelir
 anhelis
 anhelo
 anhelonta
 anhelonte
+anhelonti
 anhelonto
 anhelor
 anhelos
@@ -2236,7 +2225,6 @@ anmo
 anodo
 anso
 ante
-ante ()
 ante-
 antea
 antee
@@ -2288,6 +2276,7 @@ antiquarko
 antiqueso
 antitoxini
 antitoxino
+antologii
 antologio
 antraxo
 antropoida
@@ -2310,6 +2299,8 @@ anxiis
 anxios
 anxioza
 anxius
+aorti
+aortitala
 aortito
 aorto
 apanajizar
@@ -2405,6 +2396,7 @@ apogar
 apogarko
 apogas
 apogez
+apogili
 apogilo
 apogis
 apogos
@@ -2472,6 +2464,7 @@ aquofonto
 aquoguteto
 aquomeloniero
 aquomelono
+aquovortici
 aquovortico
 aquoza
 aquuyo
@@ -2662,8 +2655,11 @@ arkopetro
 arktiko
 arlekino
 armadilo
+armarkeri
 armarkero
+armarki
 armarkiero
+armarkisti
 armarkisto
 armarko
 armaturi
@@ -2747,7 +2743,7 @@ arozar
 arozegar
 arozetar
 artaleso
-artema ()
+artema
 artemizio
 arteriala
 arterieto
@@ -2778,11 +2774,13 @@ artokarpi
 artokarpo
 artokarpofrukti
 artokarpofrukto
-artokarpofrukto ()
 artoverki
 artoverko
 artrodio
+asasinanto
 asasinar
+asasinero
+asasinisto
 asekuro
 aselo
 asemblabez
@@ -3042,17 +3040,16 @@ auditi
 audito
 augmentar
 augmentas
-augmenteso ()
+augmenteso
 augmentez
 augmentir
 augmentis
 augmentiva
 augmentivo
 augmento
-augmento ()
 augmentor
 augmentos
-augmenturo ()
+augmenturo
 augmentus
 augurar
 auguras
@@ -3103,6 +3100,7 @@ autori
 autoro
 autoro-yuro
 autoroyuro
+autoryuri
 autoryuro
 autostopar
 autostopero
@@ -3119,7 +3117,6 @@ avalancho
 avalanchos
 avalanchus
 avalizar
-avalizar ()
 avalo
 avan
 avana
@@ -3128,6 +3125,7 @@ avancar
 avanchambro
 avancigar
 avane
+avanirar
 avano
 avantaji
 avantajo
@@ -3138,7 +3136,6 @@ avareso
 avelanea
 avelani
 avelaniero
-avelaniero ()
 avelano
 averajala
 averaji
@@ -3169,7 +3166,6 @@ avo
 avokadea
 avokadi
 avokadiero
-avokadiero ()
 avokado
 avuli
 avulo
@@ -3177,6 +3173,7 @@ axelo
 axi
 axiomala
 axiomatra
+axiomi
 axiomo
 axiono
 axo
@@ -3248,9 +3245,9 @@ babilus
 babucho
 babuini
 babuino
+bachelero
 bagajo
 bagajuyo
-baito
 bakanta
 bakante
 bakanti
@@ -3334,7 +3331,7 @@ baloneto
 baloni
 balono
 balotear
-balotvoto ()
+balotvoto
 balustrado
 balzamala
 balzami
@@ -3350,7 +3347,6 @@ balzamoza
 bananea
 banani
 bananiero
-bananiero ()
 banano
 bandaji
 bandajizabez
@@ -3475,6 +3471,7 @@ barelo de vino
 barelo-boko
 barelo-robineto
 bari
+baricentri
 baricentro
 barili
 barilo
@@ -3685,6 +3682,7 @@ benketo
 benki
 benko
 bento-sufleto
+benzeno
 beo
 berberisi
 berberisiero
@@ -3694,7 +3692,7 @@ berenjeni
 berenjeniero
 berenjeno
 bergamoti
-bergamotiero ()
+bergamotiero
 bergamoto
 beriberio
 berilio
@@ -3725,6 +3723,7 @@ bezonos
 bezonus
 bi-
 biblala
+bibli
 biblio
 bibliofilo
 bibliografio
@@ -3751,6 +3750,7 @@ bideti
 bideto
 bifacia
 bifsteko
+bifurkostaciono
 bigama
 bigamesi
 bigameso
@@ -3813,6 +3813,7 @@ biomasi
 biomaso
 biomekaniko
 biomekanismo
+bioritmi
 bioritmo
 biosferi
 biosfero
@@ -3821,7 +3822,6 @@ bipeda
 bipedo
 biplano
 bipunto
-bipunto ()
 birefraktar
 biremo
 biri
@@ -3831,7 +3831,7 @@ biro
 birobarelo
 biroglaso
 bis!
-bisako ()
+bisako
 bisekar
 bisextila
 bisextila dio
@@ -3853,7 +3853,6 @@ bisulfidi
 bisulfido
 biti
 bito
-bitoko
 bitra
 bitrajo
 bitre
@@ -3972,6 +3971,7 @@ boki
 boko
 bokoligar
 bokostopar
+bokotuki
 bokotuko
 boledo
 boliar
@@ -4037,6 +4037,7 @@ bonchancoza
 bondezirar
 bondeziro
 bone
+bone judikanta
 bonega
 bonege
 bonegeso
@@ -4044,12 +4045,12 @@ boneso
 bonfacanta
 bonfacanto
 bonfacar
-bonfacar ()
 bonfacema
 bonfacemeso
 bonfacera
 bonfacero
 bonfaceso
+bonfaci
 bonfaco
 bonhumora
 bonigar
@@ -4119,7 +4120,7 @@ boros
 borota
 borote
 boroto
-boruro ()
+boruro
 borus
 bosajo
 boski
@@ -4253,6 +4254,7 @@ bravaji
 bravajo
 bravesi
 braveso
+brazar
 brechi
 brechizabez
 brechizabis
@@ -4292,6 +4294,7 @@ brechizoto
 brechizus
 brecho
 bremo
+bretel-pari
 bretel-paro
 breteli
 bretelo
@@ -4400,7 +4403,7 @@ brulanto
 brular
 brulas
 brulebla
-bruleso ()
+bruleso
 bruletar
 brulez
 bruli
@@ -4461,7 +4464,7 @@ brunisote
 brunisoti
 brunisoto
 brunisus
-bruol ()
+bruol
 brusar
 bruska
 brutala
@@ -4491,6 +4494,7 @@ bucheyo
 buchus
 budjeti
 budjeto
+bujii
 bujio
 buketo
 buklagar
@@ -4539,7 +4543,8 @@ busto
 butani
 butano
 butanoza
-butik-asortajo ()
+butar
+butik-asortajo
 butiki
 butikisti
 butikisto
@@ -4731,12 +4736,10 @@ cerebro
 cerizea
 cerizi
 ceriziero
-ceriziero ()
 cerizo
 cernar
 certa
 certajo
-certajo ()
 certe
 certena
 certesi
@@ -4843,6 +4846,7 @@ chamea
 chamo
 chamopelo
 champiniono
+championesi
 championeso
 championo
 championo-konkurso
@@ -4922,6 +4926,7 @@ charmor
 charmos
 charmus
 charniragar
+charniri
 charnirizar
 charniro
 charo
@@ -4967,6 +4972,7 @@ chasta
 chastesi
 chasteso
 chasus
+chau
 che
 chef-balustro
 chef-urbo
@@ -5065,6 +5071,7 @@ cinematografilo
 cinematografuro
 cinemi
 cinemo
+cinetik energio
 ciniki
 ciniko
 cintileto
@@ -5074,7 +5081,6 @@ cintilo
 cipresi
 cipreso
 cirajizar
-cirajizar ()
 cirajizas
 cirajizez
 cirajizis
@@ -5125,7 +5131,6 @@ cirkumirante
 cirkumiranti
 cirkumiranto
 cirkumirar
-cirkumirar ()
 cirkumiras
 cirkumirata
 cirkumirate
@@ -5157,7 +5162,7 @@ cirkumirus
 cirkumjacanta
 cirkumklozar
 cirkumklozez
-cirkumlekar ()
+cirkumlekar
 cirkummuro
 cirkumnavigo
 cirkumpola
@@ -5169,10 +5174,8 @@ cirkumvicina
 cis
 cis-
 cisa
-cisa ()
 cisalpa
 cise
-cise ()
 citajo
 citanta
 citante
@@ -5221,7 +5224,6 @@ citrus-frukti
 citrus-frukto
 citrusfrukti
 citrusfrukto
-citrusfrukto ()
 citrusi
 citruso
 citruso-frukti
@@ -5280,6 +5282,7 @@ damo
 damopeco
 damoplanko
 damostono
+damzelacho
 damzeli
 damzelo
 danjera
@@ -5343,7 +5346,6 @@ darfus
 darnar
 dateli
 dateliero
-dateliero ()
 datelo
 datumari
 datumaro
@@ -5486,6 +5488,7 @@ decimalo
 decimetri
 decimetro
 dedikar
+dedikir
 dedop
 deeso
 defekto
@@ -5594,7 +5597,10 @@ delikata
 delikateso
 deltoido
 demagogo
+demandajo
+demandanto
 demandar
+demando
 demarshar
 dementa
 dementerio
@@ -5999,8 +6005,8 @@ desmanchizar
 desmariajo
 desmaskuligar
 desmastizar
+desmeritar
 desmetar
-desmetar ()
 desmoblizar
 desmoblizita
 desmonetigar
@@ -6068,7 +6074,6 @@ desplasizar
 desplezuri
 desplezuro
 desplumizar
-desplumizar ()
 desplumizo
 despopulara
 despopularigar
@@ -6147,13 +6152,13 @@ dessepultota
 dessepultus
 dessiglar
 desskrubagar
-desskrubagar ()
 desstrandigar
 dessutar
 destektizar
 destensili
 destensilo
 destino
+destinostaciono
 destranquila
 destrompar
 destronizar
@@ -6196,7 +6201,6 @@ desvirgigis
 desvirgigos
 desvirgigus
 desvisar
-desvisar ()
 deszonizar
 deszonizas
 deszonizez
@@ -6298,14 +6302,39 @@ devastoti
 devastoto
 devastus
 developado
+developanta
+developante
+developanti
+developanto
 developar
 developas
+developata
+developate
+developati
+developato
 developeso
 developez
+developinta
+developinte
+developinti
+developinto
+developir
 developis
 developita
+developite
+developiti
+developito
 developo
+developonta
+developonte
+developonti
+developonto
+developor
 developos
+developota
+developote
+developoti
+developoto
 developus
 devez
 deviacar
@@ -6341,7 +6370,6 @@ deziro
 deziros
 dezirus
 di
-di ()
 di + la
 di qua
 diabasi
@@ -6385,6 +6413,7 @@ dicato
 dice
 dicemeso
 dicernar
+dicernema
 dicez
 dicionario
 diciono
@@ -6446,7 +6475,7 @@ digi
 digitalo
 digitigrada
 digitigrado
-digizar ()
+digizar
 digna
 digneso
 digo
@@ -6456,6 +6485,7 @@ dii di la semano
 dika
 dikigar
 diktamo
+diktatoreso dil proletariaro
 dil
 dilatar
 dilatas
@@ -6535,19 +6565,21 @@ diplasar
 diplasas
 diplasez
 diplasis
-diplasopezo ()
+diplasopezo
 diplasos
 diplasus
 diploida
 diplomatiko
 diplomi
 diplomo
+diporto
 direciono
 direktadi
 direktado
 direktar
 direktas
 direktebla
+direkteblo
 direktez
 direktis
 direktiva
@@ -6570,6 +6602,7 @@ disciplinos
 disciplinoti
 disciplinus
 disenterio
+disho
 disidento
 disimulanta
 disimular
@@ -6717,10 +6750,11 @@ distraktis
 distrakto
 distraktos
 distraktus
-distranchar ()
+distranchar
 distributar
 distrikti
 distrikto
+ditirambo
 divenar
 divereso
 divergar
@@ -6759,6 +6793,7 @@ divorcus
 dizastri
 dizastro
 dizastroza
+dizel-motoro
 djin
 do
 doario
@@ -6809,7 +6844,6 @@ dolorante
 doloranti
 doloranto
 dolorar
-dolorar ()
 doloras
 dolorez
 dolori
@@ -6818,11 +6852,9 @@ dolorigabis
 dolorigabos
 dolorigabus
 doloriganta
-doloriganta ()
 dolorigante
 doloriganto
 dolorigar
-dolorigar ()
 dolorigas
 dolorigata
 dolorigate
@@ -6864,6 +6896,7 @@ domacho
 domajar
 domajas
 domajez
+domaji
 domajis
 domajiva
 domajo
@@ -6935,11 +6968,11 @@ dono
 donos
 donus
 dop
-dop ()
 dop-
 dopa
-dopajo ()
+dopajo
 dope
+dopirar
 doplando
 dopo
 dorika
@@ -7141,6 +7174,7 @@ duesma
 duesme
 dufoye
 duima
+duimi
 duimo
 dukio
 duktar
@@ -7150,7 +7184,6 @@ duktis
 duktos
 duktus
 dum
-dum ()
 dum ke
 dumanua espado
 dumasto
@@ -7172,11 +7205,15 @@ dup-igo
 dupartigo
 dupartisala
 dupartisana
+dupi
+dupiganti
 dupiganto
 dupigar
+dupigeri
 dupigero
 duplikato
 dupo
+dupo-spozuli
 dupo-spozulo
 durabez
 durabis
@@ -7234,10 +7271,10 @@ durstonte
 durstonto
 durstos
 durstoza
-durstoza ()
 durstus
 durus
 dusemana
+dusemane
 dusencesi
 dusenceso
 duyongo
@@ -7292,7 +7329,6 @@ eceptale
 eceptar
 ecepte
 ecepte ke
-ecepte ke ()
 ecepte se
 ecepto
 ecesar
@@ -7413,7 +7449,6 @@ eklansar
 ekleziano
 eklezii
 eklezio
-eklezio ()
 eklinea
 eklipsar
 eklipsi
@@ -7428,8 +7463,10 @@ eko-
 ekologio
 ekonomiko
 ekonomio
+ekosistemi
 ekosistemo
 ekprenar
+ekrelirar
 ekreta
 ekrito
 eksuflar
@@ -7578,7 +7615,7 @@ embolio
 embracar
 embracas
 embracez
-embracilo ()
+embracilo
 embracis
 embraco
 embracos
@@ -7603,7 +7640,6 @@ emiro
 emocar
 emoceskar
 emocigar
-emocigar ()
 emoco
 emoji
 empalabez
@@ -7642,7 +7678,7 @@ en omna kazo
 en-
 en-armeigar
 enartroso
-enbareligar ()
+enbareligar
 enboteligar
 enboxa pupeo
 encefalala
@@ -7666,7 +7702,6 @@ endokarpi
 endokarpo
 endoskopo
 enduktar
-enduktar ()
 eneagono
 enemika
 enemiki
@@ -7676,22 +7711,22 @@ energii
 energio
 energioza
 enfakturigar
-enfluanto ()
+enfluanto
 enfluar
 enflueyo
 enfokigar
 enfornigar
 engainigar
 engajar
-enheme
 enigmato
 enirar
 enirar furteme
 eniras
+enireyo
 enirez
 enirigar
-enirigar ()
 eniris
+eniro
 eniros
 enirus
 enkadrigar
@@ -7704,7 +7739,6 @@ enkarcerigis
 enkarcerigos
 enkarcerigus
 enkasigar
-enkasigar ()
 enkazernigar
 enkestigar
 enkordigar
@@ -7757,7 +7791,6 @@ enlitigar su
 enlitigita
 enlitigo
 enluminar
-enluminar ()
 enmagazinigar
 enmanuigar
 enmigrado
@@ -7774,7 +7807,6 @@ enosmoso
 enoyar
 enoyiganta
 enoyigar
-enoyigar ()
 enoyigiva
 enoyo
 enpakigar
@@ -7784,7 +7816,6 @@ enposhigar
 enpotigar
 enreta
 ensakigar
-ensakigar ()
 ensemblo-teorio
 ensiligar
 enswichar
@@ -7951,6 +7982,7 @@ equinoxo
 equitato
 equivalanta
 equivalar
+erci
 erco
 erektabez
 erektabis
@@ -8088,7 +8120,6 @@ esonto
 esor
 esos
 espadagar
-espadagar ()
 espadagar pinte e tranche
 espadagas
 espadagez
@@ -8160,8 +8191,8 @@ esvano
 etajero
 etanolo
 etapar
-etapeyo ()
-etapo ()
+etapeyo
+etapo
 eterizar
 eterizas
 eterizez
@@ -8209,7 +8240,7 @@ evaluos
 evaluus
 evangeliizar
 evangeliolibro
-evanta ()
+evanta
 evar
 evas
 eventabez
@@ -8242,6 +8273,7 @@ eventus
 evez
 evidenta
 evidente
+evieri
 eviero
 eviktar
 evinta
@@ -8723,7 +8755,7 @@ fabi
 fabli
 fablo
 fabo
-fabrikado ()
+fabrikado
 fabrikar
 fabrikas
 fabrikerii
@@ -8753,8 +8785,9 @@ faceskis
 faceskos
 faceskus
 facez
-facigar ()
+facigar
 facila
+facile
 facileskar
 facileskas
 facileskez
@@ -8815,7 +8848,6 @@ faletar
 faliar
 faliego
 faligar
-faligar ()
 faliigar
 faliinto
 falinta
@@ -8857,6 +8889,7 @@ fanas
 fanatika
 fanatikeso
 fanez
+fanfaronadi
 fanfaronado
 fanfaronar
 fanfaronas
@@ -8892,11 +8925,10 @@ fanus
 faraono
 farbi
 farbizar
-farbizar ()
 farbizistino
 farbizisto
 farbizistulo
-farbizuro ()
+farbizuro
 farbo
 fardizar
 fardo
@@ -9038,7 +9070,7 @@ fekacho
 fekala
 feki
 fekifar
-fekizar ()
+fekizar
 feko
 fekopulvero
 fekulala
@@ -9073,7 +9105,6 @@ femuri
 femuro
 fen-rekoltado
 fencagar
-fencagar ()
 fencagas
 fencagez
 fencagis
@@ -9085,7 +9116,6 @@ fendetar
 fendo
 fenduro
 fenestraro
-fenestraro ()
 fenestri
 fenestro
 fenixo
@@ -9149,18 +9179,16 @@ fiancar
 fiancar su
 fiancas
 fianceskar
-fianceso ()
+fianceso
 fiancez
 fiancis
 fianciti
 fiancitini
 fiancitino
 fiancito
-fiancito ()
 fiancituli
 fiancitulo
-fiancitulo ()
-fianco ()
+fianco
 fiancos
 fiancus
 fiaski
@@ -9188,7 +9216,6 @@ fifro
 figi
 figiereyo
 figiero
-figiero ()
 figo
 figurala
 figurale
@@ -9251,6 +9278,7 @@ filtroti
 filtroto
 filtrus
 finalo
+financala merkato
 financale
 finance
 finanta
@@ -9351,6 +9379,7 @@ flamo
 flamoza
 flamoze
 flanar
+flankirar
 flano
 flarar
 flarigar
@@ -9501,17 +9530,16 @@ fonto-linguo
 fontolingui
 fontolinguo
 for
-for de hike ()
+for de hike
 for hike
 for-
 fora
 fora komerco
 fora navigado
-forajo ()
+forajo
 forci
 forco
 fore
-fore ()
 foresar
 foreso
 foresti
@@ -9545,7 +9573,6 @@ formato
 formi
 formiko
 formikumar
-formikumar ()
 formikumo
 formo
 fornikar
@@ -9672,7 +9699,9 @@ fortuno
 fortunoza
 fortunoze
 forumo
+fosati
 fosato
+foseti
 foseto
 fosfati
 fosfato
@@ -10009,6 +10038,7 @@ frigorifiva
 frigorizar
 frigorizas
 frigorizez
+frigorizili
 frigorizilo
 frigorizis
 frigorizivo
@@ -10021,6 +10051,7 @@ frikasar
 frikasita karno
 friskar
 friso
+fristi
 fristo
 frivola
 frivolajo
@@ -10156,7 +10187,7 @@ fulereno
 fuliginagar
 fulmino
 fulminostroko
-fumagar ()
+fumagar
 fumagilo
 fumanto
 fumar
@@ -10193,7 +10224,6 @@ fumizinto
 fumizir
 fumizis
 fumizita
-fumizita ()
 fumizite
 fumiziti
 fumizito
@@ -10340,7 +10370,6 @@ fushar
 fusilagado
 fusilagar
 fusilhano
-fusilhano ()
 fusili
 fusiliero
 fusilo
@@ -10444,7 +10473,7 @@ garantiar
 garantii
 garantio
 garar
-garar su ()
+garar su
 garbanzo
 garbanzo-semino
 gardeni
@@ -10503,7 +10532,6 @@ garsoni
 garsonino
 garsono
 garsonulo
-garsonulo ()
 gasagar
 gaseskar
 gaseskas
@@ -10552,6 +10580,8 @@ gayeskus
 gayeso
 gayigar
 gazolino
+gazonagro
+gazonbedo
 gazoneyi
 gazoneyo
 gazoni
@@ -10872,7 +10902,10 @@ golfo
 golo
 gonadala
 gonado
+gondi
 gondo
+gondo-bendi
+gondo-bendo
 gondoli
 gondolisti
 gondolisto
@@ -11007,12 +11040,12 @@ gravitus
 grelabis
 grelabos
 grelabus
-grelagar ()
+grelagar
 grelar
 grelas
 greletar
 greleto
-grelfrapar ()
+grelfrapar
 greli
 grelis
 grelo
@@ -11027,7 +11060,6 @@ grenado
 gresi
 greso
 grilar
-grilar ()
 grililo
 grilio
 grilita maizo
@@ -11056,7 +11088,6 @@ grizeskis
 grizeskos
 grizeskus
 grizigar
-grizigar ()
 grondar
 grondas
 grondez
@@ -11269,8 +11300,11 @@ hedero
 hefala
 hefizar
 hefo
+hegi
 hegizar
 hego
+hego-rozi
+hego-rozieri
 hego-roziero
 hego-rozo
 hejo
@@ -11448,8 +11482,7 @@ heroajo
 heroala
 heroale
 heroatra
-heroatra ()
-heroatre ()
+heroatre
 heroeni
 heroeno
 heroeso
@@ -11508,6 +11541,7 @@ hidrogeno
 hidrogeno-1
 hidrogenuno
 hidrogenunokationo
+hidrografio
 hidrologi
 hidrologii
 hidrologio
@@ -11649,6 +11683,7 @@ hominodianto
 homo
 homocido
 homofobio
+homofono
 homonimi
 homonimo
 homozigoto
@@ -11662,6 +11697,7 @@ honorizanta
 honorizar
 honorkordono
 honoro
+honoro-damzelo
 honoroza
 honorumala
 hordeo
@@ -11680,6 +11716,7 @@ hosto
 hotelestro
 hoteli
 hotelo
+hrizoprazo
 hu
 hueti
 hueto
@@ -11710,7 +11747,6 @@ humileskus
 humiligo
 hummus
 humoro
-humoro ()
 humuristo
 humuro
 humuroza
@@ -11751,6 +11787,7 @@ hungrus
 huo
 huo nivea
 hura
+hurmo
 i
 i.a.
 iambala
@@ -11815,6 +11852,7 @@ igos
 iguani
 iguano
 igus
+ikonografio
 ikonoklasta
 ikosaedro
 il
@@ -11903,6 +11941,9 @@ imajizar
 imajo
 imajolibro
 imbastar
+imbecila
+imbecileso
+imbecilo
 imensega
 imitar
 imitas
@@ -11987,7 +12028,6 @@ imprimanto
 imprimar
 imprimerio
 imprimilo
-imprimilo ()
 imprimisto
 imprimo
 imprimoprobabez
@@ -12314,7 +12354,6 @@ infuzilo
 infuzo
 infuzuri
 infuzuro
-infuzuro ()
 infuzuyo
 ingestabez
 ingestabis
@@ -12542,6 +12581,7 @@ insultus
 integra
 integresi
 integreso
+integrigita cirkuito
 integro
 intelekto
 inteligenta
@@ -12725,7 +12765,7 @@ irgaspeca
 irgatempe
 irge
 irgekande
-irgi ()
+irgi
 irgo
 irgu
 irgube
@@ -12737,6 +12777,7 @@ irir
 iris
 iritar
 iritifo
+iro
 ironta
 ironte
 ironti
@@ -12748,7 +12789,6 @@ iskemii
 iskemio
 istmo
 ita
-ita ()
 iterala
 iteranta fusilo
 iterar
@@ -12760,9 +12800,7 @@ itero
 iteros
 iterus
 iti
-iti ()
 ito
-ito ()
 ivora
 ivora turmo
 ivorala
@@ -12802,7 +12840,6 @@ j
 ja
 ja lore
 jacanta
-jacanta ()
 jacar
 jaceyo
 jado
@@ -12918,12 +12955,12 @@ joyoza
 joyus
 juar
 jubileo
+judaisto
 judiciado
 judiciala
 judiciale
 judicianto
 judiciar
-judiciar ()
 judicias
 judiciez
 judiciis
@@ -12943,7 +12980,6 @@ judikante
 judikanti
 judikanto
 judikar
-judikar ()
 judikas
 judikata
 judikate
@@ -13000,6 +13036,7 @@ jupizar
 jupizez
 jupo
 juracho
+jurar
 jurnali
 jurnalisteso
 jurnalo
@@ -13188,7 +13225,7 @@ kalorifanta
 kalorifiva
 kalorio
 kalorizanta
-kalorizar ()
+kalorizar
 kalorizilo
 kaloriziva
 kaloro
@@ -13254,7 +13291,6 @@ kalzo
 kalzoligilo
 kalzumo
 kam
-kam ()
 kamaradala
 kamaradale
 kamaradesi
@@ -13320,6 +13356,8 @@ kantabez
 kantabis
 kantabos
 kantabus
+kantalupo
+kantalupomelono
 kantanta
 kantante
 kantanti
@@ -13400,6 +13438,7 @@ karakteriziva
 karakterizivi
 karakterizivo
 karamelo
+karavanserayo
 karavelo
 karbi
 karbo
@@ -13412,7 +13451,7 @@ karceri
 karcero
 karcinomo
 kardinala
-kardinala punto ()
+kardinala punto
 kardinalo
 kardioidi
 kardioido
@@ -13453,7 +13492,7 @@ kargus
 karibuo
 kariero
 karikaturo
-karino ()
+karino
 karmezina
 karmezineskar
 karmezini
@@ -13500,7 +13539,6 @@ kartoludo
 kartomancio
 kartoni
 kartonizar
-kartonizar ()
 kartono
 kartonobindabez
 kartonobindabis
@@ -13511,7 +13549,6 @@ kartonobindante
 kartonobindanti
 kartonobindanto
 kartonobindar
-kartonobindar ()
 kartonobindas
 kartonobindata
 kartonobindate
@@ -13539,7 +13576,7 @@ kartonobindote
 kartonobindoti
 kartonobindoto
 kartonobindus
-kartonokovrar ()
+kartonokovrar
 kartuno
 kartusho
 karulo
@@ -13606,8 +13643,10 @@ katulo
 katyuno
 kauchuka swabro
 kauchuko
+kaucioni
 kaucionizar
 kauciono
+kauciono-sumi
 kauciono-sumo
 kauda
 kaudala
@@ -13726,7 +13765,6 @@ kayeri
 kayero
 kayo
 kaze ke
-kaze ke ()
 kazeino
 kazeo
 kazerni
@@ -13784,6 +13822,7 @@ kinadek-e-tri
 kinadek-e-un
 kinadekesma
 kinadekimo
+kindi
 kindo
 kinesma
 kino
@@ -13808,7 +13847,7 @@ kladigo
 klado
 kladoza
 klamar
-klamo-punto ()
+klamo-punto
 klamopunto
 klano
 klapala
@@ -13850,7 +13889,6 @@ klavikordi
 klavikordo
 klavikulo
 klavo
-klavo ()
 klef-klozar
 klefagar
 klefagas
@@ -13860,7 +13898,6 @@ klefagos
 klefagus
 klefi
 klefo
-klefo ()
 kleforiglo
 klefovorti
 klefovorto
@@ -13902,7 +13939,6 @@ klimatala
 klimaterio
 klimato
 klimero
-klimero ()
 klimez
 klimis
 klimos
@@ -13942,7 +13978,7 @@ klovo
 kloz-agrafo
 kloz-buklo
 kloz-petro
-kloz-punisar ()
+kloz-punisar
 klozagrafo
 klozajo
 klozar
@@ -14003,7 +14039,7 @@ kofro
 koheranta
 koherar
 koherema
-koherero ()
+koherero
 koheriva
 kohorto
 koincidar
@@ -14371,6 +14407,8 @@ komunikar
 komuniko
 komunismi
 komunismo
+komunitatala
+komunitato
 konceptar
 konceptebla
 koncepti
@@ -14537,9 +14575,8 @@ konsakrar
 konsekracar
 konsentar
 konsequanta
-konsequantajo ()
+konsequantajo
 konsequar
-konsequar ()
 konseque
 konsequema
 konsequi
@@ -14682,7 +14719,7 @@ kontero
 kontestar
 kontez
 konti
-kontilo ()
+kontilo
 kontinento
 kontinta
 kontinte
@@ -14714,7 +14751,6 @@ kontrabandar
 kontrabando
 kontrafaktar
 kontrafakturo
-kontrafakturo ()
 kontraktabez
 kontraktabis
 kontraktabos
@@ -14737,10 +14773,11 @@ kontre-gramatika
 kontre-pedalagar
 kontrea
 kontreaganta
-kontreagar ()
+kontreagar
 kontreagema
 kontreagemeso
 kontreajo
+kontredemando
 kontredicar
 kontredicas
 kontredicez
@@ -14851,13 +14888,13 @@ kordiika
 kordiiko
 kordio
 kordisto
-kordizar ()
+kordizar
 kordizo
 kordo
+kordo-skalo
 kordoni
 kordono
 kordoponteto
-kordoponteto ()
 kordoza
 korekta
 korektigabez
@@ -14896,6 +14933,7 @@ korektigote
 korektigoti
 korektigoto
 korektigus
+korento alternanta
 korespondar
 korespondo
 korimbo
@@ -14991,7 +15029,6 @@ kreiveso
 kremacar
 kremaceyo
 kremea
-kremea ()
 kremeakoloro
 kremeeskar
 kremi
@@ -15126,7 +15163,6 @@ krucumante
 krucumanti
 krucumanto
 krucumar
-krucumar ()
 krucumas
 krucumata
 krucumate
@@ -15371,6 +15407,8 @@ kultivez
 kultivinta
 kultivir
 kultivis
+kultivisti
+kultivisto
 kultivita
 kultivo
 kultivonta
@@ -15385,7 +15423,6 @@ kulturo
 kumini
 kumino
 kun
-kun ()
 kun-
 kune
 kunexistar
@@ -15615,6 +15652,7 @@ kursori
 kursoro
 kurta
 kurtacho
+kurte
 kurteno
 kurteskar
 kurteskas
@@ -15768,15 +15806,12 @@ lakrimovazo
 lakrimoza
 laktajo
 laktatra
-laktatra ()
 laktazi
 laktazo
 laktea
 lakterii
 lakterio
-lakterio ()
 lakteyo
-lakteyo ()
 lakti
 laktifo
 lakto
@@ -15789,7 +15824,6 @@ laktoso
 laktovendisto
 laktovoyo
 laktoza
-laktoza ()
 laktumo
 lakuni
 lakunizar
@@ -15871,7 +15905,6 @@ lancagoto
 lancagus
 lanceti
 lanceto
-lanceto ()
 lanci
 lancieri
 lanciero
@@ -15929,7 +15962,7 @@ larjigis
 larjigos
 larjigus
 lasar
-lasar falar ()
+lasar falar
 lasero
 lashizar
 lasho
@@ -16037,6 +16070,7 @@ laxigos
 laxigus
 lazareto
 le
+lecioni
 leciono
 leda
 ledeskar
@@ -16108,6 +16142,10 @@ legiono
 lego
 legumi
 legumo
+legumogardeno
+legumokultivisto
+legumoplanto
+legumosupo
 lejera
 lejereskar
 lejereskas
@@ -16296,6 +16334,7 @@ ligati
 ligili
 ligilo
 liginti
+ligita
 ligiti
 lignito
 lignoshuo
@@ -16466,6 +16505,7 @@ litigus
 litio
 lito
 lito-kovrilo
+lito-tapisi
 lito-tapiso
 litografar
 litografuro
@@ -16592,7 +16632,6 @@ lore
 lorneti
 lorneto
 lorno
-lorno ()
 loyala
 loyale
 lu
@@ -16605,7 +16644,6 @@ ludajo
 ludala
 ludanto
 ludar
-ludar ()
 ludar per pupeo
 ludema
 ludemo
@@ -16626,7 +16664,7 @@ ludotablo
 ludriskar
 ludrisko
 lugar
-lugo ()
+lugo
 lugo-kontrato
 lui
 luktar
@@ -16725,7 +16763,7 @@ magnezo
 mago
 magra
 magracha
-magrajo ()
+magrajo
 magrega
 magresi
 magreskar
@@ -16746,6 +16784,7 @@ makrogameti
 makrogameto
 makronuklei
 makronukleo
+makroskalo
 makrosporangii
 makrospori
 makrosporo
@@ -16927,7 +16966,7 @@ manjo
 manjo-chambro
 manjochambro
 manjos
-manjosako ()
+manjosako
 manjotrogo
 manjus
 mankar
@@ -17125,10 +17164,9 @@ materialismo
 materialista
 materialisto
 materiaro
-materiatra ()
+materiatra
 materii
 materiigar
-materiigar ()
 materio
 materio kruda
 materio obskura
@@ -17204,6 +17242,7 @@ meditar
 meduzo
 mega-
 megafono
+megalito
 megaspori
 megasporo
 mei
@@ -17284,6 +17323,7 @@ menajati
 menajato
 menajerii
 menajerio
+menajestro
 menajez
 menaji
 menajinta
@@ -17438,7 +17478,7 @@ mezepoko
 mezeva
 mezokarpi
 mezokarpo
-mezurar ()
+mezurar
 mezuro
 mi-
 miapertar
@@ -17552,6 +17592,8 @@ ministerio
 ministi
 ministo
 ministraro
+minme
+minoritata linguo
 minoro
 minto
 minuskulo
@@ -17570,7 +17612,7 @@ mirtelo
 mis-
 misadresizar
 misdirektar
-misduktar ()
+misduktar
 misemana
 misexua
 misfero
@@ -17585,6 +17627,7 @@ miskondutar
 miskonocar
 misnomar
 misnomizar
+mispazar
 mispronuncar
 misselektar
 mistelo
@@ -17721,6 +17764,7 @@ moluski
 molusko
 momenti
 momento
+monakeyi
 monakeyo
 monaki
 monako
@@ -17860,7 +17904,6 @@ motacilo
 motelo
 motivi
 motivizar
-motivizar ()
 motivizi
 motivizo
 motivo
@@ -18096,6 +18139,7 @@ naturo
 natus
 naufrajanto
 naufrajar
+naufraji
 naufrajigar
 naufrajinto
 naufrajo
@@ -18126,7 +18170,6 @@ nazala
 nazaligar
 nazaligo
 nazalo
-nazalo ()
 nazbinoklo
 nazego
 nazfetida
@@ -18138,7 +18181,7 @@ nazo kontre nazo
 nazotruo
 nazotuko
 nazparolar
-nazpeco ()
+nazpeco
 naztruo
 naztuko
 ne
@@ -18146,7 +18189,6 @@ ne dankinde
 ne ja
 ne tedez me
 ne-
-ne- ()
 ne-ego
 ne-eleganta
 ne-habila
@@ -18189,13 +18231,13 @@ neextirpebla
 nefacebla
 nefaliiva
 nefruktifanta
-neglijado ()
+neglijado
 neglijanta
 neglijar
 neglijas
 neglijebla
 neglijema
-neglijeso ()
+neglijeso
 neglijez
 neglijis
 neglijo
@@ -18217,6 +18259,7 @@ nekapabla
 nekapablesi
 nekapableso
 nekapabligar
+nekaptebla
 nekonceptebla
 nekonocar
 nekonocata
@@ -18287,6 +18330,7 @@ nepronuncebla
 neracionala
 nereala
 nerealigebla
+nerefutebla
 neregulala
 nereguloza
 nereguloze
@@ -18296,8 +18340,8 @@ nervi
 nervika
 nervo
 nervoza
-nesaciata ()
-nesaciita ()
+nesaciata
+nesaciita
 nesaturebla
 nesavar
 nesavi
@@ -18338,6 +18382,7 @@ netesi
 neteso
 netigar
 netigez
+netrairebla
 netranquila
 netranquilesi
 netranquileso
@@ -18380,7 +18425,6 @@ nigreskar
 nigreskez
 nigrigar
 nigro
-nigro ()
 nihiligar
 nihiligas
 nihiligez
@@ -18442,7 +18486,6 @@ nivo-floko
 nivobuli
 nivobulo
 nivokateno
-nivokateno ()
 nivonta
 nivonte
 nivonti
@@ -18476,6 +18519,7 @@ noktesko
 nokti
 nokto
 nokto-mezo
+noktobujii
 noktobujio
 noktomezi
 noktomezo
@@ -18534,7 +18578,6 @@ norma
 normala
 normaligar
 normalo
-normalo ()
 normi
 normizar
 normo
@@ -18647,7 +18690,6 @@ nulakaze
 nulaloke
 nulamaniere
 nulatempe
-nulatempe ()
 nule
 nulfacanta
 nulfacema
@@ -18681,7 +18723,7 @@ nutriv-armoro
 nutriva
 nutriva kateno
 nutrivaro
-nutrivganilo ()
+nutrivganilo
 nutrivi
 nutrivo
 nutrivokajo
@@ -18967,6 +19009,7 @@ oleofarbo
 olfaktar
 oli
 olia
+oligarkiala
 oligarkio
 olii
 olim
@@ -19404,7 +19447,7 @@ parei
 parent-ocido
 parenta
 parentaro
-parenteskar ()
+parenteskar
 parenteso
 parenti
 parentigar
@@ -19413,7 +19456,7 @@ parento
 parentulo
 parenuncita
 pareo
-parfacar ()
+parfacar
 parfumizar
 parfumo
 pari
@@ -19456,7 +19499,7 @@ pariroto
 parirus
 parki
 parko
-parkurajo ()
+parkurajo
 parkurar
 parkuras
 parkurez
@@ -19530,7 +19573,6 @@ partisemeso
 partiseto
 partisi
 partiso
-partiso ()
 partizani
 partizano
 parto
@@ -19538,11 +19580,11 @@ parto-prenar
 partoprenanto
 partoprenar
 partprenar
-parturajo ()
+parturajo
 parturala
 parturar
 parturas
-parturbenediko ()
+parturbenediko
 parturez
 parturintino
 parturis
@@ -19555,6 +19597,7 @@ parvenuo
 pas-permiso
 pasajanto
 pasajar
+pasajeri
 pasajero
 pasajo
 pasamani
@@ -19674,6 +19717,7 @@ pedalo
 pedanto
 pedbalono
 pederasteso
+pederasto
 pedero
 pedfingri
 pedfingro
@@ -19685,6 +19729,7 @@ pedirantino
 pediranto
 pedirantulo
 pedirar
+pedirero
 pedo
 pedo-artilrio
 pedo-balno
@@ -19698,8 +19743,8 @@ pedo-tabureto
 pedo-varmigilo
 pedo-vestaro
 pedo-vestizar
-pedo-vestizar ()
 pedo-voyo
+pedobutar
 pedokuracisto
 pedovesti
 pedovesto
@@ -19749,9 +19794,13 @@ penicilino
 penigiva
 peninsulala
 peninsulale
+peninsulalesi
 peninsulaleso
+peninsulatra
 peninsulatre
+peninsulesi
 peninsuleso
+peninsuli
 peninsuligar
 peninsulo
 penisala
@@ -19879,6 +19928,7 @@ perkutas
 perkutis
 perkutos
 perkutus
+perli
 perlo
 perlokoliaro
 permananta
@@ -19912,6 +19962,7 @@ permutata
 permutate
 permutati
 permutato
+permutebla
 permutez
 permuti
 permutinta
@@ -20028,6 +20079,7 @@ personesi
 personeso
 personi
 persono
+perspektivi
 perspektivo
 persuadabez
 persuadabis
@@ -20136,12 +20188,12 @@ pesimisti
 pesimisto
 peskajo
 peskala
-peskanto ()
+peskanto
 peskar
-peskero ()
+peskero
 peskeyo
-peskilo ()
-peskisto ()
+peskilo
+peskisto
 pesko-bastono
 peskobastono
 peskobatelo
@@ -20211,7 +20263,7 @@ pikturi
 pikturo
 piktus
 pilala
-pilaro ()
+pilaro
 pilio
 pilo
 pilobulbo
@@ -20299,7 +20351,7 @@ plafono
 plaji
 plajo
 plaki
-plakizar ()
+plakizar
 plakizita ringo
 plako
 plako grabita
@@ -20352,9 +20404,9 @@ plata
 plata hauo
 platformi
 platformo
-platnaza ()
-platnazo ()
-pleachar ()
+platnaza
+platnazo
+pleachar
 plear
 pledar
 pleigar
@@ -20399,13 +20451,13 @@ plubeligar
 plubonigar
 pluchereskar
 plucherigar
-plucherigar ()
 pludensigar
 pludolcigar
 plue
 plufermigar
 plufortigar
 plufreshigar
+plukurtigar
 plumala
 plumaligar
 plumaro
@@ -20451,7 +20503,6 @@ pluvar
 pluvarki
 pluvarko
 pluvas
-pluvas ()
 pluvegar
 pluvego
 pluvema
@@ -20466,9 +20517,9 @@ pluvmantelo
 pluvo
 pluvos
 pluvoza
-pluvtubo ()
-pluvtubulo ()
-pluvuro ()
+pluvtubo
+pluvtubulo
+pluvuro
 pluvus
 po
 po cent
@@ -20660,7 +20711,6 @@ pompelmuso
 ponderar
 poneo
 poniardagar
-poniardagar ()
 poniardi
 poniardo
 ponteto
@@ -20717,9 +20767,7 @@ portulaki
 portulako
 portuo
 portuo-oficiro
-portuo-oficiro ()
 portuo-oficisto
-portuo-oficisto ()
 portuopago
 portuotaxo
 pos
@@ -20808,7 +20856,10 @@ postotreno
 postoveturo
 postpozicioni
 postpoziciono
+postulajo
 postular
+postulema
+postulo
 postuma
 potati
 potato
@@ -21111,7 +21162,7 @@ premiochasero
 premiochasisto
 prenar
 preniva
-preno ()
+preno
 prenomo
 preonklino
 preonklo
@@ -21168,7 +21219,6 @@ prestijo
 presus
 preter
 preterirar
-preterirar ()
 preterpasar
 pretexti
 pretexto
@@ -21220,7 +21270,6 @@ prezente
 prezenteso
 prezenti
 prezento
-prezento ()
 prezervar
 prezidabis
 prezidabos
@@ -21256,10 +21305,8 @@ primordiala
 primrozi
 primrozo
 primtipo
-princino
 princio
 princo
-princulo
 printempe
 printempi
 printempo
@@ -21362,18 +21409,17 @@ proceso
 proda
 prodajo
 prodromo
-produktajo ()
+produktajo
 produktanta
-produktanto ()
+produktanto
 produktar
 produktas
-produktero ()
+produktero
 produktez
 produktis
 produkto
 produktos
 produkturo
-produkturo ()
 produktus
 profazi
 profazo
@@ -21889,11 +21935,11 @@ punisus
 punti
 puntizadi
 puntizado
-puntizar ()
+puntizar
 puntizo-signo
 puntizuro
 punto
-punto-komo ()
+punto-komo
 puntokomo
 puntuar
 pupeatra
@@ -21942,14 +21988,13 @@ putranta
 putrar
 putreskar
 putreyo
-putrigar ()
+putrigar
 putrinta
 putrinteso
 putro
 q
 qe
 qua
-qua ()
 qua tempo esas?
 quadrato
 quadriko
@@ -22053,7 +22098,7 @@ questionir
 questionis
 questionita
 questiono
-questiono-punto ()
+questiono-punto
 questiononta
 questionopunto
 questionor
@@ -22063,7 +22108,6 @@ questionpunto
 questionus
 questoro
 qui
-qui ()
 quieta
 quiete
 quietesi
@@ -22088,16 +22132,15 @@ quitigor
 quitigos
 quitigus
 quo
-quo ()
 quo esas ito
 quo esas ito?
 quo eventas
-quo eventas?
 quo signifikas …
 quo signifikas …?
 quociento
 quodlibeto
 quon
+quoniam
 qustionaro
 r
 rabino
@@ -22115,7 +22158,7 @@ radiatoro
 radiez
 radii
 radiis
-radiizar ()
+radiizar
 radiketo
 radio
 radioaktiva
@@ -22126,7 +22169,7 @@ radiometro
 radios
 radioteknologio
 radioza
-radiozo ()
+radiozo
 radius
 radiusi
 radiuso
@@ -22154,7 +22197,7 @@ rankoro
 rano
 rapecar
 rapida
-rapidajo ()
+rapidajo
 rapide
 rapidega
 rapidege
@@ -22184,7 +22227,7 @@ raptez
 raptis
 raptisto
 rapto
-raptocido ()
+raptocido
 raptos
 raptucelo
 raptus
@@ -22240,13 +22283,12 @@ reaktivo
 reala
 realajo
 reale
-realeskar ()
-realeso ()
+realeskar
+realeso
 realiganta
 realigante
 realiganto
 realigar
-realigar ()
 realigas
 realigata
 realigate
@@ -22259,7 +22301,7 @@ realigis
 realigita
 realigite
 realigito
-realigo ()
+realigo
 realigonta
 realigonte
 realigonto
@@ -22267,18 +22309,15 @@ realigos
 realigota
 realigote
 realigoto
-realiguro ()
+realiguro
 realigus
 realismala
 realismi
 realismo
-realismo ()
 realistala
 realisto
 recensar
-recensar ()
 recenso
-recenso ()
 recenta
 recepcionar
 recepcionas
@@ -22312,10 +22351,9 @@ redakteso
 redaktez
 redaktis
 redaktisto
-redaktisto ()
 redakto
 redaktos
-redakturo ()
+redakturo
 redaktus
 redatra
 redemtar
@@ -22389,7 +22427,14 @@ regimento
 regiono
 registragilo
 registro
+regnante
+regnanti
 regnar
+regnas
+regnez
+regnis
+regnos
+regnus
 regolito
 regresar
 regresas
@@ -22448,9 +22493,8 @@ relativeso
 relato
 reli
 religiala
-religiala ()
 religiano
-religiema ()
+religiema
 religii
 religio
 religioza
@@ -22470,7 +22514,6 @@ remediacho
 remediar
 remedio
 remobatelo
-remobatelo ()
 remonstrabez
 remonstrabis
 remonstrabos
@@ -22567,6 +22610,7 @@ renkontrar
 renkontro
 reno
 rentgeno
+rentifar
 rentiro
 renuncar
 reparar
@@ -22598,7 +22642,7 @@ repozez
 repozinta
 repozis
 repozo
-repozo-punto ()
+repozo-punto
 repozos
 repozus
 reprezentanta
@@ -22829,7 +22873,6 @@ restaurante
 restauranti
 restauranto
 restaurar
-restaurar ()
 restauras
 restaurata
 restaurate
@@ -22843,7 +22886,7 @@ resti
 restinta
 restir
 restis
-restitucar ()
+restitucar
 resto
 restonta
 restor
@@ -22875,6 +22918,7 @@ retroe
 retrofluar
 retroirar
 retroirigar
+retroirigo
 retroiro
 retrotirar
 retushar
@@ -22904,10 +22948,8 @@ revolucionema
 revolucioni
 revoluciono
 revuar
-revuar ()
 revui
 revuo
-revuo ()
 reza
 rezapila
 rezedo
@@ -22982,7 +23024,7 @@ riagas
 riagez
 riagis
 riagos
-riagrafagar ()
+riagrafagar
 riagus
 rianimar
 riaparanta
@@ -23130,8 +23172,9 @@ ridonto
 ridor
 ridos
 ridus
+rienirar
 riestablisar
-rifacar ()
+rifacar
 rifo
 rigida
 rigidesi
@@ -23167,6 +23210,7 @@ rikonocus
 rikonstruktar
 rikustumeskar
 rikustumigar
+rilektar
 rilokizar
 rimemoro
 rimeno
@@ -23201,6 +23245,7 @@ riskoza
 rispektar
 ritmi
 ritmo
+ritrairar
 rivano
 rivenar
 rivereti
@@ -23223,6 +23268,7 @@ robo
 roboti
 roboto
 robusta
+rock
 rodar
 rodero
 rodetar
@@ -23245,6 +23291,8 @@ rombo
 ronda
 ronda tablo
 rondigar
+rondirar
+rondiro
 roquar
 roquo
 rosbifo
@@ -23252,7 +23300,6 @@ rosmaro
 rospi
 rospo
 rostar
-rostar ()
 rostilo
 rostopano
 rostri
@@ -23265,7 +23312,7 @@ roteskarto
 roteto
 roti
 roto
-roto-tormentar ()
+roto-tormentar
 rotofelgo
 rotonabo
 rotosulko
@@ -23275,6 +23322,7 @@ roza
 rozatra
 rozea
 rozeto
+rozieri
 roziero
 rozlauri
 rozlauro
@@ -23317,8 +23365,8 @@ sablostrato
 sabloza
 sabluyo
 sacerdotala
-sacerdotaro ()
-sacerdoteso ()
+sacerdotaro
+sacerdoteso
 sacerdoti
 sacerdotino
 sacerdoto
@@ -23331,6 +23379,7 @@ sacio
 sacios
 safrani
 safrano
+sagaca
 sagutiero
 saguto
 saimo
@@ -23416,9 +23465,9 @@ salvita
 salvo
 salvobuyo
 salvogardar
-salvogardilo ()
+salvogardilo
 salvoletro
-salvonto ()
+salvonto
 sama
 sama-tempe
 samatempe
@@ -23526,7 +23575,7 @@ satiro
 satisfacanta
 satisfacar
 satisfacebla
-satisfaco ()
+satisfaco
 satisfecit
 sato
 satrapo
@@ -23617,6 +23666,7 @@ sedumo
 seg-pulvero
 segar
 segli
+seglirar
 seglo
 seglobatelo
 seglonavo
@@ -23798,13 +23848,15 @@ senpatra
 senpeda
 senpiligar
 senpiligez
-senpiligivo ()
+senpiligivo
+senpilotist aviacilo
 senpolvigar
 senpolvigez
 senreligeso
 senrepentoza
 senrespekta
 sensala
+sensencajo
 sensexua
 senshama
 senso
@@ -23871,7 +23923,7 @@ sepultanta
 sepultar
 sepultas
 sepultata
-sepulteskar ()
+sepulteskar
 sepulteyi
 sepulteyo
 sepultez
@@ -24010,6 +24062,7 @@ shuo
 shuofabrikerio
 shuokordono
 shuriken
+si
 sidanta
 sidar
 sidas
@@ -24017,7 +24070,7 @@ sideskar
 sideskez
 sideyo
 sidez
-sidigar ()
+sidigar
 sidili
 sidilo
 sidis
@@ -24111,7 +24164,6 @@ silencigabos
 silencigabus
 silenciganta
 silencigar
-silencigar ()
 silencigas
 silencigata
 silencigez
@@ -24170,6 +24222,7 @@ simio
 simpla
 simpla mashino
 sinagogo
+sinapismi
 sinapismo
 sinapo
 sindikati
@@ -24184,7 +24237,7 @@ singlu
 siniorala
 siniorino
 sinioro
-siniorulo ()
+siniorulo
 sinistra
 sinkar
 sinkas
@@ -24281,7 +24334,9 @@ sivo
 sizar
 sizigio
 skabino
+skalatre
 skalo
+skalo-plako
 skalpelo
 skanar
 skandar
@@ -24332,7 +24387,7 @@ skiso
 skisos
 skisti
 skisto
-skisuro ()
+skisuro
 skisus
 skizar
 skizofrenio
@@ -24408,6 +24463,11 @@ skriboto
 skriburi
 skriburo
 skribus
+skriptala
+skriptar
+skriptisto
+skripto
+skripturo
 skroto
 skrubagar
 skrubego
@@ -24426,16 +24486,13 @@ skrubturnilo
 skudiero
 skultala
 skultar
-skultarto ()
+skultarto
 skultero
-skultero ()
 skultisto
-skultisto ()
 skulto
-skulto ()
 skulturala
+skulturi
 skulturo
-skulturo ()
 skunero
 skureli
 skurelo
@@ -24449,6 +24506,7 @@ smeraldo
 sniflar
 snortar
 socar
+sociala stando
 socialismi
 socialismo
 societo
@@ -24479,6 +24537,7 @@ sokurso
 sokursos
 sokursus
 sola
+soldar
 soldati
 soldato
 solecismo
@@ -24601,7 +24660,6 @@ sovaja asno
 sovaja kapro
 sovajeskar
 sovajeso
-sovajeso ()
 sovajigar
 sovajo
 spacala
@@ -24981,12 +25039,11 @@ staceskar
 staceskez
 stacez
 staci
-stacigar ()
-stacigilo ()
+stacigar
+stacigilo
 staciono
 stacis
 staco
-staco ()
 stacos
 stacus
 stadii
@@ -25007,6 +25064,7 @@ stando
 standos
 standus
 stano
+staplo
 startar
 startero
 starto
@@ -25023,7 +25081,7 @@ statuo
 statuo de Libereso
 statuti
 statuto
-stebar ()
+stebar
 stelala
 stelaro
 steleo
@@ -25114,7 +25172,7 @@ stoterar
 stotero
 strabeso
 stradangulo
-stradeto ()
+stradeto
 stradi
 strado
 strado transversa
@@ -25292,12 +25350,14 @@ submisesi
 submiseso
 submisez
 submisis
+submisito
 submiso
 submisos
 submisus
 subordinita
 subornar
 suborno
+subpeninsuli
 subpeninsulo
 subreptabez
 subreptabis
@@ -25451,7 +25511,7 @@ sudorifar
 sudorifas
 sudorifegar
 sudorifez
-sudorifigar ()
+sudorifigar
 sudorifigiva
 sudorifigivo
 sudorifir
@@ -25467,14 +25527,13 @@ sufico
 sufixi
 sufixo
 suflado
-suflajo ()
+suflajo
 suflar
 suflas
-suflego ()
+suflego
 suflero
 suflesar
 sufleto
-sufleto ()
 suflez
 suflis
 suflisto
@@ -25492,7 +25551,6 @@ sufrante
 sufranti
 sufranto
 sufrar
-sufrar ()
 sufras
 sufrata
 sufrate
@@ -25525,12 +25583,11 @@ sufroto
 sufrus
 sufuzioni
 sufuziono
-suganta ()
+suganta
 sugar
 sugata
 sugato
 sugilo
-sugilo ()
 sugo
 sui
 suki
@@ -25751,6 +25808,7 @@ suplantar
 suplear
 suplikar
 supo
+supolegumo
 suportar
 suporti
 suportilo
@@ -25785,6 +25843,7 @@ surmuleto
 surnomacho
 surnomizar
 surnomo
+surpliso
 surpozabez
 surpozabis
 surpozabos
@@ -25874,6 +25933,7 @@ tableti
 tableto
 tabli
 tablo
+tablo-tapisi
 tablo-tapiso
 tabloservistino
 tabu
@@ -25911,6 +25971,7 @@ tam
 tam balde kam posibla
 tam balde kam posible
 tam multa kam posible
+tamburo
 tamburo-bastono
 tamen
 tamtamo
@@ -25935,6 +25996,8 @@ tapar
 tapilo
 tapiro
 tapiseto
+tapisi
+tapisisti
 tapisisto
 tapisizar
 tapiso
@@ -25994,7 +26057,6 @@ tedo
 teerio
 tegar
 tegilo
-tegilo ()
 tegotelo
 tegumenti
 tegumento
@@ -26088,7 +26150,7 @@ tenebro-epoko
 tenebroza
 tenegar
 tenera
-tenereso ()
+tenereso
 tenesio
 tenez
 teninta
@@ -26254,7 +26316,7 @@ tigrino
 tigro
 til
 til balde
-til hike ()
+til hike
 til rivido
 til rivido!
 tilio
@@ -26319,7 +26381,7 @@ tiriti
 tirito
 tirkesti
 tirkesto
-tirkordono ()
+tirkordono
 tironta
 tironte
 tironti
@@ -26369,7 +26431,6 @@ tondrante
 tondranti
 tondranto
 tondrar
-tondrar ()
 tondras
 tondrez
 tondrinta
@@ -26459,10 +26520,8 @@ tradukistino
 tradukisto
 tradukistulo
 traduko
-traduko ()
-traduktar ()
+traduktar
 tradukuro
-tradukuro ()
 trae
 trafiko
 trahizajo
@@ -26549,7 +26608,6 @@ transgenra
 transgenro
 transhumanismo
 transirar
-transirar ()
 transiri
 transiro
 transistori
@@ -26589,7 +26647,6 @@ transpozota
 transpozus
 transsaltar
 transvarsar
-transvarsar ()
 trapasar
 trapezi
 trapezo
@@ -26688,10 +26745,10 @@ tro
 trodurigar
 troika
 trokeo
+trombo
 trombociti
 trombocito
 trombono
-trombositopenia
 tromboso
 trombuso
 trompanta
@@ -26730,6 +26787,7 @@ trovar
 trovebla
 truala
 trublar
+trueti
 trueto
 truko
 trumpo
@@ -26809,6 +26867,7 @@ tushos
 tushota
 tushus
 tuso
+tuyo
 twitar
 u
 ube
@@ -26851,8 +26910,15 @@ ucelyunulo
 uf
 ula
 uladie
+ulafoye
 ulagrade
+ulaloke
+ulamaniere
+ulaspeca
+ulatempe
 uldie
+ule
+uli
 ulo
 ultra
 ultramontana
@@ -26860,6 +26926,7 @@ ultramontanismo
 ultre
 ultre ke
 ulu
+ulube
 ulular
 umbilikala
 umbilikala kordono
@@ -26868,7 +26935,7 @@ umbiliko
 un
 un kloke
 un kloko
-una ()
+una
 unaji
 unajo
 unanimeso
@@ -26895,23 +26962,23 @@ unionabus
 unionar
 unionas
 unionesar
-unioneso ()
+unioneso
 unionez
 unioni
 unionir
 unionis
 unionita
 uniono
-uniono ()
 unionor
 unionos
 unionuro
 unionus
 universala
+universala charniri
 universala charniro
 universaleso
 universalista
-universalisto ()
+universalisto
 universi
 universitati
 universitato
@@ -26921,7 +26988,7 @@ uno
 unsexua
 untizar
 unto
-unu ()
+unu
 upupo
 uragani
 uragano
@@ -27100,6 +27167,7 @@ vakuo
 vakuoli
 vakuolo
 vakuonetigilo
+valenco
 vali
 valida
 validesi
@@ -27133,6 +27201,7 @@ vapornavi
 vapornavo
 vaporo
 vaporonavo
+vaporoturbino
 varano
 vararo
 vari
@@ -27162,7 +27231,7 @@ vartante
 vartar
 vartas
 varteyo
-vartigar ()
+vartigar
 vartreno
 varvagono
 vasali
@@ -27189,7 +27258,7 @@ veino
 veinoseko
 veinoza
 vejetala
-vejetanta ()
+vejetanta
 vejetantaro
 vejetanto
 vejetar
@@ -27261,7 +27330,6 @@ venenagante
 venenaganti
 venenaganto
 venenagar
-venenagar ()
 venenagas
 venenagata
 venenagate
@@ -27299,7 +27367,6 @@ venenizante
 venenizanti
 venenizanto
 venenizar
-venenizar ()
 venenizas
 venenizata
 venenizate
@@ -27449,9 +27516,7 @@ vestaro
 vesteyo
 vesti
 vestizachar
-vestizachar ()
 vestizar
-vestizar ()
 vestizar su
 vestizas
 vestizeyo
@@ -27462,6 +27527,7 @@ vestizos
 vestizus
 vesto
 vesto-vendisto
+vestoni
 vestono
 veteri
 veterinaro
@@ -27492,6 +27558,7 @@ vicemamilo
 viceparolanto
 viceprezidanto
 vicerala
+vicerari
 viceraro
 vicerejini
 vicerejino
@@ -27504,7 +27571,7 @@ vicigar
 vicii
 viciizar
 vicina
-vicinajo ()
+vicinajo
 vicinala
 vicinaro
 vicinesar
@@ -27542,7 +27609,6 @@ video
 video-
 videoludo
 videyo
-videyo ()
 videz
 vidi
 vidigar
@@ -27574,7 +27640,6 @@ vidus
 vidvino
 vidvino ()
 vidvo
-vidvo ()
 vidvulo
 vidvulo ()
 vigilanta
@@ -27683,7 +27748,7 @@ viskomti
 viskomto
 viskozesi
 viskozeso
-viso ()
+viso
 vistar
 vit-agro
 vitagro
@@ -27698,6 +27763,7 @@ vito-kultivado
 vitobera
 vitoberea
 vitobereo
+vitoberi
 vitobero
 vitobero-koloro
 vitra
@@ -27737,7 +27803,7 @@ vizis
 vizitar
 vizito
 vizo
-vizograno ()
+vizograno
 vizolineo
 vizos
 vizus
@@ -27759,6 +27825,7 @@ vocoreflektilo
 vodevilo
 vokar
 volar
+volas
 vole o nevole
 volfi
 volfino
@@ -27784,6 +27851,7 @@ voluntis
 volunto
 voluntos
 voluntus
+volus
 voluto
 volvar
 vomar
@@ -27804,9 +27872,8 @@ vortolibri
 vortolibro
 vortoludi
 vortoludo
-vortopa ()
+vortopa
 vortope
-vortope ()
 vortospeci
 votado universala
 votanto
@@ -27868,9 +27935,9 @@ weldar
 weldas
 weldez
 weldis
-weldo ()
+weldo
 weldos
-welduro ()
+welduro
 weldus
 westi
 westo
@@ -27928,13 +27995,11 @@ yoyo
 yuko
 yuna
 yunaro
-yunaro ()
 yunesala
-yunesala aspekto ()
+yunesala aspekto
 yunesala stroko
 yunesi
 yuneso
-yuneso ()
 yuni
 yunino
 yuno
@@ -27943,14 +28008,12 @@ yunulo
 yuri
 yuristo
 yurizar
-yurizar ()
 yurizita
 yuriziti
 yurizo
 yuro
 yuro di autoro
 yurocienco
-yurocienco ()
 yurto
 yusta
 yusteso
@@ -28042,7 +28105,7 @@ zonizota
 zonizoti
 zonizoto
 zonizus
-zonkordono ()
+zonkordono
 zono
 zoo
 zoofito

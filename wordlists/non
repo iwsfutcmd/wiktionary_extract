@@ -1,9 +1,10 @@
+*
 *banki
 *biugg
 *brenka
 *fjala
 *fljúga
-*fāʀ
+*fáʀ
 *haugʀ
 *himinjaðarr
 *iūl
@@ -48,9 +49,11 @@
 -ingr
 -ingu
 -inn
+-ir
 -iskr
 -it
 -k
+-ki
 -kund
 -kundr
 -la
@@ -60,6 +63,7 @@
 -naðr
 -ni
 -r
+-riði
 -s
 -semi
 -skapr
@@ -84,6 +88,8 @@
 3rd plural past indicative
 3rd singular present subjunctive
 600s
+:
+A
 Agli
 Agmundr
 Aksel
@@ -106,6 +112,7 @@ Arna
 Arnhǫfði
 Arni
 Askr
+Atripiden
 Aurvangr
 Austmarr
 Austra
@@ -113,12 +120,14 @@ Austri
 Auðhumbla
 Axel
 Aðalgeirr
+B
 Baldr
 Baldri
 Baldrs
 Balldr
 Beiaraland
 Bekan
+Berurjóðr
 Biflindi
 Bifröst
 Bifrǫst
@@ -140,6 +149,7 @@ Bjǫrn
 Bláin
 Bláinn
 Bláins
+Bláland
 Bláni
 Blátǫnn
 Bolgaraland
@@ -150,6 +160,7 @@ Borgildr
 Borr
 Braga
 Bragi
+Bretland
 Brimi
 Brimir
 Brimis
@@ -167,11 +178,13 @@ Bíldr
 Búrr
 Bǫfurr
 Bǫlverkr
-Bǫlverkr m ()
 Bǫmburr
 Bǫðvarr
+C
+D
 Dagný
 Danmǫrk
+Danparstaðr
 Dolgþrasir
 Dragvandill
 Draupnir
@@ -199,6 +212,7 @@ Dúfr
 Dúrnis
 Dǫkkálfar
 Dǫrruðr
+E
 East Norse
 Eastern form
 Edinborg
@@ -213,6 +227,7 @@ Eileifr
 Eiláfr
 Eilífr
 Einarr
+Einheri
 Eir
 Eirekr
 Eirík
@@ -233,8 +248,10 @@ Eyrasund
 Eysteinn
 Eystrasalt
 Eysýsla
+Eyvindr
 Eðna
 Eðnu
+F
 Farmatýr
 Faþer vár
 Fetbreiðr
@@ -281,16 +298,20 @@ Færeyja
 Færeyjar
 Færeyjum
 Fíli
+G
 Galiza
+Galizu
 Galizuland
 Gandalfr
 Gandálfr
 Gapþrosnir
+Garðakonungr
 Garðar
 Garðaríki
 Garðaveldi
 Garðkonungr
 Gauti
+Gautland
 Gautr
 Gautstafr
 Geirmundr
@@ -318,6 +339,8 @@ Gullintanni
 Gullvarta
 Gunnar
 Gunnarr
+Gunnhildar
+Gunnhildr
 Gunni
 Gunnr
 Gunnvǫr
@@ -326,9 +349,11 @@ Guðmundr
 Guðr
 Guðrún
 Góinn
+H
 Hafrsfjǫrðr
 Hafrsló
 Hagbarðs
+Halldórr
 Hamðir
 Hanarr
 Hanga
@@ -340,6 +365,7 @@ Haralds
 Harvaðafjǫll
 Harðangr
 Haugspori
+Haðar
 Heimdallar
 Heimdallr
 Helga
@@ -353,6 +379,7 @@ Helsingjalands
 Hepti
 Herjann
 Herjans
+Heði
 Hippokrates
 Hjalmþér
 Hjaltland
@@ -362,8 +389,12 @@ Hjálmþér
 Hjǫrdís
 Hlakkar
 Hlévangr
+Hlóriði
+Hlórriði
 Hlǫkk
 Hneitir
+Holmgarðaborg
+Holmgarðaríki
 Holmgarðr
 Hornbori
 Hreiðarr
@@ -392,7 +423,12 @@ Hǫgni
 Hǫlga
 Hǫrðaland
 Hǫrðr
+Hǫð
 Hǫðr
+Hǿni
+Hǿnir
+Hǿnis
+I
 Inga
 Ingi
 Ingibjǫrg
@@ -405,6 +441,7 @@ Ingvarr
 Ispanía
 Ispaníaland
 Iðavǫllr
+J
 Jakobsland
 Jakobsmessa
 Jamtaland
@@ -414,8 +451,11 @@ Jari
 Jaðarr
 Játvarðr
 Jésús
+Jórsala
 Jórsalaborg
+Jórsali
 Jórsalir
+Jórsǫlum
 Jórunn
 Jórvík
 Jótland
@@ -426,6 +466,7 @@ Jǫrmungandr
 Jǫrmunrekr
 Jǫruvǫllr
 Jǫtunheimr
+K
 Kaldhamarsnautr
 Kalman
 Kantaraborg
@@ -437,6 +478,7 @@ Keldur
 Kinaðr
 Kirjálabotn
 Kirkjuvágr
+Kiænugarðr
 Kjaran
 Kliflǫnd
 Knútr
@@ -449,10 +491,13 @@ Krít
 Kvasir
 Kvernbiti
 Kvásir
+Kænir
+Kænugarðr
 Kíli
 Kípr
 Kúrland
 Kœnugarðr
+L
 Lafranz
 Langbarðaland
 Langbarðalandi
@@ -488,6 +533,7 @@ Lóni
 Lǫgberg
 Lǫgbergi
 Lǫgbergsganga
+M
 Madla
 Magnús
 Malla
@@ -507,6 +553,7 @@ Mjǫllnir
 Mjǫðvitni
 Mjǫðvitnir
 Mjǫðvitnis
+Myrkviðr
 Mímameiðr
 Mímir
 Mímisbrunnr
@@ -523,11 +570,13 @@ Mǫgþrasir
 Mǫn
 Mǿri
 Mǿrr
+N
 Namsborg
 Nepr
 Niðarós
 Niði
 Njǫrðr
+Nogarðar
 Noregr
 Norwegian Bokmål: glede
 Norðimbraland
@@ -536,6 +585,9 @@ Norðreyjar
 Norðri
 Norðvegr
 Norðvík
+Norðymbraland
+Norðymbralandi
+Norðymbralands
 Náinn
 Náli
 Nár
@@ -549,11 +601,18 @@ Nýi
 Nýr
 Nýráðr
 Nǫrvasund
+Nǫrvasundi
+Nǫrvasunds
+O
 Oddr
 Orkneyingr
 Orkneyja
+Orkneyjanna
 Orkneyjar
+Orkneyjarnar
 Orkneyjum
+Orkneyjunum
+P
 Persaland
 Persiða
 Persiðaland
@@ -563,6 +622,8 @@ Próvenzfylki
 Pétr
 Púl
 Púll
+Q
+R
 Ragnarr
 Ragnfríðr
 Ragnhildar
@@ -572,6 +633,7 @@ Rannveig
 Rannveigar
 Reginn
 Reimsborg
+Reiðgotaland
 Reykjavík
 Runic
 Runic form
@@ -586,6 +648,7 @@ Rómaborg
 Rómferill
 Rúni
 Rǫgnvaldr
+S
 Salernaborg
 Salerni
 Saxelfr
@@ -655,6 +718,7 @@ Sváfaland
 Sváfi
 Svíurr
 Svíþjóð
+Svíþjóðu
 Svǫlnir
 Svǫlnis
 Swedish ringkvinna
@@ -664,11 +728,19 @@ Sö 176
 Sö 47
 Sýrland
 Sýría
+S̩
+T
 Takn
 Taðkr
 Temps
 Tems
+Tilbipen
+Tribipen
+Tribuðiz
+Tripipen
+Tripiðen
 Tryggvi
+Tuna
 Tveggi
 Tveggja
 Tyrfingr
@@ -676,11 +748,13 @@ Tyrkland
 Tífr
 Týr
 Týrvist
+U
 Ullar
 Ullr
 Uppsalir
 Uppsǫlum
 Urðr
+V
 Vafþrúðni
 Vafþrúðnis
 Valfǫðr
@@ -729,6 +803,9 @@ Vǫlundarkviða
 Vǫlundi
 Vǫlundr
 Vǫluspá
+W
+X
+Y
 Yggdrasill
 Yggjar
 Yggr
@@ -741,7 +818,9 @@ Yngvarr
 Yngvars
 Yngvi
 Yngvi-Freyr
+Z
 [Term?]
+a
 abbadissa
 abbadís
 abbatissa
@@ -984,6 +1063,7 @@ aptrgǫngunum
 aptrgǫngur
 aptrgǫngurnar
 aptunn
+apynja
 ara
 arfa
 arfann
@@ -1093,6 +1173,7 @@ athyggja
 atkeri
 atti
 auga
+augabragð
 augabrá
 augastaðr
 augasteinn
@@ -1197,12 +1278,15 @@ aðal
 aðra
 aðrar
 aðrir
+a᷎
+b
 bagall
 bagalstafr
 baglaðr
 baka
 baka hatr
 bakka
+bakkakolfr
 bakkakólfr
 bakki
 bakrauf
@@ -1218,6 +1302,7 @@ bakstrofn
 bakstrsveinn
 ballar
 ballr
+ballriði
 bana
 banablóð
 banadagr
@@ -1233,9 +1318,7 @@ banasár
 banasótt
 banatilræði
 banaþúfa
-band
 banda
-bandamaðr
 bandi
 bandingi
 bands
@@ -1321,7 +1404,6 @@ baztr
 bað
 baðkona
 baðmr
-beech wood
 beggja
 beiddi
 beiddr
@@ -1595,13 +1677,18 @@ bjǫrtum
 bjǫð
 bjǫðum
 blakkr
+blakkriði
 blanda
 blanda blóði saman
 blandin
 blandinn
 blandit
+blandið
 blautleikr
 blautr
+blauðan
+blauðr
+blauðum
 blað
 blaðinu
 blaðra
@@ -1611,12 +1698,15 @@ bleika
 bleikan
 bleikja
 bleikr
+blend
+blendr
 blesóttr
 blettr
 bleyði
 bleðja
 bliku
 blinda
+blindan
 blindi
 blindleikr
 blindr
@@ -1753,6 +1843,7 @@ blóðǫrn
 blý
 blœti
 blœða
+blǫndum
 blǫðin
 blǿddu
 blǿða
@@ -1774,6 +1865,10 @@ borginni
 borgir
 borin
 borinn
+borinna
+borinnar
+borinni
+borins
 borit
 borna
 bornar
@@ -1898,6 +1993,7 @@ brugga
 brugginn
 brugðinn
 brugðit
+brugðu
 brunn
 brunna
 brunnar
@@ -1939,7 +2035,7 @@ brún
 brúnahiminn
 brúnahǫrgr
 brúnaðr
-brúnmóálóttr ()
+brúnmóálóttr
 brúnn
 brúnna
 brúnnar
@@ -1982,6 +2078,7 @@ burðarsveinn
 burðartími
 burðartíð
 burðr
+burðugr
 butta
 buænder
 buð
@@ -2062,23 +2159,22 @@ bógr
 bógum
 bók
 bóka
-bóka ()
 bókafullting
-bókagørð f ()
+bókagørð
 bókakis
-bókalesning f ()
-bókalestr m ()
+bókalesning
+bókalestr
 bókalán
 bókar
 bókarblað
-bókareiðr m ()
-bókareiðstafr m ()
+bókareiðr
+bókareiðstafr
 bókargørð
 bókarlag
 bókarskeyting
-bókartak n ()
+bókartak
 bókarverð
-bókarvitni n ()
+bókarvitni
 bókaskilningr
 bókastóll
 bókfell
@@ -2088,7 +2184,7 @@ bókin
 bókina
 bóklauss
 bóklaust
-bóklestr m ()
+bóklestr
 bókligr
 bóklist
 bóklærðr
@@ -2174,7 +2270,7 @@ bǫls
 bǫlstafir
 bǫlva
 bǫlvan
-bǫlvasmiðr m ()
+bǫlvasmiðr
 bǫlvat
 bǫlvaðr
 bǫlvi
@@ -2214,6 +2310,7 @@ bǿjar
 bǿjarins
 bǿjum
 bǿjunum
+bǿkiskógr
 bǿklingr
 bǿkr
 bǿn
@@ -2223,6 +2320,8 @@ bǿnir
 bǿnum
 bǿr
 bǿrinn
+c
+d
 dafna
 dag
 daga
@@ -2297,7 +2396,6 @@ danir
 danska
 danskan
 danskr
-danskr ()
 dansleikr
 dapr
 dapra
@@ -2429,7 +2527,6 @@ drukna
 druknar
 drupu
 drykkja
-drykkja f ()
 drykkju
 drykkr
 drífandi
@@ -2579,7 +2676,6 @@ dýrt
 dýrð
 dýrðar
 dœl
-dœld
 dœll
 dœlskr
 dœma
@@ -2627,6 +2723,7 @@ dǫnskunni
 dǫnum
 dǫpr
 dǫrruðr
+dǿld
 dǿma
 dǿmandi
 dǿmda
@@ -2647,12 +2744,12 @@ dǿtr
 dǿtra
 dǿtrum
 dȳʀ
+e
 e-m for einhverjum
 e-n
 e-s for einhvers
 e-t for eitthvert
 e-u for einhverju
-earn
 ebreska
 ebreskr
 ec
@@ -2733,6 +2830,7 @@ einnar
 einngi
 einnhverr
 einni
+einriði
 eins
 einsetukona
 einu
@@ -2915,6 +3013,7 @@ epztr
 er
 erendi
 erfa
+erfaði
 erfingi
 erfiði
 erfð
@@ -3014,12 +3113,16 @@ eyrir
 eyrna
 eyrnalof
 eyrr
+eyru
 eyrum
 eystri
+eyðimǫrk
 eyðla
 eðla
 eðli
 eðr
+e᷎
+f
 fagna
 fagnafundr
 fagnaðaratburðr
@@ -3079,7 +3182,6 @@ fallna
 falr
 falskona
 fann
-far
 fara
 fara heim
 fara heim á leið
@@ -3200,6 +3302,7 @@ feðr
 feðra
 feðranna
 feðrum
+fimbul-
 fimleikr
 fimm
 fimm tigir
@@ -3278,7 +3381,6 @@ fiðr
 fiðraðr
 fiðri
 fjalabrú
-fjalakottr
 fjalakǫttr
 fjall
 fjallasalr
@@ -3314,7 +3416,7 @@ fjáreyðsla
 fjáreyðslumaðr
 fjárfang
 fjárfar
-fjárforráð n ()
+fjárforráð
 fjárframlag
 fjárfundr
 fjárfóðr
@@ -3324,7 +3426,7 @@ fjárgjald
 fjárgjǫf
 fjárgæzla
 fjárgæzlumaðr
-fjárhagr m ()
+fjárhagr
 fjárhald
 fjárheimta
 fjárhirzla
@@ -3348,7 +3450,7 @@ fjárskakki
 fjárskaði
 fjárskipti
 fjárstarf
-fjárstaðr m ()
+fjárstaðr
 fjártaka
 fjártilkall
 fjártjón
@@ -3386,6 +3488,7 @@ fjǫldi
 fjǫlga
 fjǫlgan
 fjǫlgr
+fjǫlhǫfðaða
 fjǫlhǫfðaðr
 fjǫlkyngiskona
 fjǫll
@@ -3532,8 +3635,8 @@ folkit
 folks
 folksins
 for
+for því
 forellri
-forest
 formessa
 forn
 fornafn
@@ -3567,6 +3670,9 @@ framfœrslukerling
 frami
 framr
 framsýn
+frauki
+frauð
+frauðr
 freginn
 fregit
 fregn
@@ -3601,10 +3707,10 @@ friðlumaðr
 friðlur
 friðlusonr
 friðr
-frjalsleikr
 frjádagr
 frjádagskveld
 frjákveld
+frjálsleikr
 frjár
 frjó
 frjór
@@ -3618,6 +3724,7 @@ froskr
 frost
 frouva
 frova
+froða
 frá
 frágu
 frágum
@@ -3633,6 +3740,7 @@ frásǫgn
 frátt
 fræ
 frægi
+frægr
 frægðar
 frænda
 frændi
@@ -3666,8 +3774,10 @@ frœkleikr
 frœkn
 frœknleikr
 frœknligr
+frœði
 frǫmuð
 frǫmuðr
+frǿði
 fugl
 full
 fullan
@@ -3678,6 +3788,7 @@ fullrar
 fullt
 fullu
 fullum
+funa
 fund
 fundar
 fundi
@@ -3687,6 +3798,7 @@ fundit
 fundr
 fundu
 fundum
+funi
 fura
 furu
 fuð
@@ -3706,7 +3818,6 @@ fylgðu
 fyli
 fylja
 fylki
-fylki ()
 fylking
 fylkir
 fylkis
@@ -3784,6 +3895,7 @@ færeyskr
 fæð
 fæða
 fé
+féar
 féauðnumaðr
 féboð
 fébrǫgð
@@ -3795,7 +3907,7 @@ féfang
 féfastr
 féfellir
 féfesti
-féfletta ()
+féfletta
 féfrekr
 féfátt
 féfǫng
@@ -3896,12 +4008,19 @@ fíkjast
 fíl
 fíla
 fílaland
+fílar
 fílbein
+fíli
+fílinum
 fíll
+fíllinn
+fíls
 fílsbein
 fílsbeinskanna
 fílsleggr
 fílstǫnn
+fílum
+fílunum
 fíra
 fírar
 fírum
@@ -4003,6 +4122,7 @@ fǿtrna
 fǿtrnir
 fǿða
 fǿðu
+g
 gabb
 gabba
 gaddr
@@ -4163,6 +4283,7 @@ gear
 gedda
 gef
 gefa
+gefa gaum
 gefandi
 gefendr
 gefinn
@@ -4182,6 +4303,7 @@ geirr
 geirs
 geirum
 geirvangr
+geisa
 geisli
 geit
 geitarhugr
@@ -4247,6 +4369,7 @@ getr
 geyi
 geyja
 geyr
+geysi
 geðvangr
 gil
 gild
@@ -4342,7 +4465,10 @@ glý
 glýja
 glýjari
 glýjaðr
+glǫddu
+glǫdduð
 glǫggr
+glǫð
 gnastan
 gnyðja
 gnísting
@@ -4695,6 +4821,9 @@ gyrðils
 gyrðilum
 gyta
 gyzki
+gyðing
+gyðinga
+gyðingr
 gyðja
 gá
 gáfa
@@ -4750,6 +4879,7 @@ gørva
 gýgi
 gýgjar
 gýgr
+gýðingr
 gǫfga
 gǫfgan
 gǫfgari
@@ -4789,6 +4919,7 @@ gǫrðum
 gǫtu
 gǫtum
 gǫtur
+h
 hadda
 haddr
 haf
@@ -4826,8 +4957,8 @@ hagi
 hagldir
 hagleikr
 hagr
-haimr – Old Gutnish
-haita – Old Gutnish
+haimr — Old Gutnish
+haita — Old Gutnish
 haka
 haki
 halatafl
@@ -4968,7 +5099,7 @@ heimanfǫr
 heimaprestr
 heimar
 heimaríkr
-heimasæta ()
+heimasæta
 heimboð
 heimbǫllr
 heimdragi
@@ -5038,6 +5169,7 @@ helgr
 helgum
 heljar
 heljarkarl
+helju
 hella
 helli
 hellir
@@ -5148,7 +5280,7 @@ himinbogi
 himinborinn
 himinbrjótr
 himinbúi
-himinfastr ()
+himinfastr
 himingeimr
 himingeisli
 himinhringr
@@ -5226,6 +5358,7 @@ hixt
 hixta
 hixti
 hixtr
+hið
 hjala
 hjaldr
 hjaldri
@@ -5233,6 +5366,7 @@ hjallr
 hjalmaðr
 hjalmr
 hjalpa
+hjalpi
 hjalpið
 hjalskona
 hjalt
@@ -5252,6 +5386,7 @@ hjartmǫrr
 hjartna
 hjartnanna
 hjarðar
+hjarðir
 hjassi
 hjoggu
 hjá
@@ -5261,7 +5396,7 @@ hjó
 hjól
 hjóls
 hjú
-hjúkólfr
+hjúkolfr
 hjǫlpum
 hjǫr
 hjǫrdróttr
@@ -5416,6 +5551,7 @@ hnot
 hnykill
 hné
 hníga
+hnígið
 hnígr
 hnísa
 hníta
@@ -5452,6 +5588,7 @@ hofþénari
 hol
 hold-Mímir
 hollan
+holpinn
 holr
 holt
 holtin
@@ -5532,6 +5669,7 @@ hreiðrinu
 hreiðrit
 hreiðrs
 hrekja
+hrelling
 hress
 hressa
 hressandi
@@ -5547,7 +5685,7 @@ hreyr
 hreysar
 hreysi
 hreysikǫttr
-hreysivísla
+hreysivisla
 hrinda
 hring
 hringa
@@ -5657,7 +5795,6 @@ hugða
 hugði
 hugðr
 hugðu
-hul
 hulpu
 hulpum
 hulpuð
@@ -5767,6 +5904,7 @@ hverr
 hverr á fǿtr öðrum
 hvers
 hvert
+hverum
 hvessa
 hvetja
 hvika
@@ -5916,7 +6054,7 @@ háleikr
 háleitligr
 háleitr
 háleygr
-hálfr – Icelandic-Faroese
+hálfr
 hálfu
 hálleikr
 hálæti
@@ -5933,6 +6071,7 @@ háreysti
 háreystr
 hárr
 hárs
+hárum
 hás
 hásalr
 hásegl
@@ -5978,13 +6117,14 @@ hávum
 háð
 háði
 háðsemi
+hægr
 hæimr
 hæita
 hæll
 hæri
 hærra
 hærri
-hærukarl m ()
+hærukarl
 hærðr
 hæsi
 hæsta
@@ -6036,6 +6176,7 @@ hýrr
 hýsfreyja
 hýski
 hęill
+hœgr
 hœgri
 hœkingr
 hœkja
@@ -6122,6 +6263,7 @@ hǫttr
 hǿgr
 hǿgri
 hǿna
+i
 iak
 if
 iflauss
@@ -6165,7 +6307,9 @@ iðra
 iðri
 iðugligr
 iðuligr
+iðwarr
 iðʀ
+j
 jafn
 jafn-
 jafna
@@ -6186,6 +6330,7 @@ jakafǫr
 jaki
 jalda
 jaldna
+jalkr
 jam-
 jambreiðr
 jamn
@@ -6230,6 +6375,7 @@ jerfr
 jorð
 jungfrú
 já
+jálkr
 jálmr
 járn
 jó
@@ -6256,11 +6402,23 @@ jólatíðir
 jólaveizla
 jólavist
 jólaǫl
+jólnir
 jór
 jóreið
 jóreykr
 jórsalafari
 jórsalaferð
+jórsalaferða
+jórsalaferðanna
+jórsalaferðar
+jórsalaferðarinnar
+jórsalaferðin
+jórsalaferðina
+jórsalaferðinni
+jórsalaferðir
+jórsalaferðirnar
+jórsalaferðum
+jórsalaferðunum
 jórsalafǫr
 jórsalalýðr
 jós
@@ -6313,6 +6471,7 @@ jǫtunuxi
 jǫðrum
 jǫður
 jǫðurr
+k
 kaggi
 kaggr
 kaka
@@ -6354,12 +6513,12 @@ karlefni
 karlfjǫldi
 karlfǫt
 karlgildr
-karlhǫfuð n ()
+karlhǫfuð
 karlhǫfði
 karli
 karlkenndr
 karlklæði
-karlkostr m ()
+karlkostr
 karlkyn
 karlleggr
 karlmannliga
@@ -6375,7 +6534,7 @@ karmann
 karmaðr
 kasta
 kasta fótum undir sik
-kasta um ()
+kasta um
 kastar
 kastat
 kastaða
@@ -6405,6 +6564,7 @@ kefja
 keip
 keipa
 keipr
+keisari
 kelda
 keldulækr
 kelduskítr
@@ -6490,7 +6650,9 @@ kjapta
 kjaptar
 kjaptr
 kjarr
+kjenge
 kjálki
+kjárr
 kjóla
 kjóli
 kjóll
@@ -6598,6 +6760,8 @@ koddi
 kofnalaukr
 kol
 kolakarl
+kolfr
+kolfskot
 kolla
 kom
 koma
@@ -6690,7 +6854,7 @@ kretta
 kringja
 kringla
 kringluskurðr
-kringlusótt ()
+kringlusótt
 kringlóttr
 kringr
 kristinn
@@ -6712,10 +6876,12 @@ krákr
 krákuskel
 krækiber
 krókr
+krýpr
 krǫptr
 kubl
 kul
 kuldi
+kuma
 kumbl
 kuml
 kuna
@@ -6783,7 +6949,7 @@ kvennanám
 kvennaráð
 kvennasiðr
 kvennaskap
-kvennaskipan f ()
+kvennaskipan
 kvennaskáli
 kvennasveit
 kvennavagn
@@ -6819,7 +6985,6 @@ kvikr
 kviksetja
 kvikudropi
 kvikva
-kvikva f ()
 kvikvavǫðvi
 kvikvendi
 kvinna
@@ -6912,8 +7077,6 @@ kálgarðr
 kærleikr
 kærligr
 kærr
-kólfr
-kólfskot
 kómu
 kópr
 kømr
@@ -6950,6 +7113,7 @@ kǫstuðum
 kǫstuðuð
 kǫttr
 kǫttum
+l
 lag
 laga
 lagabeizla
@@ -7020,7 +7184,7 @@ landi
 landinu
 landit
 landnorðr
-landnámabók f ()
+landnámabók
 lands
 landsins
 landsmegin
@@ -7075,7 +7239,7 @@ laungetinn
 launkona
 launkoss
 launkárr
-launmaðr m ()
+launmaðr
 launmæli
 launráð
 launstefna
@@ -7175,6 +7339,7 @@ leikmikill
 leikmær
 leikmót
 leikr
+leiks
 leikskáli
 leikstefna
 leiksveinn
@@ -7188,6 +7353,7 @@ leiptr
 leir
 leira
 leiróttr
+leit
 leita
 leið
 leiðangr
@@ -7245,6 +7411,8 @@ leyg
 leygjar
 leygr
 leygs
+leynd
+leyniligr
 leðr
 lifa
 lifir
@@ -7252,6 +7420,7 @@ lifna
 lifnaðr
 lifr
 ligg
+liggi
 liggja
 liggja á grúfu
 liggr
@@ -7386,6 +7555,7 @@ lokins
 lokit
 loknar
 loknum
+loks
 lombarzkr
 lopt
 lopti
@@ -7576,7 +7746,7 @@ lǫgfrœði
 lǫgfullr
 lǫgfundr
 lǫgfá
-lǫgfákr m ()
+lǫgfákr
 lǫgg
 lǫggarðr
 lǫggrið
@@ -7589,7 +7759,7 @@ lǫgkœni
 lǫgkœnn
 lǫgkœnska
 lǫglauss
-lǫgleiða ()
+lǫgleiða
 lǫgleysa
 lǫgliga
 lǫgligr
@@ -7654,6 +7824,7 @@ lǫstr:
 lǫxum
 lǫxunum
 lǫð
+m
 m ()
 maga
 magar
@@ -7708,7 +7879,7 @@ mannanna
 mannareið
 mannasamnaðr
 mannaseta
-mannaskipan f ()
+mannaskipan
 mannaskipti
 mannaslóð
 mannaspor
@@ -7739,7 +7910,7 @@ manndýrðir
 manneldi
 manneygr
 mannfagnaðr
-mannfall n ()
+mannfall
 mannfang
 mannfarmr
 mannferð
@@ -7983,6 +8154,7 @@ meldrar
 melir
 melja
 melr
+melrakki
 men
 mengi
 menglǫtuðr
@@ -8106,9 +8278,9 @@ mjá
 mjár
 mjátt
 mjávara
+mjólk
 mjór
 mjóvara
-mjöl
 mjúkleikr
 mjúkr
 mjǫk
@@ -8151,6 +8323,7 @@ morna
 mornan
 morð
 morðari
+morðgjarn
 morði
 morðs
 morðvargr
@@ -8180,6 +8353,7 @@ myki
 mykill
 mykireka
 mykiskán
+mykr
 mylja
 mylkja
 mynd
@@ -8193,6 +8367,7 @@ myrginn
 myrgunn
 myrkr
 myrkt
+myrkvan
 má
 mágr
 mál
@@ -8243,6 +8418,7 @@ mæran
 mæri
 mærin
 mærr
+mæti
 mætr
 mætta
 mættak
@@ -8282,6 +8458,7 @@ mýrar
 mýrr
 mœddr
 mœnir
+mœta
 mœða
 mœðr
 mǫg
@@ -8319,10 +8496,15 @@ mǫrðu
 mǫrðum
 mǫsurr
 mǫtum
+mǫ́l
+mǫ́lum
+mǿrr
 mǿta
+mǿti
 mǿðgar
 mǿðgin
 mǿðgur
+n
 nadda
 naddr
 nafar
@@ -8350,6 +8532,7 @@ nata
 naust
 nausta
 nausts
+naustum
 naut
 nauta
 nautar
@@ -8383,6 +8566,7 @@ nepja
 nes
 nesi
 nesjum
+nest
 net
 netju
 netjur
@@ -8398,6 +8582,7 @@ neðarr
 neðarri
 neðri
 neðstr
+nift
 nipt
 nið
 niðja
@@ -8540,6 +8725,7 @@ nǫðru
 nǫðrum
 nǫðrur
 nǫ́tt
+o
 occurring by the 800s in West Norse and late 1000s in East Norse
 oddi
 oddr
@@ -8570,6 +8756,7 @@ ollir
 ollu
 ollum
 opna
+opnask
 opt
 optar
 optarr
@@ -8595,6 +8782,7 @@ orrosta
 orrostu
 orrostugoð
 orrostur
+orrusta
 ort
 orta
 orti
@@ -8622,14 +8810,21 @@ ostum
 otr
 ouroboros
 oxi
+o᷎
+p
 padda
 palmadróttinsdagr
 palmasunnudagr
 pata
 pati
+pilltr
+piltr
+pipari
+piparr
 plógkarl
 plógr
 plǿgja
+poetic
 pors
 portkona
 posi
@@ -8657,6 +8852,7 @@ preststíund
 prestsvigsla
 prestum
 prestvist
+prose
 prúðleikr
 purka
 pyttr
@@ -8665,7 +8861,11 @@ páfi
 pái
 píka
 pína
+pínda
+píndu
 púta
+q
+r
 rabba
 raga
 ragan
@@ -8724,6 +8924,7 @@ rauðr
 rauðri
 rauðs
 rauðum
+refhvǫrf
 refr
 regi
 regin
@@ -8731,7 +8932,6 @@ regina
 regindómr
 regingrjót
 reginkunnr
-reginkunnr ()
 reginkunnum
 reginnagl
 reginþing
@@ -8749,6 +8949,7 @@ reimum
 reini
 reis
 reisa
+reist
 reista
 reisti
 reistu
@@ -8853,6 +9054,7 @@ rjúkir
 rjúkið
 rjúkum
 rjúpa
+rof
 rokinn
 rokkr
 rosi
@@ -8883,6 +9085,7 @@ rákusk
 rákuð
 rámr
 rán
+ráns
 ránsfé
 rár
 rás
@@ -8926,6 +9129,8 @@ ríkr
 rísa
 rísta
 ríta
+rítr
+rítum
 ríða
 ríðr
 ró
@@ -8989,10 +9194,14 @@ rǫðlasalr
 rǫðli
 rǫðull
 rǫðuls
+rǫ́n
+rǫ́num
+rǫ́ð
 rǿki
 rǿkir
 rǿkja
 rǿr
+s
 sadda
 saddr
 safi
@@ -9086,7 +9295,7 @@ sandasalr
 sandbakki
 sandbrekka
 sandbára
-sandfall ()
+sandfall
 sandfjúk
 sandfǫnn
 sandhaf
@@ -9095,7 +9304,7 @@ sandhiminn
 sandhverfa
 sandhóll
 sandi
-sandkoma ()
+sandkoma
 sandkorn
 sandlægja
 sandló
@@ -9133,7 +9342,7 @@ sannliga
 sannligr
 sannmáll
 sannmálugr
-sannmæli ()
+sannmæli
 sannmæltr
 sannorðr
 sannprófa
@@ -9198,6 +9407,7 @@ segl
 seglrá
 segulsteinn
 segði
+seimr
 seizla
 seið
 seiða
@@ -9315,6 +9525,19 @@ siklingr
 siklings
 silfr
 sili
+silki
+silkiband
+silkiblaka
+silkibleikr
+silkidúkr
+silkihjúpr
+silkihlað
+silkikult
+silkisaumaðr
+silkislœðr
+silkislǿðr
+silkitreyja
+silkiþráðr
 simul
 sin
 sina
@@ -9326,7 +9549,10 @@ sinni
 sissa
 sissaðr
 sit
+sitir
+sitið
 sitja
+sitjum
 sitr
 sitt
 siz
@@ -9350,6 +9576,7 @@ sjaustirni
 sjautigi
 sjautján
 sjaután
+sjax
 sjá
 sjálfgi
 sjálfr
@@ -9398,6 +9625,7 @@ skaga
 skagi
 skak
 skaka
+skakið
 skal
 skald
 skalda
@@ -9449,6 +9677,7 @@ skava
 skaða
 skaði
 skegg
+skeggǫx
 skein
 skeina
 skeindr
@@ -9545,6 +9774,7 @@ skjómi
 skjót
 skjóta
 skjóta fótum undir sik
+skjótandi
 skjóti
 skjótim
 skjótir
@@ -9568,6 +9798,10 @@ skorpíónn
 skotinn
 skotit
 skotningr
+skoða
+skoðar
+skoðask
+skoðaði
 skraddari
 skrafkarl
 skrapa
@@ -9580,13 +9814,17 @@ skreyta
 skrá
 skrækja
 skrælingaland
+skrælingar
 skrælingaskip
 skrælingi
 skrælingjar
+skrælingjum
+skríða
 skríða í hreysi
 skrúðhosa
 skrúðklæði
 skrúðkyrtill
+skuggsjá
 skuggsjón
 skuld
 skuldleikr
@@ -9598,6 +9836,7 @@ skutu
 skutum
 skutusk
 skutuð
+skyggnask
 skyggðir
 skygnleikr
 skylda
@@ -9664,12 +9903,15 @@ skíðs
 skógar
 skógi
 skógr
+skógrinn
+skógum
 skók
 skóku
 skókusk
 skóp
 skópu
 skór
+sköll
 skúfr
 skúmi
 skúr
@@ -9683,6 +9925,8 @@ skýtr
 skœpisk
 skœðleikr
 skǫfuleikr
+skǫkum
+skǫll
 skǫmm
 skǫmmu
 skǫmmum
@@ -9726,6 +9970,7 @@ smokka
 smokkr
 smyrill
 smyrja
+smyrsk
 smyrsl
 smyrva
 smá
@@ -9791,11 +10036,14 @@ snjóvar
 snor
 snyrtir
 snyðja
+snákr
 snælda
 snær
 snæva
 sníða
+snókr
 snøggr
+snøggvan
 snør
 snúa
 snýr
@@ -9824,6 +10072,7 @@ sollr
 soltinn
 som
 somar
+somarr
 son
 sona
 sonar
@@ -9920,6 +10169,7 @@ spámaðr
 spánn
 spár
 spásǫgn
+spázera
 spáðr
 spætr
 spónn
@@ -9962,7 +10212,7 @@ starfsami
 starfsamr
 stargresi
 starkr
-starting in the mid 900s in Denmark Accusative
+starting in the mid 900s in Denmark
 statt
 staup
 staur
@@ -10029,6 +10279,7 @@ steinsmíði
 steinsótt
 steintjald
 steintálga
+steinum
 steinóði
 steinóðr
 steinþró
@@ -10231,6 +10482,7 @@ stǫðugr
 stǫðum
 stǫðva
 stǫðvar
+stǿra
 sugu
 sugum
 suguð
@@ -10370,6 +10622,7 @@ svimit
 svimma
 svimra
 svinn
+svinna
 svinnr
 svipaljótr
 svipu
@@ -10382,6 +10635,9 @@ sviðu
 svá
 sváfu
 sváfum
+sváss
+svásum
+svát
 svæfa
 svæfi
 svæfim
@@ -10401,7 +10657,6 @@ svíum
 svíða
 svíðr
 svǫlu
-svǫlva
 svǫppr
 svǫr
 svǫrin
@@ -10458,9 +10713,9 @@ synst
 synstr
 systir
 systkin
-systkinabǫrn n pl ()
-systkinadœtr f pl ()
-systkinadœtrasynir m pl ()
+systkinabǫrn
+systkinadœtr
+systkinadœtrasynir
 systkinasonr
 systkini
 systr
@@ -10482,6 +10737,7 @@ sára
 sárinu
 sárit
 sárleikr
+sárr
 sárum
 sás
 sáta
@@ -10542,8 +10798,10 @@ sækona
 sækonungr
 sækvikendi
 sækyrra
+sælir
 sælið
 sæll
+sælum
 sælægja
 sælægr
 sæng
@@ -10551,6 +10809,7 @@ sængarkona
 sængrhiminn
 sængrkona
 sænkja
+sænskr
 sær
 sæsjúkr
 sæskip
@@ -10730,6 +10989,7 @@ sǫl
 sǫlt
 sǫlum
 sǫm
+sǫmdu
 sǫndugr
 sǫng
 sǫngbók
@@ -10757,7 +11017,9 @@ sǫðull
 sǫðulreim
 sǫðulreiði
 sǫðuls
-sǫðultreyja f ()
+sǫðultreyja
+sǫ́r
+sǫ́rum
 sǿfa
 sǿfendr
 sǿki
@@ -10770,6 +11032,8 @@ sǿtan
 sǿtari
 sǿtr
 sǿtt
+s̩
+t
 tafl
 taflfé
 tafn
@@ -10830,6 +11094,8 @@ taurarr
 tauta
 tefja
 tefla
+tefldi
+tefldu
 tegr
 teigr
 teina
@@ -10839,6 +11105,7 @@ teinn
 teins
 teita
 teitan
+teitastr
 teitir
 teitr
 teitri
@@ -10904,6 +11171,7 @@ tigu
 tigum
 til
 til sǫlu
+tilfelli
 tillit
 timbr
 timbra
@@ -10976,6 +11244,7 @@ trollkona
 trollkundr
 troða
 troðinn
+trug
 trumba
 trumbari
 trumbuhljóð
@@ -11131,6 +11400,7 @@ túngǫltr
 túnhlið
 túni
 túnriða
+túnriður
 túns
 túnsvið
 túnsvín
@@ -11178,6 +11448,7 @@ tǿki
 tǿkim
 tǿkir
 tǿkið
+u
 ugg
 ugga
 uggligr
@@ -11221,7 +11492,7 @@ undit
 undorn
 undr
 undra
-undrsjón f ()
+undrsjón
 undrum
 unga
 ungan
@@ -11270,6 +11541,7 @@ urðuð
 uxa
 uxi
 uðr
+v
 vaf
 vafinn
 vafiðr
@@ -11279,7 +11551,6 @@ vagl
 vagna
 vagnkarl
 vaka
-vaker
 vaki
 vakir
 vakið
@@ -11433,13 +11704,16 @@ veggjalús
 veggr
 veggruni
 vegi
+vegim
 veginn
+vegir
 vegit
 vegligastr
 vegligr
 vegr
 vegs
 vegum
+vegvísir
 veifa
 veigarr
 veik
@@ -11552,7 +11826,7 @@ vestastr
 vestmaðr
 vestr
 vestri
-vestrætt f ()
+vestrætt
 vestrœnn
 vestrǿnn
 vesæll
@@ -11571,12 +11845,14 @@ vex
 vexr
 veðfé
 veðr
+veðreygr
 vigg
 viggja
 viggs
 vika
 vikna
 viku
+vikum
 vikur
 vikóttr
 vil
@@ -11743,7 +12019,6 @@ vráku
 vrákuð
 vríða
 vrót
-vyðr
 vá
 váfreið
 vág
@@ -11787,11 +12062,13 @@ váruð
 vátr
 vátt
 váttr
+váttum
 váð
 váða
 váðahark
 váðakuldi
 váðaligr
+váðar
 váðasamligr
 váðaverk
 váði
@@ -11836,7 +12113,10 @@ værim
 værir
 værið
 værleikr
+vætti
+vættir
 vættki
+vættugi
 vættugis
 væzka
 vé
@@ -11863,9 +12143,12 @@ vígum
 vígð
 vígðan
 vígðr
+víking
 víkinga
 víkingar
+víkingi
 víkingr
+víkings
 víkingum
 vín
 vínberjakǫngull
@@ -11966,8 +12249,11 @@ vǫ́n
 vǫ́ru
 vǫ́rum
 vǫ́ruð
+w
 whence fnysa
 wīʀ
+x
+y
 ydda
 yfir
 yfirdróttning
@@ -12033,8 +12319,15 @@ yxn
 yxna
 yðarr
 yðr
+yðrar
+yðrir
 yðrum
+yður
+yðvarn
 yðvarr
+yðvars
+yðvart
+z
 Ái
 Áki
 Áland
@@ -12072,6 +12365,8 @@ yðvarr
 Ítalía
 Ítalíaland
 Ívarr
+Ò
+Ó
 Óinn
 Óleifr
 Óláfr
@@ -12084,6 +12379,12 @@ yðvarr
 Óðinn
 Óðins
 Óðni
+Ô
+Õ
+Ö
+Ø
+Útgarða-Loki
+Útgarðaloki
 Útgarðr
 Ými
 Ýmir
@@ -12091,6 +12392,7 @@ yðvarr
 Þekkr
 Þióðrekr
 Þjóðrekr
+Þorbjǫrn
 Þorgeirr
 Þorgnýr
 Þorinn
@@ -12116,7 +12418,6 @@ yðvarr
 Þór
 Þórbirni
 Þórbjarnar
-Þórbjǫrn
 Þórfreðr
 Þóri
 Þórir
@@ -12124,6 +12425,7 @@ yðvarr
 Þórr
 Þórshǫfn
 Þórðr
+ß
 á
 á milli
 á milli steins ok sleggju
@@ -12195,6 +12497,8 @@ yðvarr
 ás
 ása
 ásar
+ásjón
+ásjóna
 áss
 ásstubbi
 ást
@@ -12209,6 +12513,7 @@ yðvarr
 ásum
 ásunum
 ásynja
+ásynju
 ásynjur
 ásýn
 át
@@ -12236,6 +12541,7 @@ yðvarr
 áttniðr
 áttr
 áttrunnr
+áttrœðr
 áttrǿðr
 áttstafr
 áttu
@@ -12261,6 +12567,7 @@ yðvarr
 ær
 æra
 ærinnar
+æsi
 æsir
 æsirnir
 ætni
@@ -12281,8 +12588,8 @@ yðvarr
 ættarnafn
 ættarréttr
 ættarríki
-ættarskarð n ()
-ættarskǫmm f ()
+ættarskarð
+ættarskǫmm
 ættarspillir
 ættarsvipr
 ættartal
@@ -12310,13 +12617,13 @@ yðvarr
 ættleggr
 ættleifð
 ættleiða
-ættleiðing f ()
+ættleiðing
 ættleiðingr
 ættlera
 ættleri
 ættliðr
 ættmenn
-ættnafn n ()
+ættnafn
 ættniðr
 ættrif
 ættsmár
@@ -12330,6 +12637,7 @@ yðvarr
 ævi
 æða
 æðr
+éarn
 ér
 í
 í gegnum
@@ -12360,8 +12668,11 @@ yðvarr
 íviðja
 íviðjur
 íþrótt
+íʀ
 ðveit
+ò
 òos
+ó
 ó-
 óask
 óframliga
@@ -12394,8 +12705,10 @@ yðvarr
 ón
 ór
 óra
+óran
 órar
 órir
+órr
 óru
 órum
 órǿkinn
@@ -12412,9 +12725,14 @@ yðvarr
 ósvífr
 ótryggr
 ótti
+óvin
+óvina
 óvinafǫgnuðr
 óvinar
+óvini
+óvinir
 óvinr
+óvinum
 óvígr
 óvíss
 óx
@@ -12431,10 +12749,16 @@ yðvarr
 óðlast
 óðr
 óðu
+óþarfa
 óþarfr
 óþurfendr
 óþǫrf
+ô
+õ
+ö
 örmalr
+örr
+ø
 øfri
 øfsti dómr
 øfstr
@@ -12449,6 +12773,7 @@ yðvarr
 øxar
 øðla
 øðli
+ø᷎
 ú-
 úalinn
 úbeinn
@@ -12491,7 +12816,7 @@ yðvarr
 útanfjórðungs
 útanfótar
 útanfǫr
-útangarða ()
+útangarða
 útangarðs
 útangátta
 útanheraðs
@@ -12505,7 +12830,7 @@ yðvarr
 útansóknar
 útanverðr
 úti
-útifé n ()
+útifé
 útiginn
 útmokstr
 útnorðr
@@ -12586,7 +12911,7 @@ yðvarr
 þeir
 þeira
 þeirra
-þeirra – Icelandic-Faroese
+þeirra — Icelandic-Faroese
 þeisti
 þekja
 þekkasti
@@ -12638,6 +12963,7 @@ yðvarr
 þingin
 þinginu
 þingit
+þinglogi
 þings
 þingsins
 þingum
@@ -12679,7 +13005,7 @@ yðvarr
 þjófsnafn
 þjófsnara
 þjófsnautr
-þjófstolinn ()
+þjófstolinn
 þjófsǫk
 þjófum
 þjóleggr
@@ -12724,12 +13050,13 @@ yðvarr
 þjóðgóðr
 þjóðhagr
 þjóðhatr
-þjóðhlið n ()
+þjóðhlið
 þjóðin
 þjóðir
 þjóðkonungr
 þjóðkunnr
 þjóðland
+þjóðlaðar
 þjóðleið
 þjóðleiðr
 þjóðlygi
@@ -12809,7 +13136,6 @@ yðvarr
 þrjár
 þrjátigi
 þrjóta
-þrjóta ()
 þrjóti
 þrjú
 þrot
@@ -12839,7 +13165,6 @@ yðvarr
 þræli
 þrælka
 þræll
-þræll ()
 þræls
 þrælskona
 þrælum
@@ -13043,7 +13368,7 @@ yðvarr
 þykkleikr
 þykkleitr
 þykkliga
-þykkmikill ()
+þykkmikill
 þykkna
 þykkr
 þykkrǫggvaðr
@@ -13126,9 +13451,11 @@ yðvarr
 þótt
 þótta
 þótti
+þóttir
 þóttisk
 þóttu
 þóttum
+þóttuð
 þú
 þúfa
 þý
@@ -13157,6 +13484,7 @@ yðvarr
 þýður
 þýðverska
 þýðverskr
+þýðversku
 þýðverskuland
 þǫgn
 þǫgul
@@ -13166,9 +13494,33 @@ yðvarr
 þǫrf
 þǫrfgi
 þǫrfum
+þ᷏͛
+Ą
+ą
+Đ
+đ
+Ę
 ę
 ęptir
+Ħ
+ħ
 īʀ
+Į
+į
+Ķ
+ķ
+Ł
+ł
+Ō
+Ō̂
+ō
+ō̂
+Ŏ
+ŏ
+Ő
+ő
+Œ
+œ
 œdda
 œddr
 œgiligr
@@ -13189,7 +13541,36 @@ yðvarr
 œða
 œðask
 œðr
+Ś
+ś
+Ŝ
+ŝ
+Ş
+ş
+Š
+š
+Ŧ
+ŧ
+Ų
+ų
+ſ
+ƀ
+Ɨ
+Ƙ
+ƙ
+Ɵ
+Ơ
+ơ
 Ʀ
+Ƶ
+ƶ
+Ǒ
+ǒ
+Ǥ
+ǥ
+Ǩ
+ǩ
+Ǫ
 Ǫgmundr
 Ǫzurr
 ǫ
@@ -13233,15 +13614,18 @@ yðvarr
 ǫlteiti
 ǫltirr
 ǫlum
+ǫlumk
 ǫlvaðr
 ǫnd
 ǫndra
 ǫndu
 ǫndurr
 ǫndvegissúla
+ǫngli
 ǫngr
 ǫngrumsk
 ǫngull
+ǫngværr
 ǫnn
 ǫnnur
 ǫr
@@ -13285,6 +13669,11 @@ yðvarr
 ǫ́ss
 ǫ́st
 ǫ́sum
+Ǭ
+ǭ
+Ǿ
+Ǿrstr
+ǿ
 ǿgiliga
 ǿgiligr
 ǿgir
@@ -13305,40 +13694,81 @@ yðvarr
 ǿrr
 ǿrum
 ǿska
+Ȍ
+ȍ
+Ȏ
+ȏ
+Ș
+ș
+Ȣ
+ȣ
+Ȫ
+ȫ
+Ȭ
+ȭ
+Ȯ
+ȯ
+Ȱ
+ȱ
+Ⱥ
+Ȼ
+ȼ
+ȿ
+Ƀ
+Ʉ
+Ɇ
+ɇ
+Ɉ
+ɉ
+Ɍ
+ɍ
+Ɏ
+ɏ
+ɢ
+ɨ
+ɪ
+ɴ
+ɵ
 ʀ
+ʂ
+ʉ
+ʏ
+ʙ
+ʜ
+ʟ
 ᚠ
-ᚠᚢᛚᚴᚦᚢ – Runic
-ᚠᚮᚱᚦᚢᛘ – Runic
+ᚠᚢᛚᚴᚦᚢ — Runic
+ᚠᚮᚱᚦᚢᛘ — Runic
 ᚠᛁᛘ
-ᚠᛁᛙ – Runic
+ᚠᛁᛙ — Runic
 ᚠᛅᚦᚢᚱ
 ᚠᛅᚦᛁ
 ᚠᛅᚦᛁᛦ
 ᚠᛆᚦᛁ
-ᚠᛆᛁᚴᛁᚭᚿ – strong masculine accusative singular – Ög 136
+ᚠᛆᛁᚴᛁᚭᚿ — strong masculine accusative singular – Ög 136
 ᚢᚦᛁᚾ
 ᚢᚴ
 ᚢᛁᚦᛒᛁᛅᚱᚾ
 ᚢᛁᚴᛁᚴᛅᛦ
 ᚢᛁᛐᚢᚭᚴᛁ
-ᚢᛁᛦ – runic
+ᚢᛁᛦ — runic
 ᚦᚢᚱ
 ᚦᚮᚱ
 ᚦᛁᚱ
 ᚦᛁᚱᛅ
-ᚦᛁᛘ – after East Norse monophthongization Genitive
-ᚦᛁᛦ – after East Norse monophthongization
+ᚦᛁᛘ — after East Norse monophthongization
+ᚦᛁᛦ — after East Norse monophthongization
 ᚦᛁᛦᛅ
 ᚦᛂᚱ
 ᚦᛂᚱᛅ
-ᚦᛂᛁᚱ – after merger of r and ʀ
+ᚦᛂᛁᚱ — after merger of r and ʀ
 ᚦᛂᛁᚱᛅ
 ᚦᛂᛁᛘ
 ᚦᛂᛁᛦᛅ
 ᚦᛂᛘ
 ᚦᛂᛦ
 ᚦᛂᛦᛅ
-ᚦᛅ Dative
+ᚦᛅ
 ᚦᛅᚢ
 ᚦᛅᚢᚾ
 ᚦᛅᛁᚱ
@@ -13346,14 +13776,14 @@ yðvarr
 ᚦᛅᛁᛘ
 ᚦᛅᛁᛦ
 ᚦᛅᛁᛦᛅ
-ᚨ – Runic
+ᚨ — Runic
 ᚬ
 ᚬᚠᛏᛁᛦ
-ᚬᚾ – Runic
-ᚬᚾᚢᛘ – Runic
+ᚬᚾ — Runic
+ᚬᚾᚢᛘ — Runic
 ᚬᛚᛅᚢᚠ
 ᚭ
-ᚭᚾᛋ – Runic
+ᚭᚾᛋ — Runic
 ᚮᚦᛂᚾ
 ᚮᚴ
 ᚱᚤᚾ
@@ -13361,7 +13791,7 @@ yðvarr
 ᚱᚮᚦᛁ
 ᚱᛁᚦ
 ᚱᛁᚴᚢᛁᚦᚱ
-ᚱᛁᚴᚢᛁᚦᚱ – Runic
+ᚱᛁᚴᚢᛁᚦᚱ — Runic
 ᚱᛁᛋᛏᛅ
 ᚱᛅᚢᛦ
 ᚱᛅᚦ
@@ -13376,14 +13806,14 @@ yðvarr
 ᚴᚢᚾᚢᚴᛋ
 ᚴᚢᚿᚢᚴᛆᛧ
 ᚴᚢᚿᛆᛧ
-ᚴᚢᛒᛚ – runic
+ᚴᚢᛒᛚ — runic
 ᚴᚢᛘᛒᛚ
 ᚴᚢᛘᛚ
 ᚴᛅᚠ
 ᚴᛅᚠᚢ
-ᚴᛅᛁᛦ – runic
+ᚴᛅᛁᛦ — runic
 ᚴᛆᚱᚢᛧ
-ᚷᚢᚦ – Runic
+ᚷᚢᚦ — Runic
 ᚷᚢᛞ
 ᚼᚬᚾ
 ᚼᚬᚾᛋ
@@ -13400,13 +13830,13 @@ yðvarr
 ᛁᛒᛏᛁᛦ
 ᛁᛚᛂᚠᚱ
 ᛁᛚᛅᚠᚱ
-ᛁᛦ – Old Gutnish
+ᛁᛦ — Old Gutnish
 ᛂᛚᛁᚠᚱ
-ᛂᛚᛁᚠᚱ – runic
+ᛂᛚᛁᚠᚱ — runic
 ᛅ
 ᛅᚠᛏᛁᛦ
 ᛅᚢᚴ
-ᛅᚢᛋᛏᚱ – Runic
+ᛅᚢᛋᛏᚱ — Runic
 ᛅᚱᚠᛁ
 ᛅᚱᚠᛅ
 ᛅᚱᚠᛅᚱ
@@ -13421,34 +13851,158 @@ yðvarr
 ᛅᛒᛏᛁᛦ
 ᛆᚠᛐ
 ᛆᚱᚠᛆᛦ
+ᛋᚢᛁᚦᛁᚢᚦ
+ᛋᚢᛁᚦᛁᛅᚢᚦ
 ᛋᚢᛅᛁᚾ
 ᛋᚢᛚ
 ᛋᚴᛅᚾᛘᛅᛚᛋ
-ᛋᛏᚼᛁᚾ
 ᛋᛏᛁᚾ
 ᛋᛏᛅᛁᚾ
 ᛋᛏᛡᛁᚾ
 ᛋᛟᛚᚢ
 ᛌᚢᛚ
-ᛌᚴᛆᛐᛁ – Rök stone
+ᛌᚴᛆᛐᛁ — Rök stone
 ᛌᛐᛁᛚᛁᛧ
-ᛏᚱᚢᛏᛁᚾ – Runic
+ᛏᚱᚢᛏᛁᚾ — Runic
 ᛏᛁᚢᛦ
 ᛏᛅᚾᛘᛅᚢᚱᚴ
-ᛒᚱᛁᚢᛏᛁ – Runic
+ᛒᚱᛁᚢᛏᛁ — Runic
 ᛒᛁᚦᛁᛅ
 ᛒᛅᚦ
-ᛒᛅᚱᚦᚢᛋᚴ – mediopassive third plural past indicative – DR 66
-ᛒᛆᚱᚦᛁ – third singular past indicative – M 2
+ᛒᛅᚱᚦᚢᛋᚴ — mediopassive third plural past indicative – DR 66
+ᛒᛆᚱᚦᛁ — third singular past indicative – M 2
 ᛘ
 ᛘᛅᚴᚢᛦ
 ᛚᛅᚴᛒᛅᚱᚦᛁᛚᛅᚾᛏᛁ
-ᛚᛅᚾᚴᛒᛅᚱᚦᛅᛚᛅᚾᛏᛁ – Runic
+ᛚᛅᚾᚴᛒᛅᚱᚦᛅᛚᛅᚾᛏᛁ — Runic
+ᛡᚢᚴ
+ᴀ
+ᴄ
+ᴅ
+ᴇ
+ᴊ
+ᴋ
+ᴍ
+ᴏ
+ᴘ
+ᴛ
+ᴜ
+ᴠ
+ᴡ
+ᴢ
+ᵴ
+ᵽ
+ᶄ
+ᶊ
+Ḱ
+ḱ
+Ḳ
+ḳ
+Ḵ
+ḵ
+Ṍ
+ṍ
+Ṏ
+ṏ
+Ṑ
+ṑ
+Ṓ
+ṓ
+Ṡ
+ṡ
+Ṣ
+ṣ
+Ṥ
+ṥ
+Ṧ
+ṧ
+Ṩ
+ṩ
+ẛ
+ẞ
+Ọ
+ọ
+Ỏ
+ỏ
+Ố
+ố
+Ồ
+ồ
+Ổ
+ổ
+Ỗ
+ỗ
+Ộ
+ộ
+Ớ
+ớ
+Ờ
+ờ
+Ở
+ở
+Ỡ
+ỡ
+Ợ
+ợ
 → Danish: knarr
 → English: knorr
 → Old English: cnearr
 → Old English: taper æx
 → Scottish Gaelic: roc
-◌́
+∞
+◌᷎
+Ᵽ
+ⱥ
+Ⱪ
+ⱪ
+ⱺ
+ꜰ
+ꜱ
+Ꜳ
+ꜳ
+Ꜵ
+ꜵ
+Ꜷ
+ꜷ
+Ꜻ
+ꜻ
+Ꜽ
+ꜽ
+Ꝁ
+ꝁ
+Ꝅ
+Ꝇ
 ꝇ
+Ꝉ
+ꝉ
+Ꝍ
+ꝍ
+Ꝏ
+ꝏ
+Ꝡ
+ꝡ
+Ꝥ
+ꝥ
+ꝥ Ꝥ ꝧ Ꝧ
+Ꝧ
+ꝧ
+Ꝩ
+ꝩ
 ꝫ
+ꝺ
+Ꝼ
+ꝼ
+Ꞃ
+ꞃ
+Ꞅ
+ꞅ
+Ꞇ
+ꞯ
+ﬅ
+ﬆ
+Ｋ
+Ｏ
+Ｓ
+ｋ
+ｏ
+ｓ

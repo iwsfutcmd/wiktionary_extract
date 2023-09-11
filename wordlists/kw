@@ -8,6 +8,7 @@
 's
 'th
 (mys) Ebrel
+*
 -'ga
 -'gan
 -a
@@ -47,6 +48,8 @@
 7ves
 8ves
 9ves
+:
+A
 Aberfal
 Aberplymm
 Accra
@@ -79,6 +82,7 @@ Atlantek
 Australya
 Austrya
 Azerek
+B
 Bask
 Baskek
 Bermuda
@@ -99,6 +103,7 @@ Brython
 Brythonek
 Bulgarek
 Bulgari
+C
 CH
 Cala'Me
 Calan Est
@@ -113,11 +118,13 @@ Cornouaille
 Cornwall
 Cryst
 Curnoack
+D
 Danmark
 De Halan Gwâv
 Deg Arhadow
 Dewnans
 Dewnens
+Dh
 Dollar Statys Unys
 Dowr Amal
 Dowrdu
@@ -128,6 +135,7 @@ Dy' Meurth
 Dy'gol Maria mis Meurth
 Dydhyador an Domhwelans Frynkek
 Dydhyador an Repoblek Frynkek
+E
 Ebrel
 Ebryl
 Ebryl. Next: Metheven
@@ -148,6 +156,7 @@ Estrych
 Euthvil-Neyj an Spaghetti
 Evrek
 Evrek Nowydh
+F
 Fe
 Frenk
 Frenkek
@@ -160,8 +169,10 @@ Frynkes
 Frynkesow
 Frynkyon
 Fynndir
+G
 Galathyans
 Genver
+Gh
 Godhal
 Godhaleger
 Godhalegy
@@ -194,6 +205,7 @@ Gwynnever
 Gwynngala
 Gyni
 Gyni Ekwadoriel
+H
 Hayl Maria
 Hedra
 Hong Kong
@@ -202,6 +214,7 @@ Hwevrel
 Hwevrel. Next: Ebryl
 Hwevrer
 Hyns Sen Jamys
+I
 Ia
 Indianapolis
 Iseldiryow
@@ -211,6 +224,7 @@ Italek
 Itali
 Iwerdhon
 Iwerdhonek
+J
 Jago
 Jamayka
 Japanek
@@ -224,6 +238,7 @@ Jory
 Jovyn
 Jowann
 Jubyter
+K
 K.O.K.
 Kala' Me
 Kaliforni
@@ -260,6 +275,7 @@ Kristyon
 Krowsfordh Trevelowen
 Kumbryk
 Kynt
+L
 LKDT
 Lazio
 Lew
@@ -270,6 +286,7 @@ Lun
 Lushaborg
 Lushaborgek
 Lyon
+M
 Mahomm
 Makedoni
 Manow
@@ -283,6 +300,7 @@ Merth
 Metheven
 Meurth
 Mor Bretannek
+Mor Du
 Mor a-Gledhbarth
 Mordir Nowyth
 Moskva
@@ -291,6 +309,7 @@ Moslemes
 My a'th kar
 Mygal
 Mys Genver
+N
 Nadelek
 Nadelik looan na looan blethen noweth!
 Nadelik lowen
@@ -304,9 +323,11 @@ Nihonek
 Norgagh
 Norves
 Norvys
+O
 Oman
 Ostrali
 Ouranos
+P
 PUA
 Pader
 Pakistan
@@ -364,6 +385,8 @@ Previous: pymp. Next: seyth
 Previous: pymthek. Next: seytek
 Previous: seytek. Next: nawnjek
 Previous: êtek. Next: ugans.
+Q
+R
 Repoblek Turki
 Republik Keffrysek Almayn
 Rewenys
@@ -372,6 +395,7 @@ Russi
 Ruwvaneth Pow Sows
 Ruwvaneth Unys Breten Veur ha Wordhon Gledh
 Rysoghen
+S
 SUA
 Sadorn
 Sanskrytek
@@ -400,6 +424,7 @@ Sweden
 Swedherwyk
 Syllan
 Syracuse
+T
 Tallinn
 Tanzania
 Tas Nadelik
@@ -408,13 +433,17 @@ Tchaikovsky
 Tennessi
 Testament Koth
 Testament Nowyth
+Th
 Trevonnen
 Truru
 Trûrû
 Tsieceg
+U
 Uranus
+V
 Ve
 Vyena
+W
 Wella
 Whervel
 Whevrel
@@ -422,7 +451,9 @@ Wikipedia
 Wikipedya
 Wordhen
 Wordhenek
+X
 X-dewynya
+Y
 Ya
 Yedhow
 Yedhowes
@@ -438,8 +469,10 @@ Yow
 Ytaly
 Yucatán
 Yêdhowek
+Z
 a
 a bris
+a brys ysel
 a lies eghen
 a vri
 a'n mor
@@ -670,7 +703,6 @@ astatyn
 astell tonnow
 astelwolya
 asvaba
-aswonn
 aval
 aval briansen
 aval dor
@@ -710,6 +742,7 @@ ayr
 ayredh
 ayrgregi
 aysel
+b
 baban
 babi
 bacbîtya
@@ -796,6 +829,7 @@ bleydhes
 blou
 blydhen
 blydhen nowydh da
+bo
 bodhar
 bogan yar
 bogh
@@ -916,8 +950,8 @@ bò
 bôs
 bôwnans
 bÿs
+c
 cadmyum
-cafos anger
 caja
 calcyum
 calyfornyum
@@ -978,6 +1012,7 @@ cùntelesow
 cùntell
 cùntelles
 cüssyn
+d
 da lowr
 dager
 dall
@@ -992,6 +1027,7 @@ dar
 daras
 darasow
 darjow
+darn
 das
 daslev
 dasseni
@@ -1094,6 +1130,7 @@ dewlin
 dewros
 dewufern
 dewyn X
+dh
 dha
 dhe
 dhe-ves
@@ -1161,6 +1198,7 @@ dowrgeun
 dowrgi
 dowrgy
 dowrhe
+dowrlam
 dowrvargh
 drehevel
 dren
@@ -1172,6 +1210,7 @@ dreys
 dreysen
 drog
 dry in rag
+dryftbren
 du
 dubnyum
 dur
@@ -1215,6 +1254,7 @@ dâ
 dé
 dëdh
 dÿdh
+e
 e'n polj ma
 ebron
 edhen
@@ -1296,6 +1336,7 @@ eynsteynyum
 eyodyn
 eythin
 eythinen
+f
 fatel
 fatla genes
 fav
@@ -1366,6 +1407,7 @@ fyll
 fylm
 fâss
 fâssow
+g
 gadolynyum
 gador
 galaksi
@@ -1402,6 +1444,7 @@ geryel
 geryow
 gevell
 gevelles
+gh
 gi
 gigabayt
 gigabaytys
@@ -1492,6 +1535,7 @@ goumman
 gour
 gourvlyth
 govyn
+govynnek
 gowlwerth
 gowlys
 grafek
@@ -1572,6 +1616,7 @@ gwewednow
 gwewen
 gwewennow
 gweythva
+gwia
 gwiader
 gwias kevnis
 gwiasva
@@ -1633,6 +1678,7 @@ gy
 gà
 gàn
 gàs
+h
 ha
 ha'n
 hafnyum
@@ -1695,6 +1741,15 @@ hern gwynn
 hernen
 hernen wydn
 hernen wynn
+herwydh
+herwydh an dhargan
+herwydh an gis
+herwydh an lagha
+herwydh an lytheren
+herwydh an our
+herwydh lojyk
+herwydh reson
+herwydh usadow
 hesk
 hevlena
 hevleni
@@ -1814,6 +1869,7 @@ isrudh
 isskrifik
 istitla
 iwerdhonek
+j
 jangal
 jei
 ji
@@ -1854,6 +1910,7 @@ jynnys
 jynnys amontya
 jëdh
 jÿdh
+k
 kabmdhavas
 kador
 kador ros
@@ -1901,7 +1958,7 @@ karr klavji
 karr kreslu
 karr slynk
 karr stret
-karr tan ()
+karr tan
 karrek
 karrji
 karrostel
@@ -2069,6 +2126,7 @@ klunyow
 klyji
 klyjienn
 klys
+knew
 knofen
 knofen Frenk
 knofen dor
@@ -2102,6 +2160,7 @@ kok
 kokayn
 kol
 kolebron
+kolen
 kollel
 kollell-lesa
 kollverk
@@ -2207,6 +2266,7 @@ krestennek
 kreswas
 kreun
 krev
+krey
 kreyon
 kreyth
 kreythen
@@ -2231,16 +2291,16 @@ kubek
 kukomber
 kuldremenva
 kuntel
-kunteller ()
+kunteller
 kuntelles
-kuntellores ()
+kuntellores
 kuntellyans
 kuntilow
 kunys
 kurun spern
 kussyn
-kusulyades kost ()
-kusulyas kost ()
+kusulyades kost
+kusulyas kost
 kuv
 kuvder
 kwedhan jiraff
@@ -2266,6 +2326,7 @@ kynth
 kynyaf
 kyv kov
 kywlet
+l
 ladra
 lagajow
 lagas
@@ -2294,6 +2355,7 @@ lemmel
 lemmyn
 lenel
 lenna
+les
 lesel
 leski
 leth
@@ -2350,6 +2412,7 @@ lojow debri
 lojowen
 lojowen dhebri
 lojowen-dhebri
+loneth
 loor
 loos
 losk
@@ -2388,6 +2451,7 @@ lyver
 lyverva
 lyvervaow
 lyvrow
+m
 mab
 mab-wydn
 mab-wynn
@@ -2505,6 +2569,7 @@ mis Metheven
 mis Whevrel
 mis Whevrer
 modrep
+moen
 mog
 mogh
 molethi
@@ -2592,6 +2657,7 @@ myttyn dâ
 màn
 mìn
 mûsyk
+n
 na X na Y
 na borth ahwer
 na'gan
@@ -2660,6 +2726,7 @@ nyhewer
 nykel
 nyobyum
 nytrojen
+o
 ober tre
 obma
 odyt
@@ -2717,6 +2784,7 @@ oy skramblys
 oyl
 oylys
 oyow
+p
 p'eur
 padellik neyja
 paganieth
@@ -2953,8 +3021,10 @@ pùb
 pùb huny
 pùbonen
 pùscas
+q
 queth
 quethow
+r
 racket
 radar
 radyo
@@ -2963,6 +3033,7 @@ rag ensampel
 rag kerensa
 ragskrif
 rames
+rann
 rannskrif
 rastell
 rastella
@@ -3022,6 +3093,7 @@ ruwvaneth
 ruz
 ry
 rydhses
+s
 sab
 saben
 sagh
@@ -3235,7 +3307,9 @@ synk
 syra
 syth
 sëgh
+sînys
 sÿgh
+t
 taclys
 takla
 taklen-neyja anaswonys
@@ -3243,6 +3317,7 @@ taksi
 tal
 tan
 tanjerin
+tanow
 tantalum
 tanweyth
 tanweythen
@@ -3266,7 +3341,6 @@ televisyon
 telli
 teluryum
 telyn
-ten
 tenna
 tennven
 tenti
@@ -3293,6 +3367,7 @@ teyr
 teyrros
 teythi
 teythien
+th
 thalyum
 than
 thas
@@ -3409,6 +3484,7 @@ tykkiow Duw nos
 tyleryow
 tyller
 té
+u
 udn
 udnek
 ufern
@@ -3432,6 +3508,7 @@ untu
 unverhe
 unya
 uraniom
+v
 va
 vanadyum
 vandalisa
@@ -3458,6 +3535,7 @@ vugh
 vy
 vynyard
 vynyardys
+w
 war
 war neb kor
 war-mes
@@ -3487,6 +3565,7 @@ wool
 wordhenek
 worm
 wosa
+x
 xenon
 y
 y'n pols ma
@@ -3509,12 +3588,12 @@ ygam-ogam
 ylow
 yn akord gans
 yn farow
+yn herwydh
 yn jydh splann
 yn karr
 yn lowen
 yn neb termyn
 yn poblek
-yn poynt da
 yn-bann
 yn-mes
 ynjynorieth
@@ -3555,16 +3634,117 @@ ytryum
 yurl
 yurlys
 ywin
+z
 zebra
 zerconyum
 zombi
 zombis
 zyp
+À
+Á
+Â
+Ã
+Ä
+Å
+Æ
+à
+á
+â
 âls
 âlsyow
+ã
+ä
+å
+æ
 ès
 êtek
 ôn
 ýs
+Ā
+ā
+Ă
+ă
+Ą
+ą
+ſ
+Ǎ
+ǎ
+Ǟ
+ǟ
+Ǡ
+ǡ
+Ǣ
+ǣ
+Ǻ
+ǻ
+Ǽ
+ǽ
+Ȁ
+ȁ
+Ȃ
+ȃ
+ȝ
+Ȧ
+ȧ
+Ⱥ
+ɐ
+ɑ
+ɒ
+ᴀ
+ᵹ
+ᶏ
+Ḁ
+ḁ
+Ẏ
+ẏ
+Ạ
+ạ
+Ả
+ả
+Ấ
+ấ
+Ầ
+ầ
+Ẩ
+ẩ
+Ẫ
+ẫ
+Ậ
+ậ
+Ắ
+ắ
+Ằ
+ằ
+Ẳ
+ẳ
+Ẵ
+ẵ
+Ặ
+ặ
 ’gas
 ’th
+ⱥ
+Ɑ
+Ɐ
+Ꜳ
+ꜳ
+Ꜵ
+ꜵ
+Ꜷ
+ꜷ
+Ꜹ
+ꜹ
+Ꜻ
+ꜻ
+Ꝑ
+ꝑ
+Ꝺ
+ꝺ
+Ᵹ
+Ꝿ
+ꝿ
+Ꞇ
+ꞇ
+ꟃ
+Ａ
+ａ

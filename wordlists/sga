@@ -7,6 +7,7 @@
 -aid
 -aige
 -aire
+-am
 -amail
 -as
 -atu
@@ -97,7 +98,9 @@ Afracdae
 Afraicc
 Afraicech
 Ailgal
+Ailgus
 Ailill
+Airgus
 Aissia
 Alaxander
 Albain
@@ -107,8 +110,10 @@ Alpae
 Amlaíb
 Ard Machae
 Artgal
+Artgus
 Badb
 Banba
+Beccán
 Beltaine
 Belzefuth
 Berbae
@@ -129,6 +134,7 @@ Cellach
 Chonnachta
 Christ
 Chríst
+Cináed
 Clídna
 Colmán
 Columb Cille
@@ -138,6 +144,7 @@ Conallán
 Conchobair
 Conchobar
 Congal
+Congus
 Conláed
 Conn
 Connacht
@@ -146,6 +153,8 @@ Connachtach
 Corbmac
 Cormac
 Crist
+Cruithen
+Cruithnech
 Críst
 Crístaide
 Cuithgal
@@ -154,6 +163,7 @@ Cáemgin
 Cásc
 Céitemain
 Cían
+Cíarán
 Cóemgen
 Cóiced Muman
 Cú Bretan
@@ -165,11 +175,13 @@ Cǽimgen
 D. Wodtko
 Dagdae
 Dainiél
+Daithgus
 Dall
 Dalmait
 Dalmán
 Danoe
 Dauid
+De
 Declán
 Derdriu
 Dermait
@@ -179,6 +191,7 @@ Diarmuit
 Dochartach
 Dochartaig
 Domnall
+Dongus
 Donnchad
 Donngal
 Dothra
@@ -186,11 +199,13 @@ Doél
 Drobaís
 Drobés
 Drobéssach
+Dubthach
 Dánaim
 Dánaïm
 Dæ
 Dé
 Día
+Dóelgus
 Dúnchad
 Dúngal
 Dǽ
@@ -219,10 +234,15 @@ Fidgal
 Finnabair
 Finnacán
 Finnba
+Flaithgus
 Flann
 Fomoir
+Forgus
+Fáelgus
 Fáelán
 Fíachrai
+Fíangus
+Fínín
 G. Toner
 Gall
 Gand
@@ -255,9 +275,11 @@ Lachtnae
 Lachtnán
 Laigen
 Laigin
+Laigniu
 Laiten
 Lebor Gabála Érenn
 Lergal
+Lergus
 Lochlannach
 Lug
 Lugaid
@@ -284,6 +306,7 @@ Moysi
 Muad
 Muir Robur
 Muircath
+Muirgus
 Mumu
 Murgal
 Máel
@@ -295,7 +318,9 @@ Neir
 Nemain
 Notlaic
 Nárgal
+Nárgus
 Níall
+Níallgus
 Níallán
 Nóe
 Núadat
@@ -314,6 +339,7 @@ Róm
 Rómán
 Rómánach
 Rómánda
+Rónán
 Rúadán
 S. Arbuthnot
 Sabindae
@@ -326,8 +352,10 @@ Saxa
 Saxain
 Saxanach
 Sión
+Snéidgus
 Spirut Nóeb
 Sóergal
+Sóergus
 Tadg
 Tailtiu
 Temair
@@ -349,12 +377,12 @@ a
 a-
 a-L
 a-N
+aaib
 ab
 abairt
 aball
 aball-gort
 abb
-abbán
 abcoilps
 abcolips
 abis
@@ -378,6 +406,7 @@ accae
 accai
 accais
 accaldam
+accaldim
 accam
 accastar
 accat
@@ -463,6 +492,7 @@ adchíther
 adciam
 adcichitis
 adcichlus
+adcigestar
 adcladat
 adclaid
 adcobra
@@ -604,6 +634,7 @@ ad·feid
 ad·fen
 ad·gainethar
 ad·gair
+ad·gnin
 ad·guid
 ad·indnaig
 ad·midethar
@@ -647,6 +678,7 @@ adáigther
 adíadar
 adíll
 adúath
+adúathaigid
 aeir
 aer
 aesca
@@ -706,6 +738,7 @@ aimser
 aimseracht
 aimserad
 aimserdae
+aimsir
 ain
 ainb
 ainder
@@ -729,10 +762,12 @@ ainmnit
 aipert
 air
 airbe
+airber
 airbert
 airbolg
 airchellad
 airchetal
+airchinnech
 airchor
 aird
 airdbe
@@ -857,7 +892,9 @@ anai
 anaid
 anaim
 anaimm
+anair
 anais
+anall
 ancretmech
 ancretmiuch
 ancride
@@ -866,7 +903,9 @@ and
 and predicate nouns to emphasize the subject
 and to inflected prepositions to emphasize the object
 andach
+andess
 anduch
+anechtar
 anglan
 ani
 anim
@@ -883,12 +922,15 @@ anmin
 annse
 ansam
 anse
+antúaid
 anuas
 anus
 anáil
 anál
 análfadach
 aní
+aníar
+aníos
 anís
 anísin
 anísiu
@@ -920,6 +962,7 @@ arachíurat
 aracotar
 arae
 araile
+aran-ísar
 ararethi
 ara·chrin
 arbeir
@@ -1031,6 +1074,8 @@ aráin
 arán
 as
 as-
+asa-
+asagnintar
 asagú
 asagúsi
 asaitech
@@ -1056,6 +1101,7 @@ ascnae
 ascnam
 asdloing
 asgleinn
+asgnin
 asil
 asinchobra
 asindet
@@ -1084,8 +1130,10 @@ as·ber
 as·comlai
 as·congair
 as·gleinn
+as·gnin
 as·indet
 as·ingaib
+as·lena
 as·loi
 as·luí
 as·oilgi
@@ -1104,7 +1152,9 @@ atammres
 atannaigi
 atanneirrig
 ataré
+atatchigestar
 atatgéntar
+atat·chigestar
 atat·géntar
 ataí
 atbail
@@ -1198,12 +1248,14 @@ bailech
 bainne
 baintsíde
 bairgen
+baithsid
 balb
 balba
 ball
 balsamach
 ban
 ban-
+banairchinnech
 banamail
 banb
 bandraí
@@ -1346,6 +1398,7 @@ bled
 bledmíl
 blegon
 bláth
+bláthach
 blíadain
 boc
 bocc
@@ -1386,7 +1439,7 @@ breg
 breib
 breithem
 breithemnacht
-breithemnas ()
+breithemnas
 breth
 bretha
 brethir
@@ -1419,6 +1472,8 @@ broo
 broon
 brothchán
 bruach
+bruinne
+bruinnide
 bruth
 bruthmar
 bráge
@@ -1517,6 +1572,7 @@ bía
 bíad
 bíada
 bíid
+bíinn
 bíis
 bíit
 bís
@@ -1550,6 +1606,7 @@ caindel
 cainnenn
 cainnt
 caiptel
+cairde
 cairdes
 caire
 cairm
@@ -1558,6 +1615,7 @@ caithig
 caithir
 caitt
 caittín
+calad
 cam
 cama
 camm
@@ -1570,7 +1628,6 @@ canaid
 capaill
 capall
 capull
-cara
 carad
 carae
 caraid
@@ -1627,6 +1684,9 @@ ceni
 cenid
 cenn
 cenna
+censae
+cense
+censi
 centúir
 cenél
 ceníuil
@@ -1658,6 +1718,7 @@ ceól
 chach
 chadraig
 chaile
+chairde
 chaire
 chaithir
 cham
@@ -1667,6 +1728,7 @@ chamma
 chapaill
 chapall
 charae
+charait
 chath
 chathair
 chathir
@@ -1706,6 +1768,7 @@ chomthururasib
 chomtururasib
 chon
 chona
+chondesin
 chor
 chorp
 chos
@@ -1729,6 +1792,7 @@ chumachtae
 chumachtaig
 chumachtig
 chumacte
+chumaing
 chumang
 chumcam
 chumme
@@ -1857,7 +1921,6 @@ coimsid
 coin
 coir
 coire
-coirm
 coirp
 cois
 coiscset
@@ -1916,6 +1979,7 @@ comracc
 comram
 comroircnech
 comrorcun
+comríar
 comsuidigthe
 comsuidigthi
 comsuidigud
@@ -1936,9 +2000,11 @@ conbeir
 conboing
 conceil
 concná
+condalbae
 condansamailter
 condan·samailter
 condarías
+condesin
 condid
 condieig
 conerchloí
@@ -1964,6 +2030,8 @@ conmesca
 conmescatar
 conn
 conna
+connachful
+connach·ḟul
 connessa
 conná
 conoathar
@@ -1974,6 +2042,7 @@ conricc
 conrig
 conriris
 conscara
+conscéra
 consecha
 contibi
 contuili
@@ -1996,6 +2065,7 @@ con·futainc
 con·gaib
 con·gair
 con·geil
+con·gnin
 con·gní
 con·icc
 con·imchloí
@@ -2081,6 +2151,9 @@ coínid
 coíniud
 coïr
 crann
+creath
+creathnach
+creathnaigh
 creicc
 creitem
 creitfess
@@ -2101,7 +2174,9 @@ cridi
 cridiu
 crie
 crimthan
+criothnaich
 crith
+crithnich
 croch
 crochaid
 crochthe
@@ -2139,6 +2214,7 @@ cuin
 cuindchid
 cuingid
 cuinnsiu
+cuintea
 cuintechtai
 cuintechti
 cuir
@@ -2160,6 +2236,7 @@ cumachtae
 cumachtaig
 cumachtig
 cumacte
+cumaing
 cumal
 cumang
 cumbae
@@ -2244,7 +2321,9 @@ cíabo
 cíall
 cían
 cíaptar
+cíar
 cíato
+cích
 cír
 cís
 cóecatmad
@@ -2380,6 +2459,8 @@ deithbir
 deithfir
 delb
 delbaid
+delc
+delg
 demin
 demniu
 demon
@@ -2389,11 +2470,6 @@ denaid
 dene
 deni
 denim
-deorad
-deoradach
-deoradán
-deoraid
-deoraidecht
 deorudán
 der-
 der1
@@ -2464,6 +2540,7 @@ dignem
 dignet
 digni
 digén
+digénam
 diib
 dilenn
 dimbailech
@@ -2521,12 +2598,14 @@ doberthar
 doberthe
 dobertis
 dobidci
+dobir
 doboing
 dobur
 doburchú
 dobádi
 dobéra
 dobérthar
+dobérthe
 docaithi
 doccumail
 doceil
@@ -2555,6 +2634,7 @@ doecmaic
 doecmaing
 doecmalla
 doeim
+doessid
 doessim
 doesta
 doetarrat
@@ -2574,6 +2654,7 @@ dofúarat
 dogair
 dogneith
 dognethe
+dognetis
 dogniat
 dogní
 dogníat
@@ -2583,6 +2664,7 @@ dogoa
 doguid
 dogénat
 dogénmis
+dogéntar
 doib
 doibsom
 doicc
@@ -2611,6 +2693,7 @@ dom liacc
 dom-
 dom-L
 domaisi
+dombir
 dombuilech
 dombéra
 domeiccethar
@@ -2629,6 +2712,7 @@ domunde
 domén
 don
 don-
+don-essid
 dona
 dond
 dondecmaing
@@ -2664,8 +2748,10 @@ doscéulai
 doseinn
 dosluindi
 doslí
+dosmbérthe
 dosom
 dossom
+dos·mbérthe
 dot-
 dot-L
 dothuit
@@ -2677,7 +2763,9 @@ doté
 dotéis
 dotét
 dotét for
+doucai
 douic
+do·acmaing
 do·adbat
 do·aidbir
 do·aidlea
@@ -2702,6 +2790,7 @@ do·beir druimm fri
 do·beir glún fri gliaid
 do·beir mallachta for
 do·bidci
+do·bir
 do·boing
 do·bádi
 do·caithi
@@ -2766,6 +2855,7 @@ do·inmlig
 do·intaí
 do·inóla
 do·lega
+do·lugai
 do·lá
 do·léci
 do·léici
@@ -2821,6 +2911,7 @@ doínacht
 doíni
 doír
 doíre
+draigen
 drech
 dretel
 dreän
@@ -2846,8 +2937,12 @@ dub-
 dubach
 dubae
 duberad
+dubir
+dudagnetis
 dudaimchomarr
+duda·gnetis
 duesairc
+dufessar
 dufiastar
 dufí
 dufúairc
@@ -2894,6 +2989,7 @@ dut-L
 duuic
 du·acair
 du·adbat
+du·bir
 du·esairc
 du·furgaib
 du·fúairc
@@ -2903,6 +2999,7 @@ du·indnaig
 du·uic
 duálaig
 duálchi
+duécigi
 duéma
 duún
 duús
@@ -2923,6 +3020,7 @@ déanach
 déde
 dédenach
 dég
+déicsin
 déicsiu
 déinti
 déis
@@ -2937,6 +3035,8 @@ déniu
 dénmis
 dénum
 déod(a)e
+déorad
+déoraid
 dér
 dérgud
 dérnam
@@ -2980,6 +3080,7 @@ dílgent
 dílgud
 díliu
 díltud
+dímess
 dín
 dínach
 dínaid
@@ -3002,7 +3103,6 @@ dó
 dóenacht
 dóer
 dóid
-dóu
 dú
 dúad
 dúan
@@ -3021,6 +3121,7 @@ dúnattae
 dúnn
 dúnnai
 dúnni
+dús
 dús in
 dúthracht
 dúun
@@ -3043,6 +3144,7 @@ echlach
 eclais
 eclas
 eclis
+ecnae
 ecoir
 ed
 ed ón
@@ -3070,6 +3172,7 @@ enach
 encu
 enech
 engach
+enggnatar
 engnae
 ennac
 enncae
@@ -3113,6 +3216,7 @@ erégem
 es
 esach
 esamain
+esbae
 esbaid
 escarae
 escmug
@@ -3124,6 +3228,9 @@ escuma
 esgal
 esnaid
 esomain
+esorcon
+espae
+espe
 esríat
 ess
 ess-
@@ -3161,6 +3268,7 @@ etarscara
 etarscartha
 etarscarthae
 etarscarthe
+etar·gnin
 etar·scara
 eter
 etercerta
@@ -3186,12 +3294,15 @@ fadidmed
 fae
 fail
 failid
+faill
 failte
 fair
 fairge
 fairggae
 fairrge
 faissine
+faitse
+fall
 far
 fa·cherred
 fa·dam
@@ -3199,6 +3310,7 @@ fa·didmed
 faílid
 faílte
 feasta
+feb
 febrae. Next: Apréil
 fecht
 fechtas
@@ -3268,6 +3380,13 @@ fiach
 fiche
 fichid
 fid
+fidbae
+fidchelda
+fidchell
+fidchellach
+fidchellacht
+fidchellaire
+fidchleóracht
 fil
 file
 filed
@@ -3365,6 +3484,7 @@ focul
 focíallathar
 fodail
 fodaim
+fodaimem
 fodaimet
 fodaimi
 fodaimid
@@ -3412,12 +3532,14 @@ foirmtech
 foirrgae
 foisitin
 foithir
+foitse
 folc
 follnaithir
 follus
 folo
 foloing
 folt
+foló
 folúathar
 fomentar
 fomuinethar
@@ -3464,7 +3586,9 @@ formtech
 formtigid
 formuinethar
 formut
+forna
 forngaire
+fornni
 forru
 forrúad
 forsa
@@ -3485,6 +3609,7 @@ forthéit
 fortá
 fortéit
 fortét
+forunni
 forus
 forus tuaithe
 for·aithminedar
@@ -3503,6 +3628,7 @@ for·diuclainn
 for·feid
 for·fen
 for·muinethar
+for·osnai
 for·toing
 for·tá
 for·téit
@@ -3512,6 +3638,7 @@ forálaig
 forócrad
 fosdidmat
 fosisedar
+foss
 fos·didmat
 fota
 fothair
@@ -3566,6 +3693,7 @@ fo·úacair
 foácaib
 foálgi
 foídid
+foílsitis
 foísam
 foísitin
 foísitiu
@@ -3614,8 +3742,10 @@ frisgair
 frisin
 frisindlea
 frismbia
+frisn-orr
 frisngabál
 frisoirc
+frisorr
 friss
 frissin
 fris·acci
@@ -3638,6 +3768,7 @@ fritecht
 frith-
 frithaire
 frithbert
+frithcheist
 frithgnam
 frithmius
 frithoircnib
@@ -3677,9 +3808,12 @@ fuither
 ful
 fulaing
 fulang
+fulilsain
 fulsam
 fun
 fund
+fundló
+fund·ló
 furóil
 fuscerdam
 fu·certar
@@ -3705,13 +3839,11 @@ féilire
 féin
 féith
 féle
+félire
 fén
 féoil
 féola
 fér
-fés
-fésgorm
-fésléne
 fésócach
 féth
 féuil
@@ -3730,6 +3862,7 @@ fíadan
 fíadib
 fíadmíl
 fíado
+fíadu
 fíal
 fíanas
 fín
@@ -3847,6 +3980,7 @@ glóir
 glór
 glúin
 glún
+gnin
 gnáth
 gnáthach
 gnáthaid
@@ -3857,9 +3991,11 @@ gnáthmar
 gní
 gníid
 gním
+gníma
 gnímu
 gníu
 gnúis
+gnúsa
 gobae
 gobann
 goibnecht
@@ -3883,6 +4019,8 @@ grinde
 grinne
 grád
 grán
+grécdae
+grécde
 gréin
 gréine
 grénán
@@ -3906,6 +4044,7 @@ guidim
 guidimm
 guidme
 guin
+gus
 guth
 gáeth
 gáethach
@@ -3914,6 +4053,7 @@ gáu
 gé
 gébas
 gébend
+gébtit
 géc
 géd
 géilsine
@@ -4066,6 +4206,7 @@ imme-
 immefolnged
 immerada
 immeradin
+immeromastar
 immeráda
 immerádin
 immfreccair
@@ -4075,6 +4216,7 @@ immib
 immidfolngi
 immid·ḟolngi
 immimgaib
+immruimdethar
 immrá
 immráidi
 immréid
@@ -4189,6 +4331,7 @@ ind·aithirset
 ind·nëat
 ind·árban
 indárban
+indéin
 indí
 infét
 ingabáil
@@ -4220,7 +4363,8 @@ innon
 innonn
 innsce
 inntinn
-innáire
+innunn
+innúnn
 inon
 inonn
 inotacht
@@ -4254,6 +4398,7 @@ in·cuirethar
 in·dloing
 in·fét
 in·gaib
+in·gnin
 in·loing
 in·lá
 in·reith
@@ -4317,7 +4462,6 @@ lachtnae
 lachu
 lae
 lagat
-lagdaigid
 lai
 laigid
 laigiu
@@ -4375,6 +4519,7 @@ ler
 lerg
 les
 lesom
+less
 lestair
 lestar
 lestrae
@@ -4425,6 +4570,7 @@ loc
 locdatu
 loch
 locht
+lochta
 lod
 loing
 loingid
@@ -4432,6 +4578,7 @@ loingthech
 loman
 lomm
 lon
+londas
 long
 loor
 lorg
@@ -4457,6 +4604,7 @@ luid
 luide
 luithir
 lus
+luí
 lá
 lá brátha
 láa
@@ -4579,6 +4727,7 @@ manid
 manidchretid
 manid·chretid
 manip
+maniptis
 mann
 maraid
 marb
@@ -4628,6 +4777,7 @@ mbeirinn
 mberes
 mbiad
 mbiat
+mbid
 mbili
 mblegon
 mbona
@@ -4639,6 +4789,7 @@ mbréthre
 mbás
 mbí
 mbíad
+mbíinn
 mbíth
 mbó
 mbúaid
@@ -4654,6 +4805,7 @@ meinistir
 meirle
 melg
 mema
+men
 menic
 menmae
 menmuin
@@ -4669,8 +4821,10 @@ mesctha
 mess
 messa
 messe
+mestar
 metrapoil
 metrapolitan
+miastar
 micht
 mid
 midchuairt
@@ -4695,6 +4849,8 @@ mlassacht
 mlegon
 mlicht
 mligid
+mmestar
+mmiastar
 mmitter
 mmoth
 mmruig
@@ -4704,10 +4860,12 @@ mná
 mnáamail
 mo
 moch
+mochen
 mochrád
 moir
 moirb
 moirtchenn
+mol
 molad
 molaidir
 molfar
@@ -4764,7 +4922,7 @@ muintir
 muintire
 muintremail
 muinél
-muinélach ()
+muinélach
 muinélad
 muir
 muirbolc
@@ -4779,6 +4937,7 @@ má
 máar
 máel
 mál
+mám
 már
 mára
 máraid
@@ -4864,10 +5023,10 @@ n-andach
 n-anduch
 n-animm
 n-anman
+n-apid
 n-ard
 n-arrad
 n-arán
-n-asal
 n-asbera
 n-asberaid
 n-asbered
@@ -4919,8 +5078,10 @@ n-étis
 n-íc
 n-ícc
 n-ísel
+n-íírr
 n-óen
 nDia
+nDǽ
 na
 na n-aicci
 na nní
@@ -5003,6 +5164,12 @@ nert
 nerta
 nertad
 nertaid
+nesa
+neso
+nessa
+nesso
+nessu
+nesu
 net
 neuch
 neutor
@@ -5012,6 +5179,7 @@ ngel
 ngen
 nges
 nglas
+ngním
 ngrian
 ngrád
 ngréin
@@ -5096,6 +5264,7 @@ náimtide
 náimtine
 náire
 námae
+námait
 námmin
 nándatibérad
 nánda·tibérad
@@ -5127,11 +5296,15 @@ nó
 nócha
 nóe
 nóeb
+nómad
+nómet
 nósmar
 nósta
 nú
 núall
 núide
+núíadnisse
+núíadnissi
 o
 ob
 obla(e)
@@ -5189,6 +5362,8 @@ orc
 orcaid
 orcun
 ordan
+orddu
+ordu
 orgaid
 orggaid
 orlar
@@ -5245,6 +5420,7 @@ predicate adjectives
 pridcha
 pridchaid
 pridches
+pridchibid
 pridchim
 pridchimme
 pridchite
@@ -5290,7 +5466,9 @@ rechtaire
 rechtas
 rechtge
 rechtmar
+rechto
 rect
+recto
 reet
 reg
 rega
@@ -5308,9 +5486,11 @@ relic
 rem-
 remcaisin
 remcaisiu
+remcaissiu
 remib
 remiepir
 remitét
+remi·asgnin
 remi·epir
 remi·tá
 remi·tét
@@ -5320,6 +5500,7 @@ remthechtas
 rem·táirci
 renaid
 resíu
+retarscar
 rethid
 rethit
 rethith
@@ -5365,8 +5546,10 @@ rofinnatar
 rofoilsigsetar
 rofoilsigthea
 rogeinn
+rohí
 roib
 roicc
+roicc less
 roithid
 roithinech
 rolaimethar
@@ -5387,7 +5570,9 @@ roth
 rotoicther
 rot·chechladar
 rouic
+ro·hí
 ro·icc
+ro·icc less
 ro·saig
 ro·toicther
 ro·ucc
@@ -5403,13 +5588,18 @@ rubé
 ruc
 ruca
 rucca
+ruccae
+rucce
 rudchoiscset
 rud·choiscset
+ruetarscar
+rufiastar
 rufáilsigset
 ruiri
 ruis
 rumaith
 rusamaltar
+rusuidigsiur
 ru·bé
 rád
 ráid
@@ -5432,6 +5622,7 @@ réidid
 réim
 réimm
 réir
+réit
 rét
 réte
 rétglu
@@ -5540,9 +5731,10 @@ scríbend
 scríbnid
 scrín
 scrútaid
+scrútain
 scuirid
 scáth
-scáthán
+scé
 scél
 scélach
 scélaige
@@ -5575,7 +5767,9 @@ seinnid
 seir
 seirc
 seircc
+seiss
 seissed
+selb
 selg
 selige
 sen
@@ -5597,6 +5791,7 @@ sercid
 serg
 sergaid
 sernaid
+sesc
 sesca
 sescatmad
 sessam
@@ -5677,6 +5872,7 @@ slóig
 slúag
 smacht
 smachtu
+smactu
 smál
 snaid
 snechtae
@@ -5803,8 +5999,8 @@ sídbárc
 sídcrob
 síde
 sídfert
-sídless ()
-sídmag ()
+sídless
+sídmag
 síi
 síl
 sílach
@@ -5840,6 +6036,7 @@ súilib
 súilid
 súilige
 súla
+súli
 súlib
 súlo
 t-
@@ -5889,6 +6086,7 @@ tar cenn
 tar réir
 tar éis(i)
 tara
+tarathar
 tarb
 tardaín
 targabál
@@ -6010,6 +6208,7 @@ timthirid
 timthrecht
 tinchosc
 tinchur
+tindabrad
 tindnacol
 tindnacul
 tindrem
@@ -6073,6 +6272,7 @@ torbatu
 torbe
 torc
 torcda
+torcdae
 torcde
 toreth
 torgabál
@@ -6084,8 +6284,10 @@ tossach
 tossug
 tost
 tosuch
-tosuigim
+tothaim
+tothaimm
 tothlugud
+totim
 to·mel
 toísam
 toísech
@@ -6140,9 +6342,14 @@ trí
 tríath
 tríchatmad
 trícho
+tríndóit
+trócaire
+trócairi
+trócar
 tu
 tuailnge
 tuari
+tucus
 tugae
 tuidecht
 tuiden
@@ -6155,6 +6362,7 @@ tuistidi
 tuistiu
 tuit
 tuiter
+tuitim
 turcbál
 turorgain
 tuscurnud
@@ -6163,6 +6371,7 @@ tuus
 tá
 táeb
 táet
+táid
 tál
 tánaise
 tánaisi
@@ -6194,6 +6403,8 @@ tías
 tíastais
 tír
 tíre
+tírim
+tírmae
 tíssed
 tó
 tóare
@@ -6233,7 +6444,10 @@ uball brágat
 uball gráinnech
 uball palmi
 ubull
+ude
 uic
+uide
+uidech
 uile
 uilemarbae
 uilemarbaid
@@ -6340,7 +6554,9 @@ utmall
 Áed
 Áedacán
 Áedgal
+Áth Truim
 Échtgal
+Échtgus
 Égept
 Égipta
 Égiptda
@@ -6395,6 +6611,7 @@ utmall
 áinsid
 áirc
 áirem
+áirge
 áirne
 áith
 áitt
@@ -6403,11 +6620,10 @@ utmall
 án
 ár
 áram
-árbach
+áram foirbthe
 árchú
 árem
 árim
-ármach
 ármag
 áru
 ásaid
@@ -6502,9 +6718,6 @@ utmall
 ícaid
 ícc
 íccaid
-ímágin
-ímáigen
-ímáigin
 ís
 ísel
 ísin
@@ -6512,9 +6725,11 @@ utmall
 íss
 ítmar
 ítmarach
+íírr
 ó
 ó mulluch co talmain
 ó-
+óbar
 óc
 ócbál
 ócht
@@ -6548,6 +6763,7 @@ utmall
 óthad
 úa
 úa-
+úabar
 úacht
 úachtar
 úachtarach
@@ -6559,6 +6775,7 @@ utmall
 úaisle
 úaisletu
 úait
+úaithbélta
 úaithed
 úaithne
 úall
@@ -6570,9 +6787,13 @@ utmall
 úas
 úasal
 úath
+úathach
 úathad
 úathaide
 úathaigid
+úathbásach
+úathgráin
+úathmaire
 úathmar
 ǽcath
 ǽitiud
@@ -6586,8 +6807,11 @@ utmall
 ɔrabad
 ɔriris
 ɔrop
+ɔscéra
 ɔsecha
 ɔ·gní
+ɔ·scéra
 ɔ·étet
 ⁊
 ⁊rl.
+ꝉ

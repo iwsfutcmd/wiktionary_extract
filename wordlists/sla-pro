@@ -11,9 +11,13 @@
 (s)kvьrčěti
 (s)kvьrčь(kъ)
 (s)kvьrъ
+(s)mǫditi
 (s)mъlžь
 (s)tъrčati
 (s)tъrčiti
+(š)četina
+(š)četъka
+(š)čędъkъ
 +*jьz: *jьzučiti ()
 +*na: *naučiti ()
 +*ob: *obučiti ()
@@ -26,6 +30,10 @@
 -akъ
 -alь
 -ana
+-anica
+-anikъ
+-anikъ = *-anъ + *-ikъ
+-aničьka
 -arinъ
 -astъ
 -ata
@@ -43,8 +51,13 @@
 -dъ
 -ekъ
 -elъ
+-enica
+-enikъ
+-enikъ = *-enъ + *-ikъ
+-eničьka
 -erъ
 -estь
+-eto
 -etъ
 -evati
 -evъ
@@ -97,6 +110,7 @@
 -ninъ
 -nъ
 -nь
+-nьcь
 -nьje
 -o
 -oba
@@ -105,6 +119,7 @@
 -oga
 -ogъ
 -okъ
+-olъ
 -omь
 -opъ
 -ostь
@@ -118,6 +133,7 @@
 -ovъ
 -oxa
 -očь
+-ošь
 -pati
 -pъ
 -ra
@@ -153,6 +169,8 @@
 -uľa
 -uša
 -vъ
+-xa
+-xo
 -xъ
 -y
 -y-kajǫ
@@ -173,6 +191,7 @@
 -ějь
 -ělъ
 -ělь
+-ěnikъ = *-ěnъ + *-ikъ
 -ěninъ
 -ěnъ
 -ěti
@@ -210,18 +229,16 @@
 -ьmъ
 -ьnica
 -ьnikъ
+-ьnikъ = *-ьnъ + *-ikъ
 -ьnъ
 -ьskъ
 -ьstvo
 -ьta
 -ьtа
 -ьtъ
+-ьtь
 -ьčaninъ
-.
-01
-0_
 51)
->? *axъ
 >? *gumьno
 >? *pyrovati
 >? *sъporьnъ
@@ -234,6 +251,7 @@
 >? *žibrьjь
 >? *žibьcь
 >? Bulgarian: би́цам
+>? Proto-Slavic: *axъ
 ? *narędlo
 Accusative
 Amount
@@ -269,8 +287,8 @@ Budislavъ
 Budivojь
 Bulgarian гозба
 Bělovoldъ
+Bělъgordъ
 Bъdigostь
-Chernykh
 Chříč
 Dative
 Daďьbogъ
@@ -288,7 +306,6 @@ Dorgoměrъ
 Dorgoslavъ
 Dorženь
 Dъněprъ
-ESSJa
 Forms with e
 Gdynia
 Genitive
@@ -318,7 +335,7 @@ Jьzęslavъ
 Kazimirъ
 Kaziměrъ
 Klonimirъ
-Kosovo ()
+Kosovo
 Krěsimirъ
 Krěsislavъ
 Kъrsъ
@@ -355,7 +372,6 @@ Miroslavъ
 Miręta
 Mojьslavъ
 Mojьžirь
-Mokoša
 Mokošь
 Moldiměrъ
 Moldoměrъ
@@ -384,6 +400,7 @@ Něgovojь
 Něgošь
 Old East Slavic: любꙑOld Ruthenian: любы⇒ Old East Slavic: любо́вьOld Ruthenian: любо́въ
 Old East Slavic: ꙗзъ
+Old Polish: jaPolish: jaSilesian: jŏ
 Old Ruthenian: хрущъBelarusian: хрушчUkrainian: хрущ
 Oleg
 Only attested as definitive:
@@ -396,13 +413,12 @@ Ortimirъ
 Orzslavъ
 Perunъ
 Place
-Pre-Slavic *diti
 Radoměrъ
 Radoslava
 Radoslavъ
 Rick (2008)
 Rimъ
-Russian: са́ни→ Kildin Sami: соа̄нн
+Russian: са́ни→ Ingrian: saani→ Kildin Sami: соа̄нн
 S(ъ)varogъ
 Semь
 Sofia: Bulgarian Academy of Sciences
@@ -418,7 +434,6 @@ Time
 Trigolvъ
 Trubachyov
 Tvьrdislavъ
-Usually it's not used with roots ending in g
 Vasmer
 Vocative
 Vojьdanъ
@@ -442,7 +457,6 @@ Xvalislavъ
 Xъrsъ
 Zořeslavъ
 [Term?]
-_1
 a
 a bo
 a by
@@ -465,26 +479,44 @@ ablъko
 ablъkovъ
 ablъkъ
 ablъčьnъ
+abo
 abolnica
 abolnišče
 abolnovъ
 abolnъ
 abolnь
 abolnьnъ
+abrędъ
+abrędъkъ
+abrędь
+abrędьje
+abrědь
+abrědьje
+aby
 abьje
 adati
 aduxa
 adušivъ
 adušь
 adušьlivъ
+aga
 agnica
 agniti
 agnę
 agnędъ
+agnędьje
 agnętina
 agnęťьjь
+agnъ
 agnьcь
 agoda
+agodica
+agodina
+agodišče
+agodьje
+agodьnica
+agodьnikъ
+agodьnъ
 agolvo
 ajatъ
 aje
@@ -531,6 +563,7 @@ avorьje
 avorьnica
 avorьnikъ
 avorьnъ
+avě
 avь
 avьnъ
 axati
@@ -543,6 +576,8 @@ azьkъ
 azьno
 ače
 ačekolivěkъ
+ašutь
+ašutьnъ
 aščelica
 aščelь
 aščerica
@@ -550,7 +585,8 @@ aščerъ
 aščerъka
 aščerь
 aťe
-a̋gnьcь
+aže
+b
 ba
 baba
 baba ęga
@@ -559,6 +595,7 @@ babica
 babina
 babinъ
 babiti
+babizna
 babiťь
 babona
 baboniti
@@ -569,8 +606,10 @@ babrotati
 babrotъ
 babuniti
 babunъ
+babura
 baburъ
 babuxa
+babuša
 babušьka
 babyka
 babę
@@ -580,7 +619,7 @@ babъkъ
 babьcь
 babьjь
 babьnikъ
-babьskъjь
+babьskъ
 badakati
 badakъ
 badati
@@ -655,6 +694,7 @@ basnь
 basnьnikъ
 basъ
 basъkъ
+basь
 batenьce
 batogъ
 batę
@@ -679,6 +719,7 @@ baxurь
 baxurь influenced by *baxoriti if already ere Czech-Slovak
 bazovъ
 bazъ
+bazь
 baňa
 baňati
 baňiti
@@ -693,9 +734,13 @@ bažiti
 bebrъ
 bedratъ
 bedrenica
+bedrenika
 bedrenikъ
 bedrenьcь
 bedro
+bedruna
+bedrunica
+bedrunъka
 bedrà
 bedrьce
 bedrьnica
@@ -712,7 +757,7 @@ bel(e)nъ
 belenъ
 belniti
 belnъ
-beračь ()
+beračь
 bergatъ
 bergovitъ
 bergovъ
@@ -720,8 +765,8 @@ bergulica
 bergulja
 bergyni
 bergъ
-beridlo ()
-berka ()
+beridlo
+berka
 bermenatъ
 bermenitъ
 bermenьnъ
@@ -771,6 +816,7 @@ berьna
 besěda
 besědovati
 bez
+bez(ъ)
 bezbordъ
 bezdušьnъ
 bezdětьnъ
@@ -781,18 +827,22 @@ bezkoristьnъ
 bezo(b)pasьnъ
 bezorьnъ
 bezotьnъ
+bezočьnъ
 bezpravьnъ
 bezrodьnikъ
+bezstrašьnъ
 bezsъmьrtьnostь
 bezsъmьrtьnъ
 bezsъnъ
 bezukъ
+bezumьnъ
 bezvermьje
 bezvěstь
 bezvětrъ
+bezzǫbъ
 bezčędьnъ
 bezčьtъ
-bezčьtьnъ ()
+bezčьtьnъ
 bi
 biba
 bibica
@@ -843,6 +893,7 @@ blizъkъ
 blizьnьcь
 bližina
 bližěnьje
+bližьnъ
 blyjati
 blykati
 blyvati
@@ -969,6 +1020,7 @@ bolěznь
 bolěžьka
 bolžiti
 bolь
+bolьnica
 boranina
 boraviti
 borda
@@ -994,7 +1046,11 @@ borti
 borvъ
 borzda
 borčьnъ
+boršьna
+boršьnikъ
 boršьno
+boršьnьnъ
+boršьňa
 borъ
 borьba
 borьcь
@@ -1010,6 +1066,7 @@ botьjanъ
 boďati
 boľь
 boľьjь
+boľьnica
 bořakъ
 božikъ
 božiti
@@ -1036,6 +1093,7 @@ bražьnikъ
 brediti
 bresti
 brestì
+brexati
 bridъ
 bridъkostь
 bridъkъ
@@ -1051,9 +1109,9 @@ briti
 britva
 bričь
 broditi
-brodìti ()
+brodìti
 brodъ
-broglъ ()
+broglъ
 brojati
 brojačь
 brojiti
@@ -1116,7 +1174,7 @@ bràtrьja
 bràtrьstvo
 bràtъ
 bràtьcь
-bràtьja ()
+bràtьja
 bràtьskъ
 brìtva
 brùda
@@ -1124,6 +1182,7 @@ bręknǫti
 bręčati
 bręčika
 bręždžati
+brědъ
 brěskati
 brěskъ
 brězgati
@@ -1132,10 +1191,10 @@ brǫbalъ
 brǫbarъ
 brȏdъ
 brоžďavъ
-brъkadlo ()
+brъkadlo
 brъkanica
 brъkati
-brъkačь ()
+brъkačь
 brъknǫti
 brъkočь
 brъsati
@@ -1150,8 +1209,10 @@ brъvica
 brъvistъ
 brъvitъ
 brъvьje
+brъzda
 brъzgati
 brъzgati (0-grade)
+brъňa
 brьdnǫti
 brьměti
 brьmьčiti
@@ -1195,6 +1256,7 @@ bukъvica
 buniti
 bura
 burolomъ
+burьjanъ
 butati
 butьca
 buvati
@@ -1210,12 +1272,11 @@ buzestъ
 buzina
 buzъ
 buzъka
-buzьje ()
+buzьje
 bučati
 bučiti
 buřa
 buřelomъ
-buřelomъ ()
 bužati
 bydlo
 byjati
@@ -1236,6 +1297,7 @@ bytьnъ
 byvati
 byvolъ
 byvъ
+byxъ
 byčati
 byčina
 byčę
@@ -1341,9 +1403,10 @@ běxъ
 běšę
 běťi
 běžati
-běžьkati ()
+běžьkati
 bľudo
 bľukati
+bľumati
 bľusteľь
 bľusti
 bľuti
@@ -1352,7 +1415,6 @@ bľuzgati
 bľuščь
 bľuščьcь
 bľьvati
-bľьvota
 břuxo
 břuxъ
 břuzga
@@ -1391,16 +1453,19 @@ bъdьňa
 bъdьňь
 bъgadlo
 bъgati
+bъkъlъ
 bъno
 bъno < earlier *bъdno
 bъrgъ
 bъrica
+bъrika
+bъrikъ
 bъrkati
 bъrkovъ
 bъrkъ
 bъrla
 bъrna
-bъrtiti ()
+bъrtiti
 bъrtva
 bъrtъ
 bъrtь
@@ -1420,11 +1485,15 @@ bъrzъkъ
 bъrzьcь
 bъrzьnъ
 bъrčьka
+bъrěnъ
 bъrščь
 bъrъ
 bъty
 bъtъva
 bъtъvo
+bъxъ
+bъxъmъ
+bъxъtati
 bъzakъ
 bъzati
 bъzgati
@@ -1436,6 +1505,8 @@ bъzovina
 bъzovišče
 bъzovьcь
 bъzovьje
+bъzoľa
+bъzoľь
 bъzunъ
 bъzъ
 bъzьjь
@@ -1469,6 +1540,7 @@ bьrloga
 bьrlogъ
 bьčela
 bь̀brъ
+c
 capa
 capati
 capiti
@@ -1524,14 +1596,13 @@ cěnìti
 cěpanica
 cěpeněti
 cěpenъ
-cěpidlo ()
+cěpidlo
 cěpiti
 cěpnatina
 cěpъ
 cěpъka
 cěpъkъ
 cěpьcь
-cěpьcь ()
 cěsařevьskъ
 cěsařevьstvo
 cěsařica
@@ -1552,6 +1623,7 @@ cěďa
 cěďь
 cьrky
 cьsařь
+d
 d(ъ)va desęte
 d(ъ)va korti
 d(ъ)va korty
@@ -1627,7 +1699,7 @@ dernъ
 derti
 deruga
 dervakъ
-dervesina ()
+dervesina
 dervina
 dervišče
 dervo
@@ -1651,17 +1723,17 @@ desiti
 desnъ
 desętъ
 desętь
+devę(t)nosъto
 devęsilъ
 devętъ
 devętь
+devętь sъtъ
 deřuga
 deševъ
 di
 dial. *xribьcь
-dial. стая́я
 dikъ
 dira
-diravъ
 diriti
 divadlo
 divakъ
@@ -1681,8 +1753,10 @@ divьjadь
 divьjati
 divьjačь
 divьjestь
+divьjь
 divьnъ
 diřa
+diřati
 diža
 dneska
 do
@@ -1713,7 +1787,6 @@ dobъ
 dobь
 dodati
 dodelěti
-dogadъka
 dogovorъ
 dojidlica
 dojidlo
@@ -1724,21 +1797,29 @@ dojьti
 dokladati
 doklasti
 doklepati
+dokolě
+dola
 dolga
 dolgъ
+dolica
 dolina
 doličьnъ
+dolišče
 dolka
 dolkatъ
 dolkavъ
 dolnь
 dolto
+dolu
 dolčica
+dolě
 dolěti
 dolžica
 dolžьka
 dolъ
+dolь
 dolьnъ
+dolьčina
 doma
 domasědъ
 domařь
@@ -1770,7 +1851,6 @@ domьskъ
 donositi
 dopadati
 doperti
-doplatiti
 dorbъ
 dorga
 dorgocěnьnъ
@@ -1794,10 +1874,12 @@ doržьcь
 dorъ
 dorъde
 dosada
+doselě
 dositi
 dostiťi < *do- + *stiťi
+dostojьnъ
 dosъlanьje
-dotъrčiti
+dotolě
 dovada
 dovьlěti
 doľa
@@ -1805,6 +1887,7 @@ dožaliti
 dožidati
 drabina
 drabъ
+drabь
 drabьcь
 drapati
 drapežь
@@ -1843,7 +1926,6 @@ drevьnъ
 drevьňь
 dricati
 drika
-drika ()
 dripa
 dripati
 dripavъ
@@ -1868,6 +1950,8 @@ drozgati
 dročiti
 droščiti
 droždža
+droždžьja
+droždžьje
 drugarь
 drugъ
 druti
@@ -1887,16 +1971,14 @@ družьstvo
 drybakъ
 drybati
 drygati
-drygъtati
 drynъ
 dryvěti
 dręgati
 dręzga
 dręzgakъ
 dręzgati
-dręzgavъ ()
+dręzgavъ
 dręzgъ
-drěbъ
 drěgavъ
 drěkъ
 drěmati
@@ -1909,12 +1991,12 @@ drǫčiti
 drъgati
 drъgъkъ
 drъgъtati
+drъgъva
 drъmъbъzъ
 drъva
 drъvařь
 drъviti
 drъvo
-drъvo ()
 drъvo (0-grade ablaut)
 drъvoga
 drъvožьnikъ
@@ -1956,11 +2038,11 @@ duti
 duti → *dužь ()
 dutina
 duvati
-duxa ()
-duxadlo ()
+duxa
+duxadlo
 duxati
 duxatъ
-duxačь ()
+duxačь
 duxmenъ
 duxnǫti
 duxota
@@ -1970,6 +2052,7 @@ duxovьnostь
 duxъ
 duxъna
 duša
+duševьnъ
 dušiti
 dušà
 dušěvьnostь
@@ -2003,7 +2086,6 @@ dęgľь
 dęsna
 dęte
 dętelina
-dętelina ()
 dętelъ
 dętelьcь
 dętьlъ
@@ -2017,7 +2099,7 @@ dějati
 dějьstvati
 dějьstvo
 dějьstvovati
-děkati ()
+děkati
 děkovati
 dělali
 dělateľь
@@ -2053,7 +2135,6 @@ dětьskъ
 dětьstvo
 děva
 děverь
-děverь ()
 děverьja
 děvica
 děvisnubъ
@@ -2085,7 +2166,6 @@ dъlgъ
 dъlžiti
 dъlžьnikъ
 dъlžьnъ
-dъlžьnъjь
 dъmuxati
 dъmuxъ
 dъnerъ
@@ -2103,7 +2183,7 @@ dъxnǫti
 dъxorь
 dъxъ
 dъzďь
-dъňakъ ()
+dъňakъ
 dъščь
 dъťi
 dъťьka
@@ -2195,14 +2275,14 @@ dьrzъkъ
 dьràti
 dьrča
 dьrčati
-dьrčavъ ()
+dьrčavъ
 dьrčàti
 dьržati
 dьržava
 dьľa
 dьľьjь
 dьžica
-ed(ъ)va
+e
 edinakъ
 edinica
 edinokъ
@@ -2233,7 +2313,7 @@ edьnostь
 edьnota
 edьnъ
 edьnъ na desęte
-ejь ()
+ejь
 elbada
 elbeda
 elbedь
@@ -2241,10 +2321,11 @@ elbǭtь
 elenъ
 elenь
 eleňь
+ely
 emela
 emexъ
-emešь ()
-emežь ()
+emešь
+emežь
 emьcь
 ernь
 ertь
@@ -2255,7 +2336,7 @@ esi
 esmъ
 esmь
 estь
-esvo-
+esva
 eterъ
 ezero
 ezъ
@@ -2277,7 +2358,6 @@ gacati
 gada
 gadateľь
 gadati
-gadačь
 gadina
 gaditi
 gadostь
@@ -2285,7 +2365,7 @@ gadovati
 gadovъ
 gadǫka
 gadъ
-gadъkati
+gadъka
 gadъkъ
 gadь
 gadьjь
@@ -2310,6 +2390,8 @@ galǫbъ
 galǫza
 galǫzь
 galъ
+galъda
+galъděti
 galъka
 galьba
 galьnъ
@@ -2328,8 +2410,9 @@ gatiti
 gatva
 gatъka
 gatъkati
+gatь
 gatьcь
-gatьčьka f ()
+gatьčьka
 gava
 gavati
 gavezъ
@@ -2350,9 +2433,8 @@ gaziti
 gazъ
 gačiti
 gaďь
-gaľa ()
+gaľa
 gaňati
-gaňati ()
 gaťa
 gaťę
 gaťьna
@@ -2382,6 +2464,7 @@ glibъ
 glibъkъ
 glibь
 glina
+gliněnъ
 glista
 glistà
 glistъ
@@ -2416,6 +2499,7 @@ glyba
 glybina
 glybokъ
 glyza
+glìnęnъ
 ględati
 ględěti
 glę̀dati
@@ -2451,7 +2535,7 @@ gnьsь
 gobina
 gobino
 gobiňa
-gobь ()
+gobь
 gobьdziti
 gobьdzovati
 gobьdzěti
@@ -2464,12 +2548,15 @@ godìti
 godě
 godъ
 godьnъ
-gogolь
+gogolica
+gogolъ
+gogotati
+gogotъ
+gogoľь
 gojiti
 gojь
 gojьnъ
 golakъ
-golanъ
 goldati
 golditi
 goldovati
@@ -2483,8 +2570,7 @@ golgolъ
 golica
 golikъ
 goliti
-golizna
-golma
+goličь
 golmę
 gologolvъ
 golostь
@@ -2497,7 +2583,6 @@ golsъ
 golsьnъ
 golva
 golvatъ
-golvatъ ()
 golvačь
 golvica
 golvina
@@ -2506,10 +2591,11 @@ golvišče
 golvľь
 golvъ
 golvъka
-golvьnikъ ()
+golvьnikъ
 golvьnъ
 golvьňa
 golyni
+golyšь
 golę
 golěja
 golěmanъ
@@ -2532,8 +2618,8 @@ golǫbъ
 golǫbъkъ
 golǫbь
 golъ
-golъka
-golьcъ
+golь
+golьcь
 golьje
 gomola
 gomoniti
@@ -2541,6 +2627,7 @@ gomonъ
 gomota
 gomoľa
 gomoľь
+gomula
 gomyla
 goniti
 gonìti
@@ -2624,6 +2711,7 @@ gověti
 govьno
 gořaninъ
 goře
+gořestь
 gořьjь
 grabežь
 grabiti
@@ -2652,6 +2740,7 @@ grobъ
 gromada
 gromъ
 grotъ
+groxati
 groxotъ
 groza
 grozdъ
@@ -2667,12 +2756,12 @@ grubъ
 gruda
 grudati
 gruditi
-grudъka ()
+grudъka
 grudьnъ
 grumę
 grupa
 grustь
-gruta ()
+gruta
 gruza
 gruzdъ
 gruzdь
@@ -2712,8 +2801,16 @@ grěti
 grěvati
 grěvъ
 grěxota
+grěxovati
+grěxovъ
+grěxovьnъ
 grěxъ
+grěza
+grěziti
+grězъ
+grěšina
 grěšiti
+grěšьka
 grěšьnъ
 grě̀jati
 grǫbъ
@@ -2725,13 +2822,9 @@ grǫzъ
 grǫzь
 grǫzьnъ
 grȍmъ
-grъkľanъ
 grъmestъ
 grъmica
 grъmъ
-grъtanъ
-grъtanь
-grъtànь
 grъtъ
 grьkъ
 grьměti
@@ -2746,7 +2839,7 @@ guga
 guja
 gumьno
 gurati
-guta ()
+guta
 gutora
 gutoriti
 gutorъ
@@ -2757,6 +2850,7 @@ guščerъ
 gvara
 gvarъ
 gvazdati
+gvizdati
 gvozditi
 gvozděnъ
 gvozdъ
@@ -2788,7 +2882,10 @@ gǫbatъ
 gǫbavъ *gǫběstъ ()
 gǫbica
 gǫbъka
+gǫdati
+gǫditi
 gǫděti
+gǫdьba
 gǫsakъ
 gǫserъ
 gǫsli
@@ -2804,7 +2901,9 @@ gǫstyni
 gǫstěti
 gǫstъ
 gǫstъkъ
+gǫsyni
 gǫsь
+gǫsьjь
 gǫtьnъ
 gǫza
 gǫzati
@@ -2817,7 +2916,6 @@ gǫšča
 gǫščarъ
 gǫščina
 gǫščь
-gǫšьjь
 gǫžь
 gǫžьva
 gǫžьvь
@@ -2867,10 +2965,15 @@ gъrdъ
 gъrgati
 gъrgotati
 gъrkati
+gъrkľanъ
 gъrnidlo
 gъrno
 gъrnъ
 gъrstь
+gъrtanъ
+gъrtanь
+gъrtànь
+gъrtľanъ
 gъrčavъ
 gъrčiti
 gъrčь
@@ -2879,25 +2982,33 @@ gъvakati
 gъvъkati
 gъvъčiti
 gъďьkъ
+gъľakъ
+gъľь
+gъľьcь
+gъľьkъ
 gъ̀rča
 gỳbnǫti
+h
 hrušt
 hrȍšč
 hájit
-hôliti se
 i
 i bo
+i li
 in
 in []
 iskrьňь
+issue 13
+issue 23
+j
 ja
 jadъ
 jako
 jakъ
 jalovica
 jalovina
-jaloviti ()
-jaloviznь ()
+jaloviti
+jaloviznь
 jalovostь
 jalověti
 jalovъ
@@ -2932,18 +3043,20 @@ jastriti
 jasьnъ
 jaxati
 jazva
+jazvьcь
 jaščerъ
 jaščerъka
 jaščurъ
-je(b)ti
 jebati
 jebàti
+jebьcь
 jeda
 jegъda
 jegъdy
 jeliko
 jemela
 jeterъ
+jeti
 jevi
 jevina
 jevinъ
@@ -2957,6 +3070,7 @@ jo
 joz
 ju
 ju že
+juditi
 juga
 jugo
 jugъ
@@ -2976,6 +3090,7 @@ juťь
 juťьnъ
 jàskra
 já
+jáo̯
 jô
 jędro
 jędzà
@@ -2987,12 +3102,12 @@ jěxati
 jě̀ti
 jě̀xati
 jǫdu
-jǻu
+jǫtiti
+jǫtъ
+jǻu̯
 jȁz
-jȃ
 jь
 jь že
-jь že ()
 jьde
 jьgo
 jьgra
@@ -3005,6 +3120,7 @@ jьgrь
 jьgrьcь
 jьgъla
 jьgъlica
+jьkati
 jьkra
 jьkriti
 jьkro
@@ -3017,6 +3133,7 @@ jьmenitъ
 jьmenovanьje
 jьmenovati
 jьmę
+jьměno
 jьměti
 jьnako
 jьnakъ
@@ -3066,12 +3183,11 @@ jьzbǫnǫti
 jьzbьranikъ
 jьzdati
 jьzdebnǫti
-jьzdirovanьje
 jьzduxati
 jьzdušiti
 jьzdě(ja)ti
 jьzdъniti
-jьzdъxnǫti ()
+jьzdъxnǫti
 jьzgorda
 jьzgorěti
 jьzgovorъ
@@ -3088,10 +3204,10 @@ jьzkrь
 jьzkuditi
 jьzkusiti
 jьzkusъ
-jьzkǫpati
 jьzkǫsъ
 jьzlogъ
 jьzložiti
+jьzměna
 jьzmьlsti
 jьznositi
 jьzobraziti
@@ -3101,7 +3217,6 @@ jьzpariti
 jьzperti
 jьzpertiti
 jьzpeťi
-jьzplatiti
 jьzportiti
 jьzporzdьniti
 jьzpočivati
@@ -3117,18 +3232,12 @@ jьztelťi
 jьzterzvьněti
 jьztokъ
 jьztъrgati < *jьz + *tъrgati
-jьztъrčiti
-jьztьrkati
 jьzuti
 jьzvaditi
 jьzverti
 jьzviti
 jьzvodьnikъ
 jьzvojь
-jьzvortъ
-jьzvorъ
-jьzvykati
-jьzvějati
 jьzvětъ
 jьzxapati
 jьzxoditi
@@ -3161,6 +3270,8 @@ kakovъ
 kakъ
 kalina
 kaliti
+kalokalǫga
+kaluga
 kalъ
 kamo
 kamy
@@ -3186,6 +3297,7 @@ kaznь
 kačiti
 kaďa
 kaľati
+kaľuxъ
 kaňa
 kaš(ь)ľь
 kaša
@@ -3197,6 +3309,8 @@ kašьka
 kašьnъ
 kašьľati
 kašьľь
+kažьde
+kažьdo
 klada
 kladati
 kladina
@@ -3211,6 +3325,7 @@ klamati
 klamьstvo
 klasti
 klaďa
+klekotъ
 klenovъ
 klenъ
 klenь
@@ -3229,6 +3344,7 @@ klevetati
 klevetьnikъ
 klikati
 kliknǫti
+klikъ
 klinъ
 klokotati
 klokotъ
@@ -3236,7 +3352,6 @@ klokъtati
 klonikъ
 kloniti
 kloniti sę
-kloniti sę ()
 klonovatъ
 kloněstъ
 klonъ
@@ -3244,6 +3359,7 @@ klonъka
 klonьcь
 klonьje
 klopiti
+klopotъ
 kloňakъ
 klupa
 kluti
@@ -3260,6 +3376,7 @@ klętьba
 klętьje
 klęčati
 klęčь
+klěnъ
 klěnь
 klětъka
 klětь
@@ -3273,28 +3390,37 @@ klěščь
 klěščьna
 klǫbo
 klǫbъ
+klьnъ
 klьvačь
 klьvьcь
 ko-
 koba
-kobati ()
+kobati
 kobiti
 kobuzъ
 kobyla
+kobylica
+kobylina
+kobylъka
+kobylьjь
 kobъzъ
 kobь
 kobьcь
 kobьnъ
 kogъda
 kogъdy
+kogъtь
 kojariti
 kojiti
 kokotъ
 kokošь
 kokošь(ka)
 kolakъ
+kolarь
 kolačь
 kolařь
+kolbъ
+kolbъkъ
 kolda
 koldenьcь
 koldędzь
@@ -3303,6 +3429,7 @@ koldьčьnikъ
 kolesъka
 kolesьce
 kolesьnica
+kolesьnъ
 koli
 koliko
 kolikъ
@@ -3311,6 +3438,8 @@ kolivěkъ
 kolkolъ
 kolnь
 kolo
+kolobъ
+kolodějь
 kologъ
 kolomastь
 kolomazь
@@ -3327,10 +3456,14 @@ koltiti
 kolto
 koltò
 koltъ
+kolysati
+kolyxati
 kolęda
 kolędovati
 kolě
+kolěbati
 kolěja
+kolějь
 kolěniti
 kolěničiti
 kolěno
@@ -3364,6 +3497,7 @@ komęga
 komъ
 komъkъ
 konopľa
+konopľę̀nъ
 konopľь
 konopь
 konotopъ
@@ -3400,7 +3534,7 @@ koprъ
 kopti
 kopylo
 kopyto
-kopytъnikъ
+kopytьnikъ
 kopъ
 kopъtiti
 kopъtěti
@@ -3409,6 +3543,7 @@ kopъtь
 kopьcь
 kopьje
 kopьna
+kopьněti
 kora
 korabľь
 koraťьnъ
@@ -3425,6 +3560,9 @@ koristьničьskъ
 koristьnъ
 koriti
 korkъ
+kormola
+kormoliti
+kormoľati
 korpa
 korpavica
 korpavъka
@@ -3464,21 +3602,18 @@ korľь
 korъ
 korьcь
 kosa
-kosa ()
 kosakъ
-kosapъ ()
+kosapъ
 kosarь
 kosatъ
 kosatъka
-kosačь ()
+kosačь
 kosařь
-kosařь ()
 kosera
 koserъ
 kosica
 kosidlo
 kositi
-kositi ()
 kositьba
 kosivo
 kosišče
@@ -3494,19 +3629,17 @@ kosovidlo
 kosovišče
 kosovьje
 kostrьcь
-kostrьcь ()
 kosturъ
 kostàtъ
 kostъka
 kostь
 kostьnъ
-kostьřava ()
+kostьřava
 kosvenъ
 kosъ
 kosъkъ
 kosьba
 kosьcь
-kosьcь ()
 kosьje
 kosьnikъ
 kosьnъ
@@ -3552,6 +3685,8 @@ kovьcь
 koxati
 koza
 kozina
+kozьjь
+kozьjь rogъ
 kozьla
 kozьlica
 kozьlikъ
@@ -3570,6 +3705,7 @@ koňekradъ
 koňevodъ
 koňušьna
 koňь
+koňьjь
 košara
 košelъ
 košuľa
@@ -3579,11 +3715,13 @@ košь
 koťerъ
 koťurъ
 koťurь
+koťьjь
 koťьka
 koža
-koža ()
 kožederъ
 kožuxъ
+kožьde
+kožьdo
 kradati
 kradačь
 kradenьje
@@ -3610,6 +3748,7 @@ krasa
 krasiti
 krasivъ
 krasti
+krasъka
 krasьnъ
 kraďa
 kraďьba
@@ -3693,11 +3832,15 @@ kręčiti
 kręčь
 kręžь
 kręžьlь
+krějati
 krěpiti
 krěpostь
 krěpъ
 krěpъkъ
 krěslo
+krěti
+krěvati
+krěviti
 krěxъkъ
 krǫglica
 krǫglikъ
@@ -3712,7 +3855,7 @@ krǫgъ
 krǫpostь
 krǫpělь
 krǫpъ
-krǫticа ()
+krǫticа
 krǫtina
 krǫtiti
 krǫtizna
@@ -3740,7 +3883,6 @@ krǫžьlь
 krǫžьnica
 krǫžьnъ
 krǫ̑tъ
-krȇk
 krȋkъ
 krъpъkъ
 krъtica
@@ -3759,20 +3901,24 @@ krъvьnъ
 krъxa
 krъxà
 krъxъ
+krъxъkъ
+krъxъtъ
 krъšiti
 krь
 krь(jь)
+krьjati
 krьstiti
 krьstъ
 krьstьnъ
+kuba
 kubanъ
-kubarь
+kubeł
 kubikъ
 kubovina
+kubrъ
 kubъ
 kubъkъ
 kubьcь
-kubьlъ
 kucakъ
 kucati
 kucostь
@@ -3818,6 +3964,7 @@ kupitьba
 kupišče
 kuprъ
 kupľa
+kupľati
 kupľьnъ
 kupъ
 kupьcь
@@ -3837,6 +3984,7 @@ kuropъty
 kury
 kurętina
 kurъ
+kurъčę
 kurь
 kurьcь
 kurьjь
@@ -3850,7 +3998,6 @@ kustъ
 kusъ
 kuti
 kutiti
-kutrę
 kuvьrtati
 kuzlo
 kuznica
@@ -3865,6 +4012,7 @@ kuřenьje
 kušati
 kušenьje
 kužьba
+kvapati
 kvapiti
 kvapъ
 kvasati
@@ -3886,6 +4034,7 @@ kvašenьje
 kviliti
 kvilěti
 kvisti
+kvočьka
 kvěliti
 květica
 květina
@@ -3900,10 +4049,9 @@ květьje
 květьnъ
 květьnь
 kvьtěti
-kyda
 kydati
 kydnǫti
-kyjati ()
+kyjati
 kyjь
 kyka
 kyla
@@ -3976,7 +4124,7 @@ kľupa
 kľupъ
 kľusa
 kľusę
-kľusъ ()
+kľusъ
 kľusьna
 kľuta
 kľuti
@@ -4000,12 +4148,17 @@ kǫdělьka
 kǫdělьnikъ
 kǫdě̀lь
 kǫdъkъ
+kǫdьla
 kǫdьlo
 kǫkoľь
-kǫpadlьňa
+kǫpadlišče
+kǫpadlo
+kǫpadlьna
+kǫpanьje
 kǫpati
-kǫpačь
+kǫpava
 kǫpina
+kǫpělišče
 kǫpělь
 kǫpěna
 kǫsakъ
@@ -4019,7 +4172,7 @@ kǫsъkъ
 kǫsьcь
 kǫtati
 kǫtъ
-kǫšьjь ()
+kǫšьjь
 kǫťa
 kǫželь
 kǫ̑sъ
@@ -4027,10 +4180,13 @@ kȏlsъ
 kȕsiti
 kъ(n)
 kъ-
+kъbelъ
+kъbъlъ
 kъbьlъ
 kъda
 kъde
 kъduňa
+kъdy
 kъjь
 kъlbasa
 kъlbasiti
@@ -4050,6 +4206,7 @@ kъlǫbo
 kъlǫbъ
 kъlъ
 kъmenь
+kъnorzъ
 kъnędzь
 kъnęgyni
 kъnęžiti
@@ -4098,7 +4255,7 @@ kъrtěti
 kъrxъ
 kъrzьna
 kъrzьno
-kъrčagъ
+kъrčaga
 kъrčavъ
 kъrčiti
 kъrčь
@@ -4121,14 +4278,18 @@ kъňìžica
 kъřь
 kъžde
 kъždo
+kъžьde
+kъžьdo
 kъžьdъ
 kъ̏nędzь
+l
 lada
 laditi
 ladъ
 ladьnъjь
 laiskă
 lajati
+lajьno
 lamъ
 lapa
 lasica
@@ -4148,21 +4309,17 @@ laziti
 lazivo
 lazъ
 lebeda
-ledęnъ
+leděnъ
 ledъ
 lelja
 lemexъ
-lemexъ ()
 lemešь
-lemešь ()
 lemežь
-lemežь ()
 lepěnъ
 letěti
 letъ
 leščь
 leťi
-leťi ()
 ležati
 ležàti
 li
@@ -4221,8 +4378,10 @@ listьje
 listьnica
 listьnikъ
 liszka
+lisę
 lisъ
 lisъka
+lisьjь
 liti
 litva
 litь
@@ -4373,7 +4532,6 @@ luspavъ
 luspina
 luspiti
 luzga
-luzga ()
 luča
 lučajь
 lučina
@@ -4413,6 +4571,7 @@ lęděninъ
 lędъ
 lędь
 lędьskъ
+lęgati
 lękati
 lękavъ
 lękota
@@ -4428,10 +4587,12 @@ lęčizna
 lęčь
 lęčьka
 lęďaninъ
+lęťa
 lęťi
 lěgati
 lěka
 lěkařь
+lěkařьnъ
 lěkobьnъ
 lěkovitъ
 lěkъ
@@ -4445,7 +4606,7 @@ lěpivo
 lěpostь
 lěpota
 lěpъ
-lěpъka ()
+lěpъka
 lěska
 lěstva
 lěstьnica
@@ -4520,6 +4681,7 @@ lьnъkъ
 lьnьcь
 lьnьnъ
 lьpnǫti
+lьpěti
 lьstiteľь
 lьstiti
 lьstivъ
@@ -4563,11 +4725,45 @@ makuxъ
 makušьka
 makužavъ
 makъ
+malenъ
+malenъkъ
+malešь
+maležь
+malica
+maliga
 malikъ
 malina
+malinъ
 maliti
+malizna
+maličь
+maliťь
+malostь
+malota
+malovatъ
+malovitъ
+malovъ
+maloxa
+maloňa
+malunъ
+malušь
+malyga
+malyšь
+malyšьka
+malę
+malęga
+malękъ
+malęčьko
+malěti
 malъ
 malъkъ
+malь
+malьcь
+malьnъ
+malьstvo
+malьznъ
+malьčikъ
+mama
 mamiti
 mana
 manidlo
@@ -4579,7 +4775,9 @@ manьja
 manьjakъ
 manьlivъ
 mara
+marati
 marěna
+marǫga
 maslo
 maslěnica
 maslěnъ
@@ -4595,8 +4793,10 @@ mastьnъ
 matati
 mati
 matinursery: *mama
+matorъ
 mavati
 maxati
+maxъ
 mazadlo
 mazajь
 mazakъ
@@ -4647,7 +4847,10 @@ mačęťь
 mačьjь
 mačьka
 mačьkъ
-maľavъka
+maľakъ
+maľava
+maľukъ
+maľuta
 maťexa
 maхъ
 medovina
@@ -4663,6 +4866,7 @@ medъ
 medъkъ
 medьcь
 medьnikъ
+meklenъ
 melivo
 melko
 melstva
@@ -4702,9 +4906,8 @@ metъla
 metъlařь
 metъlica
 metъliga
-metъliga ()
 metъlikъ
-metъličina ()
+metъličina
 metъlo
 metъlъka
 mečevъ
@@ -4753,6 +4956,7 @@ mivo
 mižati
 mižiti
 mjĩjăc
+mlaxavъ
 mlinъ
 modla
 modliti
@@ -4778,11 +4982,12 @@ modrostь
 modrěti
 modrъ
 modrьcь
+mogy
 mogyla
 mogylistъ
 mogylьnъ
-mogǫťь
 mojь
+mok-
 mokiti
 moklica
 mokljadь
@@ -4877,6 +5082,7 @@ molťьskъ
 monisto
 mora
 moriti
+morky
 morkъ
 mormorica
 mormorьcь
@@ -4919,6 +5125,8 @@ morà
 morčiti
 morčьnъ
 morěnъ
+morǫga
+morǫgъ
 morъ
 morьnъ
 morьskъ
@@ -5011,15 +5219,21 @@ močьvirъ
 moľь
 mořakъ
 moře
+mořevъ
 mošьna
 moťi
 moťь
 muditi
+muděti
+mudьnъ
 muxa
 mušica
 my
 mydlo
 myjenьje
+myliti
+mylъka
+mylьnъ
 mysliti
 myslěti
 myslь
@@ -5035,6 +5249,7 @@ mytělьnikъ
 mytьba
 mytьje
 myvь
+myľati
 myšakъ
 myšarjь
 myšastъ
@@ -5066,6 +5281,7 @@ myšišče
 myšiťь
 myšura
 myšurъ
+myšę
 myšętina
 myšętьnikъ
 myšęťь
@@ -5073,6 +5289,7 @@ myšь
 myšьca
 myšьcь
 myšьjakъ
+myšьjь
 myšьkovati
 myšьna
 myšьnica f
@@ -5099,8 +5316,9 @@ mękъkota
 mękъkъ
 mękъčati
 mękъčina
-męsarjь
+męsarь
 męsatъ
+męsařь
 męsistъ
 męsitъ
 męsivo
@@ -5122,15 +5340,18 @@ męta
 mętežь
 męti
 męty
+męzъ
 męča
 męčikъ
 męčę
 męčь
 męčьkъ
 męčьnъ
+męžьšь
 mę̀knǫti
 mę̏kъkъ
 mědęnikъ
+měděnъ
 mědь
 mělъ
 mělъka
@@ -5171,7 +5392,9 @@ mězgyrevъ
 mězgyrina
 mězgyrь
 měšadlъka
+měšati
 měžiti
+mě̀dęnъ
 mě̀riti
 mĩglъ
 mǫdo
@@ -5227,31 +5450,42 @@ mȋgъ
 mȋrьnъ
 mȏrkъ
 mъděti
+mъdъkъ
+mъdъčati
+mъdьliti
 mъdьlь
 mъdьlьnъ
 mъknǫti
 mъkъ
 mъldni
 mъldnьji
+mъlinъ
 mъlnьji
 mъlva
 mъlviti
 mъlvěninъ
+mъlvьnъ
 mъnogo
 mъnogota
 mъnogъ
 mъnojǫ
+mъnožiti
 mъnožьkъ
 mъnožьstvo
 mъrda
 mъrdati
 mъrgati
+mъrgavъ
+mъrgačь
+mъrgoda
+mъrgunъ
 mъrky
 mъrmica
 mъrmolьcь
 mъrmorьcь
 mъrmyšь
 mъrmъkъ
+mъrščina
 mъrščiti
 mъskъ
 mъstъ
@@ -5260,7 +5494,15 @@ mъzgnǫti
 mъčati
 mъšica
 mъždžiti
-mъ̀lviti
+mъ̀lv(j)enьje
+mъ̀lvati
+mъ̀lvjati
+mъ̀lvěninъ
+mъ̀lvъka
+mъ̀lvь
+mъ̀lvьca
+mъ̀lvьcь
+mъ̀lvьnъ
 mъ̀zgъ
 mьgla
 mьglati
@@ -5333,6 +5575,7 @@ mьrtvьnъ
 mьrtvьčina
 mьrtvьčь
 mьrtvьčьskъ
+mьrtь
 mьrzati
 mьrzenъ
 mьrziti
@@ -5368,7 +5611,10 @@ mьžiti
 mьžuriti
 mь̀rkъ
 mь̀čь
+n
 na
+na avě
+na desęte
 na utrьje
 na vъnъ
 na-
@@ -5387,7 +5633,6 @@ nabojьnъ
 naborъ
 nabrъkati
 nabàsъ
-nabàsъ Possibly:
 naběditi
 naběděvati
 naběďavati
@@ -5398,18 +5643,16 @@ nadeďa
 nadoba
 nadolъ
 nadorga
-nadrъviti ()
+nadorgy
+nadrъviti
 nadušiti
 nadъ
 nadъdelěti
 nadъskakati
-nadъvykati
 nadъxnǫti
 nadъzorъ
-nagaditi
 nagatiti
 nagaziti
-nagaďati
 naglostь
 naglěti
 naglъ
@@ -5423,7 +5666,7 @@ nagorьje
 nagorьnikъ
 nagovorъ
 nagovorъka
-nagrěvateljь ()
+nagrěvateljь
 nagrěvъ
 nagъ
 nagъbnǫti
@@ -5459,7 +5702,6 @@ naperti
 naperčiti
 napeťi
 napisati
-napisati ()
 napisъ
 napitъka
 napitъkъ
@@ -5488,6 +5730,12 @@ narǫgati
 narǫčь
 nasaďenьje
 nasedliti
+nasila
+nasilovati
+nasilъ
+nasilьje
+nasilьnikъ
+nasilьstvo
 naskakati
 nasoka
 nasolpъ
@@ -5514,6 +5762,7 @@ natelťi
 natina
 natryti
 natyni
+natyrati
 natęgnǫti
 natь
 nauka
@@ -5533,15 +5782,18 @@ navitati
 naviti
 navojь
 navuťa
-navykati ()
 navyknǫti
 navykъ
-navějati
-navějь ()
+navějь
 navětrьje
 navětrьnъ
 navъ
+navь
+navьje
+navьka
 navьlgnǫti
+navьnъ
+navьskъ
 naxalъ
 naxapati
 naxoduxъ
@@ -5617,15 +5869,16 @@ nedǫ̀gъ
 nee tu
 nee žě li
 negodovati
+negodějь
 negъbľь
 nejistovъ
 nejistъ
 nejęsytь
+neklenъ
 nena
 nenaviděti
 nenavistь
 neoxota
-neplatenъ
 nepogoda
 nepravьda
 neprijateľь
@@ -5654,6 +5907,10 @@ neutro
 neučь
 nevidimъ
 nevinьnъ
+nevoliti
+nevolьje
+nevolьnъ
+nevoľa
 nevěsta
 ni
 ni by
@@ -5771,6 +6028,7 @@ nozdrà
 nozdřa
 noziti
 noťь
+noťьlěgъ
 nožarъ
 noževъka
 noževьnikъ
@@ -5860,6 +6118,10 @@ o
 o are attested X times in: Old Church Slavonic (2
 o by
 o(b)
+o(b)ada
+o(b)aditi
+o(b)dĕdlo
+o(b)dějadlo
 o(b)kladati
 o(b)klasti
 o(b)osočьnъ
@@ -5868,7 +6130,12 @@ o(b)pasъka
 o(b)pasьlivъ
 o(b)pasьnostь
 o(b)pasьnъ
+o(b)peka
+o(b)pekunъ
+o(b)pora
+o(b)pytъ
 o(b)rěxъ
+o(b)rǫžьje
 o(b)sada
 o(b)saditi
 o(b)sadъ
@@ -5881,8 +6148,11 @@ o(b)tekъ
 o(b)toka
 o(b)tokъ
 o(b)točьnъ
+o(b)ščepъ
+o(b)žerdlьje
 o-
 ob rokъ
+ob(v)ora
 ob(v)ortiti
 ob(v)orъ
 ob(о)jьti
@@ -5890,7 +6160,6 @@ ob(ъ)valъ
 ob-
 oba
 obada
-obadati
 obaditi
 obadъ
 obačiti
@@ -5929,6 +6198,7 @@ obolžiti
 obora
 oboriti
 obortъ
+obortьnъ
 oborъ
 obozъ
 obraza
@@ -5962,7 +6232,6 @@ obskormьnъ
 obskъrda
 obsojьka
 obuti
-obuti ()
 obutina
 obutěljь
 obutělь
@@ -5985,7 +6254,7 @@ obučenьje
 obuťa
 obvetrěti
 obvida
-obvějati
+obvora
 obvětati
 obvětriti
 obvěťati
@@ -6015,7 +6284,10 @@ obъ-
 obьdo
 obьlgnǫti
 obьlъ
+obьťa
+obьťina
 obьťь
+obьťьnъ
 ocьtiti
 ocьtovъ
 ocьtěnъ
@@ -6034,6 +6306,7 @@ oduxotvoriti < *duxъ + *tvoriti ()
 odědlo
 oděja
 odějadlo
+odějanьje
 odětьje
 oděvadlo
 oděvě
@@ -6056,7 +6329,7 @@ ogorďa
 ogorďenьje
 ogorďь
 ogovorъ
-ogrěvadlo ()
+ogrěvadlo
 ogrěvъ
 ogňišče
 ogňь
@@ -6089,7 +6362,6 @@ okunèvъ
 okunь
 okusiti
 okusъ
-okǫpati
 okъno
 okъnьce
 olboda
@@ -6098,6 +6370,7 @@ olbǭtь
 oldi
 oldica
 oldy
+oldyga
 oldyžьka
 oldъka
 oldьja
@@ -6121,10 +6394,10 @@ olově(nь)nъ
 olovь
 olovьnъ
 olsь
-oly
 olčьnъ
 olějь
 olъ
+olỳ
 omajьnъ
 omanъ
 oměgъ
@@ -6147,8 +6420,6 @@ onъde
 opadati
 opakъ
 opariti
-opeka
-opekunъ
 operenьje
 operti
 opetьlavati
@@ -6169,6 +6440,8 @@ opytъ
 opytъka
 opytьnъ
 opyšь
+opętina
+opętь
 opъvati
 opьrěti
 oranъka
@@ -6254,7 +6527,7 @@ orzdorъ
 orzduxati
 orzdvignǫti
 orzdъniti
-orzgadъka
+orzgadati
 orzgorda
 orzgordъ
 orzgordь
@@ -6284,7 +6557,6 @@ orzpaliti
 orzpalъka
 orzperti
 orzpeťi
-orzplatiti
 orzporti
 orzportiti
 orzporъ
@@ -6292,7 +6564,7 @@ orzpuxati
 orzpytanьje
 orzpytovati
 orzpytъ
-orzraziti ()
+orzraziti
 orzrězъ
 orzsadъ
 orzsoxa
@@ -6309,24 +6581,22 @@ orzstrojь
 orzstruga
 orzstrugъ
 orzstrujiti
+orzsvětъ
 orzsъlati
 orztelťi
 orztъrgati < *orz + *tъrgati
 orzuditi
 orzuměti
+orzuměvati
 orzumъ
 orzuti
-orzuti ()
 orzuzdati
 orzvaditi
 orzvalъ
 orzverzti
 orzviti
 orzvojь
-orzvortъ
-orzvykati
 orzvě
-orzvějati
 orzvětriti
 orzxodati
 orzxodovati
@@ -6433,6 +6703,7 @@ ostrugъ
 ostrujiti
 ostrъ
 ostrъgati
+ostrьje
 ostь
 ostьnъ
 ostьrbati
@@ -6503,7 +6774,7 @@ otъborъ
 otъbyti
 otъdavьna
 otъdušьnikъ
-otъgadъka
+otъgadati
 otъgorda
 otъgordati
 otъgordъ
@@ -6527,7 +6798,7 @@ otъpertiti
 otъpečatьkъ
 otъpeťi
 otъpisati
-otъplatiti
+otъpora
 otъporti
 otъportiti
 otъporъ
@@ -6553,7 +6824,6 @@ otъverti
 otъverzti
 otъvodьnikъ
 otъvoriti
-otъvortъ
 otъvorìti
 otъvorъ
 otъvyknǫti
@@ -6580,7 +6850,6 @@ otьcьnursery: *tata
 otьkъ
 otьlkati
 otьnina
-otьrkati
 otьčevъ
 otьčimovъ
 otьčimъ
@@ -6592,6 +6861,7 @@ otьčičь
 otьčjь
 otьčunъ
 otьčuxъ
+otьčę
 otьčь
 otьčьnъ
 otьčьskъ
@@ -6611,22 +6881,55 @@ ovodъ
 ovogъda
 ovoliko
 ovorgъ
+ovoťařь
 ovoťe
-ovykati
+ovoťь
+ovoťьje
+ovoťьka
+ovoťьnikъ
 ověděti sę
 ověsti sę
 ovǫda
 ovъ
-ovъ ()
 ovъde
+ovь
 ovьca
-ovьca ()
 ovьdověti
+ovьnařь
+ovьnovъ
 ovьnъ
 ovьragъ
 ovьsiga
 ovьsěnъ
 ovьsъ
+ovьčakъ
+ovьčarevъ
+ovьčarica
+ovьčarikъ
+ovьčarьka
+ovьčarьkъ
+ovьčarьnica
+ovьčarьnikъ
+ovьčarьnъ
+ovьčarьnь
+ovьčarьskъ
+ovьčarьstvo
+ovьčarьňa
+ovьčařь
+ovьčica
+ovьčina
+ovьčinъ
+ovьčinъka
+ovьčinьcь
+ovьčinьnikъ
+ovьčinьnъ
+ovьčjь
+ovьčka
+ovьčuxъ
+ovьčę
+ovьčętina
+ovьčьnъ
+ovьňь
 oxapati
 oxoda
 oxodъ
@@ -6649,9 +6952,9 @@ očarovati
 očatъ
 očertъ
 očitъ
-očák
 očьrtati
 oťutiti
+oťuťati
 oťьtnǫti
 ožaliti
 oželdica
@@ -6661,7 +6964,7 @@ ožilьje
 pa-
 padadlo
 padati
-padavina ()
+padavina
 padežь
 padorga
 padъkъ
@@ -6676,10 +6979,10 @@ pakъ byti
 palavъ
 paležь
 palica
-palidlo ()
+palidlo
 paliti
 palivo
-paličь ()
+paličь
 paluga
 paluxa
 palyga
@@ -6688,6 +6991,7 @@ palьba
 palьcь
 pamętati
 pamętь
+pamętьnъ
 paorbę
 paorbъ
 paorbъkъ
@@ -6704,6 +7008,8 @@ parъ
 parьnъ
 pasti
 pastirica
+pastorъka
+pastorъkъ
 pastuxъ
 pastvo
 pastyrъka
@@ -6716,6 +7022,8 @@ pasynъkъ
 pasěka
 pasěkъ
 pasьrbъ
+patrati
+patračь
 patriti
 pavorzъ
 pavъ
@@ -6747,12 +7055,14 @@ pekařь
 pekařьňa
 pekъ
 pelena
+pelestъ
 pelesъ
 pelna
 pelnъ
 pelsti
 pelti
 pelva
+pelvelъ
 pelynъ m
 pelynь
 pepelъ
@@ -6768,13 +7078,10 @@ perdi
 perdi obědъ
 perdolěti
 perdorъ
-perdugaditi
-perdugaďati
 perdě(ja)ti
 perdъ
 perdъkъ
 perdъniti
-perdъplatiti
 perdъreťi < *perdъ () + *reťi
 perdъvěděti
 perdъvěsti
@@ -6785,11 +7092,10 @@ pergorěti
 pergovorъ
 pergъbnǫti
 perhaps masculine forms in -ъ
-peridlo ()
+peridlo
 perilьnъ
 perina
-perina ()
-periteľь ()
+periteľь
 perjьti
 perkapati
 perkladati
@@ -6808,7 +7114,6 @@ perpelъ
 perperti
 perperčiti
 perpeťi
-perplatiti
 perporъ
 perręditi
 perrězъ
@@ -6831,11 +7136,9 @@ pertъka
 pertьnъ
 perunъ
 perušina
-perušina ()
 pervalъ
 pervara
 perviti
-pervykati ()
 pervęslo
 perxapati
 perxovati
@@ -6845,15 +7148,14 @@ perčitati
 perčiti
 perčьka
 perčьnъ
-peržaliti ()
+peržaliti
 peržasъ
 peržidati
 perživati
 perъka
-perъka ()
-perъkati ()
+perъkati
 perьnatъ
-perьnica ()
+perьnica
 perьnъ
 petьlati
 petьlica
@@ -6879,18 +7181,21 @@ pečura
 pečurъka
 pečěra
 pečьka
-pečьka ()
 pečьkъ
+peľati
 peťera
 peťerьnъ
 peťi
 peťь
-peťь ()
 pijanъ
 pijavica
 pila
+pilica
 piliti
+piliťь
 pilę
+pilęga
+pilьcь
 pilьnъ
 pipa
 pipati
@@ -6915,34 +7220,60 @@ piti
 pitěti
 pivo
 pivьnica
+pivьnъ
 pizda
+piľakъ
+piľuga
+piľukъ
+piľuxъ
 piščalь
 piščati
 piťa
 plakati
+plaska
 plastъ
-platenostь
+plata
+platežь
 platiti
-platěžьnъ
+platuxa
+platy
+platyka
 platъ
 platьcь
+platьje
 plavati
 plaviti
+plaxъta
 plačь
-plaťačь
+plaščanica
+plaščenica
+plaščь
+plaťa
 plemenьnikъ
 plemenьnъ
 plemę
+pleskati
+pleskotъ
+pleskъ
+plesnica
+plesno
+plesnьce
 plesti
 pleťe
 pliska
 plochý
 plodъ
+ploka
+ploskati
 ploskъ
 plotica
 ploty
 plotъ
 plotь
+ploxa
+ploča
+ploščadь
+ploščь
 plugъ
 pluti
 pluto
@@ -6959,7 +7290,10 @@ plàviti
 plęsati
 plęsica
 plęsьcь
+plętati
 plěna
+plěskati
+plěskъ
 plěsnь
 plěva
 plěša
@@ -6971,13 +7305,16 @@ plěšь
 plěšьcь
 plūtò
 plūťè
+plǫtati
 plъtъ
 plъtь
+plъtьnъ
 plъžьkъ
 plъ̀tъ
+plьsky
 po
 pobirati
-pobrъkati ()
+pobrъkati
 poběda
 poběditi
 pod(e)rъ
@@ -7001,6 +7338,7 @@ podъkladati
 podъklasti
 podъkova
 podъkupъ
+podъmetъ
 podъpaliti
 podъpalъka
 podъperti
@@ -7011,7 +7349,6 @@ podъslonъ
 podъstolьje
 podъsětiti
 podъsъlati
-podъvykati
 podъzemьnъ
 podъšьva
 podьlostь
@@ -7043,6 +7380,7 @@ pokòjь
 pokǫsiti
 pola
 polata
+polati
 poldьnь
 poli
 polica
@@ -7159,6 +7497,7 @@ postiťi < *po- + *stiťi
 postiťi?
 postrojiti
 postukъ
+postājati
 postъ
 postьnъ
 posuti
@@ -7184,10 +7523,8 @@ potuliti
 potęti
 potъ
 potъrgati < *po + *tъrgati
-potъrčiti
 potьběga
-potьrkati
-pouka ()
+pouka
 povada
 povaditi
 povalъ
@@ -7196,11 +7533,12 @@ poverslo
 povinǫti
 poviti
 povojь
-povortъ
 povorzъ
-povykati ()
-povějati
+povykъ
+povědati
+pověděti
 povějь
+pověstь
 pověsьmo
 povětří
 powietrze
@@ -7226,11 +7564,12 @@ počiti
 počivati
 počuda
 počìti
+počęti
 počętъkъ
 poěďavati
-poľakъ
 poľana
 poľaninъ
+poľaxъ
 poľe
 poňe že
 požaliti
@@ -7239,12 +7578,16 @@ poželdica
 poželdъ
 požidati
 požirati
+požitъčiti
 požьrěti
 pra-
+prababa
 praga
 pragnǫti
 prava
 pravidlo
+pravidlьnikъ
+pravidlьnъ
 praviteľь
 praviti
 pravo
@@ -7258,8 +7601,6 @@ pravьdina
 pravьdivъ
 pravьdьnostь
 pravьdьnъ
-pravьidlьnikъ
-pravьidlьnъ
 pravьnikъ
 pravьničьskъ
 pravьnъ
@@ -7285,6 +7626,7 @@ prijaznъ
 prijaznь
 prijàteľь
 prijàznь
+prijǫtъ
 prijьti
 prikapati
 prikladati
@@ -7300,9 +7642,10 @@ primъka
 pripadati
 pripekъ
 priperti
-priplatiti
 pripьrtь
-prisluga ()
+priroda
+pris(ь)nъ
+prisluga
 prisnъ
 prisolpъ
 pristiťi < *pri- + *stiťi
@@ -7312,10 +7655,9 @@ pritokъ
 prituliti
 pritъča
 priverzti
-privykati
 privyknǫti
 privyčьka
-privějati ()
+privějь
 privětъ
 privětьnъ
 privětьstvьje
@@ -7331,6 +7673,7 @@ progorěti
 progovorъ
 projьti
 prokapati
+prokaza
 prokoba
 prokryti
 prokuda
@@ -7360,18 +7703,20 @@ prosějati
 proti
 protivo
 protivъ
+protivьnikъ
 protivьnъ
 protokъ
 provalъ
 proverti
 provodьnikъ
 provorьnъ
-provykati
 prozorъ
 prozorьcъ
 prozrenьje
 prošakъ
 prošьka
+prygati
+prygnǫti
 pryskati
 prysnǫti
 pryščina
@@ -7381,7 +7726,6 @@ prędati
 prędačьstvo
 prędeno
 prędivo
-prędivo ()
 prędnǫti
 prędь
 pręgati
@@ -7411,10 +7755,10 @@ prǫtъka
 prǫtьcь
 prǫtьčica
 prǫžina
-prǫžina ()
 prǫžiti
 prǫžьcь
 prǫ̑tъ
+prȉsno
 prъskati
 pustiti
 pustošь
@@ -7435,12 +7779,12 @@ puzo
 puzо
 pušiti
 puхъkavъ
+pylę
 pylъ
 pylь
 pyrika
 pyrina
 pyriti
-pyriti ()
 pyrovina
 pyrъ
 pyrь
@@ -7507,6 +7851,8 @@ pľugavъka
 pľugavьcь
 pľugavьstvo
 pľuskъ
+pľusna
+pľusno
 pľuxъ
 pľuťe
 pľьvati
@@ -7542,10 +7888,11 @@ pоgovorъ
 pоgovorъka
 pъlkovodьcь
 pъlkъ
-pъrknǫti ()
+pъrknǫti
 pъrskati
 pъrtiti
 pъrtъ
+pъrxati
 pъrťa
 pъtati
 pъtica
@@ -7560,6 +7907,7 @@ pъvati
 pъvьnъ
 pъxъtěti
 pъškati
+pъťьka
 pьcьlъ
 pьjanъ
 pьjavъka
@@ -7580,8 +7928,9 @@ pьlžь
 pьlžьcъ
 pьlžьkъ
 pьpьręnikъ
-pьpьręnъ
 pьpьrę̀nīkъ
+pьpьrěnīkъ
+pьpьrěnъ
 pьpьrь
 pьraka
 pьrakъ
@@ -7600,7 +7949,6 @@ pьrsь
 pьrtь
 pьrvъ
 pьrxati
-pьrxati ()
 pьrxotь
 pьrxъ
 pьrxъkъ
@@ -7609,8 +7957,10 @@ pьršiti
 pьržiti
 pьsanьje
 pьsati
+pьsina
 pьstrǫgъ
 pьstrъ
+pьsę
 pьsъ
 pьsьjь
 pьxati
@@ -7623,6 +7973,7 @@ pь̀lzati
 pь̑rxъ
 pỳra
 pỳro
+r
 radi
 radina
 raditi
@@ -7648,10 +7999,13 @@ račiti
 raňenъ
 rebro
 rebr̥ce
-rebrьce
 recędzь
 redьky
+rega
+regati
+regotъ
 regti
+regъtati
 remeslo
 remy
 retędzь
@@ -7664,7 +8018,12 @@ reťi
 režuxa
 rigati
 rinǫti
+ristati
+ritati
 ritь
+riva
+rivati
+ričь
 rjadny
 rodina
 roditi
@@ -7726,8 +8085,10 @@ rybica
 rybokъ
 rybolovъ
 rybolovьstvo
+rybę
 ryběstъ
 rybъka
+rybьjь
 rybьnъ
 rydati
 rydlo
@@ -7738,6 +8099,7 @@ ryxlъ
 ryďь
 rządny
 rànīkъ
+rèbrьce
 rìnǫti
 ròjь
 rõjь
@@ -7762,7 +8124,7 @@ rěpьjь
 rěsnъ
 rězadlo
 rězakъ
-rězalьnikъ ()
+rězalьnikъ
 rězati
 rězačь
 rězenъ
@@ -7777,7 +8139,7 @@ rězъkъ
 rězь
 rězьba
 rězьbařь
-rězьbařьstvo ()
+rězьbařьstvo
 rězьcь
 rězьlivъ
 rězьnъ
@@ -7794,7 +8156,7 @@ rǫbiti
 rǫbìti
 rǫbаxa
 rǫbъ
-rǫdъ ()
+rǫdъ
 rǫga
 rǫgateľь
 rǫgati
@@ -7803,9 +8165,7 @@ rǫgъ
 rǫka
 rǫkavica
 rǫkavъ
-rǫkojętь
-rǫkoętь
-rǫčica ()
+rǫčica
 rǫ̑bъ
 rȏdъ
 rъdrъ
@@ -7815,9 +8175,11 @@ rъpъtъ
 rъtъ
 rъvati
 rъvàti
+rъzati
 rъďa
 rъďavъ
 rъžь
+rьjati
 rьtǫtь
 rьtь
 rьvьnati
@@ -7859,6 +8221,7 @@ sedlo
 sedmica
 sedmъ
 sedmь
+sedmь sъtъ
 sedъlo
 sego dьne
 segъda
@@ -7881,6 +8244,7 @@ serdьnъ
 serdьňь
 sernъ
 sestra
+sestājati se
 seľaninъ
 si
 sice
@@ -7932,12 +8296,12 @@ skobľičь
 skobľь
 skobľьcь
 skobъka
-skobьrъ ()
+skobьrъ
 skobьľь
 skokъ
 skolьka
 skomiti
-skopakъ ()
+skopakъ
 skopiti
 skopьcь
 skora
@@ -7950,8 +8314,16 @@ skotъ
 skovorda
 skovornъ
 skočiti
+skrabati
+skrebetati
+skrebetъ
+skreti
+skrina
+skrini
+skrinъ
 skripati
 skripěti
+skrobati
 skrzek
 skubati
 skubiti
@@ -7961,9 +8333,10 @@ skula
 skumati
 skutačь
 skuti
-skuti ()
+skutina
 skutъ
-skutьlъ
+skutьnica
+skutьnikъ
 skvara
 skvariti
 skvarъ
@@ -7998,6 +8371,7 @@ slizostь
 slizеstъ
 slizъkъ
 slizь
+slnko
 sloniti
 slonъ
 slota
@@ -8008,6 +8382,7 @@ sluda
 sludy
 sluga
 slugyni
+slunko
 sluti
 sluxъ
 sluzovostь
@@ -8094,8 +8469,8 @@ snuti
 sněgъ
 sněžьnъ
 snъxa
-snъxa ()
 soba
+sobaka
 sobiti
 sobojǫ
 sobь
@@ -8122,7 +8497,7 @@ solpějь
 solpъ
 solstь
 soltina
-solviti ()
+solviti
 solvъ
 solvьjь
 solďьjь
@@ -8210,7 +8585,6 @@ stogъ
 stojanъka
 stojati
 stojiti
-stolařь
 stolikъ
 stolina
 stolovatъ
@@ -8261,7 +8635,7 @@ strojiti
 strojь
 strojьnъ
 stroka
-strokatъ ()
+strokatъ
 strokovъ
 stromъ
 stromъkъ
@@ -8320,17 +8694,15 @@ studenьcь
 studiti
 studъ
 stuga
-stukadlo ()
-stukačь ()
+stukadlo
+stukati
+stukačь
 stukotъ
 stukъ
 stydnǫti
 stydъ
 stygnǫti
 stàjati
-stáj
-stája
-stáje
 stávat
 stęgъ
 stěgъ
@@ -8341,7 +8713,6 @@ stǫkati
 stǫpa
 stǫpenь
 stǫpiti
-stȁja
 stȏržь
 stъlba
 stъlbъ
@@ -8356,11 +8727,9 @@ stьdza
 stьdzà
 stьgna
 stьklo
-stьklęnъ
 stьklę̀nica
 stьklę̀nīkъ
-stьklę̌̀nъ
-stьklě̀nъ
+stьklěnъ
 stьkl̥ce
 stьlati
 stьlbъ
@@ -8375,7 +8744,6 @@ stьrčiti
 stьvolъ
 stьžьka
 sudlica
-sugubь
 sujeta
 sujęca
 sujękъ
@@ -8397,8 +8765,7 @@ suxъ
 sučiti
 suša
 sušiti
-sušiti ()
-sušìti ()
+sušìti
 svakъ
 svariti
 svarъ
@@ -8411,12 +8778,9 @@ svatъ
 svatьba
 svatьja
 svaxa
-svaxa ()
 sveboda
 svekry
-svekry ()
 svekrъ
-svekrъ ()
 svepiti
 sverěpa
 sverěpostь
@@ -8428,6 +8792,7 @@ svidy
 svidъ
 svidьba
 svidьcь
+svinę
 svinъ
 svinъjь
 svinьcь
@@ -8435,7 +8800,7 @@ svinьja
 svinьjà
 svirati
 sviračь
-svirělь ()
+svirělь
 svirěpъ
 svirъka
 svirьcь
@@ -8480,7 +8845,6 @@ svьrdьlъ
 svьrčь
 svьrčьkъ
 svьstь
-svьstь ()
 svьtěti
 sy
 sykora
@@ -8488,6 +8852,8 @@ sylъka
 sylьnъ
 synъ
 sypati
+sypъ
+syriti
 syrovatъka
 syrovъ
 syrъ
@@ -8495,6 +8861,7 @@ sysьlъ
 sytъ
 sáně
 sìto
+sùka
 sčemiti
 sę
 sębrъ
@@ -8541,6 +8908,7 @@ sě̄dlò
 sĩtъ
 sīdlò
 sľuzь
+słonko
 sǫ-
 sǫbota
 sǫda
@@ -8553,8 +8921,10 @@ sǫdì
 sǫdъ
 sǫdьji
 sǫdьrga
+sǫgubъ
 sǫjьmъ
 sǫka
+sǫklenъ
 sǫkъ
 sǫmorkъ
 sǫpiti
@@ -8588,6 +8958,7 @@ sъ(n)
 sъ(n)-
 sъ(n)ǫzъ
 sъ-
+sъbesědьnikъ
 sъbirati
 sъblaznь
 sъboriti
@@ -8644,7 +9015,11 @@ sъlęknǫti
 sъlęťi
 sъlъ
 sъmetana
+sъmetanъ
+sъmetati
 sъmetь
+sъmotriti
+sъmotrěti
 sъmykati
 sъmělostь
 sъmělъ
@@ -8658,9 +9033,10 @@ sъmьrtьnostь
 sъmьrtьnъ
 sъnabъděti
 sъniti
-sъnobraziti ()
+sъnobraziti
 sъnęti
 sъnědati
+sъněsti
 sъnъ
 sъpadati
 sъpadъ
@@ -8673,10 +9049,12 @@ sъpodеlěti
 sъpokojьnъ
 sъporъ
 sъporьnъ
+sъposobъ
 sъpočivati
-sъpyxati ()
+sъpyxati
 sъpàti
 sъpęti
+sъpěvati
 sъpъ
 sъraziti
 sъraženьje
@@ -8693,6 +9071,7 @@ sъrěťьnǫti
 sъsati
 sъslovьje
 sъsuti
+sъsъka
 sъsъlati
 sъsьlъ
 sъto
@@ -8714,12 +9093,12 @@ sъvęslo
 sъvěděnьje
 sъvěděti
 sъvěsti
+sъvětъ
 sъvěťanьje
 sъvъkupiti
 sъvъkupľenьje
 sъvъkupьnostь
 sъxnǫti
-sъxnǫti ()
 sъxopiti
 sъxovati
 sъzьdati
@@ -8771,6 +9150,7 @@ sь̀kyľь
 sь̑rstь
 sẽrňь
 sỳpati
+t
 ta
 tajati
 tajiti
@@ -8783,20 +9163,25 @@ tajьnьstvo
 tako
 takovъ
 takъ
+talь
 tamo
 tata
 tatę
 tatъko
 tatь
 tavati
+taviti
+tavьcь
 tebe
 tebě
 tekъ
 telenъkъ
 telenьce
-telica ()
+telica
+telkti
 telę
 telťi
+telťì
 telьcь
 teneto
 tepadlo
@@ -8814,7 +9199,7 @@ terzvъ
 terzvьnikъ
 terzvьnostь
 tesadlo
-tesakъ ()
+tesakъ
 tesati
 tesařь
 tesla
@@ -8846,8 +9231,6 @@ to claim
 to že
 tobojǫ
 tobola
-tobolъ
-tobȏləc
 togъda
 togъdy
 tokъ
@@ -8855,26 +9238,29 @@ toliko
 tolikъ
 toliti
 tolka
+tolkti
 tolkъ
 tolkъno
 tomiti
 topikъ
 topilьcь
 topiti
+toplina
+topliti
 toplъ
 topola
 topolь
 toporišče
 toporъ
-topotъ
 topoľa
 topólъ
+topьrvo
 toriti
 torkъ
 torpadlo
 torpiti
 torpъ
-torpъkъ ()
+torpъkъ
 torpьcь
 torpьnъ
 torpьčina
@@ -8886,7 +9272,7 @@ toviti
 točiti
 toňa
 trajati
-translated from German and supplemented by Oleg Trubachyov
+transl. and suppl. by Oleg Trubachyov
 trata
 tratati
 trati
@@ -8963,6 +9349,8 @@ tulěja
 tulъ
 tupati
 tupъtěti
+turati
+turiti
 turъ
 tuskъ
 tuxnǫti
@@ -8980,6 +9368,7 @@ tvorьcь
 tvȃrь
 tvȍrъ
 tvȏrъ
+tvьrditi
 tvьrdogolvъ
 tvьrdъ
 tvьrdь
@@ -8992,11 +9381,12 @@ tylovъ
 tylъ
 tylьnъ
 tynъ
+tyrati
 tysǫti
 tyti
+távljati se
 tèrti
 tìsa
-tòbolac
 tòrpa
 túča
 tę
@@ -9037,7 +9427,6 @@ těsto
 těsьnъ
 těšiti
 tǫda
-tǫda ()
 tǫga
 tǫgъ
 tǫpakъ
@@ -9063,11 +9452,10 @@ tъgъda
 tъjьdьnь
 tъjьžedьnь
 tъjьžьdьnь
-tъkadlo ()
+tъkadlo
 tъkanь
 tъkati
 tъkačь
-tъkačь ()
 tъkъma
 tъkъmiti
 tъkъmo
@@ -9085,13 +9473,15 @@ tъlščь
 tъpati
 tъpiti
 tъpъtati
+tъpъtъ
 tъrgati
 tъrgovati
 tъrgovišče
 tъrgovьcь
 tъrgъ
-tъrkolěti
+tъrkati
 tъrkъ
+tъrčati
 tъrčiti
 tъržišče
 tъska
@@ -9111,15 +9501,14 @@ tьlò
 tьlěti
 tьma
 tьmьnica
-tьmьniti ()
+tьmьniti
 tьmьnokosъ
 tьmьnota
-tьmьněti ()
+tьmьněti
 tьmьnъ
 tьnъkъ
 tьrgnǫti
 tьrka
-tьrkati
 tьrlo
 tьrnakъ
 tьrnina
@@ -9130,14 +9519,12 @@ tьrpъkavъ
 tьrpъkostь
 tьrpъkъ
 tьrpъčivъ
-tьrskati
 tьrstь
 tьrti
 tьrzati
 tьstь
-tьstь ()
+tьzъ
 tьšča
-tьšča ()
 tь̀rkati
 tь̑rpъkъ
 tỳlъ
@@ -9172,11 +9559,10 @@ udovьlětvoriti
 udušiti
 udъ
 udьnъ
-ugadati
-ugadovati
 ugovorъ
 ugovorъka
 ugynǫti
+ujǫtъ
 ujь
 ujьnursery: *dada
 ukladati
@@ -9195,7 +9581,6 @@ ulogъ
 ulovъ
 uložiti
 ulьjь
-ulьjь ()
 umerti
 umirati
 umora
@@ -9227,7 +9612,6 @@ usočьnъ
 usta
 ustàtъ
 ustьje
-ustьje ()
 ustьna
 ustьnъ
 usętiti
@@ -9244,13 +9628,12 @@ utrьnica
 utěxa
 utъkъmica
 uvaditi
-uvortъ
+uverti
 uvy
-uvykati ()
 uvędnǫti
 uvęsti
 uvęznǫti
-uvětъ ()
+uvětъ
 uxačь
 uxo
 uxopiti
@@ -9270,6 +9653,7 @@ užasьnъ
 užestočiti
 užiliti
 užěsъ
+v
 va
 vabiti
 vada
@@ -9281,6 +9665,8 @@ vadъkъ
 vadьba
 vadьlivъ
 vadьnъ
+vajateľь
+vajati
 vaju
 valežь
 valiti
@@ -9324,7 +9710,6 @@ velьkъ
 velьmi
 velьrybъ
 veprь
-ver(t)mę
 verdati
 verdina
 verditeľь
@@ -9335,6 +9720,7 @@ verdъ
 verdьnostь
 verdьnota
 verdьnъ
+verenica
 veriga
 vermena dьne
 vermena goda
@@ -9387,7 +9773,6 @@ vidъ
 vidъkъ
 vidьcь
 vidьnъ
-vijelica
 vijunъ
 vila
 vina
@@ -9407,7 +9792,9 @@ vitra
 vitędzь
 vitь
 vixъrъ
+vizgati
 viďati
+viňaga
 višьňa
 voda
 vodenica
@@ -9446,15 +9833,13 @@ volka
 volkno
 volkъ
 volkъno
-volsteljь
 volsti
+volstitel'ь
 volstь
 volsъ
 volsь
 voltь
 volume 1
-volume 13
-volume 23
 volxъ
 volčiti
 volěti
@@ -9477,23 +9862,20 @@ vortařь
 vortica
 vortiga
 vortika
-vortikъ
-vortina
 vortiti
 vortičь
-vortišče
 vorto
+vortovъ
 vortìti
 vortъ
-vortъkъ
 vortьca
-vortьcь
-vortьnica
 vortьnikъ
+vortьnъ
 vortьňa
 vorxъ
 vorčь
 voršíti
+vorťati
 voržařь
 voržiti
 voržьda
@@ -9508,6 +9890,7 @@ voňa
 voňati
 voňàti
 voňь
+vstājati
 vy
 vy-
 vydra
@@ -9526,7 +9909,7 @@ vykopati
 vykotъ
 vykъ
 vymę
-vypь ()
+vypь
 vyręditi
 vysina
 vysiti
@@ -9539,9 +9922,11 @@ vysõkъ
 vysъlati
 vysь
 vyti
+vyverti
 vyvojь
 vyxopiti
 vyxovati
+vyzgati
 vyzъ
 vyčьnъ
 vyšьjь
@@ -9560,6 +9945,7 @@ vęťьjь
 vę̄zàti
 vě
 věda
+vědati
 vědomъ
 vědrenikъ
 vědrica
@@ -9571,7 +9957,6 @@ vědь
 vědьma
 věja
 vějati
-vějati ()
 vějь
 vějьka
 věko
@@ -9589,9 +9974,12 @@ věriti
 věrovati
 věrьnostь
 věrьnъ
+věsa
+věsiti
 věsti
 věstъ
 věstь
+věsъ
 věti
 větrъ
 větvь
@@ -9607,9 +9995,9 @@ věčьnъ
 věďa
 věňe
 věščati
-věščica ()
+věščica
 věščina
-věščеrъ ()
+věščеrъ
 věščь
 věščьba
 věščьbati
@@ -9617,6 +10005,7 @@ věťati
 věťe
 věťь
 věža
+vīňàga
 vōlkà
 vǫditi
 vȇrskъ
@@ -9637,10 +10026,12 @@ vъkopati
 vъkupě
 vъkusiti
 vъkusъ
+vъkusьnъ
 vъměsto
 vъměstě
 vъnobraziti
 vъnoziti
+vъnuka
 vъnukъ
 vъnęti
 vъněšьnъ
@@ -9672,7 +10063,6 @@ vъtorъkъ*vъtorьnikъ
 vъtorьnikъ
 vъverti
 vъvezti
-vъvějati
 vъxopiti
 vъz
 vъz dolě
@@ -9698,9 +10088,11 @@ vъzkǫsъ
 vъzorstь
 vъzorъ
 vъzpertiti
+vъzpěvati
 vъzraziti
 vъztokъ
 vъzxodъ
+vъzčęti
 vъzęti
 vъšь
 vьdova
@@ -9713,7 +10105,12 @@ vьlkolakъ
 vьlkъ
 vьlna
 vьlčica
+vьlčina
 vьlčiťь
+vьlčìca
+vьlčìna
+vьlčę
+vьlčę̀
 vьlčьjь
 vьrati
 vьračь
@@ -9740,7 +10137,6 @@ vьrtъka
 vьrtъpistъ
 vьrtъpъ
 vьrtъpьnъ
-vьrtь
 vьrtьcь
 vьrtьpъ
 vьrvi
@@ -9751,7 +10147,7 @@ vьrvьca
 vьrvьje
 vьrvьčica
 vьrxъ
-vьrzadlo ()
+vьrzadlo
 vьrzalъka
 vьrzati
 vьrzъka
@@ -9763,19 +10159,25 @@ vьršiti
 vьrťi
 vьrťаti
 vьsegъda
-vьsě paky
-vьsǫdu
 vьsь
 vьsьcь
 vьsьka
+vьxǫdu
+vьxъde
 vьčera
 vьśako
 vьśakъ
 vьśamo
+vьśe paky
 vьśegъda
+vьśemogy
+vьśěko
 vьśěkъ
 vьśěmo
+vьśǫde
 vьśǫdu
+vьśǫdy
+vьśъde
 vьśь
 vьśьde
 x
@@ -9801,8 +10203,16 @@ xalь
 xapati
 xapъka
 xapъkъ
+xarati
+xariti
+xarobura
+xarobylьje
+xaropǫditi
+xarъ
 xata
 xatъrъčь
+xava
+xavotьnъ
 xaďati
 xaľa
 xlędanъ
@@ -9838,6 +10248,7 @@ xodulja
 xodunъ
 xodyka
 xodyni
+xodęťь
 xodъ
 xodьba
 xodьcь
@@ -9854,7 +10265,11 @@ xoldьcь
 xoldьněti
 xoldьnъ
 xoliti
+xolkъ
 xolpъ
+xolstati
+xolstiti
+xolstъ
 xolďati
 xolъka
 xomìkъ
@@ -9867,8 +10282,14 @@ xorbrъ
 xormъ
 xorna
 xorniti
+xorostь
+xorovitъ
+xoroščьnъ
+xorpavъ
 xorpuxa
+xorxoriti
 xorǫgy
+xorъ
 xotěti
 xovanьcь
 xovateľь
@@ -9904,15 +10325,14 @@ xrǫščь
 xrьbьtъ
 xudežь
 xudina
-xuditi
 xudoba
 xudostь
 xudota
 xuděti
 xudъ
 xudьcь
-xujevъ
-xujèvъ
+xujovъ
+xujòvъ
 xujь
 xujьňa
 xujьňà
@@ -9923,7 +10343,6 @@ xulovati
 xulьnъ
 xulьstvo
 xutъkъ
-xutь
 xvala
 xvaliti
 xvastъ
@@ -9946,7 +10365,7 @@ xvostatъ
 xvostuxa
 xvostъ
 xvostьcь
-xvoščь ()
+xvoščь
 xvučiti
 xvějati
 xvěti
@@ -9972,6 +10391,7 @@ xyťьnъ
 xyža
 xědъ
 xěrъ
+xǫdogъ
 xǫtь
 xъlmъ
 xъmelina
@@ -9989,13 +10409,16 @@ xъrvatъ
 xъtivęstъ
 xъtivъ
 xъtěti
+y
 z
 za
+za utra
 zabava
 zabaviti
 zabavьnъ
 zabijati
 zablǫda
+zabordlo
 zaboriti
 zaborna
 zaborniti
@@ -10010,7 +10433,7 @@ zadušьnъ
 zadě(ja)ti
 zadъ
 zadъniti
-zagadъka
+zagadati
 zagajь
 zagatiti
 zagorěti
@@ -10018,7 +10441,14 @@ zagovorъ
 zagrěvъka
 zagubiti
 zagynǫti
+zajukъ
+zajęcevъ
 zajęcь
+zajęčařь
+zajęčь
+zajęčьskъ
+zajęčьstъ
+zajьka
 zajьmati
 zajьti
 zajьvъ
@@ -10053,11 +10483,11 @@ zapekъ
 zaperti
 zapertiti
 zaperčiti
-zaplatiti
 zaportiti
 zaporъ
 zapovědь
 zapyxati
+zapęstьje
 zapъrtъkъ
 zaranь
 zaraza
@@ -10080,7 +10510,7 @@ zastrujiti
 zasěvъ
 zasъlati
 zatuliti
-zatvorъ
+zautra
 zautrъkъ
 zavada
 zavaditi
@@ -10091,8 +10521,7 @@ zaverti
 zavistь
 zaviti
 zavojь
-zavykati
-zavějati
+zavorъ
 zavětъ
 zavěťanьje
 zaxapati
@@ -10101,6 +10530,7 @@ zaxovati
 zazoriti
 zazvoniti
 začitati
+začęti
 zařà
 zažaliti
 zelenъ
@@ -10118,14 +10548,13 @@ zijati
 zima
 zimьnъ
 zinǫti
-zinǫti ()
 zmьja
 zmьjь
 znakъ
 znamenitъ
 znamenьje
 znamę
-znateljь
+znatel'ь
 znati
 znatь
 znaxarjь?
@@ -10155,12 +10584,17 @@ zorìti
 zorъ
 zorъkъ
 zorьnica
+zovъ
 zořa
 zuditi
 zuděti
 zudъ
 zudъkъ
+zukъ
 zveno
+zvizdati
+zvizdъ
+zvizďь
 zvoniti
 zvonъ
 zvękъ
@@ -10175,12 +10609,13 @@ zvьněti
 zybati
 zybъkъ
 zybь
+zykъ
 zàjьcь
 zìnǫti
+zęba
 zębnǫti
 zęti
 zętь
-zętь ()
 zěnica
 zěnъka
 zěnьka
@@ -10192,18 +10627,17 @@ zǫbrъ
 zǫbъ
 zǫ̑bь
 zȏrkъ
+zъlo
 zъloba
 zъlodějь
 zъlokoba
 zъly
-zъly ()
 zъlъ
 zъvati
 zьdati
 zьditi
 zьdь
 zьjati
-zьjati ()
 zьlčь
 zьlčьka
 zьlčьnъ
@@ -10215,17 +10649,22 @@ zьrělišče
 zьrělъ
 zьrěti
 zь̀rno
+zọ̑pet
+àblonь
 àblъ
+àgoda
 àsenъ
 àstrę̄bь
 àstrě̄bъ
 àsъtrę̄bъ
 àsъtrě̄bъ
+á
 òlkomъ
+òlni
 òlčьnъ
 òrmo
 òrmę
-óče
+ô
 ùditi
 ùlica
 ājьčьjь
@@ -10254,7 +10693,6 @@ zь̀rno
 čajьka
 čakati
 čapati
-čapiti
 čapľa
 čara
 čarati
@@ -10298,7 +10736,6 @@ zь̀rno
 čermuxa
 čermъxa
 čermъša
-čermъša ()
 čermъšь
 černa
 černovъ
@@ -10340,6 +10777,7 @@ zь̀rno
 četa
 četverъ
 četvorъ
+četvьrgъ
 četvьrtina
 četvьrtъ
 četvьrtъka
@@ -10379,18 +10817,18 @@ zь̀rno
 čitаlišče
 čitаlъkа
 čitъ
+čixati
 čižь
 člověkъ
 čubъ
-čubьrica
 čuditi
 čudlo
 čudo
 čudovišče
 čudъ
+čudьnъ
 čugati
 čujati
-čujati ()
 čujьnъ
 čuka
 čukadlo
@@ -10432,6 +10870,7 @@ zь̀rno
 čędo
 čędъ
 čędь
+čędьnъ
 čędьskъ
 čęstika
 čęstikъ
@@ -10567,7 +11006,6 @@ zь̀rno
 ęti
 ętro
 ętry
-ętry ()
 ęza
 ęzavъ
 ęziti
@@ -10641,6 +11079,7 @@ zь̀rno
 ěža
 ěžь
 ě̀skra
+ĭ
 ļūbå̃v
 ļūbȁv
 Ľubislavъ
@@ -10653,6 +11092,7 @@ zь̀rno
 ľuby
 ľubъ
 ľubь
+ľudina
 ľudinъ
 ľudìna
 ľudъ
@@ -10684,12 +11124,15 @@ zь̀rno
 ľȗdьje
 ňiva
 ňuxati
+ňuxъ
+ňušiti
 řuti
 řutiti
 řádný
 śědъ
 śěpati
 śěrъ
+š
 šalěpa
 šata
 šatъ
@@ -10726,11 +11169,16 @@ zь̀rno
 šulъ
 šulъkъ
 šulьcь
-šulьga ()
+šulьga
 šumъ
 šumьnъ
 šurь
-šurь ()
+šustati
+šustnǫti
+šustrъ
+šutiti
+šutъ
+šutъka
 šuľati
 ščebьľь
 ščebьňь
@@ -10741,7 +11189,7 @@ zь̀rno
 ščedryni
 ščedrъ
 ščedrьcь
-ščedrьnьcь ()
+ščedrьnьcь
 ščegъlъ
 ščeka
 ščelevъ
@@ -10762,6 +11210,7 @@ zь̀rno
 ščigъlikъ
 ščigъlъ
 ščigъlьcь
+ščipati
 ščirъ
 ščitъ
 ščuka
@@ -10777,6 +11226,7 @@ zь̀rno
 ščęditi
 ščęka
 ščьbьtati
+ščьbьtъ
 ščьglъ
 ščьpiti
 ščьrba
@@ -10787,10 +11237,12 @@ zь̀rno
 šęgati
 šęgavъ
 šęgovati
+šętati
 šȋbъkъ
 šьja
 šьpъtati
 šьpъtъ
+šьstvьje
 šьstъ
 šьvajьka
 šьvaxa
@@ -10801,8 +11253,12 @@ zь̀rno
 šьvьkyni
 šьvьnъ
 šьľati
+ťutati
+ťutiti
+ťutěti
 ťuďinьcь
 ťuďь
+ŭ
 Žiroslavъ
 žaba
 žadati
@@ -10836,7 +11292,7 @@ zь̀rno
 žegъzica
 žegъzuľa
 želati
-želařь ()
+želařь
 želbavъ
 želbica
 želbina
@@ -10859,6 +11315,7 @@ zь̀rno
 želtь
 žely
 želza
+želzda
 želàti
 želěti
 želězo
@@ -10870,6 +11327,7 @@ zь̀rno
 žena
 ženixъ
 ženъka
+ženъkizna
 ženьskъ
 ženьščina
 žerava
@@ -10912,7 +11370,7 @@ zь̀rno
 židovьskъ
 židěti
 židъ
-židъkostь ()
+židъkostь
 židъkъ
 žigъ
 žigъlъ
@@ -10936,6 +11394,8 @@ zь̀rno
 žirъ
 žiti
 žito
+žitъčiti
+žitьje
 živica
 živoderъ
 živostь
@@ -10950,7 +11410,6 @@ zь̀rno
 žiďa
 žiľati
 žiňa
-žiňa ()
 žižьka
 žuboriti
 žugati
@@ -10959,6 +11418,8 @@ zь̀rno
 žukati
 žukъ
 žuna
+župa
+županъ
 žuriti
 žuti
 žuvačь
@@ -10977,7 +11438,6 @@ zь̀rno
 žęditi
 žędliti
 žędlo
-žędlo ()
 žędlъka
 žędlь
 žędostь
@@ -11008,6 +11468,7 @@ zь̀rno
 žьltъ(of animals) *solvъ
 žьlva
 žьlvъ
+žьlza
 žьnъ
 žьrati
 žьrdlo
@@ -11021,10 +11482,11 @@ zь̀rno
 žьrěta
 žьrьcь
 žьvadliti
-žьvanь ()
+žьvanь
 žьvati
 žьzlъ
 žьzlь
+ǫ
 ǫ-
 ǫblъ
 ǫbьlъ
@@ -11047,6 +11509,7 @@ zь̀rno
 ǫpirь
 ǫpyrь
 ǫrodъ
+ǫsatъ
 ǫsiti
 ǫsobica
 ǫsěnica
@@ -11090,46 +11553,65 @@ zь̀rno
 ǭtrà
 ǭtrò
 ǭtròba
+ȃ
 ȃjatъ
 ȃjina
 ȃjitъ
 ȃjьko
 ȃjьno
 ȃjьnъ
+ȅ
+ȅlę
 ȅzerъ
+ȇ
+ȍ
 ȍkrijek
 ȗjědь
+а
+а́
 а́зе
+а̑
 аз
 азъ
+б
 ба́соваць
 бар
 басова́ть)
 басува́ти
-ве́дать
-ве́даць
+в
 ве́жство
 вежество́
+володь
 вуцёнак
 вуцёнък
 вуцёнык
 въздиха́ние
-ві́дати
 вѣждьство
 гараджа́нін
 гарадча́нін
+д
+дéветстóтин
+дéветстóтины
+деветстóтине
+деветстотини
 денеска
 днеска
 дънъска
+е
+е̏
+е̑
 ес
 жва́кам
 жва́ча
 жвака
+желя
+з
 зне́ть
 зне́ять
 зния́ть
+и
 йес
-кре̑к
+к
 ку́десь
 ку́сам
 ку́ся
@@ -11139,21 +11621,30 @@ zь̀rno
 куса́ти
 куси́ти
 кусі́ць
+л
+ла́йна
+лаина
 лубо́въ
 любоⷡBelarusian: любо́ўRusyn: любо́вUkrainian: любо́вRussian: любо́вь→ Bulgarian: любо́в
-любꙑ
 лѫбо́въ
+мърдъ
+н
 неве́жа
 оžestočati
 оžestočiti
-о́тче
+о̂
+о̏
 о̏кријек
 пире́й
 пло́хі
 плохи́й
 плохо́й
 потро̀шити
+при̏сно
+присно
 пы́рей
+р
+с
 са́ни
 са́ні
 са̏оне
@@ -11163,55 +11654,45 @@ zь̀rno
 со́пвам се
 ста̀јати
 ста́вам
-ста́йня
-ста́я
 ста́ям
-ста́яти
-ста́ять
-ста̏ја
-става
 става́ти
 става́ть
 става́ць
-стаја
-стаꙗ
+станува
 стаꙗти
 су̏трапа
 сього́дні
 сяго́ння
 сёння
-то̀болац
+т
 то́ропіт
-тобо́лец
-тобо́лець
-тобо́лица
-тоболец
-тобу́ля
 толкова́ть
-требовать
 утено́к
 утёнок
 уцёнък
+х
 хmurьnъ
-хо̂лити се
 хрушт
 хрущ
 хрълъ
-хрѫщь
 хъrčiti
 хъrčьkъ
 цѐлица
 цѣлизна
 чу́ха
 чу́хал
+щ
 щавьнь (15-17ᵗʰ cent.)
+ъ
+ь
+ю
 я
 я́зе
 я́зека
 яз
 ёўня
+ј
 ја
-ја̑
 јазе
 јас
 јаска
@@ -11220,18 +11701,22 @@ zь̀rno
 џвака
 ѧ
 ѧꙁо
+ѫ
 –
 –nursery: *dědъ
 –nursery: *teta
 —
 → Lithuanian: kùsyti
-→ Lithuanian: staĩnė
 → Old East Slavic: азъ
+→ Old East Slavic: владь
 → Polish: kuszcz
 → Polish: patroszyć
 → Romanian: curcan
 → Romanian: liliac
 → Russian: неве́жда
+→ Russian: при́сно
+→ Slovene: brȃdlja
+→ Slovene: tāvati
 → кусити
 →? Belarusian: басíла
 →ISBN
@@ -11247,6 +11732,7 @@ zь̀rno
 ⇒ German: Kistritz
 ⇒ Kashubian: Gdania
 ⇒ Old Church Slavonic: въсел҄енаꙗ
+⇒ Old Church Slavonic: въспѧть
 ⇒ Old East Slavic: шутъка
 ⇒ Polish: Gdańsk
 ⇒ Polish: gaworzyć
@@ -11259,6 +11745,12 @@ zь̀rno
 ⇒ Russian: чу́ха
 ⇒ Russian: щу́пальце
 ⇒ Slovene: balovína
+⇒ Slovene: hlȃst
+⇒ Slovene: ostājati
+⇒ Slovene: pódlanka
+⇒ Slovene: spẹ̑t
 ⇒ Slovene: žabokrẹ́čina
 ⇒ Ukrainian: хо́ла́
-ꙗBelarusian: яRussian: яRusyn: яUkrainian: я
+ꙑ
+ꙗOld Ruthenian: ꙗ
+ꙗзъBelarusian: яRusyn: яUkrainian: яRussian: я

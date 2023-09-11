@@ -12,6 +12,9 @@ B
 Belijiume
 Birisibeni
 C
+Capsicum frutescens
+Citrus aurantium
+Citrus sinensis
 D
 E
 Epereli
@@ -59,11 +62,13 @@ Maji
 Makogai
 Malesia
 Malevani
+Matabose Kei Vuravura
 Matanitu Tugalaga o Viti
 May
 Mekisiko
 Moqolia
 Moroko
+Mosiko
 N
 Na Lotu i Jisu Karisito ni Yalododonu Edaidai
 Na Masu
@@ -94,6 +99,7 @@ Seviteba
 Siga Tabu
 Sikoteladi
 Sipeini
+Solanum uporo
 Suva
 T
 Tagi
@@ -121,51 +127,72 @@ ate
 au
 aua
 b
+ba
+baca
 bafalo
+baigani
 baravi
 basikeli
 bata
 batabata
 bati
+batibasaga
 bebe
 beka
 beki
 bele
 bese
+biau
 bilioni
+bitu
 biu-ta
+bo
 bogi
 bola
+boro
+boro dina
+boro gaga
 bose
 boso
 boto
+bucago
+bucavu
 buka
 buke
 bula
 buli
 bulumakau
+bune
 c
 ca
+caca
 caga
 cagi
+cago
+cagolaya
 caka
 cake
 cala
 cata
 cauravou
 cava
+cei
 ceva
+cila
 cina
 ciwa
 ciwasagavulu
 co
+coboi
 cola
+covuata
 curu
 d
 daimani
-dainaso
+dainasoa
 daku
 dali
+dalice
 daliga
 dalo
 damu
@@ -178,9 +205,12 @@ dio
 dogo
 dolo
 dovu
+dra
+draki
 drano
 drau
 dravu
+drekoni
 drodrolagi
 dromodromo
 dua
@@ -201,6 +231,7 @@ fokisi
 g
 ga
 gane
+gasau
 gata
 gauna
 gone
@@ -219,15 +250,18 @@ iko
 imocemoce
 io
 ira
+irabo
 irara
 iratou
 iri
 isele
+iseleivau
 isulu
 itaube
 ituki
 ivakarara
 ivakavakadina
+ivi
 ivola
 j
 jisi
@@ -272,7 +306,8 @@ kela
 keli
 kemudou
 kemudrau
-kemunii
+kemudrau du
+kemuni
 keri
 ki
 kibo
@@ -290,6 +325,7 @@ koro
 koula
 koya
 kui
+kuila
 kuita
 kuku
 kuli
@@ -299,15 +335,22 @@ kura
 kuru
 kutu
 l
+laca
 lagi
 lago
 laione
 lasa
 lawa
+laya
+layalaya
+lelega
+lemon
 leopate
 levu
 lewa
 lewe
+leweti
+leweti (Lau)
 liga
 liga-na
 lima
@@ -315,6 +358,7 @@ limasagavulu
 lise
 loaloa
 lokaloka
+lolo
 loloa
 loma
 lotu
@@ -323,14 +367,18 @@ lulu
 lumi
 m
 macava
+macou
+macovu
 madrai
 mahumanu
 mai
+maiu
 malolo
 mama
 mamaqi
 mana
 manu
+maoli
 mape
 maqe
 maqo
@@ -342,11 +390,21 @@ mata ni siga
 mataka
 mate
 mawi
+milioni
 miniti
 moce
+mocemoce
 moko
+mokosoi
 moli
+moli dawa
+moli jamu
+moli kana
+moli karokaro
+moli taiti
+moli unumi
 motoka
+mou
 mua
 mudu
 muri
@@ -375,8 +433,10 @@ parataisi
 parofesa
 pasede
 pasipote
+pomelo
 pusi
 q
+qalo
 qaniliga
 qaravatu
 qasi
@@ -389,6 +449,7 @@ qona
 r
 ra
 rai
+rama
 ramarama
 rara
 raraga
@@ -430,6 +491,7 @@ sele
 senikau
 senikavika
 sese
+seu
 siga
 siga Lotulevu
 siga Monite
@@ -439,8 +501,11 @@ siga Vakarauwai
 siga Vukelulu
 sigaanisucu
 siganisucu
+sila
 sili
+sinu
 sipi
+siqeleti
 siti
 siwa
 soki
@@ -448,10 +513,13 @@ soko
 soma
 soro
 sosa
+sour orange
 sovu
+sucu
 sui
 suka
 sulua
+sweet orange
 t
 tabu
 taci
@@ -466,6 +534,7 @@ tara
 taudua
 tavaya
 tavioka
+tavola
 tavuto
 tawa
 tawa dina
@@ -473,6 +542,7 @@ tawa dinata
 tawa lotu dina
 te
 ti
+timo
 tina
 tina ni ni yawa
 tini
@@ -485,6 +555,7 @@ tini ka tolu
 tini ka va
 tini ka vitu
 tini ka walu
+tivi
 toa
 toki
 tolu
@@ -504,12 +575,14 @@ tu
 tuaka
 tubu
 tui
+tuitui
 turaga
 tā
 u
 ua
 uca
 ucu
+ucuna
 ulo
 ulu
 ulunivanua
@@ -517,10 +590,12 @@ uma
 uneune
 ura
 uto
+uto (Ba, Yasawa)
 uvi
 v
 va
 vacu
+vadra
 vadreti-taka
 vai
 vaka sa lewa lewa
@@ -538,7 +613,9 @@ vale vo
 valu
 vana
 vanua
+vara
 varada
+varasa
 vasagavulu
 vasagavulu ka ciwa
 vasagavulu ka dua
@@ -560,6 +637,7 @@ vico
 vinaka
 vinakata
 vinivo
+viritalawalawa
 vitu
 vitusagavulu
 vivini
@@ -579,6 +657,7 @@ vudi
 vue
 vula
 vulagi
+vulavula
 vuli
 vuni
 vuso
@@ -598,8 +677,11 @@ we
 wele
 weleti
 were
+wi
 wilika
+wiwi
 y
+yabaki
 yaca
 yadre
 yalo vinaka

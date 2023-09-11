@@ -29,6 +29,7 @@
 3rd sg 
 Anggarrisi'
 Araba
+Basa Mangkasaraʼ
 Bugisi'
 Mangkasara'
 Marusu'
@@ -45,6 +46,7 @@ a'beso'
 a'bise
 a'boya
 a'dengka
+a'gana
 a'garu
 a'je'ne'
 a'lamung
@@ -59,6 +61,7 @@ accera'
 accini'
 accokko
 agang
+aha
 akkalimbu'
 akkaluru'
 akkana
@@ -83,7 +86,6 @@ ammang
 ammenteng
 ammera
 amminro
-amminro ()
 ammisang
 ammoca'
 ammotere'
@@ -129,13 +131,16 @@ anri'ba'
 anrinni
 antu
 antureng
+apa
 appa'
 appaenteng
 appainro
 appakarru'
 appala'
 appallu
+apparang
 appare'
+appare-pare
 appari'ba'
 apparinra
 appasulu'
@@ -146,6 +151,7 @@ appela'
 appila'busi
 appilanngeri
 appirassi
+araba
 areng
 ase
 assaluara'
@@ -157,6 +163,7 @@ assombala'
 assongo'
 assulu'
 assuro
+ate
 atta'gala'
 attayang
 au
@@ -165,25 +172,32 @@ ba'le
 ba'leang
 ba'nusu'
 ba'ra'
+baba
 baine
 balao
 balirang
+balla
 balla'
 balla' garring
+balla'-balla' parang
 balli
 bambang
+bangi
 bangkeng
 barambang
 bari'basa'
 barrasa'
+basa
 bassi
 bassoro'
+batang
 battala'
 battang
 bau'
 bawa
 bawi
 bayao
+bayawo
 bebe
 bedeng
 bella
@@ -192,7 +206,10 @@ berang
 berasa'
 beru
 beso'
+bibere
 bibere'
+bija
+bilang
 binanga
 biralle
 biri-biri
@@ -215,15 +232,18 @@ bulang
 bulo
 bungung
 bura'ne
+buta
 butta
 ca'di
 cammi'
 cara'de'
 carammeng
 ce'la
+cera
 cera'
 cidu'
 cikali
+cini
 cini'
 cipuru'
 co'mo'
@@ -241,6 +261,7 @@ eja
 epa
 erang
 ero'
+gana
 gappa
 garagaji
 garring
@@ -248,6 +269,8 @@ garu
 gasing-gasing
 gassing
 gau'
+gigi
+golla
 i
 ia
 ina
@@ -257,6 +280,7 @@ inro
 inro-inro
 inung
 isseng
+ito
 jaguru'
 jakkala'
 jama
@@ -264,9 +288,13 @@ jamang
 jangang
 jangka
 je'ne'
+jene
 je’ne’
+jiku
+jinisi
 jo'jo'
 juku'
+juma
 ka'daro
 ka'daro ulu
 ka'muru
@@ -286,6 +314,7 @@ kaluku
 kaluru'
 kamallakkang
 kambe
+kamisi
 kana
 kangkang
 kannying
@@ -308,6 +337,7 @@ kawe-kawe
 ke'bu'
 kebo'
 keke
+kellong
 kerung-kerung
 ki-
 kio'
@@ -321,10 +351,11 @@ kullu-kullu
 kuttu
 kutu
 kuŋ̃iʔ
-kɛboʔ
 la'bu
 la'busu'
 lading
+laki
+lamu
 lamung
 lamungang
 langi'
@@ -374,6 +405,7 @@ otere'
 pa'- -ang
 pa'balle
 pa'dengka
+pa'gana
 pa'garringang
 pa'larroang
 pa'leo'
@@ -385,15 +417,16 @@ pa-
 paN- -ang
 pacco'
 paenteng
+pai
 painrang
 painro
-painro ()
 painung
 paja
 pakarru'
 pakke'bu'
 pakkuttuang
 pala'
+pallaki
 pallu
 palu'lu'
 pammaja'
@@ -404,6 +437,8 @@ panne
 panngissengang
 panynyu
 papallu
+parang
+pare
 pare'
 pari'ba'
 parinra
@@ -425,13 +460,16 @@ pirassi
 pisang
 pl familiar
 poca'
+poko
 pongoro'
 poterang
 potere'
 puka'
 pukak
+pulo
 ra'masa'
 raka'
+rammang
 rappa
 rappo
 rappung
@@ -451,9 +489,12 @@ romang
 rompa
 roso'
 rua
+ruwa
 sa'be
+sabu
 sagantuju
 salapang
+salasa
 sallang
 sallo
 saluara'
@@ -465,9 +506,12 @@ sapiri
 sare
 sassa
 sassang
+sattu
 sauru'
 se're
 sedeng
+senneng
+si
 si'ru'
 siammang
 sikali
@@ -509,6 +553,7 @@ tangkasa'
 tara
 tarang
 tarawe
+taung
 tayang
 te'ne
 tedong
@@ -534,7 +579,9 @@ ulara'
 ulu
 unti
 uring
+uta
 wara'
+wattu
 ɛja
 ᨀᨀ
 ᨀᨄᨀᨄᨔ
@@ -630,6 +677,7 @@ wara'
 ᨅᨒᨕᨚ
 ᨅᨓ
 ᨅᨓᨗ
+ᨅᨔ ᨆᨀᨔᨑ
 ᨅᨔᨗ
 ᨅᨔᨚᨑᨚ
 ᨅᨕᨗᨊᨙ
@@ -694,6 +742,7 @@ wara'
 ᨈᨗᨊᨚ
 ᨈᨘᨀ
 ᨈᨘᨁᨘᨑᨘ
+ᨈᨘᨊ
 ᨈᨘᨍᨘ
 ᨈᨙᨄᨚ
 ᨈᨙᨉᨚ

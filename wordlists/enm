@@ -175,12 +175,14 @@
 -hoþ
 -hyede
 -i
+-ian
 -ic
 -ice
 -ich
 -iche
 -ichs
 -ie
+-ien
 -if
 -ife
 -ig
@@ -196,6 +198,7 @@
 -ingue
 -inng
 -ion
+-ione
 -ioun
 -ioune
 -ique
@@ -487,6 +490,7 @@
 -yche
 -ychs
 -ye
+-yen
 -yf
 -yfe
 -yl
@@ -540,6 +544,7 @@ Abraham
 Achab
 Adam
 Alisoun
+Alpes
 Altenecot
 Altenecote
 Alverton
@@ -576,6 +581,8 @@ Atenes
 Atenys
 Athenes
 Athens
+Athlant
+Atlantyke
 Aurill
 Aurille
 Austin
@@ -606,11 +613,40 @@ Bible
 Biland
 Bob
 Boldon Buke
+Breotene
+Bretaigne
+Bretain
+Bretaine
+Bretainne
+Bretaygne
+Breteigne
+Breteine
+Bretene
 Breteyn
+Breton
 Bretone
+Bretoun
+Brettish
+Britaigne
 Britaine
 Britane
 Britayne
+Briteyne
+Briton
+Britoner
+Britonish
+Britoun
+Brittaigne
+Brittische
+Brittish
+Brutaigne
+Brutaine
+Bruteine
+Bruton
+Bruttische
+Bruytish
+Brytayn
+Brytoun
 Bycorne
 C
 Calais
@@ -623,6 +659,14 @@ Camylerde
 Canterburi
 Canterbury
 Canut
+Capithole
+Capitoil
+Capitoile
+Capitol
+Capitolie
+Capitoll
+Capitolle
+Capytoile
 Carlel
 Carlele
 Carlele ax
@@ -640,8 +684,10 @@ Cesar
 Cesare
 Cestre
 Ceterday
+Chapitoile
 Charelwayn
 Charlemaine
+Charleman
 Charlemayn
 Charlemayne
 Charlewayn
@@ -649,6 +695,7 @@ Chaucer
 Chaucere
 Chauser
 Chawcer
+Cherlemayn(e)
 Cherlemayne
 Chester
 Chestere
@@ -662,6 +709,7 @@ Childermasse
 Childermasse day
 Childerne masse dai
 Christ
+Christe
 Christianyte
 Christien
 Chyldermasse day
@@ -678,6 +726,7 @@ Constantynoble
 Constantynople
 Cornewayle
 Cornewell
+Cornwaile
 Crestien
 Crisstene
 Crisstenndom
@@ -730,6 +779,7 @@ Demarch
 Dench
 Dene lawe
 Denelage
+Deuche
 Dewche
 Dian
 Diana
@@ -743,8 +793,15 @@ Dowche
 Duch
 Duche
 Duches
+Duches-
+Duchesh
+Duchesman
+Duchesmen
 Duchish
+Duchisse
 Duchyssche
+Duichish
+Dusche
 Dyan
 Dyana
 Dyane
@@ -758,7 +815,10 @@ Egyp
 Elizabeth
 Engeland
 Engelond
+England
+Engle lond
 Englelond
+Englene lond
 Englisch
 English
 English wigwag
@@ -770,12 +830,14 @@ Englyssh
 Englysshe
 Ennglissh
 Eoverwic
+Ermenie
 Ermin
 Ester
 Estland
 Esto
 Etheldred
 Etheldreda
+Europe
 Everwic
 Everwich
 Everwich schire
@@ -784,6 +846,7 @@ Everwik
 Everwike
 Everwyk
 Evirwikescire
+Excalaber
 F
 Febus
 Filip
@@ -825,6 +888,9 @@ Giw
 Gloucestr
 God
 Gorgon
+Gret Britaine
+Grete Britaigne
+Grete Britayne
 Grete See
 Guthland
 Gwenyver
@@ -834,6 +900,7 @@ Gyw
 H
 Hasse Wednysday
 Herforde
+Heurodis
 Hobb
 Holigost
 Howard
@@ -854,8 +921,11 @@ Iesus
 Ihesu
 Ihesus
 In contrast
+Ingelond
+Ingland
 Inglis
 Inglisch
+Inglond
 Iohn
 Ion
 Iono
@@ -1005,8 +1075,10 @@ Lucyfer
 Lucyfere
 Lucyna
 Lucyne
+Lude
 Lunden
 Lundon
+Lyde
 Lymbo
 M
 Machamete
@@ -1264,7 +1336,9 @@ Pikeringe
 Plute
 Pluto
 Poluto
+Pompeie
 Pompey
+Pompeye
 Portesmuða
 Portingal
 Portingale
@@ -1325,6 +1399,7 @@ Schirthursday
 Schyre Thursday
 Sclave
 Sclaves
+Scotlond
 Seint Graal
 Seterday
 Seyn Greall
@@ -1513,6 +1588,10 @@ a-baye
 a-cethe
 a-chete
 a-chetyn
+a-creoyz
+a-croiz
+a-cros
+a-crosse
 a-cyse
 a-ferd
 a-fore
@@ -1534,6 +1613,7 @@ a-noye
 a-nuy
 a-nuyȝen
 a-pece
+a-rayne
 a-reade
 a-say
 a-sayle
@@ -1608,6 +1688,7 @@ abit
 able
 ablete
 abligacion
+abod
 abominabill
 abominable
 abominabull
@@ -1710,6 +1791,7 @@ acquerne
 acre
 acresen
 acrewen
+acros
 acruwen
 acsingge
 acsynge
@@ -1859,6 +1941,7 @@ afreynen
 afronten
 afrounten
 afrounti
+afterblismed
 aftercast
 aftir
 aftirward
@@ -1955,6 +2038,7 @@ alabaster
 alabastre
 alabaustre
 alablastre
+alane
 alas
 alawe
 alay
@@ -1971,11 +2055,16 @@ aldre
 aldur
 aldyr
 ale
+ale-hous
 ale-stake
 alean
 aleden
 alegeaunce
 alegiaunce
+alehous
+alehouse
+alehows
+alehuse
 alei
 alemaunde
 alen
@@ -2090,28 +2179,28 @@ also
 altercacion
 altercacioun
 altercaciouns
-alternate forms at aboven
-alternate forms at at
-alternate forms at at and heuynesse
-alternate forms at bente and mone
-alternate forms at blasynge and sterne
-alternate forms at blasynge and sterre
-alternate forms at but and esiliche
-alternate forms at cold and sterre
-alternate forms at contre
-alternate forms at day and sterne
-alternate forms at ful and mone
-alternate forms at in
-alternate forms at morewetid and sterre
-alternate forms at newe and mone
-alternate forms at olde and mone
-alternate forms at sterne and of
-alternate forms at sterre and berd
-alternate forms at sterre and her
-alternate forms at under
-alternate forms at yong and mone
-alternate forms at yong and sonne
 alternative form of þe due to typographic variation:
+alternative forms at aboven
+alternative forms at at
+alternative forms at at and heuynesse
+alternative forms at bente and mone
+alternative forms at blasynge and sterne
+alternative forms at blasynge and sterre
+alternative forms at but and esiliche
+alternative forms at cold and sterre
+alternative forms at contre
+alternative forms at day and sterne
+alternative forms at ful and mone
+alternative forms at in
+alternative forms at morewetid and sterre
+alternative forms at newe and mone
+alternative forms at olde and mone
+alternative forms at sterne and of
+alternative forms at sterre and berd
+alternative forms at sterre and her
+alternative forms at under
+alternative forms at yong and mone
+alternative forms at yong and sonne
 althing
 althinge
 althir
@@ -2219,6 +2308,7 @@ ampten
 amptes
 ampty
 ampyre
+amselve
 amte
 amty
 amunten
@@ -2253,6 +2343,7 @@ ancre
 ancrist
 ancyl
 and
+and-
 and-sware
 ande-daiȝe
 andefeld
@@ -2410,6 +2501,7 @@ anoyȝe
 anoþer
 anqueste
 ans
+ansswer
 ansuer
 ansuere
 ansuerie
@@ -2422,6 +2514,7 @@ answeren
 answering
 answerye
 answeryng
+answerynge
 answore
 ant
 antcrist
@@ -2536,6 +2629,7 @@ apreven
 apron
 aproven
 apsy
+aqua
 aqua vite
 aquerne
 aqueyntance
@@ -2545,10 +2639,14 @@ aquierne
 ar
 arable
 arai
+aran
+arane
 arange
+arany
 aratour
 araunge
 aray
+arayne
 arber
 arbere
 arce
@@ -2591,6 +2689,7 @@ arew
 arewe
 arewelich
 arewen
+areyn
 areȝ
 arg
 argh
@@ -2655,6 +2754,7 @@ arowȝe
 arper
 arrable
 arrai
+arreyne
 arrfeþþ
 arrisen
 ars
@@ -2772,6 +2872,7 @@ assaillen
 assailour
 assailours
 assailyng
+assailynge
 assailynges
 assaiour
 assaioure
@@ -2789,6 +2890,7 @@ assaylour
 assaylyng
 assaynge
 assayour
+assayours
 assche
 asse
 asseeth
@@ -2811,6 +2913,7 @@ assises
 assisse
 asske
 asskenn
+assoyle
 assuage
 asswage
 asswagen
@@ -2881,6 +2984,7 @@ atterne
 attome
 atwen
 atwene
+atwo
 au
 aube
 auberc
@@ -2903,6 +3007,7 @@ auful
 aufyn
 augeer
 augere
+aught
 aughte
 augire
 augour
@@ -2912,6 +3017,7 @@ augryme
 augur
 augure
 auh
+auht
 auhtene
 aules
 aumbelere
@@ -2967,6 +3073,7 @@ auntur
 auripigment
 aurre
 aurypigment
+aut
 auther
 author
 authority
@@ -3158,7 +3265,9 @@ aȝhefull
 aȝlez
 aȝly
 b
+b-
 ba
+baar
 baarge
 baas
 baaste
@@ -3324,7 +3433,6 @@ baly
 balyw
 bame
 ban
-band
 bande
 bandell
 bandes
@@ -3377,6 +3485,7 @@ barbre
 barche
 bard
 bare
+bareh
 bareigne
 barel
 bareliche
@@ -3386,6 +3495,7 @@ barennes
 barennez
 barente
 barenynesse
+barew
 barewe
 bareyn
 bareyne
@@ -3393,6 +3503,7 @@ bareynesse
 bareynnesse
 bareynte
 bareynteme
+bareȝ
 bargain
 bargaines
 bargan
@@ -3436,6 +3547,7 @@ barlych
 barlyche
 barlykke
 barm
+barmclooth
 barme
 barmes
 barmeteme
@@ -3487,6 +3599,7 @@ barst
 barun
 baruwe
 barwe
+barwes
 baryn
 barynes
 bas
@@ -3544,6 +3657,7 @@ bataill
 bataille
 batailled
 batailleus
+batailling
 batailloure
 bataillous
 bataillyng
@@ -3555,7 +3669,10 @@ batayll
 bataylle
 batayllen
 batayllyng
+bataylous
 bataylyng
+bataylynge
+bataylynges
 bate
 bateil
 bateillen
@@ -3632,6 +3749,7 @@ baþynge
 baþþ
 be
 be profitable to
+be-
 be-heste
 be-heyste
 be-hovely
@@ -3853,7 +3971,6 @@ bemeres
 bemes
 bemin
 ben
-bend
 bendel
 bendicite
 bendiste
@@ -4177,7 +4294,10 @@ beþien
 beȝete
 beȝȝtenn
 bi
+bi path
+bi-
 bi-hest
+bi-path
 bi-quest
 bi-queðen
 bi-teon
@@ -4273,6 +4393,7 @@ bindunge
 bindynge
 binoten
 biofþe
+bipath
 biqueste
 biquethe
 biquethen
@@ -4606,6 +4727,7 @@ blædre
 blæst
 blætenn
 boady
+boastance
 bobance
 bobaunce
 boc
@@ -4653,6 +4775,7 @@ boghe
 bogil
 boi
 boiche
+boie
 boilen
 boillen
 boish
@@ -4776,6 +4899,7 @@ borlych
 borlyche
 bornet
 bornete
+borwȝ
 boryn
 boryng
 borynge
@@ -4933,6 +5057,7 @@ boxes
 boxom
 boxomly
 boxum
+boy
 boye
 boyke
 boyn
@@ -4960,6 +5085,7 @@ bragett
 bragot
 bragott
 bragotte
+brai
 braid
 braide
 braiden
@@ -5039,10 +5165,13 @@ brawnes
 brawneschyn
 brawny
 brawon
+bray
 brayd
 brayde
 brayden
+braye
 brayell
+brayen
 brayl
 brayle
 brayles
@@ -5334,7 +5463,6 @@ brouken
 broun
 brounsteelle
 brount
-brousteell
 brouwe
 brow
 browden
@@ -5642,8 +5770,10 @@ buyt
 buȝen
 by
 by flowe
+by-
 by-gan
 by-heste
+by-paþ
 by-teon
 by-word
 bybill
@@ -5689,6 +5819,10 @@ byndyng
 byndynge
 byndynges
 byofþe
+bypath
+bypathe
+bypathes
+bypaþ
 byqueeste
 byquest
 byquethe
@@ -5781,6 +5915,7 @@ c
 ca
 caaf
 caake
+caas
 cabache
 cabage
 cabel
@@ -5818,6 +5953,7 @@ cakken
 cal
 calange
 calangy
+calcee
 calch
 calculation
 cald
@@ -5839,6 +5975,9 @@ calis
 caliz
 calke
 callen
+callyng
+callynge
+callynges
 calm
 calme
 calouh
@@ -5982,6 +6121,7 @@ carboncle
 carbuncle
 carbuncles
 carbuncul
+carden
 cardiacle
 care
 careaway
@@ -6040,6 +6180,7 @@ case
 caser
 casere
 caseres
+casse
 cassen
 castel
 castelis
@@ -6067,6 +6208,7 @@ cathiderall
 catifest
 catte
 catterak
+cauce
 caudel
 cauderoun
 caudorne
@@ -6081,6 +6223,7 @@ caupe
 cause
 causeles
 causen
+causy
 cave
 caven
 caverne
@@ -6088,6 +6231,7 @@ cavernes
 cavernose
 cavernous
 caves
+cawcewey
 cawdel
 cawdell
 cawdelle
@@ -6124,6 +6268,7 @@ ceekenesse
 ceem
 ceerchynge
 ceeryn
+cees
 cege
 cegge
 ceke
@@ -6134,6 +6279,7 @@ celdane
 cele
 cell
 celle
+cellendre
 celly
 cellyn
 ceme
@@ -6329,6 +6475,7 @@ chantur
 chantyng
 chanun
 chape
+chaped
 chapel
 chapelain
 chapelayn
@@ -6478,6 +6625,7 @@ chawyntyng
 chayer
 chayere
 chayeres
+chayler
 chayles
 chayne
 chayre
@@ -6493,7 +6641,6 @@ chec
 checher
 check
 checkelatoun
-checklaton
 checklatoun
 cheef
 cheefe
@@ -6584,12 +6731,14 @@ cherville
 chervyl
 chery
 ches
+chesal
 chesbolle
 chesbyll
 chese
 cheseble
 chesebyll
 chesel
+chesell
 chesen
 cheses
 chesible
@@ -6795,8 +6944,10 @@ chirne
 chiromantie
 chiromanty
 chis
+chisal
 chise
 chiseble
+chiseel
 chisel
 chisiple
 chist
@@ -6832,8 +6983,10 @@ choises
 choisli
 choisly
 choisse
+choke
 choken
 chonde
+chooke
 chose
 chosely
 chosling
@@ -7197,6 +7350,7 @@ clokes
 clokke
 clokken
 clokkyn
+clom
 clombid
 clompe
 clooth
@@ -7435,6 +7589,9 @@ coker
 cokerelle
 cokeres
 cokeswayne
+coket
+coketes
+cokett
 cokewald
 cokewold
 cokir
@@ -7458,6 +7615,7 @@ colder
 coldin
 coldnesse
 cole
+colee
 colege
 colegg
 colegie
@@ -7470,6 +7628,8 @@ colerike
 colerique
 colers
 coleryke
+coliandre
+coliaundre
 colk
 colke
 colkes
@@ -7487,6 +7647,7 @@ collegis
 coller
 collere
 colleryk
+colliander
 colloryke
 collucyon
 collusion
@@ -7507,9 +7668,12 @@ colt
 colte
 colter
 coltes
+coltes tooth
 coltre
 coltur
 colucion
+columbyn
+columbyne
 columne
 columpe
 columpne
@@ -7520,6 +7684,8 @@ colveryne
 colvore
 colvre
 colwarde
+colyandre
+colyaundre
 com-
 comament
 comande
@@ -7590,9 +7756,15 @@ commendyng
 commendynge
 commendynges
 comment on
+commodious
+commodiouse
+commodose
 commondment
 commowndment
 commune
+comodiose
+comodious
+comodiouse
 comon
 comondement
 comoundement
@@ -7600,6 +7772,7 @@ comp
 compaccioun
 compace
 compacement
+compaignable
 compaignie
 compaignye
 compainie
@@ -7802,6 +7975,7 @@ constitucyoun
 consul
 consular
 conte
+contemplaunce
 contempt
 contray
 contraye
@@ -7882,6 +8056,8 @@ corenall
 corfew
 corfour
 corfu
+coriandre
+coriaunder
 coriun
 corlege
 corlew
@@ -7953,6 +8129,7 @@ corowner
 corps
 corrant
 corroden
+corrumpable
 cors
 corsed
 corser
@@ -7975,6 +8152,8 @@ corune
 coruning
 corve
 corven
+coryandry
+coryaundre
 cos
 coschyn
 cosin
@@ -8049,6 +8228,7 @@ counsel
 count
 counte
 counten
+coupable
 coupe
 coupelyng
 coupes
@@ -8804,6 +8984,7 @@ cwakie
 cwakien
 cwalm
 cwellen
+cwellenn
 cwellere
 cwenche
 cwene
@@ -8861,7 +9042,6 @@ cyrce
 cyre
 cyromancy
 cyromancye
-cyromancye.
 cyrurgie
 cyrurgien
 cyse
@@ -8898,6 +9078,7 @@ dafte
 daggere
 dagh
 dagon
+dagoun
 dai
 daies
 dail
@@ -9073,6 +9254,7 @@ dealve
 dealyng
 deamaunt
 dearc
+dearen
 deatte
 deattur
 deau
@@ -9424,11 +9606,14 @@ deskyn
 desolven
 desparage
 despect
+despender
+despendour
 despitous
 despitously
 desse
 desserte
 destenye
+destinable
 destrer
 destrere
 destroyed
@@ -9446,6 +9631,7 @@ dettour
 dettours
 detty
 deu
+deuche
 deueyng
 deuhy
 deuk
@@ -9617,6 +9803,7 @@ dignite
 dignitee
 dignyte
 dignytee
+digression
 dihten
 dilatabilte
 dilatable
@@ -9657,6 +9844,7 @@ dirge
 dirige
 dirigie
 dirkely
+dirken
 dirkenes
 dirkly
 dirknes
@@ -9702,6 +9890,8 @@ disordeined
 disparage
 disparagen
 disparege
+dispendere
+dispendour
 disperage
 disperge
 displaien
@@ -9734,6 +9924,8 @@ dissimulacyone
 dissimule
 dissimulen
 dissimulour
+dissipaten
+disslaundre
 dissolucion
 dissolucione
 dissolucioun
@@ -9835,6 +10027,7 @@ domb
 dombenesse
 dome
 domesday
+domesman
 dominion
 domm
 domp
@@ -9900,6 +10093,8 @@ doton
 dotyng
 dotynge
 doubeler
+doublenesse
+doubtuouse
 douce
 doucen
 douceoure
@@ -10327,6 +10522,7 @@ dubleres
 dubytacion
 duc
 ducdome
+duch
 duchasse
 duche
 duchee
@@ -10423,6 +10619,7 @@ durren seien
 durste
 dursten
 durt
+dusche
 dusi
 dusk
 duske
@@ -10926,6 +11123,7 @@ elke
 ellacampana
 ellat
 elle
+ellebor
 ellebore
 ellen
 elleovene
@@ -10965,6 +11163,7 @@ embe
 embibe
 emblemishment
 emboyssement
+embusshement
 eme
 emerade
 emerallde
@@ -11132,6 +11331,7 @@ endelesnesse
 endelez
 endeliche
 endeliese
+endelong
 endely
 enden
 endenn
@@ -11215,6 +11415,7 @@ englis
 engreyne
 engreynen
 engyn
+enhalsen
 enhance
 enhansen
 enhaunce
@@ -11298,6 +11499,7 @@ entronizen
 enuch
 enula
 enuye
+enuyron
 envenemyng
 envenimen
 envenomen
@@ -11357,12 +11559,17 @@ eower
 eowræs
 eowwer
 eoyle
+epistil
+epistole
 eppel
 equal
 equale
 er
 erable
 erand
+erane
+erayn
+erayne
 erbage
 erbare
 erbayre
@@ -11391,6 +11598,8 @@ erende
 erere
 eres
 ereth
+ereyn
+ereyne
 erf
 erfe
 erfes
@@ -11425,6 +11634,7 @@ ermin
 ermine
 ermyn
 ermyne
+ermynes
 ermyns
 ern
 ernde
@@ -11548,6 +11758,7 @@ esscen
 esscheker
 esshew
 esshys
+essu
 est
 estaat
 este
@@ -11611,6 +11822,7 @@ ethre
 ethymologie
 ethymologies
 ethymologye
+etik
 etin
 etsterten
 ette
@@ -11669,6 +11881,7 @@ evelwyl
 even
 even sterne
 even sterre
+even-tid
 even-tide
 evene
 evene sterre
@@ -11683,6 +11896,7 @@ evenstern
 evensterne
 evensterre
 eventid
+eventide
 eventide sterre
 eventure
 eventyde
@@ -11700,6 +11914,7 @@ every
 evesterre
 evete
 eveten
+evetid
 evetis
 evetyde
 eveyl
@@ -11722,6 +11937,7 @@ evyn-hede
 evyn-tyde
 evynhede
 evynhoode
+evyntyde
 evyry
 evysum
 ew
@@ -11792,6 +12008,8 @@ eyghen
 eyghte
 eyghtene
 eyme
+eymyng
+eymynge
 eynde
 eyngnon
 eyr
@@ -11848,6 +12066,7 @@ facultes
 faculti
 facultie
 facyon
+faden
 fader
 fader in lawe
 fader yn lawe
@@ -11924,7 +12143,6 @@ falow
 falowe
 falowen
 fals
-false
 falshede
 falsly
 falte
@@ -11996,6 +12214,7 @@ fath
 father
 fatherhed
 fau
+fauce
 faucet
 faucon
 fauconer
@@ -12008,12 +12227,14 @@ fauered
 fauhnen
 faukon
 faulcon
+fauls
 faulte
 faun
 faunen
 fauning
 faunyng
 faurtenyȝte
+faus
 faute
 favasour
 favel
@@ -12416,6 +12637,7 @@ ferfent
 ferforth
 ferforthliche
 ferforthly
+ferhe
 ferhen
 feri
 ferial
@@ -12431,6 +12653,7 @@ ferme
 fermeli
 fermely
 fermen
+fermerer
 fermerere
 fermes
 fermfultum
@@ -12493,6 +12716,7 @@ fesawant
 fesen
 fessel
 fessell
+fessely
 fessher
 fest
 feste
@@ -12507,7 +12731,9 @@ fethelen
 fether
 fethere
 fetheres
+fetis
 fetisely
+fetisly
 fetour
 fetture
 fetur
@@ -12615,6 +12841,7 @@ fflecher
 ffletcher
 ffleute
 fflex
+ffleyse
 fflode
 fflood
 ffloon
@@ -12663,11 +12890,13 @@ ffourtene
 ffourtene niȝt
 ffowen
 ffoyl
+ffransy
 ffraude
 ffraudulent
 ffreere
 ffrele
 ffremyd
+ffrenesye
 ffrenschip
 ffreondles
 ffrere
@@ -12755,6 +12984,7 @@ fihhtenn
 fijfte
 fike
 fil
+filchen
 filien
 filiȝen
 fill
@@ -12806,7 +13036,13 @@ fische
 fischer
 fischeris
 fisches
+fisenamie
+fisenamy
 fish
+fisnamie
+fisnamy
+fisnomie
+fisnomy
 fissh
 fisshen
 fissure
@@ -12851,6 +13087,8 @@ flathon
 flathons
 flathoun
 flating
+flatour
+flatours
 flatt
 flatte
 flaudrys
@@ -12860,6 +13098,7 @@ flaume
 flaumen
 flaumme
 flaun
+flaune
 flaunes
 flavor
 flavour
@@ -12888,10 +13127,12 @@ flecches
 flecchour
 flech
 flee
+fleece
 fleel
 fleem
 fleen
 flees
+fleese
 fleeses
 fleesh
 fleesse
@@ -12905,6 +13146,7 @@ flei
 fleie
 fleigh
 fleil
+fleis
 fleisch
 fleische
 fleish
@@ -12913,6 +13155,7 @@ flematik
 fleme
 flemen
 flemer
+flemers
 flemne
 flemæ
 flen
@@ -12927,6 +13170,7 @@ fleote
 fleoten
 flerd
 flerds
+fles
 flesch
 flesche
 flescher
@@ -12970,6 +13214,7 @@ flicke
 flie
 flien
 flight
+flim
 flindre
 fling
 flinge
@@ -12993,10 +13238,13 @@ flodeȝate
 flodgate
 flodgates
 flodȝete
+floes
 floite
 flok
 flok of lana succida
 flokk
+flom
+flomme
 flon
 flondyre
 flone
@@ -13029,6 +13277,7 @@ flotes
 flotie
 flotten
 flouen
+floum
 flounder
 floundre
 flour
@@ -13059,6 +13308,7 @@ flowen
 flowenn
 flower
 flowinge
+flowm
 flowndre
 flowndres
 flowndur
@@ -13082,6 +13332,9 @@ floȝen
 flucche
 fludeȝate
 flue
+flum
+flumes
+flumm
 flundre
 flur
 flure
@@ -13096,7 +13349,9 @@ flye
 flyen
 flyes
 flygge
+flyght
 flyk
+flym
 flynge
 flyngen
 flynston
@@ -13214,6 +13469,7 @@ foller
 follich
 folliche
 follouȝt
+follovveth
 folloȝt
 follyche
 follysch
@@ -13228,6 +13484,7 @@ foltin
 foltisch
 foluwen
 foluþe
+folwe
 folwen
 folwien
 foly
@@ -13409,10 +13666,12 @@ forgh
 forging
 forginge
 forgiven
+forglopned
 forgraith
 forgraithing
 forgreithen
 forgreithing
+forgrowen
 forgyng
 forgynge
 forhalden
@@ -13474,16 +13733,20 @@ forough
 forow
 forowe
 forows
+forpinen
 forranor
 forrayne
 forred
 forrester
 forrou
 forrwerrpenn
+forschrinken
+forscrincæn
 forse
 forseide
 forsend
 forsenden
+forshrinken
 forsleuthen
 forslouthed
 forslouthen
@@ -13517,6 +13780,7 @@ forthgoing
 forthi
 forthing
 forthnimen
+forthristen
 forthy
 fortune
 forty
@@ -13604,6 +13868,7 @@ fourgen
 fourlonge
 fournace
 fourneys
+fourour
 fourt
 fourte
 fourten
@@ -13633,6 +13898,7 @@ fowayle
 fowe
 fowel
 fowele
+foweles
 fowell
 fowels
 fowen
@@ -13677,9 +13943,15 @@ fraked
 frale
 fram
 franchise
+franesie
 frang
 frangible
 frangyd
+fransey
+fransie
+fransye
+frantike
+frantyke
 franǧī̆bil
 fraternitee
 fraude
@@ -13704,6 +13976,8 @@ fraȝȝn
 fraȝȝnenn
 fre
 freame
+frede
+freden
 fredom
 fredome
 free
@@ -13778,6 +14052,12 @@ frendschipe
 frendship
 frendshipe
 frendshipp
+frenesie
+frenesy
+frenesye
+frenetic
+frenetik
+frenetyk
 frenge
 frenged
 frenges
@@ -13787,7 +14067,10 @@ frenschepe
 frenschip
 frenshepe
 frenship
+frensy
+frensye
 frent-man
+frentik
 freo
 freodom
 freoen
@@ -13803,6 +14086,7 @@ freondrede
 freondræden
 freondschipe
 freosen
+freost
 freoten
 freoȝen
 frer
@@ -13814,6 +14098,7 @@ freschely
 frese
 fresen
 fressh
+frest
 frestele
 fret
 frete
@@ -13857,6 +14142,7 @@ frigtlike
 frind
 fringed
 frir
+frist
 fristel
 fristele
 frith
@@ -13882,7 +14168,6 @@ frogge
 froggen
 frogges
 froissh
-froke
 from
 fromond
 fromonde
@@ -13905,6 +14190,7 @@ fross
 frossh
 frosshes
 frosshyn
+frosst
 frost
 froste
 frostes
@@ -13946,6 +14232,7 @@ frunte
 fruntelle
 frunture
 frussh
+frust
 frut
 frute
 fruteles
@@ -14122,14 +14409,15 @@ furnas
 furnays
 furneis
 furneys
+furour
 furous
 furowlong
 furs
 fursnes
 furst
 furthendel
-further alternate forms at day and sterre
-further alternate forms at euentyde and sterre
+further alternative forms at day and sterre
+further alternative forms at euentyde and sterre
 furthermore
 furtyvely
 fury
@@ -14268,6 +14556,7 @@ fōre-sid
 fōrseide
 g
 ga
+gaast
 gabage
 gace
 gadeling
@@ -14277,6 +14566,8 @@ gaf
 gage
 gagen
 gager
+gaihole
+gaile
 gailer
 gailler
 gain
@@ -14290,6 +14581,8 @@ gainliche
 gainras
 gainrase
 gaiol
+gaiole
+gaioll
 gait
 gaitre
 gaitres
@@ -14341,6 +14634,7 @@ gang
 gante
 gantelet
 ganyngale
+gaole
 gar
 garbage
 gard
@@ -14370,6 +14664,8 @@ garesome
 garett
 garette
 garfysche
+gargat
+garget
 gargoun
 garison
 garisoumme
@@ -14473,6 +14769,7 @@ gatt
 gatte
 gaude
 gaudee
+gaudees
 gaudi
 gaudron
 gaudy
@@ -14491,6 +14788,14 @@ gauntlet
 gawgyn
 gay
 gaye
+gayel
+gayhol
+gayhole
+gayholer
+gayl
+gayle
+gayler
+gaylour
 gayn
 gayn-turn
 gayn-turnyng
@@ -14505,12 +14810,15 @@ gaynliche
 gaynly
 gaynlych
 gaynras
+gayole
+gayoler
 gaystyn
 gaytre
 gaytres
 gaze
 gaþ
 ge
+geale
 geant
 geast
 geau
@@ -14700,6 +15008,7 @@ gewunnen
 gewynnan
 gewynnende
 gewynþ
+geylere
 geyn
 geynen
 geyner
@@ -14727,6 +15036,7 @@ gilden
 gildene
 giltif
 giltines
+gilty
 ging
 ginge
 gingebrace
@@ -14740,6 +15050,7 @@ gingyver
 ginnen
 gion
 gipoun
+gipser
 gire
 girgoun
 girgun
@@ -14766,6 +15077,7 @@ giw
 giwer
 giwerie
 glace
+glacen
 glacyer
 glacyn
 glacynge
@@ -14773,6 +15085,8 @@ glad
 gladde
 gladder
 glade
+gladen
+glader
 gladly
 gladship
 glaid
@@ -14800,6 +15114,7 @@ glasyn
 glasyne
 glasyng
 glasynge
+glaucen
 glayfe
 glayffe
 glaysse
@@ -15069,6 +15384,7 @@ goodely
 gooderhele
 goodles
 goodlich
+goodly
 goodnes
 goodnesse
 goodnesses
@@ -15083,6 +15399,7 @@ goord
 goore
 goos
 goosherde
+goosish
 gooslyng
 goost
 goostely
@@ -15269,16 +15586,29 @@ graffe
 grai
 grain
 gram
+gramarian
+gramarie
+gramarien
+gramarienes
+gramariens
+gramarion
+gramarione
+gramarioun
 gramary
-gramarye
+gramaryone
+gramaryoun
 grameer
 gramer
 gramer scole
 gramer scoles
 gramere
+gramere scole
+gramere scoles
+gramerien
 gramerscole
 gramery
 grammarie
+grammarion
 grammer
 grammere
 grammory
@@ -15290,6 +15620,7 @@ granate
 grandfadre
 grane
 granement
+grange
 grangier
 granien
 granin
@@ -15775,6 +16106,7 @@ gyrssyn
 gyrth
 gyrthe
 gyrþe
+gyse
 gyser
 gyserne
 gysers
@@ -15789,6 +16121,7 @@ gywerie
 gywerye
 gær
 gærsum
+gōdlich
 gǒute
 gǒutish
 gǒutī
@@ -15886,6 +16219,7 @@ hail
 haile
 hailen
 hain
+hainselins
 hair
 haire
 hairen
@@ -15897,7 +16231,9 @@ haiþenhede
 hak
 hake
 hakenay
+hakene
 hakeney
+hakeneye
 hakeneyes
 hakern
 hakes
@@ -15905,6 +16241,7 @@ haketoun
 hakille
 hakke
 hakken
+hakkenay
 hakker
 hakkere
 hakkeres
@@ -15913,6 +16250,7 @@ hakky
 hakkynge
 hakle
 haknay
+hakne
 hakney
 hal
 halce
@@ -15923,6 +16261,7 @@ hale bred
 haleday
 halege
 hales
+halesome
 halewe
 halewen
 haleð
@@ -16009,6 +16348,8 @@ halȝhen
 halȝien
 halȝæ
 ham
+ham selfe
+ham silf
 ham-ward
 hambe
 hamber
@@ -16037,6 +16378,7 @@ hammer
 hammes
 hammyr
 hamowre
+hamselfe
 hamur
 hamward
 hamwardes
@@ -16146,6 +16488,7 @@ harp
 harpare
 harpe
 harpere
+harplen
 harras
 harre
 harres
@@ -16243,6 +16586,7 @@ hatful
 hatfull
 hatfully
 hath
+hathe
 hathel
 hathen
 hathennes
@@ -16299,6 +16643,7 @@ haue-thorne
 hauht
 hauk
 hauke
+haukeney
 haukes
 haul
 haule
@@ -16372,6 +16717,7 @@ hayer
 hayes
 hayfare
 hayfre
+haykenay
 hayl
 hayle
 haylen
@@ -16379,6 +16725,7 @@ hayles
 hayly
 haylyn
 hayn
+haynselyns
 haynxman
 hayr
 hayre
@@ -16695,6 +17042,7 @@ helth
 helthe
 helths
 heltre
+heltrer
 heltyr
 helve
 hely
@@ -16748,6 +17096,7 @@ henk
 henksman
 henmest
 henne
+hennes
 henoppe
 henpe
 henppe
@@ -17134,6 +17483,7 @@ hevely
 heven
 heven riche
 heven rike
+heven tide
 heven-ryche
 heven-ryke
 hevene
@@ -17413,6 +17763,7 @@ hinderly
 hindermore
 hindirli
 hindirly
+hindreste
 hindyrli
 hine
 hinge
@@ -17463,15 +17814,16 @@ hirn
 hirne
 hirnen
 hirnestan
+hirplen
 hirres
 hirrtenn
 hirs
+hirste
 hirt
 hirte
 hirten
 hirð
 his
-hiscan
 hise
 hisen
 hishisen
@@ -17500,6 +17852,7 @@ hithim2
 hitt
 hitte
 hiue
+hive
 hived
 hiwe
 hiy
@@ -17567,6 +17920,7 @@ hoiles
 hoille
 hoine
 hoise
+hoken
 hoker
 hokke
 hokschyne
@@ -17615,6 +17969,7 @@ holoȝe
 holpen
 hols
 holsom
+holsome
 holt
 holtes
 holu
@@ -17742,6 +18097,7 @@ honour
 honoure
 honten
 hony
+hony comb
 hony combe
 hony combes
 hony souke
@@ -17785,6 +18141,8 @@ hoole
 hooli
 hoolli
 hoolly
+hoolsom
+hoolsome
 hooly
 hoom
 hoome
@@ -17812,7 +18170,6 @@ hoost
 hooste
 hoosyl
 hoot
-hoove
 hope
 hoppe
 hopynhars
@@ -18083,9 +18440,12 @@ hot
 hote
 hoten
 hoth
+hothe
 hou
 houdere
 houe
+houfe
+houffe
 houge
 hougely
 hougenes
@@ -18159,7 +18519,10 @@ housyl
 housyll
 housyng
 housynge
+houten
+houting
 houve
+houves
 houwe
 houȝ
 hove
@@ -18168,7 +18531,9 @@ hovely
 hoven
 hovenlich
 how
+how farest thow
 howe
+howfe
 howghe
 howh
 howle
@@ -18202,6 +18567,7 @@ howsles
 howsyll
 howsyn
 howsynge
+howve
 hox
 hox hurde
 hoxe
@@ -18223,6 +18589,7 @@ hu
 huam
 huanne
 huas
+hucke
 hudde
 hude
 huden
@@ -18251,6 +18618,7 @@ huire
 huiren
 huireth
 huive
+huke
 hul
 hulden
 hule
@@ -18267,6 +18635,7 @@ humain
 humanite
 humanitee
 humanitye
+humanly
 humanyte
 humanytee
 humayne
@@ -18374,7 +18743,10 @@ hurcle
 hurd
 hurd-man
 hurde
+hurdeiz
 hurdel
+hurdice
+hurdis
 hurdome
 hurdul
 hurdyl
@@ -18393,6 +18765,8 @@ hurne
 hurnen
 huron
 hurre
+hurst
+hurste
 hurt
 hurte
 hurtel
@@ -18432,6 +18806,7 @@ huswyf
 huswyfe
 huswyff
 huue
+huve
 huy
 huyde
 huyden
@@ -18439,6 +18814,7 @@ huyle
 huyrde
 huyre
 huyrne
+huyve
 huȝe
 hw
 hwa
@@ -18474,6 +18850,7 @@ hwilch
 hwile
 hwinen
 hwit
+hwke
 hwmlok
 hwndreth
 hwo
@@ -18530,6 +18907,7 @@ hyeth
 hyeȝ
 hyfde
 hyfe
+hyffe
 hygh
 hyghe
 hyghen
@@ -18573,6 +18951,7 @@ hynge
 hynke
 hynsman
 hyr
+hyrayne
 hyrchyn
 hyrd
 hyrde
@@ -18597,7 +18976,6 @@ hyrt
 hyryd
 hyryd man
 hys
-hyscan
 hyse
 hysene
 hyson
@@ -18698,7 +19076,9 @@ i-foted
 i-frendet
 i-lome
 i. leþered
+iambeux
 iana
+iape
 iarned
 iawe bone
 ibeaten
@@ -18877,6 +19257,7 @@ imposisioun
 imposition
 impossible
 impregnacioun
+impudent
 impyn
 in
 in mist
@@ -18884,6 +19265,7 @@ in miste
 in myst
 in myste
 in the fulle of þe mone
+in the stede
 in the twynklyng of an iȝe
 in þe croke of þe mone
 in þe newe of þe mone
@@ -18959,6 +19341,7 @@ inforce
 informen
 infors
 inforse
+infortune
 infortuned
 ingang
 ingangs
@@ -18980,6 +19363,7 @@ ink
 inkehorn
 inker
 inkhorn
+inly
 inmutable
 inmutabull
 inmutabulle
@@ -19019,6 +19403,8 @@ instruments
 instrumentys
 instrumentz
 inte
+intelligence
+intelligens
 interposicion
 interposicions
 interposicioun
@@ -19057,6 +19443,8 @@ iooned
 iorne
 ir
 iradmon
+irain
+irane
 irchoun
 irchouon
 irchun
@@ -19082,12 +19470,29 @@ irunne
 irve
 is
 isame
+ischewe
 ise
 isen
 iseȝokill
 isikel
 ismorte
 isse
+issen
+isseu
+issew
+isshen
+issheu
+isshewe
+isshue
+issieu
+issu
+issue
+issuen
+issues
+issuwe
+issw
+isswe
+isswen
 isykle
 isykles
 isāfered
@@ -19195,24 +19600,42 @@ jacyncte
 jacyngh
 jacynt
 jai
+jailer
+jailere
+jaiole
+jaioler
 jak
 jake
 jakke
 jakkes
+jale
 jaloucie
 jalous
 jalousie
 jalousye
+janglen
 jangleresse
+janglerie
+jaolere
+jape
 jargon
 jargoun
 jarne
 jasynkt
+javeler
+javyll
 jawe bone
 jawle
 jawvel
 jay
 jayes
+jaylard
+jayle
+jayler
+jaylere
+jaylier
+jayll
+jayllere
 jch
 jeaunt
 jeawnt
@@ -19295,6 +19718,7 @@ jorneying
 jorneyman
 jossa
 jouelere
+joulour
 jouner
 jounke
 jount
@@ -19490,6 +19914,7 @@ kechyn
 ked
 kede
 keembe
+keembekemen
 keempe
 keep
 keepen
@@ -19499,6 +19924,7 @@ kein
 keing
 keiser
 keiȝe
+keken
 kelare
 kelche cuppe
 kelche-cuppe
@@ -19600,6 +20026,8 @@ key
 keye
 keyen
 keyes
+keythong
+keythongs
 keyȝe
 kicen
 kichen
@@ -19614,6 +20042,7 @@ kiertel
 kiin
 kijt
 kike
+kiken
 kilne
 kilvarde
 kime
@@ -19629,6 +20058,7 @@ kindome
 kine-
 kine-stol
 kinedom
+kinedoms
 kinemerke
 kinereiche
 kineric
@@ -19706,6 +20136,7 @@ kite
 kiteling
 kitelinge
 kith
+kith and kynne
 kithen
 kithes
 kiththe
@@ -19720,6 +20151,7 @@ klap
 klathe
 klethen
 kleve
+klint
 kloke
 kloth
 kloyt
@@ -19736,6 +20168,7 @@ knape
 knapes
 knappe
 knappen
+knarry
 knast
 knat
 knatte
@@ -20007,6 +20440,8 @@ kyen
 kyken
 kykombre
 kylle
+kyllyng
+kyllynge
 kylne
 kym-
 kymdam
@@ -20172,6 +20607,7 @@ lai
 laie
 lait
 laite
+lake
 lakkynge
 lamb
 lambe
@@ -20412,6 +20848,8 @@ lavor
 lavour
 lavours
 lavur
+lavv
+lavve
 lavyr
 law
 law-fully
@@ -20434,6 +20872,7 @@ laweles
 laweliche
 lawely
 lawelych
+lawemaker
 lawen
 lawender
 laweowre
@@ -20516,6 +20955,7 @@ leafdi
 leahter
 leai
 leaie
+leame
 leas
 lease
 leaser
@@ -20566,6 +21006,7 @@ leege
 leege man
 leek
 leeke
+leem
 leend
 leende
 leendis
@@ -20582,6 +21023,7 @@ lefes
 leffe
 lefly
 lefmon
+left
 left(e)
 lefven
 leg
@@ -20648,7 +21090,9 @@ leli floure
 lely
 lely floure
 lelye
+lem
 leme
+lemes
 lemman
 lemon
 lencth
@@ -20698,7 +21142,9 @@ leodlich
 leodæ
 leofman
 leofmon
+leoft
 leoht
+leom
 leome
 leon
 leore
@@ -20707,7 +21153,10 @@ leoun
 leove
 leowþ
 leoȝen
+lep
+lepe
 lepen
+lepes
 lequide
 lere
 leren
@@ -20731,6 +21180,7 @@ leste
 let
 lete
 leten
+leten sliden
 letes
 leth
 lethe
@@ -20767,6 +21217,7 @@ lettres patentes
 lettres patents
 lettrure
 lettyr
+letuarie
 letuary
 letuce
 letus
@@ -20847,6 +21298,7 @@ lewidman
 lewidnes
 lewk warm
 lewke
+lewme
 lewthe
 lewyd
 lewyd man
@@ -20998,6 +21450,7 @@ lijkour
 lijȝt
 lik
 liken
+likerous
 likien
 likin
 likinge
@@ -21096,17 +21549,20 @@ liȝth
 liȝti
 liȝty
 liȝȝe
+loac
 loand
 loare
 loave
 lob
 lobstar
 lobstere
+loc
 locan
 locen
 loch
 locian
 locion
+lock
 locken
 locunge
 locust
@@ -21114,6 +21570,7 @@ locusta
 locuste
 locustes
 lode sterne
+lodemanage
 lodgen
 loekyng
 lof
@@ -21138,7 +21595,9 @@ loigen
 loiggen
 loigne
 loine
+lok
 lokan
+loke
 loken
 lokien
 lokin
@@ -21479,11 +21938,22 @@ lukynge
 lullen
 lume
 luna
+lunacioun
+lunare
+lunarie
+lunatick
+lunatijk
 lunatik
+lunatix
+lunatyk
+lunatyk(e)
+lunatyke
 lune
 luse
 lushburg
 lushburgs
+lusk
+luskwerk
 lussheburgh
 lussum
 lusti
@@ -21518,6 +21988,7 @@ luxuriouse
 luxury
 luxurye
 luxuryouse
+luyde
 luyne
 luȝen
 lyard
@@ -21546,6 +22017,8 @@ lyfholy
 lyfholynesse
 lyfles
 lyflesse
+lyflode
+lyfly
 lygament
 lyge
 lyge-man
@@ -21574,6 +22047,7 @@ lylye
 lylye flour
 lym
 lymail
+lymatyke
 lymayle
 lymbo
 lymbus
@@ -21583,6 +22057,7 @@ lymons
 lyn
 lynage
 lynand
+lynatik
 lynces
 lynd
 lynde
@@ -21629,6 +22104,7 @@ lysarde
 lyspyn
 lyte
 lytel
+lytell
 lyth
 lythe
 lytte
@@ -21791,6 +22267,8 @@ mahownd
 mahum
 mahun
 maiden
+maiden childern
+maidenchild
 maidene
 maidese
 maideux
@@ -21884,6 +22362,7 @@ males
 malescun
 malesun
 maletalent
+maletoute
 malevesyn
 malew
 malewe
@@ -21924,6 +22403,7 @@ maltalent
 malte
 maltelent
 maltestere
+maltode
 maltster
 maltstere
 maltt
@@ -21986,6 +22466,7 @@ manchete
 manchett
 mancion
 mancioun
+manciple
 mancunde
 mancyon
 mande
@@ -22394,6 +22875,7 @@ maumetry
 maumetrye
 maumettri
 maumettrie
+maunciple
 maunday
 maunde
 maundee
@@ -22443,6 +22925,8 @@ mawmetry
 mawmette
 mawmettes
 mawmoune
+mawnciple
+mawncyple
 mawnd
 mawnde
 mawndement
@@ -22461,8 +22945,11 @@ mawȝt
 mayche
 maydame
 mayde
+mayde child
+maydechyld
 mayden
 maydenly
+maydyncheld
 mayen
 maygny
 mayl
@@ -22767,6 +23254,7 @@ merilioun
 merily
 merilye
 merines
+meritote
 merket
 merketh
 merkett
@@ -22829,6 +23317,7 @@ merveilouse
 merveilously
 merveilus
 merveilyng
+merveilynge
 merveilynges
 mervel
 mervelious
@@ -23115,9 +23604,13 @@ misnotien
 mispeken
 misqueme
 misse
+missitten
 misspeken
 mist
 miste
+mistel
+mistell
+mistelto
 mister
 mister man
 mister-man
@@ -23128,8 +23621,11 @@ misterman
 mistery
 misti
 mistihead
+mistilte
+mistilto
 mistrum
 misty
+miswandryinge
 misword
 mit
 miter
@@ -23220,6 +23716,7 @@ modyrlesse
 modyrwort
 moe
 moede
+moer
 mogwort
 mogworte
 moillen
@@ -23265,6 +23762,8 @@ moldywarp
 mole
 moledyng
 molen
+moleste
+molesten
 molewarpe
 moleyn
 moleyne
@@ -23399,6 +23898,7 @@ moorter
 moost
 moostnes
 mooysten
+mor
 morage
 morcelle
 more
@@ -23446,6 +23946,8 @@ morw
 morwe
 morwe sterre
 morwen
+morwening
+morwenings
 morwenyng
 morwes
 morwetide sterre
@@ -23474,8 +23976,10 @@ mostnus
 mostowre
 mot
 mote
+moteez
 moten
 motene
+motes
 mothe
 mother
 motherlye
@@ -23985,6 +24489,7 @@ myself
 myselve
 myserie
 mysfeling
+mysleto
 myslyuyng
 myssease
 myssheve
@@ -24008,12 +24513,16 @@ mystery
 mysterye
 mysti
 mystier
+mystil
 mystiliche
+mystill
 mystir
 mystirman
 mysty
 mystyke
 mystykly
+mystyl
+mystyldene
 mystynes
 mystynesse
 mystynesses
@@ -24121,6 +24630,7 @@ nakydnes
 nakyn
 nakyne
 nakynynge
+nale
 nalid
 nalyng
 naman
@@ -24308,6 +24818,7 @@ neeld
 neep
 neer
 neere
+neest
 nefa
 nefe
 nefere
@@ -24368,11 +24879,15 @@ neldere
 neldfadyre
 neltou
 nem
+nemne
+nemnen
 nemphe
 nempne
 nempned
+nempnen
 nend
 neneti
+nennen
 nenty
 neose
 neothur
@@ -24399,6 +24914,7 @@ nervous
 nerwnysse
 nese
 nest
+neste
 net
 netele
 nethere
@@ -24415,6 +24931,7 @@ neutes
 neuyn
 neva
 neve
+neventide
 never
 nevere
 neveu
@@ -24433,6 +24950,7 @@ newe mone
 newere
 newes
 newete
+newfangelnesse
 newmone
 newous
 newsome
@@ -24479,6 +24997,7 @@ ni
 nice
 nichtheschode
 nidel
+niede
 nief
 nieðe
 nift
@@ -24526,6 +25045,7 @@ nither-tale
 nithful
 niu
 niwon
+nixte
 nið
 niðful
 niþ
@@ -24605,9 +25125,15 @@ nomon
 nompere
 non
 none
+nonerie
 nonne
+nonnerie
+nonnery
 nonnerye
 nonnes
+nonnrye
+nonrie
+nonry
 nonys
 noon
 noose
@@ -24617,6 +25143,7 @@ norcerie
 norcery
 norcerye
 norcher
+nore
 noresshaunt
 norfolke
 norice
@@ -24739,6 +25266,7 @@ notifien
 notte
 nou
 noue
+noueltee
 noug
 nough
 nought
@@ -24762,6 +25290,7 @@ nounce
 noune
 nounes
 nounpeer
+noure
 noust
 nout
 nouth
@@ -24837,7 +25366,12 @@ numberynge
 numbir
 numbre
 numbyr
+nunery
 nunne
+nunnerye
+nunri
+nunry
+nunrye
 nuous
 nurisch
 nurischand
@@ -24943,6 +25477,8 @@ næil
 nærew
 næȝl
 o
+o croice
+o cros
 o felde
 o lengthe
 o leynþe
@@ -25006,6 +25542,8 @@ oc
 occ
 occe
 occean
+occean Atlantyke
+occean of Athlant
 occeane
 occeans
 occian
@@ -25014,6 +25552,7 @@ occyane
 ocorn
 ocquerne
 octogamie
+octroy
 ocxe
 od
 odam
@@ -25176,9 +25715,11 @@ oncle
 oncleou
 oncnawen
 oncyll
+ond-
 ondedely
 ondeedly
 onder
+onderȝiten
 ondswerie
 one
 one-eyȝed
@@ -25231,6 +25772,7 @@ onsely
 onstedefastnesse
 onstedfastnesse
 onsware
+onswere
 onswerie
 onswerien
 onthrifty
@@ -25509,6 +26051,7 @@ out
 out-nome
 oute
 outefouse
+outerly
 outermore
 outeward
 outewardly
@@ -25560,6 +26103,7 @@ overlippe
 overmore
 overriden
 overryde
+overshaken
 oversloppe
 ovet
 ovire feble
@@ -25648,7 +26192,10 @@ paases
 paath
 paaþ
 pac
+pacche
 pace
+pacen
+pachche
 pacience
 paciens
 pacient
@@ -25675,6 +26222,7 @@ pagentes
 pagiaunt
 pagiont
 pagyant
+pahche
 paiell
 paien
 paigien
@@ -25701,10 +26249,12 @@ pakke
 pakken
 pakker
 pakkere
+pakkeres
 pakkers
 pakkes
 pakkyn
 pakkyng
+pakkynge
 pakysbrede
 palace
 palaies
@@ -25854,6 +26404,7 @@ pardeus
 pardeux
 pardieux
 pardy
+pare
 parech
 parech chirche
 parechen
@@ -25877,6 +26428,7 @@ pariche
 pariche preist
 parichin
 parichsprest
+parietory
 parisch
 parisch chirche
 parisch prest
@@ -25952,6 +26504,7 @@ paroschian
 paroschien
 parossh
 parossh chirche
+parr
 parrosche
 parrysshe
 parrysshe churche
@@ -25991,6 +26544,7 @@ parysshen
 pas
 pascioun
 pascwax
+pasen
 passe tyme
 passe tymes
 passen
@@ -26004,6 +26558,7 @@ passionat
 passionate
 passione
 passioun
+passioun lunatik
 passioune
 passiouns
 passiun
@@ -26018,6 +26573,7 @@ paswax
 patan
 patane
 pataner
+patche
 paten
 patene
 patener
@@ -26177,6 +26733,7 @@ peiliúr
 pein
 peir
 peire
+peirer
 peise
 peite
 peiter
@@ -26217,6 +26774,7 @@ pencioun
 penciouns
 pencyon
 pencyone
+pende
 pener
 peni
 penie
@@ -26254,6 +26812,7 @@ peny wort
 peny worte
 peny wurte
 peny-gresse
+penyble
 penyegrasse
 penyewrytte
 penygres
@@ -26470,10 +27029,14 @@ peuple
 peure
 peuter
 peutre
+pew
+pewe
 pewer
+pewes
 pewne
 peye
 peyn
+peynde
 peyne
 peyni
 peynyme
@@ -26497,6 +27060,11 @@ philosophie
 philosophre
 philosophres
 phiole
+phisinomie
+phisnomie
+phisnomy
+phisonomie
+phisonomy
 pibbel
 pibbilston
 pibbulston
@@ -26613,6 +27181,7 @@ pis
 pisan
 piscod
 pise
+pisen
 pismire
 pismoure
 pismyer
@@ -26635,6 +27204,7 @@ pissinge
 pissyng
 pissynge
 pistel
+pistle
 pite
 pith
 pithe
@@ -26688,6 +27258,7 @@ plasce
 plase
 plasse
 plasze
+plat
 platels
 plater
 platere
@@ -26782,11 +27353,14 @@ pleyse
 pleyynge
 pleȝe
 pleȝen
+plicchen
 ploch
 plog
 ploge
 plogh
 ploh
+ploke
+plokke
 plombtree
 plome
 plome tree
@@ -26814,8 +27388,15 @@ plowere
 plowme
 plowmtre
 ploȝe
+pluchche
+plucke
 plue
 plugh
+pluk
+pluke
+plukke
+plukken
+plukkyn
 plum
 plum tre
 plum tree
@@ -26945,6 +27526,7 @@ popi
 popie
 popies
 poplexy
+popper
 popy
 popye
 porache
@@ -27130,6 +27712,7 @@ preching
 prechinge
 prechingue
 prechynge
+prede
 preef
 preest
 preeste
@@ -27170,6 +27753,9 @@ prevysioun
 prewysyn
 preyen
 preyst
+pride
+priden
+priede
 priest
 priesthod
 priken
@@ -27187,6 +27773,7 @@ prisoun
 prist
 pristly
 prisun
+priuilege
 prive
 privite
 privitee
@@ -27194,6 +27781,7 @@ pro
 problem
 probleme
 problemys
+prochem
 proest
 profecie
 profecy
@@ -27205,7 +27793,10 @@ profit
 profite
 profyt
 profyte
+proheim
+proheime
 proheme
+proim
 pronounce
 pronouncen
 pronounsen
@@ -27262,18 +27853,31 @@ provyns
 provynse
 provysion
 provysioun
+prowde
 prud
 prude
+pruden
+pruede
 pruest
 pruna
 prune
 prunes
 pruste
+prute
+pruyd
+pruyde
+pruyte
+pryd
+pryde
+pryden
+prydyn
 pryson
 prysoner
 prysonere
 pryste
 prystly
+pryte
+pryȝde
 psalm
 psalme
 psalteer
@@ -27298,6 +27902,7 @@ pudre
 puf
 puffe
 pugnaunt
+puinde
 puinte
 puir
 puire
@@ -27404,6 +28009,7 @@ putours
 putte
 putten
 putton
+puwe
 puyr
 puyre
 puyson
@@ -27438,6 +28044,7 @@ pykare
 pyke
 pyke forke
 pyke-herneys
+pykeaxe
 pykefork
 pykeharneys
 pykeharneyses
@@ -27458,6 +28065,8 @@ pyle
 pylle
 pylow
 pylwe
+pynde
+pynden
 pynoun
 pyntel
 pyntell
@@ -27535,6 +28144,9 @@ quantitee
 quantites
 quantyte
 quantytee
+quappe
+quappen
+quappyn
 quarter
 quartere
 quarters
@@ -27583,6 +28195,7 @@ quem
 queme
 quemeful
 quemely
+quemen
 quemful
 quen
 quence
@@ -27673,10 +28286,12 @@ quitance
 quitaunce
 quiver
 quo
+quod
 quon
 quone
 quoniam
 quook
+quoth
 quoyne
 quoynt
 quoynte
@@ -27721,6 +28336,7 @@ quysht
 quyshte
 quyssen
 quysshyn
+quysshyns
 quysson
 quyst
 quytans
@@ -27738,6 +28354,8 @@ qwam
 qwan
 qwanne
 qwantyte
+qwape
+qwappe
 qwarter
 qwaschyn
 qwate
@@ -27875,6 +28493,7 @@ rais
 raise
 raisen
 raising
+raison
 rakand
 rake-tehȝe
 rake-teȝe
@@ -27937,6 +28556,7 @@ ransum
 ransuner
 ransuning
 rap
+rape
 raply
 rappen
 rare
@@ -28234,6 +28854,7 @@ refeut
 reffe
 reffuge
 reffute
+refreynen
 refuge
 refuges
 refuit
@@ -28281,6 +28902,7 @@ reiver
 rekand
 rekanth
 reke
+rekenen
 rekenth
 rekever
 rekeveraunce
@@ -28318,6 +28940,7 @@ remedie
 remedye
 remembren
 remen
+remenen
 remes
 remi
 remis
@@ -28399,6 +29022,7 @@ reredoce
 reredos
 reredose
 reredosis
+reremain
 reremayne
 reremous
 reremowse
@@ -28806,6 +29430,7 @@ rodd
 rodde
 rodder
 rode
+rodok
 rody
 rodye
 rof
@@ -28953,6 +29578,7 @@ roulen
 rouliche
 roum
 roume
+roumes
 roums
 roun
 round
@@ -29006,6 +29632,7 @@ rubbe
 rubben
 rubbere
 rubbyn
+rubbynge
 rube
 rubee
 ruberbe
@@ -29172,6 +29799,7 @@ ryol
 ryot
 ryote
 ryoteux
+ryotour
 ryotous
 ryott
 ryotte
@@ -29269,6 +29897,7 @@ sadele
 sadelen
 sadeler
 sadelere
+sadeleres
 sadelers
 sadeli
 sadelie
@@ -29562,6 +30191,7 @@ sarsen
 sarss
 sarvant
 sarvaunt
+sarven
 sary
 sat
 satchel
@@ -30125,9 +30755,11 @@ schit
 schite
 schiten
 schiterow
+schiterowys
 schive
 scho
 schode
+schoderen
 schodynge
 schoe
 schoen
@@ -30141,6 +30773,7 @@ scholderyng
 scholdur
 schole
 scholer
+scholle
 scholtrom
 schon
 schond
@@ -30160,7 +30793,10 @@ schortly
 schos
 schotchyn
 schou
+schough
 schour
+schoure
+schoures
 schouve
 schouven
 schove
@@ -30190,6 +30826,7 @@ schriving
 schrivinges
 schrob
 schrobbe
+schroud
 schrub
 schrubbes
 schrude
@@ -30204,6 +30841,7 @@ schryvyn
 schryvyng
 schu
 schudde
+schuderin
 schue
 schuftynge
 schuit
@@ -30229,10 +30867,10 @@ schuldres
 schuldryngis
 schuldyr
 schulen
+schulle
 schun
 schune
 schup
-schur
 schurte
 schute
 schuyrte
@@ -30354,6 +30992,7 @@ scolden
 scole
 scolere
 scolier
+scolle
 scollere
 scone
 sconke
@@ -30367,6 +31006,7 @@ scorpiown
 scorpyoun
 scotchon
 scotchyne
+scough
 scoute
 scowtage
 scrabbe
@@ -30392,7 +31032,9 @@ sculd
 sculdre
 sculke
 sculle
+scur
 scurelle
+scurte
 scut
 scutage
 scutages
@@ -30471,6 +31113,7 @@ secoundarie
 secoundary
 secounde
 secre
+secree
 secrely
 secreness
 sect
@@ -30500,6 +31143,9 @@ sede
 seden
 seder
 sedes
+seduct
+seductor
+seductour
 sedur
 sedyn
 sedyr
@@ -30985,6 +31631,7 @@ sesterne
 sesurs
 sesurys
 sete
+setewale
 seth
 sethe
 sethen
@@ -31098,6 +31745,7 @@ seym
 seyme
 seyn
 seynct
+seynge
 seyngnour
 seynorie
 seynour
@@ -31300,6 +31948,7 @@ shirten
 shive
 shlyngare
 sho
+sho þuong
 shod
 shode
 shoe
@@ -31324,6 +31973,7 @@ shorte
 shorten
 shortly
 shos
+shoten
 shotshipe
 shou
 shoule
@@ -31385,6 +32035,7 @@ shulne
 shuo
 shup
 shuppe
+shur
 shurte
 shurtten
 shute
@@ -31699,6 +32350,7 @@ sklyse
 skochen
 skochon
 skochoun
+skogh
 skolere
 skore
 skorpioun
@@ -31890,12 +32542,16 @@ sliȝty
 sliȝþe
 slo
 slogardye
+sloggi
+sloggy
 slon
 sloo
 slos
 slotte
 sluggardie
 slugge
+sluggi
+sluggy
 sluse
 slute
 slutt
@@ -31972,6 +32628,7 @@ smarte
 smarten
 smatche
 smatchen
+smattrynge
 smeallen
 smeart
 smech
@@ -31981,6 +32638,7 @@ smelt
 smelte
 smelth
 smeorten
+smeorðrinde
 smert
 smerte
 smerten
@@ -32031,6 +32689,9 @@ smor
 smore
 smoren
 smorten
+smortherting
+smorðrinde
+smorþering
 smot
 smote
 smoterlich
@@ -32042,6 +32703,8 @@ smowth
 smoþe
 smoþenesse
 smoþenez
+smoþeryng
+smoþerynge
 smullen
 smuythe
 smyten
@@ -32100,6 +32763,7 @@ snawy
 snayl
 snayle
 snayles
+snede
 snele
 snese
 snesen
@@ -32186,6 +32850,9 @@ sodyour
 sodyoure
 soen
 soeth
+soffem
+soffyme
+sofim
 softe
 sogh
 soghe
@@ -32310,7 +32977,16 @@ sop
 sope
 soper
 sopere
+sophem
+sopheme
 sophie
+sophim
+sophime
+sophisme
+sophym
+sophyme
+sophymme
+sophysme
 sopi
 soppe
 sor
@@ -32407,6 +33083,7 @@ soth
 sotheren
 sotherin
 sotheynly
+sothnesse
 sothscipe
 soti
 sotie
@@ -32472,6 +33149,7 @@ soudon
 soudour
 soudyour
 souel
+souerayne
 souereignelie
 souereyns
 soufre
@@ -32517,6 +33195,7 @@ sounde (15th cent.)
 sounder
 soundre
 soune
+sounen
 sounere
 souneres
 soupe
@@ -32992,6 +33671,7 @@ sporn
 sporne
 spornen
 spornyng
+sporre
 sporyar
 sporyare
 sporyer
@@ -33168,11 +33848,13 @@ squierie
 squim
 squirel
 squireles
+squirten
 squyer
 squynge
 squyre
 squyrell
 squyrelle
+squyrten
 sqwalteryn
 sqwan
 sqware
@@ -33838,6 +34520,8 @@ stremes
 stremour
 stren
 strencþen
+streng
+strenge
 strenght
 strengthe
 strengthen
@@ -33870,6 +34554,7 @@ strife
 striffe
 strike
 strikke
+stringe
 strive
 striven
 striwen
@@ -34012,6 +34697,7 @@ stynkis
 stynkkyn
 stynkyng
 stynkynge
+stynten
 styp-
 stypdowtur
 stypsone
@@ -34607,6 +35293,8 @@ swinge
 swingen
 swingenn
 swingæn
+swinkere
+swithe
 swithen
 swiven
 swiwen
@@ -35008,6 +35696,7 @@ taille
 taille-ende
 tailled
 taillende
+taillour
 taim
 tain
 taine
@@ -35053,6 +35742,7 @@ talewyse
 talewyȝs
 talgh
 talghe
+taliour
 talk
 talke
 talken
@@ -35140,7 +35830,10 @@ tarcelet
 tarcell
 tarcelle
 tarcellet
+tarche
 tare
+targe
+targge
 tarmaret
 tarne
 tarr
@@ -35163,6 +35856,11 @@ tas
 tasch
 tasche
 tase
+tasel
+taseles
+tasell
+tasil
+tasille
 taske
 taskes
 tasque
@@ -35170,6 +35868,8 @@ tasshe
 tast
 taste
 tasten
+tasul
+tasylle
 tat
 tatche
 taune
@@ -35233,6 +35933,7 @@ tayles
 tayll
 taylyd
 taym
+tazel
 te
 te-
 team
@@ -35252,7 +35953,6 @@ tedden
 tedei
 teem
 teeme
-teen
 teer
 teere
 tefor
@@ -35318,12 +36018,14 @@ tende
 tender
 tendre
 tene
+tenebrose
+tenebrus
 tenel
 tenell
 teneur
 teneure
 tenge
-tenne
+tenker
 tenneþe
 tennyth
 tenon
@@ -35421,9 +36123,13 @@ tery
 teryn
 tes
 tese
+tesel
+tesell
 tesen
 tesien
+tesle
 testif
+tesyll
 tet
 tetche
 teth
@@ -35578,6 +36284,7 @@ theon
 theos
 theoþinge
 ther
+ther aboute
 ther fore
 ther-oute
 ther-to
@@ -35720,6 +36427,7 @@ thondres
 thondyr
 thoner
 thong
+thongly
 thonoure
 thonre
 thoombe
@@ -35854,6 +36562,8 @@ threshell
 threshen
 threshold
 threshwell
+threshwold
+threshwolds
 threshyng
 thresorye
 thresour
@@ -35967,6 +36677,7 @@ thus
 thusand
 thusand-fald
 thuse
+thusgate
 thuy
 thwang
 thwenti
@@ -36138,6 +36849,7 @@ titmase
 titmose
 titmōse
 titomoze
+tiwesday
 tiðinge
 tiþe
 tiþen
@@ -36355,6 +37067,7 @@ together
 togethere
 togeydder
 togeydur
+toggen
 togh
 toghedre
 toght
@@ -36616,6 +37329,7 @@ torghe
 torhte
 torment
 tormentise
+tormentyse
 tornen
 tort
 torterous
@@ -36628,6 +37342,7 @@ tosch
 toschede
 toscheden
 toschiften
+tose
 tosen
 tosenden
 tosetnesse
@@ -36647,6 +37362,7 @@ tosomme
 tosomna
 tosomne
 tosomnen
+toson
 tosparplen
 tospateren
 tospeken
@@ -36685,6 +37401,7 @@ tothynken
 totiȝten
 totorven
 totorvien
+totosen
 totrayen
 totreden
 toturn
@@ -36893,10 +37610,14 @@ traisun
 traiteresse
 traitor
 traitores
+traitorie
+traitorye
 traitour
 traitouresse
 traitourfull
 traitresse
+tramale
+tramel
 trampsoun
 tramson
 trance
@@ -36967,7 +37688,29 @@ traunse
 traunsom
 traunsomes
 traunt
+travaillous
+travailous
+travailouse
+travailously
+travalous
+travaylous
+travaylouse
 trave
+traveillous
+traveilosely
+traveilous
+traveilouse
+travellous
+travelos
+travelous
+travelouse
+travelously
+travelyous
+traves
+traveylously
+travyliouse
+travylus
+trawe
 trawthe
 trayne
 traysoun
@@ -37005,6 +37748,7 @@ treen
 treene
 trefd
 treget
+tregetoure
 treison
 treitys
 tremor
@@ -37031,6 +37775,7 @@ treoliche
 treou
 treouliche
 treowe
+treowen
 treowene
 treowthe
 trepeget
@@ -37114,6 +37859,7 @@ tretes
 trety
 tretys
 treuthe
+treuwen
 treuþe
 treved
 trevet
@@ -37130,12 +37876,19 @@ treysore
 treysser
 treyssour
 treyteresse
+triacendely
+triacendula
 triacle
 triacul
 triakel
 triakele
 triakil
 triakle
+triasandal
+triasandali
+triasandalis
+triasandly
+triasandri
 tribe
 tribu
 tribun
@@ -37163,11 +37916,13 @@ trippen
 trippere
 trippus
 trippyng
+trisandri
 trispase
 trissoure
 trist
 tristell
 tristil
+tristy
 trivet
 triwe
 triwet
@@ -37214,6 +37969,7 @@ troste
 trostel
 trostell
 trouchou
+trouen
 trough
 trought
 troughte
@@ -37227,11 +37983,13 @@ trounen
 troute
 troutes
 trouthe
+trouwen
 trouȝ
 trouȝe
 trouȝt
 trow
 trowe
+trowen
 trowgh
 trowghe
 trowt
@@ -37294,6 +38052,7 @@ tryppe
 tryppingly
 tryppyn
 trypynge
+trystefull
 trystoll
 trystyll
 tryvett
@@ -37313,6 +38072,7 @@ tueþyng
 tufal
 tufall
 tufalle
+tuggen
 tuies
 tuifald
 tuifold
@@ -37559,6 +38319,9 @@ tyndir
 tyndre
 tyne
 tynen
+tyngker
+tynkare
+tynkere
 tynne
 type
 tyran
@@ -37613,7 +38376,6 @@ tæcen
 tæm
 tæmenn
 tær
-tæs
 tæȝel
 u
 uan
@@ -37661,7 +38423,12 @@ un-honestli
 un-stedfast
 un-studfast
 unaquit
+unbegunne
 unbehovely
+unbowsom
+unbuxom
+unbuxome
+unbuxum
 unc
 unce
 uncerchable
@@ -37671,9 +38438,12 @@ unche
 uncle
 unclen
 uncles
+unconninge
 uncountit
+uncovenable
 uncul
 uncull
+undampned
 unde
 undeadlic
 undeadlich
@@ -37692,6 +38462,7 @@ undedlynesse
 undeedlines
 undeedly
 undeedlynesse
+undepartable
 under
 under delvyn
 under loke
@@ -37702,6 +38473,7 @@ under þe sonne
 under-delven
 underdelven
 undergeten
+undergyten
 underloken
 undernimen
 underpicchen
@@ -37710,12 +38482,19 @@ undersechen
 understanden
 understonden
 undertaken
+underyeten
+underȝeiten
+underȝeten
+underȝiten
+underȝytæn
 undes
 undigne
+undirgeten
 undirtake
 undisposicioun
 undisposicoun
 undressen
+undwellable
 undyr lokyn
 unewersyte
 unfelde
@@ -37779,12 +38558,16 @@ unlovelich
 unloveliche
 unlovely
 unlust
+unmanhood
 unnan
 unne
 unnen
 unnkerr
 unnon
 unnseliȝ
+unobedience
+unobediens
+unobedient
 unon
 unonest
 unoneste
@@ -37906,6 +38689,8 @@ urþen
 urþly
 us
 usant
+uschen
+uschew
 use
 used
 usedde
@@ -37933,7 +38718,11 @@ uson
 usse
 ussede
 usself
+usshew
+usshewe
 ussit
+ussu
+ussue
 usual
 usuale
 usuall
@@ -37956,10 +38745,11 @@ uszed
 ut
 ute
 uth
-uthe
 uther
 utilite
 utilitee
+utmeste
+utmost
 utteraunce
 uttermore
 utteward
@@ -37992,6 +38782,7 @@ va man
 vaane
 vaat
 vacchen
+vaden
 vader
 vaderlyes
 vage
@@ -38015,12 +38806,15 @@ valeie
 valeiȝe
 valen
 vales
+valew
 valewen
 valey
 valeye
 valeys
 valleie
 valowe
+vals
+value
 valwe
 valy
 vambrace
@@ -38161,6 +38955,7 @@ venesoun
 venesun
 venette
 veneu
+vengen
 venie
 venim
 venimous
@@ -38258,6 +39053,9 @@ vermyne
 vermyns
 vern
 vernage
+vernicle
+vernicles
+vernish
 verra
 verraily
 verrament
@@ -38366,6 +39164,7 @@ verynage
 verþe
 vescel
 vesel
+vesnamy
 vespers
 vespertine
 vespertyne
@@ -38420,6 +39219,7 @@ veyrdit
 veyres
 veys
 veyven
+veþer
 vhanne
 vhen
 viage
@@ -38455,10 +39255,11 @@ vifman
 vifte
 viftene
 vight
+vigilye
 vign
 vigne
 vigner
-vigoure
+vigure
 vijs
 vilain
 vilanie
@@ -38522,6 +39323,7 @@ vipera
 vir
 vire
 virs
+virst
 virste
 virtew
 virtu
@@ -38536,6 +39338,7 @@ visciousli
 vise
 visely
 viseoun
+vish
 vision
 visione
 visioun
@@ -38564,6 +39367,7 @@ vitell
 vittaille
 vittailler
 vitteller
+vive
 viw
 viyn ȝerd
 viþele
@@ -38575,13 +39379,14 @@ vlindre
 vlint
 vliȝe
 vlo
+vlock
 vlode
 vlor
-vluy
 vluys
 vlye
 vmbiloken
 vmbloken
+vn-manhode
 vnder
 vntil
 vntill
@@ -38617,6 +39422,7 @@ volloȝt
 volnes
 volnesse
 volte
+volupeer
 volvel
 volvelle
 volvulle
@@ -38638,6 +39444,8 @@ vorfreten
 vorme fader
 vorow
 vors
+vorst
+vorvader
 vorwe
 vorzuerie
 vorzueriing
@@ -38645,6 +39453,7 @@ voster
 vot
 vouh
 vour
+vourty
 vous
 vout
 voute
@@ -38682,6 +39491,7 @@ vri
 vridei
 vrogge
 vrom
+vrost
 vry
 vryend
 vue
@@ -38694,7 +39504,13 @@ vulȝen
 vun
 vur
 vure
+vurst
 vuyry
+vve
+vvee
+vvicche
+vvitch
+vvitche
 vyalens
 vyall
 vyce
@@ -38882,6 +39698,7 @@ waischen
 waisching
 waissche
 waisshen
+waisshynge
 waist
 waister
 waiten
@@ -38975,6 +39792,7 @@ wane
 wanen
 wanene
 waneshott
+wange
 wankel
 wankill
 wanne
@@ -38984,6 +39802,8 @@ wanten
 wanton
 wantrust
 wantten
+wantyng
+wantynge
 wapour
 wappes
 waps
@@ -39078,6 +39898,7 @@ warte
 wartes
 warth
 warthe
+warto
 warwayn
 waryner
 warynere
@@ -39097,6 +39918,7 @@ waschen
 waschenge
 wasching
 waschsche
+waschyng
 waschynge
 washe
 washen
@@ -39109,13 +39931,18 @@ wass
 wasschen
 wasscher
 wassching
+wasschinge
 wasschunge
 wasschyng
+wasschynge
 wasse
+wassele
+wassende
 wasshe
 wasshen
 wassher
 wasshere
+wassheyng
 wasshing
 wasshinge
 wasshour
@@ -39207,7 +40034,7 @@ waxdam
 waxdom
 waxe
 waxen
-waxen wode ()
+waxen wode
 waxenn
 waxin
 waxing
@@ -39354,6 +40181,7 @@ weelfulnesse
 weelþe
 weende
 weer
+weerde
 weere
 weert
 weeste
@@ -39371,6 +40199,7 @@ weftes
 wefyng
 weg
 wegan
+wege
 wegge
 wegges
 weght
@@ -39398,6 +40227,7 @@ weilde
 weile
 wein
 weine
+weird
 weit
 weive
 weiȝtt
@@ -39424,6 +40254,7 @@ weldene
 weldent
 weldinde
 weldon
+weldy
 wele
 welebaraw
 weleful
@@ -39449,6 +40280,7 @@ welkes
 welkne
 welkyn
 well
+well nyght
 welle
 welled
 wellede
@@ -39477,6 +40309,7 @@ welþ
 welþe
 welþi
 wemen
+wemlesse
 wemmen
 wemon
 wemyn
@@ -39496,6 +40329,7 @@ wengge
 wenim
 wenne
 wenshot
+wente
 wenymus
 weo
 weob
@@ -39528,9 +40362,13 @@ wer
 werai
 werayour
 werchen
+werd
+werde
 werdely
+werdes
 werdly
 were
+werede
 werelld
 werely
 weremod
@@ -39539,6 +40377,7 @@ wereour
 werere
 wereur
 weri
+werid
 werie
 werien
 wering
@@ -39630,6 +40469,7 @@ wesel
 wesele
 wesher
 wesil
+wesile
 wesp
 wesschinge
 wesschunge
@@ -39760,6 +40600,7 @@ wharffage
 wharghfe
 wharter
 wharth
+wharto
 wharvage
 wharven
 wharves
@@ -39787,6 +40628,8 @@ whei
 wheir
 whel
 whelar
+whelbarwe
+whelbarwes
 whelbergh
 whelberghe
 whele
@@ -39811,7 +40654,7 @@ whelpes
 whelpyng
 whelpynge
 whelt
-whelwryght
+whelwryghte
 whelwryghtes
 whelwryȝth
 whelyn
@@ -39840,6 +40683,7 @@ wherve
 wherwith
 wherwiþ
 wherwyth
+whesille
 wheston
 whestone
 whestones
@@ -39930,6 +40774,9 @@ whoos
 whos
 whose
 whote
+whoten
+whu
+whwtynge
 whyche
 whydyrewyn
 whyk
@@ -40003,6 +40850,7 @@ widwe
 widwer
 wieke
 wielde
+wierde
 wif
 wif-kin
 wife
@@ -40132,6 +40980,10 @@ wipen
 wippe
 wippis
 wips
+wird
+wirde
+wired
+wirid
 wirk
 wirm
 wirnard
@@ -40150,6 +41002,7 @@ wisp
 wispe
 wisse
 wissede
+wissen
 wisshen
 wisten
 wit
@@ -40176,10 +41029,12 @@ witherwinne
 witheseie
 witheseine
 withfighten
+withinneforth
 withlaughen
 withlesen
 withnayen
 withoute
+withouteforth
 withouten
 withouten wōth
 withsamen
@@ -40402,6 +41257,7 @@ won
 wonderfulliche
 wonderfully
 wonderly
+wondirful
 wondren
 wone
 wonen
@@ -40442,6 +41298,7 @@ wop
 wope
 wopen
 wopes
+wor
 worchen
 worchestede
 word
@@ -40458,6 +41315,7 @@ wordlich
 wordliche
 wordly
 wordy
+wore
 woreld
 woren
 worestede
@@ -40512,6 +41370,7 @@ worthines
 worthinesse
 worthy
 worthynesse
+worto
 woruld
 woruld-riche
 woryour
@@ -40564,11 +41423,13 @@ wrang
 wrangfully
 wranne
 wrappen
+wrastlen
 wrathe
 wrau
 wraw
 wrawe
 wrawen
+wrawful
 wrawnesse
 wrað
 wraȝ
@@ -40703,6 +41564,7 @@ wrænch
 wt
 wth
 wtout
+wu
 wudewa
 wudewe
 wue
@@ -40767,6 +41629,7 @@ wyderwyn
 wydewer
 wydow
 wyen
+wyerde
 wyett
 wyf
 wyfe
@@ -40793,6 +41656,7 @@ wykke
 wykked
 wykkyd
 wykkyde
+wylere
 wylew
 wylgh
 wylk
@@ -40823,6 +41687,7 @@ wympyll
 wympylle
 wyn
 wyn drawer
+wyn dronkenes
 wyn tree
 wyn-dronke
 wyn-tre
@@ -40899,6 +41764,7 @@ wynȝard
 wyolent
 wype
 wypen
+wyrde
 wyrm
 wyrme
 wyrmwode
@@ -40973,6 +41839,7 @@ y
 y clove
 y-
 y- is often confused with ye
+y-laft
 y-magerie
 y-mayled
 y-same
@@ -41108,6 +41975,7 @@ yelpinge
 yelpinges
 yelpingge
 yelpyng
+yelte
 yelwe
 yem
 yeman
@@ -41152,6 +42020,7 @@ yeven
 yeven of a note
 yew
 yewel
+yexen
 yey
 yeyn
 yeynturn
@@ -41213,6 +42082,7 @@ yiol
 yiouthed
 yis
 yise
+yiske
 yisse
 yister
 yister-
@@ -41226,6 +42096,7 @@ yiuth
 yiven
 ykel
 ykle
+ylaft
 yland
 yle
 ylem
@@ -41379,6 +42250,7 @@ yore
 you
 youe
 youghe
+youghede
 yought
 youghte
 yougthe
@@ -41421,10 +42293,13 @@ yowthehede
 yowur
 yowuthe
 yowyr
+yoxen
 yoȝ
+ypaid
 ypeynted
 ypocras
 ypunished
+yrayn
 yrchon
 yrchoun
 yrchouns
@@ -41435,6 +42310,7 @@ yronge
 yronne
 ys
 ysame
+yschue
 yse
 ysekel
 yskel
@@ -41443,7 +42319,13 @@ ysode
 ysoden
 ysse
 ysse-ikkle
+yssen
+ysseu
+yssew
+yssue
+ysswe
 ystorie
+ysue
 ysz
 ysȝikel
 yt
@@ -41460,6 +42342,7 @@ yungur
 yur
 yure
 yurs
+yurstai
 yus
 yuster-
 yusterday
@@ -41538,6 +42421,7 @@ zele
 zelle
 zellere
 zen
+zende
 zenewe
 zeneȝere
 zeneȝi
@@ -41545,12 +42429,17 @@ zenne
 zenvol
 zeoþen
 zep
+zete
 zeterday
 zetten
+zeve
+zeven
 zevende
 zeventy
 zevevald
+zi
 zicnesse
+zide
 ziggen
 ziggene
 zik
@@ -41560,10 +42449,18 @@ ziknesse
 zinge
 zinging
 zist
+zitte
+zitten
+zix
 zixt
 zixte
 zixti
+zo
 zofte
+zome
+zomere
+zondai
+zone
 zong
 zonge
 zonne
@@ -41573,9 +42470,11 @@ zoster
 zoutere
 zouth
 zoȝe
+zueche
 zuerie
 zueriinge
 zugere
+zuiche
 zuin
 zuker
 zukur
@@ -41586,7 +42485,6 @@ zuope
 zuord
 zyxt
 zyxte
-~
 Ænglisce
 Þursday
 æ
@@ -41637,6 +42535,7 @@ zyxte
 ðhu
 ðhusant
 ði
+ðole
 ðral
 ðraldom
 ðring
@@ -41853,6 +42752,7 @@ zyxte
 þome
 þomes
 þonder
+þongcastre
 þoombe
 þoombes
 þorn
@@ -42062,8 +42962,10 @@ zyxte
 ēthsēne
 ēthwinne
 ōc-querne
+Ȝ
 Ȝame
 Ȝeorc
+Ȝiff
 Ȝorc
 Ȝork
 Ȝorke
@@ -42085,6 +42987,7 @@ zyxte
 ȝate
 ȝaure
 ȝaw
+ȝayle
 ȝe
 ȝe-
 ȝeac
@@ -42395,11 +43298,17 @@ zyxte
 ȝæn
 ȝæt
 ȹ
+ʒerstendæi
+ʒesken
 ʒewillad
 ʒewilled
 ʒewillede
 ʒewune
-ʒwan
+ʒexin
+ʒiske
+ʒixin
+ʒosken
+ʒoxen
 ẏ
 ẜ
 ẹ̮̄rde
@@ -42408,3 +43317,9 @@ zyxte
 → English: misbelief
 → Irish: piliúr
 → Scottish Gaelic: Seoc
+◌̃
+ꟃ
+Ꟑ
+ꟑ
+ꟓ
+ꟕ

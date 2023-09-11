@@ -1,9 +1,11 @@
 -cuar
 -cuun
 -ek
+-gka
 -llu
 -naurte
--qa/ka, -gka, -nka
+-nka
+-qa
 -qaa
 -ssuun
 -vak
@@ -11,7 +13,6 @@
 -yugnarqe
 -yugnga
 ...ek allrakungqertua
-A
 Aapirin
 Agayun
 Agayuneq
@@ -27,8 +28,6 @@ Amirairun
 Amirairviat Tuntut
 Amirairvik
 Assilriamek Allrakukegtaarmek
-B
-C
 Cauyarvik
 Cetamirin
 Ciissussaaq
@@ -36,21 +35,13 @@ Ciissussaq
 Citamirin
 Cupun
 Cupvik
-D
-E
 Ellam Yua
 Etiiviuq
-F
-G
-H
-I
 Imam Umgutii
 Ingun
 Iralull'eq
 Iralull'er
 Irniviat Tengmiat
-J
-K
 Kakeggliyarvik
 Kanruyauciq
 Kass'atun qanyuitua
@@ -60,35 +51,26 @@ Kayangut Anutiit
 Kelistussaaq
 Kep'nerciq
 Kuiget Aaniit
-L
-M
 Maklagaq
 Maniit Anutiit
 Maqineq
-N
 Nanvat Cikutiit
 Nayirciq
 Nayirciraruaq
 Nulirun
 Nunavut
 Nurarcurvik
-O
-P
 Paaskaaq
 Pekyun
 Pilip'iinaq
 Pingayirin
-Q
 Qaariitaarvik
 Qaneryaraq
 Qaneryaraqegtaar
 Qilangaarusvik
 Qusiirvik
 Quyayaraq
-R
-S
 Selavi
-T
 Tallimirin
 Tanqiluryak Ciuqliq
 Tanqiluryak Kinguqliq
@@ -102,15 +84,10 @@ Tengmiaret Tanqiat
 Tengmiirviguaq
 Tengmiirvik
 Tengun
-U
 Uivik
 Uksurvik
 Unguurvik
 United States
-V
-W
-X
-Y
 Yaqulget Ingutiit
 Yiissus
 Yugcetun qanerciigataqa
@@ -118,8 +95,6 @@ Yugcetun qaneryaraq
 Yugten-qaa qantuuten?
 Yugtun
 Yugtun qanyuitua
-Z
-a
 aana
 aankilaq
 aata
@@ -163,6 +138,7 @@ angak
 angalkuq
 angsaq
 angun
+angutnguaq
 angyaq
 angyar
 aniguyaq
@@ -172,6 +148,7 @@ apyun
 aqevyik
 aqsaq
 aquq
+aranaruaq
 arlluk
 arlunaq
 arnak
@@ -199,8 +176,6 @@ auk
 au͡gna
 avukaq
 ayaun
-b
-c
 caarralaq
 caaskaq
 caayuq
@@ -242,8 +217,6 @@ cukunaq
 cupilaq
 cupun
 curaq
-d
-e
 egaarniq
 egaleq
 ekiliq
@@ -278,10 +251,6 @@ estikluuq
 estulussaq
 estuuluq
 eteq
-f
-g
-h
-i
 igat
 ii
 ii-i
@@ -310,8 +279,7 @@ it'gaq
 itegneq
 iter-
 itulek
-j
-k
+ka
 kaal'taaq
 kaaltaaq
 kaapaaq
@@ -403,13 +371,11 @@ kumlivik
 kuuliaq
 kuuselaq
 kuuvviaq
-l
 lagiq
 lumarrallertuyuli
 lumarraq
 luupiq
 luuskaaq
-m
 maani
 macaq
 maklak
@@ -442,12 +408,10 @@ multuuk
 muluk'uuq
 mulut'uuk
 mumigluni
-n
 naamelliin
 naaqsuun
 naken anellrusit?
 nalluaqa
-nallunrituq
 nanuaq
 nanvaq
 nas'ak
@@ -478,8 +442,6 @@ nunavut
 nuqaq
 nuussiq
 nuyaq
-o
-p
 paankaaq
 paankaq
 paatakaarngalnguq
@@ -535,7 +497,6 @@ puusar-
 puusuq
 puyurcivik
 puyurtaq
-q
 qaaq
 qagna
 qaillun ayuqsit?
@@ -587,8 +548,6 @@ qulngunritaraan tiissitsaaq
 qusertuunga
 quyana
 quyana caknek
-r
-s
 saarralaq
 saayuq
 sakaassiik
@@ -606,7 +565,6 @@ sitiinkaq
 suk
 sukunaq
 suulutaaq
-t
 taamaq
 talliman
 talliman ipiaq
@@ -641,7 +599,6 @@ tupugaq
 tuqu
 tuqumalria
 tuskaq
-u
 uataq
 ugna
 uil'kaq
@@ -670,16 +627,12 @@ unguvan
 unuamek
 up'nerkaq
 uss'utali
-v
-w
 wallu
 waqaa
 wataimarta?
 wiinga
 wiinga ...-augua
 wiinga atqa ...
-x
-y
 yaarcaq
 yaassiigek
 yaassiik
@@ -782,24 +735,6 @@ yuinaunritaraan
 yuk
 yuqerrvik
 yurartuq
-z
-Ó
-ó
-Ą
-ą
-Ć
-ć
-Ę
-ę
-Ł
-ł
-Ń
 ń
 ńg
-Ś
-ś
-Ź
-ź
-Ż
-ż
 ḿ

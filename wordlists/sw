@@ -1,4 +1,4 @@
-(nc 1/2) mhanga
+" |
 -
 - [edit]
 -a
@@ -48,6 +48,8 @@
 -a urujuani
 -a waridi
 -a zambarau
+-a-
+-a-1
 -a: the genitive particle
 -abudia
 -abudisha
@@ -167,6 +169,7 @@
 -chagulia
 -chaguliwa
 -chaguza
+-chaji
 -chakaa
 -changa
 -changia
@@ -198,6 +201,8 @@
 -chimbika
 -chipulia
 -chipuza
+-cho
+-cho-
 -chochea
 -chochelea
 -chocheleka
@@ -211,6 +216,7 @@
 -chomeka
 -chomwa
 -chorwa
+-chosha
 -chuana
 -chukiana
 -chukika
@@ -223,7 +229,7 @@
 -chukuliwa
 -chukuza
 -chumbisha
--chumbishwa ()
+-chumbishwa
 -chunguza
 -chunguzana
 -chunguzia
@@ -254,6 +260,7 @@
 -dumisha
 -dumu
 -dunga
+-e
 -ea
 -egamisha
 -egemeza
@@ -305,6 +312,7 @@
 -fahamika
 -fahamisha
 -fahamiwa
+-faidi
 -fanikiwa
 -fanya kazi
 -fanya mapenzi
@@ -314,6 +322,7 @@
 -fanyisha
 -fanyiza
 -fanywa
+-fariji
 -fasiri
 -fia
 -fichika
@@ -414,6 +423,9 @@
 -hiji
 -hitaji
 -hitajika
+-hitimia
+-hitimika
+-hitimisha
 -hofia
 -hofiana
 -hofisha
@@ -441,10 +453,11 @@
 -huzunia
 -huzunika
 -huzunisha
+-i
+-i-
 -ia
 -ibia
 -ibwa
--idhinisha
 -igia
 -igiza
 -imarika
@@ -457,9 +470,11 @@
 -ingiza
 -inuana
 -inuka
+-inukainuka
 -inulia
 -inuliwa
 -inuza
+-isha
 -ishi
 -ishia
 -isti
@@ -467,6 +482,7 @@
 -ivisha
 -ivu
 -ja-
+-ja-1
 -jadili
 -jadiliana
 -jadiliwa
@@ -516,6 +532,8 @@
 -juliwa
 -jumuisha
 -juza
+-ka-
+-ka-1
 -kaa kitako
 -kabiliana
 -kadiria
@@ -547,8 +565,9 @@
 -kasirikia
 -kasirisha
 -kasiriwa
--kata choo ()
+-kata choo
 -kata rufaa
+-kata simu
 -kata tamaa
 -katakata
 -katalia
@@ -569,7 +588,8 @@
 -kazwa
 -ke
 -ki-
--kimbilia ()
+-ki-1
+-kimbilia
 -kimbiliana
 -kimbiza
 -kinzana
@@ -579,15 +599,20 @@
 -kirisha
 -kiriwa
 -kisha-
+-ko
+-ko-
 -ko: indefinite place indicator
+-ko: verbal affix
 -kodisha
 -kodolea
 -kohoa
+-kojoa
 -komboa
 -kondesha
 -kopesha
 -kopesha riba
 -ku-
+-ku-1
 -kubalia
 -kubaliana
 -kubalika
@@ -615,10 +640,12 @@
 -kutwa
 -kuukuu
 -kuza
+-kw-
+-kw- in monosyllabic verbs
 -kwaruzana
 -kwepua
 -la
--la chumvi nyingi ()
+-la chumvi nyingi
 -lala
 -lala na
 -lalamika
@@ -664,7 +691,11 @@
 -lisha-
 -liwa
 -liza
+-lo
+-lo-
+-m-
 -maanisha
+-maliza
 -malizia
 -maliziana
 -malizika
@@ -674,8 +705,13 @@
 -mekwisha-
 -mesha-
 -mkalia mtu kitako
+-mo
+-mo-
 -mo: of a definite place indicator
+-mo: verbal affix
 -moja
+-mu-
+-mw-
 -mwagana
 -mwagia
 -mwagika
@@ -696,6 +732,7 @@
 -nge-
 -ngeli-
 -ni
+-ni-
 -nne
 -nonea
 -nuiwa
@@ -718,6 +755,8 @@
 -nyweka
 -nywesha
 -nywewa
+-o
+-o-
 -oa
 -oana
 -oga
@@ -731,7 +770,6 @@
 -okoleka
 -okolewa
 -olewa
--olewa ()
 -omboleza
 -onana
 -ondoana
@@ -771,6 +809,7 @@
 -ozeka
 -ozesha
 -ozwa
+-pa-
 -paka matope
 -paka rangi
 -pakua
@@ -797,7 +836,7 @@
 -papia
 -pasha
 -pasuka
--pasuliwa ()
+-pasuliwa
 -paswa
 -patana
 -patania
@@ -846,7 +885,7 @@
 -pigiana
 -pigisha
 -pigwa
--pigwa kalamu ()
+-pigwa kalamu
 -pikana
 -pikia
 -pikika
@@ -866,7 +905,10 @@
 -pitika
 -pitisha
 -pitiwa
+-po
+-po-
 -po: definite place indicator
+-po: verbal affix
 -pokeana
 -pokelea
 -pokeleana
@@ -876,6 +918,9 @@
 -pokezana
 -pondeka
 -pondwa
+-ponea
+-ponea chupuchupu
+-poneka
 -ponesha
 -ponwa
 -potana
@@ -966,6 +1011,7 @@
 -semekana
 -semesha
 -semwa
+-sha-
 -shangalia
 -shangaliwa
 -shangaza
@@ -1018,7 +1064,9 @@
 -shushika
 -shushwa
 -shuta
+-si-
 -si- -a dunia hii
+-si-1
 -si-onekana
 -sifu
 -sihia
@@ -1041,6 +1089,9 @@
 -simamisha
 -simamishwa
 -simikwa
+-singali-
+-singe-
+-sipo-
 -sitawi
 -sitisha
 -sitishwa
@@ -1064,6 +1115,7 @@
 -suluhishwa
 -sumbuliwa
 -ta-
+-tabawali
 -tafunana
 -tafunia
 -tafunika
@@ -1074,6 +1126,8 @@
 -tahiniwa
 -tahiri
 -tajirika
+-taka
+-taka-
 -takana
 -takia
 -takiana
@@ -1084,6 +1138,7 @@
 -talikiwa
 -tamanika
 -tamanisha
+-tambua
 -tambulisha
 -tamu sana
 -tandama
@@ -1169,6 +1224,7 @@
 -tosheka
 -toshwa
 -toza
+-tu-
 -tuhumia
 -tuhumika
 -tuhumiwa
@@ -1199,6 +1255,7 @@
 -tupisha
 -tupu
 -tupwa
+-u-
 -ua
 -uawa
 -udhika
@@ -1214,6 +1271,10 @@
 -umika
 -umiza
 -umwa
+-undia
+-undika
+-undisha
+-undwa
 -unga mkono
 -ungana
 -unganisha
@@ -1228,7 +1289,9 @@
 -valika
 -valisha
 -valiwa
+-vi-
 -vivu
+-vu
 -vuja damu
 -vuliwa
 -vumbika
@@ -1249,8 +1312,14 @@
 -vutia
 -vutiwa
 -vutwa
+-vyo
+-vyo-
+-wa-
 -wahiwa
+-wako
+-wamo
 -wania
+-wapo
 -washa
 -wazia
 -wekana
@@ -1270,9 +1339,14 @@
 -wezesha
 -wezwa
 -wili
+-ya-
+-ye
+-ye-
 -yeyukwa
 -yeyusha
 -yeyushwa
+-yo
+-yo-
 -z
 -zalia
 -zaliana
@@ -1280,6 +1354,8 @@
 -zaliwa
 -zamisha
 -zawa
+-zi
+-zi-
 -zibua
 -zidi
 -zikwa
@@ -1291,6 +1367,8 @@
 -zindika
 -zindua
 -zito
+-zo
+-zo-
 -zoeana
 -zoeleka
 -zoelewa
@@ -1310,6 +1388,7 @@
 -zungumzwa
 -zuri
 -zushia
+1 Can take stress and therefore does not require -ku-
 ASEAN
 Abdullah
 Abidjan
@@ -1352,7 +1431,7 @@ Amerika ya Kusini [edit]
 Amosi
 Amri Kumi
 Andorra
-Andromeda class n/n
+Andromeda
 Angola
 Antaktika
 Antaktika Antaktiki
@@ -1372,6 +1451,7 @@ Artemi
 Arusha
 Asadi
 Asia
+Asia ya Kati
 Asia ya Kusini
 Asia ya Kusini-Mashariki
 Asia ya Magharibi
@@ -1386,6 +1466,8 @@ Ayubu
 Azerbaijan
 A̱kpat
 BAKITA
+BK
+BK (baada ya Kristo)
 Baba
 Baba yetu
 Bahama
@@ -1403,6 +1485,7 @@ Baku
 Bama
 Bangladesh
 Bara Hindi
+Baraza la Afya Duniani
 Barbados
 Basse-Terre
 Bata Bukini wa Misri
@@ -1419,7 +1502,8 @@ Bi.
 Bibi Majivu
 Biblia
 Bikari
-Bikira Maria wa Mateso class
+Bikira Maria wa Mateso
+Bishkek
 Blanchi
 Bolivia
 Bonaventura
@@ -1454,6 +1538,7 @@ Cheko-Slovakia
 Chekoslovakia
 Chile
 China
+Consecutive
 Cote d'Ivoire
 Cote d'Ivoire or Kodivaa
 Cuba
@@ -1498,6 +1583,7 @@ Ekaristi
 El Salvador
 Elisi
 Eliud
+Eris
 Eritrea
 Erosi
 Esta
@@ -1514,12 +1600,18 @@ Fatuma
 Februari
 Fiji
 Filemoni
+Flygande Fästningen
+For a full table
+For a full table including first and second person
+For a full table including other classes
 Frati
 Furati
+Future
 Gabon
 Gaboni
 Gambia
 Gaza
+General
 Genova
 Ghana
 Ghuba ya Bungala
@@ -1531,6 +1623,7 @@ Gine
 Ginebisau
 Ginekweta
 Gini
+Gnomic
 Go
 Grenada
 Grinlandi
@@ -1538,8 +1631,6 @@ Guatemala
 Guinea
 Guinea Bisau
 Guinea Bisau or Guinea-Bisau or Ginebisau
-Guinea Ecuatorial
-Guinea Española
 Guinea Mpya
 Guinea or Gine or Gini
 Guinea ya Ikweta
@@ -1550,6 +1641,7 @@ Habakuki
 Habari Njema
 Habarovsk Krai
 Habeshi
+Habitual
 Hade
 Hadesi
 Hadubini
@@ -1611,7 +1703,7 @@ Jamhuri ya Afrika ya Kati
 Jamhuri ya Austria
 Jamhuri ya Dominika
 Jamhuri ya Ireland
-Jamhuri ya Italia class
+Jamhuri ya Italia
 Jamhuri ya Kenya
 Jamhuri ya Kidemokrasia ya Kijerumani
 Jamhuri ya Kidemokrasia ya Kongo
@@ -1650,6 +1742,8 @@ Jumuiya ya Nchi Huru
 Juni
 Juno
 Jupita
+KK
+KK (kabla ya Kristo)
 Kaa
 Kaaba
 Kaburu
@@ -1730,6 +1824,7 @@ Kieskimo
 Kiesperanto
 Kifaransa
 Kifausi
+Kifilipino
 Kifini
 Kifinishi
 Kigaboni
@@ -2181,7 +2276,7 @@ Mshtarii
 Msieraleoni
 Msilimu
 Msiria
-Msitu Mweusi class m/mi
+Msitu Mweusi
 Mskandinavi
 Mskoti
 Mslovaki
@@ -2224,7 +2319,6 @@ Murihi
 Musa
 Muungano wa Madola ya Amerika
 Muungano wa Sovieti
-Muungano wa Sovieti class m/mi
 Muungano wa Ulaya
 Muungu
 Muza
@@ -2289,6 +2383,14 @@ Natalia
 Nauru
 Ndege wa Peponi
 Ndoo
+Negative
+Negative future
+Negative infinitive
+Negative past
+Negative past conditional
+Negative present
+Negative present conditional
+Negative subjunctive
 Nehemia
 Neno la Mungu
 Nepal
@@ -2343,12 +2445,14 @@ Paragwai
 Paris
 Pasaka
 Pasifiki
+Past
 Patasi
 Paulo
 Pembemoja Asiyeonekana wa Pinki
 Pembemraba
 Pembetatu
 Pembetatu ya Kusini
+Perfect
 Peruu
 Petro
 Petro 1
@@ -2360,13 +2464,23 @@ Polandi
 Polaris
 Polotsk
 Poseidoni
+Positive future
+Positive infinitive
+Positive past
+Positive past conditional
+Positive present
+Positive present conditional
+Positive subjunctive
+Present
 Pretoria
+Prometheus
 Puebla
 Qatar
 Rajabu
 Rakisi
 Ramadhani
 Rashidi
+Rasi ya Italia
 Rasi ya Tumaini Jema
 Rea
 Rehema
@@ -2402,6 +2516,7 @@ Sarateni
 Saskwachi
 Saudi Arabia
 Saudia
+Second person plural
 Sefania
 Senegal
 Senegal or Senegali
@@ -2418,10 +2533,13 @@ Shelisheli
 Sheng
 Shetani
 Shetri
+Shirika la Afya Duniani
 Shirikisho la Afrika Mashariki
 Shirikisho la Jamhuri ya Brazil
 Shirikisho la Jamhuri ya Kisovyiet ya Kijamii ya Kirusi
 Shirikisho la Mataifa
+Shirikisho la Mpira Duniani
+Shirikisho la Soka Duniani
 Shota
 Shuja
 Siera Leoni
@@ -2467,6 +2585,7 @@ Tausi
 Tbilisi
 Tchaikovsky
 Tehran
+Telegrammic
 Thai
 Thailand
 Thauri
@@ -2494,7 +2613,6 @@ Turukimenistani
 Tuvalu
 Twiga
 U-
-U- class 11/14
 UKIMWI
 Uajemi
 Uarabuni
@@ -2522,6 +2640,7 @@ Ugiriki
 Uhabeshi
 Uhindi
 Uhindu
+Uhispania
 Uholanzi
 Uingereza
 Uislamu
@@ -2543,7 +2662,7 @@ Ukraini
 Ukristo
 Ukuta Mkubwa wa China
 Ukuta wa China
-Ukuta wa Maombolezo class
+Ukuta wa Maombolezo
 Ulaya
 Ulaya Uropa
 Ulaya or Uropa
@@ -2793,6 +2912,7 @@ Zuhali
 Zuhura
 ZuhuraNg'andu
 a
+a-
 abadani
 abiri
 abiria
@@ -2840,6 +2960,7 @@ afisa wa usalama
 afisi
 afya
 afya ya akili
+afya ya uzazi
 afyuni
 aga
 agano
@@ -2883,6 +3004,7 @@ ajizi
 akademia
 akaenda
 akaonekana
+akatistos
 akaunti
 akaunti ya benki
 akaunti za benki
@@ -2893,6 +3015,8 @@ akida
 akidi
 akiki
 akili
+akili bandia
+akili mnemba
 akiolojia
 akionyesha
 akisema
@@ -3060,7 +3184,6 @@ andikisha
 andikishwa
 andikiza
 andiko
-andiko class
 andikwa
 anemia
 anga
@@ -3174,6 +3297,7 @@ awamu
 awasili
 awe
 aya
+ayali
 ayari
 azima
 azimio
@@ -3266,6 +3390,7 @@ bandu
 bangi
 bangili
 bangiri
+bango
 baniani
 banjo
 banyani
@@ -3321,7 +3446,6 @@ bebwa
 bechi
 bedeni
 bega
-bega class
 begi
 behewa
 bei
@@ -3366,11 +3490,9 @@ bila
 bilauri
 bili
 bilingani
-bilingani ()
 bilionea
 bilioni
 bima
-bima class 9/c10
 bimbashi
 bin
 binaadamu
@@ -3383,6 +3505,7 @@ binda
 bingwa
 binti
 binti mfalme
+binuru
 biokemia
 biolojia
 birika
@@ -3435,12 +3558,14 @@ boti
 bovu
 boya
 bozu
+bradha
 brashi
 breki
 brigedi
 brigedia
 brokoli
 bromini
+bruda
 buba
 bubu
 bubujiko
@@ -3450,6 +3575,8 @@ bughudha
 bughudhi
 bui
 buibui
+buku
+bukua
 buldoza
 buluu
 buluuberi
@@ -3461,6 +3588,7 @@ buni
 bunifu
 bunilizi
 bunju
+buraa
 burashi
 bure
 buriani
@@ -3492,6 +3620,7 @@ bweni
 cactus
 ch-
 cha
+cha-
 chaa
 chacha
 chache
@@ -3511,6 +3640,7 @@ chai
 chai kavu
 chai ya maziwa
 chai ya rangi
+chaja
 chaji
 chaji ya umeme
 chajio
@@ -3526,6 +3656,8 @@ chakula cha haraka
 chakula cha kichina
 chakula cha kununua
 chama
+chama cha kisiasa
+chamba
 chambo
 chambua
 championi
@@ -3586,6 +3718,7 @@ chemichemi
 chemka
 chemsha
 chemsha bongo
+chemshabongo
 chemshwa
 chenga
 chengine
@@ -3671,7 +3804,6 @@ chubua
 chubuko
 chubwi
 chuchu
-chuchu class
 chuchumaa
 chuchungi
 chui
@@ -3702,7 +3834,6 @@ chumbia
 chumbisha
 chumbishwa
 chumvi
-chumvi class
 chuna
 chunga
 chungi
@@ -3715,6 +3846,7 @@ chuo cha Zaburi
 chuo kikuu
 chuoni
 chupa
+chupa ombwe
 chupi
 chura
 chusa
@@ -3741,6 +3873,8 @@ dakiza
 daktari
 daktari wa meno
 daktari wa mifugo
+daktari wa wanyama
+daku
 dakua
 daladala
 dalali
@@ -3759,6 +3893,7 @@ dangro
 danguro
 dansi
 dara
+daraba
 daraja
 daraka
 darana
@@ -3773,20 +3908,25 @@ dasturi
 data
 dau
 dawa
+dawa ya kufubaza virusi
+dawa ya kupanga uzazi
 dawa ya mapenzi
 dawa ya meno
 dawa ya mswaki
+dawa ya sindano
 dawa ya viatu
 dawa ya wadudu
-dawa ya wadudu class n/n
+dawa za kufubaza virusi
+dawa za kupanga uzazi
 dawa za mapenzi
+dawa za sindano
+dawamu
 dawati
 dayosisi
 dazani
 dazeni
 debe
 debwedebwe
-definite place indicator
 dege
 degedege
 deki
@@ -3818,6 +3958,7 @@ dhamira
 dhamiri
 dhamiria
 dhana
+dhana potofu
 dhani
 dhania
 dhara
@@ -3830,12 +3971,12 @@ dhibiti
 dhibitiwa
 dhidi
 dhidi ya
+dhihaka
 dhihirisha
 dhii
 dhiki
 dhikiri
 dhima
-dhini
 dhiraa
 dhoofisha
 dhoofu
@@ -3882,7 +4023,6 @@ diya
 dizeli
 doa
 dobi
-dobi class
 doda
 dodo
 dodoso
@@ -3924,7 +4064,6 @@ duka la manunuzi
 duka la vitabu
 dukua
 dukuduku
-dukuduku class
 dukuliwa
 duma
 dume
@@ -3983,6 +4122,7 @@ elimisha
 elimu
 elimu ya rubani
 elimumime
+elimunafsia
 elimuviumbe
 elki
 ema
@@ -3996,6 +4136,7 @@ endapo
 endea
 endelea
 endeleleka
+endelevu
 endeleza
 endesha
 endeshana
@@ -4065,7 +4206,6 @@ falsafa
 faluda
 famasia
 familia
-familia class
 familia ya farasi
 familia ya kiboko
 familia ya mbwa
@@ -4075,6 +4215,7 @@ familia ya pomboo
 familia ya pomboo mdogo
 familia ya tembo
 familia ya twiga
+fanaka
 fanana
 fani
 fanicha
@@ -4096,6 +4237,7 @@ fara
 faragha
 faraja
 farakano
+farangi
 farao
 farasi
 farasi-pembemoja
@@ -4118,7 +4260,7 @@ faulu
 februari
 fedha
 fedheha
-feijoa class n/n
+feijoa
 feki
 feleji
 feli
@@ -4130,11 +4272,13 @@ feruzi
 fia
 ficha
 fichika
+ficho
 fichua
 fichuliwa
 fichwa
 fidia
 fidla
+figa
 figili
 figo
 fika
@@ -4158,6 +4302,7 @@ finyanga
 finyu
 fira
 firauni
+firigisi
 firimbi
 fisha
 fisi
@@ -4233,6 +4378,7 @@ funga safari
 fungamana
 fungamano
 fungana
+fungate
 fungia
 fungika
 fungisha
@@ -4305,6 +4451,8 @@ gani
 ganja
 gari
 gari la moshi
+gari la sola
+gari la umeme
 gari moshi
 garimoshi
 gasketi
@@ -4380,6 +4528,7 @@ golikipa
 goma
 gomba
 gombea
+gome
 gonga
 gongagonga
 gongana
@@ -4417,6 +4566,7 @@ gusa
 gusana
 gushu
 guu
+ha-
 haba
 haba na haba hujaza kibaba
 habari
@@ -4444,16 +4594,17 @@ hafifu
 hafla
 hahitaji
 hai
+hai-
 haiba
 haidrojeni
 haina
 haini
 haja
-haja class
 haji
 hajibu
 haki
 haki za kibinadamu
+haki-
 hakika
 hakiki
 hakikisha
@@ -4463,6 +4614,7 @@ hakimu
 hakimu mkazi
 hakimu mkuu
 hakimu mwandamizi
+haku-
 hakuna
 hakuna kuvuta sigara
 hakuna matata
@@ -4470,18 +4622,21 @@ hakuzaa
 halafu
 halaiki
 halali
+halalisha
 hali
-hali ya class n/n
+hali ya
 hali ya hewa
 hali ya kutokufa
 hali ya kutoonekana
+hali-
 halifu
 halijoto
 halisi
 halmashauri
+ham-
 hama
+hamaki
 hamali
-hamali class
 hamamu
 hamasa
 hamasisha
@@ -4517,6 +4672,8 @@ hamsomi
 hamstashara
 hamtazaliwa
 hamu
+hamu-
+hamw-
 hana
 hanali
 handaki
@@ -4526,6 +4683,7 @@ hanywi
 hanziri
 hao
 hapa
+hapa-
 hapana
 hapendi
 hapo
@@ -4558,6 +4716,7 @@ hasada
 hasara
 hasha
 hashishi
+hasi
 hasimu
 hasira
 hasira ya mkizi furaha ya mvuvi
@@ -4575,6 +4734,7 @@ hati za kusafiria
 hatia
 hatima
 hatimaye
+hatu-
 hatua
 hatuandiki
 hatuendelei
@@ -4589,8 +4749,11 @@ hatuna
 hatupendi
 hatutaandika
 hatutazaliwa
+hau-
 hauna
+havi-
 hawa
+hawa-
 hawaandiki
 hawafu
 hawaji
@@ -4602,9 +4765,12 @@ hawara
 hawasomi
 hawatazaliwa
 haya
+haya-
 hayati
 hayawani
 hayo
+hayu-
+hazi-
 hazina
 heba
 hebu
@@ -4622,6 +4788,7 @@ helmeti
 hema
 hemoglobini
 hemu
+hepa
 hereni
 heri
 heri ya Krismasi
@@ -4669,6 +4836,8 @@ historia ya matibabu
 hitaji
 hitajika
 hitilafu
+hitimisha
+hitimisho
 hitimu
 hivi
 hivyo
@@ -4707,11 +4876,13 @@ hoteli
 hotelini
 hotuba
 hu-
+hu-1
 hua
 huadhibu
 huba
 hubiri
 hudhuria
+hudhurio
 hudhurungi
 hudihudi
 huduma
@@ -4734,6 +4905,7 @@ hukumu
 hulali
 humo
 humu
+humusi
 huna
 hundi
 huo
@@ -4764,6 +4936,7 @@ huzuni
 huzunia
 huzunika
 huzunisha
+i-
 iba
 ibada
 ibia
@@ -4812,7 +4985,6 @@ inama
 inatisha
 inaweza
 inchi
-indefinite place indicator
 ingawa
 ingekuwa
 ingereza
@@ -4827,10 +4999,10 @@ injili
 injini
 injinia
 insha
-insha class
 inspekta
 insulini
 intaneti
+inteneti
 inua
 inuana
 inuka
@@ -4870,7 +5042,6 @@ istiwai
 ita
 italiki
 itifaki
-itifaki class
 itikadi
 itwa
 iva
@@ -4969,7 +5140,6 @@ jeupe
 jeuri
 jeusi
 jezi
-ji
 ji-
 jia
 jibia
@@ -4979,6 +5149,7 @@ jibisha
 jibiwa
 jibu
 jicho
+jicho kwa jicho
 jidai
 jifu
 jihadi
@@ -5083,6 +5254,7 @@ juzi
 juzijuzi
 ka
 ka-
+ka-1
 kaa
 kaakaa
 kaanga
@@ -5098,6 +5270,7 @@ kabiliana
 kabisa
 kabla
 kabla ya
+kabla ya Kristo
 kaboni
 kaboni dioksidi
 kabula
@@ -5168,6 +5341,7 @@ kalkedoni
 kalkon
 kalunguyeye
 kama
+kama ifuatavyo
 kamanda
 kamari
 kamasi
@@ -5200,15 +5374,16 @@ kanda
 kandamiza
 kandanda
 kandarasi
+kandili
 kando
 kanga
 kanganya
 kangara
 kangaruu
 kani
+kanieneo angahewa
 kaniki
 kanisa
-kanisa class
 kanji
 kanju
 kanoni
@@ -5245,7 +5420,6 @@ karamu
 karanga
 karani
 karantini
-karantini class n/n
 karata
 karata ya kucheza
 karata za kucheza
@@ -5266,7 +5440,6 @@ kariri
 karkomu
 karmeli
 karne
-karne class
 karo
 karoti
 kasa
@@ -5302,7 +5475,9 @@ kasuku
 kaswende
 kata
 kata maini
+kata ndogo
 kata rufaa
+kata simu
 kata tamaa
 kataa
 katakata
@@ -5410,7 +5585,7 @@ kiangazamacho
 kiangazi
 kiapo
 kiarabu
-kiarabu cha Misri class ki/vi
+kiarabu cha Misri
 kiarusi
 kiasi
 kiasili
@@ -5427,7 +5602,7 @@ kibago
 kibaka
 kibakuli cha choo
 kibali
-kibambo class ki/vi
+kibambo
 kibanda
 kibanizi
 kibao
@@ -5448,6 +5623,7 @@ kibiriti ngoma
 kibla
 kibodi
 kibofu
+kibogoyo
 kiboko
 kibonzo
 kiburi
@@ -5467,6 +5643,7 @@ kicheko
 kicheshi
 kichimbakazi
 kicho
+kichocho
 kichochoro
 kichokonoo
 kichomi
@@ -5530,6 +5707,7 @@ kifundo cha mguu
 kifungo
 kifungu
 kifungua kinywa
+kifungua mimba
 kifuniko
 kifunze
 kifupi
@@ -5537,6 +5715,7 @@ kifurushi
 kifusi
 kifutio
 kifyonzavumbi
+kigae
 kigaidi
 kiganja
 kigasha
@@ -5544,7 +5723,6 @@ kigeni
 kigeugeu
 kigeuzi
 kigezo
-kigezo class ki/vi
 kigingi
 kigoda
 kigoma
@@ -5574,7 +5752,7 @@ kijani
 kijasumu
 kijeba
 kijerumani
-kijibwanyika class ki/vi
+kijibwanyika
 kijiji
 kijijini
 kijiko
@@ -5644,6 +5822,7 @@ kilo
 kiloaka
 kilometa
 kilomita
+kiluwiluwi
 kima
 kimacho
 kimaji
@@ -5661,6 +5840,7 @@ kimbunga
 kimelea
 kimemeshi
 kimeng'enya
+kimeta
 kimetameta
 kimeza
 kimo
@@ -5680,6 +5860,7 @@ kinasa
 kinasa sauti
 kinasaba
 kinasasauti
+kinda
 kinembe
 king'ora
 kinga
@@ -5700,6 +5881,7 @@ kinyago
 kinyama
 kinyamadege
 kinyegere
+kinyemere
 kinyesi
 kinyezi
 kinyonga
@@ -5784,6 +5966,7 @@ kirutubisho
 kisa
 kisaa
 kisahani
+kisalisali
 kisamvu
 kisanduku
 kisasa
@@ -5802,6 +5985,7 @@ kisifa
 kisigino
 kisiki
 kisima
+kisimi
 kisingizio
 kisirani
 kisiwa
@@ -5815,12 +5999,14 @@ kisutu
 kita
 kitabu
 kitabu cha kiada
+kitabu cha ramani
 kitafunio
 kitaifa
 kitakataka
 kitako
 kitamba
 kitambaa
+kitambi
 kitambo
 kitambulisho
 kitana
@@ -5867,6 +6053,7 @@ kitunguu saumu
 kituo
 kituo cha basi
 kituo cha mafuta
+kituo cha metorolojia
 kituo cha petroli
 kituo cha polisi
 kiuavijasumu
@@ -5880,6 +6067,7 @@ kiungo
 kiuno
 kiunzi
 kiunzi cha mifupa
+kiunzi cha mifupa class 12/13
 kivimbe
 kiviza
 kivuko
@@ -5952,6 +6140,7 @@ kofia ya chuma
 kohoa
 kohozi
 koikoi
+kojoa
 kokeni
 koko
 kokota
@@ -6188,6 +6377,7 @@ kubonyeza
 kubopa
 kuboresha
 kubughudhi
+kubukua
 kubuni
 kuburuta
 kubusiana
@@ -6311,7 +6501,6 @@ kudhibitiwa
 kudhihirisha
 kudhii
 kudhikiri
-kudhini
 kudhoofisha
 kudhoofu
 kudhuku
@@ -6497,9 +6686,11 @@ kuhadithia
 kuhaini
 kuhakiki
 kuhakikisha
+kuhalalisha
 kuhalifu
 kuhalisi
 kuhama
+kuhamaki
 kuhamasisha
 kuhamia
 kuhamisha
@@ -6512,9 +6703,11 @@ kuharibiwa
 kuharibu
 kuharimu
 kuhariri
+kuhasi
 kuhasimu
 kuhasiri
 kuhatarisha
+kuhepa
 kuhesabu
 kuheshimu
 kuhidi
@@ -6525,6 +6718,7 @@ kuhimiza
 kuhitaji
 kuhitajika
 kuhitilafu
+kuhitimisha
 kuhitimu
 kuhofu
 kuhoji
@@ -6703,7 +6897,6 @@ kukesha
 kuketi
 kukhitalifiana
 kuki
-kukilio
 kukimbia
 kukimbilia
 kukimbiliana
@@ -6721,6 +6914,7 @@ kukodisha
 kukodoa
 kukodolea
 kukohoa
+kukojoa
 kukokota
 kukokotoa
 kukoma
@@ -6918,6 +7112,7 @@ kuni
 kunia
 kunipa
 kunja
+kunja sura
 kunjufu
 kunoa
 kunradhi
@@ -7034,6 +7229,7 @@ kupandana
 kupandia
 kupandika
 kupandisha
+kupandisha cheo
 kupandwa
 kupanga
 kupangana
@@ -7152,7 +7348,11 @@ kupokeza
 kupokezana
 kupona
 kuponda
+kuponea
+kuponeka
+kuponesha
 kupongeza
+kuponwa
 kuponya
 kuponyoka
 kupooza
@@ -7254,6 +7454,7 @@ kusali
 kusalia
 kusalimia
 kusalimiana
+kusalimika
 kusalimu
 kusalisha
 kusaliti
@@ -7398,6 +7599,7 @@ kustahamili
 kustahili
 kustahimili
 kustakabadhi
+kustarehe
 kusubiri
 kusubu
 kusudi
@@ -7415,6 +7617,7 @@ kusumbuliwa
 kususia
 kuta
 kutabasamu
+kutabawali
 kutabiri
 kutafakari
 kutafiti
@@ -7467,6 +7670,7 @@ kutaradhia
 kutarajia
 kutasa
 kutata
+kutatanisha
 kutathmini
 kutatiza
 kutatua
@@ -7561,6 +7765,7 @@ kutosha
 kutoshea
 kutoweka
 kutoza
+kutu
 kutua
 kutubu
 kutuhumia
@@ -7602,6 +7807,8 @@ kutusi
 kutwa
 kutwaa
 kutweka matanga
+kutweta
+kutweza
 kuu
 kuua
 kuuaga
@@ -7619,6 +7826,10 @@ kuumika
 kuumiza
 kuumwa
 kuunda
+kuundia
+kuundika
+kuundisha
+kuundwa
 kuunga
 kuungana
 kuunganisha
@@ -7762,6 +7973,7 @@ kuzurura
 kuzusha
 kuzushia
 kw-
+kw-1
 kwa
 kwa ajili
 kwa ajili ya
@@ -7779,6 +7991,7 @@ kwa sababu ya
 kwa shingo upande
 kwa ufupi
 kwa vile
+kwa-
 kwadrilioni
 kwaheri
 kwaherini
@@ -7826,7 +8039,9 @@ kwokwote
 kwote
 la
 la chumvi nyingi
+la hasha
 la jasho
+la-
 laana
 laani
 labda
@@ -7834,6 +8049,8 @@ lablabu
 labuda
 ladha
 laghai
+laha
+laha mtindo
 lahaja
 laini
 laiti
@@ -7844,6 +8061,7 @@ laki
 lakini
 lako
 lala
+lala chini
 lala salama
 lalama
 lalamika
@@ -7899,6 +8117,8 @@ letu
 letwa
 levya
 lewa
+li
+li-
 lia
 liana
 licha
@@ -8005,7 +8225,6 @@ maandalizi
 maandamano
 maandazi
 maandiko
-maandiko class
 maandishi
 maangalizi
 maanguko
@@ -8032,6 +8251,7 @@ mabanati
 mabanda
 mabandari
 mabandu
+mabango
 mabao
 mabara
 mabasi
@@ -8078,9 +8298,12 @@ mabondia
 mabongo
 maboriti
 maboya
+mabradha
 mabrigedia
+mabruda
 mabubu
 mabubujiko
+mabuku
 mabunge
 mabusu
 mabuti
@@ -8125,6 +8348,7 @@ madai
 madaktari
 madaktari wa meno
 madaktari wa mifugo
+madaktari wa wanyama
 madalali
 madangro
 madanguro
@@ -8168,6 +8392,7 @@ madrasa
 madreva
 madubu
 madudu
+maduhuli
 maduka
 maduka ya vitabu
 madukuduku
@@ -8192,9 +8417,12 @@ mafara
 mafarakano
 mafarao
 mafenesi
+maficho
+mafiga
 mafigo
 mafikira
 mafikra
+mafirauni
 mafua
 mafukara
 mafuko
@@ -8221,6 +8449,8 @@ maganda
 magari
 magari moshi
 magari ya moshi
+magari ya sola
+magari ya umeme
 magarimoshi
 magauni
 magawo
@@ -8234,6 +8464,7 @@ magezo
 maghala
 magharibi
 magharika
+maghorofa
 maghulamu
 magimba
 magizo
@@ -8246,6 +8477,7 @@ magogo
 magoli
 magolikipa
 magoma
+magome
 magomvi
 magongo
 magonjwa
@@ -8269,10 +8501,10 @@ mahadhi
 mahafali
 mahaji
 mahakama
-mahakama class
 mahakama kuu
 mahakimu
 mahakimu wakuu
+mahakma
 mahala
 mahali
 mahamali
@@ -8292,16 +8524,18 @@ mahasimu
 mahekalu
 mahema
 mahindi
-mahindi ()
 mahiri
 mahitaji
+mahitimisho
 mahkama
 mahojiano
 mahori
 mahospitali
 mahoteli
+mahsusi
 mahubiri
 mahuru
+mahususi
 maige
 maigizo
 maili
@@ -8337,6 +8571,7 @@ majani makavu
 majaribio
 majarida
 majasusi
+majawabu
 majedwali
 majembe
 majenerali
@@ -8433,6 +8668,7 @@ makapera
 makapteni
 makapu
 makaputi
+makarai
 makarani
 makardinali
 makasha
@@ -8451,6 +8687,7 @@ makelele
 makende
 maki
 makimbilio
+makinda
 makini
 makipa
 makobe
@@ -8519,6 +8756,7 @@ malimbikizo
 malimwengu
 malindi
 malipo
+maliwali
 maliza
 malizia
 maliziana
@@ -8592,6 +8830,7 @@ manukato
 manyake
 manyasi
 manyika
+manyota
 manyoya
 manyunyu
 maofisa
@@ -8628,6 +8867,7 @@ mapendekezo
 mapendo
 mapeni
 mapenzi
+mapenzi ya jinsia moja
 mapepo
 mapera
 mapesa
@@ -8665,10 +8905,8 @@ mapya
 mara
 mara kwa mara
 mara moja
-mara moja class 11/14
 mara nyingi
 maradhi
-maradhi class
 maradhi ya zinaa
 maradufu
 marafiki
@@ -8689,7 +8927,6 @@ marhamu
 maridadi
 maridhiano
 marijani
-marijani class
 marika
 marimba
 marimba ya kizungu
@@ -8697,6 +8934,7 @@ marinda
 marisaa
 marubani
 marudio
+maruerue
 marufuku
 marukwama
 marumaru
@@ -8765,6 +9003,7 @@ mashua
 mashuhuri
 mashujaa
 mashuka
+mashuke
 mashumbulele
 mashumburere
 mashuti
@@ -8779,6 +9018,7 @@ masiwa
 masizi
 maskani
 maskini
+maslahi
 masoko
 masoko ya nje
 masoko ya nyumbani
@@ -8795,6 +9035,7 @@ masuko
 masultani
 masuluhisho
 masuria
+masurufu
 masurupwenye
 maswali
 matabaka
@@ -8820,6 +9061,7 @@ matapo
 matarajio
 matarumbeta
 matata
+matatanisho
 matatizo
 matatu
 matawi
@@ -8917,7 +9159,6 @@ mazimwi
 mazingaombwe
 mazingara
 mazingira
-mazingira class
 mazishi
 maziwa
 maziwa ya mgando
@@ -8934,6 +9175,7 @@ mbabe
 mbadala
 mbahili
 mbakaji
+mbalamwezi
 mbali
 mbalimbali
 mbalungi
@@ -8941,6 +9183,7 @@ mbamia
 mbangi
 mbano
 mbao
+mbao nyeupe
 mbarapi
 mbashiri
 mbata
@@ -8997,6 +9240,7 @@ mbunge
 mbungu
 mbuni
 mbuni wikamusi
+mbunifu
 mbura
 mburudishaji
 mbuyu
@@ -9021,6 +9265,8 @@ mchana
 mchanga
 mchanganuo
 mchanganyiko
+mchangiaji
+mchangiaji damu
 mchango
 mchanyato
 mchapaji
@@ -9039,6 +9285,7 @@ mcheshi
 mchezaji
 mchezo
 mchezo wa video
+mchi
 mchicha
 mchikichi
 mchimbaji
@@ -9054,8 +9301,8 @@ mchoyo
 mchuano
 mchukuzi
 mchumba
-mchumba ()
 mchumbururu
+mchumi
 mchungaji
 mchunguzi
 mchungwa
@@ -9079,7 +9326,6 @@ mdimu
 mdodoki
 mdogo
 mdomo
-mdomo class m/mi
 mdudu
 mdukuzi
 mdundiko
@@ -9133,7 +9379,6 @@ mfanyibiashara
 mfanyikazi
 mfariji
 mfasiri
-mfasiri (nc 1/2)
 mfaume
 mfeministi
 mfenesi
@@ -9150,13 +9395,13 @@ mfuasi
 mfugaji
 mfugo
 mfuko
-mfuko class m/mi
 mfululizo
 mfumbi
-mfumbua (nc 1/2)
+mfumbua
 mfumko
 mfumko wa bei
 mfumo
+mfumo radidia
 mfumo wa jua
 mfumo wa kinga
 mfumuko
@@ -9195,6 +9440,7 @@ mgono
 mgu
 mgulabi
 mgumu
+mgunduzi
 mgusano
 mguu
 mgwizi
@@ -9214,9 +9460,9 @@ mhazeli
 mhazigi
 mhazili
 mhenga
-mhenga class m/wa
 mheshimiwa
 mhindi
+mhisani
 mhitimu
 mhoji
 mhojiwa
@@ -9265,6 +9511,7 @@ miche ya sabuni
 micheduara
 michele
 michezo
+michi
 michikichi
 michoro
 michuano
@@ -9403,6 +9650,7 @@ milio
 milionea
 milioni
 milipuko
+milisho
 milki
 milo
 milolongo
@@ -9456,6 +9704,9 @@ miraba
 miradi
 mirathi
 mirefu
+mirengo
+mirengo ya kulia
+mirengo ya kushoto
 mirija
 miripuko
 miruba
@@ -9520,6 +9771,7 @@ mitama
 mitambo
 mitandao
 mitandao ya kijamii
+mitandio
 mitangawizi
 mitano
 mitaro
@@ -9534,6 +9786,7 @@ mithili
 mitholojia
 miti
 mitihani
+mitihani ya mwigo
 mitikiti
 mitima
 mitindi
@@ -9568,6 +9821,7 @@ mivuke
 mivule
 mivumo
 mivungu
+mivutano
 miwa
 miwani
 miwani ya jua
@@ -9590,6 +9844,7 @@ mizio
 mizizi
 mizoga
 mizozo
+mizuka
 mizunguko
 mizuri
 mja
@@ -9624,7 +9879,6 @@ mkabidhi
 mkafungishwa
 mkaguzi
 mkahawa
-mkahawa class m/mi
 mkaidi
 mkakati
 mkale
@@ -9709,11 +9963,13 @@ mkunga
 mkungu
 mkungumanga
 mkunjo
+mkurufunzi
 mkurugenzi
 mkusanya
 mkusanyiko
 mkusanyo
 mkutano
+mkutubi
 mkuu
 mkuyati
 mkuyu
@@ -9755,6 +10011,7 @@ mlima wa Mizeituni
 mlimaji
 mlimau
 mlimwengu
+mlinda lango
 mlindaji
 mlinganyo
 mlingoti
@@ -9762,7 +10019,9 @@ mlinzi
 mlio
 mlipuko
 mlisha
+mlisho
 mlizaliwa
+mlizi
 mlo
 mlolongo
 mlongo
@@ -9776,6 +10035,7 @@ mmenyuko
 mmiliki
 mmishionari
 mmisionari
+mmo
 mmoja
 mmojawapo
 mmomonyoko
@@ -9788,6 +10048,7 @@ mnada
 mnaenda
 mnaendesha
 mnafanya
+mnafiki
 mnafu
 mnafuga
 mnafunga
@@ -9921,7 +10182,6 @@ mpira
 mpira wa kikapu
 mpira wa meza
 mpira wa miguu
-mpira wa miguu class 4/none
 mpira wa pete
 mpira wa wavu
 mpishi
@@ -9946,6 +10206,9 @@ mrasimu
 mrefu
 mrehani
 mrembo
+mrengo
+mrengo wa kulia
+mrengo wa kushoto
 mreteni
 mrija
 mripuko
@@ -10009,6 +10272,8 @@ mshikaji
 mshikaki
 mshikamano
 mshikano
+mshikiliaji
+mshikiliaji wa rekodi
 mshindani
 mshindi
 mshindwa
@@ -10058,6 +10323,7 @@ msongamano
 msonobari
 msoto
 msprusi
+mstaafu
 mstafeli
 mstari
 mstatili
@@ -10096,14 +10362,13 @@ mtalaka
 mtalii
 mtama
 mtambo
-mtambo,
 mtandao
 mtandao wa kijamii
+mtandio
 mtangawizi
 mtangazaji
 mtangulizi
 mtapta
-mtapta (nc 1/2)
 mtarijumani
 mtaro
 mtawala
@@ -10113,6 +10378,8 @@ mtazamo
 mtego
 mteja
 mtekelezaji
+mtelezaji
+mtembeleaji
 mtembeza
 mtendaji
 mtende
@@ -10129,6 +10396,7 @@ mti
 mti safi
 mti wa matunda
 mtihani
+mtihani wa mwigo
 mtikiti
 mtima
 mtindi
@@ -10179,6 +10447,10 @@ mtunda bukini mweupe
 mtunda bukini mweusi
 mtungaji
 mtungi
+mtunza
+mtunza bustani
+mtunza muda
+mtunza wanyama
 mtunzi
 mu-
 mua
@@ -10274,6 +10546,7 @@ mvutano
 mvuvi
 mw-
 mwa
+mwa-
 mwaarabu
 mwaasi
 mwadhini
@@ -10335,6 +10608,7 @@ mwanakijiji
 mwanakondoo
 mwanaleksikografia
 mwanamaji
+mwanambee
 mwanambuzi
 mwanamfalme
 mwanamgambo
@@ -10358,7 +10632,6 @@ mwanasiasa
 mwanasoka
 mwanaspoti
 mwanaume
-mwanaume class m/wa
 mwanazuoni
 mwandamanaji
 mwandamizi
@@ -10407,6 +10680,7 @@ mweleka
 mwelekeo
 mwelekeo mkuu
 mwelekezi
+mwelekezi wa filamu
 mwema
 mwembe
 mwenda
@@ -10415,7 +10689,6 @@ mwendawazimu
 mwendesha mashtaka
 mwendeshaji
 mwendo
-mwendo class m/mi
 mwenendo
 mwenge
 mwengine
@@ -10501,8 +10774,8 @@ mzafarani
 mzaha
 mzaituni
 mzalendo
+mzalishaji
 mzambarau
-mzambarau class m/mi
 mzani
 mzao
 mzazi
@@ -10518,6 +10791,7 @@ mzimuni
 mzinga
 mzingo
 mzio
+mzito
 mzizi
 mzoga
 mzozo
@@ -10531,10 +10805,17 @@ mzunguko wa chakula
 mzungumzaji
 mzuri
 mzushi
+n(X) or ma(VI)
 n-
 n.k.
 na
 na hatari
+na mimi
+na ninyi
+na sisi
+na wewe
+na yeye
+na-
 naam
 nabii
 nacho
@@ -10552,7 +10833,6 @@ nafuu
 nahau
 nahitaji ...
 nahodha
-nahodha ()
 naibu
 nailoni
 naitrojeni
@@ -10571,6 +10851,7 @@ naliadhibu
 nalo
 nama
 namba
+namba atomia
 nambari
 nambari kuu
 nambari ya simu
@@ -10594,6 +10875,7 @@ napika
 napo
 nasa
 nasaba
+nashukuru
 nasi
 nasibu
 nasisa
@@ -10607,6 +10889,7 @@ navyo
 nawa
 nawasha
 nawe
+naweza kukusaidia?
 naye
 nayo
 nazi
@@ -10616,10 +10899,10 @@ nchi
 nchi inayoendelea
 nchi kavu
 nchi ya ajabu
-nchi ya kisiwa class n/n
+nchi ya kisiwa
 nchi za Afrika
 nchi za ajabu
-nchi za visiwa class n/n
+nchi za visiwa
 nchi zinazoendelea
 nchini
 ndago
@@ -10630,10 +10913,10 @@ ndege
 ndege Ulaya
 ndege katibu
 ndege ulaya
+ndegeputo
 ndere
 ndevu
 ndewe
-ndewe class n/n
 ndi-
 ndicho
 ndigana kali
@@ -10667,7 +10950,6 @@ ndoto
 ndoto njema
 ndovu
 ndugu
-ndugu class 9/0
 nduguye
 nduguyo
 nduguze
@@ -10739,7 +11021,6 @@ ngono ya mdomo
 ngono ya mkundu
 ngovi
 ngozi
-ngozi class
 nguchiro
 nguchiro wa porini
 ngumi
@@ -10758,6 +11039,7 @@ nguvu
 nguvuni
 nguzo
 ngwena
+ngʼ
 ngʼombe
 ni
 ni saa ngapi
@@ -10767,6 +11049,7 @@ nia
 nibu
 nijifunzi
 nikafungua
+nikaha
 nikanunua
 nikazaa
 niko
@@ -10831,7 +11114,6 @@ nitrojeni
 niwe
 njaa
 njama
-njama class
 njano
 njari
 nje
@@ -10889,6 +11171,7 @@ nusa
 nusra
 nusu
 nusu fainali
+nusu kipenyo
 nusufamilia ya fisi-maji
 nusuirabu
 nusumbwa
@@ -10928,7 +11211,6 @@ nyara
 nyaraka
 nyasi
 nyati
-nyati class 9/10/1/2
 nyavu
 nyayo
 nye
@@ -10959,8 +11241,11 @@ nyongeka
 nyongeza
 nyongo
 nyonya
+nyonyo
 nyooka
 nyota
+nyota wa filamu
+nyota wa ponografia
 nyotamkia
 nyote
 nyoya
@@ -11012,7 +11297,6 @@ oa
 oana
 obiti
 oda
-of a definite place indicator
 ofa
 ofisa
 ofisi
@@ -11090,6 +11374,7 @@ opera
 operesheni
 opereta
 orodha
+orodha ya maswali ya uchunguzi
 orodhesha
 orofa
 ororo
@@ -11117,7 +11402,6 @@ pa
 pa moyo
 pa-
 paa
-paa class IX/X
 paa-chonge
 pacha
 padiri
@@ -11198,6 +11482,7 @@ panua
 panya
 panzi
 pao
+paoneaanga
 papa
 papa hapa
 papai
@@ -11220,6 +11505,7 @@ pasheni
 pasi
 pasipoti
 paspoti
+past
 pasua
 pasuka
 pasuliwa
@@ -11316,6 +11602,7 @@ peupe
 peusi
 pevu
 pewa
+pezi
 pezi la mkia
 pi
 pia
@@ -11330,6 +11617,7 @@ piga chenga
 piga dansi
 piga deki
 piga doria
+piga gitaa
 piga hodi
 piga kelele
 piga kengele
@@ -11348,6 +11636,7 @@ piga moto
 piga moyo konde
 piga mstari
 piga mswaki
+piga nduru
 piga ngumi
 piga pambaja
 piga pasi
@@ -11386,6 +11675,7 @@ pinda
 pindana
 pinde
 pinde za mvua
+pindi
 pindia
 pindika
 pindisha
@@ -11399,6 +11689,7 @@ pingine
 pingu
 pini
 pinki
+pip
 pipa
 pipi
 piramidi
@@ -11444,12 +11735,18 @@ pombe kali
 pomboo
 pona
 ponda
+ponea
+ponea chupuchupu
+poneka
+ponesha
 pongeza
 pongezi
 pongezi kwa siku ya kuzaliwa
 pongo
 pongono
 ponografia
+ponwa
+ponya
 pooza
 popo
 popo mkubwa
@@ -11476,6 +11773,7 @@ potesha
 potewa
 poteza
 povu
+present
 presha
 pretseli
 printa
@@ -11539,7 +11837,6 @@ radi
 rafadha
 rafardha
 rafiki
-rafiki class
 rafiki wa kike
 rafiki wa kiume
 rafikiye
@@ -11619,6 +11916,8 @@ rekebisha
 rekebisho
 reki
 rekodi
+rekodi ya dunia
+rekodi za dunia
 reli
 remba
 rembo
@@ -11651,6 +11950,7 @@ riwaya
 riziki
 robo
 robo fainali
+robota
 roboti
 roda
 rodi
@@ -11659,7 +11959,6 @@ rogoa
 rogwa
 roho
 roketi
-roketi class
 roshani
 rubani
 rubuni
@@ -11693,6 +11992,7 @@ rutuba
 rutubika
 rutubisha
 ruwaza
+ruya
 ruzuku
 s.a.w.w.
 saa
@@ -11702,6 +12002,7 @@ saa ya mkono
 saba
 sababisha
 sababu
+sabalkheri
 sabatashara
 sabini
 sabini na mbili
@@ -11734,6 +12035,7 @@ safu
 safu ya milima
 safu za milima
 safura
+sagamba
 sahani
 sahau
 sahaulia
@@ -11759,7 +12061,6 @@ saizi
 sajenti
 sajili
 sajini
-sajini class
 saka
 sakafu
 sakafu ya mbao
@@ -11813,13 +12114,13 @@ sanda
 sandali
 sandarusi
 sanduku
-sanduku class
 sanduku la maiti
 sanduku la posta
 sandwichi
 sanifu
 sansuri
 santuri
+saplisi
 sarafu
 sarakasi
 saratani
@@ -11830,6 +12131,7 @@ sarufi
 saruji
 sasa
 sasa hivi
+saseni
 sasisho
 satalaiti
 sataranja
@@ -11845,7 +12147,6 @@ sawazishika
 sawazishwa
 sawijika
 sayansi
-sayansi class
 sayansi ya kubuniwa
 sayansi ya siasa
 sayari
@@ -11853,6 +12154,7 @@ saza
 sazo
 sebule
 sehemu
+sekeneko
 sekondari
 sekstilioni
 sekta
@@ -11890,6 +12192,8 @@ sera
 sera za kigeni
 seremala
 serikali
+serikali ya mseto
+serikali za mseto
 serikalini
 serkali
 setelaiti
@@ -11956,7 +12260,7 @@ sherehe
 sherehekea
 sherekea
 sheria
-sheria ya jamaa class
+sheria ya jamaa
 sherisi
 shetani
 shiba
@@ -12025,6 +12329,7 @@ shuhudiwa
 shujaa
 shujaa wa ajabu
 shuka
+shuke
 shukia
 shukisha
 shukiwa
@@ -12035,13 +12340,22 @@ shukurani
 shukuru
 shukwa
 shule
+shule nyeti
+shule ya bweni
+shule ya kibinafsi
 shule ya kitaifa
+shule ya kutwa
 shule ya msingi
 shule ya sekondari
+shule ya umma
 shule ya upili
+shule za bweni
+shule za kibinafsi
 shule za kitaifa
+shule za kutwa
 shule za msingi
 shule za sekondari
+shule za umma
 shule za upili
 shuleni
 shumbi
@@ -12165,7 +12479,6 @@ siraji
 siri
 sisemi Kiingereza.
 sisi
-sisi*
 sisimisi
 sisimizi
 sisimua
@@ -12203,6 +12516,8 @@ skati
 sketi
 skizofrenia
 skrini
+skrini ya kugusa
+skrini za kugusa
 skrubu
 skule
 skuli
@@ -12260,6 +12575,7 @@ spageti
 spana
 spea
 spesheli
+spidi
 spidometa
 spika
 spinachi
@@ -12269,6 +12585,7 @@ staa
 staafu
 staarabu
 stadi
+stadi za lugha
 stafeli
 staftahi
 staha
@@ -12282,6 +12599,7 @@ staili za mapenzi
 stakabadhi
 stampu
 stara
+starehe
 starr
 stashahada
 steki
@@ -12299,6 +12617,7 @@ strouberi
 studio
 stuli
 suala
+subalkheri
 subira
 subiri
 subra
@@ -12371,6 +12690,7 @@ tabaka la kati
 tabakatropo
 tabamu
 tabasamu
+tabawali
 tabia
 tabianchi
 tabibu
@@ -12427,6 +12747,7 @@ takisha
 tako
 takribani
 taksi
+taksiri
 takwa
 takwimu
 talaka
@@ -12508,6 +12829,7 @@ tarajio
 tarakilishi
 tarakimu
 taratibu
+tarawehi
 tarbia
 tarbushi
 tarehe
@@ -12521,7 +12843,6 @@ tarumbeta
 tarumbeta ndogo
 tasa
 tasbihi
-tasbihi class
 tasfida
 tashbiha
 tashbihi
@@ -12530,9 +12851,12 @@ tashihisi
 tashwishi
 tasinifu
 taslimu
+tasnia
 tasnifu
 taswira
 tata
+tatanisha
+tatanisho
 tathmini
 tatiza
 tatizo
@@ -12570,7 +12894,6 @@ teketea
 teketeza
 tekinolojia
 teknokrasia
-teknokrasia class
 teknolojia
 teksi
 tele
@@ -12771,6 +13094,7 @@ trilioni
 tromboni
 tsunami
 tu
+tu-
 tua
 tuba
 tuende
@@ -12802,6 +13126,7 @@ tumainiwa
 tumba
 tumbako
 tumbaku
+tumbawe
 tumbili
 tumbo
 tumbua
@@ -12889,9 +13214,12 @@ tuwe
 tuzo
 tuzo ya Nobel
 tuzo za Nobel
+twa-
 twaa
 twaliadhibu
 twende
+tweta
+tweza
 twiga
 tyubu
 u
@@ -12959,7 +13287,6 @@ ubunge
 ubunifu
 ubuyu
 uchache
-uchache class
 uchache wa
 uchafu
 uchafuzi
@@ -12968,6 +13295,7 @@ uchakachuaji
 uchambuzi
 uchanganuzi
 uchangiaji
+uchangiaji damu
 uchango
 uchapishaji skrini
 uchawi
@@ -12985,6 +13313,8 @@ uchovu
 uchoyo
 uchumba
 uchumi
+uchumi wa bluu
+uchumi wa buluu
 uchungu
 uchunguzi
 uchuuzi
@@ -13009,7 +13339,6 @@ udhuru
 udhurungi
 udi
 udikteta
-udikteta class
 udjasiri
 udobi
 udogo
@@ -13022,6 +13351,7 @@ uele
 uelekeo
 uelewa
 uelewano
+uelimishaji
 uendeshaji
 ufa
 ufafanuzi
@@ -13046,7 +13376,6 @@ ufundi
 ufundishaji
 ufungu
 ufunguo
-ufunguo class 11/14
 ufunguzi
 ufunuo
 ufuo
@@ -13060,13 +13389,13 @@ ugali
 uganda
 uganga
 ugani
+ugatuzi
 ugavi
 ugeni
 ughaibu
 ugoigoi
 ugomvi
 ugonjwa
-ugonjwa class
 ugonjwa wa asperger
 ugonjwa wa kichomi
 ugonjwa wa kuambukiza
@@ -13078,13 +13407,13 @@ ugumu
 ugunduzi
 uguza
 uhaba
-uhaba class
 uhai
-uhai class 11/12
 uhaini
 uhaishaji
 uhakika
 uhakiki
+uhalali
+uhalalishaji
 uhali
 uhalifu
 uhalifu wa kivita
@@ -13103,7 +13432,6 @@ uhitaji
 uhodari
 uhuni
 uhuru
-uhuru class 11/12
 uhuru wa maoni
 uhusiano
 uigaji
@@ -13112,7 +13440,6 @@ uimbaji
 uja
 ujaji
 ujamaa
-ujamaa class u/u
 ujambazi
 ujana
 ujanja
@@ -13122,6 +13449,7 @@ ujasiri
 ujasiriamali
 ujauzito
 ujazo
+ujengaji
 ujenzi
 uji
 uji uji
@@ -13151,9 +13479,11 @@ ukao
 ukarabati
 ukarimu
 ukasisi
+ukataji
 ukatibu
 ukatili
 uke
+ukeketaji
 uketo
 uki
 ukimwi
@@ -13181,20 +13511,18 @@ ukubwa
 ukucha
 ukulima
 ukumbi
-ukumbi class 11/12
 ukumbuko
 ukumbusho
 ukunde
 ukungu
-ukungu class 11/10
 ukuni
 ukunjufu
 ukurasa
 ukusanyaji
 ukuta
-ukuta class
 ukuta wa Berlin
 ukuti
+ukuzaji
 ukwaju
 ukwasi
 ukwato
@@ -13227,7 +13555,6 @@ uliwa
 uliza
 ulizaliwa
 uma
-uma class 11/10a
 umaarufu
 umahiri
 umalaya
@@ -13239,6 +13566,7 @@ umati
 umba
 umbali
 umbeya
+umbijani
 umbo
 umbu
 ume
@@ -13314,7 +13642,11 @@ unawinda
 unazima
 unazoea
 unda
+undia
+undika
+undisha
 undugu
+undwa
 unene
 unenge
 unga
@@ -13338,7 +13670,6 @@ unyonyaji
 unyoya
 unyumba
 unywele
-unywele class 11/12
 uoga
 uogeleaji
 uokoaji
@@ -13346,6 +13677,7 @@ uokozi
 uongo
 uongozaji
 uongozi
+uoto
 uovu
 upadiri
 upadre
@@ -13358,6 +13690,7 @@ upanga
 upanga mpana
 upanga mrefu
 upangaji
+upara
 upasuaji
 upatanisho
 upatikanaji
@@ -13371,7 +13704,7 @@ upendi
 upendo
 upenzi
 upepo
-upepo wa kaskazini class u/u
+upepo wa kaskazini
 upesi
 upevu
 upigaji
@@ -13381,9 +13714,7 @@ upigaji risasi
 upikaji
 upimaji
 upinde
-upinde class 11/10
 upinde wa mvua
-upinde wa mvua class 11/12
 upinzani
 upishi
 upo
@@ -13416,13 +13747,17 @@ urukaji
 usafi
 usafiri
 usafiri wa umma
+usafirishaji
 usagaji
 usaha
 usahihi
 usaidizi
+usaili
 usajili
 usalama
 usalamu
+usambazaji
+usampulishaji
 usanidimwanga
 usanifu
 usanii
@@ -13434,12 +13769,10 @@ useremala
 ushahidi
 ushairi
 ushanga
-ushanga class
 ushauri
 ushawishi
 ushehe
 ushidi
-ushinda
 ushindani
 ushinde
 ushindi
@@ -13467,10 +13800,11 @@ usinga
 usingizi
 usita
 uso
-uso class 11/12
 usomaji
 usonji
 usoro
+usoshalisti
+ustaa
 ustaarabu
 ustadi
 ustawi
@@ -13479,10 +13813,10 @@ usufii
 usugu
 usugu wa dawa
 usukani
+usumbufu
 ususi
 uswali
 uta
-uta class 11/10
 utaalamu
 utaandika
 utabibu
@@ -13500,7 +13834,6 @@ utambulisho
 utambuzi
 utamu
 utandawazi
-utandawazi class
 utando
 utangazaji
 utangulizi
@@ -13524,6 +13857,7 @@ uteo
 utepetevu
 utese
 uteuzi
+uthubutu
 uti
 utingo
 utitiri
@@ -13555,9 +13889,7 @@ uvaaji
 uvamizi
 uvimbe
 uvivu
-uvivu class u/zi
 uvuli
-uvuli class 11/12
 uvumba
 uvumbuaji
 uvumbuzi
@@ -13570,7 +13902,7 @@ uvuvi
 uwakilishi
 uwanja
 uwanja wa ndege
-uwanja wa ndege class
+uwasilishaji
 uwatu
 uwazi
 uwe
@@ -13578,9 +13910,7 @@ uwekezaji
 uwele
 uwepo
 uweza
-uweza class u/u
 uwezekano
-uwezekano class u/u
 uwezo
 uwezo wa ajabu
 uwiano
@@ -13592,7 +13922,6 @@ uwivu
 uwongo
 uyabisi
 uyoga
-uyoga class 10/11
 uza
 uzalendo
 uzalishaji
@@ -13617,6 +13946,7 @@ uzuri
 uzushi
 uzwa
 vaa
+valensi
 vali
 valia
 valika
@@ -13668,6 +13998,7 @@ vibiriti
 vibiriti ngoma
 vibiriti vya chuma
 vibofu
+vibogoyo
 viboko
 vibonzo
 viburi
@@ -13726,12 +14057,14 @@ vifundo
 vifungo
 vifungu
 vifungua kinywa
+vifungua mimba
 vifuniko
 vifupi
 vifurushi
 vifusi
 vifutio
 vifyonzavumbi
+vigae
 viganja
 vigasha
 vigezo
@@ -13804,6 +14137,7 @@ vimbunga
 vimelea
 vimemeshi
 vimeng'enya
+vimeta
 vimetameta
 vimeza
 vimo
@@ -13833,7 +14167,9 @@ vinne
 vinofu
 vinu
 vinyago
+vinyemere
 vinyesi
+vinyonga
 vinyozi
 vinyume
 vinyuzi
@@ -13858,6 +14194,7 @@ vipanya
 vipara
 vipato
 vipaumbele
+vipawa
 vipaza
 vipaza sauti
 vipazasauti
@@ -13908,6 +14245,7 @@ vishikio
 visigino
 visiki
 visima
+visimi
 visingizio
 visiwa
 visogo
@@ -13921,11 +14259,13 @@ vita vya msituni
 vita vya wenyewe kwa wenyewe
 vitabu
 vitabu vya kiada
+vitabu vya ramani
 vitafunio
 vitakataka
 vitako
 vitamba
 vitambaa
+vitambi
 vitambo
 vitambulisho
 vitamini
@@ -13998,6 +14338,7 @@ viwili
 viwiliwili
 viyeyusho
 viyoga
+viyoyozi
 viza
 vizazi
 vizibao
@@ -14050,10 +14391,12 @@ vuvuzela
 vuzi
 vy-
 vya
+vya-
 vyake
 vyako
 vyakula
 vyama
+vyamba
 vyambo
 vyandarua
 vyangu
@@ -14093,7 +14436,9 @@ wa na
 wa-
 waadhini
 waalimu
+waandamanaji
 waandishi
+waashi
 waasi
 waasisi
 wababe
@@ -14104,12 +14449,15 @@ wabilikimo
 wabinadamu
 wabunge
 wabuni
+wabunifu
 waburudishaji
 wacha
 wacha Mungu
 wachache
 wachambuzi
 wachanga
+wachangiaji
+wachangiaji damu
 wachapaji
 wachawi
 wachekeshaji
@@ -14124,6 +14472,7 @@ wachoraji
 wachoyo
 wachukuzi
 wachumba
+wachumi
 wachungaji
 wachunguzi
 wachuuzi
@@ -14141,6 +14490,7 @@ wadogo
 wadudu
 wadukuzi
 waelekezi
+waelekezi wa filamu
 waendesha mashtaka
 wafadhili
 wafagiaji
@@ -14207,6 +14557,7 @@ wajanja
 wajasiriamali
 wajengaji
 wajenzi
+wajibu
 wajifunzi
 wajinga
 wajiri
@@ -14225,7 +14576,6 @@ wakale
 wakalimani
 wakandarasi
 wakati
-wakati class 11/12
 wakazi
 wake
 wakfu
@@ -14247,7 +14597,9 @@ wakufunzi
 wakulia
 wakulima
 wakunga
+wakurufunzi
 wakurugenzi
+wakutubi
 wakuu
 wakwe
 wakwezi
@@ -14273,10 +14625,12 @@ walikuwa
 walimaji
 walimu
 walimwengu
+walinda lango
 walinzi
 walio
 walisha
 walizaliwa
+walizi
 walowezi
 walozi
 wamarekani wa kiafrika
@@ -14287,7 +14641,6 @@ wamisionari
 wamlambe
 wamlambez
 wamnyonye
-wamnyonyez
 wamo
 wamuzi
 wana
@@ -14306,6 +14659,7 @@ wanaendesha
 wanafalsafa
 wanafanya
 wanafika
+wanafiki
 wanafizikia
 wanafuga
 wanafunga
@@ -14337,6 +14691,7 @@ wanakunywa
 wanaleksikografia
 wanalia
 wanamaji
+wanambee
 wanambuzi
 wanamfalme
 wanamgambo
@@ -14425,6 +14780,7 @@ wapiga kura
 wapiga picha
 wapiganaji
 wapigapicha
+wapikaji
 wapinduzi
 wapinzani
 wapishi
@@ -14448,6 +14804,7 @@ wasaa
 wasafiri
 wasagaji
 wasaidizi
+wasalimie
 wasaliti
 wasambazaji
 wasanifu
@@ -14469,6 +14826,8 @@ washi
 washika
 washikadau
 washikaji
+washikiliaji
+washikiliaji wa rekodi
 washindani
 washindi
 washindwa
@@ -14482,6 +14841,7 @@ washtakiwa
 washukiwa
 wasia
 wasichana
+wasifu
 wasii
 wasikilizaji
 wasili
@@ -14494,6 +14854,7 @@ wasiwasi
 wasoma
 wasomaji
 wasouti
+wastaafu
 wastani
 wasuka
 wasuluhishi
@@ -14522,6 +14883,8 @@ watayarishaji
 watazamaji
 wateja
 watekelezaji
+watelezaji
+watembeleaji
 watembeza
 watendaji
 watengenezaji
@@ -14540,6 +14903,10 @@ watumiaji madawa
 watumishi
 watumwa
 watungaji
+watunza
+watunza bustani
+watunza muda
+watunza wanyama
 watunzi
 wauaji
 wauguzi
@@ -14550,7 +14917,6 @@ waungwana
 waustralia
 wauzaji
 wavu
-wavu class
 wavulana
 wavuli
 wavumbuzi
@@ -14575,6 +14941,7 @@ wazimamoto
 wazimu
 waziri
 waziri mkuu
+wazito
 wazo
 wazungu
 wazungu wa nne
@@ -14637,6 +15004,7 @@ wezekana
 wezesha
 wezi
 wezwa
+white-space: nowrap
 wiana
 wibari
 wigi
@@ -14689,6 +15057,7 @@ ya sita
 ya tano
 ya tatu
 ya tisa
+ya-
 yaani
 yabisi
 yadi
@@ -14731,7 +15100,7 @@ yoga
 yote
 yowe
 yoyote
-yu
+yu-
 yuko
 yule
 yumo
@@ -14740,6 +15109,7 @@ yungiyungi la kimisri
 yunifomu
 yupo
 za
+za-
 zaa
 zaatari
 zabadi
@@ -14768,7 +15138,6 @@ zamu
 zana
 zangu
 zao
-zao ()
 zawa
 zawadi
 zawaridi
@@ -14776,7 +15145,6 @@ zebaki
 zee
 zeeka
 zege
-zege class
 zeituni
 zembe
 zembea
@@ -14787,6 +15155,7 @@ zeruzeru
 zetu
 zeze
 zeze la kizungu
+zi-
 ziada
 ziaka
 ziara
@@ -14852,5 +15221,7 @@ zurura
 zusha
 zushia
 zuzu
+| style="width: 7.1%
+ࢷ
 —
 ≈ for kuandalia

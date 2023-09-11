@@ -1,5 +1,48 @@
+Angom
+Angomcha
+Chenglei
+Kangla
+Kanglei
+Kha-Nganba
+Kha-Nganpa
+Khaba
+Khaba-Nganba
+Khaba-Nganpa
+Khuman
+Khumancha
+Korouhanba
+Lai Haraoba
+Luwang
+Luwangcha
+Mangang
+Mangangcha
+Meetei
+Moilang
+Moirang
+Moirangcha
+Ningthoucha
+Ningthouja
 Nongsha
 Nongshā
+Numit
+Numit Kappa
+Oina
+Oinam
+Oinamcha
+Salai-Leishangthem
+Sarang-Leishangthem
+Takhel
+Takhelei
+Takhellambam
+Takhellei
+Takhelmayum
+Taoroinai
+Usha
+Wang
+Wangjam
+Wangkheimayum
+Wangkhem
+Wangmayum
 nong
 nongsa
 nongsaa
@@ -9,10 +52,12 @@ nongsā
 nupi
 the comma-character in Meetei
 the period-character in Meetei
+wāng
 ইসিং
 ভারত
 মণিপুর
 মনিপুরী
+মৈতৈ
 ꫢ
 ꫣ
 ꫤ
@@ -45,12 +90,16 @@ the period-character in Meetei
 ꯀꯨꯜ
 ꯀꯨꯟ
 ꯀꯩ
+ꯀꯪꯂꯥ
 ꯁ
+ꯁꯂꯥꯏ-ꯂꯩꯁꯥꯡꯊꯦꯝ
 ꯁꯅꯥ
+ꯁꯅꯥꯃꯍꯤ
 ꯁꯉꯥꯏ
 ꯁꯑꯣꯝ
 ꯁꯒꯣꯜ
 ꯁꯒꯣꯜꯁꯦꯜ
+ꯁꯔꯥꯡ-ꯂꯩꯁꯥꯡꯊꯦꯝ
 ꯁꯔꯨ
 ꯁꯖꯤ
 ꯁꯗꯨꯡ
@@ -179,6 +228,7 @@ the period-character in Meetei
 ꯂꯦꯝꯂꯩ
 ꯂꯧꯁꯤꯡ
 ꯂꯨ
+ꯂꯨꯋꯥꯡ
 ꯂꯩꯆꯤꯜ
 ꯂꯩꯆꯤꯟ
 ꯂꯩꯉꯣꯏ
@@ -192,6 +242,7 @@ the period-character in Meetei
 ꯃꯆꯨ
 ꯃꯇꯨ
 ꯃꯉꯥ
+ꯃꯉꯥꯡ
 ꯃꯌꯦꯛ
 ꯃꯍꯧꯁꯥ ꯂꯥꯏꯔꯦꯝꯕꯤ
 ꯃꯔꯣꯢ ꯅꯥꯀꯨꯞꯄꯤ
@@ -199,11 +250,13 @@ the period-character in Meetei
 ꯃꯔꯤꯐꯨ
 ꯃꯔꯤꯐꯨꯇꯔꯥ
 ꯃꯡꯒ꯭ꯔꯥ
+ꯃꯣꯏꯔꯥꯡ
 ꯃꯤ
 ꯃꯤꯠ
 ꯃꯤꯠ ꯂꯣꯟꯁꯨꯝ
 ꯃꯤꯡ
 ꯃꯥ
+ꯃꯥꯂꯦꯝ
 ꯃꯥꯄꯟ
 ꯃꯥꯏꯔꯦꯟ
 ꯃꯨꯁ꯭ꯂꯤꯝ
@@ -268,6 +321,7 @@ the period-character in Meetei
 ꯆꯦꯛꯂꯥ
 ꯆꯦꯟ
 ꯆꯦꯡ
+ꯆꯦꯡꯂꯩ
 ꯆꯨꯆꯥꯛ
 ꯇꯂꯦꯠ
 ꯇꯂꯨꯛ
@@ -313,7 +367,9 @@ the period-character in Meetei
 ꯈꯣꯡꯖꯤ
 ꯈꯣꯡꯗꯥ
 ꯈꯥꯃꯦꯟ
+ꯈꯥꯕ
 ꯈꯧ
+ꯈꯨꯃꯟ
 ꯈꯨꯅꯤꯡ
 ꯈꯨꯅꯧ
 ꯈꯨꯅꯨ
@@ -334,6 +390,7 @@ the period-character in Meetei
 ꯉꯁꯤ
 ꯉꯥ
 ꯉꯥꯅꯨ
+ꯉꯥꯟꯕ
 ꯉꯧ
 ꯉꯧ ꯂꯣꯟꯁꯨꯝ
 ꯉꯧ-
@@ -348,6 +405,7 @@ the period-character in Meetei
 ꯊꯦꯡꯒꯨ
 ꯊꯧ
 ꯊꯧ-
+ꯋꯥꯡ
 ꯌ
 ꯌꯣꯡ
 ꯌꯥ
@@ -415,12 +473,15 @@ the period-character in Meetei
 ꯑꯃꯥ
 ꯑꯃꯦꯔꯤꯀꯥ
 ꯑꯅꯤ
+ꯑꯉꯣꯝ
 ꯑꯉꯥꯡ
 ꯑꯋꯥ
 ꯑꯌꯨꯛ
 ꯑꯍꯨꯝ
+ꯑꯣꯏꯅꯥꯝ
 ꯑꯥꯌꯨꯕꯦꯗ
 ꯑꯥꯔꯀꯥꯟꯁꯥꯁ
+ꯑꯥꯢꯁ꯭ꯋꯔꯤꯌꯥ
 ꯑꯦꯝꯐꯤꯇ꯭ꯔꯥꯢꯇꯤ
 ꯑꯧꯋꯥ
 ꯑꯪꯒ꯭ꯔꯥꯖꯤ
@@ -433,6 +494,7 @@ the period-character in Meetei
 ꯕꯔꯃꯥ
 ꯕꯥ
 ꯕ꯭ꯌꯀꯔꯟ
+ꯗꯤꯄꯤꯀꯥ
 ꯗꯦꯕꯤ
 ꯘ
 ꯘꯧ

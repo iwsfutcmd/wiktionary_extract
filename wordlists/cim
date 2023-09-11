@@ -4,6 +4,7 @@
 'z
 -an
 -atz
+-khot
 -le
 000
 000: drai miliüune
@@ -506,6 +507,7 @@ billa gòas
 billa hénna
 billar balt
 billar haano
+billekhot
 billor
 billorste
 bilt
@@ -1369,7 +1371,6 @@ faméeja
 fan
 fanna
 fannen
-far
 fassìn-fassòn
 fazöol
 fazöola
@@ -1415,6 +1416,7 @@ formülle
 forpòot
 forpòoten
 forratan
+forte
 fortàja
 fraar
 fraarn
@@ -1653,6 +1655,18 @@ gakhlàpfet
 gakhlóopet
 gakhlùkhet
 gakhnèttelt
+gakhnìbelt
+gakhnìnghelt
+gakhnòilt
+gakhnòilt aus
+gakhnóoghet
+gakhnöpfelt
+gakhriighet
+gakhràbelt
+gakhràtzet
+gakhréent
+gakhròspelt
+gakhrömpert
 gakhàichelt
 gakhàichelt dehiin
 gakhàimet
@@ -1677,8 +1691,25 @@ gakhéttinghet aan
 gakhéttinghet au
 gakhìndarach
 gakhìndert
+gakhìtzert
+gakhòchet
+gakhòjet
+gakhòotet
+gakhòotet abe
+gakhòotet au
+gakhòstet
+gakhóofet
+gakhörtzert
+gakiiket
+gaklàpfet
+gaklémpert
+gaklénkelt
+gaklóobet
+gaklùntzighet
 gakàitzelt
 gakéghelt
+gakìtzelt
+gakòikelt
 galavèrna
 galla
 galt
@@ -1988,6 +2019,7 @@ griizotor
 griizotorste
 grilét
 grippala
+grippel
 grippeln
 grisat
 gritz
@@ -2350,6 +2382,7 @@ hòitle
 hòitlen
 hòizar
 hòizle
+hòizlen
 hòliga
 hòligar
 hòlighen
@@ -2536,7 +2569,6 @@ jòich
 jöchar
 jöchle
 jöchlen
-jùkhan iidar
 jùkhan èerzing
 jüngaran
 jüngart
@@ -2668,6 +2700,8 @@ khint
 khirch
 khitz
 khitzar
+khitzaran
+khitzert
 khitzle
 khitzlen
 khlaagan
@@ -2699,24 +2733,92 @@ khlöope
 khlüpfe
 khnaul
 khnia
+khnibala
+khnibalan
+khnibelt
+khniigan
+khningalan
+khninghelt
 khnoile
+khnopf
 khnott
+khnuughel
+khnuughelan
 khnèttalan
 khnèttelt
+khnòilan
+khnòilan aus
+khnòilt
+khnòilt aus
+khnòtten
 khnòtto
+khnöpfalan
+khnöpfe
+khnöpfelt
+khnöttale
+khnöttalen
+khnöttel
 khoavan
 khoch
 khochan
 kholl
 khopf
 khopftuach
+khortz
 khostan
+khraa
+khrabalan
+khrabelt
+khraida
+khraiden
+khraista
+khraistan
+khranebitta
+khranebitten
+khrantz
+khrappala
+khrappalar
+khratz
 khratzan
+khratzet
 khriage
+khriig
+khriigan
+khriighe
+khriighet
+khrukha
 khrånk
+khrèa
+khrètze
+khrètzle
+khrètzlen
+khrée
+khréenan
+khréent
+khròitzabèg
+khròitzabéeghe
+khròitze
+khròspalan
+khròspelt
+khrómp
+khróota
+khróoten
+khrömparan
+khrömpert
+khröola
+khröolan
+khsell
 khua
 khuchl
+khumazamo
 khurtz
+khutta
+khutten
+khuul
+khuulan
+khuuneg
+khuuneghen
+khuuzan
 khàttaro
 khåmmar
 khèar
@@ -2821,24 +2923,138 @@ khéttinghet
 khéttinghet aan
 khéttinghet au
 khìllot
+khòarn
+khòas
+khòat
+khòchan
+khòchar
+khòchet
+khòchhaus
+khòchhòizar
+khòchhòizle
+khòchhòizlen
+khòjan
+khòjet
+khòll
+khòome
+khòon
+khòona
+khòondar
+khòone
+khòotan
+khòotan abe
+khòotan au
+khòotet
+khòotet abe
+khòotet au
 khòpf
+khòrn
+khòrp
+khòst
+khòstan
+khòstet
+khóofan
+khóofar
+khóofet
+khóolar
+khôrndar
+khôrnle
+khôrnlen
+khöchle
+khöchlen
 khödan
+khödan iidar
+khölle
 khön
 khön vorgèllz Gott
 khöpfe
+khörtzaran
+khörtzert
+khörtzor
+khörtzorste
+khöste
+khüa
+khüjabögalle
+khüjabögallen
+khüjar
+khüjavögalle
+khüjavögallen
 khümm
 khümmel
+khüss
+khüsse
+khüssle
+khüsslen
+khüttle
+khüttlen
+khüu
+khüubel
+khüule
+khüulen
 kiikan
+kiikar
+kiikaren
+kiiket
+kiitza
+kiitzen
+kija
+kinkel
+kitzala
+kitzalan
+kitzale
+kitzalen
+kitzelt
+klamara
+klankala
+klapf
+klapfan
+klapfet
+klatza
+klatzot
 klopfan
-klòkke
+kluntzigan
+kluntzigar
+kluntzighet
+kluug
+kluughekhòt
+klémparan
+klémpert
+klénkalan
+klénkalle
+klénkallen
+klénkelt
+klòkka
+klòkken
+klòkturm
+klóoban
+klóobe
+klóobet
+klökkle
+klökklen
+kojanàtta
 kolatziu
 komare
+komàun
+komàun haus
+komàun hòizar
+komàun hòizle
+komàun hòizlen
+komòine
 konjåm
+konkànfara
+konkànfarn
+konsoléar
+konsoléere
 kontémpar
 konzótt
 konzött
 konzöttle
 kor
+korgnöol
+korgnöole
+korlétta
+korèll
+korèlle
 koun
 kre
 kristmånat
@@ -2861,7 +3077,13 @@ kéeghel
 kégalan
 kégale
 kéghelt
+kòffer
+kòikalan
 kòikalar
+kòikelt
+kódeghen
+kódego
+köffarn
 lachan
 lachet
 lade
@@ -3117,7 +3339,7 @@ postkart
 postkartn
 praachot
 prachmånat
-prajo ()
+prajo
 prengen
 proat
 pruach
@@ -3713,6 +3935,7 @@ zaine
 zaines
 zait
 zaln
+zamo
 zandare
 zaure kapützen
 zboa

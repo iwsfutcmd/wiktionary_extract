@@ -63,6 +63,12 @@ Wënami
 [tombikan]
 a few
 achgonican
+achimulsikaon
+achimulsin
+achimulsu
+achimulsëwakàn
+achimwi
+achimëwakàn
 achquaneman
 achquanican
 achquoani'kan
@@ -124,6 +130,7 @@ alànkw
 alàpaè
 alàpaèk
 alàshi
+alàxënchu
 alëmamehële
 alëmi
 alëmtunhe
@@ -133,6 +140,7 @@ alëtune
 alëwii
 amankshkinkw
 amika
+amimens
 amxën
 amànkkate
 amànkshkinkwe
@@ -158,6 +166,7 @@ aptunhe
 apëlìsh
 apëlìshakw
 ashimëwakàn
+ashuwilunkhusanshapia
 ashuwixën
 ashëwìl
 asuwakàn
@@ -189,6 +198,7 @@ choxkàt
 chululhuwe
 chuskënàpòn
 chuwpèxën
+chèhchimakwsit muxwès
 chèlisakw
 chëlilis
 chëluchëlus
@@ -205,6 +215,7 @@ ehèntalaponhenk
 ehëlèkhikès
 ehùkwenk
 ehùkwenkanshapi
+ehùkwenkanshapia
 haki
 hakialaipën
 hakihakan
@@ -285,6 +296,7 @@ kikishimënshi
 kiluna
 kiluwa
 kimtunhe
+kishachimulsi
 kishahponhe
 kishhakihe
 kishikeokàn
@@ -391,6 +403,9 @@ kèkait nkwis
 kèkayëmhèt
 kèkshixtikàn
 kèku
+kèkw
+kèkwi
+kèkwi këlampisun
 kèpcheonkëlëk mwekane
 kèpchuxkwe
 kèshxink
@@ -412,6 +427,7 @@ këkaihële
 këkchëkwipahkihëlas
 këlam'pexën
 këlamahpu
+këlamapisun
 këlëksuwinkwèxin
 këmitsi
 këmitsihëmo
@@ -504,7 +520,10 @@ malàxkwsitkan
 mamalis
 mamaon
 manshapi
+manshapiahasu
+manshapiahe
 manshapiahikàn
+manshapiahikànasik
 manunkinkwèxin
 manunksëwakàn
 manëtu
@@ -528,6 +547,7 @@ mhitahpu
 mhuktune
 mhukw
 mhuwinkwsakw
+mhuwinkwës
 mhùkpèxën
 michewakan
 michëwakàn
@@ -540,6 +560,7 @@ mikwënëkatu
 milxukwe
 milxukòn
 milàxk
+mimëns
 min
 minhe
 minkw
@@ -589,17 +610,20 @@ mutay
 muwihële
 muxul
 muxumsa
+muxwes
 mwekane
 mwekaneikaon
 mwekaneimakwsu
 mwekaneinakwsu
 mwekanewchi
+mwimin
 mwimënshi
 màmkihtëlinkweokàn
 màxkahsën
 màxkalaniat
 màxke
 màxkeyo
+màxki muxwès
 màxkinakòt
 màxkixèkëne
 màxkkate
@@ -614,6 +638,7 @@ mènxkakw
 mènàxkhasik
 mèxkalaniat
 mëkùchi
+mëlamëweokàn
 mëlimu
 mëlinkweahpòn
 mëlukwèhuni hèmpës
@@ -649,7 +674,6 @@ naka
 names
 namesak
 namès
-nani
 nanànkihële
 naohële
 naxa
@@ -894,6 +918,7 @@ puchisktay
 puhwexòkw
 puhwèm
 puhwèsënakw
+puhwèsënàkwim
 pukwihële
 pukwkate
 pukwès
@@ -991,11 +1016,13 @@ sakimaxkwe
 sakipahkihële
 sakuxwe
 sakwèm
+sakwënakanim
 salaxtekwimënshi
 salàpòn
 salàpònhe
 sapàn
 sapëlehële
+sapëlèsit muxwes
 sasapis
 sasukëlàn
 selahtikan
@@ -1014,6 +1041,7 @@ shinkaokhwikàn
 shinkhakihe
 shinki
 shinkuxwe
+shinkèk
 shita
 shkakok
 shkakw
@@ -1100,6 +1128,7 @@ sëkahkolèxkwe
 sëkahsën
 sëkahsëni menàxk
 sëkanèpil
+sëkapi
 sëke
 sëkhèmpës
 sëkinakòt
@@ -1124,11 +1153,13 @@ tahkokuwe
 tahkokën
 tahkox
 tahkòchu
+tahkòxtët muxwès
 takohkatat
 takuu
 tali
 tallachpaje
 talàxhakiyakàn
+talàxhakiye
 talëmi
 tamse
 tani
@@ -1220,6 +1251,7 @@ tëntay
 tënte-tëpchehëlas
 tënteëpchehëlas
 tënàxën
+tëpanshapiahasik
 tëpchehële
 tëpihëlas
 tëpihële
@@ -1281,7 +1313,6 @@ wipita
 wipunkwe
 wipunkwhèmpës
 wipunkwsu
-wipunkwsu ()
 wipunkòkw
 wipàkw
 wipèkw
@@ -1336,6 +1367,7 @@ wèmihële
 wènichanit xkwe
 wèshilëmat
 wèski
+wëlachimulsin
 wëlahpu
 wëlahèmpës
 wëlamalsin
@@ -1495,6 +1527,7 @@ zelozelos
 òkchakèxën
 òkchamehële
 òkchëkate
+òkhatim
 òkhatimënshi
 òkwës
 òlèkw
@@ -1503,6 +1536,7 @@ zelozelos
 òpahsën
 òpahtu
 òpahtuhw
+òpanshapi
 òphùkòn
 òpihële
 òpinkw
