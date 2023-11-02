@@ -2,6 +2,8 @@ import json
 from collections import Counter, defaultdict
 from itertools import count
 from tqdm import tqdm
+import unicodedataplus as unicodedata
+
 needed_info = ["word", "lang", "lang_code"]
 # root_entries = Counter()
 # translation_entries = Counter()
@@ -11,7 +13,18 @@ needed_info = ["word", "lang", "lang_code"]
 entries = Counter()
 etymology_entries = Counter()
 broken_entries = []
-linkages = ["synonyms", "antonyms", "derived words", "holonyms", "meronyms", "derived", "related", "coordinate_terms"]
+linkages = [
+    "synonyms",
+    "antonyms",
+    "derived words",
+    "holonyms",
+    "meronyms",
+    "derived",
+    "related",
+    "coordinate_terms",
+]
+
+
 def extract():
     with open("raw-wiktextract-data.json") as file:
         for i, line in tqdm(enumerate(file)):
@@ -31,7 +44,7 @@ def extract():
                 for translation_entry in entry["translations"]:
                     e = extract_translation(translation_entry)
                     if e:
-                        entries[e] += 1 
+                        entries[e] += 1
             # if "senses" in entry:
             #     # print(f"senses found in {entry['word']} {lang} {lang_code}")
             #     for sense in entry["senses"]:
@@ -40,13 +53,14 @@ def extract():
             #             for translation_entry in sense["translations"]:
             #                 e = extract_translation(translation_entry)
             #                 if e:
-            #                     sense_translation_entries[e] += 1 
-                    # for linkage in linkages:
-                    #     if linkage not in sense: continue
-                    #     for linkage_entry in sense[linkage]:
-                    #         linkage_entries[(linkage_entry["word"], lang, lang_code)] += 1
+            #                     sense_translation_entries[e] += 1
+            # for linkage in linkages:
+            #     if linkage not in sense: continue
+            #     for linkage_entry in sense[linkage]:
+            #         linkage_entries[(linkage_entry["word"], lang, lang_code)] += 1
             for linkage in linkages:
-                if linkage not in entry: continue
+                if linkage not in entry:
+                    continue
                 for linkage_entry in entry[linkage]:
                     entries[(linkage_entry["word"], lang, lang_code)] += 1
             # if "etymology_templates" in entry:
@@ -63,8 +77,7 @@ def extract():
             #                     break
             #                 word = template[string_n]
             #                 etymology_entries[(word, "", code)] += 1
-                    # elif name in {"inh", "inh+", "inh-lite", "inherited"}:
-
+            # elif name in {"inh", "inh+", "inh-lite", "inherited"}:
 
     # with open("root_entries.json", "w") as file:
     #     json.dump([[k, v] for k, v in root_entries.items()], file)
@@ -79,6 +92,7 @@ def extract():
     with open("entries.json", "w") as file:
         json.dump([[k, v] for k, v in entries.items()], file)
 
+
 def extract_translation(translation_entry):
     if "word" not in translation_entry:
         return None
@@ -90,6 +104,7 @@ def extract_translation(translation_entry):
     # return "\t".join([word, lang, code])
     return (word, lang, code)
 
+
 def get_all_words(entries):
     output = defaultdict(set)
     for (word, _, code), _ in tqdm(entries):
@@ -99,9 +114,10 @@ def get_all_words(entries):
             for word in sorted(output[code]):
                 file.write(word + "\n")
 
+
 def find_entry(identifier):
     with open("raw-wiktextract-data.json") as file:
-        for line in file:
+        for line in tqdm(file):
             entry = json.loads(line)
             if "word" not in entry:
                 continue
@@ -110,3 +126,52 @@ def find_entry(identifier):
             lang_code = entry["lang_code"]
             if (word, lang, lang_code) == identifier:
                 return entry
+
+
+def get_pronunciations():
+    entries = {}
+    with open("raw-wiktextract-data.json") as file:
+        for i, line in tqdm(enumerate(file)):
+            # if i > 50000:
+            #     break
+            entry = json.loads(line)
+            if "word" not in entry:
+                continue
+            if "sounds" not in entry:
+                continue
+            if entry["lang_code"] not in entries:
+                entries[entry["lang_code"]] = []
+            for sound in entry["sounds"]:
+                if "ipa" in sound:
+                    entries[entry["lang_code"]].append([entry["word"], sound["ipa"]])
+    with open("pronnciations.json", "w") as file:
+        json.dump(entries, file, ensure_ascii=False)
+
+
+def normalize_latin(s):
+    return (
+        unicodedata.normalize("NFD", s.lower())
+        .replace("\u0304", "")
+        .replace("æ", "ae")
+        .replace("œ", "oe")
+    )
+
+
+def normalize_ipa(s):
+    return s.replace(".", "").replace("ˈ", "").replace("ˌ", "")
+
+
+# def correlate_latin_prons():
+latin_words = [word.strip() for word in open("wordlists/la").readlines()]
+eng_prons = json.load(open("pronnciations.json"))["en"]
+eng_pron_dict = defaultdict(list)
+for word, pron in tqdm(eng_prons):
+    if pron.startswith("/") and pron.endswith("/"):
+        eng_pron_dict[normalize_latin(word)].append(normalize_ipa(pron).strip("/"))
+output = defaultdict(list)
+for word in tqdm(latin_words):
+    nword = normalize_latin(word)
+    if nword in eng_pron_dict:
+        output[word].extend(eng_pron_dict[nword])
+with open("latin_eng_prons.json", "w") as file:
+    json.dump(output, file)
