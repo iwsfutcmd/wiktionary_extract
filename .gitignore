@@ -1,2 +1,3 @@
-entries.json
-raw-wiktextract-data.json
+*.json
+wordlists/*
+.DS_Store

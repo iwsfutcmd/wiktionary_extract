@@ -163,7 +163,7 @@ def normalize_ipa(s):
 
 # def correlate_latin_prons():
 latin_words = [word.strip() for word in open("wordlists/la").readlines()]
-eng_prons = json.load(open("pronnciations.json"))["en"]
+eng_prons = json.load(open("pronuciations.json"))["en"]
 eng_pron_dict = defaultdict(list)
 for word, pron in tqdm(eng_prons):
     if pron.startswith("/") and pron.endswith("/"):
