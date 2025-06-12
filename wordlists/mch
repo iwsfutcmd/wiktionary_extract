@@ -1,8 +1,14 @@
+'dötö
 'eee
 'ji'chü
+'juuma
 'kotonka
-'tawai
+'kotontö
+'mo
+'mü
+'sakü
 'wa'tö
+'wa'tönei
 'ya'kwökö
 'ya'müttü
 -'cha
@@ -21,6 +27,7 @@
 -'na
 -'no
 -'se
+-'tö
 -'ñojo
 -'ñö
 -a
@@ -60,14 +67,22 @@
 -dö'ja
 -dö'jaato
 -dü
+-düje
 -e
+-eje
 -emje
+-etü'da
+-etükomo'da
 -i
 -icho
 -iye
 -ja
+-ja'ma
 -jai
 -jaka
+-jano
+-janño
+-jawö
 -je
 -jo
 -joi
@@ -91,6 +106,8 @@
 -kkwa
 -komo
 -kö
+-köi
+-kökö
 -ma
 -me
 -mje
@@ -121,6 +138,7 @@
 -oto
 -sa
 -ta
+-taame
 -tai
 -tan
 -to
@@ -132,6 +150,7 @@
 -töne
 -tü
 -uwö
+-wö
 -wü
 -ya
 -ya'kene
@@ -154,20 +173,26 @@
 -ñö
 -ñü
 -ö
--∅
+Adijaonña
 Akananña
-Akujena
+Akuwena
+Amasonanña
 Anadekenña
 Ankutudanña
 De'kwana
 De'kwana jüüdü
+Dedewatö
+Dhe'kwana
+Dhe'kwana jüüdü
+Dinñaku
 Dodoimö
 Entawade
 Eudojanña
-Fañuru
-Iaranavi
 Ijüwütünña
-Jhüwütünña
+Jadamo
+Jadime
+Jadu
+Judansianña
 Juduwadunña
 Kaaju
 Kaajushawa
@@ -176,36 +201,45 @@ Kadawanadunña
 Kajiyudu
 Kajunña
 Kajushawa
+Kashishiwade
 Kaweshawa
 Komashi
 Koyojinña
 Kudatanña
+Kuntanama
+Kunu
+Kushimenña
 Madawaka
+Madijanña
 Medadanña
 Medakunadinña
+Medewaadi
+Mütakuni
 Odo'sha
 Sedujiyanadi
 Sedume
 Sedumeyanadi
-Sedüme
+Shichömüna
 Shiiwidikiyü
+Sichömüna
 Suyunña
+Tada'kwanña
 Uda'jö
 Waichanña
 Wana sejjedü
 Wanadi
 Wanasedu
 Wanasedume
-Wanasedü
-Wanasedüme
 Wanatu
-Weyu
 Widikiyanadi
 Wiyu
 Wodiwanña
+Wojistanña
+Yawadeejudi
 Yawekede
 Ye'kwana
 Ye'kwana jüüdü
+Yudeke
 Yujudunña
 Yuwididi
 a'de'jötü
@@ -213,9 +247,8 @@ a'de'ta
 a'de'tö
 a'deeja
 a'deu
-a'deu'kwe
-a'deuja
 a'deujötü
+a'deukwe
 a'deuwü
 a'dojo
 a'du
@@ -235,11 +268,11 @@ a'nontö
 a'nö
 a'nödö
 a'sa
-a'sajötüdü
+a'sajötü
 a'seuwü
+a'sha
 a'suta
 a'to
-a'totö
 a'töi
 a'yano
 a'yanoma
@@ -251,14 +284,22 @@ aadeji
 aadema
 aadonka
 aajiyajö
+aaju
 aajöi
 aajöntö
 aakene
 aakene yeijökö
 aaki
 aakö
+aakö amojato
+aakö amöjato
+aakö sotto
+aakö sotto de'wö amojadö
 aakö'kö
 aaköiche'a
+aaköiche'a amojato
+aaköiche'a sotto
+aaköiche'a sotto de'wö amojadö
 aakösammödö
 aaküdö
 aaküdüme
@@ -277,8 +318,6 @@ aawiyümü
 aawüttüünaka
 aawütünajötü
 ad-
-ada'komo
-ada'komo weyudu
 ada'wai
 adada
 adai
@@ -290,10 +329,8 @@ adama
 adamajana
 adawa
 adawa'ta
-adawaichudu
 addö
 addödö
-ade
 ade'ju
 adedei
 adeka
@@ -302,18 +339,30 @@ adema
 adenai
 adeseka
 adeuje
+adh-
+adha'komo
+adha'komo weyudu
+adhadi
+adhawa
+adhawaanai
+adhe
+adhekato
 adima
 ado
 adoni
 adonka
 adudu
 aduwaawö
+aduwaawö amojato
+aduwaawö sotto
+aduwaawö sotto de'wö amojadö
 adö
 adü
 ai
 aicha
 aichudi
 aichudi edajö
+aichudi edhajö
 aichudi eyajö
 aichü
 aichüjo
@@ -335,7 +384,6 @@ aji'choto ajimadü
 aji'choto cho'kwadü
 aji'choto weja'kadü
 aji'choto'jato
-ajisamö
 ajisha
 ajissa
 ajissaamö
@@ -347,16 +395,18 @@ ajojo
 ajomjü
 ajujinña
 ajuka
+ajuni
 ajö
 ajö'müi
 ajö'sai
-ajö'wa
+ajö'tö
 ajöi
 ajöjönnö
 ajöntö
 ajöujö
 aka
 akai
+akaicha
 akajü
 akakadai
 akana
@@ -374,6 +424,7 @@ akoichanüjü
 akono
 akono'kö
 akude
+akudhajada
 akudi
 akuduja
 akö'jö
@@ -396,6 +447,11 @@ amoi
 amoichö
 amoinche
 amojadö
+amojadö de'wö aakö
+amojadö de'wö aaköiche'a
+amojadö de'wö aduwaawö
+amojadö de'wö ijatode'a
+amojadö de'wö tooni
 amonnojo
 amuku
 amuttu
@@ -494,7 +550,6 @@ awiyüntö
 awo
 awonñö'ka
 awö
-awüyünka
 ay-
 aya'ta
 aya'ta'jotü
@@ -514,18 +569,18 @@ che'a
 cheetüjüdü
 cho'na
 choda
+chooda
 chukwamedawö
 chuuna
 chuuta
 chö-
 chökkö
 chöwa'kö
-chööju'jö
-chööjü
 chööjüdü
 chööjüdüjüdü
 chöönün'e
 chöötaajö
+chünane
 d-
 da'me
 da'tu
@@ -535,14 +590,18 @@ daane
 dadi
 dadiweyudu
 dadü
+dajaka
 daju
+daka
+dakönaichu
+dakönö
 dama
 damai
 dantadü
 danwa
 danwa'kö
 danwadü
-danñami
+daudawi
 dawade
 dawi
 dawö
@@ -553,6 +612,7 @@ de'köi
 de'kökö
 de'wonontö
 de'wö
+dea
 dede
 dedü
 dedü aküdü
@@ -566,12 +626,29 @@ demoshi
 denña
 deta
 detunu
-deyude
+dh-
+dha'me
+dha'tu
+dhaka
+dhantadü
+dhanwa
+dhanwa'kö
+dhanwadü
+dhanñami
+dhawade
+dhe'kwana
+dhedü
+dhedü aküdü
+dhee
+dheenü
+dheyude
+dhudinñü
 dichödichö
 diii
 dijushi
 dijönö
 dimoshi
+dimuni
 dinña
 do'ta
 dodo
@@ -582,42 +659,77 @@ dui
 duichö
 dukkwöjü
 duttö
-duukadi
+duusenawa
 dömma
+dü'je
 dü'se
 dü'tö
 dü'tökö
 düinña
-e'dukwa
+düjükü
+dünane
+düüjöökö
+e'douwü
 e'dö
 e'dötö
 e'ji
+e'juuma
+e'jüü
 e'katö
+e'kotontö
+e'mo
 e'nei
+e'nomja
+e'saku
+e'se'tö
+e'shikija
+e'shodomma
+e'tö
 e'wa'tö
 e-
 edai
 edaichö
 edantö
 eddö
+ede'tö
+edemi'chö
+edenanüjoo
+edennamjü
+edudawa
 eduka
 eduwa
 edö
+edöje
+edükü
 ee
+eedenna
+eejata'tö
 eeka
 eeka'tümü
+eekonema
 eese
 eesemjo
+eetajuduka
 eetamincha
+eetija
+eetojinña
 eetö
+eetökkö
+eetümü
+eewadü'tö
+eewadüka
 ei
 eicha
 eima
 ej
+eja'dötö
 eja'ka
 ejamü
 ejema
 ejemajo
+ejenka
+ejodü
+ejodüjö
 eju'kwa
 eju'ta
 ejui
@@ -625,96 +737,169 @@ ejukka
 ejumü
 ejutö
 ejö
+ejüdata'ñö
+ejüka
+eka
 eka'ta
+ekada'jötü
+ekada'kwa
 ekamjiyaka
+ekamma
 ekamma'jo
 ekammajo
+ekamö
 ekanta'ñö
 ekanöjü
 ekanüjü
 ekauwü
+ekku
 ekku'ka
 ekkudö
+ekkwöjötü
 eku
 ekunaka
 ema
 ema'jo
+ema'tö
 emaicha
+emakudö
 emamü
 emannöjü
 emeka
+emekantö
+ememmekü
 emi'chü
 emjaka
 emjannö
+emjü
+emmenka
+emmodikadi
+emo'tö
 emomü
+emu'nojü
+emöwi
+emütö
+enajü
 ene
-enejenka
+ene'ma
 enejo
+enejö
 enejü
 enema
 enkaima
+enkano'tö
 enku
 enku'tö
 enkutö
+enkwannöjü
+enkwano'jo
+ennajötü
 ennaka
+ennejenka
+enneka
+enneke'ma
 ennicha
+enno'ja
+ennojü
 ennu
 ennujaicho
+ennü
+ennüichajö
+ensöma'tö
+enta'du
+enta'na
+entajo
 entatü'
+entö
 enwa
+enwejü
+enwüjüñadü
 enü
+enü'tö
+enüntö
 eseicha
+eseka
+esenümü
 eshi
 eshichako
+esi'jo
+esidi'chö
+eso'ka
 eta
+eta'jü
+etadawa'kajo
 etaja
+etamiyö
 etana
+etanatö
 etanta'ñö
+etone'tö
+ettaka
+ettija
 ettömujo
 etunuichojo
 etunuichö
+etü
 etüma
+euwü
 ewa'tö
+ewaka
+ewake
 ewanaka
+ewanküdüñö
+ewansinchö
+ewiiña
+ewoichone'ma
+ewoincha
+ewonka
 ewontö
+ewotunnöicha
+ewö
 ewü
 ewüttü
 ewüttütö
-i'chotontö
+eyajö'tö
+i'choto
 i'ja
 i'jotü
 i'moi
 i'sha
 i'shaa
 i'yu
-i'yötö
 i-
 i- -'cha
 i- -'da
 i- -emje
 i- -jai
 i- -mje
-iarakaru
 iiyö
 ijatode'a
+ijatode'a sotto
+ijedü
 imuntajaicho
-inchajidichü
 inchomo
 inchomo'kö
 inchü'dö
+insho
+insho'kö
 inña
 inñaju'tajö
+inñammödö
 inñatadü
 inñataje
-inñeju'ka
-inñeju'tö
+inñatoka
 inño
-inñü'tö
+inñonö
 iwi
+iya
 iye
+iye'töö
 iyö
+iyö'kö
 iñso
 ja
+ja'dojo
+ja'dötö
 ja'dötöme
 ja'ka
 ja'se
@@ -734,6 +919,7 @@ jade'mu
 jademu
 jadena
 jadi
+jadijadi
 jadometa
 jadudu
 jadui
@@ -757,33 +943,46 @@ jana'kwa
 janasede
 jannü
 jano
+jano'jüüdü
 janö
 janü
 jassa
 jasudi
 jata
+jata'tö
+jataköi
 jatiya
+jato
 jatu
+jawaku
 jawi
 jaya
+jayedö
+jayena
+jañu
 jañudu
 je'de
 je'dü
 je'kai
 je'mö
 je'taka
+jedi'chö
+jedo
+jedonka
+jeduu
+jedö
 jedü
-jeetü
+jeene
+jejeichö
 jejenchö
 jekude
 jena
 jena'do'jo
-jena'dojö
 jenadö
 jenamma
+jenka
 jetü
 jeyeichö
-jhaatode'a
 jho'jo
 jhumma
 jhunu
@@ -811,14 +1010,15 @@ jonü
 jonü'kö
 jooje
 jootü
+joteya
 ju'jadü
 ju'jö
+ju'jötö
 judume
 judunku
 juduwe
 jumma
 junu
-jushije
 juu
 juushiije
 juuwaiye
@@ -826,21 +1026,24 @@ juuwakadö
 juya
 jö'du
 jö'dujo
+jö'nö
 jö-jö-jö
 jödemu
 jöduje
 jökkö
 jönümü
 jöttü
+jötü
 jööjudu
 jöönö
 jü'jö
 jü'wakadö
+jüdata
+jüdata'ñö
 jüdodo
 jüdojo
 jüdödö
 jüdü'kwa
-jüdü'kö
 jüdüi
 jüjö
 jümü
@@ -851,16 +1054,16 @@ jüwaicha
 jüü
 k-
 ka
-ka'chai
 ka'dau
 ka'dutu
+ka'kawa
 ka'sai
 ka'shai
 ka'tükü
 ka'ya
 kaado
 kaaji
-kaatü
+kadaijai
 kadaiwa
 kadakadadi
 kadaota
@@ -875,6 +1078,7 @@ kajau
 kajichaana
 kaju
 kajuwadödö
+kajuwai
 kajököimö
 kakao
 kamjiyaka
@@ -891,7 +1095,6 @@ kasakidi
 kasuna
 katada
 katü
-kawa'tamadi
 kawadi
 kawadi madadü
 kawadiimö
@@ -911,7 +1114,6 @@ ken-
 kenü
 ketü
 ki-
-kidi'shu
 kidishu
 kii-
 kim-
@@ -924,6 +1126,7 @@ ko'ka
 ko'kwa
 ko'momü
 ko'momüdü
+kodokodomadi
 koijai
 koijai ekato
 koiñadö
@@ -946,6 +1149,7 @@ kooko
 koonenadii
 ku'chui
 ku'jö
+ku'nö
 ku-
 kudai
 kudaimaadu
@@ -962,6 +1166,9 @@ kujeta
 kuji
 kuku
 kum-
+kuma
+kumaajö
+kumadü
 kun-
 kunwa
 kushi
@@ -970,6 +1177,7 @@ kushu'kushu
 kusshi
 kuta
 kuushi
+kuwanaweyu
 kuyuwi
 kwai
 kwaka
@@ -982,7 +1190,6 @@ ködöi
 ködöijato ekato
 kömje
 kömu
-kömu'kö
 kömusa'kö
 könkwö
 köwa'kö
@@ -991,7 +1198,8 @@ kü-
 küdatai
 küdayü
 küdede
-küdede ja'kadü
+küdha'kwö
+küdhede
 küm-
 kümü
 kümü'kö
@@ -1005,21 +1213,21 @@ künwanno
 kütto
 küwü
 m-
-ma'do
 ma'kamo
 maadi
 maadö
 maakö
 maama
+maami
 mada
 madaka
 madataka
 madi
 mado
-mado je'dü
 mado jedü
 maduda
 madudaimö
+majajaase
 majaya
 majewa
 maji edemi'jüdü
@@ -1028,6 +1236,7 @@ makusa
 mama
 man-
 manade
+manatü
 manku
 mashemö
 mashikidi
@@ -1040,6 +1249,7 @@ meeshi
 memu
 mesa
 mi-
+michü
 minñaatö
 minñaatö tukatojo
 minñaatö yadadü
@@ -1047,7 +1257,7 @@ mm'jm
 mma
 mmaja
 mmjm
-modoi
+modhoi
 mon-
 monse
 mota
@@ -1064,6 +1274,7 @@ munta
 munu
 muttu
 muudu
+muuna
 muwaju
 mö'dö
 mö'kü
@@ -1076,6 +1287,7 @@ möni-
 mönse
 mönsemjo
 möntö
+möödhö
 möönü
 möötö
 mööyö
@@ -1089,6 +1301,7 @@ müdüiya
 münatata
 müneju
 münötö
+müsoma
 n-
 na
 na'dudu
@@ -1097,8 +1310,8 @@ na'kukwano
 na'kwaka
 na'kwaka ökato
 na'kwakano
+na'kwawö
 naatü'tö
-naddö'jüdü
 naichüdü
 natü
 naudö'jüdü
@@ -1111,9 +1324,15 @@ nkawö
 nkayedö
 nkayekökö
 nma
+nnaka
 nne
+nnejenka
+nnejenö
 nneju
+nneju'ka
+nneju'tö
 nnü
+nnü'tö
 no'samo
 no'samo'kö
 no'shamo
@@ -1126,6 +1345,7 @@ nootü
 nosaje
 nossaje
 nta
+ntajidichü
 ntatü'
 ntawi
 nuunö
@@ -1140,6 +1360,7 @@ nwawö
 nña
 nü
 nün'e
+nünane
 nünnöjü
 o'-
 o'do'jö
@@ -1148,27 +1369,37 @@ o'joiyakökö
 o'joiye
 o'köi
 o'kökö
+o'nomjö
 o'nö
 o'taajö
 o'tö
 o'tönü
+o'womokü
 o-
 od-
 oddoi
+odh-
+odha'kwököno
 odo'shankomo
 odoma
 oima
+oja
 ojonkomo
 on-
 oneja
+onode'jö
 ontunnanüjü
 onwatü
 ooje
 oojoima
 ooku
+ookunaka
+oomomü
 oonuku
 oowanoma
 oowashinchö
+oowoncha
+oowontö
 oowotuja
 ossono
 ot-
@@ -1181,6 +1412,7 @@ owanoma
 owanomanei
 owanökö
 oy-
+pan
 sa'da'da
 sa'dada
 sa'donna
@@ -1224,6 +1456,7 @@ se'namo
 se'ne
 se'seedu
 se'wadö
+seda'jadi
 sedede'shemö
 sedenamjü
 sediuje
@@ -1233,7 +1466,6 @@ seemeka
 seene
 seenü
 seicha
-seje
 sejje
 sekimma
 sekumje
@@ -1247,8 +1479,10 @@ setu
 seu
 seweicha
 seweiche
+sewoya
 sha'kwö
 shaaku
+shadwajö
 shahoko
 shajoko
 she'kö
@@ -1273,12 +1507,13 @@ shiichu ewüttü
 shiichu wamodetatojo
 shiichu weja'kadü
 shiichu'kö
-shiichu'kö weja'kadü
 shiji
 shimada
 shinñattö
+shiñawe
 shojj
 shokodododo
+shoodü
 shooka
 si'chamö
 sichamü
@@ -1296,14 +1531,11 @@ sinñü
 siwö
 siyamö
 siyawa
-so'ka
 so'kwa
-so'to
 soicha
 sokajö'nei
 sokkojato
 sokoje
-somajö
 soodü
 sooka
 sooko'nö
@@ -1339,14 +1571,24 @@ ta'keene
 ta'kwañe
 ta'ne
 ta'wane
+taa
+taaa
+taajui
+tada'kwa
 tadaaa
 tadade
 tadademö
 tadawaaju
 tadaya
+tadinñe
 tadonñe
 taduije
 tai
+taij-taij
+tajam
+tajedede
+taju'kadai
+tajöwiye
 taka
 tamedö
 tamjö'ne
@@ -1354,12 +1596,14 @@ tamu
 tamönñe
 tanükü edemi'jüdü
 tauda
+tawa
 tawa'ta
 tawadu
 tawaje
 tawane
 tawata
 tawe'de
+tawini
 tawö
 te-
 ti-
@@ -1367,10 +1611,17 @@ to'sede
 tojuiye
 toki edemi'jüdü
 tonodo
+tooki
+tooki edemi'jüdü
 tooni
+tooni amojato
+tooni sotto
+tooni sotto de'wö amojadö
 towanojo'ne
+tu'da
 tu'de
-tu'kui
+tu'dhemjünü
+tu'na
 tu-
 tudi
 tuju'juude
@@ -1379,35 +1630,40 @@ tujumö
 tukui
 tuna
 tuna awono ökato
+tuna jedü
+tunke
 tunkemjünü
 tununu
 tutune
 tö'ju
 tö'ke'ne
-tö'kene
 töije
 töinshi'jo
 töju
 töju'kö
 töjuye
 tönsi'jo
+tönömü
 töwa'kö
 töötü
 tü'tajö'nö
 tü'tajötü
 tü-
+tüdüemü
 tüdütojo
 tüje
 tüjüye
 tükincha
 tünküi
 tünküi dedü
+tünküi dhedü
+tünküi dhedümmai
 tünküi yedü
 tünküi'chö
 tünwanno
 tüsochaamü
 tüss
-tütütajo'e
+tütü'tajö'e
 tüwanojone
 tüwansu'de
 tüweshicha
@@ -1421,6 +1677,7 @@ udinñü
 udukadi
 udumoi
 udunoi
+udutu
 uji
 uju
 ujudu
@@ -1432,11 +1689,14 @@ unwaa
 utu
 uu
 uumama
+uuwau
 w-
 wa'kö
 wa'sennö
 wa'shadi
 wa'to
+waadejajo
+waadeta
 waadi ño'jüdü
 waamonö
 wadaijai
@@ -1445,18 +1705,22 @@ wade'data
 wadedata
 wadeku
 wadeku ekato
+wadhada
 wadichu
 wadishidi
 wadiwadi
 wadiyejedu
 wadödö
 wadöi
+wadü'tö
 wai
 waicha
+waiju
 waiñe
 waiñö'nö
 waiñüjü
 waja
+wajichü
 waju'nö
 wakawaka
 wamedi
@@ -1465,11 +1729,13 @@ wanadi
 wanatu
 wannö
 wanö
+wasa
 wasadi
-washadi
 washo
 wata'sokwa
 watajaiñe
+wattö
+watödö
 wauj
 wawonö
 wayakani
@@ -1483,6 +1749,7 @@ wedenmü
 wedennö
 wedesede
 wedu
+wedükü
 weena'ta
 weetü
 weichakono
@@ -1506,7 +1773,6 @@ wenwaaka
 wenñö
 wenñöje
 wesankwa
-wesu
 wetuje
 weyama
 weyu
@@ -1526,10 +1792,13 @@ wo'mo ansai
 wodi
 wodi'chö
 woi
+woije
+woja
 wokiya
 wokkiya
 wokü
 womjiiyu
+womokü
 womü
 wontö
 woowanomatojo
@@ -1543,7 +1812,6 @@ wönetünö
 wönwanö
 wönö
 wötunnö
-wötunnö edajö
 wötunnö eyajö
 wötunnö'kö
 wötönejanö
@@ -1566,13 +1834,13 @@ yaaya
 yaaya'kö
 yada
 yadakadu
-yadake
 yadaki
 yadanawi
 yadiwe
 yaicha
 yaichuma
 yaichuuma
+yaimaadi
 yaji
 yaka
 yamanadi
@@ -1591,7 +1859,6 @@ yauja
 yawade
 yawanadüje
 yawo
-yawö
 ye
 ye'deküi
 ye'jaka
@@ -1611,6 +1878,7 @@ yowanomani
 yu'dö
 yu'kökö
 yu'ta
+yuduma
 yuduwa
 yukuni
 yuudi
@@ -1625,7 +1893,6 @@ yöötökö
 yööwa'kö
 yü'söödüjai
 yüwüdü
-ñaañudi
 ñanno
 ñayudi
 ñeene
@@ -1637,13 +1904,12 @@ yüwüdü
 ö'ji
 ö'jö
 ö'ka
-ö'kudu
 ö'kwa
 ö'kö'de
 ö'mu
 ö'sa
+ö'shikija
 ö'tökö
-ö'wa'tö
 ö'waasa
 ö'waasa'kö
 ö'washa'kö
@@ -1652,13 +1918,18 @@ yüwüdü
 öd-
 ödajö
 öddaajö
-öddaajö edemi'jüdü
+öde
 ödeja
 ödeja ekato
 ödemi
 ödemi edajö
+ödemi edhajö
 ödemi eyajö
+ödh-
+ödhajö
 ödinñö
+ödukwö
+ödü'ya
 ödümö
 ödüwö
 ödüya'kö
@@ -1675,6 +1946,7 @@ yüwüdü
 öjai
 öji
 öjowa
+öju'jö
 öjöne
 öjü
 öjümanü
@@ -1684,6 +1956,7 @@ yüwüdü
 ökku
 ökkudu
 ökkööyu
+ökudajada
 ökude
 ököyu
 ökünü
@@ -1691,8 +1964,10 @@ yüwüdü
 ömi
 ömije
 ömmi
+ömu
 ömödö
 ön-
+önaku
 önawö
 öneköömü
 öni-
@@ -1704,33 +1979,43 @@ yüwüdü
 önu akano ökato
 önu ekato
 önu'tö
+önumö
 önwa
 önwanno
 önwawö
 önwena
 önña
+önñamo
 önñamomo
+önñatö
 önökü
+önönei
 önöö
 önü
 ösee
+öshadü
 öshichaadü
-össa
-össe
 össha
 össhanno
 öt-
+ötaku
+ötinñonö
 öttami
 öttö
 öttö edemi'jüdü
+öttüi
 ötö'kö
 ötö'tija
+ötö'tö
 ötöne
 ötöneja
 ötötija
+ötöwanküdüñö
 ötü
 ötü neene
+ötüja
 ötükö
+öudawö
 öwa
 öwainshi
 öwansi
@@ -1745,27 +2030,29 @@ yüwüdü
 öödeeta
 öödeta
 ööjüma
-ööka
+öökatonka
 ööma
 öömajo
 öömannöjü
 öömichö
+öömu'nojü
 ööne
 ööneje
+öönejünü
 öönema
 ööseka
 ööta
 öötaja
 öötunuichö
+öötü
 öötüma
 ööwa'tö
 ööwanaka
 ööwasinchö
 ü'joiye
 ü'jonadö
-ü'ka'jü
 ü'kaa
-ü'tö
+ü'kajü
 ü-
 üdü
 üdüjo
@@ -1774,8 +2061,6 @@ yüwüdü
 ümü
 ünükü
 ütaajö
-üttö
 ütö
 üwö
 üwü
-∅-

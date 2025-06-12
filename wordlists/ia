@@ -1,3 +1,4 @@
+(Rad,TV) conduttrice
 (alcuno, alco) pensar a
 (con linea) piscar
 (multo) calide
@@ -7,12 +8,13 @@
 -age
 -agi-
 -alia
--amento
 -an
 -ana
 -ano
 -ante
 -ar
+-archa
+-archia
 -ari
 -aria
 -ario
@@ -20,6 +22,13 @@
 -astro
 -ata
 -ato
+-centric
+-centrismo
+-cida
+-cidio
+-cratia
+-cratic
+-dromo
 -ente
 -er
 -era
@@ -30,6 +39,9 @@
 -eto
 -etta
 -etto
+-ficar
+-graphia
+-graphic
 -ia
 -ian
 -iana
@@ -42,7 +54,6 @@
 -iero
 -ificar
 -il
--imento
 -ina
 -ion
 -ir
@@ -56,14 +67,20 @@
 -ite
 -itis
 -itude
+-ive
 -logia
+-logic
 -mente
 -mento
+-morphismo
+-nauta
+-nomia
 -oide
 -on
 -osis
 -scopio
 -tate
+-ura
 1.000.000ᵉ
 1000e
 100e
@@ -116,6 +133,7 @@ Azores
 B
 Bahamas
 Bahrein
+Balkanes
 Banda de Gaza
 Bangladesh
 Barbados
@@ -144,12 +162,14 @@ Byzantio
 C
 Cambodia
 Cameroun
+Canachia
 Canada
 Capo Verde
 Caracalla
 Cesaropapismo
 Chad
 Chechia
+Chemnitz
 Chile
 China
 Colombia
@@ -170,7 +190,6 @@ Cypro
 D
 DNA
 Danmark
-De die in die
 Dece Commandamentos
 Deo
 Djibuti
@@ -262,13 +281,13 @@ Kenya
 Kiev
 Kiribati
 Kosovo
+Kupiansk
 Kurdistan
 Kuwait
 L
 La Paz
 Lagos
 Laos
-Le die sequente
 Lesotho
 Libano
 Liberia
@@ -286,7 +305,6 @@ Mali
 Malvinas
 Mar Nigre
 Marathon
-Marianas del Norte
 Marroco
 Marte
 Mauritania
@@ -316,6 +334,7 @@ Niger
 Nigeria
 Norvega
 Norvegia
+Nove Anglaterra
 Nove Zelanda
 Novorossiysk
 O
@@ -364,6 +383,7 @@ Sahara Occidental
 Samoa
 Samoa American
 San Marino
+Sancte Sede
 Sancte Tomey Principe
 Satan
 Saturno
@@ -372,6 +392,7 @@ Scotia
 Secunde Guerra Mundial
 Senegal
 Seychelles
+Sicilia
 Sierra Leone
 Singapore
 Singapur
@@ -416,7 +437,6 @@ Tuvalu
 U
 URSS
 Uganda
-Un die
 Unicode
 Union Europee
 Union Sovietic
@@ -445,6 +465,7 @@ Zimbabwe
 a
 a basso
 a bordo de
+a commercial
 a in
 a la carte
 a mesura que
@@ -473,8 +494,10 @@ abbreviar
 abbreviate
 abdicar
 abdication
+abdicative
 abdominal
 abdomine
+abducite
 abduction
 aberrantia
 abiete
@@ -549,8 +572,10 @@ accusar
 accusate
 accusation
 accusationes
+accusative
 accusativo
 accusato
+acerate
 acerbar
 acerbe
 acetylen
@@ -637,6 +662,7 @@ aeration
 aere
 aeree
 aerifere
+aerometria
 aeronave
 aeroplano
 aeroplanos
@@ -728,12 +754,15 @@ ambular
 ambulatura
 amebiasis
 amenitate
+amica
 amico
 amino-acido
 amino-acidos
 amor
+amplifica
 amusante
 anabolic
+anachronismo
 anaerobic
 anagramma
 anarchismo
@@ -777,10 +806,14 @@ ansere albifronte
 ante
 ante le tempore
 anteriormente
+anthropo-
+anthropocentric
+anthropologia
 anthropomorphismo
 antibiotic
 antibiotico
 antibioticos
+anticapitalista
 antichristo
 anticoagulation
 anticorpore
@@ -817,6 +850,7 @@ apiculario
 apicultura
 apostrophe
 apostropho
+apparato auditive
 appare
 apparente
 apparer
@@ -824,6 +858,8 @@ apparera
 apparerea
 appareva
 apparite
+appello
+appendicectomia
 appendicitis
 apportar
 apprender
@@ -852,6 +888,8 @@ archivar
 archivista
 archivo
 archivo national
+arcion
+arco
 argentee
 argentin
 argento
@@ -890,6 +928,10 @@ ascoltator
 asino
 aspirator
 assatis
+assimila
+assimilar
+assimilate
+assimilava
 asterisco
 astronauta
 astronautica
@@ -899,6 +941,7 @@ astrostation
 astutia
 asymptomatic
 atheismo
+atheista
 atherosclerotic
 athleta
 atmosphera
@@ -955,8 +998,11 @@ austral
 autismo
 autistic
 auto
+auto-
 autobus
 autocontrolo
+autocratia
+autocratic
 automobile
 autor
 autorisar
@@ -996,6 +1042,7 @@ balalaika
 balancia
 balancias
 balbutiamento
+ballet
 banal
 banana
 banca
@@ -1043,6 +1090,7 @@ ben
 ben que
 beneficio
 benigne
+benjamin
 benque
 benvenite
 benvenite!
@@ -1078,12 +1126,14 @@ billetero
 binari
 biochimia
 biologia
+biologic
 biopsia
 biopsias
 bioptic
 bira
 biras
 bisexual
+bisexualitate
 bisyllabe
 bisyllabo
 bizarre
@@ -1103,6 +1153,7 @@ bon
 bon die
 bon nocte
 bon voler
+bonbon
 bonitate
 bordo
 boro
@@ -1118,6 +1169,7 @@ bove
 boves
 brachio
 bracio
+branca
 brasilian
 brasiliano
 breve
@@ -1174,6 +1226,7 @@ calce de Achilles
 calcea
 calceas
 calcium
+caldierata
 calefaction global
 calendula
 caler
@@ -1218,6 +1271,8 @@ canto
 capabile
 capillo
 capillos
+capitalismo
+capitalista
 capite
 capitolio
 capra
@@ -1225,6 +1280,7 @@ capretto
 capriciose
 capro
 car
+caramello
 caravana
 carbon
 carbonatate
@@ -1244,6 +1300,7 @@ carpas
 carpo
 carretta de mano
 carro
+caryologia
 casa
 casas
 cascada
@@ -1258,6 +1315,8 @@ cata vice plus
 catabolic
 catalan
 catalano
+cataphyllo
+catechistic
 catena
 catenas
 catheterisation
@@ -1279,6 +1338,8 @@ cavitate
 cavitates
 cavo nigre
 cec
+celebrar
+celebration
 celibatario
 celibe
 celle
@@ -1294,7 +1355,6 @@ centesimo
 centimetro
 cento
 cento milles
-cento un
 centos
 cera de scarpas (lustrar)
 cerebro
@@ -1302,6 +1362,7 @@ cerebros
 ceresia
 ceresias
 ceresiero
+certifica
 certo
 cervical
 cervice
@@ -1328,7 +1389,9 @@ chirurgia
 chirurgic
 chirurgo
 chirurgos
+chloric
 chloro
+chlorose
 choc
 chocolate
 chocolates
@@ -1337,6 +1400,7 @@ cholesterol
 chromatographia
 chromo
 chronic
+chrono-
 chronologia
 chronologic
 chronologista
@@ -1366,6 +1430,7 @@ cinque centos
 circulo
 circulo vitiose
 circumferentia
+circumscripte
 cirrose
 citate
 citate de Mexico
@@ -1373,6 +1438,7 @@ citates
 citation
 civic
 civil
+clamation
 clar
 clarificator
 classe
@@ -1403,6 +1469,9 @@ coccinella
 cochi
 cocina
 coclear
+coco
+codifica
+codificar
 coffro
 cognomine
 cognoscentia
@@ -1449,6 +1518,8 @@ commandar
 committee
 commode
 commun
+communismo
+communista
 communitate
 communitates
 commutar
@@ -1506,6 +1577,7 @@ concordava
 condemnation
 condensar
 condom
+conducite
 conductor
 conferentia
 conferentias
@@ -1542,9 +1614,11 @@ considerarea
 considerate
 considerava
 consilio
+consister
 consonante
 constantinopolita
 constantinopolitan
+constellation
 consumo
 contabilitate
 contamination
@@ -1604,15 +1678,21 @@ corrigera
 corrigerea
 corrigeva
 corrigite
+corrumper
+corrumpite
 cortical
 cortice
 cortices
+cortina de ferro
 cortisona
 cosa
 cosas
 cosina
 cosino
 cosinos
+cosmo-
+cosmodromo
+cosmologia
 cossinetto
 cossino
 costa
@@ -1637,6 +1717,7 @@ credera
 crederea
 credeva
 credite
+credule
 crema
 crescentia
 crescentias
@@ -1729,6 +1810,7 @@ de
 de auro
 de color khaki
 de cupro
+de die in die
 de ferro
 de juventute
 de latta
@@ -1786,7 +1868,15 @@ decima
 decime
 decimetro
 decimo
+declara
+declarar
+declaration
+declarative
+declaratori
+declarava
 decorar
+decorate
+decorava
 decretar
 decreto
 deducer
@@ -1832,9 +1922,13 @@ deman vespere tomorrow evening
 demanda
 demandar
 demandator
+demo-
 democratia
+democratic
+demographic
 demolir
 demone
+demoniac
 denominar
 densitate
 densitates
@@ -1866,6 +1960,7 @@ derelicte
 derider
 dermatologic
 describer
+descripte
 desde
 desde que
 deserer
@@ -1888,6 +1983,8 @@ destructive
 destruer
 detaliar
 detalio
+detenita
+detenito
 detestar
 detra
 deveni
@@ -1909,6 +2006,7 @@ dextre
 diabete
 diabetic
 diabolo
+diabolo de Tasmania
 diacono
 diagnose
 diagnoses
@@ -1959,6 +2057,7 @@ diphthongos
 directe
 direction
 director de orchestra
+dirigente
 diriger
 diriger se
 dirigibile
@@ -2016,10 +2115,15 @@ disparitate
 disparite
 dispensar
 disponer
+disponibile
+disponibilitate
+disrumper
+disrumpite
 dissection
 dissemination
 dissentir
 dissidente
+distacater
 distante
 distantia
 distantiar
@@ -2049,12 +2153,17 @@ docte
 doctor
 dodo
 dogo
+dollar statounitese
 dolor
 domestic
 domicilio
 domicilios
+domina
 dominante
 dominantia
+dominar
+dominate
+dominava
 dominica
 dominio public
 donar
@@ -2113,6 +2222,13 @@ effectos
 effervescente
 efficacia
 efficientia
+effortia
+effortiante
+effortiar
+effortiara
+effortiarea
+effortiate
+effortiava
 effortio
 effortios
 egoismo
@@ -2120,6 +2236,7 @@ egyptiano
 egyptio
 ejaculation
 elaborar
+elaborate
 electrocardiogramma
 electrocardiogrammas
 electromagnetismo
@@ -2164,6 +2281,8 @@ equalar
 equinoctio
 era
 eradication
+erigente
+eriger
 erosion
 erosiones
 erotic
@@ -2205,6 +2324,9 @@ et
 eta
 etate
 etates
+ethno-
+ethnographia
+ethnographic
 etiam
 etiam si
 etiologia
@@ -2251,6 +2373,7 @@ exclamate
 exclamava
 executar
 exegese
+exegeses
 exemplo
 exemplos
 exhibir
@@ -2309,6 +2432,8 @@ fanatico
 fangose
 farina
 farsa
+fascismo
+fascista
 fatigate
 fatue
 febre
@@ -2350,6 +2475,7 @@ ferrovia
 ferrovias
 fetiche
 ficato
+fidelitate
 filia
 filias
 filice
@@ -2399,6 +2525,7 @@ foder
 folic
 folio
 folio de herba
+folio de labor
 folle
 fonte
 fontes
@@ -2424,6 +2551,7 @@ forte
 fortemente
 fortia
 fortiar
+fortifica
 fortuite
 fortuna
 fortunatemente
@@ -2437,6 +2565,8 @@ franc
 francese
 franceses
 fratre
+fratricida
+fratricidio
 fraude
 fraxino
 fraxinos
@@ -2523,6 +2653,8 @@ ganiara
 ganiarea
 ganiate
 ganiava
+garantia
+garantias
 garantir
 garson
 gas
@@ -2551,6 +2683,7 @@ genoma
 gente
 gentes
 gentil
+geo-
 geographia
 german
 germanium
@@ -2565,10 +2698,12 @@ glande
 glandula
 globulina
 globulinas
+glorificar
 glossario
 glucosa
 glutine
 glutir
+glycinia
 gnosticismo
 goletta
 gonade
@@ -2621,6 +2756,7 @@ grosse
 grunnimento
 grunnir
 gruppo
+gruppo sanguinari
 gruppos
 grypho
 guanaco
@@ -2671,12 +2807,15 @@ hamaca
 hamo
 hamster
 hangar
+haploide
 haram
 hardir
 hastar
 hebreo
 hectometro
 helicoptero
+heliocentric
+heliocentrismo
 helium
 hemoglobina
 hemoglobinas
@@ -2716,6 +2855,7 @@ histos
 hobby
 hodie
 hollandese
+holophrase
 homaro
 homine
 homine de affaires
@@ -2778,8 +2918,11 @@ idea
 ideal
 ideas
 identic
+identifica
 identificar
 identificator
+identificava
+identitate
 ignora
 ignorante
 ignorar
@@ -2806,6 +2949,9 @@ illuminate
 illuminava
 imaginari
 imaginative
+imita
+imitar
+imitation
 immatur
 immediatemente
 immigration
@@ -2846,6 +2992,7 @@ inbrolliar
 incantamento
 incendio
 incidentia
+incirculamento
 incitar
 inclinar se
 incommun
@@ -2870,6 +3017,8 @@ ineligibile
 infante
 infante unic
 infantes
+infanticida
+infanticidio
 infarcimento
 infarcimento myocardial
 infarcimentos
@@ -2878,8 +3027,12 @@ infectiones
 infectiose
 inferno
 infertile
+infiltra
+infiltrar
+infiltrate
 infiltration
 infiltrationes
+infiltrava
 infirmera
 infirmeras
 inflation
@@ -2921,7 +3074,9 @@ inseniarea
 inseniate
 inseniator
 inseniava
+insidiose
 insimul
+insister
 insolente
 insolentia
 inspira
@@ -2931,6 +3086,8 @@ inspirara
 inspirarea
 inspirate
 inspirava
+instabilitate
+instabilitates
 installar
 installar microphonos
 instructor
@@ -2957,6 +3114,7 @@ interesse
 interesses
 interlingua
 international
+internationalismo
 interne
 internista
 internistas
@@ -2976,6 +3134,7 @@ interslavo
 intertenimento
 intervallo
 intervallos
+interveniente
 intervention
 interventiones
 inthronar
@@ -3028,6 +3187,7 @@ irradiar se
 irradiation
 irritar
 ischemia
+isegoria
 islamismo
 isola
 isolante
@@ -3118,6 +3278,7 @@ laboratorial
 laboratorio
 laboratorios
 laborava
+laccator
 lacerar
 lacerta
 laco
@@ -3158,6 +3319,7 @@ le
 le Azores
 le Verbo
 le anno passate
+le die sequente
 le vespere in the evening
 leader
 leaderar
@@ -3220,6 +3382,7 @@ libro de horas Book of hours
 libro major
 libros
 ligamento
+ligamine
 ligar
 lignage
 ligno
@@ -3230,7 +3393,9 @@ lingua
 lingua artificial
 lingua auxiliar
 lingua construite
+lingua creol
 lingua grec ancian
+lingua official
 lingua okinawan
 lingua polonese
 lingua svedese
@@ -3247,6 +3412,7 @@ linguistica
 linguistica diachronic
 linguistica historic
 linguisticas
+link
 lipidic
 lipido
 lipidos
@@ -3295,6 +3461,7 @@ lumine
 lumines
 luna
 lunas
+lunch
 luncha
 lunchante
 lunchar
@@ -3318,6 +3485,7 @@ machina de vapor
 machinista
 macroscopic
 maestro
+maestro del joco
 maestros
 magazin
 magenta
@@ -3342,6 +3510,7 @@ malediction
 malefic
 malgrado
 maligne
+maltratar
 mamma
 mammal
 mammari
@@ -3413,6 +3582,9 @@ masticarea
 masticate
 masticava
 mastiff
+masturba
+masturbar
+masturbation
 materialismo
 materialistic
 maternitate subrogate
@@ -3426,6 +3598,7 @@ matras
 matre
 matre affin
 matrice
+matricidio
 matur
 maximal
 maxime
@@ -3477,6 +3650,7 @@ memorias
 menaciar
 mendacio
 mendicar
+mennonita
 mense
 menses
 mensual
@@ -3484,6 +3658,7 @@ mensualmente
 mentalmente
 mente
 mentha
+menthas
 mentionar
 mentir
 mentita
@@ -3598,11 +3773,13 @@ mollir
 molybdeno
 momento
 momentos
+monarcha
 monarchia
+monarchias
+monarchic
 moneta
 moneta de auro
 monolingue
-mononucleose
 mononucleosis
 monotonia
 monson
@@ -3618,6 +3795,7 @@ montanias
 montanias russe
 monte
 montes
+moralitate
 morbide
 morbo
 morbos
@@ -3689,6 +3867,7 @@ nascite
 naso
 natar
 nation
+nationalismo
 natrium
 natural
 naturalmente
@@ -3724,8 +3903,10 @@ neoplasma
 neoplasmas
 nephron
 nette
+neutral
 neutralisar
 neutralitate
+neutre
 neutrino
 neutron
 nevo
@@ -3778,6 +3959,7 @@ norvegian
 norvegiano
 nos
 nostre
+nota de banca
 novanta
 novantesime
 novantesimo
@@ -3845,6 +4027,7 @@ obstruction
 obstructiones
 obtener
 obtuse
+obvie
 oca
 occider
 occultar
@@ -3874,6 +4057,10 @@ odio
 offline
 ohm
 olfacer
+oligarcha
+oligarchia
+oligarchias
+oligarchic
 olim
 oliva
 olympiade
@@ -3894,8 +4081,10 @@ oncologia
 onere del prova
 opac
 opacitate
+operar
 operation
 operationes
+opilion
 opposite
 optime
 ora
@@ -3906,6 +4095,8 @@ orator
 ordinar
 ordine
 organic
+organisa
+organisar
 organismo
 organismos
 organo
@@ -3938,6 +4129,9 @@ oxygeno
 p
 p.ex.
 pace
+pacific
+pacifismo
+pacifista
 paga
 pagan
 pagar
@@ -3978,6 +4172,7 @@ paragrapho
 paralyse
 parametro
 parametros
+paraphysic
 paraplegia
 parapluvia
 pardono
@@ -3990,6 +4185,7 @@ pareva
 parite
 parla
 parlamentarismo
+parlamento
 parlante
 parlar
 parlar monotonemente
@@ -4075,6 +4271,7 @@ pena
 pene
 penicillina
 penicillinas
+peninsula
 peninsular
 penis
 penises
@@ -4145,6 +4342,7 @@ philosophos
 phlegmatic
 phonema
 phonemic
+phonemica
 phonetic
 phonetica
 phonologia
@@ -4178,6 +4376,7 @@ pingeva
 pingite
 pionero
 pipion
+pira
 piscar
 pisce
 pisces
@@ -4203,10 +4402,12 @@ planator
 planatores
 plancton
 planeta
+planeta nano
 planta
 plantar
 plantation
 plasma
+plasma del sanguine
 plausibile
 plen
 plena
@@ -4235,6 +4436,7 @@ pocos
 poetic
 pois
 polac
+polaritate
 polir
 politic
 politica
@@ -4245,6 +4447,7 @@ polluer
 polo nord
 polo sud
 polonese
+polyamor
 polyglotte
 polyglottismo
 polyglotto
@@ -4272,6 +4475,8 @@ porco
 porco de India
 porcos
 porcos de India
+pornographia
+pornographic
 porta
 portas
 portion
@@ -4335,6 +4540,9 @@ preoccupar se de bagatelas
 preparar feno
 preparation
 preposition
+prescriber
+prescripte
+presentatrice
 presente
 preservativo
 presidente
@@ -4370,6 +4578,7 @@ pristine
 pro
 proba, prova
 probabilemente
+probabilitate
 problema
 problemas
 procentage
@@ -4410,8 +4619,11 @@ promovite
 pronominal
 pronomine
 pronomine personal
+pronuncia
 pronunciamento
+pronunciar
 pronunciation
+pronunciava
 propaganda
 propagar se
 prophylactic
@@ -4420,6 +4632,8 @@ proponer
 proportion
 proprietate
 proque
+proscriber
+proscripte
 prostata
 prostituta
 protagonista
@@ -4488,6 +4702,7 @@ pupo
 pupu
 pur
 pure
+purifica
 puritate
 purpura
 purpure
@@ -4569,10 +4784,10 @@ radio
 radiologia
 ramen
 rametto
+ramo
 rapide
 rapidemente
 rapido
-rar
 rasorio de Occam
 rate
 ration
@@ -4611,13 +4826,20 @@ recognoscimento
 rectal
 rectangulo
 recte
+recuperar
 recuperation
 reducer a zero
+reducite
 reforestar
 refractor
+regal
+regales
+regalitate
 rege
 regina
 region
+regi•cida
+regi•cidio
 regnar
 regno
 regno de gloria
@@ -4658,6 +4880,7 @@ renovator
 renunciar
 repassar
 repasto
+repastos
 repeter
 repinger
 replica
@@ -4666,6 +4889,7 @@ reportos
 reposar
 representation
 reprochar
+reproducite
 reptar
 reptile
 republica
@@ -4680,6 +4904,7 @@ requireva
 requirimento
 requirimentos
 requirite
+requisite
 resecar
 resection
 resentir
@@ -4704,6 +4929,8 @@ restos
 resultar
 resultato
 resultatos
+retardar
+retardarea
 rete
 rete pro le capillos
 reticentia
@@ -4786,6 +5013,7 @@ russa
 russe
 russo
 ruthenium
+régulo
 röntgenogramma
 s
 sabbato
@@ -4813,6 +5041,7 @@ salon
 saltator
 salto a ventre de immersion
 salute
+salute vulcan
 salvage
 salvar
 salve
@@ -4864,6 +5093,7 @@ scriber
 scribera
 scriberea
 scribeva
+scribite
 scripte
 scriptor
 scriptura
@@ -4898,6 +5128,7 @@ sedeva
 sedia
 sedias
 sedite
+seducite
 selenium
 seleri
 seliger
@@ -4912,6 +5143,8 @@ seniora
 senioretta
 sententia
 sententiar
+separar
+separate
 septagesime
 septanta
 septantesime
@@ -4965,11 +5198,14 @@ sexagesimo
 sexanta
 sexantesime
 sexantesimo
+sexismo
 sexo
 sexta
 sexte
 sextetto
 sexto
+sexualitate
+sexy
 si
 si il te place
 si il vos place
@@ -5009,6 +5245,7 @@ sincer
 sindonologia
 sinistre
 sinos
+sionismo
 sionista
 sito de construction
 sito del web
@@ -5020,7 +5257,10 @@ skeleto
 skeletos
 skunk
 socculo
+socialismo
+socialista
 societate
+societates
 sodium
 sofa
 software
@@ -5056,6 +5296,8 @@ spasmo
 spasmos
 spastic
 spatio
+spatio vectorial
+spatiotempore
 specialmente
 specificar
 specimen
@@ -5102,6 +5344,9 @@ stabiliva
 stadio
 stadios
 stagno
+stalinismo
+stalinista
+stalinistic
 stanno
 star
 statal
@@ -5171,6 +5416,8 @@ subjunctive
 subjunctivo
 subnormal
 subrogation
+subscriber
+subscripte
 subscriptor
 subsidentia
 subsistentia
@@ -5299,6 +5546,11 @@ taverna
 taxi
 taxon
 technetium
+techno-
+technocratia
+technocratic
+technologia
+technologic
 tecto
 tegula
 tegular
@@ -5332,13 +5584,14 @@ tentar
 tentation
 tentativa
 tentativas
-tenue
 tepide
 terminar
 termination
 terrassa
 terrer
 territorio
+terrorismo
+terrorista
 tertia
 tertie
 tertie velocitate
@@ -5358,10 +5611,14 @@ the jalne
 thema
 themas
 thematicamente
+theo-
+theocratia
+theocratic
 theophania
 theoria de chordas
 theoria del chaos
 theoric
+theorico
 theosophic
 therapeutic
 therapia
@@ -5414,8 +5671,12 @@ traduction de amateur
 trainar
 traino
 trainos
+tram
 trans
+transcriber
+transcripte
 transexualitate
+transfusion sanguine
 transgenere
 transitori
 transphobia
@@ -5436,7 +5697,9 @@ trilinguismo
 trimestral
 trimestralmente
 trimestre
+trinitate
 tripas
+triplar
 trisection
 triste
 trivial
@@ -5478,6 +5741,7 @@ turdo
 turre eboree
 tusse
 tusses
+tussir
 tutear
 twittera
 twitterante
@@ -5504,6 +5768,7 @@ umbra
 umbras
 umbrella
 un
+un die
 un million
 un oculo pro un oculo
 uncino
@@ -5514,6 +5779,7 @@ unguento
 ungula
 ungulas
 uni-
+unifica
 unificar
 uniforme
 unite
@@ -5587,6 +5853,7 @@ vegetal
 vegetar
 vehiculo spatial
 velcro
+velodromo
 vender
 vendita
 venditor
@@ -5615,6 +5882,7 @@ verde
 verde lima
 verde mentha
 verdicto
+verifica
 veritate
 verme
 verme de seta
@@ -5622,6 +5890,7 @@ vermina
 verminante
 vermut
 vernacular
+vernisse
 verre
 versatilitate
 version
@@ -5642,11 +5911,13 @@ vetere
 vetule
 vexar
 vexator
+vexillologia
 via
 viage
 viagiar
 vibrar
 vice versa
+vicerege
 vicin
 vicinitate
 vicino
@@ -5793,5 +6064,6 @@ zirconium
 zona
 zoologia
 zoonose
+zoonymo
 zoroastrismo
 Čajkovskij

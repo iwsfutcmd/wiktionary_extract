@@ -21,7 +21,6 @@
 -drang
 -e
 -eng-
--et-
 -gen
 -gija
 -gimik
@@ -32,7 +31,6 @@
 -grim-
 -gro
 -gro-
--it-
 -ja
 -jit-
 -jok
@@ -74,7 +72,6 @@
 -rang
 -rong-
 -ro·-
--ru·-
 -sai
 -so-
 -sok-
@@ -90,7 +87,6 @@
 A·chik
 A·chik aganma?
 A·chikku
-Braa
 English aganma?
 aai
 abat
@@ -116,7 +112,6 @@ aguk
 aiau
 aina
 airo
-ai·a
 ajong
 ak-
 akgipin
@@ -134,9 +129,9 @@ amua
 amuta
 am·a
 am·pila
-ancheng
 andala
 andalba
+ang-
 anga
 angde
 anggri
@@ -145,7 +140,6 @@ angko
 angni
 angsu
 ang·ke
-ang·ki
 anti
 anti-
 an·chaka
@@ -187,7 +181,6 @@ a·dok
 a·gilsak
 a·kinchi
 a·kinte
-a·pek
 a·rongga
 a·sam
 a·samo
@@ -221,11 +214,9 @@ bari-bagan
 baring
 basako
 basea
-bat-
 bata
 batdo
 bate
-bati
 ba·ra
 bebak
 bebe ra·a
@@ -236,6 +227,7 @@ beng·a
 ben·chidik
 be·a
 be·en
+bi-
 bia
 biap
 bibal
@@ -245,7 +237,6 @@ bichri
 bidu
 bigil
 bigro
-bigru
 bija
 bijak
 bijol
@@ -267,7 +258,6 @@ bil·a
 bimang
 bimchipe
 biming
-bimung
 bineka
 bipong
 bisimang
@@ -307,10 +297,10 @@ bonkama
 bon·chota
 bostu
 bra
+braa
 brea
 breta
 bri
-bria
 bring
 bua
 budu
@@ -366,6 +356,7 @@ chiklok
 chikol
 childoa
 chimik
+ching-
 chinga
 chingaan·ching
 chini
@@ -435,8 +426,6 @@ ding·boma
 diona
 dipat
 dipdiping
-dipet
-di·sa
 do
 dok
 doka
@@ -485,8 +474,6 @@ do•chibiking
 dring
 dugaa
 dut
-du·-
-du·chi
 du·dap
 enga
 eng·a
@@ -555,7 +542,6 @@ gitoknal
 gitokreng
 gittam
 gittama
-gni
 goka
 golpo ka·a
 golpoa
@@ -593,7 +579,6 @@ hai
 hai·a
 hai·chaka
 ham·a
-hancheng
 hang·ki
 han·cheng
 han·chi
@@ -608,7 +593,6 @@ ha·dam
 ha·ding
 ha·dipek
 ha·dok
-ha·drang
 ha·ga
 ha·gindila
 ha·gipok
@@ -632,7 +616,6 @@ ha·stap
 ha·tinggak
 henggok
 hita
-hi·rurata
 hoe
 huro
 ia
@@ -645,14 +628,12 @@ indinari
 indita
 ingrima
 isol
-isong
 i·a
 i·anga
 i·angpil·a
 i·baa
 i·bapil·a
 i·rurata
-i·rura·a
 ja
 jajong
 jak
@@ -814,7 +795,6 @@ krong
 kuicha
 kusi
 kusi ong·a
-kutchia
 ku·-
 ku·anga
 ku·chaka
@@ -852,7 +832,6 @@ mande ra·a
 mande ra·ja
 mande-
 manderang
-mandi
 mang-
 mangmang
 mangroa
@@ -894,7 +873,6 @@ meattam
 mechobal
 mejao
 menggo
-mengo
 mepring
 merong
 mes
@@ -911,7 +889,6 @@ me·pilip
 me·tra
 mi
 mibipang
-mijao
 mik
 mikbroka
 mikchi
@@ -938,17 +915,11 @@ miksua
 mikta
 ming-
 minga
-mipang
-mirong
 misi
 misimi
 mitchura
 mitela
 mitim
-mi·asa
-mi·chik
-mi·dik
-mi·gon
 mi·tra
 mojimat
 mol·mola
@@ -977,6 +948,7 @@ nangchongmota
 nangchongmotani
 nangdika
 nanggri
+nang·-
 nang·ko gronga kusi ong·a
 nang·ko mitelbejok
 nang·na namgipa sal ong·china
@@ -1146,7 +1118,6 @@ riponchi
 riprapani
 rita
 ritchara
-ri·a
 roa
 robol
 rokom
@@ -1157,7 +1128,6 @@ rongchona
 rongdik
 rong·kol
 rong·te
-rong·ti
 ron·chaka
 ron·kama
 ru-a
@@ -1208,7 +1178,6 @@ silga
 silkata
 silpi
 silso
-silsu
 sima
 sim·a
 singho
@@ -1216,7 +1185,6 @@ sing·a
 sini
 sininga
 sipai
-si·al
 si·ol
 skang
 skenga
@@ -1226,7 +1194,6 @@ sko
 skobiking
 skotong
 sku
-sni
 soa
 sok
 soka
@@ -1256,14 +1223,10 @@ sre
 srea
 sringa
 stika
-stipat
-stipet
 sua
 suino
-sulso
 su·a
 su·gipa
-tabaa
 tama
 tampi
 tampisimik
@@ -1292,10 +1255,6 @@ tim-
 timbong
 timi na·tok
 ting·napa
-ti·-
-ti·brong
-ti·gachu
-ti·rik
 toa
 tokbirim
 tol·a
@@ -1347,3 +1306,4 @@ wa·dangkep
 ডোলা
 ফ্রাপ
 বিমুং
+—

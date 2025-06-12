@@ -1,3 +1,4 @@
 *.json
+*.jsonl
 wordlists/*
 .DS_Store

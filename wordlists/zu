@@ -1,4 +1,3 @@
-* -bonela
 -abana
 -abeka
 -abela
@@ -28,7 +27,6 @@
 -alisa
 -alisisa
 -aliwa
--amuka
 -amukelana
 -amukeleka
 -amukelela
@@ -99,6 +97,7 @@
 -bona
 -bonakala
 -bonana
+-bonela
 -bonga
 -bongeka
 -bongela
@@ -140,7 +139,6 @@
 -ehlisisa
 -ehliwa
 -eka
--ekhama
 -ela
 -elela
 -eluka
@@ -159,9 +157,6 @@
 -eqisa
 -eqisisa
 -eqiwa
--esula
--esutha
--etha
 -eyana
 -eyayeya
 -eyeka
@@ -238,7 +233,6 @@
 -mi
 -mnyama
 -mpunga
--muka
 -munca
 -munya
 -na
@@ -315,11 +309,8 @@
 -qhafa
 -qhamuka
 -qonda
--saba
 -sala
 -sebenzisa
--shanela
--shanyela
 -shaqeka
 -shayela
 -shaywa
@@ -341,9 +332,7 @@
 -teleka
 -thandana
 -thengisa
--thuka
 -thwasa
--thúka
 -ulula
 -vukeka
 -vukela
@@ -375,6 +364,8 @@ C
 D
 Dladla
 Dlamini
+Double qoppa
+Double qoppa with diaeresis
 E
 F
 G
@@ -382,11 +373,12 @@ H
 I
 I-Afganistani
 I-Albaniya
+I-Ayilendi
 IAustriyiya
+IBloemfontein
 IDenimaki
 IJapani
 IKhanada
-IKrowati
 ILibiya
 ILondon Kakhulu
 IMalawi
@@ -397,7 +389,9 @@ IShayina
 ISwidi
 ITaliya
 ITsheki
+Ilanga
 Impumalanga Asia
+Inyanga
 IsiHolandi
 IsiKhathalani
 IsiLilo sikaJeremiya
@@ -442,6 +436,7 @@ Ujehova
 Ukhisimuzi
 Umoya ongcwele
 Unayo intombi?
+Uzungezohlelo lweLanga class 1a/1a
 V
 W
 Wikipedia
@@ -565,6 +560,7 @@ azisa
 b
 ba
 ba-
+baThwa
 baba
 badumazeke
 bala
@@ -704,6 +700,7 @@ dana
 dansa
 danyana
 dayisa
+days of the week: usuku lwesonto: iSonto · uMsombuluko · uLwesibili · uLwesithathu · uLwesine · uLwesihlanu · uMgqibelo [edit]
 dazuka
 dazula
 de
@@ -798,13 +795,44 @@ esaba
 eshwama
 esi-
 esiba-
+esigujini
+esikhumbeni
+esikhweneneni
+esilevini
+esilimeni
+esilondeni
+esilwaneni
+esilweni
+esimenyeni
+esinqeni
+esintwini
+esinyeni
+esiqalweni
+esiqholweni
+esisheni
+esonweni
 ethemba
 ethuka
 ethwasa
 eya
 ezi-
+ezigujini
+ezikhumbeni
+ezikhweneneni
+ezilevini
+ezilimeni
+ezilondeni
+ezilwaneni
+ezilweni
 ezim-
+ezimenyeni
 ezin-
+ezinqeni
+ezinyeni
+eziqalweni
+eziqholweni
+ezisheni
+ezonweni
 f
 fa
 faka
@@ -972,6 +1000,7 @@ i-Afrika
 i-Antaktika
 i-Ayilendi
 i-Eshiya
+i-NATO
 i-Ostreliya
 i-awunsi
 i-ephuleli
@@ -986,9 +1015,9 @@ iFulansi
 iFulentshi
 iGauteng
 iGibhithe
-iGibithe
 iGoli
 iJalimani
+iKapa
 iKhanada
 iKrowati
 iLanda
@@ -1003,6 +1032,7 @@ iNtshonalanga-Kapa
 iNyakatho-Kapa
 iNyakatho-Ntshonalanga
 iPhasika
+iPhiti
 iPhothugali
 iPitoli
 iPiyano
@@ -1018,7 +1048,6 @@ iTaliya
 iTheku
 iTunisiya
 iYurobhu
-iYurophu
 iawunsi
 ibala
 ibalazwe
@@ -1033,10 +1062,8 @@ ibhaloni
 ibhanoyi
 ibhantshi
 ibhasi
-ibhayisekili
 ibhayisikili
 ibhayisikobho
-ibhayisikobhu
 ibhaza
 ibhentshi
 ibhiliyoni
@@ -1215,11 +1242,11 @@ ikholwase
 ikhompiyutha
 ikhompyutha
 ikhona
+ikhondomu
 ikhonsathi
 ikhowe
 ikhukhamba
 ikhukhu
-ikhukhumba
 ikhulu
 ikhuwu
 ikhwapha
@@ -1504,10 +1531,8 @@ injula
 inkaba
 inkabi
 inkala
-inkalankala
 inkambo
 inkampane
-inkampani
 inkanyezi
 inkanyezi enomsila
 inkathazo
@@ -1587,6 +1612,7 @@ intela
 intengo
 intethe
 intibane
+intilaphi
 intini
 into
 into yokukhanyisa
@@ -1633,7 +1659,6 @@ inyumba
 inzima
 inzondo
 inzulu
-ipalamende
 ipaloni
 ipasi lokuhamba
 ipasipoti
@@ -1659,7 +1684,6 @@ ipiki
 ipipi
 ipiyano
 iplanethi
-ipulanethi
 ipulangwe
 ipulazi
 iqabi
@@ -1686,7 +1710,6 @@ iqiniso class lass9
 iqola
 iqoqo
 iqwahhashi
-irayisi
 iresiphi
 irobhothi
 irubhabhu
@@ -1744,6 +1767,7 @@ isi-Sebhiya
 isiBhelarashiyani
 isiBhunu
 isiCelankobe
+isiEsperanto
 isiFulentshi
 isiHawayi
 isiHebheru
@@ -1758,6 +1782,7 @@ isiNguni
 isiPutukezi
 isiRashiya
 isiShayina
+isiShomo
 isiShona
 isiSpeyini
 isiSuthu
@@ -1818,7 +1843,6 @@ isidula
 isidumbu
 isidwaba
 isidwebo
-isifazana
 isifazane
 isifingqo
 isifo
@@ -1989,6 +2013,7 @@ isithixo
 isithokelo
 isithole
 isithombe
+isithununu
 isithunywa
 isithunzi
 isithupha
@@ -2000,6 +2025,7 @@ isitili
 isitimela
 isitini
 isitofu
+isitolo
 isitsha
 isitshalo
 isitulo
@@ -2027,6 +2053,7 @@ isosa
 isoso
 isu
 isundu
+iswidi
 isángoma
 isígqi
 isínci
@@ -2064,6 +2091,7 @@ ivoti
 ivuka
 ivukusi
 ivukuzi
+ivusela
 iwa
 iwalerosi
 iwashi
@@ -2084,31 +2112,53 @@ iyintshi
 izaba
 izabizwana
 izabulo
+izakhiwo
 izala
 izambane
 izandiso
 izandla
+izando
 izangoma
 ize
 izembe
 izenzo
 izi-
+izibaya
+izibhakabhaka
 izibindi
+izibongo
 izibungu
+izibunu
+izidingo
+izidlele
+izidlo
+izidumbu
+izifo
+izifuba
+izifundo
 izifutho
+izigcawu
+izigidi
 izigqoko
+izigubhu
 izihlabathi
 izihlahla
 izihlalo
+izihlangu
 izihloko
+izihlwele
 izikhala
 izikhova
 izikhulu
 izikhumba
+izikhwenene
 iziko
 izikova
+izilevu
+izilima
 izilimi
 izilo
+izilonda
 izilwandle
 izilwane
 izim-
@@ -2119,7 +2169,9 @@ izimbewu
 izimbizo
 izimbongi
 izimbube
+izimemo
 izimini
+izimo
 izimpala
 izimpande
 izimpaphe
@@ -2156,6 +2208,7 @@ izinkanyezi
 izinkozi
 izinkungu
 izinkweshe
+izinqe
 izinsana
 izinsizwa
 izinso
@@ -2181,10 +2234,13 @@ izinyosi
 izinzipho
 iziphawulo
 izipho
+iziqalo
+iziqholo
 izisu
 izitha
 izithelo
 izolo
+izono
 izu
 izulu
 izwamoya
@@ -2296,9 +2352,11 @@ kobaba
 kodwa
 konje
 ku-
+kubaThwa
 kubaba
 kude
 kulufu
+kumuThwa
 kuna-
 kusasa
 kwa-
@@ -2395,6 +2453,7 @@ m-
 ma
 ma-
 mahhala
+mahosha
 makhaza
 mangala
 mangalisa
@@ -2431,6 +2490,7 @@ msweswana
 mthubi
 mtoti
 mu-
+muThwa
 muka
 munca
 muntu
@@ -2470,6 +2530,7 @@ neno
 netha
 nga-
 ngaki
+nganaki
 ngaphakathi
 ngaphandle
 ngasemuva
@@ -2572,7 +2633,6 @@ obaba
 obani
 obomvu
 obu-
-ocebile omusha
 oda
 ofishi
 okhweshe
@@ -2806,10 +2866,25 @@ shushisa
 shwabana
 si-
 sidlo
+sigubhu
 sika
+sikhumba
+sikhwenene
+silevu
+silima
+silo
+silonda
+silwane
+simemo
+simo
 sina
 sinda
 singa
+sinqe
+sintu
+sipho
+siqalo
+siqholo
 sithini isikhathi
 sithini isikhathi?
 siza
@@ -2821,6 +2896,7 @@ sombuluka
 sombulula
 sona
 sondela
+sono
 suka
 sukela
 sukuma
@@ -2928,7 +3004,6 @@ uMashi
 uMasi
 uMasingana
 uMasingana class 1a/2a
-uMbasa
 uMbaso
 uMenzi
 uMerkuriyu
@@ -2937,11 +3012,11 @@ uMfumfu
 uMgqibelo
 uMgungundlovu
 uMhlaba
+uMkhulukhulwana
 uMpandu
 uMsombuluko
 uNcibijane
 uNcwaba
-uNcwabakazi
 uNdasa
 uNdida
 uNepuhthuni
@@ -2954,6 +3029,13 @@ uNhlolanja
 uNhloyile
 uNkanku
 uNkulunkulu
+uNochoko
+uNokhwezi
+uNolundwa
+uNomakhekheba
+uNomaxhama
+uNomjubane
+uNotshezi
 uNovemba
 uNtulikazi
 uNtulini
@@ -3005,6 +3087,7 @@ ubhova
 ubhozo
 ubhusha
 ubhuti
+ubhéjane class 1a/2a
 ubisi
 ubizo
 ubolo
@@ -3335,6 +3418,7 @@ umama class 1a/2a
 umame
 umanqulwana
 umashiqela
+umaskandi
 umata
 umazi
 umbala
@@ -3357,6 +3441,8 @@ umbono
 umbulali
 umbuthi
 umcabango
+umcako
+umcamelo
 umcebi
 umcebo
 umcibisholo
@@ -3568,7 +3654,6 @@ umthanda
 umthandazi
 umthandi
 umthetho
-umthini
 umthofu
 umthombo
 umthondo
@@ -3632,6 +3717,7 @@ umzekelo
 umzimba
 umzingeli
 umzukulu
+umzulane class 3/3
 umzuzu
 umzuzwana
 uncedo
@@ -3658,7 +3744,6 @@ unogwaja
 unohha
 unondwebu
 unondwebu class 1a/2a
-unonkala
 unozungezilanga
 unqangi
 unswinswinswi
@@ -3696,7 +3781,6 @@ uphakathi
 uphalafini
 uphaphe
 uphaphe class 11/10
-uphayinapha
 uphayinaphu
 uphayinaphu class 1a/2a
 uphepha
@@ -3729,7 +3813,6 @@ usogekle
 usuku
 usuku class 11/10
 usuku lokuzalwa
-usuku lwesonto
 uswidi
 utamatisi
 utamatisi class 1a/2a
@@ -3768,8 +3851,10 @@ uzibuthe class 1a/2a
 uzipho
 uzipho class 11/10
 uzwane
+uḿduzu
 uḿhwebi
 uḿkhathí
+uḿkhombo
 v
 vakasha
 vakashela
@@ -3861,16 +3946,31 @@ zala
 zama
 ze
 zi-
+zigubhu
+zikhumba
+zikhwenene
 zila
+zilevu
+zilima
+zilo
+zilonda
+zilwane
 zim-
+zimemo
+zimo
 zin-
 zinga
 zingela
+zinqe
 zinza
+zipho
+ziqalo
+ziqholo
 zisa
 zo
 zona
 zonda
+zono
 zu
 zungeza
 zwa
@@ -3883,3 +3983,4 @@ zwakala
 úbumpôfu
 Ɓ
 ɓ
+ϟ

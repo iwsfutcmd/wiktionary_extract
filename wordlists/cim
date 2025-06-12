@@ -48,7 +48,7 @@
 52: sbéen-un-vüuskh
 53: drai-un-vüuskh
 54: viar-un-vüuskh
-55: vünv-un-büuskh
+55: bümb-un-vüuskh
 56: zèks-un-vüuskh
 57: ziban-un-vüuskh
 58: acht-un-vüuskh
@@ -89,7 +89,6 @@
 97: ziban-un-nòinskh
 98: acht-un-nòinskh
 99: nòin-un-nòinskh
-Accusative
 Altaborg
 Altarkhnotto
 Aspach
@@ -105,7 +104,6 @@ Bèarn
 Bèllostant
 Büutze (Mezzaselva)
 CD
-Dative
 Drai Rè
 Fikinnar
 Folgrait
@@ -122,7 +120,6 @@ Hasplkhnott
 Hear
 Hèere
 Hòlighe Brau
-Hòlighe Bràu
 Jaut
 Kalbraitag
 Kalnètsch
@@ -142,7 +139,6 @@ Mittebald
 Mitteballe
 Monteruf
 Naügedjar
-Nominative
 Nåne
 Oastarn
 Paul
@@ -156,7 +152,6 @@ Rogatziongen
 Rotz
 Rovrait
 Rovràit
-Sette Comuni
 Skada
 Slait
 Slege
@@ -166,7 +161,6 @@ Tautsch
 Tcénne
 Tetsch
 Toni
-Tredici Comuni
 Tria
 Vaschom
 Vassom
@@ -733,7 +727,6 @@ bròille
 bròillen
 bròint
 bròinte
-bròintekhoot
 bròintekhot
 bròst
 bròzama
@@ -919,7 +912,6 @@ bòotze
 bòr
 bòrbart
 bòrfan
-bòrgasta
 bòrgastan
 bòtta
 bòtza
@@ -1042,6 +1034,7 @@ dat
 daumo
 dauran
 daurt
+days of the week: taaghe dar bòchen: méentag · èrtag · mittog · fiistag · braitag · zaastag · zuntag [edit]
 de
 den
 den-
@@ -1344,7 +1337,6 @@ etlechar
 etleches
 etzan
 ezza
-ezzan
 ezzl
 ezèmpien
 faada
@@ -1371,6 +1363,7 @@ faméeja
 fan
 fanna
 fannen
+far
 fassìn-fassòn
 fazöol
 fazöola
@@ -1851,6 +1844,16 @@ gelacht
 gelesa
 gem
 genaaro
+genaaro avrell ghenaar
+genaaro disèmber ghenaar
+genaaro febraaro ghenaar
+genaaro genaaro ghenaar
+genaaro ghenaar ghenaar
+genaaro hòrnich ghenaar
+genaaro maartzo ghenaar
+genaaro majo ghenaar
+genaaro moajo ghenaar
+genaaro mèertzo ghenaar
 geprenk
 gertle
 gerècht
@@ -3135,7 +3138,6 @@ lèzan
 lòch
 lòkhan
 lòllo
-lòonekhot
 lóofan
 löffl
 lözan
@@ -3145,6 +3147,16 @@ maanen
 maano
 maanont
 maartzo
+maartzo avrell mèertzo
+maartzo disèmber mèertzo
+maartzo febraaro mèertzo
+maartzo genaaro mèertzo
+maartzo ghenaar mèertzo
+maartzo hòrnich mèertzo
+maartzo maartzo mèertzo
+maartzo majo mèertzo
+maartzo moajo mèertzo
+maartzo mèertzo mèertzo
 machan
 madjo
 magar
@@ -3159,6 +3171,16 @@ maines
 maistra
 maistro
 majo
+majo avrell moajo
+majo disèmber moajo
+majo febraaro moajo
+majo genaaro moajo
+majo ghenaar moajo
+majo hòrnich moajo
+majo maartzo moajo
+majo majo moajo
+majo moajo moajo
+majo mèertzo moajo
 mal
 malaméntar
 malzait
@@ -3174,12 +3196,14 @@ marka
 martzo
 maskera
 matak
+matak · mertak · mittak · funftak · fraitak · samtak · suntak [edit]
 maul
 maurar
 maus
 me
 memme
 menta
+menta · erta · mitta · fintzta · vraita · såntzta · sunta [edit]
 mertak
 met
 mettar
@@ -3328,7 +3352,7 @@ plabe
 plaim
 platta
 pluat
-podem
+pluut
 poden
 podjarakk
 pome
@@ -3554,9 +3578,7 @@ sun
 sunjo
 sunn
 sunta
-sunta – Luserna dialect:: See also: Sette Comuni
 suntak
-suntak – Tredici Comuni dialect:: See also: Luserna
 supp
 suul
 såntzta
@@ -3581,7 +3603,6 @@ süaz
 süje
 süpfle
 taaghe
-taaghe dar bòchen
 tabarakh
 tabarkhar
 tabarnar
@@ -3665,7 +3686,6 @@ umgekheart
 ummaz
 umme
 un
-une
 ununzbuantzekh
 vaadom
 vaane
@@ -3905,7 +3925,6 @@ vöosert
 vörran
 vüar
 vüart
-vüchtzan
 vüchtzane
 vüchtzekh
 vüf
@@ -3969,7 +3988,6 @@ zun
 zung
 zunna
 zuntag
-zuntag – Sette Comuni dialect:: See also: Luserna
 zuumar
 zàure kapützen
 zèa

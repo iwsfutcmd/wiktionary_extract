@@ -1,3 +1,4 @@
+-jne
 A
 B
 D
@@ -16,6 +17,7 @@ Nöörje
 Nøørje
 Nøørjen gånkarijhke
 O
+Oslove
 P
 R
 Russlaante
@@ -40,7 +42,6 @@ aajroe
 aajteles
 aaksjoe
 aarhtse
-aehtjie
 aejkie
 aejlege
 akte
@@ -53,9 +54,6 @@ baakoegåetie
 baakoegærja
 baapalohke
 baapelge
-baenie
-baernie
-balve
 bangseme
 beapmoe
 bearjadahke
@@ -72,7 +70,6 @@ boernesgåetie
 bovtje
 bovtse
 brorke
-buaregh
 budtedh
 buejhtehke
 buerie
@@ -83,11 +80,11 @@ buerie jïjje
 buertie
 buorre boahtem
 buste
+buvrie
 båajhkedh
 båajme
 båavsedh
 båetedh
-båetskie
 bïegke
 bïejedh
 bïenje
@@ -118,7 +115,6 @@ dovhke
 duarsta
 duvvege
 duvvehke
-dålle
 dåtnoeh
 dååpmehke
 dæjsta
@@ -141,7 +137,6 @@ gaamege
 gaarenasse
 gaase
 gadtje
-gaejpie
 gaektsie
 galkedh
 garhke
@@ -155,6 +150,10 @@ giefies
 gierehtse
 gierhken garres
 gierhkie
+gierkie
+gierkiebaelie
+gierkiebeelhte
+gierkienlaejpie
 gihpere
 gihtjedh
 goeksege
@@ -162,11 +161,10 @@ goevte
 gohtje
 golme
 govhte
+govkijeraajroe
 govledh
 govse
 guarkedh
-gudtsien
-guehpere
 guehperelaahke
 guelie
 guelie-moevse
@@ -175,6 +173,7 @@ guktie veasoeh
 gurhtie
 gyhtjelasse
 gåahtsedh
+gåajvoe
 gåalnedh
 gåaroje
 gåehpele
@@ -183,7 +182,6 @@ gånkarijhke
 gåvva
 gåådte
 gååkse
-gæjhtoe
 gærhkoe
 gærja
 gïege
@@ -192,11 +190,10 @@ gïele
 gïerene
 gïerestidh
 gïermesje
-gïete
-gïjre
 gïknjele
 gïtne
 göökte
+göökteluhkie
 gööledh
 h
 haermie
@@ -212,7 +209,7 @@ iehkede
 ij
 j
 jaepie
-jaevrie
+jaepieraaste
 jah
 jalhkasjidh
 jalnga
@@ -229,7 +226,6 @@ jovhkedh
 jovhtsedh
 jovkedh
 juekedh
-juelkie
 jueskiedahke
 juhtije
 jyöne
@@ -249,7 +245,6 @@ kraesienjålhtja
 krirrie
 kruana
 krungke
-kråahpe
 kråvnoe
 l
 laaddeh
@@ -260,6 +255,7 @@ laavloe
 laavvardahke
 laejpie
 liejpie-gåelsie
+lopme
 lopmedoenehke
 lovhtje
 luemege
@@ -280,6 +276,7 @@ lïjhke
 lööke
 m
 maadtege
+maalme
 maana
 maanoe
 maarhte
@@ -294,17 +291,12 @@ muevse
 munnie
 måanta
 månnoeh
-mïelke
 n
+naaloe
 nejpie
-nielje
-nieljie
-njaelmie
-njielje
+njalle
 njieljie
-njoektjeme
 njoktje
-njuenie
 njuktje
 njåajjah
 njåalodh
@@ -313,21 +305,24 @@ njïjhte
 nomme
 novhtehke
 nyjsene
-nyjsenäjja
 nyjsenæjja
 nåalodh
+nåejtie
 nåejttie
 nåervie
 nïejte
+nïekedidh
 nïmme
 o
 onne
 orre
 ovmessie
 p
+peara
 plaave
 plåamstere
 r
+raajroe
 raeffie
 ravve
 reeredh
@@ -337,6 +332,9 @@ roejese
 rovhte
 rudtje
 ruevtie
+ruevtiemaalme
+ruevtienlaejpie
+ruevtieraajroe
 ruoŧagiella
 ryöjnesjidh
 råate
@@ -358,7 +356,6 @@ sirrie
 sjaljoe
 sjorjehke
 sjåavonje
-skaavtjoe
 skaenjehke
 skuallah
 skåajje
@@ -366,6 +363,7 @@ skåaltesaemien
 sleagrah
 sluemege
 sma.
+snurke
 snågloe
 snåhta
 soelege
@@ -380,6 +378,7 @@ suehpede
 suenjere
 suvhpie
 svaale
+sveerjengïele
 svïenske
 såara
 såtnoeh
@@ -387,6 +386,7 @@ sååjte
 sååle
 sïerke
 sïjhtedh
+sïjte
 t
 tjaajanidh
 tjaalege
@@ -396,8 +396,8 @@ tjahkere
 tjalmese
 tjeavra
 tjelmie
-tjidtjie
 tjiehtjere
+tjietsie
 tjievlies-voete
 tjivvelge
 tjoejkedh
@@ -405,7 +405,6 @@ tjoelge
 tjolkeme
 tjovrese
 tjuvliestidh
-tjälmie
 tjåagka
 tjåagkoe
 tjåamohts
@@ -428,6 +427,7 @@ tsååbpe
 tsïengele
 tsöötsehke-haepkie
 tsøøtsehke-haepkie
+tåårske
 u
 uktsie
 urries
@@ -439,16 +439,15 @@ veapsa
 veerbe
 videove
 vietjere
-voeje
 voektenje
 voenjele
 voepije
 voepte
-voepth
 voerhtje
 vuanove
 vuartasjidh
 vuejnedh
+vuelie
 våaroe
 våhkoe
 vælloe
@@ -467,14 +466,11 @@ y
 å
 åarjelsaemien gïele
 åarjelsaemiengïele
-åejjie
 åelkie
 åerpene
 åerpie
 åeruve
-ålma
 årrodh
-ååredæjja
 æ
 ï
 ö

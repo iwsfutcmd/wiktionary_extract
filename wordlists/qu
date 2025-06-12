@@ -1,3 +1,4 @@
+-ch
 -cha
 -chaw
 -chi
@@ -6,9 +7,7 @@
 -chu
 -chá
 -hina
--kacha
 -kama
--kaman
 -kta
 -ku
 -kuna
@@ -21,12 +20,11 @@
 -n
 -na
 -naku
--naq
--naw
 -naya
 -nchik
 -nchis
 -ni
+-niku
 -nki
 -nkichik
 -nkichis
@@ -50,27 +48,24 @@
 -raq
 -rayku
 -ri
+-rpa
 -rqa
 -rqu
 -s
 -sa
+-sapa
 -sh
 -sha
 -shi
--shina
--shna
 -si
 -spa
 -sqa
 -stin
 -ta
 -taq
--tri
--tsi
 -wan
 -y
 -ya
--yka
 -ykacha
 -yki
 -ykichik
@@ -79,11 +74,8 @@
 -yna
 -yoq
 -ysi
--yuk
 -yuq
 -ña
--ñiqi
--ñiqin
 Accra
 Afgansuyu
 Albanya
@@ -95,7 +87,9 @@ Antapunqu
 Antartika
 Antañiqiq
 Anti Timur
+Anti suyu
 Antikuna
+Antisuyu
 Apustulkunap rurasqankuna
 Aqanisuyu
 Arhilya
@@ -104,13 +98,14 @@ Arminya
 Arxintina
 Asarsuyu
 Asya
+Atich'aska
 Atuq
 Awacha turrikuna
+Awqakuq
 Awsralya
 Awstiriya
 Awstralya
 Awya Yala
-Ayamarq'ay killa
 Bahrayn
 Banladish
 Berlin pirqa
@@ -127,11 +122,13 @@ Chh
 Chiksuyu
 Chili
 Chinchay Kuriya
+Chinchay suyu
+Chinchaysuyu
 Chomolungma
 Chunkantin Kamachiykuna
 Chunwa Runallaqta Ripuwlika
+Chuqi yapu
 Coimbra
-Coya
 Dansuyu
 Dilhi
 Dimashq
@@ -142,7 +139,9 @@ Genova
 Genève
 Grisya
 Grunlandya
+Hatun Chaku
 Hawayi simi
+Hawcha
 Hayasuyu
 Hukllachasqa Amirika Suyukuna
 Hukllachasqa Qhapaq Suyu
@@ -160,6 +159,8 @@ Inka
 Inlish pinkuyllu
 Inlish simi
 Inlish simita manam yachanichu
+Inti
+Iris
 Islandya
 Isluwakya
 Isluwinya
@@ -170,38 +171,50 @@ Ithiyupya
 Kalalit Suyu
 Kanada
 Kartulsuyu
+Kastilla quwi
 Katalunya
+Killa
 Kinya
 Kitu
 Kiyiw
 Kosova
 Kosovo
+Kunti Banla
+Kunti suyu
+Kuntisuyu
 Kusuwu
+Lima
+Lima quwi
 Limaq
 Ll
 Lulul
 Machu Picchu
 Machu Pikchu
+Mama Killa
 Markapumaqucha
 Miki Ukucha
 Mishiku
 Mishikupi
 Moskwa
 Muhamad
+Musuq Silantha
 Namibya
 Nawarra
 New York
 Nihun
 Nihun hatun qucha
+Niptun
+Pacha Mama
 Pachamama
 Pahrayn
+Palkan yaqa wat'a
 Panlatish
 Pasiphiku mama qucha
 Ph
 Pharuy
 Phinsuyu
 Piruw
-Piruwpi sallqasuyukuna
+Plutun
 Puebla
 Puka Kapirusitamanta
 Puliwya Mamallaqta
@@ -216,18 +229,22 @@ Pumaphaqcha
 Pumaqchupan
 Pumaqhawa
 Pumawasi
+Qatuylla
 Qh
 Qhichwa
 Qoa
-Qoya
+Qosqo
+Qulla suyu
+Qullasuyu
 Qullaw
 Qusqu
 Respecto Pooh
 Rimaq
 Rusiya
-Sapa Inka
 Seul
 Shʼ
+Siris
+Sitna
 Siyul
 Sophokles
 Suwisa
@@ -237,9 +254,13 @@ Tallinn
 Tanganika qucha
 Tansanya
 Taripakuqkunap
+Tawantin suyu
 Tawantinsuyu
 Tayiksuyu
+Tayta Inti
 Th
+Tiqsi muyu
+Tiqsimuyu
 Troya
 Truyanu Kawallu
 Truyanu maqanakuy
@@ -250,10 +271,13 @@ Ulimpiku pukllaykuna
 Uluru
 Unquy quyllurkuna
 Uqsitaniya
+Uranu
 Urasuyu simi
+Urin Aprika
 Usbiksuyu
 Ustisuyu
 Veracruz
+Wamanqa
 Washington DC
 Wikipidiya
 Wiksimitaqi
@@ -274,6 +298,7 @@ achalakuy
 achalay
 achanqaray
 achhiy
+achhuy
 achihyay
 achik
 achikyay
@@ -306,23 +331,29 @@ akai
 akakllu
 akan
 akani
+akatanga
 akawara
 akay
 aklla
+aklla wasi
 akllai
 akllay
 aklluy
 aklluykachay
 akrai
 akray
+aku
 akulliy
 alalay
 alawchay
 alayrichiy
+albarikuki
+albarikuki sach'a
 alhibra
 aliman michiq allqu
 aliman simi
 alkho
+alkul
 allan
 allay
 allchay
@@ -368,6 +399,7 @@ allquchakuy
 allquchay
 allqukuna
 allqupi
+allquta
 allwiy
 alpaka
 alpaqa
@@ -383,7 +415,6 @@ ama ñiy
 amachaq
 amachay
 amaku
-amanqay
 amaru
 amatay
 amawt'a
@@ -431,7 +462,9 @@ antawa
 antañiqiq
 antharu
 anti
+anti kuchu
 antikuna ukumari
+antis
 anyay
 apaka
 apakamuy
@@ -455,6 +488,7 @@ apaysiy
 api
 apichakuy
 apichay
+apichu (Cuzco-Collao)
 apu
 apuchay
 aqchi
@@ -572,8 +606,10 @@ awtu ranqhana wasi
 awtu raqhana wasi
 awñiy
 aya
+aya pampa
+aya pampana
+aya pampanaayachayayawaska
 ayapampa
-ayawaska
 ayay
 aycha
 aycha kanka
@@ -621,6 +657,7 @@ añikuy
 añiy
 aşii
 bahay
+baka
 basaltu
 berilyu
 boru
@@ -628,7 +665,6 @@ bunelan
 buulla
 cafï
 caka
-cakwa
 cakwan
 callwa
 cani
@@ -756,10 +792,11 @@ chakannay
 chakata
 chakatay
 chaki
+chaki pachahanaq pachahawa pachakay pachaPacha Mamapacha mankaqipan pachasamay pachaukhu pachañawpaq pacha
 chakra
 chakuy
+chakwa
 chakwas
-chakwash
 chala
 challa
 challpuy
@@ -797,6 +834,13 @@ chapukuy
 chapuy
 charapa
 chariy
+charki
+charki ruray
+charkikan
+charkiquy
+charkiyakurquy
+charkiyay
+charkiykurquy
 chaska
 chaski
 chaski qillqa
@@ -889,6 +933,7 @@ chirichiq
 chirichiy
 chirimaway
 chirimuya
+chirimuya sach'a
 chiripa
 chiriqunuy
 chirisunqu
@@ -933,16 +978,21 @@ chunka waranqa
 chunqay
 chunta
 chupa
+chupi
+chupisqa
 chuqay
 chuqi
 chuqllu
 churakuy
+churana
 churay
 churi
 churichakuy
+churiususi
 churiyay
 churki
 churpuy
+chusaq
 chuspa
 chuspi
 chutan
@@ -956,19 +1006,19 @@ cinkai
 ciri
 ciuci
 ciya
-coya
 cukca
 cunka
 cupa
 cupu
 cusku
+days of the week: hunk'ap p'unchawkuna: killachaw · atipachaw · quyllurchaw · illapachaw · ch'askachaw · k'uychichaw · intichaw [edit]
 diné simi
 distritu
+diyarriya
 diyosuun
 dumingu
 dyus
 enqa
-enqe
 fidiyu
 flur
 gala
@@ -984,7 +1034,6 @@ garwaş
 gasa
 gata
 gatii
-gawai
 gica
 gillai
 gillu
@@ -1010,6 +1059,8 @@ hak'u
 hak'uchay
 haka
 haku
+hakuchik
+hakuchis
 hala
 halay
 hallma
@@ -1019,8 +1070,6 @@ hallp'i
 hallp'iy
 hallpa
 hallpay
-hallqa
-halq'a
 hamak'u
 hamanq'ay
 hamawt'a
@@ -1035,7 +1084,6 @@ hamurpay
 hamut'ay
 hamuy
 hanan
-hanan pacha
 hanaq
 hanaq pacha
 hank'a
@@ -1085,10 +1133,11 @@ hatu
 hatuchaq
 hatun
 hatun illapa
+hatun mama
 hatun puquy killa
 hatun sach'a allqu
+hatun tata
 hatunchay
-hawa pacha
 hawaqlla muru unquy
 hawas
 hawch'ay
@@ -1125,6 +1174,7 @@ hinantin
 hinarimana
 hinaspa
 hinay
+hinitika
 hink'iy
 hip'i
 hip'iy
@@ -1136,7 +1186,6 @@ hisp'apakuy
 hisp'ay
 hiwiy
 house
-huanu
 huch'uiyachiy
 huch'uiyay
 hucha
@@ -1154,7 +1203,6 @@ humint'a
 humint'ay
 hunag
 hunk'a
-hunk'ap p'unchawkuna
 hunp'i
 hunp'iy
 hunt'a
@@ -1166,6 +1214,7 @@ huntachiy
 huntay
 hunu
 hunyay
+huq
 huq'ariy
 huq'u
 huq'uchay
@@ -1212,14 +1261,36 @@ ilyu
 ima
 imahina
 imainallam kackanki?
+imakama
+imalla
+imaman
+imamanta
+iman
 imanay
+imanka
+imanku
+imannaq
+imantin
+imap
+imapaq
 imapas
+imapi
+imapura
+imarayku
+imata
+imawan
+imay
 imayay yamkiy
+imayki
+imaykichik
 imayna
 inchik
 inchipala
 inka
 inkill
+inqa
+inqachu
+inqaychu
 inqhiykachay
 inti
 inti wayllay
@@ -1254,11 +1325,10 @@ iskay chunka qanchisniyuq
 iskay chunka suqtayuq
 iskay chunka tawayuq
 iskay phutuy raphiyuq
+iskay ñiqi
 iskaychay
 iskaymuyu
 iskayyay
-iskayñiqi
-iskayñiqin
 iski
 iskin
 iskiy
@@ -1288,7 +1358,6 @@ işkii
 işpa
 jak'u
 jalay
-jalca
 jallch'ay
 jallp'a
 jamak'u
@@ -1327,7 +1396,6 @@ juk'ucha
 juku
 jukumari
 jumina
-jumint'a
 junt'ay
 juq'u
 k'acha
@@ -1346,6 +1414,7 @@ k'aschina
 k'askaq
 k'aspi
 k'aspi qillqana
+k'awchu
 k'ayrapin
 k'illimsa
 k'illimsayaq
@@ -1398,7 +1467,6 @@ kamukuska
 kanay
 kancha
 kanchay
-kanchis
 kanii
 kaniy
 kanka
@@ -1413,6 +1481,7 @@ karu
 karu kay
 karu rimay
 karurimana
+karuñak'ariy
 karwa
 kasaray
 kastaña
@@ -1424,6 +1493,7 @@ katiguriya
 kausai
 kawai
 kawallu
+kawchu
 kawituta allichina
 kawra
 kawsachiy
@@ -1440,6 +1510,7 @@ kaykuna
 kaylla
 kaymanta
 kaypi
+kaywa
 kaña
 kañay
 kañiy
@@ -1458,19 +1529,10 @@ khari-khari
 khata
 khillay
 khipu
-khipu khipu
-khipuchaq
 khipukamayuq
-khipukuq
-khipuna
-khipupay
 khipuy
 khirki
 khirkinchu
-khishka
-khishkay
-khiska
-khiskay
 khituy
 khuchi
 khuchichakuy
@@ -1510,9 +1572,9 @@ kimsa chunka qanchisniyuq
 kimsa chunka suqtayuq
 kimsa chunka tawayuq
 kimsa khata sisayuq
+kimsa ñiqi
+kimsa ñiqin
 kimsak'uchu
-kimsañiqi
-kimsañiqin
 kina
 kinsa
 kintu
@@ -1520,19 +1582,27 @@ kinuwa
 kinwa
 kinwara
 kipcan
+kipu
+kipu kamayuq
+kipu kipu
+kipuchaq
+kipukuq
+kipuna
+kipupay
 kipuy
 kiru
 kirusini
 kiska
-kiskay
 kisma
 kisu
 kiwach
 kiwachi
 kiwi p'isqu
+kiwicha
 kri simi
 kuchuy
 kuka
+kuka allpa
 kukalla
 kullay
 kulli
@@ -1552,13 +1622,18 @@ kuntur
 kunununuy
 kuraka
 kuraq
+kuraq ayllu
+kuraq kaynin
+kuraq umu
+kuraqchakuy
+kuraqchay
 kuraqsapa
 kuraqta
+kuraqyay
 kurku
 kurmi
 kuru
 kusasqa tika
-kushikuy
 kushiy
 kusi
 kusi wata hunt'ay
@@ -1578,7 +1653,9 @@ kutipay
 kutiy
 kutuna
 kututu
+kuwaranqu
 kuyay
+kuyaykim
 kuyuy
 kínuwa
 lak'i
@@ -1588,6 +1665,7 @@ lampa
 lampay
 lampiy
 lani
+lanti
 laqha
 laqha wasi
 laranqa
@@ -1597,6 +1675,7 @@ lata
 lata pisqu
 lata wuru
 latanu
+latanus
 lawa
 layqa
 layqay
@@ -1623,9 +1702,12 @@ llamk'apukuy
 llamk'apuy
 llamk'aq
 llamk'ay
+llamkachiy
+llamkana
+llamkapukuy
+llamkapuy
+llamkaq
 llamkay
-llamkha
-llamkhana
 llamkhay
 llamp'u
 llamp'uy
@@ -1663,17 +1745,14 @@ llimphi
 llimphiy
 llimphu
 llimpi
-lliphi
 lliphiy
 lliphlli
 lliphlliy
 lliphlly
-llipi
-llipiy
-lliplliy
 lliqti unquy
 llulla
 llullay
+llullu
 llulluy
 llulmiy
 lluna
@@ -1702,6 +1781,7 @@ maki
 maki illapa
 maki muqu
 maki pampan
+makisapa
 mallay
 malli
 malliy
@@ -1709,6 +1789,9 @@ mallki
 mama
 mama aqha
 mama qucha
+mamacha
+mamaku
+mamakuna
 mana
 mana allin
 mana japikkana
@@ -1754,7 +1837,6 @@ mati wayusa
 mauka
 may
 may may
-may-may
 maykama
 mayllakuy
 mayllay
@@ -1815,6 +1897,7 @@ mitk'a
 mitk'ay
 mitkay
 mitma
+mitmaq
 mitmay
 mitu
 miyaw ñiy
@@ -1833,8 +1916,17 @@ muhu
 muksichaq
 mulla
 munai
+munan
+munanchik
+munani
+munanki
+munankichik
+munanku
 munay
 munayki
+munayku
+munayta
+muntay
 murira pillpintu
 muru unquy
 musog
@@ -1860,6 +1952,7 @@ nanaq
 nanay
 natriyu
 nii
+nin
 nina
 nina-nina
 ninachaq
@@ -1867,6 +1960,7 @@ ninakuru
 ninay
 ninayay
 ninri
+nispa
 nisqa
 niy
 niyun
@@ -1875,6 +1969,7 @@ nuna
 nuqa
 nuyuy
 ograi
+ongoi
 onqoy
 oqe
 orgo
@@ -1888,13 +1983,8 @@ p'aki
 p'akiy
 p'ampa
 p'ampachay
-p'ampachiy
 p'ampakuy
-p'ampampuy
-p'amparay
 p'ampay
-p'ampaykuy
-p'anpa
 p'anqa
 p'api
 p'apichay
@@ -1934,6 +2024,7 @@ pakachamanta
 pakay
 pakaykukuy
 pakaykuy
+pakii
 palla
 pallay
 pallquy
@@ -1941,7 +2032,12 @@ palta
 pampa
 pampa kuntur
 pampachay
+pampay
+pana
+panawawqiñaña
 pani
+panituriwawqi
+paniwawqiñaña
 panta
 pantay
 panti
@@ -1962,6 +2058,7 @@ para
 para jark'ana
 paray
 pari
+pariwana
 pariy
 parlay
 paska
@@ -1979,6 +2076,7 @@ paykuna
 payla
 paylla
 payqu
+payta
 paza
 paña
 peqachu
@@ -2039,6 +2137,7 @@ pinsha
 pinu
 pirqa
 pirqa qillqana
+pirqa qillqanaqillqa pichanaqillqana
 pirqay
 pirwa
 pirway
@@ -2066,7 +2165,7 @@ pukara
 pukaray
 pukllai
 pukllay
-pukutai
+pukutay
 pukyu
 pukyuy
 pullurki
@@ -2086,6 +2185,7 @@ puqusqa
 puquy
 puqyala
 puriq quyllur
+puriq quyllurcha
 puriy
 puru
 purum
@@ -2096,7 +2196,6 @@ pusaq chunka
 pusay
 pusaykachay
 pusaysiy
-pushay
 puska
 puskay
 puti
@@ -2120,6 +2219,7 @@ q'aray
 q'awa
 q'aytu
 q'emiy
+q'icha
 q'illa
 q'illay
 q'illu
@@ -2133,16 +2233,19 @@ q'ispi
 q'ita
 q'iwi
 q'iwiy
+q'iwiykuy
 q'osñe
 q'uchu
 q'umir
 q'umir pampa
 q'umir qhura
 q'uncha
+q'unchacha
 q'upa
 q'urunta
 qaka
 qalla
+qallariq ñiqi
 qallariy
 qallay
 qallqatu
@@ -2156,6 +2259,10 @@ qanchis chunka
 qanchis p'unchaw
 qanchischaw
 qanta munani
+qapaq
+qapaq kay
+qapaqyachiy
+qapaqyay
 qapariy
 qapi
 qapiy
@@ -2163,6 +2270,7 @@ qaqa
 qaqa qaqa
 qaqa-qaqa
 qara
+qara pullqa
 qara pʼaspa
 qaraqruyuwa
 qaray
@@ -2196,11 +2304,9 @@ qhachqa
 qhachuti
 qhallay
 qhapaq
-qhapaqay
-qhapaqyachiy
-qhapaqyay
 qhaqlli
 qhari
+qhariwarmi
 qhasqu
 qhatay
 qhatuy
@@ -2214,8 +2320,6 @@ qhincha
 qhinchachay
 qhipan
 qhipan pacha
-qhispi
-qhituy
 qhulla puquy killa
 qhulluy
 qhura
@@ -2223,10 +2327,21 @@ qhuruy
 qhusi
 qhuya
 qichuy
+qichwa
+qichwa challa qhichwa
+qichwa hanka qhichwa
+qichwa puna qhichwa
+qichwa qhichwa qhichwa
+qichwa qichwa qhichwa
+qichwa rupha rupha qhichwa
+qichwa sallqa qhichwa
+qichwa suni qhichwa
+qichwa yunka qhichwa
 qilla
 qillay
 qilliy
 qillqa
+qillqa kamayuq
 qillqa pichana
 qillqana
 qillqana phuru
@@ -2253,9 +2368,9 @@ qocha
 qora
 qorachasqa
 qori
-qoya
 quariwarmi
 qucha
+qucha mama
 qulla
 qulli
 qullpa
@@ -2313,7 +2428,6 @@ raphra
 rapi
 rapra
 raqacha
-rasya
 rawanu
 rawra
 rawray
@@ -2368,6 +2482,7 @@ riqsisqa
 riqsiy
 rirpu
 rirpuy
+risaqku
 rit'i
 rit'iy
 riti
@@ -2376,7 +2491,6 @@ riwakuy
 riwi
 riwu
 riy
-roq'a
 ruk'ana
 ruk'u
 ruk'uyay
@@ -2393,6 +2507,8 @@ runakay
 runakuna
 runasimi
 runtu
+runtu qara
+runtuy
 rupa
 rupay
 rupha
@@ -2405,7 +2521,6 @@ ruphay
 ruphay killa
 ruphayay
 ruq'a
-ruqa
 ruqutu
 rurai
 ruraq
@@ -2418,7 +2533,6 @@ ruthu
 ruthuy
 rutu
 rutuy
-ruway
 saca
 sach'a
 sach'a waka
@@ -2432,7 +2546,6 @@ saksa
 saksay
 salla
 sallqa
-salqa
 sama
 samana wasi
 samanna
@@ -2444,6 +2557,7 @@ sani
 sansa
 sanskrit simi
 santiya
+santu
 sapa
 sapa inka
 sapallu
@@ -2468,6 +2582,7 @@ satiy
 saway
 sawintu
 sawli
+sawna
 sawsi
 sayakuq rumi
 sayariy
@@ -2479,6 +2594,7 @@ sañi
 shanshu
 shasha
 shimi
+shukuy
 shullpi
 shullpinay
 shʼ
@@ -2498,6 +2614,7 @@ simi
 simi kamachiy
 simi qullqa
 simi yachaq
+simisapa
 simp'a
 simp'ay
 simpa
@@ -2535,6 +2652,8 @@ sisay
 sisi
 sisiy
 sisu
+siwar
+siwar q'inti
 siwara
 siwra
 siwulla
@@ -2546,6 +2665,7 @@ soqso
 soqsoy
 soqta
 suchuq
+suchuy
 sucu
 suk'a
 suk'ay
@@ -2573,8 +2693,10 @@ suri
 surkukuk
 suroqch'i
 surq'an phiru unquy
+suruchi
 suruqch'i
 suruqchi
+suruy
 susuy
 sut'i
 sut'u
@@ -2678,6 +2800,7 @@ tariy
 tarpuy
 taruca
 taruka
+tarwi
 taski
 tata
 tatki
@@ -2694,6 +2817,12 @@ tawa chunka qanchisniyuq
 tawa chunka suqtayuq
 tawa chunka tawayuq
 tayta
+tayta kay
+taytacha
+taytachakuy
+taytachay
+taytaku
+taytayay
 techno
 telugu simi
 th
@@ -2720,6 +2849,7 @@ tikray
 tiksi
 tiksiy
 tiliwisiyun
+tillpay
 timpuchiy
 timpuy
 tinda
@@ -2728,6 +2858,9 @@ tinkiy
 tinkurqoy
 tipi
 tipiy
+tipqa
+tiqsi
+tiqsi muyu
 tiqsiy
 titi
 tiwrun
@@ -2738,25 +2871,31 @@ tiyamuy
 tiyana
 tiyay
 togro
+togşu
 trance
 traskiy
 trumpun
 trʼ
 tujuri
 tukllu
+tukri simi
 tuksi
 tuksiy
 tuktu
 tuku
 tukuchiy
+tukunqa
 tukuy
 tullu
+tumati
 tumi
 tumiy
 tumpa
 tumpai
 tuna
 tunas
+tunas mallki
+tunasqachu
 tuncuri
 tunki
 tunqori
@@ -2765,11 +2904,13 @@ tupaq
 tupay
 tupu
 tupuy
-tuqay
 tuqti
 tuqtu
+tura
 turasnu
+turawawqiñaña
 turi
+turiwawqiñaña
 turri
 turunja
 tustuy
@@ -2782,7 +2923,6 @@ tutay
 tutayay
 tutura
 tuwi puma
-tuxu
 tuytuy
 tuyuy
 tuñi
@@ -2796,7 +2936,6 @@ uchuylla
 uhu
 uhuy
 ukhu
-ukhu pacha
 uku
 ukuca
 ukumari
@@ -2810,6 +2949,7 @@ ullayayaq
 ullpu
 ullpukuy
 ullu
+ulluku
 uma
 uma nanay
 uma tullu
@@ -2857,7 +2997,6 @@ uruya
 usa
 usachiy
 usay
-ushnu
 usnu
 usnuy
 uspa
@@ -2865,6 +3004,7 @@ uspay
 usqay
 usqhay
 ususi
+ususiwawa
 usuy
 utaq
 uthurunku
@@ -2935,7 +3075,6 @@ waq'akay
 waqachiy
 waqay
 waqaychay
-waqcha
 waqra
 waqta
 waqwa
@@ -2943,8 +3082,14 @@ waqya
 waqyay
 wara
 waranga
+warani
 waranqa
+waranqu
+waranqu ruru
+waranway
+warapu
 warayay
+wardiya
 warkui
 warkuy
 warma
@@ -2961,6 +3106,7 @@ waskariqlla
 waskay
 waskaykuy
 waskha
+waskha p'itaykachay
 wat'a
 wata
 wata junt'ay
@@ -2969,6 +3115,7 @@ watai
 watan watan
 watan-watan
 watana
+watapi
 watay
 wathiya
 wathiyay
@@ -2990,15 +3137,18 @@ wayllu
 waylluy
 wayna
 waynilla
+wayqi
 wayra
 wayrachina
 wayrachiy
 wayralla
 wayray
+wayru
 wayrunq'u
 wayt'ay
 wayta
 waytay
+wayu
 wayusa
 wañu
 wañuchiy
@@ -3059,6 +3209,7 @@ yachakuq
 yachakuq masi
 yachakuy
 yachana wasi
+yachanchik
 yachapay
 yachay
 yachay wasi
@@ -3158,10 +3309,16 @@ zikzi
 ñawpa
 ñawpa añaki
 ñawpaq
+ñawpaq kaq
 ñawpaq pacha
+ñawpaq ñiqi
+ñawpaqin
 ñawpaqta
 ñawra
 ñawsa
+ñawsa kay
+ñawsayachiy
+ñawsayay
 ñaña
 ñañahina
 ñañakama
@@ -3196,6 +3353,8 @@ zikzi
 ñañawan
 ñin
 ñina
+ñiqi
+ñiqin
 ñiqwin
 ñisqa
 ñisun
@@ -3203,6 +3362,7 @@ zikzi
 ñitiy
 ñiy
 ñogaiku
+ñu
 ñukch'u
 ñukñu
 ñuqa

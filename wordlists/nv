@@ -13,6 +13,7 @@
 -CHIŁ
 -CHOSH
 -CHOZH
+-CHXOZH
 -CHXǪʼ
 -CHÁÁZH
 -CHÍÍL
@@ -23,6 +24,7 @@
 -CHĮ́
 -CHʼAAL
 -CHʼI
+-CHʼID
 -CHʼIIZH
 -CHʼIL
 -CHʼÍÍʼ
@@ -52,6 +54,7 @@
 -DZÍÍʼ
 -DZĮ́Į́Z
 -DÁ
+-DÁ (2 actors)
 -DÁÁZ
 -DÉÉL
 -DÍÍN
@@ -91,6 +94,7 @@
 -KAAD
 -KAAL
 -KAI
+-KAI (3+ actors)
 -KAL
 -KEED
 -KID
@@ -98,6 +102,7 @@
 -KWI
 -KÁ
 -KÁÁL
+-KÁÁʼ
 -KÉ
 -KÉÉZ
 -KĄĄD
@@ -107,6 +112,7 @@
 -KʼAAZ
 -KʼAAZH
 -KʼAII
+-KʼAIʼ
 -KʼEED
 -KʼEEʼ
 -KʼEʼ
@@ -118,6 +124,7 @@
 -KʼĮH
 -KʼĮ́H
 -KʼǪSH
+-LAA
 -LID
 -LIZH
 -LOʼ
@@ -128,11 +135,13 @@
 -LĮĮD
 -LĮ́
 -LĮ́Į́ʼ
+-LǪ́
 -MAL
 -MÁÁZ
 -MĄʼII
 -NAAʼ
 -NAʼ
+-NEEZ
 -NEʼ
 -NIID
 -NIIʼ
@@ -143,6 +152,7 @@
 -NÁ (2+ S)
 -NÁÁŁ
 -NÁÁʼ
+-NÉÉZ
 -NÍÍD
 -NÍÍʼ
 -SǪS
@@ -152,9 +162,11 @@
 -TEEʼ
 -TIH
 -TIID
+-TIN
 -TIʼ
 -TLID
 -TLʼIS
+-TSAA
 -TSAAD
 -TSAAZ
 -TSAII
@@ -166,6 +178,7 @@
 -TSIZ
 -TSOH
 -TSOII
+-TSOOD
 -TSOOZ
 -TSXAAZ
 -TSXAS
@@ -180,6 +193,7 @@
 -TSʼIʼ
 -TSʼOZ
 -TSʼÍLÍ
+-TSʼÍÍD
 -TSʼÍÍSÍ
 -TSʼÓÓZÍ
 -TSʼĄʼ
@@ -193,6 +207,8 @@
 -TÉÉZH
 -TĄĄD
 -TĄ́
+-TĄ́ (3+ actors)
+-TĄ́Ą́ʼ
 -TĮ́
 -TŁAH
 -TŁID
@@ -228,6 +244,8 @@
 -YOH
 -YOL
 -YOOD
+-YÁ
+-YÁ (1 actor)
 -YÉÉL
 -YÉÉʼ
 -YĄĄD
@@ -235,16 +253,18 @@
 -YĄ́Ą́ʼ
 -YĘĘZH
 -YĘ́Ę́ZH
+-YĮĮD
 -YĮ́
 -YĮ́ (1 S)
 -YĮ́Į́ʼ
+-ZAAD
 -ZAAL
--ZAS
 -ZAʼ
 -ZEEZ
 -ZEEʼ
 -ZHAAZH
 -ZHAʼ
+-ZHEEʼ
 -ZHIIZH
 -ZHIL
 -ZHIZH
@@ -257,8 +277,10 @@
 -ZHÍÍʼ
 -ZHÓLÍ
 -ZHÓÓD
+-ZHÓÓʼ
 -ZHĮ́
 -ZHĮ́Į́ʼ
+-ZHǪǪD
 -ZID
 -ZIID
 -ZIIL
@@ -275,17 +297,12 @@
 -ZĮʼ
 -ZĮ́Į́ʼ
 -ZǪ́Ǫ́Z
--ba
 -be’
 -bid
 -bąs
--bą́
--bą́ą́ʼ
--bįįh
--bįįł
 -chil
--d-
 -di
+-diin
 -doh
 -dóó
 -dą́ą́ʼ
@@ -315,17 +332,14 @@
 -gąąkʼis
 -gąąlóóʼ
 -gąąstsiin
--gąąstsiin ałchʼįʼ nahííláhí
--gąąstsiin ałchʼįʼ nihiníláagi
--gąąstsʼin bitaʼ sitání
+-gąąstsiin-gąąstsiin ałchʼįʼ nahííláhí ()-gąąstsiin ałchʼįʼ nihiníláagi ()
+-gąątsʼin-gąąstsʼin bitaʼ sitání ()
 -gąąyaaí
 -gąązhnézhí
 -gąązis
 -gąąziz
 -gąąʼagod
 -gą́ą́stsiin
--hą́ą
--hę́ę
 -ii
 -iiʼ
 -jah
@@ -348,7 +362,6 @@
 -késhgaan
 -kąʼ
 -kʼehjí
--l-
 -lah
 -láshgaan
 -má
@@ -357,15 +370,16 @@
 -neeł
 -neʼ
 -nih
+-nii
 -né
+-nézí
+-nééz
 -s-
 -sh
 -sh-
 -taał
 -tah
 -tał
--tih
--tiʼ
 -toʼ
 -tseii
 -tsih
@@ -380,12 +394,14 @@
 -tłʼǫ́
 -tʼą́ʼí
 -x-
+-yaa
+-yah
+-zaa-
 -é
 -í
 -ígíí
 -ísh
 -Ą́
--ą́ą
 -ę́ę
 -ł-
 -ła’-
@@ -399,6 +415,8 @@
 -ʼIH
 -ʼIL
 -ʼÁ
+-ʼÁÁZH
+-ʼÁÁZH (2 actors)
 -ʼÉÉL
 -ʼĄĄD
 -ʼĄ́
@@ -407,7 +425,6 @@
 -ʼĮŁ
 -ʼĮ́Į́ʼ
 -́zhiʼ
--∅-
 ... biiʼ shináhááh
 ... biiʼ shiʼdizhchį́
 ... shinááhai
@@ -423,6 +440,7 @@ Adahwiilíní
 Adakai
 Adam dóó Eve
 Adinídíín Neitinígíí
+Ahidiitłʼintsoh Daʼííłʼíní Bikéyah
 Ahééhałtį́į́h Hahoodzo
 Ahééháshį́į́h Hahoodzo
 Ahééháshį́į́h hahoodzo
@@ -439,7 +457,6 @@ Alééska Hahoodzo
 Amhara Dineʼé bizaad
 Amá Bééhániih
 Anaashashí dineʼé bizaad
-Anaałání
 Andówa
 Angóola
 Anishinaabe bizaad
@@ -463,6 +480,7 @@ Azeedíchʼííʼ Dineʼé Bikéyah
 Azhéʼé Bééhániih
 Azééwii bizaad
 Aárish bizaad
+Ałchʼįʼ Nááʼáhá
 Ałnánoodǫ́ǫ́z Dineʼé Bikéyah
 Ałnánoodǫ́ǫ́z dineʼé bikéyah
 Ałnáʼnoodǫ́ǫ́z dineʼé
@@ -478,7 +496,6 @@ Bawamawííboo
 Beehai
 Beehai bizaad
 Beeʼeldííl Dahsinil
-Beeʼeldííldahsinil
 Beeʼeldíílsání Hahoodzo
 Begay
 Begaye
@@ -487,7 +504,6 @@ Benallie
 Benally
 Beʼekʼid Honeezítsoh Bibąąhgi Naakaii Łizhiní Bikéyah
 Beʼekʼid Łání
-Beʼeldíila Sinil
 Bichʼah Łichíiʼii Bikéyah
 Bichʼáh Yiisdiisí Bikéyah
 Bidááʼ Haʼaztʼiʼ Tsékooh
@@ -507,21 +523,17 @@ Bilagáanakʼehgo
 Bilagáanakʼehjí
 Bilagáanakʼehjí haitʼáo … ájíniih?
 Bilį́į́łání Dineʼé Bikéyah
+Bilį́į́łání Dineʼé Bikéyah Yázhí
 Bilį́į́ʼ Ńdeiltihii Dineʼé Bikéyah
 Bimááʼ hahoodzo
 Bineʼadziihii Yázhí
 Bineʼadziihii Yázhí Hahoodzo
 Bineʼnaʼałʼaash
-Bini Antʼą́ą́tsoh
-Bini Antʼą́ą́tsʼózí
-Biniʼanitʼą́ą́tsoh
-Biniʼanitʼą́ą́tsʼósí
 Biniʼantʼą́ą́tsoh
 Biniʼantʼą́ą́tsʼózí
 Binááʼ Ádaałtsʼózí bichʼil łigaií
 Binááʼádaałtsʼózí Biʼednam dineʼé
 Binááʼádaałtsʼózí Dineʼé Bikéyah Yázhí
-Binááʼádaałtsʼózí bikéyah
 Binááʼádaałtsʼózí dineʼé
 Binááʼádaałtsʼózí dineʼé bikéyah
 Binááʼádaałtsʼózí dineʼé bizaad
@@ -564,7 +576,6 @@ Bádikin Sídii
 Báhdaʼ
 Bálgaa bizaad
 Bánkoʼ
-Báyóodzin
 Bááshzhinii Dziil
 Bélgii bikéyah
 Béésh Bichʼahii Bikéyah
@@ -604,6 +615,7 @@ Chį́į́h Yee Adilohii Bideeʼ Tónteel Bibąąh
 Chį́į́h Yee Adilohii Nahatʼá Bee Dah Ooldah
 Chį́į́h Yee Adilohiijí dah oonéłígíí
 Chʼ
+Chʼah Bideeʼí Dineʼé Bikéyah
 Chʼah Bideeʼí Dineʼé Bikéyah Yázhí
 Chʼah Diʼilii Bikéyah
 Chʼah Diʼilii Bikéyahdę́ę́ʼ atsáłchííʼ
@@ -688,7 +700,6 @@ Diyin God
 Diyin God Bizaad
 Diyin God éí ayóóʼátʼé
 Dl
-Dlǫ́ʼáyázhí
 Dlǫ́ʼí Yázhí
 Domingo bikéyah
 Doo Hóshkał Bá Hazʼą́
@@ -706,6 +717,7 @@ Dzeeh Bitooh Hahoodzo
 Dził Biiʼ Dzígaii
 Dził Biiʼ Dzígaii Hahoodzo
 Dził Bíniʼ Hólóonii
+Dził Ntsaaí
 Dził Náʼoodiłii
 Dziłgaiitsoh Honeezkʼazii
 Dziłgaiitsoh Honeezkʼazii Dineʼé bizaad
@@ -718,6 +730,7 @@ Dziłizhin bikéyah
 Dziłizhin bizaad
 Dziłkʼi Dah Názʼéelii Dineʼé Bikéyah
 Dziłtah Hóteelnii Bikéyah
+Dziłtsʼóózí Dineʼé Bikéyah
 Dziłíjiin
 Dzígaii Chʼíńlį́ Hahoodzo
 Dáblin
@@ -732,6 +745,7 @@ Dáʼákaʼ Bitʼoh
 Déinish Dineʼé bizaad
 Délii Ániidí
 Déláwee hahoodzo
+Díłdánii biniiʼ łizhinígíí
 Dį́ʼíjį́ Ndaʼanish
 Dǫʼtsoh
 E
@@ -744,7 +758,6 @@ Eʼeʼaahjí Ghą́ą́ʼaskʼidii Biłikahii Bikéyah
 Eʼeʼaahjí Naakaii Dootłʼizhí Bikéyah
 Eʼeʼaahjí Naakaii Dootłʼizhí bizaad
 Eʼeʼaahjí Ndaʼałʼeełí Dineʼé Bikéyah
-Eʼeʼaahjí Tónteel Bikáaʼdi Kéyah Ałhidadiidzooígíí
 Eʼeʼaahjí Tónteel bikáaʼgi Kéyah Yázhí dah Ndaaʼeełgo Ałhidadiidzooígíí
 Eʼeʼaahjí Tónteeldę́ę́ʼ tsídii naʼałkʼaiʼí
 Eʼeʼaahjí tónteel
@@ -756,8 +769,8 @@ Gah Bikeeʼ Taah Yíʼáhí
 Galego Dineʼé bizaad
 Gh
 Ghąąjįʼ
-Ghą́ą́jįʼ
 Ghą́ą́ʼ Haltsooí
+Ghą́ą́ʼaskʼidii Biłikahii Bikéyah Ntsaaígíí
 Ghą́ą́ʼaskʼidii bił Naaldlooshí bizaad
 God bidiyin naalʼaʼí
 Goláíyath
@@ -851,9 +864,11 @@ Jesus Daaztsą́ą́dę́ę́ʼ Náádiidzáhígíí Bééhániih
 Jibótii
 Jiihóvah
 Jooł Yitalíjí Akéeʼdi Ahąąh Honinééhígíí
+Joołdahsiʼą́
 Jáan
 Jádí Bíʼhwiikáál
 Jádí iiłchííh
+Jádító
 Jéíkab
 Jíbitoo
 Jíísas
@@ -874,8 +889,10 @@ Kiisʼáanii
 Kin Nááłdázi
 Kin Yótʼááh Deezʼá
 Kin Yótʼááh Deezʼá Hahoodzo
+Kin Łigaaí
 Kin Łání
 Kináhálgaií
+Kinłichííʼ
 Kinłání
 Kinłání Dookʼoʼoosłííd Biyaagi
 Kolámbiya
@@ -918,8 +935,10 @@ Kíítʼo
 Kííyeb
 Kóóweiʼ
 Kʼ
+Kʼaabizhii
 Kʼaatʼóóm
 Kʼaiwo
+Kʼaiʼ Biiʼ Tó
 Kʼatalą́ą́ bizaad
 Kʼatmandoo
 Kʼatár
@@ -943,6 +962,7 @@ Léétin bizaad
 Lókʼaachʼégai
 Lókʼaadeeshjin
 Lókʼaahniteel
+Lókʼaʼdeeshjin
 M
 Maakiimaakii
 Madaʼgéésgáá
@@ -954,7 +974,6 @@ Manchoo dineʼé
 Manííla
 Masedóonya
 Maskʼaʼ
-Maʼii Ashkii
 Maʼii Ashkii, Łį́į́ʼ Tʼą́ą́ʼ Yisił
 Mizóowii Hahoodzo
 Mogadíshoo
@@ -981,6 +1000,7 @@ Mííanmáa bizaad
 Mókiwii
 Móskow
 Mózes
+Mąʼii
 Mąʼii Ashkii
 Mąʼii bijaaʼtsohí
 N
@@ -1012,7 +1032,6 @@ Naakaii Łizhiní Bikéyahdę́ę́ʼ tłʼiishkʼosí
 Naakaii Łizhiní Bikéyahdę́ę́ʼ łééchąąʼí ałchiní
 Naakaii łizhinii
 Naakaiiłbáhí
-Naakaiiłbáhí bikéyah
 Naakijį́ Ndaʼanish
 Naakáí dinéʼiʼ
 Naakáí dootłʼizhí dóó Bééshbichʼahii dabizaad ndahalinígíí
@@ -1021,7 +1040,6 @@ Naakétłʼáhí
 Naaltsoos Ayiilaa
 Naaltsoos Mormon Wolyéhígíí
 Naaltsoos Sání
-Naaltsoos Áyiilaa
 Naashchʼąąʼ Bidiyogíihnii Bikéyah
 Naashgalí
 Naashgalí (Mescalero)
@@ -1065,6 +1083,7 @@ Ndaʼiiníísh
 Ndaʼiiníísh Yáʼátʼéehii
 Ndaʼiiníísh Łizhingo bee Wójíhígíí
 Ndaʼiinííshjį́ Diigisii
+Neestʼą́dziil
 Neeznáago bikʼeh óʼooʼníiłii
 Nez
 Nidaʼiiníísh
@@ -1111,6 +1130,7 @@ Náátsʼózídę́ę́ʼ tsiiłtsooí
 Náátsʼózídę́ę́ʼ tsídiidaanézí bikʼoszis hólónígíí
 Náátsʼózídę́ę́ʼ tłʼiishkʼosí
 Néʼtoon
+Níbaal Łání
 Nímasii Kʼidadilyéhé Hahoodzo
 Nííhon bizaad
 Níísááh Waalees
@@ -1167,9 +1187,11 @@ Shádiʼááhjí Binááʼádaałtsʼózí Dineʼé Bikéyah Yázhí
 Shádiʼááhjí Binááʼádaałtsʼózí Dootłʼizhí Bikéyah
 Shádiʼááhjí Dzígaii
 Shádiʼááhjí Honeezkʼazii
+Shádiʼááhjí Jeeshóóʼ Bikéyah
 Shádiʼááhjí Kéyah dah siʼánígíí
 Shádiʼááhjí Kééláanah hahoodzo
 Shádiʼááhjí Soodą́ą
+Shádiʼááhjí Tsiiʼyishbizhí Bikin Haalʼá
 Shádiʼááhjí kéyah yistinígíí
 Shádiʼááhjí tónteel
 Shádiʼááhjí Ásáí bikéyah
@@ -1180,7 +1202,6 @@ Siidnii
 Siil Nástłʼah
 Siláołtsooí Bee Iinaʼ Nidahaztʼįʼígíí Béédahaniih
 Siláołtsooí Bigáál Dah Nídahidiitʼįʼígíí Béédahaniih
-Siláołtsooí Bigáál Dah Ńdahidiitʼįʼígíí Béédahaniih
 Sis Naateel
 Sisnaajiní
 Soodą́ą
@@ -1222,20 +1243,20 @@ Tibilíísii
 Tin Dineʼé bizaad
 Tin Kéyah
 Tiwáána
-Tl
 Tl'izilani
 Tlizilani
-Toadlena
 Todacheeny
 Todachine
 Todicheene
 Tooh Baʼáadii
 Trinidad dóó Tobago
 Ts
+Tsiikʼi Déíbaalí Bikéyah
 Tsiizizii
 Tsiiʼyishbizhí Dineʼé
 Tsiiʼyishbizhí Dineʼé Bikéyah
 Tsiiʼyishbizhí Dineʼé bizaad
+Tsin Biiʼ Tó
 Tsin Bikeeʼ Dineʼé
 Tsin Bikeeʼ Dineʼé Bikéyah
 Tsin Bikeeʼ Dineʼé bizaad
@@ -1253,12 +1274,12 @@ Tsosie
 Tswana Dineʼé bizaad
 Tsé Bee Bighan Naakaii Łizhiní Bikéyah
 Tsé Biiʼ Ndzisgaii
-Tsé Biiʼ Nidzisgaii
 Tsé Bitʼaʼí
 Tsé Dzighází
 Tsé Náhádzoh
+Tsé Náshchiiʼ
 Tsé Nástánii
-Tsé gháhoodzání
+Tsé Yázhí
 Tséchʼil Daalchíʼínílį́ Hahoodzo
 Tséchʼízhí
 Tsédeeshzha Dził
@@ -1267,16 +1288,22 @@ Tséhootsooí
 Tséjééʼ Dineʼé Bikéyah
 Tsétah chíshí
 Tsétah chíshí (Lipan)
+Tsétis Deezlíní
 Tséyaaniichiiʼ
 Tséyiʼ
+Tsézhįįh Deezhlį́
 Tsééhílį́
 Tsʼ
 Twípoli
+Tábąąh Hóteelnii Bikéyah
+Tábąąh Naayolí
 Tádídíín Dziil
 Tágíjį́ Ndaʼanish
 Táiwáán
 Táłkááʼ Bighan Dineʼé bikéyah
+Táłkááʼ Bineʼ Naʼadziʼnii Bikéyah
 Táłkááʼ Diłhiłii Bikéyah
+Táłkááʼ Yadaazʼáhí
 Táłtłʼááh Chʼosh Bitooh
 Táłtłʼááh Chʼosh Daadánígíí Bitooh
 Táʼídziilnii Bikéyah
@@ -1322,6 +1349,7 @@ Tónteel diłhił
 Tónteel náátsʼósí
 Tótaʼ Dineʼé Bikéyah
 Tótaʼ Dineʼé dóó Náhookǫsjí Bitsiighaʼ Łichííʼí Bikéyah Ałhidadiidzooígíí
+Tótsoh Nílį́
 Tówoł
 Tówołnii
 Tóʼííbézhí Hahoodzo
@@ -1392,10 +1420,7 @@ Xhosa Dineʼé bizaad
 Y
 YDL
 Yas Niłtʼees
-Yas Niłtʼees Atsá Biyáázh Wóózhchʼį́į́d Tʼą́ą́chil Tʼą́ą́tsoh Yaʼiishjááshchilí Yaʼiishjáástsoh Biniʼantʼą́ą́tsʼózí Biniʼantʼą́ą́tsoh Ghąąjįʼ Níłchʼitsʼósí Níłchʼitsoh
-Yazzie
 Yaʼiishjááshchilí
-Yaʼiishjááshtsoh
 Yaʼiishjáástsoh
 Yaʼniilzhiin
 Yikáísdáhí
@@ -1404,7 +1429,8 @@ Yiską́ Damį́įgo
 Yitʼíní ályaa
 Yogénda
 Yootó
-Yootó bináhádzo
+Yootó Bináhádzo
+Yootó Hahoodzo
 Yootó hahoodzo
 Yoowéinis
 Yoołgaii Asdzą́ą́
@@ -1412,7 +1438,6 @@ Yoołgaii Dziil
 Yágháhookáán biiʼ hólónígíí
 Yáʼátʼéehgo Tązhii Daʼaghał Adííłeeł
 Yáʼátʼééh Késhmish
-Yáʼátʼééh Késhmish dóó Baa Hózhǫ́ǫgo Nee Nínáadoohah!
 Yénísei
 Yéwewan
 Yéʼii
@@ -1429,9 +1454,9 @@ Zulu Dineʼé bizaad
 Záágweb
 a
 a-
-aa hwiinítʼį́ bá hooghan
 aa áhályáanii
 aadaaní
+aadee'
 aadi
 aadóó
 aadę́ę́ʼ
@@ -1458,13 +1483,12 @@ abeʼ yistiní
 abeʼ yistiní hashkʼaan bił ályaaʼígíí
 abid
 abid dijoolí
+abéézh
 abíní
 abínídą́ą́ʼ
 abínígo daʼadánígíí
 abínígo neeznáágóó oolkiłgo...
 abízhí
-abíńdą́ą́ʼ
-achaii
 acheii
 acho'
 achoʼ
@@ -1493,27 +1517,72 @@ achʼííʼ yázhí bikʼétłohí łichxíʼígíí
 achʼííʼ yázhí bikʼétłohí łitsooígíí
 achʼííʼ yázhí sidohí
 achʼąąʼ adáʼatsʼiʼ
+achʼą́ą́h
+achʼįʼ
+adaahmáás
+adaahtsʼǫǫd
+adaahʼeeł
+adaamáás
+adaatsʼǫǫd
+adaałmáás
+adaałʼeeł
 adaaʼ
+adaaʼeeł
+adadiitsʼǫł
+adadoohmas
+adadoohtsʼǫł
+adadoohʼoł
+adadoomas
+adadootsʼǫł
+adadoołmas
+adadoołʼoł
+adadooʼoł
 adah
 adah hosh laní
 adahʼíílį́
+adajimáás
+adajistʼaʼ
+adajitsʼǫǫd
+adajiłmáás
+adajiłʼeeł
+adajiʼeeł
+adasoołmááz
+adasoołʼéél
 adastsooʼ
+adazhdoomas
+adazhdootsʼǫł
+adazhdoołmas
+adazhdoołʼoł
+adazhdooʼoł
 adaʼ
 adeesdǫǫh
+adeeshkił
 adeeshtłʼóół
+adeeshtʼah
+adeeshʼoł
+adeesmas
+adeestsʼǫł
 adeezhí
 adeeʼ
+adeidoołmas
+adeidoołʼoł
+adeiitsʼǫǫd
 adeií hooghan
+adeiłmáás
+adeiłʼeeł
 adichʼą́ą́h
 adidlą́
 adidzééh
 adigąsh
 adih
 adiilghash
+adiilkił
 adiistsʼaʼ
 adiitaaʼ
 adiitsʼaʼii
+adiitsʼǫł
 adiitłah
+adiitʼah
 adiiłdǫǫh
 adijił
 adijiłii
@@ -1527,6 +1596,7 @@ adinídíín
 adiníłdíín
 adishah
 adishhash
+adishkaʼ
 adishtłʼish
 aditał
 aditązh
@@ -1539,14 +1609,21 @@ adiłidí
 adláanii
 adlą́
 adoh
-adooleʼé
+adoohmas
+adoohtsʼǫł
+adoohʼoł
+adoomas
+adootsʼǫł
+adooyį́į́ł
+adoołkił
+adoołmas
+adoołʼoł
+adooʼoł
 adołhash
 adziil
 adzástis
 adzástsooʼ
-adzéétsʼiin
 adághaaʼ
-adághá
 adástsooʼ
 adáyiʼ
 adáziz
@@ -1556,10 +1633,19 @@ adáʼí
 adéesʼeez
 adéesʼeez dikʼą́
 adínéesnaʼ
+adííkaad
+adíílkił
+adíímas
 adííníildíín
 adííníshdíín
 adííníłdíín
 adíínółdíín
+adíítsʼǫł
+adíítʼah
+adííłmas
+adííłtʼah
+adííłʼoł
+adííʼoł
 adíłhash
 adókeedí
 adą́ą́dą́ą́ʼ
@@ -1571,6 +1657,7 @@ agaanstsiin yiltązhí názhahígíí
 agaanstsiin yiltązhí nímazígíí
 agaanstsiin yiltązhí yázhí
 aghaaʼ
+aghan
 aghaʼdiitʼaahii
 agháago áníidlą́ą́ʼ
 aghádaʼdeełdlaadígíí
@@ -1586,6 +1673,7 @@ agąąlóóʼ
 agąąstsiin
 agąąziz
 ah-heh-ha-dailh
+ahaa
 ahaʼdeetʼaah
 ahbíní
 ahbínídą́ą́ʼ
@@ -1597,17 +1685,24 @@ ahidiitʼash shį́į́
 ahidiitʼash shį́į́?
 ahigą́
 ahiigą́
+ahiiʼ
 ahijigą́
 ahishgą́
 ahishkʼosh
 ahił
 ahił haneʼ
 ahił-
+ahiłchʼįʼ
+ahiłkááʼ
+ahiłkʼi
+ahiłkʼijįʼ
+ahiłtah
 aho
 ahohgą́
 ahoniiʼyóí
 ahwééh
 ahwééh hashtłʼishí
+ahá
 aháláaneʼ
 aháshtʼóózh
 ahéheeʼ
@@ -1624,10 +1719,12 @@ ahééʼílkid
 ahídeiłjah
 ahígą́
 ahíníłkidígíí
+ahíłká
 ahóóhai
 ahąą honinééh
 ahąąh
 ahąąh dah siké
+ahą́ą́h
 ahą́ą́h nániilyá
 ajaayiʼ
 ajaayiʼ hodiniih
@@ -1639,6 +1736,8 @@ ajiiłhan
 ajilchiiʼ
 ajilizh
 ajilzhish
+ajimáás
+ajitsʼǫǫd
 ajitłʼó
 ajiyą́
 ajiłchin
@@ -1646,6 +1745,10 @@ ajiłeego ałhanááʼííłdįįh ndaalkidígíí
 ajiłeeh
 ajiłhosh
 ajiłhą́ą́ʼ
+ajiłmáás
+ajiłʼeeł
+ajiʼeeł
+ajoolzhiizh
 ajánil
 ajástis
 ajáád
@@ -1659,6 +1762,10 @@ ajéí díshjool nahalingo yaago heeneez
 ajéí yilzólii
 ajéídíshjool
 ajéítsʼiin
+ajíímááz
+ajííłmááz
+ajííłʼéél
+ajííʼéél
 ajóózh
 akaiʼ
 akaz
@@ -1668,13 +1775,14 @@ akał bistłeeʼ
 akałii
 akałii bistłeeʼ
 akeeʼ
+akin
 akwih
 akágí
 akágí yitsʼǫǫsii
 akágí ánóolingi
-akáshtʼóózh
 akáshtʼóózh biyaʼ
 akááz
+akááʼ
 akááʼ ałtsoozígíí
 akááʼ niʼníkę́ę́z neezgaiʼígíí
 akéeʼdi
@@ -1686,7 +1794,10 @@ akétłʼááh
 akétłʼóól
 akétłʼóól łichxííʼí yázhí
 akézhoozh
+akééʼ
 akéʼiil
+akó-
+akónaa
 akóó níláahdi naníchʼį́įdii
 akąʼ
 akʼaashjaaʼ
@@ -1704,7 +1815,9 @@ akʼaiʼ
 akʼehdidlíní
 akʼeʼeeshchínígíí
 akʼeʼełchí
+akʼi
 akʼiiz
+akʼijįʼ
 akʼinaalzhoodí
 akʼinaʼalzhoodí
 akʼis
@@ -1716,6 +1829,7 @@ akʼéí
 akʼídádéestʼį́į́ʼ
 akʼǫ́ǫ́ʼ
 alah
+alahké
 alchįįh
 aldeeł
 aldóós
@@ -1735,11 +1849,7 @@ alzį́į́h
 aláahdi
 alááh
 alóós
-aląąjįʼ
-aląąjįʼ dahsidáhígíí
 alą́ąjįʼ
-alą́ąjįʼ dah sidáii
-alą́ąjįʼ dahsidáhí
 alą́ąjįʼ dahsidáhígíí
 alą́ąjįʼ naaghá
 alą́ąjįʼ yizhchíinii
@@ -1760,9 +1870,13 @@ aniitsįʼ
 aniiʼ
 anilʼéés
 animate
+animáás
 aninááh
 aniné
+anishłį́
 anitséés
+anitsʼǫǫd
+aniłmáás
 aniłtséés
 aniłtʼánii
 aniłtʼánii bikʼosnézí
@@ -1771,6 +1885,8 @@ aniłtʼánii biyázhí
 aniłtʼánii yázhí
 aniłtʼániitsoh
 aniłtʼániitsʼóóz
+aniłʼeeł
+aniʼeeł
 aniʼįįhii
 aniʼį́į́ʼ
 anoonééł
@@ -1784,6 +1900,7 @@ anákʼee
 análí
 análí asdzą́ą́
 análí hastiin
+análíké
 anátsįʼgoʼ
 anátsʼiin
 anátʼéézh
@@ -1841,9 +1958,11 @@ ashdlą́
 ashgish
 ashhééh
 ashhą́ą́ʼ
+ashiiké
 ashiiké bijish
 ashiikéyázhí há naalzheehí
 ashja
+ashkeed
 ashkii
 ashkii tsaʼii
 ashtéézh
@@ -1887,6 +2006,7 @@ atsiniltłʼish yinaalnishí
 atsiniltłʼish álʼį́
 atsiniltłʼish ííłʼínígíí
 atsiʼ
+atsiʼké
 atsoolaghał
 atsooskʼid
 atsooʼ
@@ -1909,6 +2029,7 @@ atsékʼee
 atsíín
 atsólátah
 atsóí
+atsóóké
 atsą́
 atsą́ hodiniih
 atsą́ siláí
@@ -1919,7 +2040,6 @@ atsįʼ béé átʼáhí
 atsįʼ níyizí
 atsįʼ yikʼáni
 atsįʼ yikʼánígíí
-atsį́į́
 atsʼaʼ
 atsʼid
 atsʼiil
@@ -1988,8 +2108,8 @@ awooʼ bił yichʼiishí
 awooʼ bił yichʼiishí bikʼi nátłohí
 awooʼ diniih
 awos
+awostsʼin
 awáalya
-awáalya yaa áhályáanii
 awáalya yaa áhályání
 awáalyaaí
 awééchíʼí
@@ -2001,15 +2121,18 @@ awééʼ biyaałáí
 awééʼ hayiidzį́sí
 awééʼ hayiiníłí
 awééʼchíʼí
+awó-
 awóchaan
 awóchiiʼ
 awógiizh
+awókʼiz
 awókʼiz análdiłí
 awókʼiz bee naʼatsií
 awókʼiz bee naʼnildizí
 awótsíín
 awótsįʼ
 awótʼah
+ayaa
 ayaadááʼ
 ayaatsʼiin
 ayaayááh
@@ -2026,8 +2149,8 @@ ayidtsʼin
 ayidítsįʼ
 ayih
 ayiinííł
+ayiʼ
 ayol
-ayáanii
 ayáh
 ayání
 ayánítsiiʼí
@@ -2035,6 +2158,8 @@ ayáo
 ayáásh
 ayáázh
 ayéhé néidíníyódí
+ayííłmááz
+ayííłʼéél
 ayóigo
 ayóo
 ayóo áhálniih
@@ -2058,6 +2183,8 @@ ayęęzhii bee ałtah álʼíní
 ayęęzhii bitsʼiil
 ayęęzhii bizis
 ayęęzhii yiltʼąąʼí
+azaad
+azaatłʼóól
 azahatʼágí
 azahdił
 azanátsihí
@@ -2071,6 +2198,7 @@ azeedíchʼííʼ dootłʼizh danímazígíí
 azeedíchʼííʼ łibáhí
 azeedíchʼííʼ łibáhígíí
 azeedíchʼííʼ łichxíʼígíí
+azeedíchʼííʼ łichíʼígíí
 azeeniłchin
 azeeʼ
 azeeʼ atah naashbézhí
@@ -2086,6 +2214,12 @@ azeeʼ tsiʼnaaʼiiłáhí
 azeeʼálʼį́
 azeeʼííłʼíní
 azhdiłhash
+azhdoolkił
+azhdoomas
+azhdootsʼǫł
+azhdoołmas
+azhdoołʼoł
+azhdooʼoł
 azhiin
 azhish
 azhiʼ
@@ -2100,6 +2234,7 @@ azhííh
 azhą́
 azhą́...ndi
 azid
+aziiz
 azis
 azis bee naʼaljidí
 aziz
@@ -2116,6 +2251,8 @@ azǫ́ǫ́z
 ał-
 ałchin
 ałchozh
+ałchʼą́ą́h
+ałchʼįʼ
 ałchʼįʼ beʼestłʼóní
 ałchʼįʼjiinih
 ałdzéhé
@@ -2133,11 +2270,13 @@ ałhąąh ʼídzoh
 ałhą́ą́ʼ
 ałjił
 ałjiłnii
+ałkááʼ
 ałkééʼ
 ałkąąh
 ałkʼi
 ałkʼidą́ą́ʼ
 ałkʼidą́ą́ʼ tʼáá niiłtsą́ą́ ńtʼééʼ
+ałkʼijįʼ
 ałkʼis
 ałkʼésdisí
 ałkʼíniilgizh
@@ -2152,6 +2291,7 @@ ałníʼníʼą́
 ałníʼníʼą́ą́ dóó bikʼijįʼ
 ałnį́į́ʼ
 ałtaaneesdiz
+ałtah
 ałtaʼneetsʼéhiitsʼóóz
 ałtso
 ałtso bééʼdeetánígíí
@@ -2166,13 +2306,13 @@ ałtsʼą́ą́ʼ
 ałtsʼą́ą́ʼ deeníní
 ałtsʼą́ą́ʼ tsénił
 ałtániiłgizh
-ałtį́į́
 ałtį́į́ dóó kʼaaʼ
 ałtį́į́tłʼóól
 ałtį́į́ʼ
 ałtį́į́ʼ jikʼaashí
 ałtį́į́ʼ jikʼaashí áłtsʼózígíí
 ałtʼaʼndziih
+ałyaa
 ałį́į́ʼ
 ałʼąą
 ałʼąą dadineʼé joodlá
@@ -2182,9 +2322,11 @@ ańdaʼaldáhíshąʼ?
 aʼaał
 aʼilyé
 aʼáád
+aʼáádké
 aʼáán
 b
 b-
+ba-
 baa
 baa deetʼáanii
 baa dzólní
@@ -2217,7 +2359,6 @@ bee adizí
 bee adleeshí
 bee adlání
 bee adzooí
-bee aghádaʼdildlaadí
 bee ajoobaʼ
 bee akʼeʼelchíhí
 bee akʼeʼelchíhí tóhígíí
@@ -2234,7 +2375,6 @@ bee chahaʼohí
 bee hazʼáanii
 bee hazʼą́ąnii
 bee haʼnitá
-bee haʼntá
 bee hinishnáanii
 bee hólǫ́
 bee iináanii
@@ -2262,7 +2402,6 @@ bee íʼdiidlííd
 bee ótsaʼí
 bee ńjídǫ́ǫ́zí
 bee ńjígeedí
-beehazʼáanii
 beehazʼáanii bikʼehgo
 beehazʼą́ąnii biłʼoʼnishjí
 beehazʼą́ąnii álʼįįjí
@@ -2282,9 +2421,14 @@ beeʼeldǫǫhtsoh
 beeʼádítʼoodí
 beeʼádítʼoodí yázhí
 beeʼódleehí
+beʼabaní
 beʼakʼah
 beʼakʼid
 beʼaldǫǫh
+beʼashkii
+beʼatʼééd
+beʼawééshchíín
+beʼawéétsʼáál
 beʼawééʼ
 beʼekʼid
 beʼekʼidbąąsdísí bijáád łitsooí yázhí
@@ -2292,13 +2436,23 @@ beʼekʼidbąąsdísí bijáád łitsooígíí
 beʼekʼidbąąsdísí dinilbáhígíí
 beʼesdzą́ą́ ádinii
 beʼádíláhí niʼ
+beʼésaaʼ
+beʼésaʼ
+beʼééʼ
 bi-
 bibazhdooyá
 bibaʼ
+bibeʼ
+bibid
+bibéézh
 bibąąh
+bichaan
+bichaaʼ
+bichahaʼoh
 bichʼah
 bichʼiyąʼ
 bichʼohooʼniih
+bichʼoozhlaaʼ
 bichʼą́ą́h
 bichʼą́ą́h naaghá
 bichʼįʼ
@@ -2306,19 +2460,31 @@ bichʼįʼ dah diilyeed
 bichʼįʼ yishʼá
 bichʼįʼjígo
 bichʼį́ʼ yáʼátiʼígíí
+bidaaʼ
 bidaaʼ níʼdeeshchid
+bidah
 bideedį́į́ʼ
+bideezhí
 bideeʼ
 bideiidę́ęʼgo
 bideiijígo
+bidiilní
 bidiistsʼaʼ
 bidiistsʼį́į́h
+bidiiʼní
+bidiní
+bidishní
+bidił
+bidohní
 bidookįįłii
+bidołní
 bidziil
 bidáahgi
 bidáaʼgi
 bidádinishjeeh
+bidááʼ
 bidááʼ níʼdeeshchid
+bidíłní
 bigaan
 bighaaʼ
 bighan
@@ -2344,6 +2510,8 @@ biibii binághah noodǫ́zígíí
 biibii bitłʼaaʼ dinilgaaígíí
 biih
 biil
+biinééʼ
+biishchʼid
 biiskání
 biizhii
 biizhii íiyisígíí
@@ -2354,10 +2522,14 @@ biiʼazkʼazí
 biiʼdeesʼeez
 biiʼndaʼaʼnéhé
 biiʼooʼéél
+biiʼłidí
 bijaaʼ
 bijeeh
+bijiní
 bijáád
+bijéí
 bijíłtʼé
+bijóózh
 bikeeʼ
 bikin
 bikooh
@@ -2371,18 +2543,20 @@ bikááʼ adlání
 bikááʼ adání
 bikááʼ adání yázhí
 bikááʼ dah asdáhí
+bikááʼ dah asdáhí yiwodígíí
 bikááʼ naʼanishí
 bikááʼ náʼoobałí
-bikááʼadání
 bikááʼatʼeesí
 bikááʼdahʼasdáhí
 bikéeʼjįʼ adeezʼáhí
+bikétal
 bikétsíín
 bikétłʼóól
 bikéyah
 bikéédóó haldilígíí
 bikéédę́ę́ʼígíí
 bikééʼ
+bikąʼ
 bikąʼii
 bikʼah
 bikʼaʼ
@@ -2392,11 +2566,13 @@ bikʼehgo náhidizídígíí
 bikʼi
 bikʼi dah asdáhí
 bikʼi nahagháhígíí
-bikʼiʼadání
+bikʼijįʼ
+bikʼis
 bikʼiʼatsidí
 bikʼiʼdiishtįįh
 bikʼos
 bikʼé
+bikʼéí
 bikʼídiidis
 bikʼídídis
 bikʼídísdis
@@ -2415,11 +2591,15 @@ bilasáana bitseeʼ nineezígíí
 bilasáana diwozhí
 bilasáana tsikʼidę́ę́ʼ naaltsʼiʼgo, doo nízaadi naaltsʼíid da
 bilasáanatseeʼí
+bileezh
+bilid
 biláahdi
 biláahgo
 biláahjįʼ
 bilááh
 bilááhgóó
+bilį́į́ʼ
+bimá
 binaa
 binaago
 binaashnish
@@ -2430,6 +2610,7 @@ binanilnish
 binantʼaʼí
 binaołnish
 bindiiʼá
+bineestʼąʼ
 bineiilnish
 bineʼdi
 bineʼdę́ę́ʼ
@@ -2437,6 +2618,7 @@ bineʼgi
 biniiltʼé
 biniinaa
 biniiyé
+biniiʼ
 biniiʼ yistłʼin
 biniiʼ yiyoołdloh
 biniiʼdootłʼizh
@@ -2453,6 +2635,7 @@ binááʼádaałtsʼózí bitsin naaʼeeł
 bináʼástłééʼ
 biníłtʼé
 bis
+bisiláo
 bisóodi
 bisóodi ałchiní
 bisóodi ałchiní bizábąąh łigaaígíí
@@ -2473,57 +2656,103 @@ bitaʼ
 bitaʼgi
 bitiin
 bitooʼ
+bitoʼ
 bitseeʼ
 bitseeʼ hólóní
 bitseeʼ yee adiłhałii
 bitseeʼ yee adiłhałii yázhí
+bitseʼ
 bitsiichįįshgahí
 bitsiighąąʼ
+bitsiin
 bitsiitsʼiin
 bitsiiʼ
+bitsilí
+bitsiʼ
+bitsooʼ
+bitsxil
 bitsíłkęʼ
 bitsóóké
+bitsą́
+bitsįʼ
 bitsʼaʼ
+bitsʼin
+bitsʼáál
+bitsʼíís
 bitsʼą́ąjįʼ
 bitsʼą́ą́dóó
 bitsʼą́ą́dę́ę́ʼ
 bitsʼą́ą́ʼ
 bitáshtʼóózh
 bitéél
+bitłʼaajįʼééʼ
+bitłʼaaʼ
 bitłʼáahdi
 bitłʼáahgi
+bitłʼááh
 bitłʼááshjání
 bitłʼóól
+bitʼaʼ
+bitʼeezh
 bitʼąąʼ
+biwol
+biwooʼ
 biwooʼ hólóní
+biwos
+biwostsʼin
+biwozh
 biwááshindoon
+biwógiizh
+biwókʼiz
 biyaa
 biyaadi
 biyaagi
+biyaʼ
 biyeʼ
 biyeʼ (man’s son)
+biyih
+biyiin
 biyiʼ
 biyiʼ hodiitsʼaʼ
 biyiʼ hodilid
 biyiʼdi
 biyoochʼídí
 biyoochʼííd
+biyoʼ
 biyázhí
 biyázhí neiyéhé
 biyáázh
 biyáázh tsʼǫʼasánígíí
 biyáázh łeʼesánígíí
+biyéél
 bizaad
+bizaʼazis
 bizaʼazis hólónígíí
+bizhdiłní
+bizhiin
 bizhiʼígíí
+bizhééʼ
 bizhééʼ hólóní
+bizhí
 bizhítsoh
+bizhííh
 bizid
+biziiz
 bizis
+biziz
+bizooł
+bizáanii
+bizágí
 bizází
 bizááká
+bizééʼ
+bizéí
+bizęęs
+bizǫʼ
+bizǫ́ǫ́z
 bił
 bił asdzą́ą́
+bił bééhózin
 bił diłdaas
 bił hajííjééʼ
 bił hastiin
@@ -2544,12 +2773,14 @@ bił ńjoobałí
 biłį́į́ʼ
 biłńjoobałí
 biłńjoobałí ntsékeesígíí
-biłńjooyisí
 biłʼéʼélʼíní
+biʼdoo-
 biʼiiníziinii
 biʼoh
+biʼáád
 biʼééʼ dootłʼizhgo disxǫsígíí
 blanket
+bolbolii bináyaah łitsxooígíí
 boulder
 burden
 bushes
@@ -2576,9 +2807,9 @@ bááh łikaní beʼésaʼ
 bááh łikaní bigháhoodzání
 bááh łikaní biłeetsʼaʼ
 bááh łikaní náhineestsʼeeʼígíí
-bááh łikanígíí
 bááhátis jííyá
 bááshzhinii
+báátis
 báʼóltaʼí
 béeso
 béeso adaʼhaʼnį́į́ł
@@ -2604,7 +2835,6 @@ béégashii yáázh
 béégashii yáázh bitsįʼ
 béégashii yáázh tʼóó yisdlohígíí
 béégashii yáázh wódleehígíí
-béégashiiyáázh
 béégáshiitah noołnahii
 bééhasin
 bééhojísin
@@ -2620,7 +2850,7 @@ bééhózínígo
 bééjílniih
 béénílniih
 béésh
-béésh adeeʼ
+béésh Bichʼahii Bikéyahdę́ę́ʼ tłʼiish báhádzidígíí
 béésh adishahí
 béésh astʼogii
 béésh baa ańdajisihígíí
@@ -2630,7 +2860,6 @@ béésh bee akʼeʼelchíhí tʼáá bí nitsékeesígíí
 béésh bee haneʼ
 béésh bee haneʼé
 béésh bee haneʼé tʼóó naatʼáhígíí
-béésh bee haniʼí
 béésh bee ídaʼdiidlidí
 béésh bee íʼdiidlidí
 béésh bichʼahii
@@ -2641,7 +2870,6 @@ béésh dildǫʼí
 béésh ditʼódí
 béésh doo ńdiniichxíihii
 béésh dootłʼizh
-béésh estʼogii
 béésh halneʼé
 béésh hataałí
 béésh hał
@@ -2651,7 +2879,6 @@ béésh máazoo
 béésh naalkaah
 béésh naatʼaʼítsoh
 béésh nitsékeesí
-béésh nitłʼizígíí
 béésh ntsékeesígíí
 béésh ntłʼizígíí
 béésh náábałí atsiniltłʼish ííłʼínígíí
@@ -2666,6 +2893,7 @@ béésh áłtsʼózí
 béésh ílį́įnii
 béésh ííłʼíní
 béésh łibáhí
+béésh łichíi'ii saad náyiilááhígíí
 béésh łichíiʼii
 béésh łichíiʼii bee dahaniʼígíí
 béésh łichíiʼii bąąh danítʼiʼí
@@ -2688,6 +2916,7 @@ béʼézhóóʼ
 béʼézhóóʼ (hairbrush)
 bí
 bí-
+bíchį́į́h
 bíchį́į́h yee adilohii
 bíchį́į́h yee adilohii ditłʼoígíí
 bídahoołʼaah
@@ -2695,6 +2924,7 @@ bídahwiilʼaah
 bídazneeskʼą́
 bídiijeeh
 bídin hóyééʼ
+bídóʼ
 bíhoołʼaah
 bíhooʼą́ą́ʼii
 bíhwiilʼaah
@@ -2704,17 +2934,21 @@ bíighahí
 bíiyis
 bíká
 bíká iishyeed
+bíkʼaʼí
 bíla
 bílaneezii
 bílaʼ
-bílaʼ ashdlaʼii
 bílaʼ dį́įʼii
 bílaʼashdlaʼii
 bílaʼashdlaʼii bi-
 bílaʼashdlaʼii bilį́į́ʼ
 bílaʼashdlaʼii dóó áłʼąą dineʼé naalkaah
 bílaʼashdlaʼii náóltahígíí
+bíláshgaan
+bílátah
 bílátah łichííʼígíí
+bílátsíín
+bínaaí
 bíniʼ
 bítłʼah chʼíntłʼo
 bízhiʼ
@@ -2751,6 +2985,7 @@ bą́ą́ʼdíłgééd
 bą́ą́ʼdółgééd
 bįįh
 bįįh bitseełgaiígíí
+bįįh biyaʼ
 bįįh yildeeʼiʼ
 bįįh yildeeʼí
 bįįh yáázh
@@ -2769,7 +3004,6 @@ chahałheeł
 chahaʼoh
 chai
 chaléego
-chidii
 chidí
 chidí bee dah ńdiitʼáhí
 chidí bee naʼalzhoodí
@@ -2806,6 +3040,7 @@ chin
 chin bąąh
 chiyóón
 chizh
+chizhtsʼósí
 chodayoołʼįįhí
 chohooʼį́
 chooyin
@@ -2827,7 +3062,6 @@ chéchʼil ntłʼizí yiltʼąąʼí
 chézhin
 chéłchaaʼ
 chéłchaaʼ bideeneezígíí
-chéłchaaʼ bikʼosnézí
 chéłchaaʼtsoh
 chííh
 chííh dootłʼizh
@@ -2838,6 +3072,7 @@ chííl bił hááyoł
 chąądił
 chąąmąʼii
 chąąmąʼii ádílʼį́
+chąąneiłhizii
 chąąneiłmaasii
 chąąshtʼezhii
 chąąshtʼezhiitsoh
@@ -2878,6 +3113,7 @@ chʼałniiʼí
 chʼidí
 chʼiináii
 chʼiish
+chʼikéí
 chʼikę́ę́h
 chʼikę́ę́h łóóʼ
 chʼil
@@ -2914,6 +3150,7 @@ chʼil łitsooí díkʼǫ́zhígíí
 chʼil łitsxooí
 chʼil łitsxooí bitooʼ
 chʼil łitsxooí ntsxaaígíí
+chʼil ʼabeʼé
 chʼilgo
 chʼilgo dootłʼizh
 chʼilhaatʼaʼii
@@ -2937,6 +3174,9 @@ chʼiyáán ííłʼíní
 chʼiyáán ííłʼíní binaaltsoos
 chʼiyíítʼogii
 chʼiyąʼ
+chʼiééjí-
+chʼoh-
+chʼooh-
 chʼosh
 chʼosh ałchozhii
 chʼosh bee yigání
@@ -2979,6 +3219,7 @@ chʼoshłóóʼ bitsʼaʼ ádinígíí
 chʼoshłóóʼ bitʼaʼí
 chʼozh
 chʼoł
+chʼé-
 chʼéghááh
 chʼéhááh
 chʼéjeeh
@@ -2990,13 +3231,17 @@ chʼéldóóh
 chʼélnood
 chʼéltaał
 chʼéltłʼééh
+chʼélwod
 chʼélyeed
 chʼélʼéés
 chʼémáás
+chʼénééh
+chʼésh-
 chʼétłíísh
 chʼétʼááh
 chʼétʼééh
 chʼéyéés
+chʼéé-
 chʼééh
 chʼééh digháhii
 chʼééh digháhii bitsʼaʼ yilzhólí
@@ -3005,27 +3250,93 @@ chʼééh déyá
 chʼééh jiyání
 chʼééh jiyáán
 chʼééhjiyáán
+chʼééhjiyáán ()
 chʼééjísííd
 chʼéélį́
 chʼééniilzííd
 chʼéénísííd
 chʼéénóhsííd
+chʼéésh-
 chʼéʼaash
 chʼéʼeeł
 chʼéʼnééh
 chʼéʼétiin
+chʼí-
+chʼídaa-
+chʼídaaas-
+chʼídaah-
+chʼídaaz-
+chʼídadii-
+chʼídadoo-
+chʼídadooh-
+chʼídadoohmas
+chʼídadoomas
+chʼídajis-
+chʼídajiz-
+chʼídají-
+chʼídajó-
+chʼídaoo-
+chʼídaooh
+chʼídaooh-
+chʼídasii-
+chʼídasooh-
+chʼídayó-
+chʼídazhdoo-
+chʼídazhdoomas
 chʼídeedzééh
 chʼídeeldlóohiitsoh
 chʼídeelnííh
+chʼídeesh-
+chʼídeeshʼoł
+chʼídeesmas
+chʼídeii-
+chʼídii-
+chʼídiiʼoł
 chʼídinidlóóh
+chʼídoo-
+chʼídooh-
+chʼídoohmas
+chʼídoohʼoł
+chʼídoolnoł
+chʼídoomas
+chʼídooʼoł
+chʼídíí-
+chʼídíímas
+chʼídííʼoł
 chʼíhiʼnilchééh
 chʼíhonítʼiʼ
 chʼíhootʼánígíí
+chʼíi-
+chʼíjoo-
+chʼíjí-
+chʼíjílnóód
+chʼíjíí-
+chʼíjó-
 chʼíláyiʼ
+chʼíná-
 chʼínádzííd
+chʼínáh-
+chʼínání-
+chʼínásh-
+chʼínéii-
 chʼínéísííd
+chʼíní-
+chʼínídaa-
+chʼínídaah-
+chʼínídaji-
+chʼínídeii-
 chʼínílį́
+chʼínímááz
+chʼíníshʼeeł
+chʼínísmáás
+chʼíníłéél
+chʼíníʼéél
 chʼíshiibeezhii
+chʼízhdoo-
+chʼízhdoolnoł
+chʼízhdoomas
+chʼízhdooʼoł
+chʼííní-
 chʼíízǫ́ǫ́s
 chʼííłchʼąął
 chʼííłjiid
@@ -3040,51 +3351,224 @@ chʼíʼiiłkeed
 chʼó
 chʼó deenínii
 chʼóhojilyééh
+chʼóo-
+chʼóoh-
+chʼóosh-
 chʼóyáázh naashchʼąąʼígíí
+chʼóó-
 chʼįdą́ą́ʼ
 chʼį́įdii
 chʼį́įdiitah
 chʼį́įdiitahgóó
 conglomerate
 d
+d-
 da
 da-
 daa
 daa-
+daabááh
 daabéézh
 daabí
 daacha
 daachxago ndaamaasí
 daadaolyéhé
 daadlánígíí
+daadzaa
+daadził
 daadánígíí
+daah-
+daahbááh
+daahcha
+daahchííh
+daahchʼish
+daahdleesh
+daahdą́
+daahjeeh
+daahjááh
+daahkááh
+daahnééh
+daahsą́
+daahtaał
+daahtin
+daahtʼood
 daahó
+daahʼaał
+daahʼeesh
+daahʼeeł
+daahʼnééh
+daahʼáád
+daakááh
+daakǫʼ
 daakʼos
 daakʼį́į́ʼ
 daakʼį́į́ʼ yázhí
+daalchííʼ
+daaldin
+daaleeh
+daalgai
+daaltso
 daaltązhgo bee ndajinéhígíí
+daaltłʼééh
+daalzhin
 daan
+daanééh
 daanéʼé
 daaní
+daas-
 daash
 daash yinílyé
 daash yinílyé?
+daash-
+daashdloozh
+daaskai
+daastin
 daastsʼin
+daataał
 daateel
+daatin
 daatsaah
 daatsʼí
+daató
+daaz-
+daazh-
 daazhbéézh
+daazmááz
 daaztsánée yigáłígíí
 daaztsánígíí
+daaztsą́
+daazį́
+daałbéézh
+daałdeeł
+daałdin
+daałdééh
+daałjiid
+daałkeed
+daałtin
+daałtłʼééh
+daałtʼood
+daałzhóóh
+daaʼeeł
 daaʼii
+daaʼnééh
 daaʼí
 dabikááʼ
+dadeelchʼą́ą́l
+dadeeshchʼą́ą́l
+dadeezgoʼ
+dadidiidzah
+dadidiigoh
+dadidiilchʼął
+dadidiitih
+dadidoogoh
+dadidoohdzah
+dadidoohgoh
+dadidoohniił
+dadidoohtih
+dadidoolchʼął
+dadidooniił
+dadidoołchʼął
+dadidzééh
+dadigeeh
+dadii(d)-
+dadii-
+dadiibah
+dadiichah
+dadiichih
+dadiichʼish
+dadiid-
+dadiidleeł
+dadiidlish
+dadiidzééh
+dadiidį́į́ł
+dadiigeeh
+dadiijah
+dadiijih
+dadiikah
+dadiilbał
+dadiilchʼąął
+dadiildah
+dadiildił
+dadiildlosh
+dadiilkos
+dadiiltłʼééł
+dadiiltʼah
+dadiiltʼoł
+dadiilzhoh
+dadiitih
+dadiitííh
+dadiitʼał
+dadiitʼoł
+dadiitʼááł
+dadiiʼnah
+dadiiʼnééh
 dadiiʼní
+dadiiʼnííł
+dadilchʼąął
 dadilhóni aheltłʼidígíí
+dadilkos
+dadishoołchʼą́ą́l
+dadisoogoʼ
+dadohdzééh
+dadohgeeh
 dadohní
+dadoo(h)-
+dadoo-
+dadoobah
 dadoobish
+dadoochah
+dadooh-
+dadoohbah
+dadoohchah
+dadoohchih
+dadoohchʼish
+dadoohdlish
+dadoohdį́į́ł
+dadoohjah
+dadoohjih
+dadoohkah
+dadoohmas
+dadoohneʼ́
+dadoohnééł
+dadoohnííł
 dadoohshį́į́ł
-dagaʼ
+dadoohsį́į́ł
+dadoohtííh
+dadoohtʼoł
+dadoohzééh
+dadoohłeeł
+dadoohʼał
+dadoohʼish
+dadoohʼnah
+dadoohʼááł
+dadookah
+dadooldlosh
+dadooleeł
+dadooltłʼééł
+dadoomas
+dadooniid
+dadoonééł
+dadoonííł
+dadootih
+dadoozééh
+dadoołbał
+dadoołdah
+dadoołdił
+dadoołdlosh
+dadoołmáás
+dadoołmááz
+dadoołtłʼééł
+dadoołtʼah
+dadoołtʼoł
+dadoołzhoh
+dadooʼnah
+dadołchʼąął
+dadołkos
+dadzidzaa
+dadíníijah
+dadínóohjah
+dadínóojah
+dadóneʼ
 dagó anáshdlohgo shitłʼaaʼ nʼdiiltsʼid
 dah
 dah alzhin
@@ -3103,55 +3587,322 @@ dah woozh
 dah yiitį́hí
 dah yiitʼą́
 dah yiskʼid
+dahaniih
+dahałeeh
 dahbaʼ
 dahiitį́hii
 dahiitį́hii bítááʼ naashchʼąąʼígíí
 dahiitį́hiichilí binághah dootłʼizhígíí
 dahiitį́hídą́ą́ʼtsoh
 dahiitį́į́hildaaʼígíí
+dahohniih
+dahohłeeh
+dahojiniih
+dahojiłeeh
 dahooltsé
+dahosiidlį́į́ʼ
+dahosoołį́į́ʼ
 dahsitą́
 dahsání
 dahtooʼ
 dahtooʼ tin
 dahtsʼaaʼ
 dahtʼoh
+dahwiidleeh
+dahwiiʼniih
 dahwéetʼaahígíí
+dahée-
+dahííníi(d)-
 dahólónígíí
+dahólǫ́
+daji-
+dajibááh
+dajicha
+dajichííh
+dajichʼish
+dajidleesh
+dajidą́
+dajijeeh
+dajijááh
+dajikááh
+dajilchʼąął
+dajildeeł
+dajildin
+dajildééh
+dajiltłʼééh
+dajiltʼood
+dajilzhóóh
+dajinééh
 dajiní
+dajis-
+dajisbaal
+dajish-
+dajishbéézh
+dajishchʼą́ą́l
+dajishdloozh
+dajiskai
+dajistin
+dajitaał
+dajitin
+dajitʼood
+dajiyée-
+dajiyą́
+dajiz-
+dajizh-
+dajizhjééʼ
+dajizhʼeezh
+dajizlį́į́ʼ
+dajizmááz
+dajizį́
+dajiłbaał
+dajiłbéézh
+dajiłdééh
+dajiłjiid
+dajiłkeed
+dajiłtin
+dajiłtʼood
+dajiʼaah
+dajiʼaał
+dajiʼeesh
+dajiʼeeł
+dajiʼnééh
+dajiʼáád
+dajoodlą́ą́ʼ
+dajoosbą́
+dají-
+dajíjááh
+dajíkááh
+dajíldlóósh
+dajímáás
+dajínééh
+dajííchʼiizh
+dajíítʼóód
+dajííʼaal
+dajíłdóóh
+dajíłmáás
+dajíłtʼááh
+dajíʼaah
+dajó-
+dajójeeh
 dajółdonígíí
 dajółdonígíí (gunnery)
 dajółneʼígíí
 dajółtʼóhígíí
 damóo
 damį́įgo
+daneejééʼ
+dani-
+daniheʼawééshchíín
+daniheʼawéétsʼáál
+daniheʼawééʼ
 danihi-
+danihibid
+danihichʼoozhlaaʼ
+danihidziil
+danihigaan
+danihighaaʼ
+danihighan
+danihigod
+danihijaaʼ
+danihijáád
+danihijóózh
+danihikeeʼ
+danihikin
+danihikétsíín
+danihikʼis
+danihikʼos
+danihikʼéí
+danihilah
+danihimá
+danihiniiʼ
+danihinááʼ
+danihitaaʼ
+danihitsiiʼ
+danihitsilí
+danihitsiʼ
+danihitsooʼ
+danihitsįʼ
+danihitsʼin
+danihitsʼíís
+danihitłʼaaʼ
+danihiwooʼ
+danihiwostsʼin
+danihiyih
+danihiyáázh
+danihizaad
+danihizhiin
+danihizhí
+danihizhííh
+danihizid
+danihiziiz
+danihizágí
+danihizází
 danihizází yę́ę
+danihádí
 danihí
+danihílaʼ
+danihínaaí
+danihíniʼ
+danihízhiʼ
+danii-
+daniidlį́
 daniidzin
+daniijaaʼ
+daniijeeh
+daniijááh
+daniikai
+daniikááh
+daniildloozh
+daniildlóósh
+daniilmas
+daniitʼaah
+danijeeh
+danilį́
+danineez
+danoh-
+danohjeeh
+danohjááh
+danohkááh
+danohmáás
+danohnééh
 danohsin
+danohłį́
+danohʼaah
+danoohkai
+danoojaaʼ
+danoomááz
+danoołdloozh
+danoołtʼaʼ
+danołdlóósh
 danízin
+daníínó(h)-
+daoh-
 daohcha
+daoo-
 daoocha
+daoochʼiizh
+daooh-
+daoohdlą́ą́ʼ
+daoohdzaa
+daoohjeeh
 daoohsįįh
+daoojeeh
+daootʼóód
+daooʼaal
 daołbéézh
 das
 dashchʼíní
+dashii-
 dashiilbéézh
+dashoo-
 dashoołbéézh
+dashooʼeezh
+dasii-
+dasiidlį́į́ʼ
+dasiidzį́
+dasiilbaal
+dasiitin
+dasoo-
+dasoohtin
+dasoolį́į́ʼ
+dasoozį́
+dasoołbaal
+dasoołtin
+dasołbaał
+dayiʼaah
+dayoodlą́ą́ʼ
+dayoosbą́
+days of the week: yoołkááłígíí: Damóo · Damóo Biiskání · Naakijį́ Ndaʼanish · Tágíjį́ Ndaʼanish · Dį́ʼíjį́ Ndaʼanish · Ndaʼiiníísh · Yiską́ Damóo [edit]
+dayííchʼiizh
+dayíítʼóód
+dayííʼaal
+dayó-
+dayójeeh
+dazhdeeshchʼą́ą́l
+dazhdeezgoʼ
+dazhdidoogoh
+dazhdidoolchʼął
+dazhdidooniił
+dazhdidootih
+dazhdidoozah
+dazhdidzééh
+dazhdigeeh
+dazhdiitih
+dazhdiitííh
+dazhdiiłmáás
+dazhdiiłmááz
+dazhdilchʼąął
+dazhdilkos
+dazhdoo-
+dazhdoobah
+dazhdoochah
+dazhdoochih
+dazhdoochʼish
+dazhdoodlish
+dazhdoodį́į́ł
+dazhdoojah
+dazhdoojih
+dazhdookah
+dazhdooldah
+dazhdooldił
+dazhdooldlosh
+dazhdooleeł
+dazhdooltłʼééł
+dazhdooltʼoł
+dazhdoolzhoh
+dazhdoomas
+dazhdoonééł
+dazhdoonííł
+dazhdootʼoł
+dazhdooyį́į́ł
+dazhdoołbał
+dazhdoołdah
+dazhdoołtʼah
+dazhdooʼał
+dazhdooʼish
+dazhdooʼnah
+dazhdooʼááł
+dazhdínóojah
+dazhdínóołmas
+dazhdííniid
+dazhdóneʼ
+dazhdózééh
+dazhneezʼaaʼ
+dazhnijeeh
+dazhniłmas
 dazhnízin
+dazlį́į́ʼ
 daznízin
+daʻii-
+daʻoo-
 daʼ
 daʼ tʼáásh áko?
+daʼa-
 daʼahijoogą́ą́ʼ
 daʼalghał
 daʼatsaah
 daʼayą́
+daʼaz-
+daʼałchozh
 daʼałchozhígíí
+daʼałhosh
 daʼałtʼoʼii
+daʼdii-
+daʼdoo-
+daʼdooh-
+daʼii-
 daʼiidą́
+daʼiilzhiizh
 daʼiiłtááh
+daʼji-
 daʼjiyání
+daʼjiyą́
+daʼjiz-
+daʼjiłhosh
+daʼjoo-
+daʼjoolzhiizh
+daʼjíi-
+daʼjó-
 daʼjóʼį́įłgo naʼalkidígíí
 daʼnijah
 daʼnijahígi
@@ -3162,23 +3913,43 @@ daʼnjah
 daʼnjahí góneʼ
 daʼnílʼínígíí
 daʼnílʼį́
+daʼoh-
 daʼohdlą́
 daʼohsą́
+daʼoo-
+daʼooh-
+daʼoolzhiizh
+daʼoołzhiizh
+daʼołhosh
+daʼsii-
+daʼsoo-
+daʼzhdoo-
+daʼíí-
 daʼííníiltaʼ
 daʼíínółtaʼ
+daʼó-
 daʼółtaʼ
 da’astsą́
 de
 deechʼį́į́d
+deedzaʼ
+deegoʼ
 deekai
+deelchʼą́ą́l
 deenástsʼaaʼ
 deení
 deesbá
 deesdoi
 deesdoigi
+deesdzaʼ
 deesgai
+deesh-
 deeshbah
+deeshbał
 deeshbish
+deeshbąs
+deeshchah
+deeshchih
 deeshchiiʼ
 deeshchosh
 deeshchííł
@@ -3187,16 +3958,38 @@ deeshchǫǫł
 deeshchʼał
 deeshchʼish
 deeshchʼił
+deeshchʼą́ą́l
 deeshdah
 deeshdił
+deeshdlish
+deeshdlosh
+deeshdį́į́ł
+deeshgish
+deeshjah
+deeshjih
 deeshjin
+deeshjił
+deeshkah
+deeshnééł
+deeshnííł
+deeshtłʼééł
+deeshtʼah
+deeshtʼoł
+deeshwoł
+deeshzhoh
+deeshááł
+deeshį́į́ł
+deeshłeeł
 deeshʼaał
 deeshʼash
 deeshʼał
+deeshʼish
+deeshʼnah
 deeshʼááł
 deeskai
 deeskʼaaz
 deeskʼid
+deesmas
 deestso
 deestsʼin
 deeteel
@@ -3204,23 +3997,124 @@ deetʼáázh
 deeyol
 deeyá
 deeyįįh
+deezgoʼ
 deezhʼáázh
 deezlį́
 deezʼá
 dego
 dego dóó yaago iłnídílzhoʼí
 dei
+deichííh
+deichʼish
+deididoodzah
+deidiiłmáás
+deidiiłmááz
+deidleesh
+deidoochih
+deidoochʼish
+deidoodlish
+deidoodį́į́ł
+deidoojah
+deidoojih
+deidooldah
+deidooldił
+deidooltʼoł
+deidoolzhoh
+deidootʼoł
+deidooyį́į́ł
+deidoołbał
+deidoołdah
+deidoołtʼah
+deidooʼał
+deidooʼish
+deidooʼááł
+deidínóołmas
+deidózééh
+deidą́
 deigo
 deigo hoł háádaadlohí
+deii-
+deiibááh
 deiicha
+deiichííh
+deiichʼid
+deiichʼiizh
+deiichʼish
+deiidleeh
+deiidleesh
+deiidlą́ą́ʼ
+deiidą́
+deiidą́ą́ʼ
+deiijeeh
+deiijááh
+deiikááh
 deiilbéézh
+deiilchʼąął
+deiildeeł
+deiildin
+deiildééh
+deiiljiid
+deiiltłʼééh
+deiiltʼood
+deiilzhóóh
+deiitaał
+deiitin
+deiitʼaal
+deiitʼaał
+deiitʼood
+deiitʼóód
+deiiʼdzaa
+deiiʼeeł
+deiiʼnééh
+deijeeh
 deijiʼ
 deijiʼ ééʼ
-deijiʼééʼ
+deijááh
+deildeeł
+deildééh
+deiltʼood
+deilzhóóh
+deineezʼaaʼ
+deiniłmas
 deishbéézh
+deisiilbą́
+deisoołbą́
 deistin
+deitʼood
+deiyą́
+deiz-
+deizhʼeezh
+deiłbaał
 deiłbéézh
+deiłdééh
+deiłjiid
+deiłkeed
 deiłní
+deiłtin
+deiłtʼood
+deiʼaał
+deiʼeesh
+deiʼáád
+deí-
+deíjááh
+deíkááh
+deíldlóósh
+deímáás
+deínoh-
+deínééh
+deíníi(d)-
+deíníi-
+deíníijeeh
+deíníildóóh
+deíníilmáás
+deíníitʼaah
+deínó(h)-
+deínóhʼaah
+deínółdóóh
+deínółmáás
+deíłdóóh
+deíłmáás
+deíʼaah
 di-
 dibah
 dibááʼ
@@ -3239,8 +4133,30 @@ dichin
 dichin nisin
 dichił
 dichʼíízh
+dideesdzah
+dideeshchʼął
+dideeshgoh
+dideeshniił
+dideeshtih
+dideeshʼnah
+didiidzah
+didiigoh
+didiilchʼął
+didiitih
+didiiʼniił
+didishjeeh
 didlid
+didoodzah
+didoogoh
 didoogááł
+didoohdzah
+didoohgoh
+didoohniił
+didoohtih
+didoolchʼął
+didooniił
+didootih
+didoołchʼął
 didziih
 didzé
 didzéchííʼ
@@ -3248,47 +4164,83 @@ didzétsoh
 didzétsoh yázhí
 didzééh
 didzéłchííʼ
+didíídzah
+didíígoh
+didíílchʼął
+didííniił
+didíítih
 digeeh
 dighaał
 dighááh
 dih
 dihwééh
+dii(d)-
+dii-
 diibah
 diibish
 diibááh
+diichah
+diichih
 diichiłí
 diichʼish
 diichʼił
 diichʼééh
+diid-
 diidił
 diidiłjeeh
+diidleeł
 diidlid
+diidlish
 diidzééh
+diidį́į́ł
+diigeeh
 diigis
+diigish
+diijah
+diijih
+diikah
 diilbish
+diilbąs
 diilchosh
 diilchííł
 diilchį́į́ł
 diilchǫǫł
 diilchʼał
 diilchʼił
+diilchʼąął
 diildah
 diildił
+diildlosh
 diilkos
+diilkǫʼ
+diiltłʼééł
 diiltłʼíísh
+diiltʼoł
 diilyį́į́h
+diilzhoh
 diilzéí
 diilʼaał
 diimáás
+diishtííh
 diishtłʼíísh
+diismáás
+diitih
 diitííh
 diitłʼíísh
 diitʼash
 diitʼał
+diitʼoł
 diitʼááł
 diiłheeł
+diiłkǫʼ
+diiłmáás
+diiłmááz
 diiłtłʼíísh
+diiʼnah
+diiʼniid
+diiʼnééh
 diiʼní
+diiʼnííł
 dijeeh
 dijool
 dijádídlǫ́ʼí
@@ -3355,12 +4307,16 @@ dinilgai
 diniltso
 diniltsxo
 dinilzhin
+dinitih
+diniłkǫʼ
+diniłmááz
 diniʼeechʼil áłtsʼóózígíí
 dinooltłʼizh
 dinootłʼizh
 diné
 diné atítʼįįhgo bee naagéhé
 diné bee naagehé
+diné bee naagéhé
 diné daninéhígíí
 dinéenáago ídzoh
 dinéhígíí
@@ -3371,11 +4327,19 @@ dinézéí
 dinééh
 diní
 dinííh
+disdzééh
 dishchʼid
+dishchʼąął
+dishgeeh
 dishhį́į́h
 dishní
+dishoołchʼą́ą́l
 dishooʼáázh
 dishłid
+dishʼnééh
+diskos
+disoogoʼ
+disoohdzaʼ
 disoohkai
 disxǫs
 diséí
@@ -3390,7 +4354,9 @@ ditłʼoii
 ditłʼoiitsʼózí
 ditłʼooí
 ditʼééh
+ditʼódí
 ditʼąh
+diwozh
 diyin
 diyin naalʼaʼí
 diyin naalʼaʼí naa áhályánígíí
@@ -3403,6 +4369,10 @@ diyóósh
 diyóół
 diz
 dizhah
+dizhdoodzah
+dizhdoogoh
+dizhdoolchʼął
+dizhdooniił
 dizheeh
 dizééh
 dizéí
@@ -3443,6 +4413,8 @@ dlǫ́ʼiiłgaii
 dlǫ́ʼátah néʼéshjaaʼ
 dlǫ́ʼátsoh
 dog
+dohdzééh
+dohgeeh
 dohní
 dohséí
 dohłid
@@ -3484,9 +4456,12 @@ doo ákweʼé
 doo ákótʼée da
 doo ílį́į da
 doo ʼáhályáanii
+doo(h)-
+doo-
 doo...da
 doobah
 doobish
+doochah
 doochʼih
 dooda
 dooda shaʼshin
@@ -3495,17 +4470,39 @@ doodagóó
 doodaiiʼ
 doodił
 doodzah
+doodzaʼ
+dooh-
 doohbah
 doohbish
+doohchah
+doohchih
 doohchʼish
 doohchʼił
 doohdił
+doohdlish
+doohdį́į́ł
+doohgish
+doohjah
+doohjih
+doohkah
+doohmas
+doohneʼ
+doohnííł
 doohshį́į́ł
+doohsį́į́ł
+doohtííh
+doohtʼoł
+doohzééh
+doohłeeł
 doohʼash
 doohʼał
+doohʼish
+doohʼnah
 doohʼááł
 doojóódląʼda
+dookah
 doolchį́į́ł
+dooldlosh
 dooleeł
 dooleeł ńtʼééʼ
 dooleełgo
@@ -3513,11 +4510,19 @@ dooleełígíí
 dooleełę́ę
 doolghas
 doolnih
+dooltłʼééł
+doolwoł
+doomas
+dooniid
+doonííł
+dootih
 dootłʼizh
 dootłʼizhii
 doozhǫǫhii
+doozééh
 dooísh léiʼ
 doołbish
+doołbąs
 doołchosh
 doołchííł
 doołchį́į́ł
@@ -3526,16 +4531,27 @@ doołchʼał
 doołchʼił
 doołdah
 doołdił
+doołdlosh
 doołikoní
+doołkǫʼ
+doołtłʼééł
 doołtłʼíísh
+doołtʼoł
+doołzhoh
 doołʼaał
 dooʼash
+dooʼnah
+dooʼneʼ
+dołchʼąął
 dołhį́į́h
+dołkos
 dust
 dwam
 dz
 dzaanééz
 dzeeh
+dzi-
+dzidzaa
 dzidzé
 dzidzé ditʼódí
 dzidzé łikaní dinilchííʼígíí
@@ -3593,6 +4609,8 @@ dáʼátsiin
 dáʼátʼąąʼ
 déesxéél
 déesʼeez
+dégoʼ
+déshchʼą́ą́l
 déyá
 dééh
 déélgééd
@@ -3611,6 +4629,8 @@ déłí bitsiiyah łigaaígíí
 déłí bitsiiʼ halchíʼígíí
 déʼéyóní
 díchʼííʼ
+dídzééh
+dígeeh
 díidí
 díidíígíí
 díigi átʼéego
@@ -3633,16 +4653,38 @@ díkwííshį́į́ saad yidiitsʼaʼ
 díkʼǫ́ǫ́zh
 díkʼǫ́ǫ́zhí
 díkʼǫ́ǫ́zhí yiltʼąąʼí
+dílchʼąął
+dílkos
+dínéeshjah
+dínéeshkeeł
+dínéesmas
 díní-
+dínígoʼ
+díníikeeł
+dínílchʼą́ą́l
 díníyá
+dínííjah
+dínííkeeł
+dínííłmas
+dínóohkeeł
+dínóojah
+dínóokeeł
 díséí
 díwózhii
 díwózhiishzhiin
 dízdiin
+dízdiin dóó baʼąą ashdlaʼ
+dízdiin dóó baʼąą dį́į́ʼ
+dízdiin dóó baʼąą hastą́ą́
+dízdiin dóó baʼąą naaki
+dízdiin dóó baʼąą náhástʼéí
+dízdiin dóó baʼąą tseebíí
+dízdiin dóó baʼąą tsostsʼid
+dízdiin dóó baʼąą tááʼ
+dízdiin dóó baʼąą tʼááłáʼí
 dízdiin dóó bi'aan hastáá
 dízdiin góneʼ
 dízdįįdį́į́ʼ
-dízdįįhastą́ą́
 dízdįįnaaki
 dízdįįnáhástʼéí
 dízdįįtseebíí
@@ -3650,29 +4692,56 @@ dízdįįtsostsʼid
 dízdįįtááʼ
 dízdįįłaʼ
 dízdįįʼashdlaʼ
+dízhnóojah
+dízhnóokeeł
+dízhnóołmas
 díí
-díí ghaaí
 díí jį́
 díí átʼáo
 díí óolyé dooląął
+díí-
 dííbah
 dííbish
+dííchah
+dííchih
 dííchʼish
 dííchʼił
 díídił
+díídlish
+díídį́į́ł
 dííghaaí
+díígish
+dííjah
+dííjih
 dííjį́
 dííjį́įdi
+dííkah
 dííkʼǫsh
+dííldah
+dííldił
+dííldlosh
+dííleeł
+dííltłʼééł
+dííltʼoł
+díílwoł
+díílzhoh
+díímas
+dííniid
+díínídzaʼ
+dííníniid
+díínííł
 díísh
-díísh jį́
 díísh jį́į́dóó
 dííshjį́
 dííshjį́į́dóó
 dííshjį́į́góó
 díítłʼééʼ
+díítʼoł
+dííyį́į́ł
 díízhíní
+dííłbał
 dííłbish
+dííłbąs
 dííłchosh
 dííłchííł
 dííłchį́į́ł
@@ -3682,9 +4751,12 @@ dííłchʼił
 dííłdah
 dííłdił
 dííłdzid yiyání
+dííłjił
 dííłʼaał
 dííʼash
 dííʼał
+dííʼish
+dííʼnah
 dííʼááł
 díłchʼil
 díłdánii
@@ -3693,18 +4765,25 @@ díłhį́į́h
 díłid
 dólii
 dóliiłchííʼ
+dóneʼ
 dóola
 dóola bichąąʼ
 dóola bił naalgeedígíí
 dóola naalgeed
 dóola naalgeedígíí
 dóoneʼé
+dóshneʼ
+dószééh
+dózééh
 dóó
+dóó baʼaan
+dóó baʼąą
 dóó wóshdę́ę́ʼ
+dóóneʼ
 dóóshdę́ę́ʼ
+dóózééh
 dóʼ
 dą
-dąą
 dąądą́ą́ʼ
 dąągo
 dąągo shá ałnííʼ hanádááh
@@ -3729,6 +4808,10 @@ dį́į́ʼtsʼáadah góneʼ
 dłį́
 dłį́baa'
 e
+ee-
+eeshkid
+eeshtʼaʼ
+eeshzhiizh
 eidí
 eii
 eʼelneeh
@@ -3738,6 +4821,7 @@ eʼeʼaah
 eʼeʼaahdę́ęʼgo
 eʼeʼaahdę́ę́ʼ díłdánii
 eʼeʼaahgo
+eʼeʼaahgóó
 eʼeʼaahjigo
 eʼeʼaahjí
 eʼeʼáahgo daʼadánígíí
@@ -3747,7 +4831,7 @@ frog
 g
 gaan
 gaan bee naaljidí
-gaanee naanish
+gaaneegaanee naanish ()
 gaantsʼósí
 gad
 gad diltáłii
@@ -3794,11 +4878,11 @@ gídíkąʼ
 gíinisi
 gíinsi
 gímchi
+gó-
 góde
 gódeg
-gódei
-gódeʼ
 gólízhii
+gónaa
 góneʼ
 góneʼé
 góneʼégóó
@@ -3812,7 +4896,6 @@ haabá
 haachiiʼ
 haachééh
 haagai
-haah
 haajeeh
 haajin
 haajííł
@@ -3820,6 +4903,7 @@ haakááh
 haaldlóósh
 haaldóóh
 haaltaał
+haaltáál
 haaltłʼééh
 haalyeed
 haalá nízin
@@ -3834,11 +4918,14 @@ haash yinílyé
 haash yinílyé?
 haashchiiʼ
 haashchʼééh
+haashchʼéídóó
 haashchʼéʼédą́ą́ʼ
 haashgéésh
 haashjin
+haashtáál
 haashį́į́
 haashį́į́ néelą́ą́ʼ?
+haasmáás
 haastih
 haastso
 haateeł
@@ -3856,35 +4943,51 @@ haaʼí yeeʼ
 haaʼíílá ńtʼé
 haaʼíílá ńtʼé?
 habid
+habízhí
 hachįįh
 hachįʼ
 hachʼoozhlaaʼ
 hachʼéʼé jíłʼíní
 hachʼéʼé ájíłʼíní
+hachʼą́ą́h
+hachʼįʼ
+hadaastáál
 hadah
 hadahiilį́
 hadahoniyeʼ
 hadahooneeyánígíí
 hadahooneeyą́
-hadahʼiilį́
+hadajistáál
+hadajizgeed
 hadaołgéésh
+hadasiigeed
+hadasiiltáál
+hadasoogeed
+hadasoołtáál
+hadeesmas
 hadeezbin
+hadeezhí
 hadeiilgéésh
+hadeizgeed
 hadeiłgéésh
 hadibin
 hadidzééh
 hadii-
 hadilchą́ą́ʼ
 hadilzééh
+hadił
 hado
 hadoh
 hadoh dóó hakʼaz neiłkidígíí
+hadziil
 hadzííyá
 hadzííʼá
 hadáyiʼ
 hadéébįįd
 hadítʼé
 hagaan
+haghaaʼ
+haghan
 hagod
 hah
 hahastiin
@@ -3903,7 +5006,10 @@ haigo
 haigo ahąą honinééh
 haigo shá niighááh
 haigééd
+haiigeed
 haiilgéésh
+haiiltáál
+haiiʼmááz
 haikaał
 haikʼę́ę́h
 hailzheeh
@@ -3931,22 +5037,32 @@ haiłtʼood
 haiłtʼééh
 haiłʼeeł
 haiʼííłnííʼ
+hajaaʼ
 hajoobáʼágo
+hajooltáál
 hajáád
+hajéí
 hajéítsʼiin
+hajíígeed
+hajíímááz
+hajóózh
 hakeeʼ
 hakágí
 hakágí bitłʼáahdi sikaadígíí
 hakáʼígíí
 hakétsíín
+hakééʼ
 hakʼaz
 hakʼaz ayání bighaaʼ
+hakʼaz bįįh
 hakʼaz dééł
 hakʼaz giníłgaii
 hakʼaz naalʼeełí
 hakʼaz náshdóí
 hakʼaz néʼéshjaaʼ
 hakʼaz tónteel táshchozhii
+hakʼi
+hakʼijįʼ
 hakʼis
 hakʼos
 hakʼéí
@@ -3961,6 +5077,8 @@ halneʼ
 halneʼé
 haltso
 halzhíísh
+halááh
+hamá
 hamá jíłʼíní
 hamá ájíłʼíní
 haneetehee
@@ -3973,10 +5091,15 @@ haniih
 haniiʼ
 haniłgéésh
 hanályį́į́h
+hanálí
+hanááʼ
 hanííbą́ą́z
 haníígaii
 hanííʼ
 haoh
+haoogeed
+haoomááz
+haoołtáál
 haołgéésh
 hasbídí
 hasbídí yishtłizhígíí
@@ -3985,7 +5108,9 @@ hasbídí łibáhígíí
 hashkeeh
 hashké
 hashké nídzin
+hashkéhee
 hashkééjí naatʼááh
+hashkééjí nahatʼá
 hashkééł ndaakaiígíí ayóo baa daʼneedééh
 hashkʼaan
 hashkʼaan dijéʼé
@@ -3999,6 +5124,7 @@ hashtłʼishdi tádíʼnéehii
 hashtłʼishnii
 hashtʼeʼ
 hashtʼeʼ nihénil
+hashłeeh
 hasih
 hasin
 hastiin
@@ -4029,23 +5155,31 @@ hastą́ągo bízniikʼą́
 hastą́ą́
 hastą́ą́ góneʼ
 hastą́ą́góó adeezʼá
-hastą́ą́yáál
 hastą́ʼáadah
 hastą́ʼáadah góneʼ
 hasįįh
+hasʼą́
 hataał
 hataałii
+hataaʼ
 hatah
 hatinídę́ę́ʼ tsídiiłgaii
+hatoʼ
 hatsiistsʼiin
 hatsiiʼ
+hatsilí
 hatsiʼ
 hatsiʼ jíłʼíní
 hatsiʼ ájíłʼíní
+hatsoh
+hatsohgo
+hatsóí
 hatsóí ashkiígíí
+hatsóóké
 hatsʼin
 hatsʼíhyaa
 hatsʼíís
+hatsʼą́ą́ʼ
 hatáál
 hatłʼaaʼ
 hawos
@@ -4055,11 +5189,15 @@ hayeʼ
 hayeʼ jíłʼíní
 hayeʼ ájíłʼíní
 hayid
+hayiʼ
 hayoołkááł
+hayáázh
 hayáázh jíłʼíní
 hayáázh ájíłʼíní
 hayé
+hayíígeed
 hayííłką́
+hazaad
 hazaʼaleeh
 hazaʼaleehtsoh
 hazaʼaleetsoh
@@ -4068,12 +5206,17 @@ hazhdiilwoʼii
 hazhdiilwoʼí
 hazhiʼ
 hazháʼáád
+hazhéʼé
 hazhéʼé jíłʼíní
 hazhéʼé ájíłʼíní
 hazhóóʼógo
 hazhóʼó
 hazhóʼógo
 hazhóʼógo yáníłtiʼ
+hazid
+haziiz
+hazis
+hazáanii
 hazééʼdę́ę́ʼ
 hazéí
 hazéí naalkʼįhí
@@ -4085,6 +5228,7 @@ hazʼą́
 hał
 hałchįįh
 hałeeh
+hałgizh
 haʼagééd
 haʼalzííd
 haʼasdzá
@@ -4114,6 +5258,7 @@ haʼátʼíísh
 haʼátʼíísh baa naniná
 haʼátʼíísh baa naniná?
 haʼátʼíísh biniinaa
+haʼáád
 haʼíí
 haʼíí baa naniná
 haʼíí baa naniná?
@@ -4122,10 +5267,14 @@ haʼííʼą́ągo
 heechééh
 heeneez
 heeneezgo názbąs
+heesh-
 heetsʼóozgo dikʼą́
 heetsʼóozgo naanázʼá
+hi-
 hiTSʼezh
 hichééh
+hii(d)-
+hiih
 hiinaah
 hiiłchʼįįh
 hiiłos
@@ -4152,32 +5301,55 @@ hodiyin (shił hodiyin, my spirituality)
 hodiłhił
 hodiłid
 hodiłniih
+hodoo-
+hodooleeł
+hodoosįįł
 hodootłʼizh
 hodéezyéél
 hodíinaʼgo
+hodínóokʼas
+hodínóonééł
+hodínóóził
 hodíłchʼil
 hodíłchʼil jeeshóóʼ
 hodíłchʼil níłtsánígíí
 hodíłchʼiltah hasbídí
 hodíłchʼiltah naaʼahóóhai
+hohniih
+hohłeeh
+hojiiłʼaah
+hojiiłʼaʼ
+hojiniih
+hojisʼą́
+hojiłeeh
 hojoobaʼ
 hojoobáʼígo
 hojoołáhígíí
 honeeni
 honeesgai
+honeesná
 honeesnánígíí
 honeezdo
 honeezgai
 honeezkʼází
+honeezná
 honeezílí
 honeezílígi
 honeezílígi — subtropics
 honibąąh
+honiikʼaaz
 honiikʼáás
+honiiziil
 honiizííł
+honinééh
 honishchin
 honishgish
 honiłné
+honookʼáás
+honoozííł
+honónééł
+hoo(h)-
+hoo-
 hoodzo
 hoodzą́
 hooghan
@@ -4185,8 +5357,11 @@ hooghan bikááʼ
 hooghan hazʼą́
 hooghan niitłʼiní
 hooghan nímazí
+hooghandi
+hooghangóó
 hoogááh
 hookʼeeghan
+hooleeł
 hoolyé
 hoolyéedi
 hoolʼin
@@ -4204,6 +5379,7 @@ hoozhǫǫh
 hoozkʼaz
 hoołtsoodii
 hoołʼaah
+hoołʼaʼ
 hooʼaah
 hooʼááłígíí
 hosh
@@ -4215,6 +5391,14 @@ hosh yiyání
 hosh łikaní
 hoshdódii
 hoshtah zahalánii bidaaʼ shiyishígíí
+hosiidlį́į́ʼ
+hosiilʼą́
+hosoołį́į́ʼ
+hosoołʼą́
+hoséłį́į́ʼ
+hoséłʼą́
+hosíníłį́į́ʼ
+hosíníłʼą́
 hoz
 hoł háádaalchʼąłígíí
 hoł háádaalwoʼígíí
@@ -4224,9 +5408,17 @@ hołchʼíʼí
 hoʼdizhchínę́ęjį́ anáyííłką́
 hoʼdizhchį́įgi
 hw
+hw-
 hweʼesdzáán
 hweʼeshkii
+hwiidleeh
+hwiilʼaah
+hwiilʼaʼ
+hwiiniłʼaʼ
+hwiinééʼ
+hwiiʼniih
 hwoldii biłhazʼą́ą́jí
+hwoo-
 hwáah
 hwááh
 hwíídéeltǫʼ
@@ -4238,9 +5430,9 @@ háadi kééhótʼį́?
 háadish nitsʼééʼ łeeʼ sitą́
 háadish nitsʼééʼ łeeʼ sitą́?
 háambagii
-háaniʼ
 háchį́shtahdę́ę́ʼ
 hádí
+hádíké
 hádą́ą́ʼ
 hágo
 hágoshį́į́
@@ -4249,38 +5441,49 @@ háidísh
 háidíígíí
 háiida
 háiishąʼ dóʼ
+háká
 hákʼaʼí
 hálaʼ
 hálátsíín
 hánaaí
+hániʼ
 hátsʼíhyaa
 hátásiil
+házhiʼ
 háá nilyį́į́h
 háádadiitʼįįhígíí
 háádę́ę́ʼ
 háádę́ę́ʼshąʼ naniná?
 háádę́ę́ʼísh íiyisíí naniná
 háádę́ę́ʼísh íiyisíí naniná?
+háágeed
 háájiʼjin
 háájí
 háálá
 háálį́
+háámááz
+hááłmááz
 háí
 háí bi-
 háídíshąʼ
 háígeed
+háínígeed
+háíníltáál
+háínímááz
 háísh
 háíshaazh
 háíshąʼ
 háíshąʼ áńtʼį́?
 háíshįį
-héeniʼ
 hééł
 héí
 hí-(-TĄ́)
+híí-
 hííłchʼįʼ
 hííłchʼįʼgo
 hó
+hó-
+hódah
 hódzą́
 hóla
 hólahéi
@@ -4289,11 +5492,12 @@ hólónę́ę
 hólónę́ęgóó
 hólǫ́
 hólǫ́ǫgo
-hónaanídę́ę́ʼ
-hónaanígóó
+hóniih
 hónágháahnii
 hónáásiiʼ
+hósįįh
 hóteel
+hóyah
 hóyáanii
 hóyééʼ
 hóyą́
@@ -4301,18 +5505,23 @@ hózhó
 hózhóní
 hózhǫ́
 hózhǫ́ǫgo
+hózhǫ́ǫ́gi
 hózhǫ́ǫ́jí naatʼááh
 hóóhó yaʼ
 hóósįįd
 hóóyééʼ
 hóółtseii
 hóółtseiigi naʼatsʼǫǫsí
+hółeeh
 hąh
+hąąh
 hą́ądą́ą́ʼ
+hą́ą́h
 hįįh diní
 i
 idiidlį́
 ih
+ii-
 iichįʼ
 iichʼąh
 iichʼąhii
@@ -4326,6 +5535,8 @@ iidleeh
 iidlizh
 iidlóóh
 iidlą́
+iidoołmas
+iidoołʼoł
 iidziih
 iidą́
 iigeh
@@ -4341,11 +5552,14 @@ iilchin
 iildlóósh
 iildzííł
 iilghą́ą́ʼ
+iilkeed
 iiltaał
 iiltłʼééh
 iilwosh
 iilyeed
+iilzhiizh
 iilzhish
+iilʼeeł
 iilʼéés
 iimáás
 iiniłchééh
@@ -4356,6 +5570,10 @@ iinééʼ
 iiníziin
 iinííł
 iishchʼid
+iishtʼááh
+iishʼeeł
+iismáás
+iistsʼǫǫd
 iisxíinii
 iisááł
 iisʼéés
@@ -4414,7 +5632,6 @@ ił chʼíhwiiʼaahii
 ił dah nátʼáhí
 ił hodéezyéél
 ił honeeni
-ił hóyééʼ
 ił hózhǫ́
 ił hóóyééʼ
 ił naalbąąsí
@@ -4438,6 +5655,7 @@ iʼííʼą́
 iʼííʼą́óó
 iʼííʼą́ągo
 j
+j-
 jaachʼį́į́d
 jaatłʼóół
 jaayiʼ abínágiłí
@@ -4449,11 +5667,13 @@ jeeh
 jeeh dildoní
 jeeh dígházii
 jeeh dílíín
+jeeh sááʼ
 jeeshóóʼ
 jeeshóóʼ łizhinígíí
 jeełid
 jeełigai
 jeeʼiighááh
+ji-
 jibizh
 jibááh
 jicha
@@ -4461,8 +5681,21 @@ jichííh
 jichʼid
 jichʼiish
 jichʼish
+jideeshchʼą́ą́l
+jideeyá
+jideezgoʼ
 jideeł
+jididootih
+jididzééh
+jidigeeh
+jidiitih
+jidiitííh
+jidiiłkǫʼ
+jidiiłmáás
+jidiiłmááz
 jidiiłtłʼíísh
+jidilchʼąął
+jidilkos
 jidiséí
 jidiz
 jidizhah
@@ -4472,12 +5705,37 @@ jidleesh
 jidleeʼ
 jidlóóh
 jidlą́
+jidoo-
 jidoobah
 jidoobish
+jidoochah
+jidoochih
 jidoochʼish
 jidoochʼił
 jidoodił
+jidoodlish
+jidoodzaʼ
+jidoodį́į́ł
+jidoogish
+jidoojah
+jidoojih
+jidookah
+jidooldah
+jidooldił
+jidooldlosh
+jidooleeł
+jidoolgish
+jidooltłʼééł
+jidooltʼoł
+jidoolwoł
+jidoolzhoh
+jidoomas
+jidoonííł
+jidootʼoł
+jidooyį́į́ł
+jidoołbał
 jidoołbish
+jidoołbąs
 jidoołchosh
 jidoołchííł
 jidoołchį́į́ł
@@ -4486,14 +5744,20 @@ jidoołchʼał
 jidoołchʼił
 jidoołdah
 jidoołdił
+jidoołjił
 jidoołʼaał
 jidooʼash
 jidooʼał
+jidooʼish
+jidooʼnah
 jidooʼááł
 jidziih
 jidzííd
 jidzį́į́s
 jidísin
+jidííniid
+jidóneʼ
+jidózééh
 jidą́
 jigan
 jigeeh
@@ -4509,6 +5773,7 @@ jiighas
 jiigis
 jiigááh
 jiijį́į́h
+jiijį́į́ʼ
 jiilgish
 jiilgéésh
 jiilgęsh
@@ -4521,6 +5786,7 @@ jiizoh
 jiiłbááh
 jiiłchxosh
 jiiłchííh
+jiiłgaii
 jiiłgááh
 jiiłgąsh
 jiiłhash
@@ -4540,6 +5806,7 @@ jikʼá
 jikʼąąs
 jikʼęęh
 jikʼį́į́h
+jilchííʼ
 jilchʼąął
 jildeeł
 jildin
@@ -4561,19 +5828,34 @@ jilʼaah
 jilʼá
 jimal
 jimáás
+jineezdá
+jineezʼį́į́ʼ
 jiniih
 jiniisííł
+jinijeeh
+jinikeeh
+jiniteeh
+jinitłʼah
 jinizh
 jiniʼįįh
 jinééh
+jinééłʼį́į́ʼ
 jiní
 jiní jiní
 jiníigo
+jiníjaaʼ
+jinímááz
 jinízin
 jinííł
+jinííʼaaʼ
+jiníłbą́ą́z
+jiníłjool
 jiníʼ
 jinóʼááh
+jis-
 jish
+jish-
+jishbéézh
 jishchááʼ
 jishgish
 jishood
@@ -4582,6 +5864,7 @@ jishíísh
 jishóóh
 jishóósh
 jishǫǫh
+jistin
 jisééh
 jisį́į́h
 jitaał
@@ -4606,21 +5889,29 @@ jiwod
 jiwozh
 jiyeeh
 jiyizh
+jiyoo-
 jiyą́
+jiz-
 jizdiz
 jizdá
 jizdéél
+jizh-
 jizhbizh
 jizhchííʼ
 jizhdléézh
 jizhgish
 jizhizh
+jizhjééʼ
+jizhʼeezh
 jizké
+jizlį́į́ʼ
 jiztį́
 jiztłʼǫ́
 jizéés
 jizííd
+jizį́
 jizǫ́ǫ́s
+jiłbaał
 jiłbal
 jiłbéézh
 jiłbąąs
@@ -4689,11 +5980,13 @@ jiʼáád
 jiʼéés
 jiʼéésh
 jiʼį́
+joo-
 joobaah
 joobah
 joobaʼ
 joodloh
 joodlá
+joodlą́
 joodlą́ą́ʼ
 joodzį́į́s
 joodą́ą́ʼ
@@ -4707,16 +6000,24 @@ jookah
 jookááł
 jookʼaih
 joolchʼął
+joolchʼą́ą́l
+jooldeeʼ
 jooldlosh
 jooldził
+jooldéél
 jooleeł
+joolghal
 jooljoł
 jooloh
 jooltał
 jooltsą́
+jooltłʼá
 jooltłʼééł
+jooltʼóód
+joolwod
 joolwoł
 joolzhah
+joolzhóóʼ
 joolééł
 joolóós
 joolʼis
@@ -4724,6 +6025,8 @@ joomas
 joonééł
 joosas
 joosał
+joosbą́
+jooshbaʼ
 jooshoł
 jootił
 jootį́į́ł
@@ -4757,6 +6060,7 @@ joołdoh
 joołjił
 joołjoł
 joołkił
+joołmas
 joołtsos
 joołtsʼǫł
 joołtééł
@@ -4777,6 +6081,7 @@ jádí bideeneezígíí
 jádí bideeʼ yisdizígíí
 jádí binááʼ dį́įʼii
 jádí bíchį́į́htsohígíí
+jádí dághaaʼígíí
 jádí nátʼoh
 jádí nátʼoh daadánígíí
 jádí yildeeʼí
@@ -4784,6 +6089,7 @@ jádídlǫ́ʼii
 jádítsoh
 jádítsoh bideeʼ shiyishígíí
 jádítsoh diłhiłígíí
+jástis tsʼin bił ʼahąąh níʼahígíí
 jáád neishoodí
 jáád neishoodí naʼashjéʼii haalzheehígíí
 jáád neishoodítsʼóóz
@@ -4800,30 +6106,56 @@ jéí
 jéí ádįįh
 jéíg
 jéíʼádįįh
+jí-
 jíchiiʼ
+jídaaz
 jíjin
+jíjááh
+jíkai
+jíkááh
+jíldloozh
+jíldlóósh
+jílwod
+jílyeed
 jílį́
+jínééh
+jízhóní
 jízííd
 jííbaaʼ
 jíícha
 jííchʼid
 jííchʼiizh
+jíímááz
+jíínizh
 jííyá
 jííyą́ą́ʼ
+jííyį́
+jííłdeeʼ
+jííłjid
+jííłkid
+jííłtʼóód
 jííʼaal
 jííʼah
 jííʼáázh
+jííʼéél
 jííʼą́
+jííʼįįd
+jíłjiid
 jíłmáás
 jíłtseii
+jíʼnaʼ
 jó
 jó tʼáá aaníí
+jó-
 jóhonaaʼéí
 jóhonaaʼéí bitsʼájilgish biʼáád
 jóhonaaʼéí daaztsą́
 jóhonaaʼéí tʼą́ą́ʼ ńdeesdzą́
 jóhonaaʼéí yináádáłígíí
+jójeeh
+jóleʼ
 jólgę́ę́zh
+jóneʼ
 józhí
 józhíh
 jóósh
@@ -4843,7 +6175,6 @@ kin haalʼá
 kin nitsaago dah naazhjaaʼígíí
 kin shijaaʼ
 kin yaaʼáanii
-kin yąąh sizíní
 kin ííłʼíní
 kin łání
 kinaaldaah
@@ -4857,7 +6188,6 @@ kinyaaʼáhí
 kináhálgaaí
 kitsʼiil
 kitsʼiilí
-kiyaaʼáanii
 kiyąąh sizíní
 kodjįʼ
 kodóó
@@ -4882,7 +6212,6 @@ ké bikétal nineezígíí
 ké deigo nineezí
 ké ndootsʼosii
 ké ndootsʼosii bikétal nineezí
-ké nitsaaí
 ké ntsaaí
 ké silá
 ké tʼáágééd
@@ -4891,9 +6220,12 @@ kébiiʼníʼdíʼisí
 kébąąh ntłʼizgo daditánígíí
 kébąąh ntłʼizgo dah naaznilígíí
 kéchogii
+kédaayah
 kégiizh haaztʼiʼí
 kéjeehí
+kék'eh
 kélchí
+kénééz
 késhjééʼ
 kétal
 kétalí
@@ -4905,8 +6237,11 @@ kéyah
 kéyah Ałkééʼ Naaznilgo Dah Ndaaʼeełídę́ę́ʼ tábąąstííntsoh
 kéyah beʼelyaaígíí
 kéyah binahósʼaʼ bibéézh
+kéyah binantʼaʼí
 kéyah haʼdéísná
 kéyah yádiłhił biiʼ hólónígíí
+kéyahgóó
+kéyahjigo
 kéyahígíí
 kézdongo ídzo
 kéédahatʼínígíí
@@ -4917,8 +6252,10 @@ kééhatʼį́
 kééʼ
 kéʼachogii
 kíwiiʼii
+kó-
 kódei
 kóhootʼéédą́ą́ʼ
+kónaa
 kóneʼ
 kóneʼ tʼaadoo náʼíłtʼohí
 kóneʼé
@@ -5012,16 +6349,14 @@ kʼíízǫ́ǫ́s
 kʼįįshzhíní
 kʼįįʼ
 kʼįįʼ báhádzidígíí
-kʼį́į́ʼ
 kʼǫ́ǫ́zh
 l
+l-
 l-TSʼID
 l-ZHÓÓD
 laanaa
-laanaa yáʼátʼéehgo Késhmish
 laanaa yáʼátʼéehgo Késhmish, nił hózhǫ́ǫgo chʼídoohah
-laanaa yáʼátʼéehgo Késhmish, nił hózhǫ́ǫgo chʼídoohah!
-leeł
+lashdóón
 leʼ
 liquid
 load
@@ -5046,16 +6381,12 @@ ląʼí
 lą́
 lą́ʼąąʼ
 m
-magí
 mandagíiya
 masdéél
 maʼii
 meeʼ
-miil
 miiltsoh
-mogí
 muu
-máazo
 mágí
 mágí bichʼiyąʼ
 mágí bigaanézí
@@ -5066,8 +6397,8 @@ mágí diʼilí
 mágíshzhin
 mágítsoh
 mágíłtsooí bináázhiní
-másání
 másí
+máázo
 míiltsoh
 mííl
 mósí
@@ -5078,8 +6409,6 @@ mósíkąʼ
 mósíʼilí
 móʼmoʼii
 mągí
-mągí bichʼiyąʼ
-mągítsoh
 mąʼii
 mąʼii bighą́ąʼgi hadzíjiní
 mąʼii bizaʼazis hólóní
@@ -5093,11 +6422,10 @@ mąʼiitsoh
 mąʼiitsoh bee yigą́
 mąʼiitsoh bikʼos bineʼdę́ę́ʼ łizhinígíí
 mąʼiiłgaii
-mąʼiiłtsooí
 mąʼiiłtsooí yázhí
-mąʼiiłtsxooí
 mąʼiísh óolyé!
 n
+na-
 naa
 naa'ołí
 naabaah
@@ -5112,6 +6440,7 @@ naachxǫʼ
 naachʼid
 naadiin
 naadiin béeso
+naadiin góneʼ
 naadiin shinááhai
 naadloʼí
 naadoobooʼíinii
@@ -5160,9 +6489,11 @@ naagééh
 naahbaah
 naahbé
 naahchxǫʼ
+naahchʼid
 naahdzį́į́s
 naahdá
 naahkai
+naahká
 naahniih
 naahné
 naahtin
@@ -5224,6 +6555,7 @@ naalghazhí
 naaljooł
 naalkaah
 naalkaahgo
+naalkid
 naalkidgo bee bééhoʼdílzin
 naalkʼįhí bizaʼazis hólóní
 naalnish
@@ -5313,6 +6645,7 @@ naareel
 naasas
 naasbá
 naasbąąs
+naasdzá
 naasdzį́į́s
 naasgai
 naashbaah
@@ -5320,17 +6653,22 @@ naashbé
 naashchid
 naashchiiʼ
 naashchxǫʼ
+naashchʼid
 naashchʼííʼ jelii
+naashchʼąął
 naashchʼąąʼ
 naashdá
+naashjid
 naashjin
 naashjooł
 naashkaah
+naashká
 naashniih
 naashnish
 naashné
 naashtin
 naashté
+naashtłizh
 naashtłíísh
 naashtʼaʼ
 naashtʼiʼ
@@ -5343,8 +6681,10 @@ naashʼeeł
 naashʼnaʼ
 naashʼné
 naaskai
+naasmaas
 naastsooz
 naastsxo
+naastsʼǫǫd
 naasłóóz
 naasʼnaʼ
 naataz
@@ -5375,7 +6715,7 @@ naazhjool
 naazhjééʼ
 naazhtéézh
 naazhtéézh lie around somewhere in pairs)
-naazhóód
+naazhzhóód
 naazhʼáázh
 naaziid
 naazkaad
@@ -5493,14 +6833,17 @@ nambooígíí
 nanibaah
 nanibé
 nanichxǫʼ
+nanichʼid
 nanidaahii
 nanidzį́į́s
 nanidá
 nanidééh
+naniká
 naniljooł
 nanilnish
 naniloʼ
 nanilóóz
+nanimaas
 naniniih
 naniná
 naniné
@@ -5523,17 +6866,19 @@ naniʼeeł
 naniʼnaʼ
 naniʼné
 nanoolzheeʼ
-nantłʼa
 nantłʼah
 naníbaal
 naohné
 naohʼnaʼ
+naoshaʼ
+naoyaʼ
 naołchiʼ
 naołnish
 naołtsoos
 nayiilé
 nayiiłniih
 nazhahí
+naóóyaʼ
 naʼ
 naʼachʼąąh
 naʼachʼąąhí
@@ -5589,7 +6934,6 @@ naʼałjidí
 naʼałkaah
 naʼałkaahí
 naʼałkid
-naʼałkǫʼ
 naʼałkǫ́ǫ́ʼ
 naʼałkǫ́ǫ́ʼ yee ałhaʼdikááh
 naʼałniih
@@ -5597,7 +6941,6 @@ naʼałtʼaʼí
 naʼałʼeełí
 naʼaʼeełígíí
 naʼiidzeeł
-naʼiigeeł
 naʼiiniʼ
 naʼiiniʼ naalkaah
 naʼiiztání
@@ -5610,26 +6953,126 @@ naʼídíkid
 naʼídíkééʼ
 naʼídíłkid
 naʼídíłkidii
-nda
-nda gaʼ
 nda yeeʼ
-ndaashchʼąąʼígíí
+ndaahtłíísh
+ndaalníísh
+ndaashnish
+ndaatłíísh
 ndaaz
+ndaazhjool
+ndaazhzhóód
+ndaazį́
+ndadiibah
+ndadiichʼił
+ndadiikaał
+ndadiilchʼął
+ndadiiljoł
+ndadiilnish
+ndadiitłish
+ndadiʼyoo-
+ndadiʼyooh-
+ndadoobah
+ndadoohbah
+ndadoohchʼił
+ndadoohkaał
+ndadoohtłish
+ndadoolchʼął
+ndadooljoł
+ndadoolnish
+ndadootłish
+ndadoołchʼął
+ndadoołjoł
+ndadoołnish
 ndagaʼ
-ndah
+ndajishnish
+ndajiskááʼ
+ndajitłíísh
+ndajílníísh
+ndandiʼyii-
+ndaniilnish
+ndaniilníísh
+ndanoołnish
+ndanołníísh
+ndasiilkááʼ
+ndasoołkááʼ
+ndazhdiʼyoo-
+ndazhdoobah
+ndazhdoochʼił
+ndazhdookaał
+ndazhdoolchʼął
+ndazhdooljoł
+ndazhdoolnish
+ndazhdootłish
+ndaʼii-
 ndaʼiiníísh
+ndaʼiitłʼiid
+ndaʼiiz-
+ndaʼiyee-
+ndaʼiyii-
+ndaʼiyiitłʼiid
+ndaʼiyoh-
+ndaʼiyohtłʼiid
+ndaʼiyoo-
+ndaʼiyó-
+ndaʼiʼyoo-
+ndaʼjii-
+ndaʼjiitłʼiid
+ndaʼjiiz-
+ndaʼjiyó-
 ndeedzééh
+ndeeshbah
+ndeeshchʼił
+ndeeshchʼął
+ndeeshdaał
+ndeeshjoł
+ndeeshkaał
+ndeeshnish
+ndeeshtłish
 ndeezniiʼ
+ndeidoochʼił
+ndeidookaał
+ndeiitłíísh
+ndeiskááʼ
 ndi
+ndiibah
+ndiichʼił
+ndiikaał
+ndiilchʼął
+ndiilnish
+ndiitłish
 ndikʼąʼ
 ndikʼąʼ bikʼǫ́ǫ́ʼ
 ndikʼąʼ biyaʼ
 ndilkal
+ndiʼyeesh-
+ndiʼyii-
+ndiʼyoo-
+ndiʼyooh-
+ndiʼyíí-
+ndoobah
+ndoodaał
+ndoohbah
+ndoohchʼił
+ndoohkaał
+ndoohtłish
+ndoolchʼął
+ndoolnish
+ndootłish
+ndoołchʼął
+ndoołnish
 ndzíiztą́
-ndíyílii
 ndíyíliitsoh
+ndííbah
+ndííchʼił
+ndíídaał
+ndííkaał
+ndíílchʼął
+ndíílnish
+ndíítłish
 nee
 needzį́į́ʼ
+neejééʼ
+neeké
 neesdog
 neesgai
 neeshchʼíínímazí
@@ -5643,6 +7086,8 @@ neeshjízhii
 neeshjįzhii
 neeshtʼááʼ
 neestʼą́
+neetʼį́į́ʼ
+neezdá
 neezgai
 neezkʼaz
 neeznáadi azlį́į́ʼ
@@ -5657,15 +7102,19 @@ neeʼnijįʼ
 neheezlį́
 neichʼid
 neichʼąąh
+neidoochʼił
+neidookaał
 neidzį́į́s
 neiibaah
 neiibé
 neiichxǫʼ
+neiichʼid
 neiidloʼ
 neiidlóóz
 neiidzį́į́s
 neiidá
 neiikai
+neiiká
 neiilbąąs
 neiiljooł
 neiilkaah
@@ -5673,6 +7122,7 @@ neiilnish
 neiilté
 neiiltʼaʼ
 neiiltʼiʼ
+neiilzhood
 neiilʼaʼ
 neiilʼeeł
 neiitin
@@ -5691,6 +7141,7 @@ neilóóz
 neiniih
 neiniłkaad
 neishood
+neiskááʼ
 neitin
 neitłeeh
 neiyeeł
@@ -5716,11 +7167,15 @@ neiłʼaʼ
 neiłʼeeł
 neiʼeesh
 neiʼá
+neʼawééshchíín
+neʼawéétsʼáál
+neʼawééʼ
 ni
 ni-
 ni-ł-
 ni-∅
 ni-∅-
+nibid
 nibizh
 nibááh
 nibéédahwiizįįhgo
@@ -5732,66 +7187,186 @@ nichǫ́ǫ́ʼí
 nichʼid
 nichʼiish
 nichʼish
+nichʼoozhlaaʼ
+nichʼą́ą́h
 nichʼįʼ
+nidaa-
 nidaah
+nidaahká
+nidaahné
+nidaahʼnaʼ
 nidaalnish
 nidaané
+nidaas-
 nidaashchʼąąʼígíí
+nidaashnish
 nidaasʼnaʼ
 nidaaz
+nidaaz-
 nidaazneʼ
 nidaaʼnaʼ
+nidadii-
 nidadiiʼneeł
+nidadoo-
+nidadooh-
 nidadoohneeł
 nidadooneeł
 nidagaʼ
 nidahałtingo
 nidahoneesʼą́ą́dę́ę́ʼ
 nidajikai
+nidajiká
+nidajiné
+nidajis-
+nidajishnish
+nidajisʼnaʼ
+nidajiz-
+nidajizneʼ
+nidajiʼnaʼ
+nidají-
+nidajó-
+nidanii-
+nidanoh-
+nidanoo-
+nidanooh-
+nidao-
 nidaohné
 nidaohʼnaʼ
+nidaoo-
+nidaooh-
 nidaołnish
+nidashilniish
+nidashoolnish
 nidasiiʼnaʼ
 nidasiiʼneʼ
 nidasoohʼnaʼ
 nidasooneʼ
+nidazhdoo-
 nidaʼąnyéézh
+nideesh-
+nideeshaał
 nideeshneeł
+nideezhí
 nideeł
+nideiiká
 nideiilnish
 nideiiʼnaʼ
 nideiiʼné
+nideiká
 nidi
+nidii-
 nidiiʼneeł
-nidikʼąʼ
 nidiltʼéego
 nidiz
+nidił
 nidleesh
 nidleeʼ
 nidlóóh
 nidlą́
+nidoo-
 nidoogaał
+nidooh-
 nidoohneeł
 nidooneeł
 nidziih
+nidziil
 nidzííd
 nidzį́į́s
 nidíyílii
-nidíyíliitsoh
+nidíí-
+nidíínaał
 nidííneeł
 nidą́
+nigaan
 nigan
 nigeeh
 nighaas
 nighaał
+nighaaʼ
+nighan
 nigháád
 nigháázh
 nighą́
+nigish
+nigod
 nihaa
 nihee
+niheʼawééshchíín
+niheʼawéétsʼáál
+niheʼawééʼ
 nihi-
+nihibid
+nihichidí
+nihichʼoozhlaaʼ
+nihichʼą́ą́h
+nihichʼįʼ
+nihideezhí
+nihidił
+nihidziil
 nihidííniid
+nihigaan
+nihighaaʼ
+nihighan
+nihigod
+nihiih
+nihiinééʼ
+nihiiʼ
+nihijaaʼ
+nihijeeh
+nihijáád
+nihijéí
+nihijóózh
+nihikeeʼ
+nihikin
+nihikááʼ
+nihikétsíín
+nihikééʼ
+nihikʼaʼ
+nihikʼi
+nihikʼijįʼ
+nihikʼis
+nihikʼos
+nihikʼéí
+nihilah
+nihileezh
+nihilááh
+nihilį́į́ʼ
+nihimá
+nihimásání
+nihiniiʼ
+nihinááʼ
+nihitaaʼ
+nihitah
+nihitoʼ
+nihitsiiʼ
+nihitsilí
+nihitsiʼ
+nihitsooʼ
+nihitsįʼ
+nihitsʼin
+nihitsʼíís
 nihitsʼą́ą́ʼ
+nihitłʼaaʼ
+nihiwooʼ
+nihiwos
+nihiwostsʼin
+nihiwógiizh
+nihiwókʼiz
+nihiyaa
+nihiyih
+nihiyiʼ
+nihiyáázh
+nihiyé
+nihizaad
+nihizhiin
+nihizhí
+nihizhííh
+nihizid
+nihiziiz
+nihizis
+nihizáanii
+nihizágí
+nihizází
 nihił
 nihił hózhǫ́ǫgo nihee ńdoohah
 nihiʼdooʼniid
@@ -5801,56 +7376,113 @@ nihá
 nihádí
 nihí
 nihí du
+nihíchį́į́h
+nihídóʼ
+nihíká
+nihíkʼaʼí
+nihílaʼ
+nihílátsíín
+nihínaaí
+nihíniʼ
+nihízhiʼ
+nihąąh
+nihą́ą́h
+nii-
 niicháadii
+niidaaz
+niidlį́
 niidzin
 niidzííd
 niidóóh
 niigááh
+niih
+niijaaʼ
+niijeeh
+niijááh
+niijóní
+niikai
+niikeeh
+niikááh
+niilbą́ą́z
+niildloozh
+niildlóósh
 niildzííł
+niiljool
 niilkʼoł
 niilmáás
+niilnish
 niilníísh
 niilzííł
 niimas
-niimas 
+niinééʼ
 niisííł
+niiteeh
+niitłʼah
+niitʼaaʼ
 niitʼááh
 niitʼįįh
+niiʼ
+niiʼmááz
+niiʼnaʼ
+nijaaʼ
 nijeeh
 nijeeh (3+)
 nijibaah
 nijibé
 nijichxǫʼ
 nijighá
+nijiká
 nijilnish
 nijiloʼí
+nijimaas
 nijiné
+nijishnish
+nijiskááʼ
+nijisʼnaʼ
 nijitin
 nijiyá
+nijizneʼ
 nijiłté
 nijiʼaash
 nijiʼeeł
 nijiʼnaʼ
 nijooshłaah
+nijáád
 nijááh
+nijéí
+nijí-
+nijó-
+nijóózh
 nikaah
 nikad
 nikeeh
+nikeeʼ
+nikin
 nikááh
+nikááʼ
+nikétsíín
+nikééʼ
 nikʼaash
+nikʼaʼ
 nikʼeed
 nikʼeh hojidlį́į doo
+nikʼi
+nikʼijįʼ
+nikʼos
 nikʼá
+nikʼéí
 nikʼąąs
 nikʼęęh
 nikʼį́į́h
 nila
+nilah
 nilchʼąął
 nildeeł
 nildin
 nildlóósh
 nildééh
 nileeh
+nileezh
 nilghał
 niljooł
 nilkeed
@@ -5861,70 +7493,140 @@ niltʼood
 nilyeed
 nilyé
 nilzhóóh
+nilááh
 nilé
 nilééh
 nilóós
 nilį́
+nilį́į́ʼ
 nilʼaah
 nilʼá
 nilʼąąh
 nimal
+nimá
 nimáás
 nineez
 nineezgo
 nineezgo dikʼą́
+ninii-
 niniih
+niniilnish
+niniilníísh
+niniiʼ
+ninish-
+ninishnish
 ninishníísh
 ninizh
+ninoh-
+ninoo-
+ninooh-
+ninoołnish
+ninołníísh
+niná-
+ninádaa-
+ninádaah-
+ninádaji-
+ninádaʼii-
+ninádaʼiyii-
+ninádaʼiyoh-
+ninádaʼjii-
+ninádeii-
+nináh-
 nináháháhígíí
 nináháhááh
 nináháłtį́į́h
+ninájí-
+ninání-
+ninásh-
 ninááh
 ninááhaiígíí baa shił hózhǫ́
+ninááʼ
+nináʼii-
+nináʼiish-
+nináʼiyii-
+nináʼiyoh-
+nináʼiyí-
+nináʼjii-
 niné
+ninéii-
 ninééh
 ninéʼéshtįł hantłeeh
 ninéʼéshtįł hanyeeh
+niní-
+ninílníísh
 ninílį́
 ninííł
 nisdaaz
+nish-
+nishdloozh
+nishdlóósh
 nishiilnish
 nishiitʼáázh
+nishishchʼą́ą́l
+nishishjool
 nishishnish
+nishjeeh
+nishjiid
+nishjááh
+nishkai
+nishkeeh
+nishkááh
+nishkʼah
+nishnééh
 nishood
+nishoolnish
 nishooʼáázh
+nishteeh
+nishtłʼah
 nishtłʼají
 nishtłʼajígo
+nishtʼááh
+nishwod
+nishyeed
+nishzhóní
 nishéchiʼd
 nishééh
+nishéłjool
 nishínílnish
+nishínínish
 nishíísh
 nishóóh
 nishóósh
 nishłį́
 nishǫǫh
+nishʼnaʼ
 nishʼnáajigo heetsʼóóz
 nishʼnáájígo
 nishʼįįh
 nisihwiinídéél
 nisiikai
+nisiilkááʼ
 nisiiʼnaʼ
 nisiiʼneʼ
 nisin
+nisisdzá
 nisisʼnaʼ
+nismas
 nismáás
+nisneez
 nisoohkai
 nisoohʼnaʼ
 nisooneʼ
+nisoołkááʼ
+niséką́
 niséneʼ
 niséyá
 nisééh
+niséłkááʼ
+nisínídzá
 nisíníneʼ
 nisíníyá
+nisíníłkááʼ
 nisíníʼnaʼ
 nisííd
 nisį́į́h
 nitaał
+nitah
 nitah haahootʼé?
 niteeh
 niteel
@@ -5936,24 +7638,68 @@ nitin
 nitiʼ
 nitsaa
 nitseeł
+nitseeʼ
+nitseʼ
 nitsid
+nitsiiʼ
+nitsilí
+nitsiʼ
 nitsohodínídéelgo bił hazʼáníjí
 nitsohodínídéelgo ąąh áʼálʼį́
+nitsooʼ
 nitsxaa
 nitsxaaz
 nitsáhákees
 nitsékees
+nitséskees
+nitsézkééz
 nitséés
+nitsídaahkees
+nitsídaakees
+nitsídajikees
+nitsídeeskos
+nitsídeiikees
+nitsídiikos
+nitsídoohkos
+nitsídookos
+nitsídííkos
+nitsíikees
+nitsíjíkees
+nitsíjízkééz
+nitsíjókees
+nitsínáhkos
+nitsínákos
+nitsínáníkos
+nitsínáskos
+nitsínéiikos
+nitsíníkees
+nitsísiikééz
+nitsísookééz
+nitsísékééz
+nitsísíníkééz
+nitsízhdookos
+nitsíóhkees
+nitsíńjíkos
+nitsóohkees
+nitsóokees
+nitsóoskees
+nitsóókees
+nitsįʼ
+nitsʼin
 nitsʼiʼ
 nitsʼííd
+nitsʼíís
+nitsʼą́ą́ʼ
 nitsʼǫǫs
 nitįįh
 nitłeeh
 nitłíísh
 nitłʼa
+nitłʼaaʼ
 nitłʼah
 nitłʼin
 nitłʼiz
+nitłʼááh
 nitłʼó
 nitʼeesh
 nitʼood
@@ -5964,14 +7710,40 @@ nitʼą́ą́ hanádzá
 nitʼįįh
 nitʼį́
 niwod
+niwooʼ
+niwos
+niwostsʼin
 niwozh
+niwógiizh
+niwókʼiz
+niyaa
 niyeeh
+niyeʼ
+niyih
 niyizh
+niyiʼ
+niyáázh
 niyé
+niyéél
 niyą́
+nizaad
 nizghééʼ
 nizhdiltʼéhígo
+nizhdiʼyoo-
+nizhdoo-
+nizhdoobah
+nizhdoochʼił
+nizhdoodaał
+nizhdoogaał
+nizhdookaał
+nizhdoolchʼął
+nizhdoolnish
+nizhdootłish
+nizhiin
 nizhizh
+nizhní-
+nizhí
+nizhííh
 nizhóní
 nizhóní yeeʼ
 nizhónígo
@@ -5983,6 +7755,11 @@ nizhónígo nihee adaʼdooʼááł
 nizhónígo niidoołkááł
 nizhónígo nińdoohah
 nizhǫ́
+nizid
+niziiz
+nizis
+nizágí
+nizází
 nizéés
 nizééʼ
 nizííd
@@ -5990,7 +7767,6 @@ nizǫ́ǫ́s
 niísh nikʼehdi!
 nił
 nił haahootʼé?
-nił hózhǫ́ǫgo chʼídoohah
 nił hózhǫ́ǫgo nee ńdoohah
 niłbal
 niłbéézh
@@ -6009,6 +7785,7 @@ niłdin
 niłdlaad
 niłdon
 niłdzid
+niłdzil
 niłdził
 niłdzééh
 niłdééh
@@ -6066,30 +7843,84 @@ niʼdizhchį́įjįʼ anááhoolzhiizhígíí baa hózhǫ́
 niʼeesh
 niʼeeł
 niʼgóó naʼashjéʼii
+niʼii-
 niʼiijíhí
+niʼiish-
+niʼiishtłʼiid
 niʼiitłʼiid
+niʼiiyé-
+niʼiiz-
+niʼiyee-
+niʼiyii-
+niʼiyiitłʼiid
+niʼiyoh-
+niʼiyohtłʼiid
+niʼiyoo-
+niʼiyooh-
+niʼiyí-
+niʼiyíní-
+niʼiyítłʼiid
+niʼiyó-
+niʼiyósh-
+niʼiyóó-
 niʼiz
+niʼjii-
+niʼjiitłʼiid
+niʼjiiz-
+niʼjiyó-
 niʼnééh
 niʼáád
 niʼéés
 niʼéésh
 niʼį́
+njidá
+njisdzá
+njitłíísh
 njíiztą́
+njílnish
+njílníísh
+njóyaʼ
 nléí
+noh-
+nohdaaz
+nohjeeh
+nohjááh
+nohkeeh
+nohkááh
+nohnééh
 nohsin
 nohsííd
+nohteeh
+nohtłʼah
+nohzhóní
+nohłį́
+nohʼaash
 nohʼááh
 nohʼįįh
+noo-
 noodah
 noodǫ́ǫ́z
+nooh-
+noohkai
 noohsííł
+noohʼnaʼ
+noojaaʼ
 noolyínii
+noomááz
+noosh-
 noosééł
 noosééłjí
 nooséłí
+noołbą́ą́z
+noołdloozh
+noołjool
 nooʼ
+nooʼaaʼ
+noó-
+nołdlóósh
 nołmáás
 nteel
+ntsaa
 ntsaago
 ntsaago áłah aleeh
 ntsideegeeh
@@ -6105,12 +7936,14 @@ ntłʼiz
 nv
 ná
 ná bąą hózhǫ́
+ná-
 náasdi
 nábał
 nádei
 nádleeh
 nádleehé
 nádí
+náhdleeh
 náhidizídí
 náhidizídígíí
 náhidizíidgo
@@ -6119,8 +7952,12 @@ náhidizíidjįʼ
 náhidizííd
 náhidizííd bikʼeh
 náhidizííd biʼkeh
+náhjah
 náhodeesdzáago dįltʼéego łį́į́ʼ bił níjééʼ
 náhodidleeh
+náhoniikʼas
+náhoniiził
+náhoniʼnééh
 náhookǫs
 náhookǫs bikąʼ
 náhookǫs bikąʼii
@@ -6159,6 +7996,8 @@ náhástʼéidi neeznádiin
 náhástʼéí
 náhástʼéí góneʼ
 náhástʼéítsʼáadah
+náhástʼéítsʼáadah góneʼ
+náhásįįh
 náházo
 náhááh bitłʼééʼ
 náháłchįįh
@@ -6178,11 +8017,19 @@ náltsááh
 námboo
 náneeskaadí
 náneeskaadítéél
+nániitʼį́į́h
+nánishʼį́į́h
+nánohʼį́į́h
+nánídleeh
+náníjah
 nánítsʼǫs
+náníʼį́į́h
 násbá
 násdǫ́ǫ́z
 násgai
+náshbał
 náshchiiʼ
+náshdleeh
 náshdóí
 náshdóí bijaałizhiní
 náshdóí bizaʼazis hólóní
@@ -6197,6 +8044,7 @@ náshdóítsoh noodǫ́zígíí
 náshdóíłbáí
 náshdóíłgaii łikizhígíí
 náshgǫzh
+náshjah
 náshjin
 náshtłʼizh
 nástso
@@ -6212,26 +8060,33 @@ nátʼą́ą́ʼ náádaʼdeeskidgo
 náyaa
 náyiilááh
 náyiishį́į́h
+náyiniʼį́į́h
 náyoołbał
 náyoołtʼih
 náyéés
 názbąs
 názhah
+názhníʼį́į́h
 názlį́
+náá-
 náábał
 náádamóo
 náádamóogo
 náádámóo
+nááh-
 nááhai
 nááhaiídą́ą́ʼ
 náálį́
 nááná
+nááná-
 náánádááh
 náánáłaʼ
 náás
 náás náádaʼdeeskidgo
 náásee
 náásgóó
+náásh-
+nááshbał
 náátsʼíílid
 náátsʼózídę́ę́ʼ hasbídí noodǫ́zígíí
 náátsʼóʼoołdísii
@@ -6241,21 +8096,40 @@ nááʼahideeltsééh
 nááʼdiniih
 nááʼnoodǫ́ǫzii
 nááʼádįįh
+náʼii-
+náʼiilzhish
 náʼoolkiłí
 náʼoolkiłí tʼááłáʼí ahééʼílkid bee náás ninádajiiłkeed
 náʼoołjiłi azeeʼ
+náʼołzhish
+náʼá-
 náʼákwi
 náʼálkad
 náʼálkadgo
+náʼálzhish
+náʼásh-
+náʼáshzhish
 náʼátʼaał
 náʼáłkad
 náʼáłʼah
 náʼáłʼahí
 náʼáʼah
+náʼí-
+náʼílzhish
+náʼóh-
+né-
+nédá
 néetsah
 néidiiyeeł
+néii(d)-
+néiidleeh
+néiijah
 néininih
+néjééʼ
+néké
+nééłʼį́į́ʼ
 néídziʼ
+néíjah
 néíshoh
 néízǫ́ǫ́s
 néíłbał
@@ -6263,6 +8137,7 @@ néíłhéés
 néíłtsááh
 néíłtʼih
 néíłʼah
+néłmas
 néʼédił yistał
 néʼéshjaatsoh
 néʼéshjaałbáí ntsxaaígíí
@@ -6273,16 +8148,41 @@ néʼéshjaaʼ tsįyaalzhahí łikizhígíí
 néʼéshjaaʼ yázhí
 néʼéshtił
 néʼézhiin
+néʼį́į́ʼ
 ní
+ní-
 níbaal
 níbaal nímazí siʼą
+níchį́į́h
+nídaadleeh
+nídaahdleeh
+nídaaz
+nídajidleeh
+nídaʼa-
+nídaʼii-
+nídaʼjí-
+nídaʼoh-
+nídeiidleeh
+nídeisʼah
 nídizííd
 nídon
-nídíshchííʼ
 nídízííd
+nídóʼ
 nígíí
+níilʼį́į́ʼ
+níjaaʼ
+níjeeh
+níjááh
+níkeeh
+níká
+níkááh
+níkʼaʼí
+nílaʼ
+níldlóósh
+nílyeed
 níláadi
 níláahdi
+nílátsíín
 nílááh
 níléidi
 níléí
@@ -6298,8 +8198,22 @@ nímasii siganí
 nímasii yiyání
 nímasii łikaní
 nímaz
+nímááz
+nínaaí
+níniʼ
+níná
+nínééh
+nínídá
+níníjééʼ
+níníké
 nínízin
+níníłʼį́į́ʼ
 níníʼááh
+níníʼį́į́ʼ
+nísébaal
+nísísdlį́į́ʼ
+níteeh
+nítłʼah
 nítʼééʼ
 nítʼę́ʼę́ę
 níyiz
@@ -6316,9 +8230,16 @@ nízaadgóó asʼahgo hinínáa doo dóó naʼdoodił
 nízaadi
 nízaadę́ę́ʼ
 nízah
+nízhiʼ
+nízhóní
 nízin
 nízííd
+nííní-
+níínílnish
+nííníʼaaʼ
+nííʼaaʼ
 nííʼiiʼniłí
+níłbą́ą́z
 níłchʼi
 níłchʼi bee adíníséhé
 níłchʼi bee haneʼé
@@ -6332,8 +8253,13 @@ níłchʼi yáʼátʼéehii
 níłchʼi ászólí
 níłchʼi łikoní
 níłchʼi łitsxooí
+níłjid
+níłjiid
+níłjool
 níłmáás
+níłmááz
 níłtsą́
+níłtsą́ baʼáád
 níłtsą́ bikąʼ
 níłtsą́ biʼáád
 níłtsą́goʼ
@@ -6341,22 +8267,31 @@ níłtsą́tłʼóól
 níłtsą́zhool
 níłtsą́ʼééʼ
 níłtéél
+níłtʼaʼ
+níłóóʼ
 níńzin
 níʼdítʼááh
+níʼjí-
+níʼą́
 níʼįįh
 nóomba
+nóołʼį́į́ʼ
 nóshʼááh
 nówehgóó
 nówehjí
 nówehjįʼ
 nówehédi
+nąąh
+ną́ą́h
 nʼdilkal
 o
+oh-
 ohchįʼ
 ohdlą́
 ohsą́
 ohtłʼó
 ohłizh
+oo-
 oobįįh
 oochʼį́į́d
 ood
@@ -6364,6 +8299,10 @@ oodláanii
 oodlą́
 oodlą́ʼ (sheʼoodlą́ʼ, my belief)
 oodzííʼ
+oohmáás
+oohtsʼǫǫd
+oohtʼááh
+oohʼeeł
 ookił
 ooljééʼ
 ooljééʼ ałnííʼ bééłhéél
@@ -6381,7 +8320,10 @@ ooljééʼ nitʼą́ą́ hanádzá
 ooljééʼ nitʼą́ą́ nádaał
 ooljééʼ łahgo ánááʼnííł
 ooljééʼ łáhjigo nádaał
+oolkił
 oolwoł bee hazʼání
+oolzhiizh
+oomááz
 ooshgę́ęzhii
 ooshgę́ę́zh
 ooshkʼiizh
@@ -6389,7 +8331,13 @@ ootsą́
 ootʼį́
 oozbą́
 oołbįįh
+oołmáás
+oołmááz
+oołzhiizh
+oołʼeeł
+oołʼéél
 oołʼéés
+ooʼéél
 ostseʼ yiltʼąąʼí
 ouuʼ
 ołchin
@@ -6399,6 +8347,7 @@ ołhą́ą́ʼ
 ołzhish
 pairs
 paper
+planets of the Solar System: jóhonaaʼéí yináádáłígíí: Mókiwii · Biinis · nahasdzáán · Máaz · Jíbitoo · Séetin · Yoowéinis · Néʼtoon [edit]
 pole
 pop
 profusion
@@ -6407,6 +8356,7 @@ rope
 róóbl
 róópii
 s
+s-
 saad
 saad bee bééhózinígíí
 saad bee álʼíní
@@ -6419,6 +8369,7 @@ saadtah
 sand
 severality
 sh
+sh-
 shaa
 shaazh
 shahastiin
@@ -6440,55 +8391,123 @@ she
 she-
 shee
 sheet
+sheʼabaní
+sheʼabeʼ
 sheʼashkii
+sheʼatsįʼ
 sheʼatʼééd
+sheʼawééshchíín
+sheʼawéétsʼáál
 sheʼawééʼ
+sheʼazeʼ
 sheʼesdzáán
 shi-
+shibeeʼeldǫǫh
+shibeʼ
+shibid
+shibéeso
 shibéézh
 shichaaʼ
+shichid
+shichʼah
 shichʼil
+shichʼoozhlaaʼ
+shichʼą́ą́h
 shichʼįʼ
+shidaaʼ
+shideezhí
 shideiigi
 shidineʼé
+shidił
+shidziil
+shigaan
+shighaaʼ
+shighan
 shigod
+shihis
 shiibizh
 shiichííʼ
+shiid-
 shiidléézh
+shiih
+shiijééʼ
 shiilbéézh
+shiinééʼ
 shiitsʼǫs
 shiiłhash
 shiiʼ
 shijaaʼ
+shijeeh
 shijool
+shijáád
 shijééhkał
 shijééʼ
+shijéí
 shijéí bitłʼáádę́ę́ʼ tsʼídí yéigo ahéheeʼ
 shijéí biyiʼdą́ą́ʼ ahéheeʼ
+shijóózh
+shikeeʼ
+shikin
+shikááʼ
 shikékʼehgóó ádadohní
 shikékʼehgóó ádohní du
 shikékʼehgóó ádíní
+shikétsíín
+shikéyah
 shikéédę́ę́ʼ
 shikééʼ
 shikééʼ niitʼą́
 shikąʼ
+shikʼaʼ
+shikʼi
+shikʼijįʼ
 shikʼis
 shikʼéí
 shikʼéí dóó shidineʼé, átaháásiiłóó
 shilah
+shileezh
+shilizh
 shilááh
+shilį́į́ʼ
+shimá
+shimásání
 shinaagóó
 shinaanish hólǫ́
+shiniiʼ
+shinááʼ
+shish-
+shishbaał
 shitah
 shitah honeezgai
 shitah honiigai
 shitsijįʼ
+shitsiʼ
 shitsʼą́ą́ʼ
 shitéézh
+shitłʼaaʼ
+shitłʼóól
+shiwooʼ
+shiwos
+shiyaa
+shiyeʼ
+shiyih
+shiyiin
 shiyish
+shiyiʼ
 shiyiʼdi
+shiyáázh
+shiyéél
+shizaad
+shizeedí
+shizhiin
+shizhí
+shizhííh
 shizhóód
 shizid
+shiziiz
+shizis
+shizází
+shizǫʼ
 shił
 shił bééhózin
 shił deesdoi
@@ -6497,10 +8516,13 @@ sho
 shoh
 shoh dikʼání
 shoo
+shoo-
 shoobizh
 shoochííʼ
 shoodléézh
+shooh-
 shoołbéézh
+shooʼeezh
 shxįįh diní
 shá
 shá bikʼehgo
@@ -6524,27 +8546,43 @@ shánah
 sháátis
 sháńdíín
 sháńdíín náyiiláhí
+shé-
 shébizh
 shéchííʼ
 shédléézh
+shéjééʼ
 shééʼ
 shéłbéézh
+shéʼeezh
 shí
 shí Meelboniidi kééhashtʼį́
+shí-
+shíchį́į́h
 shídóʼ
 shíká
 shíká anilyeed, tʼááshʼáko?
+shíkʼaʼí
+shílaʼ
+shílátsíín
+shílázhoozh
+shínaaí
 shíniʼ
+shíní-
 shíníbizh
 shíníchííʼ
 shínídléézh
+shíníjééʼ
 shíníłbéézh
+shíníʼeezh
 shíshąʼ
+shízhiʼ
+shíłóóʼ
 shóyoołtʼeeh
 shąádáahijgo
 shąąh
 shąʼ
 shą́ąʼjiʼ
+shą́ą́h
 shą́ą́ʼ
 shį́
 shį́náldzidí
@@ -6563,7 +8601,10 @@ sidéél
 sigan
 sih
 sih hasin
+siid-
 siidiz
+siidlį́į́ʼ
+siidzį́
 siidéél
 siih hasin
 siiké
@@ -6578,8 +8619,9 @@ siką́
 sikʼaiʼ
 sikʼaz
 sikʼis
+sikʼisóó
+sikʼos
 silá
-siláago
 siláo
 siláo ałchʼįʼ naanil
 siláo binantʼaʼí
@@ -6590,13 +8632,25 @@ siláołtsooí nilį́į́ nítʼę́ʼę́ę
 siláołtsooí nilį́į́ ńtʼę́ʼę́ę
 siláołtsooí ídlį́į́ ńtʼę́ęʼgo naaltsoos bee bééhózinígíí
 siláołtsooídę́ę́ʼ nádzá
+silį́į́ʼ
 sin
-sindáo
 sinil
+sinooké
+sinooʼį́į́ʼ
 sis
+sis-
 sisas
+sistin
 sisxé
+sitseeʼ
+sitsiiʼ
+sitsilí
+sitsooʼ
+sitsįʼ
+sitsʼaʼ
 sitsʼil
+sitsʼin
+sitsʼíís
 sitsʼą́ą́ʼ
 sitą́
 sitį́
@@ -6605,7 +8659,9 @@ sitʼé
 siyį́
 sizid
 siziid
+sizéí
 sizílí
+sizęęs
 sizį́
 siłkid
 siłkidígíí
@@ -6615,11 +8671,19 @@ siʼą́
 sodilzin
 sodizin
 sodizin bá hooghan
+soo-
 soodin
 soodiz
 soodéél
+sooh-
+soohtin
 sooké
+soolį́į́ʼ
 sootłʼǫ́
+soozį́
+soołbaal
+soołtin
+sołbaał
 sołhé
 sołtįʼ
 spéshelígíí
@@ -6629,22 +8693,33 @@ sáanii
 sáanii bijáád
 sání
 sáál
+sé-
 sédiz
 sédá
 sédéél
 séigoʼ
 séigoʼ bitseeʼ áłtsʼózígíí
 séigoʼchilí bitseeʼ ádinígíí
+sélį́į́ʼ
 sétłʼǫ́
 sézį́
 séí
 séí naaʼahóóhai
-séígoʼ
+séłbaal
+séłtin
+séłtʼé
+síní-
 sínídiz
 sínídá
 sínídéél
+sínílį́į́ʼ
+sínítin
 sínítłʼǫ́
 sínízid
+sínízį́
+síníłbaal
+síníłtin
+síłbaał
 síłhé
 sóóda
 sóóda asbáala
@@ -6744,13 +8819,13 @@ tseebíígóó adeezʼá
 tseebíítsʼáadah
 tseebíítsʼáadah góneʼ
 tseekʼi nástánii
-tseekʼinástánii
 tseelkǫǫhí
 tseetsahí
 tseeyidiłtazii dibéłchíʼígíí
 tseełchiiʼí
 tseeʼé
 tsehégod
+tsi-
 tsibąąs
 tsibąąs yee alzhishí
 tsidił
@@ -6774,13 +8849,12 @@ tsiiyah wozhii
 tsiiyázhí
 tsiiyéél
 tsiiyééł
-tsiiłchin
 tsiiłchíʼí
 tsiiʼdétáán
 tsiiʼnteelí
 tsikʼi
 tsilghááh
-tsiláo
+tsilgóóh
 tsin
 tsin anáhálghą́hí
 tsin bee nehechʼiishí
@@ -6805,7 +8879,6 @@ tsin yiłkaałii
 tsin yąąh dzootʼihí
 tsin ííʼáhígíí
 tsin ííʼáii
-tsin ííʼáʼii
 tsinaabąąs
 tsinaaʼeeł
 tsinaaʼeeł biyaʼ
@@ -6826,13 +8899,13 @@ tsintah noołnahii
 tsintah łéʼétsoh
 tsintasdísí
 tsinyaa tłʼoh
-tsis
 tsisteeł
 tsisteeł bitsʼaʼ
 tsisteeł diyogí
 tsisteeł hashkéhé
 tsitsʼaaʼ
 tsitsʼaaʼ naadloʼí
+tsitsʼósí
 tsitłʼéłí
 tsoh
 tsostsʼid
@@ -6854,23 +8927,33 @@ tsostsʼidtsʼáadah
 tsostsʼidtsʼáadah góneʼ
 tsxaʼii
 tsxilghááh
+tsxilghááh łikizhígíí
 tsxį́įłgo
 tsxį́į́łnaalkʼįhii
 tsxį́į́łnaalkʼįhii łibáhígíí
 tsáskʼeh
 tsáskʼeh bikʼínáltihí
 tsáskʼeh bá hooghan
+tsáskʼeh áłtsʼóózígíí
 tsáʼásziʼ
 tsáʼásziʼtsʼóóz
 tsé
 tsé diichiłí
 tsé dizéígíí
 tsé dootłʼizh
+tsé naalkaah
 tsé naatʼaʼí
 tsé nahalinii
 tsé ndaaz
 tsé neiʼáhí
+tsé nidaaz
+tsé noolchʼoshii
+tsé noolchʼoshiiłbáhí
+tsé nádleehé
 tsé nástáán
+tsé nááwołí
+tsé náázhozhí
+tsé sikaad
 tsé áwózí
 tséchʼil
 tsédaashchʼíní
@@ -6898,18 +8981,27 @@ tsékʼi naʼałchʼízhii
 tsékʼi yaʼiiʼáhii
 tsénił
 tsénił yázhí
+tsénííʼ
 tsésǫʼ
 tsésǫʼ bee nehelgéshí
 tsésǫʼ yitʼoodí
 tsésǫʼ áhánídę́ę́ʼ niiniłígíí
 tsétah
 tsétah dibé
+tsétah dibé bichʼil
 tsétah dǫ́ʼiiyiyiitsahí
 tsétah jeeshóóʼ łibáhí
 tsétah naaʼahóóhai noodǫ́zígíí
 tsétah tłʼízí
+tsétaʼ
 tsétsoh
+tsétsohkʼįįʼ
+tsétsíín
+tsétłʼééł
+tsétʼees
+tséyaa hataał
 tséyaa hataałí
+tséyiʼ
 tséyooʼáałii
 tsézhin
 tsézéí
@@ -6929,6 +9021,8 @@ tséʼédǫ́ʼii bitsiinézí
 tséʼédǫ́ʼii dishooí
 tséʼédǫ́ʼii dootłʼizhí
 tséʼédǫ́ʼii łibáhígíí
+tséʼézhííh
+tsí-
 tsídii
 tsídii bichʼahtsohí
 tsídii bichʼahtsooígíí
@@ -7020,7 +9114,6 @@ tsʼidog
 tsʼidí yéego ádił náhozhdilchił
 tsʼiilzéí
 tsʼiilzéí nehegeehédi
-tsʼiiyahwozhii
 tsʼiiłtsohʼííłké
 tsʼin
 tsʼisǫ́ǫ́s
@@ -7029,6 +9122,7 @@ tsʼání
 tsʼání: the pinyon jay
 tsʼánídílzhiʼí
 tsʼánídílzhiʼí: the western scrub jay
+tsʼáál
 tsʼááłbáí
 tsʼídá
 tsʼídá bíhólníihgo
@@ -7086,7 +9180,6 @@ tádiin dóó baʼąą tʼááłáʼí
 tádiin góneʼ
 tádídíín
 tádídíín yiyání
-tálághosh
 táláwosh
 táláwosh binahjįʼ njilkid
 tániilʼáí
@@ -7162,7 +9255,6 @@ tééh hóyáanii
 tééh jádítsoh
 tééh łį́į́ʼ
 tééhoołtsódii
-tééhłį́į́ʼ
 téél halchíʼí
 tééʼndééh
 téʼéʼį́
@@ -7173,7 +9265,6 @@ tó bee siil naʼniilkʼáás
 tó beʼekʼid
 tó bichʼosh
 tó dilchxoshí
-tó diłhił
 tó doo bidééłníní
 tó doo bidééłníní bił ńdídǫ́ǫ́sígíí
 tó doo bináká nílíní
@@ -7183,7 +9274,6 @@ tó háálínígi
 tó háálį́įgo bá hazʼą́
 tó nidaaz
 tó nilį́į́h
-tó niteel
 tó nitéél nitságo atságáá
 tó náádiidááh
 tó tłʼiish
@@ -7212,6 +9302,7 @@ tó áhání
 tó łichxíʼí
 tó łichíʼí
 tó łikaní
+tó łikaní halchinígíí
 tó łikoní
 tó łikání halchiní
 tóchxǫ́ʼí
@@ -7272,6 +9363,7 @@ tłʼid
 tłʼiish
 tłʼiish bichóhí
 tłʼiish bikʼós niteelígíí
+tłʼiish yighání
 tłʼiish áníní
 tłʼiishkʼosí
 tłʼiishtsiiʼí
@@ -7384,7 +9476,6 @@ tʼáá shǫǫ lá
 tʼáá shǫǫdí
 tʼáá shǫǫdíín
 tʼáá tiʼída
-tʼáá tsʼííd
 tʼáá tłehee
 tʼáá tʼéehgo
 tʼáá yédígo
@@ -7402,7 +9493,6 @@ tʼáá ánółtso
 tʼáá átʼé
 tʼáá áłah
 tʼáá áłahjįʼ
-tʼáá íiyisí
 tʼáá íiyisíí
 tʼáá íiyisíí ahéheeʼ
 tʼáá íiyisíí ahéheeʼ, nitsaago
@@ -7423,7 +9513,6 @@ tʼááłáhádí mííl tʼááłáhádí neeznádiin
 tʼááłáhádí mííl tʼááłáʼí
 tʼááłáhádí neeznádiin
 tʼááłáhádí neeznádiin mííl
-tʼááłáhádí neeznádiin tʼááłáʼí
 tʼááłáhídi haatłéeʼgo
 tʼááłáʼí
 tʼááłáʼí béeso
@@ -7433,9 +9522,7 @@ tʼááłáʼídi neeznádiin béeso
 tʼááłáʼígo
 tʼááʼaaníinii
 tʼááʼáko
-tʼááʼákwííjį́
 tʼéiyá
-tʼééh jiyáán
 tʼéí
 tʼéíłtsohʼííłké
 tʼóó
@@ -7444,7 +9531,6 @@ tʼóó ahayóí
 tʼóó báhádzidgo
 tʼóó báhádzidígí
 tʼóó báhádzigo
-tʼóó báhádzoo
 tʼóó bílaʼ dijool
 tʼóó chąąʼ
 tʼóó shichʼilígo
@@ -7454,12 +9540,14 @@ tʼąąʼdoolghasí
 tʼą́ą́ʼ
 unknown
 w
+w-
 waaʼ
 wah
 waháá
 wehee
 wig
 wiyal
+woh-
 wohbah
 wohbizh
 wohbááh
@@ -7587,42 +9675,68 @@ wohʼį́
 wolchóón
 wolyé
 wolí bee
+woo(d)-
+woo(h)-
+woo-
 woobaaʼ
 woocha
 woochʼid
 woochʼiizh
+wooh-
 woohbááh
 woohchííh
+woohdlą́
 woohdlą́ą́ʼ
+woohdzaa
 woohdą́ą́ʼ
 woohgis
 woohgááh
 woohhas
+woohjeeh
 woohjį́į́h
+woohjį́į́ʼ
+woohneʼ
 woohshį́į́h
 woohsoh
 woohsįįh
 woohtsóóh
 woohtsʼǫs
+woohłeʼ
 woohłįh
+woojeeh
 woolkʼą́ą́h
+woomááz
 wooshbįįh
+wooshdlą́
 wooyą́ą́ʼ
+wooyį́
 woołbááh
 woołbįįh
 woołchxosh
 woołchííh
+woołdeeʼ
+woołdéél
+woołgaii
+woołghal
 woołgááh
 woołgąsh
 woołhash
 woołhał
+woołjid
+woołkid
 woołtsóód
 woołtsóóh
 woołtééh
+woołtłʼá
+woołtʼóód
+woołzhóóʼ
 wooʼaal
 wooʼah
+wooʼneʼ
 wooʼáázh
+wooʼéél
 wooʼą́
+wooʼįįd
 woshchʼishjí
 woshchʼishídi
 woshchʼishígíí
@@ -7669,6 +9783,7 @@ wołkeed
 wołkił
 wołkááh
 wołkąąh
+wołmas
 wołmaz
 wołmáás
 wołnaad
@@ -7714,34 +9829,42 @@ wołʼis
 wołʼoł
 wołʼá
 wáláchííʼ
-wáláchííʼ yildeełí
 wááláchíí bighan
 wáán
 wááshindoon
 wááshindoon bighan
 wááshindoon bikin
+wó-
+wódah
 wódahí
 wódáanii
 wódítłʼooí
 wóhaalzheehí
 wókʼiz naadǫ́zí
+wólá
 wóláchííʼ
 wóláchííʼ yildeełí
 wólázhiní
 wónaalchʼilí
+wónaaní-
 wónaanídi
 wónaanídę́ę́ʼ
 wónaanígóó
 wónaaníjí
 wónaaníjįʼ
+wóneʼ
 wónikǫsí
 wónitłʼizí
 wóniłchxoní
 wónáásdóó
+wósh-
 wóshchʼishídi
 wóshdę́ę́ʼ
 wóshdę́ę́ʼgo
 wóshiiyishí
+wóshjeeh
+wóshneʼ
+wóshłeʼ
 wósizíní
 wótaashkiʼ
 wótsíní
@@ -7750,17 +9873,19 @@ wótʼááh
 wóyah
 wóyahgo dił naʼałkid
 wózhǫ́
+wóó-
+wóójeeh
+wóóleʼ
 wóónałchídii
 wóóneeshchʼįįdii
 wóóneeshchʼįįdii nahachaʼígíí
+wóóneʼ
 wóóseekʼidii
 wóóshiyishí
 wóósitsʼílí
 wóóʼmah
 wóʼą́ą́lį́
 x
-xai
-xis
 y
 y-
 yaa
@@ -7794,10 +9919,12 @@ yaʼ
 yee
 yee naaldlooshii
 yeenaʼałkǫ́ʼíłániichilí
+yeesh-
 yeełtʼé
 yeeʼ
 yeʼaniihígíí
 yeʼelééh
+yi-
 yibadooghááh
 yibah
 yibal
@@ -7814,7 +9941,9 @@ yichʼiishí
 yichʼish
 yichʼooní
 yichʼą́ą́h
+yichʼįʼ
 yideesʼá
+yideezhí
 yideeł
 yidiidzį́į́s
 yidiilkaal
@@ -7823,7 +9952,9 @@ yidiitsʼaʼ
 yidiitsʼį́į́h
 yidiiłbąąs
 yidiiłkǫǫh
+yidiiłkǫʼ
 yidiiłmáás
+yidiiłmááz
 yidiiłtłʼíísh
 yidileeh
 yidiniiltsóód
@@ -7832,6 +9963,7 @@ yidiséí
 yidisįįh
 yidiz
 yidizǫ́ǫ́s
+yidił
 yidiłbaał
 yidiłchʼąął
 yidiłhį́į́h
@@ -7849,10 +9981,24 @@ yidlóóh
 yidlą́
 yidlą́: he
 yidoobish
+yidoochih
 yidoochʼish
 yidoochʼił
+yidoodlish
+yidoodį́į́ł
+yidoogish
+yidoojah
+yidoojih
+yidooldah
+yidooldił
+yidooltʼoł
+yidoolzhoh
+yidootʼoł
+yidooyį́į́ł
 yidooził
+yidoołbał
 yidoołbish
+yidoołbąs
 yidoołchosh
 yidoołchííł
 yidoołchį́į́ł
@@ -7861,24 +10007,30 @@ yidoołchʼał
 yidoołchʼił
 yidoołdah
 yidoołdił
+yidoołjił
 yidoołʼaał
 yidooʼał
+yidooʼish
 yidooʼááł
+yidzaa
 yidzaas
 yidzas
 yidziih
 yidzííd
 yidzį́į́s
 yidáanii
+yidínóołmas
 yidísin
 yidííniid
 yidąąh
 yidą́
 yidǫʼ
+yigaan
 yigan
 yigeeh
 yighaas
 yighaał
+yighan
 yigháád
 yighááh
 yigháázh
@@ -7889,6 +10041,8 @@ yigááł
 yihah
 yihááh
 yihę́ę́s
+yii(d)-
+yii-
 yiibaaʼ
 yiibah
 yiibizh
@@ -7899,6 +10053,7 @@ yiichʼid
 yiichʼiish
 yiichʼiizh
 yiichʼish
+yiid-
 yiideeł
 yiidiz
 yiidleeh
@@ -7942,6 +10097,7 @@ yiijizh
 yiijááh
 yiijį́į́h
 yiijį́į́ł
+yiijį́į́ʼ
 yiikaah
 yiikad
 yiikah
@@ -7972,9 +10128,12 @@ yiilchʼal
 yiilchʼil
 yiilchʼąął
 yiilchʼął
+yiilchʼą́ą́l
 yiildeeł
+yiildeeʼ
 yiildin
 yiildlaad
+yiildloozh
 yiildlosh
 yiildlóósh
 yiildoh
@@ -7983,9 +10142,12 @@ yiildzid
 yiildził
 yiildzééh
 yiildééh
+yiildéél
 yiildǫʼ
+yiilgaii
 yiilgan
 yiilghaał
+yiilghal
 yiilghash
 yiilghał
 yiilgááh
@@ -8000,6 +10162,7 @@ yiilkeed
 yiilkił
 yiilkááh
 yiilkąąh
+yiilmas
 yiilmaz
 yiilmáás
 yiilnaad
@@ -8025,6 +10188,7 @@ yiiltééł
 yiiltązh
 yiiltłah
 yiiltłʼis
+yiiltłʼá
 yiiltłʼééh
 yiiltłʼééł
 yiiltʼah
@@ -8038,6 +10202,7 @@ yiiltʼá
 yiiltʼááh
 yiiltʼááł
 yiiltʼééh
+yiiltʼóód
 yiilwod
 yiilwozh
 yiilwoł
@@ -8053,6 +10218,7 @@ yiilzhééh
 yiilzhíísh
 yiilzhóóh
 yiilzhóósh
+yiilzhóóʼ
 yiilzhį́į́h
 yiilzhǫǫh
 yiilzééh
@@ -8073,6 +10239,7 @@ yiishgąsh
 yiishhash
 yiishhał
 yiishjį́į́h
+yiishjį́į́ʼ
 yiishtééh
 yiishį́į́h
 yiishłįh
@@ -8123,6 +10290,7 @@ yiitʼááł
 yiitʼéés
 yiitʼéésh
 yiitʼą́
+yiitʼįįd
 yiitʼįįh
 yiitʼį́
 yiizoh
@@ -8130,6 +10298,7 @@ yiizįįh
 yiiłbááh
 yiiłchxosh
 yiiłchííh
+yiiłgaii
 yiiłgááh
 yiiłgąsh
 yiiłhash
@@ -8138,6 +10307,7 @@ yiiłtsóód
 yiiłtsóóh
 yiiłtsʼįįł
 yiiʼ
+yiiʼdzaa
 yiiʼeeł
 yiiʼmal
 yiiʼmas
@@ -8150,20 +10320,25 @@ yiiʼnééł
 yiiʼnííł
 yiiʼoł
 yiiʼwod
+yiiʼéél
 yijah
 yijeeh
 yijoołá
+yijáád
 yijááh
+yijóózh
 yijį́į́ł
 yikaah
 yikad
 yikah
 yikah (3+)
+yikeeʼ
 yikááh
 yikááʼ
 yikáíh łeesʼáán yílzhódí akáísdáhí
 yikáísdáhí
 yikáííhdą́ą́ʼ
+yikééʼ
 yikęęs
 yikǫs
 yikʼaash
@@ -8175,15 +10350,19 @@ yikʼijįʼ
 yikʼizhdiilniiʼ
 yikʼá
 yikʼé
+yikʼéí
 yikʼíididis
 yikʼąąs
 yikʼęęh
 yikʼį́į́h
+yilah
 yilbéézh
 yilchʼąął
 yilchʼął
+yilchʼą́ą́l
 yildeeł
 yildin
+yildloozh
 yildlosh
 yildlóósh
 yildził
@@ -8197,10 +10376,12 @@ yilkʼooł
 yilnood
 yiltał
 yiltsą́
+yiltłʼá
 yiltłʼééh
 yiltłʼééł
 yiltʼood
 yiltʼé
+yilwod
 yilwoł
 yilyeed
 yilyé
@@ -8215,26 +10396,37 @@ yilʼis
 yilʼá
 yimal
 yimas
+yimá
 yimáás
 yinaalnish
+yineezʼį́į́ʼ
+yinidzaa
 yinidzin
 yiniih
 yiniinaa
 yiniisííł
 yiniiłjoł
 yiniiłmas
+yiniiʼ
+yinijį́į́ʼ
 yinishyé
 yinizh
 yiniłbįįh
+yiniłgaii
 yiniłkʼah
 yiniłmas
 yiniłtséés
 yiniʼįįh
 yináldzid
+yinááʼ
 yinééh
 yinééł
+yinééłʼį́į́ʼ
+yinídlą́
 yinízin
 yinííł
+yinííʼaaʼ
+yiníłbą́ą́z
 yiníłʼį́
 yinóʼááh
 yisas
@@ -8243,6 +10435,7 @@ yisbąs
 yisbąąs
 yisdis
 yisdiz
+yisdzaa
 yisdzid
 yisdziih
 yisdził
@@ -8250,6 +10443,7 @@ yisdzoh
 yisdzééh
 yisdzííd
 yisdzį́į́s
+yisdá-
 yisdábąąs
 yisdáháʼnééh
 yisdáldlóósh
@@ -8257,6 +10451,7 @@ yisdáʼiiníiłii
 yisdáʼnééh
 yisdéíłbąąs
 yisdéíłʼeeł
+yish-
 yishbah
 yishbal
 yishbizh
@@ -8276,12 +10471,15 @@ yishchʼil
 yishchʼish
 yishchʼąął
 yishchʼął
+yishchʼą́ą́l
 yishdeeł
+yishdeeʼ
 yishdin
 yishdlaad
 yishdleesh
 yishdleeʼ
 yishdloh
+yishdloozh
 yishdlosh
 yishdlóóh
 yishdlóósh
@@ -8290,11 +10488,13 @@ yishdlą́ą́ʼ
 yishdoh
 yishdon
 yishdééh
+yishdéél
 yishdą́
 yishdą́ą́ʼ
 yishdǫʼ
 yishgan
 yishgeeh
+yishghal
 yishghał
 yishgoh
 yishhaał
@@ -8366,6 +10566,7 @@ yishtłoh
 yishtłíísh
 yishtłʼin
 yishtłʼił
+yishtłʼá
 yishtłʼééh
 yishtłʼééł
 yishtłʼó
@@ -8382,13 +10583,16 @@ yishtʼá
 yishtʼááh
 yishtʼááł
 yishtʼééh
+yishtʼóód
 yishtʼįįh
 yishtʼį́
+yishwod
 yishwoł
 yishyeed
 yishyé
 yishzhah
 yishzhóóh
+yishzhóóʼ
 yishááh
 yishááł
 yishééh
@@ -8421,6 +10625,8 @@ yishʼáád
 yishʼááł
 yishʼéésh
 yishʼį́
+yishʼį́į́h
+yisiilbą́
 yiską́o
 yiską́ągo
 yiskʼąąs
@@ -8429,6 +10635,8 @@ yismaz
 yismáás
 yisnááh
 yisoh
+yisoołbą́
+yistin
 yistseeł
 yistsid
 yistsih
@@ -8452,6 +10660,8 @@ yisxaas
 yisxiz
 yisééh
 yiséés
+yiséłbą́
+yisíníłbą́
 yisííd
 yisį́į́h
 yisłóós
@@ -8460,6 +10670,7 @@ yisʼis
 yisʼiz
 yisʼéés
 yitaał
+yitah
 yitahjiʼ
 yitih
 yitiih
@@ -8468,6 +10679,7 @@ yitił
 yitiʼ
 yitseeł
 yitsid
+yitsiiʼ
 yitsʼiʼ
 yitsʼííd
 yitsʼą́ą́ʼ
@@ -8512,6 +10724,7 @@ yiyiiłchííh
 yiyiiłchįh
 yiyiiłdzid
 yiyiiłdǫǫh
+yiyiiłgaii
 yiyiiłgááh
 yiyiiłgąsh
 yiyiiłhash
@@ -8540,10 +10753,18 @@ yiyání
 yiyéés
 yiyííchʼid
 yiyííchʼiizh
+yiyíínizh
 yiyííyą́ą́ʼ
+yiyííyį́
+yiyííłdeeʼ
+yiyííłjid
+yiyííłkid
+yiyííłtʼóód
 yiyííʼaal
 yiyííʼah
 yiyííʼą́
+yiyííʼįįd
+yiyíłjool
 yiyą́
 yiyį́į́h
 yizdiz
@@ -8551,6 +10772,8 @@ yizhbizh
 yizhchííʼ
 yizhdléézh
 yizhizh
+yizhjééʼ
+yizhʼeezh
 yiził
 yiziłígíí
 yiztłʼǫ́
@@ -8645,10 +10868,16 @@ yoodzį́į́s
 yoodą́ą́ʼ
 yoojih
 yookááł
+yooldeeʼ
+yooldéél
+yoolghal
 yooloh
+yooltʼóód
+yoolzhóóʼ
 yoolééł
 yoolóós
 yoosas
+yoosbą́
 yooshoł
 yoostsah
 yootį́į́ł
@@ -8697,10 +10926,11 @@ yáadilá
 yáadilá áwééʼátʼéego lá
 yáadilá óolyé
 yáah
-yáaniʼ
 yádaałtiʼ
+yádajiłtiʼ
 yádeiiltiʼ
 yádiłhił
+yádí
 yádíłtihii bitsiitʼáád halzhinígíí
 yádíłtihii bitsiiʼ łizhinígíí
 yágháhonikáán
@@ -8752,7 +10982,6 @@ yá’ałníí’
 yéego
 yéego łitso
 yéego łitsooí
-yéeniʼ
 yéigo
 yéiiltiʼ
 yénálniih
@@ -8765,6 +10994,7 @@ yéíníłtiʼ
 yéʼii
 yéʼiibeʼetsʼos
 yéʼiitsoh
+yí-
 yíbaaʼ
 yíbah
 yícha
@@ -8791,11 +11021,16 @@ yíjááh
 yíjį́į́ł
 yíkaah
 yíkah
+yíkai
+yíká
 yíkááh
 yíkááh (3+)
 yíkááł
 yíkʼaih
+yíkʼaʼí
+yílaʼ
 yílchʼął
+yíldloozh
 yíldlosh
 yíldlóósh
 yíldził
@@ -8808,6 +11043,7 @@ yíloh
 yíltał
 yíltłʼééh
 yíltłʼééł
+yílwod
 yílwoł
 yílyeed
 yílzhah
@@ -8818,10 +11054,15 @@ yílį́
 yílʼis
 yímas
 yímáás
+yímááz
 yínee'
+yínizh
+yíniʼ
+yíná
 yínááł
 yínééh
 yínééł
+yíní-
 yíníbaaʼ
 yínícha
 yíníchʼid
@@ -8833,8 +11074,21 @@ yíníijíh
 yíníilgę́ę́zh
 yíníiltaʼ
 yíníiltseii
+yíníjaaʼ
+yíníkai
+yínílchʼą́ą́l
+yíníldeeʼ
+yíníldloozh
+yíníldéél
+yínílghal
 yínílgę́ę́zh
 yíníltsą́
+yíníltłʼá
+yíníltʼóód
+yínílwod
+yínílzhóóʼ
+yínímááz
+yínínizh
 yíníshgę́ę́zh
 yíníshtaʼ
 yíníshí
@@ -8844,17 +11098,27 @@ yínítááh
 yínítʼį́
 yíníyá
 yíníyą́ą́ʼ
+yíníyį́
 yínízhí
 yínízhíh
 yínííł
 yínííł naʼadá
+yíníłbą́ą́z
+yíníłdeeʼ
 yíníłdzil
+yíníłjid
+yíníłjool
+yíníłkid
 yíníłtaʼ
 yíníłtseii
+yíníłtʼóód
 yíníʼaal
 yíníʼah
+yíníʼnaʼ
 yíníʼáázh
+yíníʼéél
 yíníʼą́
+yíníʼįįd
 yíníʼį́
 yínółgę́ę́zh
 yínółtaʼ
@@ -8875,26 +11139,35 @@ yítʼiʼ
 yítʼááh
 yítʼááł
 yítʼééh
+yítʼóód
 yíyeeh
 yíyá
 yíyéés
 yíyééł
 yíyą́ą́ʼ
+yíyį́
+yízhiʼ
 yízhí
 yízoh
 yízííd
 yízǫ́ǫ́s
+yíí-
 yííháá
 yíłbąs
+yíłchozh
 yíłchʼąął
 yíłchʼął
+yíłdeeʼ
 yíłdoh
 yíłdóóh
+yíłjid
 yíłjiid
 yíłjił
 yíłjooł
 yíłjoł
+yíłkid
 yíłkił
+yíłmas
 yíłmáás
 yíłmááz
 yíłteeh
@@ -8911,6 +11184,7 @@ yíłtʼih
 yíłtʼoł
 yíłtʼááh
 yíłtʼááł
+yíłtʼóód
 yíłʼah
 yíłʼoł
 yíʼaal
@@ -8920,14 +11194,19 @@ yíʼash
 yíʼeeł
 yíʼish
 yíʼnah
+yíʼnaʼ
 yíʼnééh
 yíʼoł
 yíʼááh
 yíʼáázh
 yíʼááł
+yíʼéél
 yíʼą́
+yíʼįįd
+yó-
 yóbé
 yódí
+yójeeh
 yókeed
 yólgę́ę́zh
 yótʼááh
@@ -8943,11 +11222,13 @@ yółdon
 yółeehii
 yółtaʼ
 yąąh
+yą́ą́h
 yą́ą́ʼdíłgééd
 yę́ę
 yę́ę ádin
 yę́ędą́ą́ʼ
 z
+z-
 zaaʼáán ałtah
 zahalchíʼii
 zahalánii
@@ -8956,6 +11237,7 @@ zas
 zaské
 zaʼáán
 zh
+zh-
 zhéé
 zhéí
 zhéí asbáala
@@ -8975,7 +11257,6 @@ zéédzísgaii
 zéédéeláhí
 zéédéeláʼí bił dah sitání
 zéédéetʼiʼí
-zéédéełdoi
 zéédéełdoii
 zéédéełtsooz
 zééjíjinii
@@ -8986,7 +11267,6 @@ zééʼiilwoʼii
 Á
 Áawah hahoodzo
 Ádis Áwewah
-Ákáʼátʼįįł
 Áljiis
 Áshįįh biiʼtó hahoodzo
 Ásáí Bikéyah Saʼoodí
@@ -9009,6 +11289,7 @@ zééʼiilwoʼii
 Íholnííh Nahatʼá Bee Dah Ooldah
 Ílínóo hahoodzo
 Índíʼyéenah hahoodzo
+Ízrel
 Ízrel bi-shékʼel ániidí
 Ízrel bikéyah
 Ííjip
@@ -9022,11 +11303,12 @@ zééʼiilwoʼii
 á
 á-
 áadi
-áadoo
 áajiʼ
 áaleʼé atah naanéhígíí
-áaníí
+ábidiʼdoolnííł
 ábishjaaʼ
+ábiʼdiilyaa
+ábiʼdilnééh
 áchxą́hwíídéeniʼ
 áchį́į́h
 áchį́į́hlátah
@@ -9037,25 +11319,59 @@ zééʼiilwoʼii
 áchʼą́ą́h neilyéii
 áchʼįʼ
 áchʼįʼ hózhǫ́
+ádaa
 ádaa nátʼíiníí
 ádaadinígíí
+ádaahłééh
 ádaalyaa
+ádaałtsʼózí
+ádadiilnííł
 ádadilʼínígíí
+ádadoohłííł
 ádahooníiłii
 ádahooníłígíí
 ádahóótʼįįdígíí
+ádajiilaa
+ádajilééh
+ádaoohłaa
+ádayiilaa
+ádazhdoolííł
+ádee
 ádee hazhdidziih
+ádeeshnííł
+ádeeshłííł
+ádeidoolííł
+ádeiilnééh
+ádeiilyaa
+ádeilééh
+ádiih
+ádiilnííł
+ádiiʼ
+ádiiʼnííł
 ádin
 ádingo
 ádinígíí
+ádił
 ádił ninisdzá
 ádił náhodilchííłgo ʼachʼį́nijódlį́
 ádił ídlį́
 ádiłjídlį́
 ádoodlid
+ádoohnííł
+ádoohłííł
+ádoolnííł
+ádoonííł
+ádzaa
+ádá
 ádí
+ádíká
+ádíké
 ádílááh
 ádístsiin
+ádíílííł
+ádíínííł
+ádąąh
+ádą́ą́h
 ádįįh
 áhodilʼį́įnii
 áháchįʼ
@@ -9064,11 +11380,16 @@ zééʼiilwoʼii
 áhátʼį́
 áhí
 áhí bee chahałheeł
+ájiidzaa
+ájiilaa
 ájiiłʼįįh
 ájídin
 ájígaléidii
+ájílééh
+ájínééh
 ájíszólí
 ájítʼé
+ájíłʼį́
 ákaz łikaní
 áko
 ákweʼé
@@ -9076,17 +11397,23 @@ zééʼiilwoʼii
 ákwíinisin
 ákwíí
 ákwíígíí
+áká
 ákáshtłʼo
+ákááʼ
+ákééʼ
 ákótʼé
 ákótʼéegi
 ákótʼéego
 ákǫ́ǫ́
 ákʼaʼí
+ákʼi
+ákʼijįʼ
 ákʼinálchįįh
 álaʼ
 álaʼ náhástʼéíígíí
 álaʼ tsostsʼidí
 álaʼataʼí
+álnééh
 ályaa
 álágiizh
 álákʼee
@@ -9101,6 +11428,9 @@ zééʼiilwoʼii
 áláyáázh
 álázhoozh
 álííl
+áló
+álókááʼ
+álʼį́
 ánaaí
 ánihwiiʼaahii
 ánihwííʼaahii
@@ -9114,13 +11444,20 @@ zééʼiilwoʼii
 ániʼ
 ániʼ dóó ntsékees naalkaah
 ániʼ ííłdinii
+ánáoołʼįįh
+ánáyiilʼįįh
 ánááʼahidiiłtsééh
 ánéeltʼeʼ
+ánéiilʼįįh
+ánéilʼįįh
+ánéishʼįįh
 ánééh
 ánéídlééh
 ání
 ánídin
 áníldííl
+ánílééh
+ánínééh
 ánísdaasígíí yaa íílééh
 áníshdin
 áníshdííl
@@ -9140,6 +11477,7 @@ zééʼiilwoʼii
 áníłtsááz
 áníłtéél
 áníłʼį́ shoo
+áníłˊį
 ánóhdin
 ánóhtʼé
 ánółdííl
@@ -9151,11 +11489,15 @@ zééʼiilwoʼii
 ásaaʼ yilghaałí
 ásaaʼtsoh
 ásaaʼyázhí
+ásdzaa
 áshjish
+áshnééh
 áshįįh
 áshįįh łikan
 áshįįh łikan bee bídaʼneelʼąąhígíí
 áshłaa
+áshłééh
+áshʼį́
 ásitą́
 ásizíinii
 ásizį́
@@ -9169,15 +11511,18 @@ zééʼiilwoʼii
 átááʼ
 átʼah
 átʼahálo
-átʼáo
 átʼé
 átʼéego
 átʼéii
 átʼéégóó
 átʼį́
+áyaa
 áyaańda
+áyiilaa
 áyóʼní
 áyąą
+ázhdoolííł
+ázhdoonííł
 ázhiʼ
 ázhníldííl
 áábée
@@ -9192,7 +11537,6 @@ zééʼiilwoʼii
 áás báasdos
 áás góobas
 áás óola
-ááshǫǫdí
 áásįįł
 áłah
 áłah aleeh
@@ -9209,7 +11553,6 @@ zééʼiilwoʼii
 áłká
 áłtsé
 áłtsé góneʼ yéigo daʼahijoogą́ą́ʼ
-áłtsééd
 áłtsínítsoh
 áłtsʼísí
 áłtsʼíísí
@@ -9218,11 +11561,18 @@ zééʼiilwoʼii
 áłtsʼózí
 áłtsʼóózí
 áłtʼą́ą́ʼígo
+áńdajiilʼįįh
+áńdaoołʼįįh
+áńdayiilʼįįh
+áńdeiilʼįįh
+áńjiilʼįįh
+áńt'į́
 áńtʼé
 áńtʼį́į́hii
 áʼádaatʼéhígíí
 áʼázhoozh
 é
+é-
 éidí
 éidíígíí
 éigi ʼátʼéego
@@ -9237,13 +11587,13 @@ zééʼiilwoʼii
 ééʼ
 ééʼ bee naatʼáhí
 ééʼ bee yilzhóhí
+ééʼ naatsʼǫǫdii
 ééʼ neishoodii
+ééʼ neishoodii beʼééʼ danineezígíí
+ééʼ neishoodii beʼééʼ ádaałtsʼíísí yígíí
 ééʼ neishoodii binahaghaʼ
-ééʼ neishoodii biʼééʼ danineezígíí
-ééʼ neishoodii biʼééʼ ádaałtsʼíísígíí
 ééʼ tʼáágééd
 ééʼ ííłʼíní
-ééʼnaatsʼǫǫdii
 ééʼneishoodii bikin
 éí
 éí biniinaa
@@ -9253,24 +11603,30 @@ zééʼiilwoʼii
 éí ííníyą́ąʼgo naaʼdidoolyééł
 éísh
 éʼélʼį́
-éʼétʼé
 í
+í-
 íchįʼ
 ídlą́
 ídlį́
 ídlį́įgi
 ídzo
-ídístsiin
 íhoołʼaah
 íhooʼaah
 íidazhnízin
 íidaznízin
+íidoolííł
+íidzaa
+íilyaa
+íilʼį́
+íinidzaa
+íinilaa
 íinisin
 íinínízin
 íinízin
 íishłaa
 íitsʼaʼ
 íiyisíí
+íiʼnééh
 ílizh
 ílzhish
 ílį́
@@ -9291,22 +11647,38 @@ zééʼiilwoʼii
 íígháán tsiighąąʼ
 ííghą́ą́tsiighąąʼ
 íígąsh
+íílnééh
 íílééh
 íílį́
+íímááz
 ííníiltaʼ
+íínílwod
+íínílzhiizh
+íínímááz
 ííníshtaʼ
+ííníyá
+ííníłmááz
 ííníłtaʼ
+ííníłʼéél
+ííníʼéél
 íínółtaʼ
 ííshgháán
 ííshją́ą́
+íítsʼǫ́ǫ́d
 íítʼiʼ
+ííyą́ą́ʼ
 ííłdįįh
+ííłmááz
 ííłniih
 ííłní
 ííłníiʼjįʼ
 ííłnííʼ
+ííłtʼaʼ
+ííłʼéél
 ííłʼíní
 ííłʼį́
+ííłˊį
+ííʼéél
 íłchin
 íłeeh
 íłhosh
@@ -9315,6 +11687,9 @@ zééʼiilwoʼii
 íʼhooʼą́ąʼii
 íʼneelʼąąh
 ó
+ó-
+óhnééh
+óhłééh
 óltaʼ
 óltaʼ dóó akʼeʼelchí
 óltaʼ hótsaa
@@ -9329,6 +11704,8 @@ zééʼiilwoʼii
 óltaʼági
 óltaʼídi
 óltaʼígíí
+óohdzaa
+óohłaa
 óola
 óola bee ályaa
 óola niłtólí
@@ -9338,6 +11715,7 @@ zééʼiilwoʼii
 ółtaʼ
 ółtaʼí
 ółtaʼí hooghandi yinidoolnishígíí
+ółʼį́
 óʼoolkąąh
 óʼoolkąąh bee dah naʼaztą́
 Ą
@@ -9367,7 +11745,6 @@ zééʼiilwoʼii
 ąąʼ háágóó díníya?
 ąąʼ háágóó nisíníyá?
 ąąʼ yáʼánítʼééh yaʼ?
-ąąʼą
 ąąʼąʼii
 ą́
 Ę
@@ -9378,6 +11755,7 @@ zééʼiilwoʼii
 Į
 Į́
 į
+įįh biyaʼ
 įįʼąʼii
 į́
 Ł
@@ -9387,6 +11765,7 @@ zééʼiilwoʼii
 Łeesdísí Bikéyahdę́ę́ʼ tsídii naʼałkʼaiʼí yázhí
 Łeeyah Neeyání
 Łeezh Bee Bineʼadziihii
+Łichííʼ Sitání
 Łitʼoowę́ę́ bizaad
 Łoobiłáanaa
 Łíbanoo
@@ -9421,6 +11800,7 @@ zééʼiilwoʼii
 łaʼtsʼáadahdi azlį́į́ʼ
 łaʼígíí
 łaʼííłké
+łee-
 łeechʼosh
 łeeh
 łeeh dahoʼdiiʼníiłgi
@@ -9466,6 +11846,7 @@ zééʼiilwoʼii
 łeʼesoołii
 łeʼesoołii disxǫsígíí
 łeʼoogeed
+łi-
 łibá
 łibá(dark gray: dinilzhin)
 łichxííʼ
@@ -9487,6 +11868,11 @@ zééʼiilwoʼii
 łikon
 łikání halchingo
 łikʼaii
+łiniichííʼ
+łinishchííʼ
+łinishgai
+łinohchííʼ
+łiníchííʼ
 łitso
 łitso(light yellow: diniltso)
 łitsoii
@@ -9507,6 +11893,8 @@ zééʼiilwoʼii
 łáaʼii góneʼ yéigo daʼahijoogą́ą́ʼ
 łáháda
 łání
+łáʼíndi
+łééchąą yázhí
 łééchąątsaʼii
 łééchąąyázhí
 łééchąąłgaii
@@ -9525,8 +11913,30 @@ zééʼiilwoʼii
 łéʼétsoh bizaʼazis hólóní
 łéʼétsoh yiljaaʼí
 łéʼéyázhí
+łídeelchį́
+łídiilchí
+łídishoołchį́
+łídéshchį́
+łídílchí
+łídínílchį́
+łídíshchí
+łídółchí
+łíicháázh
+łíideeshchį́
 łíidilchí
+łíjícháázh
+łíjíshcháázh
+łínícháázh
+łíshcháázh
+łíshiicháázh
+łíshoocháázh
+łíshécháázh
+łíshínícháázh
+łízhdeeshchį́
+łízhdílchí
 łíícháázh
+łííshcháázh
+łóhcháázh
 łóód
 łóód doo nádziihii
 łóódtsoh
@@ -9576,14 +11986,18 @@ zééʼiilwoʼii
 łį́į́łkiizh
 łį́į́łtsoii
 łį́į́ʼ
+łį́į́ʼ bee
 łį́į́ʼ bichoʼ haaʼnil
 łį́į́ʼ bichoʼ ádinii
 łį́į́ʼ bichąąʼ
 łį́į́ʼ bideeʼłáaʼii
 łį́į́ʼ bighan
+łį́į́ʼ bikeeʼ
+łį́į́ʼ bikąʼii
 łį́į́ʼ bikʼídahaznilgo naalgeedígíí
 łį́į́ʼ bitsiighaʼ łigaii
 łį́į́ʼ bitsísʼná
+łį́į́ʼ biyéél
 łį́į́ʼ ndahalinígíí
 łį́į́ʼ tʼáá dilkǫǫhgo naalgeedígíí
 łį́į́ʼ yishtłizhii
@@ -9598,9 +12012,17 @@ zééʼiilwoʼii
 łį́ʼígíí óola
 Ń
 ń
+ń-
 ńchííl
+ńdaahjah
+ńdajijah
 ńdaʼííyéés
 ńdeezidę́ędą́ą́ʼ
+ńdeiijah
+ńdeijah
+ńdeí-
+ńdeíníi(d)-
+ńdeínó(h)-
 ńdiijeeh
 ńdiilgąązh
 ńdiilgą́ą́sh
@@ -9613,10 +12035,9 @@ zééʼiilwoʼii
 ńdíshchííʼ biyaʼ
 ńdízídígíí
 ńdízííd
+ńjídleeh
 ńláahdi
-ńléidi
 ńléí
-ńléíjí
 ńló
 ńló yázhí
 ńtʼééʼ
@@ -9624,21 +12045,52 @@ zééʼiilwoʼii
 ńtʼę́ʼę́ę
 ńzin
 ńʼdíłhį́į́h
+ńʼjílzhish
 Ǫ
 Ǫ́
 ǫ
 ǫǫbǫʼii
 ǫ́
 ʼ
-ʼatsá
+ʼa-
+ʼadeesh-
+ʼadii-
+ʼadoo-
+ʼadooh-
+ʼadíí-
+ʼah-
+ʼaji-
+ʼajiz-
+ʼajoo-
+ʼajíí-
+ʼajó-
+ʼash-
+ʼasii-
+ʼasoo-
+ʼasé-
+ʼasíní-
+ʼaz-
+ʼazhdoo-
+ʼeesh-
+ʼii-
 ʼiih
+ʼoh-
+ʼoo-
+ʼooh-
 ʼá naníʼaʼ
+ʼádi-
 ʼáh
 ʼáh nístsʼííd
 ʼáh tsʼííd
 ʼáásh
 ʼáásh ńtsʼííd
 ʼáásh ńtsʼííd?
+ʼí-
+ʼíí-
+ʼííní-
+ʼó-
+ʼósh-
+ʼóó-
 —
 ∅
 ∅ -DÉÉL

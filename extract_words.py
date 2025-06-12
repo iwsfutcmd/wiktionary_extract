@@ -1,3 +1,5 @@
+import os
+
 import json
 from collections import Counter, defaultdict
 from itertools import count
@@ -26,8 +28,13 @@ linkages = [
 
 
 def extract():
-    with open("raw-wiktextract-data.json") as file:
-        for i, line in tqdm(enumerate(file)):
+    file_path = "raw-wiktextract-data.jsonl"
+    file_size = os.path.getsize(file_path)
+    with open(file_path) as file, tqdm(
+        total=file_size, unit="B", unit_scale=True, desc="Reading file"
+    ) as pbar:
+        for i, line in enumerate(file):
+            pbar.update(len(line.encode("utf-8")))
             # if i > 10000:
             #     break
             entry = json.loads(line)
@@ -98,9 +105,7 @@ def extract_translation(translation_entry):
         return None
     word = translation_entry["word"]
     lang = translation_entry["lang"]
-    code = translation_entry["code"]
-    if not code:
-        code = "XXXX"
+    code = translation_entry.get("code", "XXXX")
     # return "\t".join([word, lang, code])
     return (word, lang, code)
 
@@ -116,7 +121,7 @@ def get_all_words(entries):
 
 
 def find_entry(identifier):
-    with open("raw-wiktextract-data.json") as file:
+    with open("raw-wiktextract-data.jsonl") as file:
         for line in tqdm(file):
             entry = json.loads(line)
             if "word" not in entry:
@@ -130,8 +135,13 @@ def find_entry(identifier):
 
 def get_pronunciations():
     entries = {}
-    with open("raw-wiktextract-data.json") as file:
-        for i, line in tqdm(enumerate(file)):
+    file_path = "raw-wiktextract-data.jsonl"
+    file_size = os.path.getsize(file_path)
+    with open(file_path) as file, tqdm(
+        total=file_size, unit="B", unit_scale=True, desc="Reading file"
+    ) as pbar:
+        for i, line in enumerate(file):
+            pbar.update(len(line.encode("utf-8")))
             # if i > 50000:
             #     break
             entry = json.loads(line)
@@ -144,7 +154,7 @@ def get_pronunciations():
             for sound in entry["sounds"]:
                 if "ipa" in sound:
                     entries[entry["lang_code"]].append([entry["word"], sound["ipa"]])
-    with open("pronnciations.json", "w") as file:
+    with open("pronuciations.json", "w") as file:
         json.dump(entries, file, ensure_ascii=False)
 
 
@@ -161,17 +171,74 @@ def normalize_ipa(s):
     return s.replace(".", "").replace("ˈ", "").replace("ˌ", "")
 
 
-# def correlate_latin_prons():
-latin_words = [word.strip() for word in open("wordlists/la").readlines()]
-eng_prons = json.load(open("pronuciations.json"))["en"]
-eng_pron_dict = defaultdict(list)
-for word, pron in tqdm(eng_prons):
-    if pron.startswith("/") and pron.endswith("/"):
-        eng_pron_dict[normalize_latin(word)].append(normalize_ipa(pron).strip("/"))
-output = defaultdict(list)
-for word in tqdm(latin_words):
-    nword = normalize_latin(word)
-    if nword in eng_pron_dict:
-        output[word].extend(eng_pron_dict[nword])
-with open("latin_eng_prons.json", "w") as file:
-    json.dump(output, file)
+def correlate_latin_prons():
+    latin_words = [word.strip() for word in open("wordlists/la").readlines()]
+    eng_prons = json.load(open("pronuciations.json"))["en"]
+    eng_pron_dict = defaultdict(list)
+    for word, pron in tqdm(eng_prons):
+        if pron.startswith("/") and pron.endswith("/"):
+            eng_pron_dict[normalize_latin(word)].append(normalize_ipa(pron).strip("/"))
+    output = defaultdict(list)
+    for word in tqdm(latin_words):
+        nword = normalize_latin(word)
+        if nword in eng_pron_dict:
+            output[word].extend(eng_pron_dict[nword])
+    with open("latin_eng_prons.json", "w") as file:
+        json.dump(output, file, ensure_ascii=False)
+
+
+def tag_string(tags):
+    return json.dumps(sorted(tags))
+
+def form_tags(sound):
+    return tag_string(sound.get("tags", []) + sound.get("raw_tags", []))
+
+
+def extract_chinese_data():
+    chinese_data = {}
+    file_path = "raw-wiktextract-data.jsonl"
+    file_size = os.path.getsize(file_path)
+    with open(file_path) as file, tqdm(
+        total=file_size, unit="B", unit_scale=True, desc="Reading file"
+    ) as pbar:
+        for i, line in enumerate(file):
+            pbar.update(len(line.encode("utf-8")))
+            # if i > 100000: break
+            entry = json.loads(line)
+            if (
+                "word" not in entry
+                or "lang_code" not in entry
+                or entry["lang_code"] != "zh"
+                or "sounds" not in entry
+            ):
+                continue
+            
+            for sound in entry["sounds"]:
+                tags = form_tags(sound)
+                if tags not in chinese_data:
+                    chinese_data[tags] = {}
+                if entry["word"] not in chinese_data[tags]:
+                    chinese_data[tags][entry["word"]] = []
+                if "ipa" in sound:
+                    chinese_data[tags][entry["word"]].append(sound["ipa"])
+                if "zh-pron" in sound:
+                    chinese_data[tags][entry["word"]].append(sound["zh-pron"])
+    with open("chinese_data.json", "w") as file:
+        json.dump(chinese_data, file, ensure_ascii=False)
+    return chinese_data
+
+registered_tags = {
+    tag_string(["Cantonese", "Jyutping"]): "JyutPing",
+    tag_string(["Mandarin", "Pinyin"]): "PinYin",
+    tag_string(["Hokkien", "Min-Nan", "POJ"]): "PehOeJi",
+    tag_string(["Middle-Chinese"]): "Baxter",
+    tag_string(["Northern", "Wu", "Wugniu"]): "WuGniu",
+    tag_string(["Baxter-Sagart", "Old-Chinese"]): "Baxter-Sagart",
+    tag_string(["Hagfa-Pinyim", "Hakka", "Miaoli", "Neipu", "Sixian"]): "HagfaPinyim",
+}
+
+def dump_chinese_data(chinese_data):
+    for tag, name in registered_tags.items():
+        with open(f"zh-pron/{name}.wiktionary.json", "w") as file:
+            json.dump(chinese_data[tag], file, ensure_ascii=False)
+

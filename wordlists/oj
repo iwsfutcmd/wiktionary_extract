@@ -4,6 +4,7 @@
 *waϴkitaᐧkonak
 *waϴkitepyeᐧk
 -N
+-a
 -aa
 -aabaawe
 -aabajit
@@ -92,7 +93,6 @@
 -gaabawi
 -gaad-
 -gaamo
--gaans
 -gam-
 -gamaa
 -gamigw
@@ -133,7 +133,6 @@
 -inig
 -ininim
 -inis-
--ins
 -ish
 -ishin
 -iskw-
@@ -141,7 +140,6 @@
 -iwaa
 -izi
 -izo
--jaan
 -jaan-
 -jaanzh
 -jii-
@@ -214,7 +212,6 @@
 -oonaawaa
 -oonaawaan
 -oonan
--oons
 -oos
 -oosh
 -oosiin
@@ -227,6 +224,7 @@
 -osh
 -owaad
 -pikwan
+-s
 -s-
 -sagw
 -sh
@@ -238,7 +236,6 @@
 -shkode-
 -shtigwaan
 -sid
--sii
 -siin
 -siinaawaa
 -sinog
@@ -246,9 +243,9 @@
 -taw
 -tawag
 -tawag-
--tigwaan
 -waa
 -waad
+-waatig
 -waayan
 -wag
 -wan
@@ -287,12 +284,15 @@ Algonquin language
 American
 American-English language
 Anglican Christian
+Aniibiishaabookewinini-gichi-aki
 Anishinaabe
+Anishinaabe-gichi-aki
 Anishinaabeg
 Anishinaabeg-gichigami
 Anishinaabemowin
-Any combination of anamaʼe
+Awooba
 Bagone-giizhig
+Bangii
 Baraga:
 Boodawaadamii
 Boodawaadamiig
@@ -308,9 +308,13 @@ English woman
 Enizaabet
 Episcopalian Christian
 February
+Gaamiisaagdooned-mishomis
 Gaanada
 Gakaabikaang
+Gichi-minis-gichi-aki
+Gichigami
 Gichiijiwan-ziibi
+Giizhigookwe
 God
 Great Britain
 Great Spirit
@@ -320,15 +324,18 @@ Ininaabeg
 Ininaabewitigo-ziibi
 Ininiwakiing
 Ininiwe
+Intia Gichigami
 Irish woman
 January
-Lac Courte Oreilles
 Lake Superior
+MNN
+Makadewiiyaas-gichi-aki
 Manidoobaa
-Manitoulin Island
 March
 Mek'sikoo
 Methodist Christian
+Mikwam-Giiwedin Gichigami
+Mikwam-zhaawanong-aki
 Minisenh
 Minisi
 Minisooding
@@ -345,16 +352,17 @@ NO
 Naadawemowin
 Naadawesiwag
 Naadowewi-gichigami
-Nishnaabe
-Nishnawbe
+Niibaanamaang Mtig
+Niibiwa-mitig-gichi-aki
+Ningaabii'an Gichigami
 Odaawaa
-Odaawaag
 Odawa language
 Odjick
 Ojibwe language
 Omishoomis
 Omishoomisag
 Onderi'oo
+Onigamiinsing
 Ontario
 Other Roman orthographies
 Other Roman orthographies* Algonquin
@@ -362,10 +370,7 @@ Other Syllabic forms
 Other Syllabic forms* Fully pointed mixed-finals
 Other forms
 Other syllabic forms
-Ottawa dialect of Anishinaabemowin
 Ottawa language
-Ottawa speech
-Ottawa woman
 Ozaagii
 Ozaagiig
 Potawatomi language
@@ -373,27 +378,30 @@ Protestant minister
 Protestantism
 SE
 SO
+Sanfwansisko
 Saulteaux language
 Scottish woman
 St. Croix River
-The Anishinaabe language
-The Ojibwe language
+Toowky
 Transformations
-Verb root for words that indicate rattling
 Virginian
+Waagosh
 Waawiyaataanong
 Wazhashkwadoong
 Wemitigoozhi
+Wemitigoozhiimowin-gichi-aki
+Wemitigoozhiimowin-gichi-aki'waabooz
 Wemitigoozhikwe
 Wemitigoozhikweg
 Wemitigoozhiwag
+Wendaabang Gichigami
 Wesleyan Christian
 White woman
-Wisconsin
 Wiskonsiwakiing
 Zhaaganaashiiwaki
 Zhigaagong
 Ziigwani-gakaabikaang
+[script needed] (agawaateshinong)
 a sailboat
 aa'aase NW
 aa'aasi NW
@@ -405,8 +413,10 @@ aabaabika'igan
 aabaji'
 aabajitoon
 aabaʼ
+aabda
 aabid-
 aabiding
+aabijiibaawin
 aabijijiwan
 aabita
 aabita-
@@ -418,12 +428,10 @@ aabitaa-biboon it is midwinter
 aabitaw-
 aabitawaabik
 aabitawaabikizi
-aabitawise
 aabitoose
 aaboodaashi
 aaboodaasin
 aadizokaan
-aaganaashiimowin ᐋᑲᓈᔒᒧᐎᓐ
 aagim
 aagimaak
 aagimaatig
@@ -471,6 +479,7 @@ aaniish
 aaniish epiichaag?
 aaniish naa
 aanikanootan
+aanikegamaa
 aanimaamowin
 aanimakamigiziwin
 aanind
@@ -488,16 +497,18 @@ aawadaasoowidaabaan
 aawan
 aawi
 aazhawaʼoodoon
+aazhawigwaashkwani-anang
 aazhay
 aazhideyaatig
 aazhooningwa'on
 ab-
+abaagamizan-miskwianimal awesiinh
+abaate aanji ani
 abanzh
 abi
+abikimigauh
 abinoojiinh
 abinoojiiyens
-abinoonjii
-abinoonjiinh
 abwaan
 abwe
 abwewinaabik
@@ -506,7 +517,9 @@ achigaade
 achigaazo
 achige
 adaawaage
+adaawe
 adaawen
+adaawewigamig
 adik
 adikamego-giizis
 adisigan
@@ -518,6 +531,7 @@ agaamindesiing
 agaamishkode
 agaas-
 agaasaa
+agaasaa-adaawaage
 agaasaabikad
 agaasaabikizi
 agaasadegamaa
@@ -527,10 +541,10 @@ agaasadeyaabikizi
 agaasadezi
 agaasashkiigaa
 agaashiinyi
+agaasi-
 agaawaa
 agaawaa go
 aganacimo
-agawaateshinong
 agid-
 agidaabik
 agidaajiwan
@@ -544,12 +558,13 @@ agidigamig
 agidiskwam
 agidoonag
 agig
-agij
 agijayi'ii
 agokadoon
 agokanangid
 agokazh
 agongos
+agongosimo
+agongosimowin
 agoojiganaabik
 agwaabikide
 agwaabikiz
@@ -573,6 +588,7 @@ akandoo
 akandoowaagan
 akandoowin
 aki
+aki-bimaadiziwin
 akii-mazinaʼigan
 akiikaa
 akiikaang
@@ -591,7 +607,6 @@ akina
 akina awiya
 akina gegoo
 akiwenzii
-ako
 ako-
 akw-
 akwaabikad
@@ -603,14 +618,15 @@ aky-
 amajise
 amanj apii
 amanj igo apii
+ambegish
 amik
 amo
-an aboriginal
 anaakan
 anaakanashk
 anaam-
 anaamaabik
 anaamayaʼii
+anaamayi'ii-aki
 anaamayiʼii
 anama'e-ogimaa
 anama'ewigamig
@@ -618,19 +634,17 @@ anamaʼe-
 anamaʼe-giizhig
 anamaʼe-giizhigad
 anamaʼe-giizhik
-aname
 anami'aawin
 anami'ewin
 anamikodaadin
 anamiʼe-giizhik
+anamiʼe-mazinaʼigan
 anamiʼegiizhigad
 anang
 anang-bangishin
 andawendan
 andawenim
 ani-
-anicinapemowin
-anihshinaapemowin
 aniib
 aniibiig
 aniibiish
@@ -649,12 +663,13 @@ animose
 animosh
 animoshigamig
 animoshimin
-animoshiwigamig
 animwewejiwan
 animwewetoo
 aninaatig
 anishinaabe
+anishinaabe-manoomin
 anishinaabeg
+anishinaabekaa
 anishinaabekwe
 anishinaabemo
 anishinaabemowin
@@ -677,6 +692,7 @@ apakwe
 apakweshkway
 apakweshkwayan
 apane
+apegish
 apii
 apiichi-
 apiitendaagozi
@@ -689,6 +705,7 @@ apikweshimon
 apishimon
 apishimoniigin
 asab
+asab-naadazina'igane
 asabike
 asabikeshi
 asabikeshiinh
@@ -719,12 +736,14 @@ ashi-niizhwaaswi
 ashi-nishwaaswi
 ashi-niswi
 ashi-zhaangaswi
+ashki-manoomin
 ashkikomaan
 ashwii
 asiginaak
 asin
 asinii-bwaan
 asinii-bwaanag
+asinii-bwaanimo
 askiibwaan
 at-
 ataasoowigamig
@@ -736,7 +755,6 @@ atoobaanan
 atoon
 atoowaad
 awakaan
-awedi
 awegonen
 awegonen gigaagiigidoo-makakoons?
 awegonen iʼiw
@@ -769,6 +787,7 @@ ayaaw
 ayaawaad
 ayaawag
 ayapikan
+ayashawens
 ayatoonan
 ayaʼaa
 ayaʼii
@@ -813,6 +832,7 @@ babaa-
 babaam-
 babaamaagimose
 babaamaagimoseyaan
+babaamaajimoo-mazinaʼigan
 babaamendam
 babaamendan
 babaamenim
@@ -837,14 +857,13 @@ bagesaan
 bagesaanaatig
 bagidanaamo
 bagidenim
-bagiwaan
-bagiwayaan
 bagiwayaanish
 bagiwayaanishan
 bagiwayaanishens
 bagiwayaanishing
 bagizo
 bagizowin
+bagwaji-waabooz
 bajiba'ashkiiga'am
 bajiishka'ogaan
 bajiishkaabikad
@@ -862,6 +881,7 @@ bakite’odiwag
 bakwanagemag
 bakwezhan
 bakwezhigan
+bami'aagaans
 banajaanh
 bangii
 bangii-gimiwan
@@ -896,6 +916,7 @@ bebookwedaagim-giizis
 bedwewejiwan
 bejijiwan
 bekaa
+bemaadizid gaawin-ganawendan aakoziwin
 bemisemagak
 bengwashkiigaa
 besh naa geget
@@ -904,7 +925,6 @@ bezhig
 bezhigo-giizhigad
 bezhigo-giizhigan
 bezhigobii'igan
-bezhigooganzhii
 bezhigw-
 bezhigwaabik
 bi-
@@ -965,7 +985,6 @@ biinjijiwan
 biisi-
 biisi-manoomin
 biisiga'an
-biiw-
 biiwaabik
 biiwaabik-wiiwakwaan
 biiwaabik-wiiwakwaan aakoziwin
@@ -1041,7 +1060,6 @@ bwaan
 bwaanag
 bwaanimowin
 calendar
-ch=
 chi-
 chi-bikwaakwad biinjwebinigem
 chi-manidoo-giizis
@@ -1055,7 +1073,6 @@ da
 da-
 da-gimiwan ina
 da-gimiwan ina?
-daS-
 daa
 daa-
 daangigwanenan
@@ -1175,13 +1192,17 @@ dewe'iganike
 diba'igaans
 diba'igan
 diba'igiiziswaan
+dibaabam-waabooz indoodem
 dibaadodamaw
 dibaadodamawid
 dibaadodan
 dibaadojigaade
 dibaadojigaazo
 dibaajim
+dibaajimo-mazinaʼigan
 dibaajimotaw
+dibaajimowin
+dibaajimowin-waakaa'igan
 dibaakonige
 dibaakonigewin
 dibaakonigewinini
@@ -1247,7 +1268,6 @@ ezhinikaazoyan
 ezigaa
 g-
 ga-
-gaa mashi
 gaa wiikaa
 gaa-
 gaag
@@ -1295,7 +1315,6 @@ gaawiin gegoo
 gaawiin geyaabi
 gaawiin gigii-noondoosiinoon
 gaawiin ingodinoo
-gaawiin ingoji
 gaawiin mashi
 gaawiin memwech
 gaawiin nindanishinaabemosii
@@ -1307,14 +1326,13 @@ gaawiin ninisidotanzii
 gaawiin ninzhaaganaashiimosii
 gaawiin niwiidigesii
 gaawiin wiikaa
+gaawin'ozowaa-wajiw-waabooz
 gaazhagens
 gabe-
 gabeshi
 gabeshiwin
-gada-
 gagaanwegadinig
 gagaanwegadoon
-gagichi=
 gagoshkozi
 gagwedaganaanding
 gagwejiwaaniding
@@ -1372,17 +1390,14 @@ gayaashkwaabik
 gayat
 gaye
 gchi-bgwaji-gookoosh
-gchi=
 ge
+ge niinawind
 ge-
 ge-niin
 gechi-makadewikonayed
-gechi=
 gegaa
 gegapii
 geget niminwendaan nagishkoonaan
-gegich=
-gegichi=
 gego
 gego babaamendangen?
 gego bina
@@ -1396,10 +1411,10 @@ gegoon
 gekek
 gekinoo'amaaged
 gekinooʼamaaged
+geniinawind
 genwaakwak apabiwin
 gete-
 geyaabi
-ggich=
 gi-
 gibaabaa
 gibaabika'an
@@ -1417,6 +1432,7 @@ gibi-izhaa na moozhag?
 giboziganaabik
 gichi-
 gichi- ogimaa
+gichi-aki
 gichi-aniibiish
 gichi-aya'aa
 gichi-biboon-giizis
@@ -1434,9 +1450,13 @@ gichi-miigwech
 gichi-miikana
 gichi-mitigwaabaagomin
 gichi-mookomaan
-gichi-mookomaan na
 gichi-mookomaan-aki
+gichi-mookomaan-akiing
+gichi-mookomaanimo
+gichi-mookomaanimowin
+gichi-niiwana'
 gichi-noodin
+gichi-odaabaanag
 gichi-oodena
 gichi-ziibi
 gichigami
@@ -1485,7 +1505,6 @@ giin
 giinawaa
 giinawind
 giineta
-giineta go
 giinetawaa
 giinetawind
 giinitam
@@ -1517,13 +1536,11 @@ giiwoon
 giiwose
 giiwosewasim
 giiyoon
-giiyose
 giiyosewinini
 giizh-
 giizhaa
 giizhig
 giizhigad
-giizhigan
 giizhigi-nibaa vai
 giizhigo-anang
 giizhigong
@@ -1532,8 +1549,8 @@ giizhik
 giizhikaandag
 giizis
 giizisong
+giizisoo-mazinaʼigan
 gijaanzh
-giji-
 gijigijigaaneshiinh
 gijigijigaaneshiiyag
 gijikonayezigan
@@ -1543,6 +1560,7 @@ gik-
 gikaa
 gikaad
 gikan
+gikendamowin-mazina'igan
 gikendan
 gikendang
 gikenim
@@ -1666,7 +1684,6 @@ goonikaang
 gooning
 goshi
 goshkozi
-goshkoziwaaboo
 gosidiwag
 gotan
 gozigwaakomin
@@ -1683,13 +1700,11 @@ gwiinawenim
 gwiingwa'aage
 gwiingwaʼaage
 gwiiwizens
-head
 iN-
 idan
 idash
 igaye
 igo
-igwa
 iidog
 iindog
 ikido
@@ -1748,7 +1763,6 @@ ingigishkaajige
 ingikendaan
 ingiw
 ingiwedig
-ingo-
 ingo-diba'igane
 ingo-diba'iganed
 ingo-diba'iganeg
@@ -1757,7 +1771,6 @@ ingoding
 ingodonik
 ingodosagoons
 ingodwaak
-ingodwaak ashi-bezhig
 ingodwaaso-diba'igane
 ingodwaasosagoons
 ingodwaaswaabik
@@ -1789,6 +1802,7 @@ inizhige
 injaanzh
 injiingwan
 inwewin
+inwewinan
 inzhishenh
 inzhishenyag
 inzid
@@ -1798,6 +1812,7 @@ ishkode
 ishkode-jiimaan
 ishkodens
 ishkodewidaabaan
+ishkonigan
 ishkw-
 ishkwaa-
 ishkwaa-anamaʼe-giizhigad
@@ -1837,7 +1852,6 @@ iskigamizigewigamig
 iskigamizo
 it is late summer
 it is midsummer
-iwedi
 iwidi
 iyoo
 izhaa
@@ -1852,6 +1866,7 @@ izhijiwan
 izhinikaade
 izhinikaazo
 izhinikaazowin
+izhishimo
 izhiwebad
 izhiwebizi
 iʼiw
@@ -1877,7 +1892,8 @@ jiishaakwa'iganaabik
 jiiskinikebizon
 joka
 kipitchin
-ko
+kiwomitew
+kiwomitow
 kogaan omaa
 kosmaan
 lap
@@ -1918,7 +1934,6 @@ maanishtaanish
 maaniwang
 maanoo
 maanoon
-maanwang
 maashkinoozhe
 maazhamegoons
 maazhi-
@@ -1928,9 +1943,12 @@ maazhise
 maazimeg
 madaabiijiwan
 madoodiswan
+madoodoo
+madoodoowinini
 madwe'
 madwe'ige
 madwejiwan
+madwesidoon
 madwewechigan
 madweyaabikise
 madweyaabikishin
@@ -1941,10 +1959,13 @@ majigoodenh
 majiikiwis
 majiikwe
 majimiskwi-aakoziwin
+makade
 makade-
 makade-mashkikiwaaboo
 makade-miigwan
 makade-miigwanag
+makade-waanikaan
+makadew-
 makadewaa
 makadewaabikad
 makadewaabikizi
@@ -1999,13 +2020,17 @@ manidoowi
 manise
 manisewaad
 manoomin
+manoominaaboo
 manoominaatig
+manoominikaan
+manoominike
 manoominike-giizis
-map
+manoominikewin
 mashi
 mashkawaa
 mashkawaagwanewadin
 mashkawaji
+mashkawajininjiiwaji-waabishki
 mashkawizi
 mashkawizii
 mashkawiziiwin
@@ -2018,8 +2043,6 @@ mashkikii-adaawewigamig
 mashkikiins
 mashkikiiwinini
 mashkikiwaaboo
-mashkikiwaabookaw
-mashkikiwaabooke
 mashkimod
 mashkode
 mashkodebizhiki
@@ -2040,9 +2063,16 @@ mazina'igan
 mazinaabikinigan
 mazinaabikiwebinan
 mazinaabikiwebinigan
+mazinaabikiwebinigan-agaasaa'makak
+mazinaabikiwebinigan-mazina'igan
+mazinaakiz
+mazinaakizan
 mazinaakizigan
 mazinaatesijigan
 mazinaʼigan
+mazinaʼigani-makak
+mazinaʼigani-zhooniyaa
+mazinaʼiganiiwigamig
 mazinibaganjigan
 mazinibaganjige
 mazinibii'igewinini
@@ -2079,9 +2109,12 @@ midaasonik
 midaasosagoons
 midaasw-
 midaaswaabik
+midaaswaak
 midaaswaak ashi-bezhig
 midaaswaak ashi-ingodwaak
+midaaswaak daso midaawaak
 midaaswaak daso-midaawaak
+midaaswak'niswi-nidiz
 midaaswi
 mide
 midechininj
@@ -2142,6 +2175,7 @@ miishiijiimin
 miishijiimin
 miizh
 miizhimizh
+miizii
 miiziiwigamig
 miiziiwigamigoons
 miiziiwinaagan
@@ -2193,6 +2227,7 @@ misawendan
 mishi
 mishi-
 mishibizhii
+mishiikenh
 mishiimin
 mishiiminaaboo
 misi-ziibi
@@ -2214,6 +2249,7 @@ miskwaabikizan
 miskwaabikizi
 miskwaabikizo
 miskwaaboo
+miskwaadesi
 miskwadowe
 miskwi
 miskwimin
@@ -2235,7 +2271,6 @@ mitigwaaki
 mitigwaakiin
 mitigwakik
 mitigwanwi
-miyʼiingan
 mizise
 miziwe-
 miziweyaabikizi
@@ -2298,6 +2333,7 @@ naazikaw
 naazikawaad
 nabagaabikad
 nabagaabikizi
+nabagidaabaan
 nabagisag
 nabagisago-jiimaan
 nagadan
@@ -2311,15 +2347,17 @@ namadabin
 namadabi’
 namanjinik
 namanjinikan
+name
 namebin
 namebini-giizis
 namegos
 namegoshens
+namegosikaa
+namekaa
 nanaa'idaabaanewinini
 nanaaʼidaabaanewinini
 nandaw-
 nandawaabam
-nandawendan
 nandawenjige
 nandom
 nandone’
@@ -2328,7 +2366,6 @@ nandoogabeshiyang
 nandotan
 naningodinong
 nanisaabaawe
-native language
 nawadam
 nawaj ina weweni gidaa-giigid?
 nawbin
@@ -2343,12 +2380,10 @@ neniibowa
 nesaabaawed
 nesaabaaweg
 newe
-newspaper
 neyaab
 neyaabikaa
 neyaashi
 neyaashiing
-ni
 ni-
 nibaa
 nibaagan
@@ -2358,6 +2393,7 @@ nibe' vta
 nibekaazo vai
 nibewin ni
 nibi
+nibi'zhimaaganish
 nibiins
 nibiinsing
 nibiiwaabikaa
@@ -2377,6 +2413,7 @@ nigiigwaabikaji
 nii'inaa-naadawe
 nii'naanaadawemowin
 nii-
+niibaa-anama'e-giizhigad
 niibaa-anamaʼe-giizhigad
 niibaanamom
 niibawi
@@ -2389,9 +2426,8 @@ niibin
 niibinaakwaanininj
 niibinong
 niibiwa
+niibiwa-bakise adaawewigamig
 niibowa
-niij
-niiji
 niijii
 niijikiwenh
 niikaan
@@ -2426,6 +2462,7 @@ niishtanashi-bezhig
 niisijiwan
 niiwaabik
 niiwaak
+niiwana'
 niiwin
 niiwo-diba'igane
 niiwosagoons
@@ -2437,7 +2474,6 @@ niizho-diba'igane
 niizhogiizhigad
 niizhwaabik
 niizhwaasimidana
-niizhwaaso
 niizhwaaso-diba'igane
 niizhwaasosagoons
 niizhwaaswaabik
@@ -2465,7 +2501,6 @@ nimino-ayaa go, miigwech
 niminwendam
 nimisad
 nimisenh
-nimishoome
 nimishoomenh
 nimishoomis
 nimiskam
@@ -2513,7 +2548,6 @@ ningod-
 ningodeshkani
 ningoding
 ningodw-
-ningodwaak ashi bezhig
 ningodwaak daso-midaaswaak
 ningodwaasimidana
 ningodwaaswaabik
@@ -2572,12 +2606,13 @@ niswaabik
 niswaak
 niswaakodaabaan
 niswi
+niswi-nidiz
 nitaagewin
 nitaawigiʼ
 nitam-
 nitam-anokii-giizhigad
-nitam-anokii-giizhigan
 nitawag
+nitii
 niwanishin
 niwii-
 niwii-gikendam
@@ -2620,6 +2655,7 @@ noondawangidwaa
 noonde-
 noongom
 nooni
+noos
 noozhe-
 noozhe-bizhiki
 noozhe-mooz (of moose)
@@ -2649,6 +2685,12 @@ odaabajitoonan
 odaabii'iwe-mazina'igaans
 odaake-ogimaa
 odaawaa
+odaawaa-minis
+odaawaa-zaaga'igan
+odaawaag
+odaawaakwe
+odaawaamo
+odaawaamowin
 odakiimi
 odaminwaagan
 odanwiimi vai
@@ -2673,7 +2715,6 @@ odoodenawi
 odookosidoonaawaan
 odoon
 odoozhibii’aan
-ogid
 ogidaabik
 ogidaagonag
 ogidaandag
@@ -2694,6 +2735,7 @@ ojibwaakide
 ojibwaakizo
 ojibwe
 ojibweg
+ojibwemo
 ojibwemowin
 ojichaag
 ojiibik
@@ -2721,6 +2763,7 @@ omaa
 omaamaayan
 omakakii
 omakakiiwi-giizis
+omakakiiwinini
 omakakomi
 omanoominii
 omanoominiimowin
@@ -2730,6 +2773,8 @@ omashkooz
 omazinibiiʼaan
 ombigamizan
 omiimii
+omiimiig
+omiimiins
 omisad
 omishoomisan
 omooday
@@ -2755,10 +2800,13 @@ onda'ibaan
 ondaaban
 ondamenim
 onde
+ondoode
 one of Great Lakes
 ongow
 ongowedig
+onigam
 onik
+onin
 oningwiigan
 onji-
 onjigaa
@@ -2768,7 +2816,6 @@ onjigaawan
 onjijiwan
 onoshenyan
 onow
-onowedi
 onowedin
 onzan
 oo
@@ -2783,7 +2830,6 @@ opichi
 opikwan
 opin
 opwaagan
-or anamiʼe + giizhig
 oshkanzhiin
 oshki-
 oshki-bibooni-giizis
@@ -2799,9 +2845,7 @@ oshtigwaan
 otawag
 other
 ow-
-owedi
 owii-
-owiinge
 owiinisiibag
 owiiwan
 oy-
@@ -2825,6 +2869,9 @@ ozhaawashkwaa
 ozhaawashkwaabikad
 ozhaawashkwaabikizi
 ozhibaganjigan
+ozhibii'an-bebezhig
+ozhibii'an-gashkigwaason
+ozhibii'an-ginwaa
 ozhibii'ige
 ozhibiiʼ
 ozhibii’amaw
@@ -2863,10 +2910,6 @@ pi-
 pikan
 pin
 pipon
-pokotcic
-pookicish
-post office
-prayer book
 rump
 sa
 saber
@@ -2877,12 +2920,6 @@ something animate
 speak American-English
 speak Canadian-English
 speak English
-speak the Algonquin language
-speak the Odawa language
-speak the Ojibwe language
-speak the Potawatomi language
-speak the Saulteaux language
-speak the common language
 speak to SB in English
 stomach
 sīgwan
@@ -2896,6 +2933,7 @@ waab-
 waabaabiinh
 waabam
 waabam (vta)
+waabam-jibwaa
 waabamaad
 waaban
 waaban-anang
@@ -2911,6 +2949,7 @@ waabano
 waabanong
 waabanoomin
 waabashkiki
+waabi-manoomin
 waabigan
 waabigonii-giizis
 waabigwan
@@ -2924,7 +2963,6 @@ waabishkiiwe
 waabishkizi
 waabizheshi
 waabizheshiwag
-waaboo
 waabooyaan
 waabooyaanan
 waabooz
@@ -2957,6 +2995,7 @@ waasamoobimide-zhooshkodaabaan
 waasamoobimide-zhooshkodaabaanan
 waasamoowidaabaan
 waasamowin
+waasamowin-mamaangaashkaa
 waasaw-
 waasechigan
 waasechiganaabik
@@ -3003,7 +3042,6 @@ waazh
 wadab
 wadikwan
 wadoop
-wagid
 wajiw
 wanaabikin
 wanaabikinan
@@ -3062,6 +3100,7 @@ wiigwaasabakwayan
 wiigwaasi-jiimaan
 wiigwaasi-makak
 wiigwaasigamig
+wiiji-bimaadiziimagad
 wiiji-odaminoom
 wiijiiw
 wiijiiwaagan
@@ -3086,9 +3125,7 @@ wiindewan
 wiindigoo
 wiindigoo-bineshiinh
 wiineta
-wiineta go
 wiinetawaa
-wiinetawaa go
 wiinibiigoo
 wiinin
 wiinino
@@ -3104,6 +3141,8 @@ wiisagi-ma'iingan
 wiisagimanoomin
 wiish
 wiishkobi-
+wiishkobi-gitifaanens
+wiishkobi-gitigaanens
 wiishkobi-mitigomizh
 wiisini
 wiisiniiwigamig
@@ -3127,6 +3166,7 @@ zaagewebide
 zaagewebizo
 zaagewebizowaad
 zaagi'
+zaagi' aakoziwin
 zaagi'idiwin
 zaagi'iwe-mazina'igan
 zaagibagaa-giizis
@@ -3147,6 +3187,7 @@ zasaanh
 zayaaziigwan
 zeg-
 zegingwashi
+zenibaanh-aakoziwin
 zesegaandag
 zhaabobiiginan
 zhaabojiwan
@@ -3173,6 +3214,7 @@ zhaawan
 zhaawan-anang
 zhaawani-noodin
 zhaawanong
+zhagashkaandawe
 zhawendaagozi
 zhawimin
 zhebaa
@@ -3201,7 +3243,10 @@ zhingobaandagoons
 zhingobaandagw-
 zhingobiikaa
 zhingobiiwaatig
+zhingwaak
 zhingwaako-mishiimin
+zhingwaakokaa
+zhizhoobii'iganaatig-inendaagozi
 zhooda
 zhooniyaa
 zhooniyaa-wataageng
@@ -3283,16 +3328,9 @@ zoongaabikizi
 zoongide'e
 žingwāk
 ᐁᐦᓯᐸᓐ
-ᐁᐦᔭᓂᐦᔑᓈᐯᒧᐎᓐ
-ᐁᓂᐦᔑᓈᐯᒧᐎᓐ
-ᐅᑎᔥᒀᑲᒦᒧᐎᓐ
-ᐅᑖᐙᒧᐎᓐ: the Odawa
-ᐅᒋᐺᒧᐎᓐ
 ᐊᐦᐱᐦᑲᓐ
-ᐊᐦᔭᔑᓈᐯᒧᐎᓐ
 ᐊᐱᑲᓐ
 ᐊᑭ
-ᐊᓂᐦᔑᓈᐯᒧᐎᓇ(nishnaabemwin)
 ᐊᓂᐦᔑᓈᐯᒧᐎᓐ
 ᐊᓂᐱᐦᐡ
 ᐊᓂᐱᐦᔑᐸᐟ
@@ -3301,16 +3339,10 @@ zoongide'e
 ᐊᓂᒧᔕᒃ
 ᐊᓂᒧᔥ
 ᐊᓂᓈᑎᒃ aninaatig
-ᐊᓂᔑᓇᐯᒧᐎᓐ
 ᐊᓂᔑᓈᐯ
 ᐊᓂᔑᓈᐯᒃ
 ᐊᓂᔑᓈᐯᒧᐎᓐ
 ᐊᔑᑌᑯᔐᓯ
-ᐋᑲᓀᐦᔖ
-ᐋᑲᓀᐦᔖᒧ
-ᐋᑲᓈᐦᔑᐝ
-ᐋᑲᓈᐦᔑᐝᐃᒧ
-ᐋᑲᓈᐦᔥ
 ᐋᒨ
 ᐋᒨᒃ
 ᐎᓐ
@@ -3321,7 +3353,6 @@ zoongide'e
 ᐯᐯᔑᑰᑲᓐᔒ
 ᐲᓯᒪᓅᒥᓐ
 ᐳᑭᒋᔥ
-ᐴᑌᐙᑕᒦᒧᐎᓐ
 ᐴᑭᒋᔥ
 ᐸᐹᒥᐊᔮᐎᒪᓯᓇᐦᐃᑲᓇᓐ
 ᐹᐴᑭᒋᔥ
@@ -3355,7 +3386,6 @@ zoongide'e
 ᓃᓐ
 ᓇᐦᑲᐌ
 ᓇᐦᑲᐌᒧᐎᓐ
-ᓵᑲᓈᐦᔥ
 ᔑᔑ
 ᔑᔑᐯᔅ
 ᔑᔑᐱᔅ

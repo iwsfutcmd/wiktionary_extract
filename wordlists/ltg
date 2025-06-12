@@ -1,11 +1,17 @@
 (bike) braukt
 (paint-) tepeklis
 -ams
+-eiba
+-eigs
 -eite
 -eits
 -ejais
 -eņa
 -eņš
+-nīks
+-tne
+-ums
+-āns
 A
 Albaneja
 Aleksandra
@@ -20,6 +26,7 @@ Daugpiļs
 Dīvs
 E
 Eireja
+Eiropys Savīneiba
 F
 G
 Grekeja
@@ -32,6 +39,8 @@ Irans
 J
 Japoneja
 Jezus
+Jākubmīsts
+Jākubpiļs
 K
 Keneja
 Kopenhaga
@@ -45,6 +54,7 @@ Leldīne
 Londons
 Lītova
 M
+Mažeiki
 Meksika
 Monaks
 Moskova
@@ -62,6 +72,7 @@ S
 Suomeja
 T
 Template:list:Latin script letters
+Teļši
 U
 V
 Vengreja
@@ -113,6 +124,7 @@ atsarast
 atspera
 atvaigs
 atvari
+atzeit
 atīt
 audaklys
 audzieknis
@@ -137,10 +149,15 @@ babeņa
 babrys
 babrīne
 badeit
+bagažnīks
 baile
+baileigs
 baime
 baisūņs
 baraviks
+bazneica
+bazneickungs
+bazneickuņdzeņš
 beigys
 beseni
 beseņš
@@ -192,6 +209,8 @@ bučīņs
 buļbe
 byuds
 byut
+byuteigs
+byutyskys
 bārns
 bārnubārns
 bārzs
@@ -246,6 +265,7 @@ cīnejams
 cīns
 cīst
 cītdiskys
+cīts
 cīši
 d
 da
@@ -285,6 +305,7 @@ diveji
 divejis
 divi
 divpadsmit
+docātuojs
 dodzs
 dorbs
 draudzeņš
@@ -467,6 +488,7 @@ guļdzs
 guņs
 guņsgrāks
 gīdrs
+gūdojams
 gūds
 gūvs
 h
@@ -490,15 +512,19 @@ iudrys
 iuzys
 izacs
 izalaist
+izaļcis
 izdzierst
 izdūt
 izgluobt
 izgubeit
 iznycynuot
+izplateiba
+izplateit
 izpuordavums
 izpuordūšona
 j
 jam
+jauceit
 jaukt
 jauna
 jauneigs
@@ -525,6 +551,8 @@ jutūne
 jāga
 jārs
 jī
+jūceigs
+jūkains
 jūsta
 k
 ka
@@ -561,11 +589,14 @@ kas naviņ
 kas tu? kas tu esi? kas esi?
 kast
 kauls
+kauneigs
 kauns
 kauseit
 kauss
 kausteit
 kaut
+kautreigs
+kautrys
 kazyn kai
 kazyn kas
 kazyn kur
@@ -604,8 +635,10 @@ kod
 kokejs
 koklys
 koldons
+kolega
 koleņ
 kolns
+kolps
 komuot
 komuļs
 kopejs
@@ -700,7 +733,6 @@ laksteigola
 laksteit
 lapsine
 lase
-lases
 lasis
 latgalīts
 latgaļs
@@ -708,6 +740,7 @@ laubt
 laupeit
 laydinuot
 leigačys
+leigons
 leins
 leits
 lels
@@ -728,7 +761,8 @@ lobuot
 lomuot
 lopa
 lopsa
-ltg.
+lopā
+ltg
 luocs
 luodēt
 luoseica
@@ -770,6 +804,7 @@ medeit
 medeņš
 mednīks
 meiksts
+meileigs
 meils
 meita
 meiteņa
@@ -822,6 +857,8 @@ mylyns
 myrūņs
 myusa
 myusu
+māma
+māmeņa
 māms
 mārga
 mārs
@@ -906,6 +943,7 @@ oknys
 ola
 olguot
 olka
+olkons
 olkonums
 olpa
 ols
@@ -957,6 +995,7 @@ pazīds
 pazīduot
 paškiert
 paūsšona
+pedagogs
 peile
 peiss
 peit
@@ -970,17 +1009,23 @@ pierkt
 piersta lūcaveica
 piersts
 pierts
+pieteit
+pietnīceiba
+pietnīks
 pieški
 pieškys
 pipss
 piļdeit
 piļs
+piļsuoņs
+piļsūņs
 plauki
 plauksts
 pleist
 pleist kūpā
 pleisums
 plots
+pluons
 pluonumi
 plyks
 plykspuorņs
@@ -991,10 +1036,14 @@ pokluotive
 pokys
 polardzīsna
 poli
+policists
 poss
+pots
 povuorška
 praseit
 pret
+prezidents
+prezideņte
 prizs
 profesore
 profesors
@@ -1008,6 +1057,9 @@ prīca
 prīceiba
 prīceigs
 prīds
+prīkš-
+prīkšvuords
+prīškvuords
 puika
 puiseits
 puiss
@@ -1142,6 +1194,8 @@ sakne
 saknis
 saksteit
 salaist
+salauzeit
+salauzt
 saldats
 salīkt
 saniešona
@@ -1165,10 +1219,13 @@ saša
 saškiert
 segt
 seilys
+seits
 seivs
 seklys
 senejais
 senejs
+senotne
+sens
 septeita
 septeits
 septeni
@@ -1222,12 +1279,14 @@ slapnis
 slapynuotīs
 slapīņs
 slave
+slavons
 sleideigs
 sleidēt
 sleikt
 slikts
 slikši
 slikšuok
+sluobons
 sluobs
 slykts
 slīksnis
@@ -1240,6 +1299,7 @@ smiļkts
 smolks
 smolkuok
 smuords
+smīkleigs
 smīklys
 snaps
 snigt
@@ -1251,20 +1311,26 @@ snīga pyks
 snīgs
 sola
 soldons
+solna
 soltons
 solts
+soltums
+solums
 solys
 sons
 sorgs
 sorguot
 sorkona
 sorkons
+sorma
 sovaids
 sovaiži
+sovdobeigs
 sovejais
 sovins
 sovs
 sovums
+sovvaids
 spaits
 spaņs
 spierksts
@@ -1332,9 +1398,11 @@ suņs
 svaideit
 svaiņe
 svaiņs
+svareigs
 sveita
 sveļpe
 sveņtēt
+svors
 svuorks
 svuorpstuot
 svuoteņš
@@ -1394,6 +1462,7 @@ tei
 teiklys
 teirserdeigs
 teirums
+teišs
 tekme
 teļš
 ticēt
@@ -1448,6 +1517,8 @@ tuorps
 tuos
 tuoss
 tupēt
+turpynuojums
+turpynuot
 turēt
 tutyns
 tveiksme
@@ -1483,6 +1554,7 @@ uoda
 uops
 uordeit
 uors
+uorsts
 uorā
 uozeits
 uozs
@@ -1525,6 +1597,7 @@ valns
 varbyut
 vardive
 vare
+varons
 vars
 vasars
 vaļde
@@ -1557,6 +1630,7 @@ viersejuo greida
 vierss
 viersyune
 vierve
+viesture
 viezs
 vieļuok
 virt
@@ -1580,6 +1654,8 @@ volūda
 vonogs
 voskons
 vosora
+vuiceiba
+vuiceit
 vuordineica
 vuords
 vuoreigs
@@ -1628,6 +1704,7 @@ zaļkts
 zaļš
 zeile
 zeimeiba
+zeimeigs
 zeimuot
 zeimēt
 zeme
@@ -1698,6 +1775,7 @@ zūbyns
 īsalaist
 īsasprīdīņs
 īsisšona
+īskots
 īt
 ītaļa
 īticēt
@@ -1723,6 +1801,7 @@ zūbyns
 Ō
 ō
 Š
+Šauli
 Švedeja
 š
 šaurs
@@ -1739,6 +1818,10 @@ zūbyns
 škiersts
 škierzlots
 škiut
+škola
+školuotuoja
+školuotuojs
+školāns
 škruba
 škynda
 škāla
@@ -1770,6 +1853,7 @@ zūbyns
 ūsta
 ūtris
 ūtrs
+ūtrys
 ūzuls
 ūļs
 ūža

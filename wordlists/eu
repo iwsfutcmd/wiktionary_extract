@@ -1,5 +1,4 @@
 & ikurra
-*edun is used instead. 3. *edun is also used synonymously.
 *edun1
 -a
 -ada
@@ -9,12 +8,15 @@
 -ar
 -arazi
 -ari
+-arka
+-arkia
 -arte
 -ba
 -da
 -dar
 -degi
 -di
+-dromo
 -du
 -dun
 -dura
@@ -22,12 +24,8 @@
 -ek
 -eki
 -ekin
--eko
 -ela
--elako
--elarik
 -en
--enik
 -era
 -eria
 -ero
@@ -35,26 +33,41 @@
 -ez
 -ezia
 -ezin
+-fikatu
+-fikazio
+-fobia
 -gabe
--gabea
 -garren
+-garri
 -gile
 -gin
 -gintza
 -go
+-grafia
+-grafiko
+-ibo
+-ifikatu
+-ifikazio
 -ik
+-ismo
+-itate
+-izatu
+-izazio
 -k
 -ka
 -kada
 -kara
 -kari
 -keria
+-keta
 -ki
 -kile
 -kin
 -ko
 -koi
 -kor
+-kratiko
+-krazia
 -kume
 -kun
 -kunde
@@ -64,16 +77,20 @@
 -larik
 -le
 -liar
+-logia
+-logiko
 -men
+-morfismo
 -n
+-nauta
 -nean
 -nez
 -nik
+-nomia
 -ok
 -ondo
 -orde
 -ra
--rekin
 -rik
 -skopio
 -ta
@@ -81,24 +98,29 @@
 -tasun
 -tegi
 -ti
--tiar
 -to
 -tsu
 -tu
 -txi
 -txo
--txu
 -tza
 -tzaile
 -tzain
 -tzar
+-xka
 -z
 -zain
 -zale
 -zar
+-zentriko
+-zentrismo
+-zida
+-zidio
+-zio
+-zki
 ... dut izena
 ... urte ditut
-1. Hypothetical citation form lacking non-finite forms
+1960-ak
 A
 AEB
 AGHA
@@ -162,7 +184,10 @@ Agoitz
 Agur erregina
 Agurne
 Agurtzane
+Aharia
+Aimar
 Ainara
+Aingeru
 Ainhoa
 Ainhoak
 Ainhoako
@@ -190,8 +215,12 @@ Aintzane
 Aintzira Gazi Handia
 Aintzira Handiak
 Aitor
+Aitziber
 Aitzinindoeuropera
+Aitzol
 Akeronte
+Aketx
+Aketza
 Akil
 Akitania
 Akkra
@@ -209,11 +238,14 @@ Alemania Errepublika Federala
 Alemaniar Inperioa
 Alepo
 Alesander
+Alexandria
 Aljeria
 Aljeriako Herri Errepublika Demokratikoa
 Alsazia
+Alsazia-Lorena
 Altsasu
 Altzaga
+Altzairuzko oihala
 Ama Birjina
 Amaia
 Amalur
@@ -244,6 +276,7 @@ Anderri
 Anderrik
 Andertzat
 Andoain
+Andoni
 Andorra
 Andorra la Vella
 Andorran
@@ -260,14 +293,17 @@ Antigua
 Antigua eta Barbuda
 Antiguan
 Antikristo
+Anton
 Antsoain
 Antton
 Anttonek
 Anttonen
 Anttoni
 Antxieta
+Antxon
 Aostako Harana
 Apokalipsi
+Apolo
 Apostoluen Eginak
 Araba
 Araba txilar
@@ -278,6 +314,7 @@ Arabiar Udaberria
 Arafura itsasoa
 Aragoi
 Aral itsasoa
+Arantxa
 Arantzazu
 Arbona
 Arellano
@@ -285,14 +322,18 @@ Argentina
 Argentinako Errepublika
 Argonautak
 Aristotele
+Arkaitz
 Arkansas
 Armenia
 Armeniako Errepublika
+Armorika
+Arnaut
 Aroztegi
 Arrangoitze
 Arrasate
 Arrieta
 Arrigorriaga
+Art Déco
 Artizar
 Artizarra
 Artur erregea
@@ -332,6 +373,7 @@ Austriatzat
 Austriaz
 Avogadroren konstantea
 Avogadroren zenbakia
+Azerbaidjan
 Azerbaijan
 Azerbaijanen
 Azerbaijango Errepublika
@@ -351,12 +393,16 @@ Bab el-Mandeb
 Babelgo dorrea
 Badajoz
 Baffin badia
+Bahrain
 Baikal
 Baiona
 Baku
 Balear Uharteak
+Balkanak
 Balmaseda
 Baltiar Itsasoa
+Bangladesh
+Barakaldo
 Barbuda
 Barbudan
 Barbudaz
@@ -372,14 +418,40 @@ Basilea
 Basse-Terre
 Basusarri
 Batasuna
+Bautzen
 Beasain
 Beaufort eskala
+Behe Paleolitiko
 Belgika
 Belgikako Erresuma
 Beltzebu
 Benelux
+Bengala
 Bengalako golkoa
 Bengazi
+Bentaberri
+Bentaberrik
+Bentaberriko
+Bentaberrin
+Bentaberrira
+Bentaberriraino
+Bentaberrirako
+Bentaberrirantz
+Bentaberrirekin
+Bentaberriren
+Bentaberrirengan
+Bentaberrirengana
+Bentaberrirenganaino
+Bentaberrirenganako
+Bentaberrirenganantz
+Bentaberrirengandik
+Bentaberrirengatik
+Bentaberrirentzat
+Bentaberriri
+Bentaberririk
+Bentaberritik
+Bentaberritzat
+Bentaberriz
 Berano
 Berastegi
 Bergara
@@ -388,18 +460,22 @@ Bering itsasoa
 Berlin
 Berlingo harresia
 Berna
+Bernart
 Bernedo
 Berroia
 Betelgeuse
 Betleem
 Betleemgo izar
 Beñat
+Bhutan
 Biarritz
 Biblia
 Biblos
 Bidarte
 Bielorrusia
 Bielorrusiako Errepublika
+Bigarren Mundu Gerra
+Bikendi
 Bilbo
 Bilbok
 Bilboko
@@ -417,10 +493,17 @@ Bilborik
 Bilbotik
 Bilbotzat
 Bilboz
+Bilgune Nazionala
+Bingen
+Birmania
 Bitinia
+Bixente
+Bixintxo
 Bixkek
 Bizantziar Inperioa
 Bizantzio
+Bizen
+Bizente
 Bizkai-dantza
 Bizkai-gaztaina
 Bizkaia
@@ -436,6 +519,7 @@ Borduria
 Borgoina
 Bosforo itsasartea
 Bosnia
+Bosnia eta Herzegovina
 Bosnia-Herzegovina
 Botniako Golkoa
 Bragantza
@@ -448,6 +532,8 @@ Britainia Handia eta Irlandako Erresuma Batua
 Britainia Handiko Erresuma
 Britainiar Raj
 Britainiar uharteak
+Brunei
+Brunswick Berria
 Brusela
 Buckingham jauregia
 Budismo
@@ -482,6 +568,7 @@ Calaisko itsasartea
 Cancer
 Capricornus
 Charlesen legea
+Chemnitz
 Cheshire Katua
 Christmas uhartea
 Coca-Cola
@@ -491,6 +578,9 @@ Cook uharteak
 Corpus
 Coruña
 D
+Dabi
+Dabid
+Dahomey
 Damasko
 Danel
 Danimarka
@@ -503,9 +593,9 @@ Dodekaneso
 Dominikar Errepublika
 Dominix
 Donald ahatea
+Donejakue
 Donetskeko Herri Errepublika
 Donibane Lohizune
-Donosti
 Donostia
 Dordoina
 Dorre Bikiak
@@ -547,10 +637,12 @@ Egipto
 Egiptoko Arabiar Errepublika
 Egoitza Santua
 Eguberri
+Eguberri egun
+Eguberri gau
 Eguberri kanta
 Eguberri on
-Eguberri on eta Urte berri on!
 Egutegi errepublikanoa
+Eguzkia
 Ehiztari beltza
 Eibar
 Eiffel dorrea
@@ -558,6 +650,7 @@ Eivissa
 Ekialdeko Asia
 Ekialdeko Europa
 Ekialdeko Sibiriako itsasoa
+Ekialdeko Timor
 Ekialdeko Txinako itsasoa
 Ekuador
 Ekuadorrek
@@ -584,9 +677,6 @@ Elixabete
 Eliza Katolikoa
 Eliza ortodoxoa
 Enara
-Enecho
-Eneco
-Enego
 Eneko
 Eneritz
 Eneritzek
@@ -609,10 +699,13 @@ Eperna
 Epimeteo
 Erdialdeko Luzon
 Erie
+Eritreako Estatua
 Erosten Liburua
 Erosten harresia
 Erramon
 Erramu Igandea
+Erramu egun
+Erramu igande
 Errauskine
 Errege Bardea
 Errege Magoak
@@ -623,6 +716,7 @@ Erresuma Batua
 Errioxa
 Erroma
 Erromatar Eliza Katolikoa
+Erromatar Inperioa
 Erromatarrei
 Errumania
 Errusia
@@ -656,6 +750,7 @@ Estatu Burujabeen Elkartea
 Estatu Burujabeen Erkidegoa
 Estatuaren abokatu
 Ester
+Estiria
 Estonia
 Estoniako
 Estonian
@@ -664,9 +759,6 @@ Etsai
 Etxague
 Etxano
 Etxe Zuria
-Etxebarri
-Etxebarria
-Etxeberri
 Etxeberria
 Etxegarate
 Etxenike
@@ -685,6 +777,7 @@ Euskaltzaindia
 Euzkadi
 Everest
 Ezekiel
+Ezkarai
 Ezkibel
 Ezpeleta
 Eztegi
@@ -719,24 +812,34 @@ G
 G puntu
 GGI
 Gabiola
+Gabon egun
+Gabon gau
 Gabon kanta
+Gabon zahar
 Galaziarrei
 Galdakao
+Galder
 Gales
 Galesko printze
 Galitzia
 Galizia
+Gallipoli
+Garaipen Arkua
 Garalde
 Garbiñe
 Garcicea
 Garikoitz
 Garizuma
+Garona
+Garona Garaia
 Garro
 Gaskoinia
 Gasteiz
-Gastela
+Gau Beltza
 Gaza
+Gazako zerrenda
 Gaztela
+Gaztela eta Leon
 Gaztela-Mantxa
 Gebara
 Genobeba
@@ -816,10 +919,11 @@ Godantzia
 Goikoetxea
 Gorka
 Gorka (form invented by Sabino Arana)
+Gorospe
 Gorostian gorosti, Donostian Donosti
 Gorozpe
+Gorputz egun
 Grezia
-Grezia Handia
 Greziako Eliza Ortodoxoa
 Groenlandia
 Guelfo
@@ -828,8 +932,11 @@ Gurutze Gorria
 H
 Habakuk
 Haga
+Haitz
 Hamar Aginduak
 Harana
+Haritz
+Harkaitz
 Hartley konderria
 Hartzen uhartea
 Hasiera
@@ -852,22 +959,29 @@ Hendaia
 Herbehereak
 Herbehereetako Erresuma
 Herio
+Herkulesen Zutabeak
 Hermafrodita
 Hiadeak
+Hibai
 Hispanoamerika
+Hogeita Hamar Urteko Gerra
 Hong Kong
+Houston, arazo bat daukagu
 Hudson badia
 Hungaria
 Hungariako
 Hungariako Errepublika
 Hungarian
 Huron
+Hvidovre
 I
 IP helbide
 IPA
+Ibai
 Ibarreta
 Iberiar penintsula
 Idiazabal
+Ieltxu
 Igor
 Iker
 Ilargi
@@ -875,20 +989,24 @@ Ilargi Gorria
 Ilargia
 Ilion
 Imanol
+Inaxio
 Inazio
 Indarra zurekin bedi
+India
 Indiako Errepublika
 Indiako ozeanoa
 Indianapolis
+Indonesia
 Indonesiako Errepublika
 Indus
 Ingalaterra
 Ingalaterra Berria
 Ingalaterrako Erresuma
 Ingalaterrako Gudua
-Iniko
 Internet
 Ion
+Ioritz
+Ipar Atlantikoko Itunaren Erakundea
 Ipar Carolina
 Ipar Dakota
 Ipar Irlanda
@@ -903,7 +1021,9 @@ Ipar uhartea
 Iparralde
 Iparraldeko Europa
 Iparrizarra
+Irak
 Irakeko Errepublika
+Iran
 Irango Islamiar Errepublika
 Iratxe
 Irawadi
@@ -914,12 +1034,14 @@ Irteera
 Irulegi
 Irune
 Iruña
+Iruña Oka
 Iruñea
 Isaias
 Isaka
 Islam
 Islandia
 Islandiako Errepublika
+Israel
 Israelgo Estatua
 Istanbul
 Italia
@@ -939,6 +1061,7 @@ Itsaso Zuria
 Itsasu
 Itunberia
 Iturralde
+Itxaso
 Itziar
 Ivalo
 Izaro
@@ -952,14 +1075,33 @@ Jagoba
 Jainko
 Jainko maitea
 Jainkoa
+Jainkoa lagun
+Jainkoagatik
+Jainkoak begira
+Jainkoak daki
+Jainkoak dizula egun on
+Jainkoak gorde zaitzala
+Jainkoak guarda
+Jainkoak nahi badu
+Jainkoaren Ama
+Jainkoaren Seme
+Jainkoaren graziaz
+Jainkoaren hitza
+Jainkoaren izenean
+Jainkoari esker
+Jainkoari nahi dakiola
+Jainkoarren
 Jakes
 Jamaika
 Jano
 Japonia
 Japoniako itsasoa
+Jasokunde
+Jaun zerukoa
 Jaunde
 Jaungoiko
 Jaungoikoa
+Java
 Javako itsasoa
 Jeremias
 Jeriko
@@ -970,6 +1112,10 @@ Jesusen Lagundia
 Jiddisha
 Joan
 Joan Bataiatzailea
+Joana
+Joane
+Joanitz
+Joanitza
 Job
 Joel
 Jokin
@@ -982,7 +1128,9 @@ Joni
 Jonikoa
 Jordania
 Jordaniako Haxemi Erresuma
+Joritz
 Joseba
+Josu
 Josue
 Judas
 Jugoslavia
@@ -991,6 +1139,7 @@ Jugoslavian
 Julen
 Juno
 Jupiter
+Jurdan
 Jurgi
 Jurtzi
 K
@@ -1014,6 +1163,8 @@ Kanbodia
 Kanbodiako Erresuma
 Kanbriarreko leherketa
 Kantabria
+Kantauri
+Kantauri itsaso
 Kantzer tropikoa
 Kaprikornio tropikoa
 Karatxi
@@ -1021,6 +1172,8 @@ Karibe itsasoa
 Karmele
 Karnataka
 Karon
+Karontuhilo
+Karpatoak
 Karramarroa
 Kartago
 Kaspiar Itsasoa
@@ -1035,11 +1188,13 @@ Kfar Nahum
 Khabarovsk kraia
 Khrustxev
 Kieveko oblasta
+Kimetz
 Kindin
 Kioto
 Kirgizia
 Kirgizistan
 Kirgizistango Errepublika
+Kirmen
 Klaukkala
 Koblentza
 Kodiak hartz
@@ -1069,8 +1224,10 @@ Kroazia
 Kroaziako Errepublika
 Kronikak
 Kuba
+Kupiansk raiona
 Kupido
 Kurdistan
+Kuwait
 Kyiveko oblasta
 L
 LAIA
@@ -1079,7 +1236,14 @@ La Valeta
 Labaien
 Ladoga
 Lalibela
+Lanamesa
+Landak
+Lander
+Laos
+Laoseko Herri Errepublika Demokratikoa
 Laptev
+Lapurdi
+Laputa
 Lardizabal
 Lasarte
 Lateran
@@ -1088,6 +1252,7 @@ Lebitarrena
 Legarda
 Legazpi
 Lehen
+Lehen Mundu Gerra
 Lehoibihotza
 Lekubarri
 Lekunberri
@@ -1112,6 +1277,7 @@ Lezaeta
 Lezana
 Lezeta
 Lezo
+Libano
 Libanoko Errepublika
 Libe
 Libiako Estatua
@@ -1141,6 +1307,7 @@ Londres Handia
 Londresko dorrea
 Loriaga
 Lorrena
+Lot eta Garona
 Loti ederra
 Luhuso
 Lukano
@@ -1158,13 +1325,14 @@ Lviv
 Léman
 M
 MJEO
+MOE
 Madariaga
 Madril
 Magallaes itsasartea
 Magna Carta
-Magna Graecia
 Mahai Biribila
 Mainz
+Maiorga
 Maite
 Maite haut
 Maite zaituztet
@@ -1187,6 +1355,8 @@ Makaronesia
 Makea
 Malakako itsasartea
 Malakias
+Malaysia
+Maldivas
 Malguki
 Mali
 Malin
@@ -1211,8 +1381,10 @@ Maltatzat
 Maltaz
 Manes
 Manex
+Manez
 Manila
 Mantxako kanala
+Mantxuera
 Mantxuria
 Mantxuriarra
 Maria
@@ -1236,6 +1408,7 @@ Maskat
 Mateo
 Mateoren Ebanjelioa
 Matusalen
+Maurizioko Errepublika
 Mayte
 Mazedoniako Jugoslaviar Errepublika Ohia
 Mediterraneo itsasoa
@@ -1264,6 +1437,8 @@ Moldavia
 Moldavian
 Monako
 Mongolia
+Monopoly
+Montenegro
 Moravia
 Morgana
 Morgana le Fay
@@ -1271,12 +1446,14 @@ Mosku
 Muhammad
 Mundu Berria
 Munduko Merkataritza Erakundea
+Munduko Osasun Erakundea
 Murphyren legea
 N
 NBE
 Nabarrengose
 Nabarrenkoxe
 Nafarroa
+Nagore
 Nahum
 Namibia
 Napoles
@@ -1292,13 +1469,15 @@ Nazioen Liga
 Negar Kantak
 Nehemias
 Nekane
+Nepal
 Neptuno
-Ni ingelesa naiz.
+Nerea
 Niagarako ur-jauziak
 Nikaragua
 Nikolas
+Nikosia
 Nilo
-Nobel Sariak
+Nobel Sari
 Noeren ontzia
 Normandia
 Norvegia
@@ -1307,6 +1486,7 @@ Norvegiako itsasoa
 Nubia
 O
 OHE
+Odiseo
 Oihan Beltza
 Oin Handi
 Okhotskeko itsasoa
@@ -1314,6 +1494,7 @@ Okzitania
 Olano
 Olarte
 Olinpiar Jokoak
+Oman
 On Kixote
 Ondarroa
 Onega
@@ -1324,6 +1505,7 @@ Osaba Sam
 Oseas
 Oskar
 Oslo
+Ostegun Santua
 Ostiral Santua
 Otomandar Inperioa
 Otxarkoaga
@@ -1337,7 +1519,10 @@ Ozeano Barea
 Oñati
 P
 Padanar ordokia
+Pakistan
 Pakistango Islamiar Errepublika
+Palestina
+Palestinako Estatua
 Panama
 Pandora
 Pangea
@@ -1347,6 +1532,7 @@ Paris
 Parkinsonen gaixotasun
 Partiar Inperioa
 Patxi
+Paue
 Paulo
 Pazko uhartea
 Pazkoa
@@ -1359,12 +1545,14 @@ Petri
 Petrograd
 Pinotxo
 Piongiang
+Pireo
 Pirinioak
 Pisako dorre okertua
 Pisako dorrea
 Plaza Gorria
 Pleiade
 Po ibaiaren harana
+Polikletos
 Polonia
 Poloniako Errepublika
 Polonian
@@ -1392,6 +1580,8 @@ Proventza
 Puebla
 Pythagoras
 Q
+Qatar
+Queensland
 Quezon Hiria
 R
 Rhin
@@ -1436,9 +1626,15 @@ Sarriegi
 Satan
 Satan Handi
 Saturno
+Saudi Arabia
 Saudi Arabiako Erresuma
 Schrodingeren katu
 Segorbe
+Seme
+Semen
+Semeno
+Semero
+Semerot
 Sena
 Serbia
 Serbiako Errepublika
@@ -1446,7 +1642,9 @@ Seul
 Sevilla
 Shota
 Silesia
+Singapur
 Singapurko Errepublika
+Siria
 Siriako Arabiar Errepublika
 Sizilia
 Siziliako itsasartea
@@ -1456,7 +1654,7 @@ Sobietar Errepublika Sozialisten Batasuna
 Sofokles
 Sofonias
 Solresol
-Souletin
+Sri Lanka
 Sri Lankako Errepublika Sozialista Demokratikoa
 Stillson giltza
 Stockholm
@@ -1470,6 +1668,8 @@ Suitzar Konfederakundea
 Superior
 Syracuse
 T
+TXEMA
+Tadjikistan
 Taganrog
 Taiwan
 Taiwango itsasartea
@@ -1479,8 +1679,11 @@ Talmud
 Tamesis
 Tanganika
 Tanganyika lakua
+Tanintharyi
 Tanzania
+Tarn eta Garona
 Tasmania
+Tasmaniako deabru
 Tasmaniako itsasoa
 Tbilisi
 Teheran
@@ -1489,7 +1692,10 @@ Tenerife
 Teodoriko
 Ternua
 Terpsikore
+Tesalonika
 Tesalonikarrei
+Tetis
+Thailandia
 Thailandiako Erresuma
 Thailandiako golkoa
 Tibalt
@@ -1525,17 +1731,22 @@ Txilintxo
 Txina
 Txinako Herri Errepublika
 Txit
+Txoan
 Txomin
 Txornobaivka
 Txuktxien itsasoa
+Txurdan
+Txurdin
 U
 Ubalde
 Ubaldegarai
 Ugalde
 Ukraina
 Ukrainan
+Ulises
 Unai
 Urano
+Urdin
 Urizaharra
 Urlia, Sandia eta Berendia
 Urrezko Adarra
@@ -1548,14 +1759,17 @@ Valentzia
 Valentziako Erkidegoa
 Varsovia
 Vaths
+Vatikano Hiria
 Venezuela
 Venezuelako Bolibartar Errepublika
 Veracruz
 Veronika
 Viena
 Vientian
+Vietnam
 Vietnamgo Errepublika Sozialista
 Vitoria-Gasteiz
+Vulkaniar agur
 Vänern
 W
 Washington
@@ -1582,6 +1796,7 @@ Xeme
 Xemein
 Xemen
 Xemeno
+Xemero
 Xemerot
 Xemon
 Xerezade
@@ -1598,6 +1813,7 @@ Xipri
 Xisto
 Xixila
 Xixili
+Xoan
 Xoane
 Xoangotei
 Xoantako
@@ -1626,6 +1842,7 @@ Y
 Yahveh
 Yangtze
 Yap
+Yemen
 York Berri
 Yucatan
 Z
@@ -1639,15 +1856,23 @@ Zangoza
 Zante
 Zarautz
 Zazinto
+Zazpi Urteko Gerra
 Zeelanda Berria
+Zeilan
 Zenbakiak
+Zeruetako Aita
+Zeruetako Erregina
+Zezena
 Zezilio
 Zipre
 Zipreko Errepublika
+Zisjordania
 Zorione
 Zornotza
 Zoroastrismo
+Zuberoa
 Zubiaga
+Zubieta
 Zubiri
 Zulueta
 Zumarraga
@@ -1658,7 +1883,6 @@ Zuñiga
 a
 a bildua
 a itsatsi
-aate
 aba
 ababor
 abade
@@ -1724,7 +1948,6 @@ abantzuño
 abao
 abar
 abaraska
-abari
 abaritz
 abarizia
 abarizti
@@ -1753,10 +1976,12 @@ abata
 abatari
 abatz
 abatz-estalki
+abdika
 abdikatu
 abdikazio
 abdomen
 abdukzio
+abduzi
 abegi
 abegikor
 abegitsu
@@ -1904,6 +2129,7 @@ abokatu-langela
 abokatuk
 abokaturik
 abokatutza
+aboli
 abolitu
 abolizio
 abolizionismo
@@ -1993,7 +2219,6 @@ adakaitz
 adakera
 adaki
 adakitu
-adanondo
 adaondu
 adapo
 adaptatu
@@ -2106,6 +2331,7 @@ adikor
 adikune
 adimen
 adimen artifizial
+adimen emozional
 adimen gutxiko
 adimen urriko
 adimen-urritasun
@@ -2151,11 +2377,15 @@ administratzaile
 adondo
 adore
 adore eman
+adorea galdu
+adorea izan
 adoregabe
+adoregabetu
 adoretsu
+adoretu
+adorez
 ados
 ados egon
-ados etorr
 ados etorri
 ados izan
 ados jarri
@@ -2255,12 +2485,14 @@ agortezin
 agortu
 agortzaile
 agot
+agresibo
 agrobiologia
 agrologia
 agudo
 agur
 agur egin
 agur esan
+agur eta ohore
 agur on
 agur t'erdi
 agur-afari
@@ -2288,10 +2520,15 @@ ahaldun
 ahaldun nagusi
 ahaldundu
 ahaldungai
-ahalge
 ahalke
 ahantzi
 ahari
+ahari-joko
+ahari-talka
+ahari-topeka
+ahariki
+ahariko
+aharito
 aharrausi
 aharrausi egin
 ahate
@@ -2320,11 +2557,17 @@ ahizpa
 aho
 aho-korapilo
 ahoa
+ahobero
+ahoberokeria
+ahobide
 aholku
+aholkua jaso
 aholkulari
 ahora
 ahora etorri
 ahosabai
+ahoskera
+ahotik jaso
 ahots
 ahozabalkada
 ahozapitako
@@ -2351,7 +2594,6 @@ ahuntz-buru
 ahuntz-erdara
 ahuntzain
 aie-aie
-aigari
 aihen
 aiherkunde
 aimara
@@ -2363,17 +2605,25 @@ aingira-belar
 aingiratxa
 aingirazorri
 aingura
-ainhara
+aingura jaso
+ainguragile
+ainguragintza
+aingurak bota
+ainguraketa
+ainguratoki
+ainguratu
+ainhoar
+aintza
 aintzatetsi
 aintzira
 ainuiko
-ainzto
 aire
 aire-basea
 aire-zubi
 airea
 airean
 airearen
+airearen kutsadura
 aireen
 aireko armada
 aireko indar
@@ -2443,9 +2693,7 @@ aitonatxo
 aitondu
 aitonen
 aitontasun
-aitz
 aitzur
-aixtur
 aizkolapustu
 aizkolari
 aizkoljoko
@@ -2466,6 +2714,8 @@ aiztur
 aizu
 akabatu
 akabatzaile
+akademia
+akademiko
 akain
 akain-belar
 akatsgabe
@@ -2474,14 +2724,18 @@ akeita
 akelarre
 aker
 akordeoi
+akrezio
 akrobata
 akrobaten
 akromegalia
+akropoli
 aktiba
 aktibatu
 aktibatuko
 aktibatze
 aktibatzen
+aktibitate
+aktibo
 aktinioa
 aktomiosina
 aktore
@@ -2543,7 +2797,6 @@ aldameneko
 aldapa
 aldapan behera
 aldapan gora
-aldapan jo
 aldapatsu
 aldare
 aldatu
@@ -2555,18 +2808,53 @@ alde zahar
 aldea
 aldeak
 aldean
+aldearekin
 aldearen
+aldearengatik
+aldearentzat
 aldeari
+aldeaz
 aldeei
 aldeek
+aldeekin
 aldeen
+aldeengatik
+aldeentzat
+aldeetako
+aldeetan
+aldeetara
+aldeetaraino
+aldeetarako
+aldeetarantz
+aldeetatik
+aldeez
 aldek
+aldeko
 aldera
+alderaino
+alderako
+alderantz
+alderdi
 alderdi politiko
+alderekin
 alderen
+alderengatik
+alderentzat
 alderi
+alderik
+aldetako
+aldetan
+aldetara
+aldetaraino
+aldetarako
+aldetarantz
+aldetatik
 aldetik
+aldetzat
+aldez
 aldeztu
+aldi
+aldia
 aldizkako
 aldizkari
 aldizkaritegi
@@ -2585,7 +2873,6 @@ alfonbra
 alfonbra gorri
 alfonbra hegalari
 alga
-algar
 algara
 algara egin
 algaraka
@@ -2599,13 +2886,13 @@ aljeriar
 alkali
 alkandora
 alkandora beltz
+alkandora hutsean
+alkandora hutsik
 alkandorak
 alkandorek
-alkar
 alkate
 alkatxofa
 alkazar
-alkhar
 alkohol
 alkohola
 alkoholan
@@ -2623,6 +2910,7 @@ alorra erein
 alsaziera
 alta
 alternadore
+alternatibo
 altiste
 altsasuar
 altu
@@ -2636,13 +2924,13 @@ altxor publiko
 altxor-bonu
 altxortegi
 altxorzain
-altz
 altzagar
 altzairu
 altzari
 altzariak
 altze
 alu
+alumina
 aluminio
 aluminioa
 ama
@@ -2671,7 +2959,6 @@ amama
 amandre
 amaorde
 amaordeko
-amar
 amaraun
 amaso
 amatar
@@ -2702,12 +2989,15 @@ ametsek
 ametsi
 ametz
 amiamoko
+amigdala
 amildegi
 amildu
 amilotx urdin
 amiltxori arrunt
+aminoazido esentzial
 amitu
 amodio
+amodio anizkuna
 amodio-belar
 amodio-zuhaitz
 amodioa egin
@@ -2718,6 +3008,7 @@ amodiozko
 amona
 amona mantangorri
 amonatxo
+amonio nitrato
 amore
 amore egin
 amore eman
@@ -2750,9 +3041,13 @@ anaitar
 anaitasun
 anaitu
 anaitzako
+anakroniko
+anakronismo
 anana
 anarkia
+anarkiko
 anarkismo
+anarkista
 anatomia
 anbar
 anbiguogabea
@@ -2771,11 +3066,11 @@ andorratarrei
 andorratarrek
 andorratarren
 andorratarri
-andra
 andre
 andregai
 andrekari
 angelu
+angiologia
 anglikanismo
 angolar
 angurri
@@ -2824,13 +3119,16 @@ ankilosi
 anodo
 anorexia
 anorexia urduri
+anoxia
 anpere
 anperemetro
 anplitude
 antena
+anti-
 antidepresibo
 antiforme
 antiguar
+antiheroi
 antiklimax
 antilope
 antimikrobiar
@@ -2839,17 +3137,29 @@ antimonioa
 antineutroi
 antiprotoi
 antolakunde
+antropo-
+antropologia
+antropologiko
+antropologo
 antropomorfismo
+antropozentriko
 antsoaindar
 antxeta
 antxeta mokogorri
 antxoa
+antz
 antzandobi
 antzara
 antzara nano
 antzarazain
 antzeratu
+antzerki
+antzerki-lan
 antzerkia
+antzerkigile
+antzerkigintza
+antzerkilari
+antzerkizale
 antzezle
 antzigar
 antzinako frantses
@@ -2862,7 +3172,7 @@ apal
 apaldu
 apalki
 apar
-apari
+aparantziarik ere
 aparkaleku
 aparkatu
 apartekoak
@@ -2872,7 +3182,6 @@ apatx
 apez
 apezpiku
 apezpikutza
-aphez
 apiriku
 apiril
 apo
@@ -2884,13 +3193,13 @@ apoptosi
 aporen
 aporofobia
 aprobetxategi
+apur
 apurtu
 apustu egin
 ar
 arabar
 arabazozo
 arabera
-arabia
 arabiar
 arabiera
 arabisagar
@@ -2907,6 +3216,7 @@ arangorri
 aranondo
 arantza
 arantzabeltz
+arantzarik gabeko larrosarik ez
 arantzazutar
 arantzazuztar
 arantzel
@@ -2918,12 +3228,15 @@ arba
 arbel zuri
 arbela
 arbeletxeko
+arbendol
 arbola
 arbonar
 arbëreshera
 ardandegi
 ardao
 ardi
+ardi-mihi
+ardile
 ardo
 ardo beltz
 ardo gorri
@@ -2932,6 +3245,8 @@ ardoari
 ardogintza
 ardora
 ardori
+ardorik
+ardoz
 ardura
 ardura eduki
 ardura eman
@@ -2950,8 +3265,8 @@ arduratsu
 arduratu
 ardurazko
 are
+arean ere
 areto-futbol
-aretx
 argal
 argazki
 argazki-album
@@ -2983,6 +3298,9 @@ argiune
 argizari
 argiztatu
 argon
+ari
+ari izan
+ariketa
 arilo
 arima
 arima-argia
@@ -3005,12 +3323,14 @@ arinkeria
 arinki
 arintasun
 arintzaile
+aristokrata
+aristokratiko
 aristokrazia
 aritmetika
+aritu
 aritz
 arkakarats
 arkakuso
-arkal
 arkanjelu
 arkatz
 arkeoastronomia
@@ -3047,7 +3367,6 @@ arpoitu
 arr
 arra
 arraba
-arrai
 arraia
 arrain
 arrain katu
@@ -3115,6 +3434,7 @@ arreba
 arren
 arretaz
 arrietar
+arrigorriagar
 arriskatu
 arrisku
 arrisku-sari
@@ -3147,12 +3467,12 @@ arroztar
 arroztasun
 arroztegi
 arroztu
+arrubio
 arrunt
 arruntasun
 arruntean
 arrunter
 arruntu
-arsto
 artaburu
 artalde
 artaldekeria
@@ -3161,6 +3481,7 @@ arte
 arte higigarri
 arte-garrasta
 artean
+artean ere
 artearen historialari
 arteari
 artelan
@@ -3172,6 +3493,8 @@ artifizial
 artifizialki
 artifizialtasun
 artile
+artillari
+artilleria
 artirin
 artisau
 artisautza
@@ -3230,7 +3553,6 @@ artseniko
 artsenikoa
 artxibozain
 artxipelago
-artz
 artzain
 artzain txakur
 artzain-txakur
@@ -3246,6 +3568,10 @@ asentsio
 asexualtasun
 asfalto
 asiar hartz beltz
+asimila
+asimilatu
+asimilazio
+asintomatiko
 asintota
 askari
 askatasun
@@ -3320,6 +3646,7 @@ askotza
 asma-belar
 asmatu
 asmo
+aspaldian ere
 aspergarri
 asperkunde
 asperraldi
@@ -3328,20 +3655,25 @@ aspertuta
 aspertzaile
 astakardu
 astakilo
+astalikardu
 astatoa
 aste
+aste-bukaera
 astean behin
 astearte
+astearte inauteri
 asteartea
+asteartero
 asteazken
 asteazkena
+asteazkenero
 astebukaera
 asteburu
 astegun
 astekari
-asteko egunak
 astelehen
 astelehena
+astelehenero
 astero
 asteroide
 asteroko
@@ -3357,6 +3689,9 @@ astrofisika
 astrofisikari
 astrologia
 astrologo
+astronauta
+astronautika
+astronautiko
 astronomia
 astronomo
 astun
@@ -3387,9 +3722,16 @@ atariko
 atariko haize
 atariko-txakur
 ate
+atearen
+ateen
+ateismo
+ateista
 atera
 aterki
 aterki-ontzi
+aterpe
+aterpetu
+aterpetxe
 atezain
 atoi
 atoian
@@ -3419,13 +3761,21 @@ atsotitza
 atsotitzik
 atsotizlari
 atsotu
-atx
+atun
 atxapar
 atxeki
 atxekiko
 atxekitze
 atxekitzen
 atxiki
+atxiki handi
+atxiki txiki
+atxikidura
+atxikimendu
+atxikipen
+atxikitasun
+atxikitzaile
+atxikitze
 atxilotu
 atxur
 atzamar
@@ -3436,14 +3786,41 @@ atzamarka egin
 atzamarkatu
 atzapar
 atze
+atze-atzeka
+atze-aurre
+atze-oihal
+atzea eman
 atzealde
 atzean
+atzegoardia
+atzeka
 atzekari
+atzeki
+atzeko
 atzelari
 atzeman
+atzen
+atzena
+atzenarazi
+atzendu
+atzenean
+atzeneko
+atzenengo
+atzenerako
+atzenez
+atzenkor
 atzera
+atzera begirako
 atzera begiratze
+atzera berri
 atzera bota
+atzera egin
+atzera eta aurrera
+atzera gelditu
+atzera geratu
+atzera-aurrera
+atzera-buelta
+atzera-martxa
 atzerapauso
 atzerri
 atzerri-
@@ -3456,7 +3833,6 @@ atzodanik
 atzoko
 atzotik
 au-au
-auhari
 auhen
 auhen egin
 auhendagarri
@@ -3464,7 +3840,7 @@ auhendatu
 auhenka
 aukera
 aukera-berdintasun
-aukera-maukera
+aukera-maukera, aukeraren maukera
 aukerabide
 aukeraketa
 aukerakizun
@@ -3473,7 +3849,6 @@ aukerakotasun
 aukeramen
 aukeran
 aukerarazi
-aukeraren maukera
 aukeratu
 aukeratuko
 aukeratzaile
@@ -3528,23 +3903,36 @@ autarkia
 autismo
 autista
 auto
+auto-
 auto-garbigune
 auto-ilara
+auto-stop
 autoa
+autobia
 autobide
 autobus
 autobusa
+autobusaz
 autobusera
+autobusez
 autobusi
+autoeskola
+autogile
+autogintza
+autokrazia
 automatiko
 automatikoki
 automobil
 autonomia erkidego
 autotomia
+autozain
+autozale
 auzapez
 auzitegi militarra
 auzo
 auzokide
+axo
+axoa
 aza
 azal
 azaldu
@@ -3578,6 +3966,9 @@ azeritegi
 azido
 azido desoxirribonukleiko
 azido foliko
+azido fosforiko
+azido karboniko
+azido laktiko
 azido muriatiko
 azido nukleiko
 azidosi
@@ -3672,6 +4063,19 @@ aztiketa
 aztinantza
 aztitza
 azukre
+azukre-beterraba
+azukre-erremolatxa
+azukre-hauts
+azukre-kanabera
+azukre-koxkor
+azukre-mokor
+azukre-ontzi
+azukre-palmondo
+azukre-tontor
+azukredun
+azukregintza
+azukretsu
+azukreztatu
 b
 ba
 ba-
@@ -3690,6 +4094,7 @@ babatu
 babazorro
 babesle
 babestu
+babil
 babu
 badadi
 badaezpada
@@ -3697,6 +4102,7 @@ badaezpada ere
 badaitez
 badakizu euskaraz?
 badakizu ingelesez
+badere
 badeza
 badezagu
 badezak
@@ -3775,6 +4181,7 @@ bagintzan
 bagintzate
 bagintzazu
 bagintzazue
+bagoi
 bahadi
 bahaza
 bahazagu
@@ -3831,6 +4238,7 @@ bahitu
 bahitza
 bahu
 bai
+bai ... ere
 bai-
 baietz
 baietz eta baietz
@@ -3864,6 +4272,10 @@ baitan
 baitara
 baitatik
 bakailao
+bakailao-ontzi
+bakailaoketari
+bakailaotara
+bakar
 bakarrik
 bake
 bake-epaile
@@ -3899,12 +4311,20 @@ bakoitza
 bakoitzean
 bakteriofago
 balakatu
+balaustrada
 balbula
 baldin
 baldin eta
 baldin eta soilik baldin
+baldinbaitere
+bale
 balea
+balea urdin
+balea zuri
+balea-arrantza
+balea-bizar
 balearen
+baleatzar
 baleazale
 balebil
 balebiltza
@@ -4002,6 +4422,7 @@ banazazu
 banazazue
 banda
 bandalismo
+bandalo
 bandera
 bandera zuri
 banegi
@@ -4024,6 +4445,7 @@ baneuzka
 baneza
 banezagu
 banezaguzki
+bangladeshtar
 banihardu
 baniharduka
 banilla
@@ -4068,6 +4490,7 @@ bapore
 baranda
 barantaila
 baratxuri
+baratze
 baratze-kardu
 barau
 barau egin
@@ -4075,8 +4498,13 @@ baraualdi
 baraugile
 barauts
 barazkari
+barazki
 barazki-denda
+barazkigintza
+barazkijale
 barazkijalea naiz
+barazkizale
+barazkizaletasun
 barbakana
 barbarin
 barbituriko
@@ -4091,9 +4519,17 @@ barik
 bariku
 barioa
 barka
+barka eskatu
+barka eske
+barkabera
+barkaberatasun
+barkaezin
 barkamen
+barkamendu
+barkarazi
 barkarola
 barkatu
+barkazio
 barna
 barne
 barne belarri
@@ -4102,6 +4538,7 @@ barne-errekuntzako motor
 barnean
 barneko
 barnen
+barneratu
 barometro
 barra
 barra-kode
@@ -4117,6 +4554,7 @@ barrenan
 barrenara
 barrenaren
 barrenen
+barrete frixio
 barri
 barrikada
 barruko umea
@@ -4269,6 +4707,7 @@ bat edo bat
 bat edo beste
 bat egin
 bat egon
+bat ere
 bat etor
 bat etorri
 bat etorriko
@@ -4339,13 +4778,17 @@ batik bat
 batiskafo
 batto
 batu
+batu-banatu izan
 batugai
 batugailu
 batukari
 batuketa
 batura
 batxata
+batxiler
+batxilergo
 batxo
+batxo ere
 batza
 batzaile
 batzaldi
@@ -4459,8 +4902,11 @@ bazka sare
 bazkaldu
 bazkalondo
 bazkari
+bazkari-arin
+bazkaritan
+bazkaritara
+bazkarite
 bazter
-bazterbide
 baztertu
 baztertzaile
 be
@@ -4491,7 +4937,6 @@ bederatzira
 bederatziraka
 bederatziren
 bederatziurren
-bederatzu
 bedi
 beei
 beek
@@ -4508,6 +4953,7 @@ beetarantz
 beetatik
 beez
 begi
+begi ederrak dauzkazu
 begi-nini
 begi-zulo
 begia begi truk
@@ -4557,7 +5003,6 @@ beharrago
 beharregi
 beharren
 beharrezko
-beharri
 behartsu
 behartu
 behatoki
@@ -4565,25 +5010,97 @@ behatz
 behazun
 behazun xixku
 behazun-harri
+behe
+behe-denboraldi
+behe-erliebe
+behe-hodei
+behe-laino
+behe-maila
+behe-mailako
+behe-nafarrera
+behe-presio
+behe-tentsio
+behea jo
+behealde
+behearen gain
+behegain
+beheiti
+beheiti egin
+beheiti joan
+beheitian
+beheitiko
+beheitimendu
+beheititu
+beheititze
+beheko alde
+beheko marra
 beheko solairu
 beheko solairua
 beheko su
+behera
+behera egin
+beheragarri
+beheraka
+beherakada
+beherako
+beherakoan
+beherakor
+beheraldi
+beheramendu
+beheranzko
+beherapen
+beherarazi
+beheraspen
+beheratasun
 beheratu
+beheratzaile
+beheratzapen
+beheratze
 beherbada
+behere
+behereneko
+beherengo
+behetar
+behetik gora
+behetu
 behi
 behi eroen gaitza
+behi gorri
+behi holandar
+behi piriniotar
+behi suitzar
+behi-azienda
 behien entzefalpatia espongiforme
 behiki
 behikunde
 behin batean
+behin ere
 behin-betiko
+behitalde
+behitegi
 behizain
 behor
-bei
+behor-txori
+behorkume
+behortegi
+behortzain
 beira
+beira-arasa
+beira-belar
+beira-zuntz
+beiragile
+beirakara
+beiraki
+beiraki-belar
+beirategi
+beirateira
+beirazko
+beiraztatu
 beita
 bek
 bekain
+bekain-ilun
+bekaineko
 bekatu
 bekatu arin
 bekatu astun
@@ -4608,6 +5125,7 @@ bekizkio
 bekizkite
 beko
 bekoki
+bektore espazio
 bektore-eremua
 bekusa
 bekusate
@@ -4618,22 +5136,51 @@ belagile
 belaki
 belaontzi
 belar
+belar gaizto
 belar hockey
+belar idor
+belar on
 belar ondu
+belar txar
+belar-denda
+belar-epaile
+belar-hockey
+belar-izpi
+belar-lan
+belar-ondo
 belar-sasi
+belar-soro
+belar-xut
+belarbeltz
 belardi
 belardun
+belargune
 belarjale
+belarka
+belarkara
+belarketa
+belarketari
+belarki
+belarmin
+belarra jorratu eta artoa sasira bota
 belarra ondu
+belarreria
+belarretan
 belarri
+belarri-belar
 belarria
 belarritako
+belartegi
+belartsu
+belartu
+belartza
 belatxinga moko hori
 belatz gorri
 belatz handi
 belatz txiki
 belaun
 belaun egin
+belauna makurtu
 belaunaulki
 belaunburu
 belaunikatu
@@ -4648,17 +5195,18 @@ beldurgarria
 beldurra eman
 beldurtu
 beldurtuta
-beldür
 bele
 bele txanodun
 bele txiki
 belen
 belgikar
+belodromo
 belozipedo
 beltx
 beltxago
 beltxarga
 beltxarga arrunt
+beltxarga beltz
 beltxarga oihularia
 beltxata
 beltxegi
@@ -4668,15 +5216,22 @@ beltzago
 beltzaren
 beltzegi
 beltzen
+beluga
 belz
 belzago
 belzegi
 belzen
+benetan
 bengalera
+benta
+bentak
+bentari
+bentek
 bentzu
 bentzute
 bentzuzki
 bentzuzkite
+bepuru
 bera
 bera berez
 beraiek
@@ -4725,6 +5280,7 @@ bere onera etorri
 bere onetik irten
 bere opilari su egin
 berebil
+berehala
 berek
 berekin
 beren
@@ -4740,9 +5296,24 @@ berezko abortu
 bergarar
 beri
 beribil
+berie
+berigu
 berik
 berilio
 berilioa
+berin
+berio
+berit
+berizkie
+berizkigu
+berizkik
+berizkin
+berizkio
+berizkit
+berizkizu
+berizkizue
+berizu
+berizue
 berkelioa
 bermatu
 bermatzaile
@@ -4753,6 +5324,7 @@ bermut
 bernedar
 bero
 bero egin
+bero-mapa
 beroa
 beroari
 beroate
@@ -4765,14 +5337,32 @@ berorika
 beroriketa
 berotegi
 berotegi-efektu
+berotegi-efektuko gas
 berotze globala
 berpiztu
+berraie
+berraigu
+berraik
+berrain
+berraio
+berrait
+berraizkie
+berraizkigu
+berraizkik
+berraizkin
+berraizkio
+berraizkit
+berraizkizu
+berraizkizue
+berraizu
+berraizue
 berregin
 berrehungarren
 berreketa
 berrerabili
 berretzaile
 berri
+berri jaso
 berri txarrak
 berria
 berriak
@@ -4784,6 +5374,7 @@ berritsu
 berritu
 berritzaile
 berritzapen
+berriz ere
 berriztagarri
 berrogei
 berrogeialdi
@@ -4819,6 +5410,10 @@ bertso
 bertsolari
 bertsolaritza
 berun
+berunezko
+beruneztatu
+beruneztatze
+berunkara
 besape
 besarkada
 besarkadaka
@@ -4832,12 +5427,58 @@ besok
 besori
 besta
 beste
+beste barik
 beste bat
+beste bat arte
+beste batean
+beste behin
+beste hainbat
+beste hainbeste
+beste honenbeste
+beste horrenbeste
+beste kuku batek jo
 beste modu batez
+beste mundu
+beste munduko
+beste munduko gauza
 beste mundura joana da
+beste oilar batek kukurruku jo
+beste orduz
+bestea
+besteak beste
+besteetan
 bestela
+bestela baitakoan
+bestela bezala
+bestela esan
+bestela esanda
+bestela esateko
 bestelako
+bestelakotasun
+bestelakotu
+bestelakotze
+bestelan
+bestelaz
+bestenaz
+bestengusina
+bestengusu
+bestera
+besterako
+besteratu
 besterendu
+besterenganatu
+besterentzaile
+besterentze
+besterik ezean
+besterik ezinean
+besterik izan
+bestetar
+bestetara
+bestetaratu
+bestetasun
+bestetik
+bestetxo
+bestetzuk
 bestiario
 betako
 betan
@@ -4856,6 +5497,22 @@ betile
 betoker
 betor
 betoz
+betxekie
+betxekigu
+betxekik
+betxekin
+betxekio
+betxekit
+betxekizu
+betxekizue
+betxezkie
+betxezkigu
+betxezkik
+betxezkin
+betxezkio
+betxezkit
+betxezkizu
+betxezkizue
 betza
 betzat
 betzulo
@@ -4881,16 +5538,29 @@ bezalaxe
 bezate
 bezero
 bi
+bi ahoko ezpata
+bi begietaraino sartu
+bi errealeko
+bi hitz
+bi pareta
+bi plegu egin
+bi puntu
+bi-biak
+bi-bitara
 bi-kolore
 bi-kolorekoa
 bia
+biak ala biak
+biak bietara
 bian
 biatloi
+bibira
 bibote
 bibotedun
 bibotetsu
-bida
+biburdina
 bidaia
+bidaia on
 bidaiari
 bidaiatu
 bidali
@@ -4905,6 +5575,7 @@ bideokamera
 bideozaintza kamera
 bider
 biderkatu
+biderketa
 bidesari
 bidesaria bide
 bidesaria errepide
@@ -4920,7 +5591,6 @@ bigarren
 bigarren eskuko
 bigarren solairu
 bigarren solairua
-bigel
 bihar
 bihar arte
 bihar edo etzi
@@ -4938,11 +5608,13 @@ biharko eguna
 biharrera
 bihartik
 bihilis
+bihitegi
 bihoa
 bihoaz
 bihotz
 bihotz zimiko
 bihotz-gogor
+bihotza jaso
 bihotzeko atakea
 bihotzerre
 bihotzez
@@ -4957,6 +5629,7 @@ bihurrikeria
 bihurritu
 bihurtu
 bik
+bika
 bikain
 bikaindu
 bikainki
@@ -4971,17 +5644,33 @@ bikoizketa
 bikoizketa-aktore
 bikote
 bila
+bilaka
+bilakabide
+bilakaera
+bilakaide
+bilakarazi
+bilakari
 bilakatu
+bilakatzaile
+bilakatze
+bilaketa
+bilakizun
+bilakuntza
+bilarazi
+bilari
+bilasari
 bilatu
+bilatzaile
+bilatze
 bilbotar
 bildil
 bildots
 bildu
-bildur
 bilera
 bilioi
 billarra
 biloba
+bilots
 bilur
 biluzi
 biokimika
@@ -4990,7 +5679,10 @@ biolentzia
 bioleta
 biolin
 biologia
+biologiak
+biologiko
 biologo
+biorritmo
 bira
 birabarki
 birako eskailera
@@ -5014,6 +5706,7 @@ birudite
 birulentzia
 birus
 birziklatu
+bisexualitate
 bisita
 bisita egin
 bisitaldi
@@ -5037,6 +5730,7 @@ bisturi
 bisuts
 bitan
 bitara
+bitarte
 bitartean
 bitez
 bitik
@@ -5050,10 +5744,7 @@ bizardun
 bizarro
 bizi
 bizi izan
-bizi izan 'live'
 biziagotu
-biziak asera
-biziak mahaira
 bizikleta
 bizilagun
 bizileku
@@ -5062,14 +5753,13 @@ bizimolde
 bizipoz
 bizitoki
 bizitza
-bizitza 'life'
 bizkaiera
 bizkaitar
 bizkar
 bizkar-zorro
-bizkarkin
+bizkarra jaso
+bizkarra makurtu
 bizkarrezur
-bizkarroi
 bizkartzain
 bizkor
 bizkotxo
@@ -5094,6 +5784,7 @@ boladaz
 bolante
 bolborategi
 boleibol
+boli
 bolibartar
 boligrafo
 bolikostar
@@ -5108,6 +5799,155 @@ bonba
 bonba atomikoa
 bonba bolkaniko
 bonboi
+borda
+bordak
+bordak erre
+bordako
+bordalde
+bordaldea
+bordaldeak
+bordaldean
+bordaldearekin
+bordaldearen
+bordaldearengatik
+bordaldearentzat
+bordaldeari
+bordaldeaz
+bordaldeei
+bordaldeek
+bordaldeekin
+bordaldeen
+bordaldeengatik
+bordaldeentzat
+bordaldeetako
+bordaldeetan
+bordaldeetara
+bordaldeetaraino
+bordaldeetarako
+bordaldeetarantz
+bordaldeetatik
+bordaldeez
+bordaldek
+bordaldeko
+bordaldera
+bordalderaino
+bordalderako
+bordalderantz
+bordalderekin
+bordalderen
+bordalderengatik
+bordalderentzat
+bordalderi
+bordalderik
+bordaldetako
+bordaldetan
+bordaldetara
+bordaldetaraino
+bordaldetarako
+bordaldetarantz
+bordaldetatik
+bordaldetik
+bordaldetzat
+bordaldez
+bordan
+bordara
+bordaraino
+bordarako
+bordarantz
+bordarekin
+bordaren
+bordarengatik
+bordarentzat
+bordari
+bordaria
+bordariak
+bordarian
+bordariarekin
+bordariaren
+bordariarengan
+bordariarengana
+bordariarenganaino
+bordariarenganako
+bordariarenganantz
+bordariarengandik
+bordariarengatik
+bordariarentzat
+bordariari
+bordariaz
+bordariei
+bordariek
+bordariekin
+bordarien
+bordariengan
+bordariengana
+bordarienganaino
+bordarienganako
+bordarienganantz
+bordariengandik
+bordariengatik
+bordarientzat
+bordarietako
+bordarietan
+bordarietara
+bordarietaraino
+bordarietarako
+bordarietarantz
+bordarietatik
+bordariez
+bordarik
+bordariko
+bordarira
+bordariraino
+bordarirako
+bordarirantz
+bordarirekin
+bordariren
+bordarirengan
+bordarirengana
+bordarirenganaino
+bordarirenganako
+bordarirenganantz
+bordarirengandik
+bordarirengatik
+bordarirentzat
+bordariri
+bordaririk
+bordaritako
+bordaritan
+bordaritara
+bordaritaraino
+bordaritarako
+bordaritarantz
+bordaritatik
+bordaritik
+bordaritzat
+bordariz
+bordatako
+bordatan
+bordatara
+bordataraino
+bordatarako
+bordatarantz
+bordatatik
+bordatik
+bordatxo
+bordatzat
+bordaz
+bordazain
+bordei
+bordek
+bordekin
+borden
+bordengatik
+bordentzat
+bordetako
+bordetan
+bordetara
+bordetaraino
+bordetarako
+bordetarantz
+bordetatik
+bordez
 boro
 boroa
 borondate
@@ -5119,7 +5959,7 @@ borrokalari
 borrokaldi
 borrokatu
 bortxa
-bortz
+bortxaketa
 bosgarren
 boskoitz
 boskotea
@@ -5165,6 +6005,7 @@ bozgorailu
 bozkatu
 bozketa
 branka
+bratislavar
 bretoi
 bretoiera
 bridge
@@ -5180,6 +6021,7 @@ bufalo
 buia
 buitre
 bukaera
+bukaera eman
 bukaera gabeko
 bukaezin
 bukaezinezko
@@ -5232,6 +6074,7 @@ bulartsu
 bulartsutasun
 bulartu
 bulebar
+bulegari
 bulego
 bulgariar
 bulgariera
@@ -5256,7 +6099,6 @@ burezur
 burges
 burgesia
 burgu usteldu
-burintxa
 burkinafasoar
 burko
 burokratizatu
@@ -5267,6 +6109,8 @@ buru exekutiboa ofiziala
 buru jaso
 buru joan
 burua
+burua jaso
+burua makurtu
 buruak
 buruan
 buruarekin
@@ -5297,6 +6141,7 @@ buruhausgarri
 buruhauste
 buruhezur
 buruil
+burujabe
 buruk
 buruketa
 buruko
@@ -5357,17 +6202,6 @@ campus
 cancer
 capoeira
 capricornus
-carmeltazita
-carmeltazitak
-carmeltazitan
-carmeltazitarekin
-carmeltazitaren
-carmeltazitarengatik
-carmeltazitarentzat
-carmeltazitari
-carmeltazitarik
-carmeltazitatzat
-carmeltazitaz
 casting
 catering
 cava
@@ -5384,6 +6218,7 @@ cicerone
 clown
 collage
 collie
+continuum dialektokoa
 copyleft
 copyright
 corpus
@@ -5559,8 +6394,22 @@ dardarka
 dardarkari
 dardarkari anizkun
 dardarti
+darie
+darigu
 darik
 darin
+dario
+darit
+darizkie
+darizkigu
+darizkik
+darizkin
+darizkio
+darizkit
+darizkizu
+darizkizue
+darizu
+darizue
 daroa
 daroagu
 daroak
@@ -5577,6 +6426,22 @@ daroatzazu
 daroatzazue
 daroazu
 daroazue
+darraie
+darraigu
+darraik
+darrain
+darraio
+darrait
+darraizkie
+darraizkigu
+darraizkik
+darraizkin
+darraizkio
+darraizkit
+darraizkizu
+darraizkizue
+darraizu
+darraizue
 dastamen
 data
 data-base
@@ -5597,6 +6462,7 @@ datu
 datu base
 datu-banku
 datu-base
+datxa
 datxekie
 datxekigu
 datxekik
@@ -5635,6 +6501,7 @@ dauzkat
 dauzkate
 dauzkazu
 dauzkazue
+days of the week: asteko egunak: astelehen · astearte · asteazken · ostegun · ostiral · larunbat · igande [edit]
 dazagu
 dazagugu
 dazaguk
@@ -5666,6 +6533,7 @@ dehiszentzia
 dei
 dei efektu
 deia
+deia jaso
 deien
 deiez
 deira
@@ -5678,15 +6546,31 @@ dek
 dekaedro
 dekalitro
 dekatroi
+deklara
+deklaratu
+deklarazio
 deko
+dekoratibo
+dekoratu
+dekorazio
 delitua
 delta
+demo-
 demografia
+demografiko
+demokrata
+demokratiko
+demokratikoki
+demokratizatu
+demokratizazio
+demokrazia
 den
 denbora
 denbora azkar doa
 denda
+dendaoste
 dendari
+dendaritza
 dendrokronologia
 deportatu
 dera
@@ -5701,7 +6585,6 @@ derrigortu
 des-
 desagertu
 desaktibatu
-desbardin
 desbardintasun
 desberdin
 desberdintasun
@@ -5709,6 +6592,9 @@ desegigo
 desegile
 desegin
 desegoki
+desindustrializa
+desindustrializatu
+desindustrializazio
 desira
 desira izan
 desiragarri
@@ -5717,8 +6603,15 @@ desiratu
 deskalifikazio
 deskarbonizazio
 deskargatu
+deskolonizatu
+deskolonizazio
 deskonposizio gorputz
 deskribatzea
+desmilitariza
+desmilitarizatu
+desmilitarizazio
+desnazifikatu
+desnazifikazio
 desoreka bipolar
 despit
 desplazamendu
@@ -5751,7 +6644,9 @@ dezazuela
 dezazuen
 dezazula
 dezazun
+di-da
 diabetologia
+dialekto-continuum
 diamagnetiko
 diamagnetismo
 diametro
@@ -5760,8 +6655,11 @@ dibertigarri
 dibertimendu
 dibertitu
 dibertsio
+dibertsitate
 dibidendu
+dibinitate
 dibisa
+dieresi
 digono
 dihardu
 dihardugu
@@ -5779,13 +6677,19 @@ dihardut
 dihardute
 diharduzu
 diharduzue
+diken
 dilista
 dinamita
 dinastia
+dinat
 dingo
 dinosauro
+dio
 diodo
 dioptria
+diplomatiko
+diplomazia
+diplomazialari
 diptongo
 dira
 dirateke
@@ -5799,6 +6703,7 @@ dirauzu
 dirauzue
 dirndl
 diru
+dirua jaso
 dirudi
 dirudigu
 dirudik
@@ -5813,6 +6718,7 @@ diskete
 disko
 disko gogor
 disko jaurtiketa
+disko-balazta
 disko-jartzaile
 disko-jogailu
 diskodun
@@ -5827,6 +6733,8 @@ disolbatzaile
 disprosioa
 distantzia
 distira guztiak ez dira urre
+diten
+ditin
 ditiranbo
 ditu
 ditugu
@@ -5895,6 +6803,8 @@ dolu
 dolumin
 domeka
 domina
+dominatu
+dominazio
 dominikar
 domino-efektu
 done
@@ -5902,6 +6812,7 @@ donetasun
 donetu
 donibandar
 donostiar
+donostiarra
 dopamina
 dorre
 dorretxe
@@ -5968,6 +6879,7 @@ edateko
 eder
 ederren lehiaketa
 edertasun
+edifika
 edin
 edo
 edonoiz
@@ -5985,8 +6897,10 @@ edozein
 edozein ere
 edozein modutan
 edozeinetara ere
+edozeinetera ere
 edozer
 edozertara ere
+eduka
 eduki
 eduki3
 edukiera
@@ -5998,7 +6912,6 @@ edukitzaile
 edukitze
 edukitzen
 edun
-edur
 efe
 efek
 eferi
@@ -6053,9 +6966,32 @@ egile-eskubide
 egiletasun
 egiletza
 egin
+egin bazkari
 egin zuzena izan
+egin-eginean
+eginahal
+eginahal guztian
+eginahalean
+eginahaletan
+eginahalka
+eginarazi
+eginarazle
+eginbehar
+eginbide
+eginbidea egin
+eginbidetsu
 egindako estatu
+egindura
+eginen
+eginerraz
+egingai
+egingarri
 egingo
+eginkari
+eginkariak egin
+eginkizun
+eginkor
+egintza
 egitasmo
 egite
 egiten
@@ -6067,6 +7003,7 @@ egitzazue
 egizu
 egizue
 eglefino
+egoera kuantiko
 egogitzapen
 egoitza
 egoki
@@ -6083,11 +7020,15 @@ egote
 egoten
 eguazten
 egubakoitz
+eguberri-kanta
 eguen
 eguerdi
+eguerdi arte
+eguerdiro
 egun
 egun on
 egun ona izan
+eguna
 egunak etorri
 egunen batean
 egunero
@@ -6111,9 +7052,47 @@ eguzki
 eguzki eklipse
 eguzki erloju
 eguzki haize
+eguzki saindu
+eguzki-begi
+eguzki-eklipse
+eguzki-energia
+eguzki-erolju
+eguzki-erradiazio
+eguzki-errainu
+eguzki-espektro
+eguzki-galda
+eguzki-galdatan
+eguzki-haize
+eguzki-izpi
+eguzki-lili
+eguzki-lore
+eguzki-ordu
+eguzki-orratz
+eguzki-panel
+eguzki-sartze
 eguzki-sistema
+eguzki-urte
+eguzkia atera
+eguzkia etzan
+eguzkia hartu
+eguzkia irten
+eguzkia sartu
+eguzkia sortu
 eguzkialde
+eguzkialdi
+eguzkipe
+eguzkitako
+eguzkitako betaurreko
+eguzkitako betaurrekoak
+eguzkitan
+eguzkitara
+eguzkitara atera
+eguzkitara joan
+eguzkitara zabaldu
 eguzkitsu
+eguzkitu
+eguzkiz eguzki
+eguzkiztatu
 ehe
 ehiza
 ehize
@@ -6125,21 +7104,23 @@ ehun konektibo
 ehundu
 ehuneko
 ehungailu
+eibartar
 eihera
 einstenioa
 eitegabe
 ekain
 ekaitz
+ekaizte
 ekaiztsu
 ekark
 ekarna
 ekarri
 ekaviera
-ekharri
 eki
 ekialde
 ekialdeko kotoi-isats
 ekilore
+ekilore-oilo
 ekin
 ekinokzio
 ekintza zuzena
@@ -6148,6 +7129,7 @@ ekliptika
 ekofeminismo
 ekonomia
 ekonomialari
+ekonomiko
 ekonomista
 ekranoplano
 ekuadortar
@@ -6169,19 +7151,19 @@ eleberrigile
 elebidun
 elefante
 eleko
+elektrizitate
 elektrodo
 elektroi
 elektrolisi
 elektromagnetismo
 elektronika
 elektroniko
-elgar
 elgoibartar
 elgorri
-elhur
 elikatu
 elikatze-iturri
 eliza
+elizbarruti
 elizkizun
 elkar
 elkar aditu
@@ -6240,7 +7222,6 @@ elkartu
 elkartzaile
 elkarzut
 elkarzutasun
-elkhar
 elorri
 elorri beltz
 elorriondo
@@ -6269,6 +7250,7 @@ emagizona
 emakume
 eman
 emankor
+emantzipatzeko
 emazte
 emaztegai
 eme
@@ -6276,6 +7258,7 @@ emek
 emera
 emeren
 emeri
+emigrazio
 enara
 enara azpizuri
 enbor entzefaliko
@@ -6310,7 +7293,6 @@ enpresaburu
 enpresari
 entalpia
 entropia
-entxe
 entxufe
 entzefalo
 entzierro
@@ -6327,6 +7309,7 @@ entzungor egin
 entzuzu
 entzuzue
 epai
+epai-
 epaikari
 epaiketa
 epail
@@ -6336,8 +7319,6 @@ epaitegi
 epaitu
 epe
 eper
-eperdi
-eperzulo
 epidemiologia
 epidemiologiko
 epidemiologo
@@ -6349,9 +7330,23 @@ era
 erabaki
 erabakigarri
 erabakitze
+erabilaldi
+erabilarazi
+erabilbide
+erabilera
+erabilerraz
+erabilezin
+erabilgai
+erabilgaitasun
+erabilgaitz
+erabilgarri
+erabilgarritasun
 erabili
 erabilketa
+erabilmolde
+erabilpen
 erabiltzaile
+erabiltzaile-izen
 eragin
 eragina
 eraginak
@@ -6390,6 +7385,7 @@ eraikin
 eraikina
 eraikingintza
 eraikitzale
+erail
 erailketa
 erakusbide
 erakusgai
@@ -6450,9 +7446,17 @@ erakutsion
 erakutsiozu
 erakutsiozue
 eraldatu
+eramaile
 eraman
+eramanarazi
+eramanerraz
 eramanezin
+eramangaitz
+eramangarri
+eramankizun
 eramankor
+eramanpen
+eramate
 erandiotarra
 eransgarri
 eranskailu
@@ -6460,6 +7464,7 @@ eranskarri
 eranskin
 eranskor
 erantsi
+erantzi
 erantzukizun
 erantzun
 erantzungailu
@@ -6500,6 +7505,7 @@ ereinoztxo
 eremu elektriko
 eremu magnetiko
 eremu semantiko
+eremu-teoria kuantiko
 ereserki
 ergatibo
 ergel
@@ -6549,11 +7555,27 @@ eroate
 eroaten
 eroazu
 eroazue
+erorarazi
+erorbide
 erori
+erorialdi
+erorian
+eroriko
+eroritasun
+erorka
+erorketa
+erorkor
+erorkortasun
+erortoki
+erortzapen
+erortze
+erortzeko min
 eros
 erosa
+erosahalmen
 erosak
 erosan
+erosarazi
 erosazkidak
 erosazkidan
 erosazkidazu
@@ -6572,7 +7594,11 @@ erosazkiozu
 erosazkiozue
 erosazu
 erosazue
+eroserraz
+erosgai
+erosgailu
 erosi
+erosi bezala saldu
 erosiek
 erosien
 erosiezu
@@ -6581,18 +7607,27 @@ erosiok
 erosion
 erosiozu
 erosiozue
+erositako prezioan saldu
+eroskeria
 erosketa
+erosketa-saski
 eroskuk
 eroskun
 eroskuzu
 eroskuzue
 erosle
+eroslehentasun
+eroslehentasun-eskubide
 eroso
 erosotasun
+erospen
 erostak
 erostan
 erostazu
 erostazue
+eroste
+erostun
+erpuru
 erradar
 erradiazio elektromagnetikoa
 erradio
@@ -6605,15 +7640,28 @@ erraingai
 errainu
 erraldoi
 erramu
-erramua
+erramulari
 erran
+erran delako
+erran eta erran
+erran gabe doa
+erran nahi da
+erran zahar
+erran zuhur
+erran-merran
+erranahi
+erranairu
+erranak erran
+erranarazi
+erranka
+errankizun
 errape
-erraskailu
 erratz
 erratz autoa
 erratz automobila
 erratza
 errauli
+errauskailu
 errausketa
 errauskin
 errausle
@@ -6632,6 +7680,7 @@ erre
 erreaktore nuklear
 erreakzio kimiko
 erreakzio nuklear
+erreal
 errealitate birtual
 erreboilo ezkatadun
 errebolber
@@ -6686,6 +7735,10 @@ erregezko
 erregidore
 erregimentu
 erregina
+erregina-jale
+erreginaorde
+erregingai
+erregintasun
 erregmaglipto
 erreinu
 erreka
@@ -6705,12 +7758,19 @@ errekasto
 errekatik atera
 errekatxindor
 errementari
+errementariaren etxean, zotza burduntzi
+errementaritza
 errenteriar
 errepide
 errepika
 errepikatu
+erreproduzi
 errepublika
 errera
+erresidente
+erresidentzia
+erresistente
+erresistentzia
 erresuma
 erretan
 erretaula
@@ -6731,14 +7791,29 @@ errinozero
 errinozero beltz
 erro
 erro karratu
+erro kubiko
+erroak bota
+erroak egin
+erroak eman
 errodapi
 errododendro
+errodura
 erroi
+erroketa
+errokizun
 erromana
 erromatar balantza
 erromatar galtzada
 erromero
+erromes
+erromes-maskor
+erromesaldi
+erromeskeria
+erromestasun
+erromestu
 erronbentzefalo
+erronbikosidodekaedro txikia
+erronbikosidodekaedroa
 erronbo
 errota
 errota-hegal
@@ -6746,6 +7821,7 @@ errota-joko
 errotari
 errotarri
 errotazain
+errotazismo
 errotore
 erru
 errublo
@@ -6766,14 +7842,49 @@ ertzain
 ertzain-nagusi
 ertzaina
 ertzainburu
-erur
+esaera
 esaera zahar
+esaka
+esakune
+esakuntza
 esaldi
+esale
+esamesa
+esamesaka
+esamolde
 esan
+esan beharrik ez
+esan bezala
+esan eta egin
+esan eta esan
+esan gabe doa
 esan nahi izan
+esanahi
+esanahitsu
+esanarazi
+esanaren esanaz
+esanbide
+esanbidez
+esanbidezko
 esaneko
 esanekotasun
+esanen
+esanezin
+esangaitz
+esangin
 esango
+esangura
+esanguratsu
+esankizun
+esapide
+esatari
+esate
+esate batera
+esate baterako
+esateke
+esateko
+esateko moduan
+esaterako
 ese
 eseki
 esekidura
@@ -6799,6 +7910,7 @@ eskailera-suge
 eskailerape
 eskailerapeko ardo
 eskaini
+eskaintza
 eskalabilitate
 eskalar
 eskandio
@@ -6809,12 +7921,14 @@ eskeleto
 esker
 esker aunitz
 esker oneko
+eskerrik
 eskerrik asko
 eskertu
 eski
 eskiatu
 eskinko
 eskinoso
+eskirol
 eskizofrenia
 eskola
 eskolako lan
@@ -6858,7 +7972,11 @@ eskumuturreko erloju
 eskura etorri
 eskusoinu
 eskutitz
+eskuz
 eskuzabal
+eskuzabalka
+eskuzabalki
+eskuzabaltasun
 eslogan
 eslovakiar
 eslovakiera
@@ -6877,7 +7995,7 @@ espaloi
 esparrago
 espazial
 espazio
-espazio ontzi
+espazio-denbora
 espazio-ontzi
 espazio-zunda
 espektro
@@ -6962,6 +8080,7 @@ etenik gabe
 etete
 etez
 etimologia
+etno-
 etor
 etorbide
 etorkin
@@ -7095,6 +8214,7 @@ euroi
 eurok
 euron
 europartasun
+europartu
 europioa
 euskal
 euskal artzain txakurra
@@ -7116,7 +8236,10 @@ euskaltegi
 euskaltzain
 euskaltzale
 euskara
+euskara batua
+euskaradun
 euskarak
+euskarakada
 euskaran
 euskararekin
 euskararen
@@ -7125,6 +8248,7 @@ euskararentzat
 euskarari
 euskararik
 euskaratu
+euskaratzaile
 euskaratzat
 euskaraz
 euskaraz hitz egiten duzu?
@@ -7132,11 +8256,9 @@ euskera
 eusko
 eutsi
 euzkak
-euzkal
 euzkan
 euzkazu
 euzkazue
-euzko
 exalota
 existitu
 exosfera
@@ -7147,6 +8269,7 @@ ez dut euskaraz hitz egiten
 ez dut ingelesez hitz egiten
 ez dut ulertzen
 ez egin
+ez eta ... ere
 ez ezik
 ez horregatik
 ez jakin
@@ -7156,6 +8279,8 @@ ezabagoma
 ezaguerara etorri
 ezaguk
 ezagun
+ezagungabe
+ezagungaitz
 ezagut
 ezagutarazi
 ezaguterraz
@@ -7175,7 +8300,6 @@ ezarri
 ezaugarri
 ezazu
 ezazue
-ezbardin
 ezbardintasun
 ezbehar
 ezberdin
@@ -7200,10 +8324,66 @@ ezertarako ez izan
 ezertariko
 ezertxo
 ezertxo ere
+ezetz
 ezezagun
+ezezka
+ezezko
+ezezkoan
+ezezkotasun
+ezeztaezin
+ezeztagarri
+ezeztapen
+ezeztarazi
 ezeztatu
+ezeztatzaile
+ezeztu
 ezgai
+ezik ere
+ezin
+ezin agortuzko
+ezin ahaztuzko
+ezin ase
+ezin eraman
+ezin esan ahala
+ezin gehiago
+ezin gehiagoan
+ezin gehiagoko
+ezin gehiagoraino
+ezin hautsizko
+ezin hobe
+ezin hobeki
+ezin hobeto
+ezin ikusi
+ezin itzurizko
+ezin kabiturik
+ezin konta ahal
+ezin sendatuzko
 ezin ukatuzko
+ezin-egin
+ezinago
+ezinbeste
+ezinbestean
+ezinbesteko
+ezinbesteko kasu
+ezinbestekotasun
+ezinbestez
+ezinbizi
+ezinda
+ezindako
+ezindu
+ezindura
+ezinean
+ezinegon
+ezineko
+ezineraman
+ezinez
+ezinezko
+ezinezkotasun
+ezinik
+ezinikusi
+ezinka
+ezinkizun
+ezintasun
 ezizen
 ezjakin
 ezjakinean
@@ -7223,6 +8403,7 @@ ezkerretako
 ezkerti
 ezkertiar
 ezki
+ezkila tubular
 ezko
 ezkon bidaia
 ezkon-hitz
@@ -7271,10 +8452,12 @@ ezkontzaz
 ezkontzaz galdegin
 ezkontzazko
 ezkor
+ezkortasun
 ezkur
 ezkutaketa
 ezkutatu
 ezkutu
+ezpabere
 ezpain
 ezpainetako
 ezpainzapitako
@@ -7284,10 +8467,16 @@ ezpata
 ezpata-arrain
 ezpel
 ezpeletar
+ezta gutxiago ere
+ezta nahi ere
+ezta pentsatu ere
 eztabaida
 eztainu
+eztainu-belar
 eztainua
+eztainuztatu
 eztarri
+eztei-bidaia
 ezti
 ezti-ihintz
 ezti-ur
@@ -7332,7 +8521,9 @@ faroera
 farra
 fase
 fatxada
+faxismo
 fede
+fedibertso
 felazio
 feldespato
 feltro
@@ -7355,6 +8546,8 @@ fetitxe
 fetitxismo
 fetitxista
 fetu
+fibrilazio
+fibrodisplasia osifikatzaile progresibo
 fidagaitz
 fidagaizkeria
 fidagaiztasun
@@ -7362,10 +8555,18 @@ fidagaiztu
 fidagarri
 fidakor
 fidatu
+fidelitate
+filakteria
 filantropia
 filigrana
+filipinar
+filipinera
 filma
+filosofatu
 filosofia
+filosofien
+filosofiko
+filosofo
 fin
 finantza merkatu
 finko
@@ -7378,12 +8579,16 @@ fisio
 fisio nuklear
 fitxa
 flamenko
+flamenko arrosa
 flatulentzia
 flota
 fluor
 fluoroa
 folidoto
+folklore
 fonendoscopio
+fonologia
+fonologiko
 foraminifero
 fordismo
 forma
@@ -7448,12 +8653,14 @@ funsgabeki
 funsgabeko
 funsgabetasun
 funts
+funtsezko
 funtsezkotasun
 funtzio talde
 funtzionamendu
 funtzionarazi
 funtzionatu
 fusible
+fusilari
 fusio
 fusio nuklear
 futbol
@@ -7465,6 +8672,7 @@ gabarra
 gabarrari
 gabe
 gabeko
+gabentza
 gabera
 gaberik
 gabetanik
@@ -7478,10 +8686,14 @@ gabiltza
 gabiltzan
 gabilzke
 gabon
+gabon-afari
+gabon-eske
 gabon-kanta
 gabon-subil
 gabon-zuri
 gabon-zuzi
+gabonsari
+gabonzale
 gadolinioa
 gaelera
 gai
@@ -7492,13 +8704,84 @@ gailupa
 gailupa karmin
 gailur
 gain
+gain behera
+gain-azpi
+gain-beheiti
+gain-gaineko
+gain-gainetik
+gaina hartu
+gaina izan
+gainak hartu
+gainalde
 gainazal
+gainazpikatu
+gainbalio
+gainbegirada
+gainbegirale
+gainbegiratu
+gainbegiratzaile
+gainbegiratze
+gainbehera
+gainbide
+gaindegi
+gaindi
+gaindidura
+gaindiezin
+gaindika
+gaindikatu
+gaindikin
+gaindiko
+gainditu
+gaindiz
 gaindosi
+gaindu
 gainegitura
+gaineko
+gainelikadura
+gainera
+gainera berriz
+gainerako
 gainerakoan
+gainerateko
+gaineratiko
+gaineratu
+gainetik
+gainetik beheiti
+gainetik behera
+gainetik kendu
+gainetiko
+gainez
+gainez egin
+gainez gain
+gainezarpen
+gainezarri
+gainezka
+gainezka egin
+gainezkaldi
+gainezkatu
+gainezko
+gaineztu
+gaingabetu
+gaingiroki
+gaingora
+gainjantzi
 gainjarri
+gainka
+gainka egin
+gainkarga
+gainkatu
+gainkostu
+gainontzean
+gainontzeko
 gainordain
+gainpisu
+gainpopulazio
 gainsari
+gaintar
+gaintentsio
+gainzama
+gainzurikeria
+gainzuritu
 gaitajole
 gaitasun
 gaitezela
@@ -7544,8 +8827,36 @@ gaixorik
 gaixotasun
 gaizkata
 gaizki
+gaizki aipatu
+gaizki egin
+gaizki erabili
+gaizki eraman
+gaizki esan
+gaizki hartu
+gaizki hazi
+gaizki heldu
+gaizki hitz egin
+gaizki mintzatu
+gaizki-egile
+gaizki-egin
+gaizki-erraile
+gaizki-erran
+gaizki-esaka
+gaizki-esale
+gaizki-esanak barkatu
+gaizki-ulertu
+gaizkiagotu
+gaizkide
+gaizkie erran
+gaizkika
+gaizkikatu
 gaizkile
 gaizkile-talde
+gaizkin
+gaizkinahi
+gaizkindu
+gaizkintza
+gaizkitu
 gaizto
 gaiztoago
 gaiztoegi
@@ -7554,6 +8865,7 @@ gako
 galaxia
 galdakoar
 galdakoztar
+galdegai
 galdera
 galdetu
 galdetzaile
@@ -7575,9 +8887,11 @@ galtzak
 galtzarbe
 galtzari
 galtzerdi
+galtzerdi luze
 galtzerdi motz
 galtzetin
 gamelu
+gameluzain
 gameto
 gametofito
 gamma izpien eztanda
@@ -7606,28 +8920,47 @@ garaile
 garaipen
 garaitu
 garaitzaile
+garangorri
 garapen
 garateke
 garatu
 garatxo
 garatzaile
+garau
+garautegi
+garautsu
 garbantzu
 garbi
+garbi-garbi egin
+garbi-ikuzi
+garbia
+garbialdi
+garbian
+garbiarazi
 garbigailu
 garbigarri
 garbigela
 garbigune
+garbikeria
 garbiketa
 garbiketa etniko
+garbiki
 garbikunde
 garbikuntza
 garbileku
+garbimin
 garbiontzi
+garbirik
+garbiro
+garbitasun
 garbitegi
 garbitoki
 garbitu
 garbitzaile
 garbitzapen
+garbizale
+garbizalekeria
+garbizaletasun
 gardatxo
 gardinga
 garesti
@@ -7638,7 +8971,16 @@ garil
 garizuma
 garo
 garraiska
+garraizkie
+garraizkik
+garraizkin
+garraizkio
+garraizkizu
+garraizkizue
+garrantzi
 garrantzitsu
+garrantzizko
+garratz
 garraztarro
 garropil
 garun
@@ -7649,6 +8991,7 @@ gas negar eragile
 gasbide
 gaseosa
 gaseoso
+gasik
 gasolina
 gasolio
 gasteiztar
@@ -7657,6 +9000,9 @@ gastroenterologia
 gastroknemio
 gastronomia
 gatazka
+gatazkan
+gatazkatsu
+gatazkatu
 gatoz
 gatozen
 gatozke
@@ -7671,8 +9017,6 @@ gatzagi
 gatzontzi
 gau
 gau-hontz
-gau-inhara
-gau-iñara
 gau-pasa
 gau-saguzar
 gaua
@@ -7700,6 +9044,7 @@ gaueraino
 gauerako
 gauerantz
 gauerdi
+gauero
 gauetako
 gauetan
 gauetara
@@ -7714,6 +9059,9 @@ gauk
 gaupasa
 gaur
 gaur egun
+gaur egunean
+gaur egungo
+gaur gauean
 gaurekin
 gauren
 gaurengatik
@@ -7756,7 +9104,6 @@ gazta-tarta
 gaztagile
 gaztagin
 gaztagintza
-gaztai
 gaztaina
 gaztainarbola
 gaztainondo
@@ -7770,6 +9117,8 @@ gazte
 gazteen delinkuentzia
 gaztela-haize
 gaztelania
+gaztelar
+gaztelau
 gaztelera
 gaztelu
 gazteria
@@ -7803,6 +9152,7 @@ geltokiz
 genbiltzan
 genbilzke
 genbilzkeen
+gene-adierazpen
 genealogia
 genegien
 genegike
@@ -7825,6 +9175,8 @@ generakuskien
 generakutsan
 generakutsazke
 genero
+genero-identitate
+genero-trantsizio
 generoake
 generoan
 generoatzan
@@ -7842,6 +9194,7 @@ genezake
 genezakeen
 genezala
 genezan
+genian
 geniharduen
 genihardukake
 genihardukan
@@ -7860,6 +9213,7 @@ genitzala
 genitzan
 genkizkien
 genkizkion
+genozida
 genozidio
 gentozen
 gentozke
@@ -7879,10 +9233,15 @@ gentxezkizun
 genuen
 genuke
 genukeen
+geo-
 geodesia
 geografia
+geografia fisiko
+geografia orokor
+geografia politiko
 geografien
 geografiko
+geografikoki
 geografo
 geologia
 geologo
@@ -7898,15 +9257,24 @@ gereziondo
 geri
 germanioa
 gernikar
+gernu
+gernu egin
+gernu-debeku
+gernubide
 gero
 gero arte
+gero ere
 gero gerokoak
+geroenean ere
+gerok
 geroko
 gerontokrazia
 gerra
 gerra biologiko
 gerra crimen
 gerra hotza
+gerra judizial
+gerra juridiko
 gerra psikologiko
 gerra zibil
 gerra-deklarazio
@@ -7927,7 +9295,6 @@ gerriondo
 gerripeko
 gerriratu
 gerta ahala gerta
-gerta ala gerta
 gertaera
 gertaeren muga
 gertatu
@@ -7955,13 +9322,28 @@ gezi
 geziekin
 gezien
 gezur
+gezur eta abar
 gezur(ra)(k) esan
+gezur-jario
+gezur-zulo
+gezur-zuri
+gezurkeria
 gezurra erran
 gezurra esan
+gezurra gezurraren gainean
 gezurrak buztana labur
 gezurrak hanka motz
+gezurraren gainean
+gezurrean
+gezurretan
+gezurrez
 gezurrezko
+gezurrontzi
+gezurtarazi
+gezurtari
+gezurtero
 gezurti
+gezurzale
 ghanatar
 gibel
 gibeli
@@ -7983,6 +9365,18 @@ ginarreba
 ginateke
 ginatekeen
 ginbalet
+ginderraizkiake
+ginderraizkian
+ginderraizkieke
+ginderraizkien
+ginderraizkinake
+ginderraizkinan
+ginderraizkioke
+ginderraizkion
+ginderraizkizueke
+ginderraizkizuen
+ginderraizkizuke
+ginderraizkizun
 gindezaguzke
 gindezaguzkek
 gindezaguzken
@@ -8067,6 +9461,9 @@ gintzazuela
 gintzazuen
 gintzazula
 gintzazun
+gipuzkera
+gipuzkeratu
+gipuzkoar
 giro
 gisa
 gisa batera
@@ -8074,6 +9471,7 @@ gisa izan
 gisako
 gisan
 gisatu
+gisu
 gitarra erritmiko
 gizaki
 gizaki hilaren gailu
@@ -8093,6 +9491,10 @@ gizatasun
 gizateriaren kultura ondare immaterial
 gizaurde
 gizon
+gizon egin
+gizon-dantza
+gizon-emakume
+gizon-proba
 gizona
 gizonak
 gizonarekin
@@ -8107,6 +9509,7 @@ gizonarengatik
 gizonarentzat
 gizonari
 gizonaz
+gizondu
 gizonei
 gizonek
 gizonekin
@@ -8124,10 +9527,19 @@ gizonezko
 gizongai
 gizoni
 gizonik
+gizonkari
+gizonkeria
 gizonki
+gizonkila
 gizonkote
+gizontasun
+gizontto
+gizontxo
+gizontzar
 gizontzat
+gizonzale
 glaziar
+glaziarpeko
 glaziazio
 glaziologia
 globo
@@ -8147,6 +9559,7 @@ gobo
 gogait eragin
 gogleatu
 gogo
+gogoan jaso
 gogor
 gogora etorri
 gogortu
@@ -8159,8 +9572,10 @@ goian bego
 goibel
 goibeldu
 goiburu
+goien
 goilara
 goilare
+goitibeherako
 goitizen
 goiz
 goizik
@@ -8175,6 +9590,8 @@ gona
 gonada
 gonbidapen
 gonbidatu
+gonbidatzaile
+gonbidatze
 gonbit
 gondola
 gonorrea
@@ -8206,12 +9623,26 @@ gordetegi
 gordetzaile
 gordezale
 gordin
+gorila
 goroldio
 gorosti
+gorostiki
 gorotzil
-gorozti
 gorpu
 gorputz
+gorputz eta arima
+gorputz saindu
+gorputz-adar
+gorputz-adierazpen
+gorputz-arima
+gorputz-atal
+gorputz-enbor
+gorputz-heziketa
+gorputz-hezkuntza
+gorputza arindu
+gorputzaldi
+gorputzez
+gorputzezko
 gorrhats
 gorri
 gorriak ikusi
@@ -8248,6 +9679,7 @@ grafeno
 gramatika
 gramatikal
 gramatikari
+granadari
 granito
 grapagailu
 grappa
@@ -8287,10 +9719,26 @@ gune
 gune itsu
 guneka
 guraize
+guraso
+guraso bakarreko
+guraso-ahal
+guraso-elkarte
+gurasobakar
+gurasorde
+gurasotasun
+gurasotasun-baimen
+gurasotu
+gurasotzako
 gurbe
 gurbeondo
 gurbitz
 gurdi
+gurdibide
+gurdidun
+gurdika
+gurdikada
+gurditxo
+gurdizain
 gure
 gure aita
 gureganatu
@@ -8299,9 +9747,10 @@ guri
 gurin
 gurpil
 gurpil zoro
+gurpil-aulki
+gurpildun
 guruin
 guruin pineal
-gurutz
 gurutzaontzi
 gurutze
 gurutze santuaren egin
@@ -8326,6 +9775,7 @@ gutiziatu
 gutizios
 gutizioso
 gutxi
+gutxieneko soldata
 gutxienez
 gutxitan
 gutxitu
@@ -8384,6 +9834,8 @@ haiei
 haiek
 haien
 haienganatu
+hain
+hain zuzen ere
 hainbat
 haiteke
 haitz
@@ -8426,7 +9878,7 @@ haize-zirimola
 haize-zulo
 haize-zurrunbilo
 haizea eman
-haizea nora
+haizea nora, zapiak hara
 haizea poparean
 haizealde
 haizealdi
@@ -8451,14 +9903,52 @@ haizeti
 haizetorki
 haizetsu
 haizeztatu
-haizkolari
-haiztur
 hakar
 hakie
 hakien
 hakio
 hala
+hala bada
+hala berean
+hala edo hala
+hala ere
+hala eta ere
+hala eta guztiz ere
+hala izan bedi
+hala izan dadila
+hala moduz
+hala moduzko
+hala nola
+hala-hala
+hala-holako
+hala-nolako
 halabehar
+halabeharreko
+halabeharrez
+halabeharrezko
+halaber
+halabiz
+halakatu
+halako
+halako batean
+halako batez
+halakoan
+halakoetan
+halakorik
+halakotz
+halakoxe
+halan
+halandaze
+halarik ere
+halatan
+halatsu
+halatsuko
+halaxe
+halaz
+halaz ere
+halaz eta guztiz ere
+halaz guztiz
+halere
 halo
 haltz
 haltz arrunta
@@ -8475,7 +9965,6 @@ hamabinaka
 hamabira
 hamabiraka
 hamabiren
-hamabortz
 hamabosgarren
 hamaboskari
 hamabosna
@@ -8540,6 +10029,9 @@ hamster
 han
 hanburgesa
 handi
+handiago
+handiegi
+handien
 handiki
 handitu
 handitzaile
@@ -8549,8 +10041,31 @@ har
 har kantoin
 hara-
 haragi
+haragi bizi
+haragi bizi egin
+haragi bizitan
+haragi bola
+haragi egin
 haragi-bola
+haragi-euli
+haragi-salda
+haragi-uzte
+haragidun
+haragijale
+haragikeria
+haragiki
+haragikoi
+haragitarako
+haragitsu
+haragitu
+haragizale
+haragizko
+haragiztatu
+harakai
 harakin
+harakindegi
+harakitza
+harakune
 haran
 haran-beltz
 harat-
@@ -8559,7 +10074,11 @@ haratustel
 harbel
 hardi
 harea
+harea-erloju
+harea-lur
+hareatsu
 hareatsua
+hareatza
 hareharri
 haren
 harenondoko
@@ -8583,6 +10102,10 @@ harpe
 harpidetu
 harpidetza
 harrabots
+harraie
+harraigu
+harraio
+harrait
 harrapatu
 harraska
 harresi
@@ -8601,6 +10124,7 @@ harroin
 harrolio
 harrotu
 hartan
+hartan ere
 hartara
 hartarat
 hartu
@@ -8639,6 +10163,7 @@ hasieratu
 hasikin
 haste
 hasten
+hat-trick
 hator
 hatorke
 hatorren
@@ -8650,6 +10175,7 @@ hatxekit
 hatz
 hatz erakusle
 hatz erdiko
+hatz lodi
 hatz-bizar
 hatza
 hau
@@ -8664,6 +10190,9 @@ hau marka
 hauei
 hauek
 hauen
+hauetako
+hauetan
+hauetara
 haugu
 hauka
 haukagu
@@ -8683,6 +10212,7 @@ haurduntza
 haurren esplotazio
 haurrondokoa botatze
 haurtzain
+haurtzaro
 hauskor
 haustura hidrauliko
 haut
@@ -8690,6 +10220,7 @@ hauta
 hautatu
 haute
 hautesbarruti
+hauteskunde
 hautesle
 hautesleria
 hauts
@@ -8717,7 +10248,6 @@ hazi
 hazil
 hazizurri
 hazkunde esponentzial
-hazlodi
 haznagi
 hebrear
 hebreera
@@ -8743,14 +10273,16 @@ hegike
 hegitzake
 hegitzan
 hego
-hego afrikar
 hego-ekialde
 hego-mendebal
 hego-sartalde
 hego-sortalde
+hegoafrikar
 hegoalde
 hegoaldeko
+hegoaldetar
 hegoburua
+hegokorear
 hekien
 hekike
 hekizke
@@ -8762,14 +10294,20 @@ hekuskien
 helbide
 helbide-txartel
 helburu
+helburua bete
+helburua izan
+helburuzko
 heldu
 heldugabe
 helduleku
 helikoptero
 helio
 helioa
+heliozentriko
+heliozentrismo
 heliportu
 helize
+helsinkiar
 hematokrito
 hematologia
 hematopoiesi
@@ -8824,6 +10362,15 @@ herakutsazke
 heraldika
 herbeheretar
 herdoil
+herdoilak jan
+herdoilak jo
+herdoildu
+herdoildura
+herdoilezin
+herdoilgaitz
+herdoilgarri
+herdoilkor
+herdoiltsu
 heren
 herena
 herenegun
@@ -8833,6 +10380,15 @@ hereni
 herensuge
 herio
 heriotza
+heriotza eman
+heriotza-agiri
+heriotza-epai
+heriotza-tasa
+heriotza-zigor
+heriotzagile
+heriotzaldi
+heriotzaz hil
+heriotzazko
 heriotzorri
 heroake
 heroan
@@ -8842,6 +10398,7 @@ heroi
 heroiko
 heroina
 heroismo
+herori
 herra
 herri
 herri hustu
@@ -8849,6 +10406,7 @@ herria
 herrialde
 herrialde guztietako proletarioak, elkar zaitezte
 herrien
+herrietako
 herriko
 herriko taberna
 herriko tabernak
@@ -8865,7 +10423,6 @@ hesi
 hesi-berdantza
 hesilahar
 heste lodi
-heste zizare
 heterodoxo
 heterokromia
 heterozentrismo
@@ -8899,13 +10456,16 @@ hezur-muin
 hezurdura
 hezurtegi
 hi
-hibai
 hidrogeno
 hidrografia
 hidrokarburo
 hidrosfera
 hidrozefalia
 hiena
+hierarkia
+hierarkiko
+hierarkizatu
+hierarkizazio
 hifa
 higan
 higrometro
@@ -8913,9 +10473,12 @@ hiharduen
 hihardukake
 hihardukan
 hiharduke
+hihaur
 hik
 hika
 hikatu
+hiketa
+hiketan
 hil
 hil aitor
 hil ala bizi
@@ -8926,7 +10489,8 @@ hil mozorro
 hil-auto
 hil-automobil
 hil-behar
-hila lurpera
+hila lurpera, biziak asera
+hila lurpera, biziak mahaira
 hilabete
 hilabetekari
 hilabeteko mezak
@@ -8941,13 +10505,24 @@ hilaur egin
 hilaurtu
 hilbeila
 hilberri
+hilero
+hileroko
 hilerri
 hilerri-lili
 hiljantzi
 hilotz
 hiltegi
+hiltzaile
 hiltzen ari naiz
 hiltzerik-ez
+hinderraidake
+hinderraidan
+hinderraieke
+hinderraien
+hinderraiguke
+hinderraigun
+hinderraioke
+hinderraion
 hindezagudan
 hindezaguen
 hindezagugun
@@ -9016,9 +10591,13 @@ hire
 hire baitan
 hiregan
 hiri
+hiri kondaira
 hiri-antolamendu
 hiribide
 hiriburu
+hiriburutar
+hiriburutza
+hirigile
 hirigintza
 hirik
 hiriko
@@ -9030,7 +10609,6 @@ hirugarren
 hiruhortz
 hiruki
 hirukoitz
-hirur
 hirurogei
 hirurogeigarren
 hirurogeina
@@ -9084,11 +10662,13 @@ hitzarmenezko ezkontza
 hitzaurre
 hitzegin
 hitzordu
+hizkuntz oztopo
 hizkuntza
 hizkuntza eraikia
 hizkuntza estandar
 hizkuntza familia
 hizkuntza hil
+hizkuntza ofizial
 hizkuntzakeria
 hizkuntzalari
 hizkuntzalaritza
@@ -9106,9 +10686,21 @@ hoake
 hoan
 hobe
 hobe da berandu sekula baino
+hobeki
+hobeki esan
+hobekiago
+hobekien
+hobekienik
+hobekitu
+hobekixeago
 hobekuntza
-hoben
 hoberen
+hobeto
+hobeto esan
+hobeto esanda
+hobeto esateko
+hobetoago
+hobetoxeago
 hobetu
 hockey
 hodei
@@ -9155,15 +10747,36 @@ homosexualitate
 hondamen
 hondamen natural
 hondar
+hondar-ekaitz
+hondar-lur
+hondar-mondar
+hondar-txori
+hondarazi
+hondargabe
+hondarki
+hondarkin
+hondarpe
+hondarraldi
+hondarrean
+hondarreko
+hondarreratu
+hondarrik
+hondartsu
+hondartu
 hondartza
 hondartzako futbol
+hondartze
 hondatu
 hondatuta
-hondo
 hondoratu
 honek
 honela
 honen
+honetako
+honetan
+honetara
+honetatik
+honetaz
 honi
 hontz
 hontz ertain
@@ -9171,6 +10784,7 @@ hontz handi
 hontz zuri
 hontza
 hor
+hor konpon
 hori
 hori bai
 hori da hori
@@ -9199,7 +10813,6 @@ horren
 horri
 hortentsia
 hortz
-hortzi
 hostaro
 hosto
 hosto bat bezala ikaratu
@@ -9243,7 +10856,6 @@ hutsegi
 hutsen
 hutsik
 huñ
-hür
 i
 i greko
 ia
@@ -9264,8 +10876,32 @@ ibairatu
 ibar
 iberiar katamotz
 ibi
+ibilaldi
+ibilarazi
+ibilarazle
+ibilbide
+ibilbide-orri
+ibilbidea egin
+ibildaun
+ibilera
+ibilerraz
 ibilgailu
+ibilgailu autonomo
+ibilgaitz
+ibilgetu
+ibilgona
+ibilgu
+ibilgune
 ibili
+ibili eta ibili
+ibilkari
+ibilketa
+ibilki
+ibilkor
+ibilmolde
+ibiltari
+ibiltegi
+ibiltoki
 iceberg
 ichasso
 idatzi
@@ -9300,11 +10936,14 @@ idazluma
 idazmahai
 idazmakina
 ideia-jasa
+identifika
 identifikadore
 identifikagarri
 identifikatu
 identifikatzaile
 identifikazio
+identitario
+identitate
 idi
 idi-begi
 idi-bihotz
@@ -9331,6 +10970,7 @@ igandeak begiratu
 igandeak gorde
 igandekari
 igandero
+igante
 igaraba
 igaran
 igarbide
@@ -9501,6 +11141,7 @@ iker
 ikerlari
 ikertu
 ikertzaile
+ikertzailea
 ikono
 ikonografia
 ikonostasi
@@ -9509,10 +11150,12 @@ ikur
 ikurrin
 ikurrina
 ikus
+ikus-kirio
 ikusak
 ikusan
 ikusazu
 ikusazue
+ikuseremu
 ikusi
 ikusiko
 ikusle
@@ -9520,6 +11163,7 @@ ikusmen
 ikuste
 ikusten
 ikuzgailu
+ikuzi
 ikuzkailu
 ikuztegi
 ilar
@@ -9532,6 +11176,7 @@ ilargi
 ilargi berri
 ilargi bete
 ilargi eklipse
+ilargi ostadar
 ilargi zahar
 ilargi zuri
 ilargi-aldarte
@@ -9558,18 +11203,21 @@ ilegorri
 ilen
 ileorde
 ilertz
-ilherri
 iloba
 iloba txiki
 ilobaso
 iltze
 iltzea
 ilun
+ilunabar
+ilunabartu
 ilunantz
 iluntze
 ilunune
 iman
+imita
 imitatu
+imitazio
 immigrazio
 immunitate kolektiboa
 immunoeskasia
@@ -9620,7 +11268,10 @@ indarrez
 indarrezko
 indartsu
 indartu
+independente
 independentzia
+indeterminismo
+indiar
 indiar antzara
 indibidualismo
 indigestioak
@@ -9628,14 +11279,21 @@ indioa
 indioilar
 indioilo
 indizea
+indondik ere
 indonesiar
 indonesiera
 indri
 industrialde
+industrializa
+industrializatu
+industrializazio
 inesibo
 infanteria
 infekzio
 infernu
+infiltra
+infiltratu
+infiltrazio
 infinitu
 inflatoi
 informazio
@@ -9659,15 +11317,21 @@ ingude
 inguma
 inhibitzaile
 inoiz
+inoiz ere
 inoiz ez
+inolaz ere
 inon
+inon ere
 inor
+inor ere
 inora
+inora ere
 inoren
 inori
 inozo
 inpala
 inpedantzia
+inperialismo berria
 inperio
 inprimagailu
 insektu
@@ -9713,12 +11377,11 @@ ipar-mendebal
 ipar-sartalde
 ipar-sortalde
 iparburua
+iparkorear
 iparralde
 iparreko
 iparrizar
 iparrorratz
-iphar
-iphurdi
 ipini
 ipotx
 ipurdi
@@ -9745,8 +11408,6 @@ iradokizun
 iragan
 iraganera begiratze
 iragarki
-irago
-iragon
 irail
 irain
 irain egin
@@ -9798,10 +11459,13 @@ irakurgela
 irakurle
 irakurri
 irakurterraz
+irandar
+iraniar
 irasagar
 irasagarrondo
 iratxo
 iratzarri
+iratze
 iratze arrunt
 irauk
 iraultza
@@ -9814,6 +11478,8 @@ irazkindu
 ireki
 irekigailu
 irelu
+irents
+irentsi
 iridioa
 irin
 irisgarri
@@ -9836,23 +11502,25 @@ irrati-teleskopio
 irratsaio
 irredentismo
 irri
+irri-antzerki
 irribarre
 irrigarri
 irris
 irriño
 irteera
 irten
-iru
 irudi
 irudik
+irudikari
 irudiko
 irudin
 irudipen
 iruditu
 irudizu
 irudizue
+iruindar
 iruinharri
-irur
+irulegitar
 iruzkin
 iruzur
 iruzur egin
@@ -9861,7 +11529,6 @@ iruzurkeria
 iruzurti
 iruzurtu
 isats
-isil
 isildu
 isilpeko polizia
 isiltasun
@@ -9889,6 +11556,7 @@ istorio
 istripu
 isun
 isuri
+isurkari
 isurtze
 italiar
 italiartasuna
@@ -9900,7 +11568,6 @@ ito
 itolarri
 itota hil
 itrioa
-itsas
 itsas aingira
 itsas armada
 itsas arrain
@@ -9956,6 +11623,7 @@ itsasbazter
 itsasbehera
 itsasbide
 itsasertz
+itsasgabe
 itsasgaitz
 itsasgarri
 itsasgizon
@@ -9988,7 +11656,6 @@ itsaspekari
 itsaspeko
 itsaspen
 itsasperatu
-itsasso
 itsastar
 itsastatu
 itsasturi
@@ -10006,19 +11673,19 @@ itsutara
 itun
 iturgin
 iturgin giltza
+iturgintza
 iturri
 iturriko ura
 itxarongela
 itxaropen
-itxaso
 itxi
+itxura
 itxurati
 itzak
 itzal
 itzalgailu
 itzali
 itzan
-itzaso
 itzazu
 itzazue
 itziartar
@@ -10033,6 +11700,7 @@ itzulika
 itzulikatu
 itzulikatze
 itzulpen
+itzulpengintza
 itzulpengintza automatikoa
 itzultzaile
 itzuri
@@ -10046,13 +11714,16 @@ ixil-ixila
 ixildu
 ixilik
 ixiltasun
+izaera
 izain
 izan
+izan ere
 izan ezik
 izango
 izar
 izar bikoitz
 izar bitar
+izar konpaktu
 izar-belar arrunta
 izardi
 izarrihitz
@@ -10068,6 +11739,7 @@ izei gorri
 izeko
 izen
 izen arrunt
+izena
 izenburu
 izenlagun
 izenondo
@@ -10102,6 +11774,7 @@ iztupa
 izurde
 izurdea
 izurri pneumoniko
+izurrite
 j
 jabari publikoa
 jabe
@@ -10137,16 +11810,20 @@ jainkoztatu
 jaio
 jaioberri
 jaiotza
+jaiste
+jaitsaldi
+jaitsarazi
 jaitsi
+jaitsiera
 jaka
 jakadun
-jake
-jakedun
+jakartar
 jaki
 jakik
 jakin
 jakin nahi nuke
 jakina izan
+jakinarazpen
 jakinmin
 jakitzak
 jakitzan
@@ -10158,12 +11835,13 @@ jakutera
 jamaikako piperbeltz
 jan
 janari
+jangarri
 jangela
 janleku
 jantegi
 jantoki
-jantxakur
 jantzi
+jantzi-denda
 jantzian
 jantzigintza
 janzkera
@@ -10177,22 +11855,50 @@ japoniera
 jaramon egin
 jaraunsle
 jardun
+jariagai
+jariaketa
+jariakin
+jariakor
+jariakortasun
+jariarazi
+jariatu
+jario
+jarioan
+jariodun
+jarioka
+jariotsu
 jarraiki
+jarraikiarazi
+jarraikitasun
+jarraikitzaile
 jarraitako du
 jarraitu
+jarraituki
+jarraitutasun
 jarri
 jas
+jaso
+jasoaldi
+jasoarazi
+jasogailu
+jasokunde
+jasotasun
+jasotzaile
+jasotze
 jasotzeko pisu
 jatetxe
+jatorri
 jaun
 jauregi
 jauregitar
 jauregizain
+jaurtigai
 jausgailu
 jausi
 jautsi
 jauzi
 jauzi egin
+jazarlea
 jeinu
 jela
 jeltzale
@@ -10204,9 +11910,11 @@ jende-oste
 jende-talde
 jendetasun
 jendetasunez
+jendetsu
 jendetu
 jendetza
 jengibre
+jertse
 jetzi
 jihad
 jipoitu
@@ -10222,9 +11930,11 @@ jogurt
 joka
 jokalari
 jokatu
+joko
 joku-teoria
 jolas parkea
 jolastoki
+jordaniar
 jorrail
 josi
 joskera
@@ -10246,10 +11956,11 @@ jotekin
 joten
 joule
 jugoslaviar
+justifikatu
+justifikazio
 justizia jauregi
 k
 ka
-kabia
 kadaberina
 kadmioa
 kafe
@@ -10280,10 +11991,32 @@ kakoa
 kakoari
 kalbinismo
 kale
+kale egin
+kale gorri
+kale itsu
 kale nagusia
+kale-agerraldi
+kale-antzerki
+kale-argi
+kale-baserri
+kale-bazter
+kale-ertz
+kale-garbitzaile
+kale-kantoi
+kale-txakur
 kalean
+kalean utzi
+kalejira
+kalekume
 kalenda
+kalera atera
+kalera bidali
+kalera bota
+kaleratu
 kaleren
+kaletar
+kaletartu
+kalezulo
 kalifa-herri
 kaliferri
 kalifornioa
@@ -10294,7 +12027,6 @@ kalte egin
 kaltegarri
 kaltegarrizko
 kaltetu
-kaltzairu
 kaltzedonia
 kaltzio
 kaltzita
@@ -10308,6 +12040,7 @@ kaltzitari
 kaltzitarik
 kaltzitatzat
 kaltzitaz
+kamarada
 kameleoi
 kamerundar
 kameu
@@ -10318,13 +12051,17 @@ kamuts
 kan
 kanabera
 kanbio
+kanbio-letra
+kanbodiar
 kandana
 kandela
 kandelak
 kandidatu
 kanela
 kanguru
+kanixe
 kanoi
+kanoi-gurdi
 kanpai
 kanpai-horma
 kanpo
@@ -10340,14 +12077,20 @@ kantatu
 kantina
 kantitatea
 kapar
+kapare
+kaparetasun
 kapela
+kapellasita
 kapera
 kapera-maisu
 kaperaño
 kapitalismo
+kapitalista
 kapitel
 kapitulu
+kapo
 kaputxina
+kaputxino
 kar
 kara
 karabansaraia
@@ -10358,6 +12101,7 @@ karaoke
 karbono
 karbono dioxido
 karbonoa
+karboplatino
 karbunko
 karburagailu
 kardabera
@@ -10365,9 +12109,11 @@ kardinal
 kardu
 kardu urdin
 kardu urdina
+kareharri
 kareliera
 karen
 karga elektriko
+karga-jasogailu
 kari
 karik
 kariloi
@@ -10375,6 +12121,8 @@ karkarkar
 karlismo
 karlistada
 karlistaldi
+karmeldar
+karniboro
 karpa
 karpan
 karramarro
@@ -10385,6 +12133,7 @@ karraskari
 karratu
 karrika
 karroin
+kartagotar
 kartera
 kartismo
 kartzinoma
@@ -10410,20 +12159,33 @@ katalepsia
 katalogo
 kataluniar
 katamaran
+katamotz
 katamotz gorri
 katan
 katara
 katatxori
 kate
+kate motz
+kate motzean
 kate trofiko
 kate-erreakzio
+kate-maila
 katea
+kateamendu
+katean
 kateatu
+kateatze
+katebegi
 katedra
 katedral
+kategintza
 kategoria
+kategorizazio
 katek
+kateko txakur
 katekolamina
+kateorratz
+katetan
 kateter
 katilu
 katilukada
@@ -10432,6 +12194,7 @@ katodo
 katolizismo
 katu
 katu beltz
+katu-belar
 katua
 katuak
 katuarekin
@@ -10484,8 +12247,10 @@ kemengabe
 kementsu
 ken
 kendu
+kenketa
 kera
 keroseno
+kerubin
 ketan
 ketara
 ketsu
@@ -10493,11 +12258,18 @@ ketu
 kez
 keztategi
 keztatu
-khorostü
+kide
+kikara
+kikarakada
 kilate
 kilker
+kilo
 kilo-
 kilogramo
+kilogramo indar
+kilogramo metro kubikoko
+kilogramo metro kuboko
+kilogramo metroko
 kilotoi
 kimika
 kimikari
@@ -10530,11 +12302,13 @@ klariona
 klase
 klementina
 klera
+klitori
 klitoriaren moko-azal
 kloroa
 klorofila
 kloroformo
 koaderno
+koagulazio
 koala
 koana
 koartza
@@ -10572,12 +12346,16 @@ koleratsu
 koleratu
 kolibri
 kolofonia
+kolonizatu
+kolonizazio
 kolore
 kolpe
 koltan
 koltxa
 koltxoi
 koltxoneta
+komentu
+komentual
 kometa
 komiki
 komisaldegi
@@ -10585,6 +12363,7 @@ komisarian
 komun
 komuneko paper
 komunismo
+komunista
 komunztatu
 konbentzigarri
 konbentzimendu
@@ -10592,16 +12371,34 @@ konbentzitu
 kondaira
 kondairagile
 kondenatuta
+kondentsadore
+kondentsatu
+kondentsazio
+konderri
+kondizio
+kondizional
 kondoi
 kondrita
 konfidentzialtasun
 konfinamendu
+konklabe
 kono
+konparatu
 konpas
+konplexu
+konponbide
 konpondu
+konponduezin
+konponezin
+konpongaitz
+konponketa
+konpontzaile
+konpontze
 konspirazio-teoria
 konspirazioaren teoria
+konstelazioa
 konstituzio
+konstituzional
 kontagailu
 kontatu
 kontentatu
@@ -10614,6 +12411,7 @@ kontrakultura
 kontrol-dorre
 kontrolatu
 kontsonante
+kontsonante multzo
 kontu
 kontu egin
 konturatu
@@ -10631,12 +12429,13 @@ kontzientziatu
 kontzientziaz
 kontzientziazio
 konurbazio
-koosti
 kopa
 kopeta
 kopetan
 koptoera
 koral
+korapilatsu
+korapilatze kuantiko
 korapilo
 korbata
 korbeta
@@ -10645,10 +12444,11 @@ kordierita
 korear
 koreera
 koroa
+koroa zirkular
+koroaren dependentzia
 koroatze
 koroazio
 koronabirus
-korosti
 korradu-belar
 korrelazio
 korrika egin
@@ -10663,14 +12463,19 @@ kortxeaerdi
 kortxoa
 koru
 kosinu
+kosmo-
+kosmodromo
 kosmogonia
+kosmologia
+kosmonauta
 kostagabe
 kostatu
 kostazaintza
-kostei
 kostu
+kotoi makina
 kotoin
 kotxe
+kotxinilla
 kotxorro
 kozinatu
 krater
@@ -10679,6 +12484,7 @@ kreazionismo
 kreditu-txartel
 krema
 kremailera
+kreolera
 kretar
 kriket
 kriminologia
@@ -10695,11 +12501,16 @@ kristautasun
 kroaziar
 kroaziera
 krokodilo
+krokodilo-malkoak
 krokodilok
 kromo
 kromoa
 kromosfera
+krono-
 kronologia
+kronologiko
+kronologo
+kronostasia
 kros
 kruasan
 ku
@@ -10711,6 +12522,7 @@ kuartel nagusi
 kubatar
 kubo
 kuen
+kuez
 kuia
 kuk
 kuko
@@ -10720,16 +12532,19 @@ kuku-porru
 kukupel
 kukurruku
 kukurutx
+kukurutxa
 kukutxeztul
 kulero
 kuleto faltsu
 kuliska gorri
 kuliska txiki
+kultu
 kultura
 kultura-aniztasun
 kulunka
 kulunkatu
 kulunkaulki
+kuluxka
 kuma
 kumara
 kume
@@ -10838,8 +12653,19 @@ lain
 laino
 lainote
 laister
+laket
+laket-portu
+laketaldi
+laketarazi
+laketgarri
+laketontzi
+laketu
 laktosa
 laku
+lama
+lamada
+lamaismo
+lamaista
 lamia
 lan
 lan bila nabil
@@ -10851,10 +12677,16 @@ lanbas
 lanbro
 lanbrotsu
 lanbrotu
+lanbroxka
 landa
 landare
 landare-
 landare-ikatz
+landare-olio
+landare-zorri
+landaredi
+landaretza
+landarezaintza
 landetxe
 lanegun
 langabe
@@ -10867,6 +12699,8 @@ lantegi
 lantegi 'workplace'
 lantoki
 lantza
+laosera
+laostar
 lapa
 lapar
 lapitz
@@ -10874,6 +12708,9 @@ lapur
 lapurkume
 lapurreria
 lapurreta
+lapurretan
+lapurretan egin
+lapurretatxo
 lapurretxe
 lapurtegi
 lapurtu
@@ -10903,6 +12740,7 @@ larrugorri
 larrutan egin
 larunbat
 larunbata
+larunbatero
 lasaitu
 lasartear
 laser
@@ -10982,7 +12820,10 @@ legar
 legardar
 legatz
 legatz arrunt
+legazpiar
 lege
+legebiltzar
+legebiltzarkide
 legezko
 legezko abisu
 legike
@@ -11009,7 +12850,10 @@ leherketa
 lehertu
 lehoi
 lehoia
+lehoikume
 lehoinabar
+lehoitegi
+lehoitzar
 lehor
 lehor-haize
 lehorte
@@ -11018,7 +12862,6 @@ leiar
 leiho
 leitu
 leize
-leizer
 lekale
 lekike
 lekikete
@@ -11044,7 +12887,46 @@ lepahori
 lepauztai
 lepho
 lepo
+lepo egin
+lepo egon
+lepo ibili
+lepo-hezur
+lepo-luze
+lepo-makur
+lepo-mehe
+lepo-motz
+lepo-oker
+lepo-zain
+lepo-zintzur
+lepoa berotu
+lepoa bihurritu
+lepoa ebaki
+lepoa egin
+lepoa eman
+lepoa estutu
+lepoa ipini
+lepoa jarri
+lepoa jokatu
+lepoa moztu
+lepoalde
+lepoan
+lepoan eraman
+lepoan hartu
+lepogain
+lepokada
 lepoko
+lepomoztu
+lepondo
+lepora
+leporaino bete
+leporaino egin
+leporaino egon
+leporatu
+lepotik
+lepotik gora
+lepotik heldu
+lepozaki
+lepozale
 leptoi
 lera
 lerak
@@ -11058,10 +12940,44 @@ lerde
 lerdo
 lerei
 lerek
+leriake
+leridake
+lerieke
+leriguke
+lerinake
+lerioke
+lerizkiake
+lerizkidake
+lerizkieke
+lerizkiguke
+lerizkinake
+lerizkioke
+lerizkizueke
+lerizkizuke
+lerizueke
+lerizuke
 leroake
 leroakete
+leroaketek
+leroaketen
 leroazke
 leroazkete
+lerraiake
+lerraidake
+lerraieke
+lerraiguke
+lerrainake
+lerraioke
+lerraizkiake
+lerraizkidake
+lerraizkieke
+lerraizkiguke
+lerraizkinake
+lerraizkioke
+lerraizkizueke
+lerraizkizuke
+lerraizueke
+lerraizuke
 lerro
 lerro artean irakurri
 lertxun
@@ -11074,6 +12990,20 @@ letoniera
 letorke
 letozke
 letra
+letra etzan
+letra larri
+letra lodi
+letra xehe
+letra-gizon
+letra-tipo
+letradu
+letradun
+letragabe
+letragabeko
+letraldatu
+letratu
+letraz
+letrazale
 letreiatu
 letxekiake
 letxekidake
@@ -11112,14 +13042,27 @@ lezakete
 lezan
 lezaten
 lezka
+lezoar
 liba
+libanoar
 libertate
 libra
 libre
 libreto
 liburu
+liburu elektroniko
+liburu santu
+liburu-denda
 liburudenda
+liburugile
+liburugintza
+liburuki
+liburukote
 liburutegi
+liburutxo
+liburuxka
+liburuzain
+liburuzale
 liechtensteindar
 lignito
 lihardukake
@@ -11132,11 +13075,14 @@ lihoazke
 liken
 likido
 likosido
+lili
 lilidun
 lilipa
+liliputar
 liluragarri
 liluragarria
 liluragarrik
+liluratu
 lima
 limari
 limatu
@@ -11145,8 +13091,11 @@ limoe bedarr
 limoi
 limoi ur
 limoiondo
+limurtu
 lindano
+linguista
 linguistika
+linguistiko
 linjeria
 lipschitzar
 lira
@@ -11158,9 +13107,7 @@ lirudike
 lirudikete
 lisaburdina
 liskar
-listafin
 listeriosi
-listor
 listu
 liteke
 litekek
@@ -11189,6 +13136,7 @@ lixiba-pala
 lizar
 lizar loredun
 lizar-astigar
+lizardi
 lizarki
 lizarratar
 liztor
@@ -11200,24 +13148,30 @@ llollo
 llollobelar
 lo
 lo egin
-lo egin 'sleep'
 lo gelditu
 lo-belar
 lo-kanta
 lo-zaku
-lobeko
 lodi
 lodikor
 loditasun
 logela
-logela 'bedroom'
 logika
 logikari
 logiko
 logorrea
 lohi
 lohi-babes
+lohidura
+lohigabe
+lohigarri
+lohihartzeko
+lohikeria
 lohitako lotxa
+lohitasun
+lohitsu
+lohitu
+lohiztatu
 lokailu
 lokatz
 loki
@@ -11242,6 +13196,8 @@ lotsati
 lotsatu
 lotu
 lotura
+lotura kimiko
+lotura kobalente
 lotura peptidiko
 lotxa beltz
 lu
@@ -11254,6 +13210,7 @@ luke
 lukek
 luken
 lukete
+luki
 luma
 lumatxo
 lumineszentzia
@@ -11349,6 +13306,7 @@ lurreratze-trena
 lurreten
 lurreztatu
 lurrikara
+lurrun
 lurrun-turbina
 lurrunontzi
 lursagar
@@ -11356,6 +13314,7 @@ lurtar
 lurzoru
 luteranismo
 lutezioa
+lutita
 lutxo
 luxenburgera
 luxenburgotar
@@ -11373,7 +13332,6 @@ luzatu
 luze
 luzetasun
 luzoker
-lózer
 m
 m-
 ma-
@@ -11399,6 +13357,7 @@ magnetismo
 magnetosfera
 mahai
 mahai-tresnak
+mahaia jaso
 mahasgintza
 mahaskari
 mahaspasa
@@ -11450,7 +13409,6 @@ maite-jolas
 maite-kanta
 maite-maite egin
 maite-su
-maitea
 maiteki
 maitekiro
 maitekor
@@ -11460,8 +13418,16 @@ maitetasun
 maitetsu
 maitez
 maiz
+maiz aski
+maiz asko
+maiz askotan
+maizenean
+maizenik
+maizko
+maiztasun
 maizter
-maiñari
+maiztu
+maiztxo
 makabro
 makal
 makar
@@ -11477,8 +13443,18 @@ makrame
 makrozefalia
 makulu
 makur
+makurtu
 malaiera
+malda
+malda-behera
+malda-gora
+maldagarri
+maldan behera
 maldan behera joan
+maldan gora
+maldan gora egin
+maldatsu
+maldatu
 malenkonia
 maleta
 maliar
@@ -11489,6 +13465,7 @@ mallorcar
 mallorkera
 maltar
 maltera
+mameluko
 mamu
 mamut
 manati
@@ -11545,7 +13522,6 @@ mapetarantz
 mapetatik
 mapez
 mara-mara
-maradikatu
 marasma
 marasma-etxe
 marasma-sare
@@ -11567,9 +13543,9 @@ marmol
 marmota
 marokoar
 marra
-marraskilo
 marrazo
 marroi
+marroixka
 marrubi
 marrubi-landare
 marrubiondo
@@ -11587,10 +13563,16 @@ masail
 maskor
 maskulinotasun
 masta
+masturba
 masturbatu
 masturbazio
 masusta
+masusta-arbola
+masusta-gorri
+masusta-txori
 masustondo
+masustondo beltz
+masustondo zuri
 matakan
 mate
 matematika
@@ -11600,6 +13582,7 @@ materialismo historiko
 matrikula
 matrioxka
 matxinada
+matxinarazi
 matxinatu
 matxino
 matxinsalto
@@ -11623,7 +13606,9 @@ meatzaritza-lan
 meatze
 meatze-aho
 meazulo
+mediko
 mediku
+medikuntza
 medikuntza alternatibo
 medikuntza tradizional
 megalito
@@ -11638,6 +13623,8 @@ mehatxuz
 mehatxuzko
 mehe
 meiosi
+mekanizatu
+mekanizazio
 melodia
 meloi mikatz
 melokotoi
@@ -11648,6 +13635,7 @@ mendafin
 mendate
 mende
 mendebal
+mendebal-txori mokolodi
 mendebaldeko platano
 mendeku
 mendelebioa
@@ -11660,6 +13648,7 @@ mendizale
 menhir
 merenge
 meridiano
+merkantilismo
 merkataritza-gune
 merkatu
 merkatu beltz
@@ -11677,11 +13666,14 @@ meskita
 meta
 metafora
 metal
+metalinguistika
 meteorito
 meteoro
 meteorologia
 metodismo
 metodo
+metro karratu
+metro koadro
 metronomo
 metxero
 meza
@@ -11692,6 +13684,7 @@ mezzanine
 mi
 miarriztar
 mielentzefaloa
+migrazio
 mihi
 mihi-puntara etorri
 mihilu
@@ -11710,6 +13703,11 @@ mila milioi
 milesker
 miliar
 milioi
+militarismo
+militarista
+militariza
+militarizatu
+militarizazio
 milizia
 min
 min egin
@@ -11743,10 +13741,12 @@ mintzamen
 mintzatu
 minus
 minutu
+minutuko isilune
 miokardio infartu akutu
 miopia
 mirandera
 mirari
+miresle
 miretsi
 mirlitoi
 mirotz zuri
@@ -11758,11 +13758,11 @@ misantropok
 misantropotzat
 misera
 misil
+misiolari
 misterio
 misteriotsu
 misteriozko
 mitiko
-mitil
 mito
 mitologia
 mitologiko
@@ -11772,6 +13772,9 @@ mitxoleta
 mizpira
 mizpirondo
 mobil
+modifika
+modifikatu
+modifikazio
 modu
 modu berean
 modu on
@@ -11782,6 +13785,7 @@ modu txarrean
 modua egin
 moduan
 moduko
+modulazio
 modura
 modutsu
 moduz
@@ -11789,6 +13793,7 @@ moduzko
 moduzkotasun
 moduztatu
 mofeta
+moja
 moko
 moko-azal
 mokoker hegalzuri
@@ -11801,19 +13806,31 @@ molibdenoa
 molorrika
 momentu
 momia
+monakoar
 monarka
 monarkia
+monarkia absolutu
 monarkia konstituzional
 monarkiko
 monasterio
+mongol
 mongoliar
 mongoliera
 monitore
 monokromatiko
 monolito
 monopsonio
+montenegroar
 montenegroera
 montra
+moral
+moralgabe
+moralismo
+moralista
+moralitate
+moralizante
+moralki
+moraltasun
 more
 morfina
 morokil
@@ -11827,7 +13844,6 @@ moskete
 mota
 motel
 motibatibo
-motil
 motor
 motots
 motozikleta
@@ -11836,20 +13852,32 @@ motoziklista
 motxila
 motxin
 motz
+motz gelditu
 motza
 motzago
+motzaldi
+motzarazi
 motzegi
 motzei
 motzen
+motzondo
 mozarabiera
 mozkor
+mozkorgarri
+mozkorkeria
 mozkorraldi
+mozkorrarazi
+mozkorrondo
 mozkorti
+mozkortu
 mozo
 mozolo
 mozorro
 mozorrodun
 mozorrotu
+moztaile
+moztasun
+mozte
 moztu
 mufloi
 muga
@@ -11894,7 +13922,8 @@ mugitu
 mugurdi
 mugurdiondo
 muino
-mulberry tree
+muino lekuko
+multinazional
 multzo
 multzoan
 multzoka
@@ -11909,6 +13938,7 @@ mundu txiki
 mundu zabal
 mundu-gerra
 mundu-herri
+mundua
 mundua mundu
 mundua mundu denetik
 mundua utzi
@@ -11933,11 +13963,13 @@ murtxikatu
 mus
 museo
 musika
+musika-kaxa
 musikal
 musikaldi
 musikari
 musikazale
 musker
+muskertu
 muskil
 muskuilua
 mustuka
@@ -11962,8 +13994,11 @@ muxumartin
 muztio
 n
 naba
+nabar
 nabar-lore
 nabaritu
+nabartasun
+nabartu
 nabil
 nabilen
 nabilke
@@ -12010,6 +14045,7 @@ nahikotasun
 nahikotu
 nahikotxo
 nahita
+nahita ere
 nahitu
 nahiz eta
 naiteke
@@ -12025,8 +14061,18 @@ nanotu
 napalm
 narbal
 nare
+narek
+narerik
+naretasun
+naretu
 narkolepsia
 narkotrafiko
+narraie
+narraik
+narrain
+narraio
+narraizu
+narraizue
 narrasti
 nartziso
 nasa
@@ -12068,7 +14114,6 @@ naukete
 naukezu
 naukezue
 naun
-nausi
 naute
 nauzu
 nauzue
@@ -12099,6 +14144,7 @@ nazazuela
 nazazuen
 nazazula
 nazazun
+nazio
 nazio erezerki
 nazio segurtasun
 nazio-estatu
@@ -12109,6 +14155,13 @@ nazioartekotu
 nazioartekotze
 nazional
 nazional boltxebismo
+nazionalismo
+nazionalista
+nazionalitate
+nazionalizatu
+nazionalizazio
+nazionalsozialismo
+nazionalsozialista
 nazkatu
 neba
 neba-arreba
@@ -12135,19 +14188,67 @@ negike
 negitzake
 negitzan
 negu
-negu [edit]
+negu beltz
+negu gorri
+negu min
+negu-parte
 negu-txonta
+negu-txori
+negualde
+negualdi
+neguantz
+neguburu
 neguei
 neguekin
 neguen
+neguero
 neguil
 negura
+neguta
+negutar
+negute
+negutegi
+negutu
+nehoiz ere
+nehola ere
+neholatan ere
+neholaz ere
+neholere
+nehon ere
+nehondik ere
+nehor ere
+nehorat ere
 neizar
+nekabide
+nekadura
+nekaezin
+nekagaitz
+nekagarri
+nekakor
+nekaldi
+nekaldu
+nekarazi
 nekatu
 nekatuta
+nekazale
+nekazalgo
 nekazari
 nekazaritza
+nekazaritza-eskola
+nekazaritza-turismo
+neke
+neke-sari
+nekearen nekez
+nekepe
+neketan
+neketasun
+neketsu
+neketxo
 nekez
+nekez bada nekez
+nekezia
+nekezka
+nekezko
 nekien
 nekike
 nekizke
@@ -12195,6 +14296,7 @@ nentzuzke
 nentzuzkien
 nenufar
 neodimioa
+neoinperialismoa
 neologismo
 neon
 neona
@@ -12219,9 +14321,14 @@ nerakuske
 nerakuskien
 nerakutsan
 nerakutsazke
+nerau
 nerbio
+nerbio optiko
+nerbio ziatiko
+neroaan
 neroake
 neroan
+neroanan
 neroatzan
 neroazke
 neska
@@ -12251,7 +14358,9 @@ neuri
 neuroaniztasun
 neurobestelakotasun
 neurologia
+neuropatologoa
 neurozientzia
+neurozientzialari
 neurri
 neurtezin
 neurtitz
@@ -12272,8 +14381,11 @@ nezake
 nezakeen
 nezala
 nezan
+nezeser
 ni
+ni belaunaldia
 ni beldur
+ni ingelesa naiz
 nigan
 niganatu
 niharduen
@@ -12287,7 +14399,20 @@ nik al dakit
 nik dakita
 nik uste
 nikela
+niken
 niketz
+ninderraiake
+ninderraian
+ninderraieke
+ninderraien
+ninderrainake
+ninderrainan
+ninderraioke
+ninderraion
+ninderraizueke
+ninderraizuen
+ninderraizuke
+ninderraizun
 nindezaguan
 nindezaguen
 nindezaguke
@@ -12393,6 +14518,7 @@ nitzakeen
 nitzala
 nitzan
 noa
+noak
 noake
 noan
 noar
@@ -12412,6 +14538,7 @@ noiz nola
 noizaldi
 noizarte
 noizbait
+noizbait ere
 noizbehin
 noizdaino
 noizdanik
@@ -12444,16 +14571,21 @@ noiztsu
 nola
 nola esaten da ingelesaz …?
 nola izena duzu?
+nolabait ere
 nolako
 nolako zura, halako ezpala
 nolakotasun
 nolakotsu
+nolanahi ere
+nolazpait ere
+nominatibo
 non
 non bizi zara?
 non edo han
 non edo non
 non ere
 non eta ez
+non gogoa, han zangoa
 non zer
 nonahi
 nonahi den
@@ -12471,6 +14603,7 @@ nonbaitik
 nondar
 nondik
 nondik edo handik
+nondik ere
 nondik eta nola
 nondik ez
 nondik nora
@@ -12504,6 +14637,7 @@ nor-nori-nork
 nor-nork
 nora
 nora edo hara
+nora ere
 nora gabe
 norabait
 norabait ere
@@ -12520,7 +14654,6 @@ norako
 noranahi
 norantz
 noranzko
-norat
 noratsu
 noratu
 norbait
@@ -12542,7 +14675,8 @@ numismatika
 o
 o-
 oasi
-oberen
+objektifikatu
+objektifikazio
 objektu
 objektu hegalari ezezagun
 oblast
@@ -12551,15 +14685,20 @@ obulu
 obulutegi
 octogono
 odol
+odol talde
 odol-analisi
+odol-plasma
 odol-presio
 odol-presioa
 odol-presioari
+odol-transfusio
 odolbero
+odolki
 odoltsu
 odolustu
 odolzale
 odometro
+ofentsiba
 ofiziozko abokatu
 oftalmologia
 oftalmoskopio
@@ -12570,6 +14709,7 @@ ogerleko
 ogi
 ogi arrail
 ogi beltz
+ogi zapal
 ogi zuri
 ogi-apur
 ogi-ardo
@@ -12587,9 +14727,11 @@ ogia erre arterainoko opil
 ogia eta zirku
 ogibide
 ogidun
+ogien
 ogigazta
 ogiketa
 ogipeko
+ogirik
 ogitarteko
 ogitegi
 ogitsu
@@ -12605,11 +14747,40 @@ oheen
 ohera joan
 oheratu
 ohiko
+ohitura
 ohizko
 ohoin
+ohoragarri
+ohoragarriki
+ohorarazi
+ohoratu
+ohoratzaile
+ohore
+ohore egin
+ohore ekarri
+ohore eman
+ohoretan
+ohoretsu
+ohorez
+ohorezki
+ohorezko
+ohorezko aipamen
+ohorezko matrikula
 oi
 oietako arabiera
+oihan
+oihan beltz
+oihan itsu
+oihanbide
+oihandar
+oihandu
+oihaneratu
+oihaneztapen
+oihaneztatu
 oihanpe
+oihantsu
+oihanzain
+oihanzaingo
 oihartzun
 oihukatu
 oilagor
@@ -12619,15 +14790,25 @@ oilaran
 oilarra
 oilartu
 oilasko
+oilaskoki
 oilaur
 oilaurra
 oilo
 oin
 oin-has
 oinarri
+oinarri hartu
+oinarri izan
+oinarri likidagarri
+oinarri-lege
+oinarridun
+oinarritu
+oinarritze
+oinarrizko
 oinatz
 oineko
 oinetako
+oinez
 oinezko
 oinezko bide
 oinezko bidea
@@ -12636,6 +14817,7 @@ oinezko pasabide
 oinezkoentzako
 oinorde
 oinordeko
+oinzubi
 oka
 oka egin
 okak
@@ -12661,6 +14843,7 @@ okintza
 okra
 okzitaniera
 olagarro
+olagarro zuri
 olatu
 oldar handiko
 oldartsu
@@ -12672,6 +14855,9 @@ olerkigintza
 oliba
 oliba olio
 olibondo
+oligarka
+oligarkia
+oligarkiko
 oligopolio
 olinpiada
 olio
@@ -12681,6 +14867,13 @@ olo gaizto
 olo zoro
 oloztatu
 omen
+omenaldi
+omendu
+omenez
+omenezko
+omengarri
+omenka
+omentsu
 omniboro
 omonier
 on
@@ -12698,22 +14891,47 @@ onartezintasun
 onartu
 ondar
 ondarroar
-ondatu
 onddo
 onddo arre
 onddo errege
 onddo hankagorri
 onddo-ardagai
 onddo-kapela
+onddoak bezala
+onddoak iduri
 onddobeltz
+onddoketa
+onddoketari
 onddozuri
 ondo
+ondo bai ondo
+ondo baino hobeto
+ondo bidean
+ondo da
+ondo edo gaizki
+ondo edo txarto
+ondo ere ondo
+ondo ibili
+ondo-esan
 ondoan
+ondoegi
+ondoen
+ondoez
+ondoezik
 ondoko
+ondokotasun
+ondonahi
 ondora
+ondoratu
+ondore
+ondorean
+ondoreko
 ondoren
 ondorenean
 ondorengo
+ondorengotza
+ondoretasun
+ondorik
 ondorio
 ondorioak atera
 ondoriotasun
@@ -12722,15 +14940,44 @@ ondorioz
 ondoriozko
 ondorioztatu
 ondotik
+ondotxo
+ondoz ondo
+ondoz ondoko
+ondozka
+ondozkatu
+ondozko
+onenean ere
 onetsi
 ongailu
 ongarri
 ongi
+ongi bai ongi
+ongi baino hobeki
+ongi da
 ongi etorri
+ongi izan
+ongi joan
+ongi-egile
+ongi-egin
+ongi-esan
+ongiegi
 ongietorri
 ongietorri egin
+ongile
+ongin
+onginahi
+onginahiz
+onginahizko
+ongintza
+ongirako
+ongitasun
+ongitu
+ongitxo
+ongixko
+ongizate
 onil
 onize
+onkeria
 onkologia
 onomastika
 onomatopeia
@@ -12789,12 +15036,17 @@ orain artean, dena ongi
 orain dela, duela
 orain duela
 oraindik
+oraindik ere
+oraindino ere
+oraino ere
 oraintxe
 oratu
 orbain
 orbaindu
 orburu
 ordain
+ordaina jaso
+ordaindu
 ordainketa
 ordaintze
 ordeka
@@ -12808,11 +15060,44 @@ ordulari
 ore
 oregano
 orein
+oreina
+oreinak
+oreinarekin
+oreinaren
+oreinarengan
+oreinarengana
+oreinarenganaino
+oreinarenganako
+oreinarenganantz
+oreinarengandik
+oreinarengatik
+oreinarentzat
+oreinari
+oreinaz
+oreinei
+oreinek
+oreinekin
+oreinen
+oreinengan
+oreinengana
+oreinenganaino
+oreinenganako
+oreinenganantz
+oreinengandik
+oreinengatik
+oreinentzat
+oreinez
+oreini
+oreinik
 oreinki
+oreintzat
 oreka
 oren
 orendaindar
 organismo
+organiza
+organizatu
+organizazio
 organo
 orgasmo
 orgatila
@@ -12836,7 +15121,7 @@ oroitu
 orojale
 orokor
 orokorki
-orokorphen
+orokorpen
 orokorrean
 orokortasun
 orokortu
@@ -12846,6 +15131,7 @@ orrazi
 orreagatar
 orri
 orria pasa
+orrialde
 orrialdeko pasatu
 orril
 ortodoxia
@@ -12853,7 +15139,6 @@ ortzadar
 ortzaizki
 ortzantz
 ortzargi
-ortze
 ortzegun
 ortzeko
 ortzi
@@ -12871,7 +15156,6 @@ osaba-iloba
 osaba-izeba
 osagarriak
 osagile
-osartzun
 osasun
 osasun etxe
 osasun onean
@@ -12894,6 +15178,7 @@ osasungintza
 osasuntsu
 osin
 oskol
+oskola
 oskoldun
 osmioa
 oso
@@ -13149,6 +15434,7 @@ osoz
 osozale
 osozko
 ospa!
+ospatu
 ospe
 ospedun
 ospegabe
@@ -13166,10 +15452,13 @@ oste
 ostean
 ostegun
 osteguna
+ostegunero
 osteka
 ostendu
+ostera ere
 ostiral
 ostirala
+ostiralero
 ostra
 ostruka
 osziloskopio
@@ -13199,6 +15488,9 @@ otorrinolaringologia
 otsababa
 otsagereziondo
 otsail
+otsein
+otseindu
+otseintza
 otso
 otso-gizon
 otsoa
@@ -13210,7 +15502,6 @@ otxar
 otxar basati
 otxar tindagai
 otxardi
-ou (ca)
 ouija
 oxigeno
 oxigenoa
@@ -13228,12 +15519,12 @@ ozpinetako-euli
 ozpinkeria
 ozpinontzi
 ozpintsu
-ozti
 oztin
 oñatiar
 p
 pa
 pabo
+pagatu
 pagatxa
 pagauso
 pago
@@ -13243,13 +15534,14 @@ paita
 pakete
 paketea
 paladioa
-palagatu
-palakatu
 palanka
 paleografia
+palestinar
 paliera
 palindromo
+palma olioa
 palmera
+palmondo olio
 panarabismo
 pandemia
 pandemian
@@ -13258,6 +15550,7 @@ pankrea
 panparroi
 panpina
 pansexualitate
+pantaila
 pantaila-babesle
 panti
 papagai
@@ -13267,6 +15560,24 @@ papar
 papar-hegal
 papargorri
 paper
+paper erre
+paper-denda
+paper-fabrika
+paper-latz
+paper-mutur
+paper-ore
+paper-pasta
+paper-txori
+paper-zorro
+papereratu
+paperezko
+papereztatu
+papergabe
+papergile
+papergintza
+paperjale
+paperontzi
+papertegi
 papirologia
 papo
 papourdin
@@ -13279,6 +15590,7 @@ paramagnetiko
 paramagnetismo
 parapsikologia
 paraxut
+parelio
 paristar
 parke
 parkimetro
@@ -13302,6 +15614,9 @@ pastela
 patata
 patata frijitu
 patata gozoa
+patata-koko
+patata-zomorro
+pats
 pattal
 pattalaldi
 pattaldu
@@ -13341,6 +15656,7 @@ pelotoi
 pendulu
 penintsula
 penizilina
+pensatu
 pentagrama
 pentimento
 pentsaera
@@ -13418,6 +15734,7 @@ pintxo
 pintzak
 pinu
 pinu-kaskabeltz
+pinudi
 pinudi-onddo likin
 pipa
 piper beltz
@@ -13433,6 +15750,7 @@ pista
 pistoi
 pistoi-tronboi
 pistola
+pistolari
 pisu
 pisu jaurtiketa
 pisua
@@ -13489,6 +15807,8 @@ pixagaletu
 pixagura
 pixaleku
 pixatoki
+pixka bat
+pixkana-pixkana
 pixontzi
 pizgailu
 piztia beltza
@@ -13500,6 +15820,7 @@ plaia
 plaketa
 planeta
 planeta ipotx
+planeta nano
 planetario
 plangintza
 planta
@@ -13515,10 +15836,15 @@ platuxa
 platuxa latz
 plaza
 plugin
+plutokrata
+plutokratiko
 plutokrazia
 plutondar
 plutonioa
 pneumatiko
+pobre
+pobrezia
+poema
 poeta
 poetak
 poetaz
@@ -13526,9 +15852,19 @@ poetek
 poeten
 poitín
 poker
+poker egin
+pokerrean
+polar
+polaritate
+polariza
+polarizatu
+polarizazio
 polea
 polen
+poliamodio
 poligono
+poliki
+polimaitasuna
 polisemia
 polit
 polit-tzat
@@ -13561,6 +15897,7 @@ politika
 politika alorrean
 politikari
 politiko
+politikoki
 politzat
 polizia
 polizia estatu
@@ -13654,10 +15991,20 @@ primeran
 printze
 printze xarmant
 printzesa
+prisma
+prisma optico
 prismatikoak
+probabilitate
+probabilitate teoria
 probintzia
 probintzial
+produktibitate
+produktibo
+produkzio
+produzi
+produzitu
 programazio-lengoaia
+proiektu
 prokrastinazio
 prolaktina
 prolatibo
@@ -13670,25 +16017,34 @@ prost
 prostituta
 prostituzio
 protaktinioa
+protekzionismo
 protesta
 protestantismo
 protoi
 prozesu
 psikokinesia
 psikologia
+psikologiko
+psikologo
 psikopatia
 psikopompo
 psikosi
 publizitate
+publizitate-agentzia
 pulpitu
 pulunpari
 pumita
 punta
 puntu
 puntualtasun
+puntuazio
 pupu
+purifikatu
+purifikazio
+puritate
 puska
 puskatu
+puta
 putakume
 putaseme
 putetxe
@@ -13737,6 +16093,7 @@ rappel
 rapsoda
 rapsodia
 rasa ardi
+razionalismo
 re
 renioa
 requiem
@@ -13763,17 +16120,40 @@ saguzar
 sahats
 sai
 sai arre
+saiakera
+saiakeragile
+saiaketa
+saiakuntza
+saiakuntza-banku
+saialdi
+saiarazi
 saiatu
+saiatze
 saiheskia
 saihets-hezurra
 sail
+sailburu
+sailburuorde
+sailburuordetza
+sailean
+sailka
+sailkaezin
+sailkagailu
+sailkapen
+sailkatu
+sailkatzaile
+sailkatze
+sailordetza
 saio
 sakabanatu
 sakarina
 sakarosa
+sakatu
 sakela
 sakelako telefono
 sakhera
+sakonera
+sakontasun
 salatu
 salbatu
 salbia
@@ -13795,7 +16175,10 @@ saltsa
 saltxitxa
 saltzaile
 sama
+samar
 samarioa
+samarrik
+samartu
 sanadriandar
 sanagustin
 sanandres
@@ -13845,11 +16228,10 @@ santutegi
 santutu
 santutxo
 sapadun
-sapar
 sardexka
 sardiniera
 sare
-sareera
+sarean
 sari
 sarraila
 sarrera
@@ -13866,6 +16248,11 @@ sasijakintsu
 sasijakitun
 sasikode
 saskibaloi
+sasoi
+sasoian
+sasoiko
+sasoitsu
+sasoiz
 sastagai
 satan
 satandre
@@ -13877,14 +16264,19 @@ satitsu buztankarratu
 sator
 satrapa
 satsu
+satsudura
+satsukeria
 satsuri
+satsutasun
+satsutu
 saxofoi
+seasons: urtaro: udaberri · uda~udara · udazken · negu [edit]
 sega
 segitu
 segundo
-segur
 seguraski
 seguratu
+seguraz ere
 segurtasun-zaintzaile
 segurtatu
 seguru
@@ -13903,12 +16295,19 @@ seigarren
 seik
 seikoitz
 sein
+seinalea jaso
 seira
 seiren
 seiri
 seitan
 sekretu
 sektore-diagrama
+sekula ere
+sekular
+sekularismo
+sekularizatu
+sekularizazio
+sekulartasun
 selenioa
 semaforo
 seme
@@ -13975,7 +16374,12 @@ semezko
 sen
 senaia
 senar
+senar-emazte
+senar-emaztegai
+senardun
+senargabe
 senargai
+senartu
 senatari
 senatu
 sendabelar
@@ -13990,6 +16394,13 @@ senidetu
 senidetza
 sentibera
 sentsore
+separa
+separatismo
+separatista
+separatu
+separazio
+septizemia
+serafin
 serbiar
 serbiera
 serbokroaziera
@@ -14014,9 +16425,13 @@ setio
 setio-egoera
 seuldar
 sevillar
+sexismo
+sexista
 sexu
+sexu eraso
 sexu-abusu
 sexu-joera
+sexual
 sexualitate
 si
 siamdar katu
@@ -14026,6 +16441,7 @@ silikosi
 silizioa
 silueta
 siluru
+simplex
 sinadura
 sinagoga
 sinaratu
@@ -14036,9 +16452,12 @@ sineresi
 sinesgarri
 sineskeria
 sinestezin
+singapurtar
+sinisteko ere
 sinklinal
 sinkrotroi
 sinkroziklotroi
+sintzitiotrofoblasto
 sinu
 sirimiri
 sistema baskularra
@@ -14058,6 +16477,8 @@ so egin
 so egon
 so eta so
 so-egile
+sobera ere
+sobra ere
 sobre
 sodio kloruro
 sodioa
@@ -14138,6 +16559,7 @@ sor-mintzaira
 sor-seinale
 sorabaldako
 sorbalda
+sorbaldak jaso
 sorbaldaratu
 sorberritu
 sorbide
@@ -14190,6 +16612,13 @@ sortzetik
 sortzetiko
 soto
 sound
+sozial
+sozialismo
+sozialismo libertario
+sozialista
+sozialista libertario
+sozializatu
+sozializazio
 soziatibo
 soziolekto
 soziolinguistika
@@ -14208,6 +16637,7 @@ su-eten
 su-itzalgailu
 su-jaurtigailu
 subazter
+suberaketa
 subjuntibo
 sudur
 sudur-hobi
@@ -14228,10 +16658,12 @@ suhigai
 suhiltzaile
 suhiltzaile etxe
 suhiltzaileak
-suhin
 suitzar
+suizida
 suizidio
 sukaldari
+sukaldari-laguntzaile
+sukaldariburu
 sukaldaritza
 sukaldaritzako liburu
 sukalde
@@ -14240,6 +16672,7 @@ sukarri
 suma
 sumendi
 sumendi-bonba
+sumendi-errauts
 sumenditsu
 suntsiarazi
 suntsiarazpen
@@ -14254,6 +16687,7 @@ suntsitu
 suntsitzaile
 suomiera
 supazter
+superheroi
 supermerkatu
 supernoba
 sur
@@ -14279,13 +16713,13 @@ suziri
 swahili
 syllabus
 sü
-sühi
-sühü
 t
 ta
 taberna
 tabernakulu
 tabernari
+tabloide
+tabu
 tabulatu
 tahitiera
 taiga
@@ -14335,6 +16769,7 @@ tanto
 tapir
 tapoi
 taratulu
+tartan
 tarte
 tarteka
 tartera
@@ -14376,7 +16811,12 @@ tekla
 teklatu
 teknezioa
 teknikari
+tekno-
+teknokrata
+teknokratiko
+teknokrazia
 teknologia
+teknologiko
 teko
 tele-
 teleaulki
@@ -14398,8 +16838,14 @@ tenka
 tenperatura
 tenplu
 tente
+teo-
 teodolito
+teokrata
+teokratiko
 teokrazia
+teologia
+teologiko
+teologo
 teoria konspiratiboa
 teorialari
 teorian
@@ -14414,6 +16860,7 @@ termometro
 termosfera
 termostato
 ternuar
+terrorismo
 terrorista
 testuinguru
 tetako
@@ -14422,7 +16869,6 @@ tetanos
 tetik
 tetzat
 tez
-the non-finite forms of izan
 theremin
 tibetera
 tibia
@@ -14526,6 +16972,7 @@ trafiko
 trafiko seinale
 traiektoria
 trakea
+trakeotomia
 traktore
 tramankulu
 tramankuluk
@@ -14541,21 +16988,26 @@ transfeminismo
 transformadore
 transgenero
 traola
+trapezio
 tratamendu
 tratatu
+tratu txarrak jaso
 trebe
 trebetasun
 tren
 trenka
 trepanazio
+trepeta
 tresna
 tresnagabetu
 tresnatu
 tresnatzar
 tresneria
+trigonometria
 triku
 triku arrunt
 trikuharri
+trinitate
 tripaki argia
 triste
 trofeoa
@@ -14570,10 +17022,12 @@ tronu
 tropel
 tropikal
 tropiko
+tropismo
 troposfera
 trukatu
 truke
 truke egin
+truke-balio
 truke-tasa
 trukean
 tsunami
@@ -14597,6 +17051,7 @@ turkmenera
 tutu
 tutueria
 txahal
+txahalki
 txakal
 txakaviera
 txakhür
@@ -14605,11 +17060,26 @@ txakolin
 txakolindegi
 txakolingile
 txakur
+txakur amorratu
+txakur handi
+txakur txiki
+txakur-amets
+txakur-eztul
+txakurkeria
+txakurki
 txakurkume
 txakurra
 txakurrak
+txakurrak hanka-hutsik ibili
+txakurrak oinutsik ibili
+txakurrak ortozik ibili
 txakurrarekin
 txakurraren
+txakurraren ipurdira bidali
+txakurraren ipurdira joan
+txakurraren putza
+txakurraren salara bidali
+txakurraren salara joan
 txakurrarengan
 txakurrarengana
 txakurrarenganaino
@@ -14624,6 +17094,7 @@ txakurrei
 txakurrek
 txakurrekin
 txakurren
+txakurrenak esan
 txakurrengan
 txakurrengana
 txakurrenganaino
@@ -14636,6 +17107,7 @@ txakurrez
 txakurri
 txakurrik
 txakurtegi
+txakurtxo
 txakurtzat
 txalaparta
 txalo
@@ -14643,6 +17115,7 @@ txalupa
 txalupa-mutil
 txaluparatu
 txalupari
+txamarra
 txanbergo
 txanda
 txango
@@ -14656,11 +17129,19 @@ txantxetan-benetan
 txapardi
 txapel
 txapela
+txapela erantzi
+txapela irabazi
+txapela jantzi
+txapela kendu
+txapela kentzeko moduko
 txapelari
 txapeldun
 txapeldungai
 txapeldunorde
+txapelgorri
 txapelketa
+txapeloker
+txapelzuri
 txar
 txaro
 txarotu
@@ -14670,7 +17151,10 @@ txarro
 txartel
 txartel gorri
 txartel hori
+txartel-leihatila
 txartela
+txartela atera
+txarteldegi
 txarto
 txatxar
 txatxarkeria
@@ -14680,11 +17164,18 @@ txekiar
 txekiera
 txelo
 txenada arrunt
+txepetx
 txermen
 txerren
 txerri
+txerri-azienda
+txerri-bazka
+txerri-hiltze
 txerri-jan
+txerri-korta
+txerri-txerri egin
 txerria
+txerrik
 txerrikeria
 txerriki
 txerrikume
@@ -14700,10 +17191,7 @@ txertatzaile
 txerto
 txetnik
 txibia
-txigor
 txigorgailu
-txigorki
-txigortu
 txiki
 txikiago
 txikiegi
@@ -14717,9 +17205,9 @@ tximeleta efektu
 tximeleta-begizta
 tximinia
 tximino
-tximio
 tximista
 tximistargi
+tximitxa
 txin-txin
 txinatar
 txinbo burubeltz
@@ -14727,6 +17215,7 @@ txinera
 txingoma
 txingor
 txingurri
+txinpantze
 txinparta
 txio
 txiokatu
@@ -14787,22 +17276,37 @@ txotxean eduki
 txotxean izan
 txotxetik edan
 txotxetik hartu
+txukun
+txukundu
+txukunkeria
+txukunketa
+txukunki
+txukunkiro
+txukuntasun
 txuleta
 txupete
+txuri
+txuri-urdin
 txurro
 txurrut egin
 u
 u-
 ubarroi
 ubel
+ubeldu
 ubeldur
+ubeldura
+ubeltasun
 ubelune
+ubeluri
+ubeluritu
 ubide
 ubitazi
 uda
 uda txiki
 udaberri
 udaberriko ekinokzio
+udaberriro
 udal
 udal-barruti
 udalbatza
@@ -14810,6 +17314,7 @@ udalbatza-areto
 udalbatzar
 udalehen
 udalekotu
+udalen
 udalerri
 udalerriaren ondasunak
 udalerritar
@@ -14824,6 +17329,7 @@ udare
 udare-arbola
 udareondo
 udaretze
+udaro
 udazken
 udazkeneko onddozuri
 udazkenero
@@ -14847,10 +17353,12 @@ uhartedi
 uhartegi
 uhatzahizpa
 uhin
+uhin-funtzio
 uhin-luzera
 uhinxka
 uholde
 ukabil
+ukabila jaso
 ukabildu
 ukabilka
 ukabilkada
@@ -14859,7 +17367,6 @@ ukabilkatu
 ukabilketa
 ukabilko
 ukan
-ukan and eduki are used instead. 2. Verb lacking finite forms
 ukan2
 ukandun
 ukanki
@@ -14869,7 +17376,9 @@ ukimen-pantaila
 ukitu
 uko egin
 ukondo
-ukondu
+ukondokada
+ukondotu
+ukondoz ukondo
 ukrainar
 ukrainera
 ulertu
@@ -14886,6 +17395,7 @@ umealdi
 umedun
 umegaltze
 umeki
+umetoki
 umezurtz
 umezurztegi
 umo
@@ -14893,8 +17403,8 @@ unai
 unibertsitate
 unibertsitate-hiri
 unibertso
+unifika
 unitate astronomiko
-untxe
 untxi
 untxitegi
 untxizain
@@ -14904,6 +17414,7 @@ upategi
 ur
 ur bedeinkatu
 ur begi
+ur gazi
 ur geza
 ur mineral
 ur txori
@@ -14920,7 +17431,6 @@ uraga
 urak
 urakan
 uraldi
-urandra
 uranioa
 uraren zikloa
 urari
@@ -14953,6 +17463,7 @@ urgentziak
 urguilu
 uri
 urin
+urin gastriko
 urindatu
 urineztatu
 urizahartar
@@ -14972,6 +17483,8 @@ urratsean
 urratsez urrats
 urre
 urre-arrain
+urre-patroi
+urre-xafla
 urrea
 urreak
 urrean
@@ -14981,6 +17494,7 @@ urrearengatik
 urrearentzat
 urreari
 urreaz
+urrebotoi
 urrerik
 urretxindor
 urretzat
@@ -14990,11 +17504,11 @@ urri
 urrieta
 urril
 urrumatu
+urrundik ere
 urruntze sozial
 urrutiko aginte
 urrutiko kontrol
 urtaro
-urtaroa
 urtarril
 urte
 urte berri
@@ -15003,7 +17517,6 @@ urteak joan eta urteak etorri
 urtebetetze
 urtegi
 urtemuga
-urten
 urteurrena
 urthe
 urtu
@@ -15012,14 +17525,15 @@ urtxakur
 urtxintxa
 urubi
 urzo
+usadio
 usaimen
 usain
 usaindu
 usapal
 usategi
+use demonstrative and anaphoric pronouns
 uso
 usok
-usta
 uste izan
 uste izateko
 ustel
@@ -15095,6 +17609,7 @@ uztan
 uztao
 uztaro
 uztarri
+uztartze
 uztatu
 uztazu
 uztazue
@@ -15122,6 +17637,7 @@ wampum
 webgune
 western europarra
 which which this word forms a minimal pair
+with which this word forms a minimal pair
 woleaiera
 wolfram
 wollastonita
@@ -15143,7 +17659,6 @@ xanpu
 xantaia
 xaria
 xede
-xei
 xemeindar
 xenofobia
 xenona
@@ -15151,15 +17666,10 @@ xenotransplante
 xerkatu
 xerostomia
 xerra
-xerri
-xexen
 xilofono
 xinaliq
-xinaurri
 xira
 xiringa
-xori
-xoxo
 xoxoak beleari ipurbeltz
 xume
 xurgagailu
@@ -15172,6 +17682,7 @@ z
 zabal
 zabaldu
 zabalera
+zabaltasun
 zabiltza
 zabiltzan
 zabiltzate
@@ -15197,7 +17708,13 @@ zaharberritze
 zaharkitzapen
 zahato
 zahi
+zaidan
 zaik
+zail
+zaildu
+zailki
+zailtasun
+zailtxo
 zain
 zain eta muin
 zain-belar
@@ -15282,6 +17799,7 @@ zakizkio
 zakizkiote
 zakur
 zakur zaunkaria nekez hozkaria
+zakurtzar
 zalantza
 zalantza egin
 zalantzakor
@@ -15320,8 +17838,7 @@ zamatu
 zamatzaile
 zamatze
 zamaxka
-zan
-zanbedar
+zanga-zanga
 zango
 zangozatar
 zapaburu
@@ -15338,20 +17855,38 @@ zapatagin
 zapatari
 zapatu
 zapelatz
-zapiak hara
 zapo-erdara
 zapore
 zara
+zarata
+zarata atera
+zarata batean
+zarata bizian
+zarata egin
+zarataka
+zaratatsu
+zarataz
 zarateke
 zaratekete
 zarauztar
 zarbo arrunt
 zarete
 zarigueia
-zaroatzan
+zaroaat
+zaroanat
+zarraizkidate
+zarraizkie
+zarraizkiete
+zarraizkigu
+zarraizkigute
+zarraizkio
+zarraizkiote
+zarraizkit
 zartagin
 zatar
 zatekeen
+zati
+zatiketa
 zatitu
 zatoz
 zatozen
@@ -15487,14 +18022,39 @@ zemento
 zen
 zenbaki
 zenbaki arrazional
+zenbaki arrunt
+zenbaki atomiko
 zenbaki erreal
+zenbaki irrazional
 zenbaki kardinal
 zenbaki konplexu
+zenbaki kuantiko
 zenbaki lehen
 zenbaki lehen sexy
 zenbaki natural
 zenbaki oso
 zenbaki positiboa
+zenbaki-sistema
+zenbakidun
+zenbakikuntza
+zenbakitu
+zenbakitzaile
+zenbakizko
+zenbat
+zenbat ere
+zenbat-gura
+zenbat-nahi
+zenbatean
+zenbateko
+zenbatera
+zenbateraino
+zenbaterainoko
+zenbatespen
+zenbatetan
+zenbatetsi
+zenbatgarren
+zenbatsu
+zenbatu
 zenbatzaile
 zenbiltzan
 zenbiltzaten
@@ -15618,6 +18178,7 @@ zentozketen
 zentozten
 zentrala
 zentralizazio
+zentro
 zentxezkidake
 zentxezkidakete
 zentxezkidan
@@ -15652,6 +18213,7 @@ zer berri
 zer dela eta
 zer dugu
 zer edo zer
+zer ere
 zer esanik ez
 zer eta zer
 zer gerta ere
@@ -15676,14 +18238,27 @@ zerbaitxo
 zerbaixka
 zerbeza
 zerbitzu
+zerbitzu egin
+zerbitzu libre
 zerbitzu sekretu
+zerbitzu-eginkizun
+zerbitzua eman
+zerbitzuan
+zerbitzuburu
+zerbitzugintza
 zerbitzugune
+zerbitzuko
+zerbitzuko izan
+zerbitzura
+zerbitzurako
+zerbitzutan
 zerbütxü
 zerbütxügüne
 zereal
 zeregin
 zerekin
 zeremonia
+zeremoniatsu
 zeren
 zeren eta
 zerendako
@@ -15693,15 +18268,46 @@ zeresan
 zeresan eman
 zerez
 zerga
+zerga-aitorpen
+zerga-bilketa
+zerga-biltzaile
+zerga-oinarri
+zerga-pizgarri
+zerga-sistema
+zerga-tasa
+zerga-zor
+zergadun
+zergalari
+zergaldi
+zergapeko
+zergapetu
+zergapetze
+zergategi
 zergati
 zergatik
 zergatik edo hargatik
 zergatiko
 zeri
+zerian
+zeridan
+zerien
+zerigun
 zerik
 zerikusi
+zerinan
 zerioa
+zerion
 zerizan
+zerizkian
+zerizkidan
+zerizkien
+zerizkigun
+zerizkinan
+zerizkion
+zerizkizuen
+zerizkizun
+zerizuen
+zerizun
 zerk
 zerki
 zernahi
@@ -15714,12 +18320,41 @@ zero
 zero absolutu
 zero gune
 zeroa
+zeroaat
 zeroak
 zeroan
+zeroanat
 zeroaten
+zeroatzan
 zeroatzaten
 zerogarren
+zerok
+zerori
+zerotan
 zerra
+zerra-arrain
+zerraian
+zerraidan
+zerraien
+zerraigun
+zerrainan
+zerraion
+zerraizkian
+zerraizkidan
+zerraizkien
+zerraizkigun
+zerraizkinan
+zerraizkion
+zerraizkizuen
+zerraizkizun
+zerraizuen
+zerraizun
+zerraketa
+zerramakina
+zerrari
+zerrategi
+zerratoki
+zerratu
 zerrauts
 zerrenda
 zerrenda beltz
@@ -15738,14 +18373,39 @@ zertzeta
 zertzeta arrunt
 zertzuk
 zeru
+zeru eta lur
+zeru goien
+zeru goren
+zeru sabai
+zeru xahar
+zeru zabal
+zeru-azpi
+zeru-ekuatore
 zeru-esfera
+zeru-gain
+zeru-goi
+zeru-hemisferio
+zeru-lur
+zeru-zola
+zerua irabazi
+zerua iritsi
+zerualde
+zeruertz
+zeruko Jauna
 zeruko mekanika
+zerumuga
+zerupe
+zeruratu
+zerutar
 zesioa
 zesta-punta
 zeta
+zetabatu
+zetabe
 zetar
 zetaren
 zetari
+zetatxu
 zetorkeen
 zetorren
 zetozen
@@ -15787,6 +18447,12 @@ zeuntzan
 zeuntzaten
 zeure
 zeure burua
+zeureganatu
+zeurekoi
+zeurekoikeria
+zeuretu
+zeurez
+zeurezko
 zeutzan
 zeuzeneratu
 zeuzkan
@@ -15805,15 +18471,22 @@ zezaten
 zezeil
 zezen
 zezen suzko
+zezen-laster
 zezen-plaza
 zezenalde
 zezendegi
 zezendu
+zezenka
 zezenkari
 zezenketa
+zezenketari
 zezenki
+zezenko
+zezensuzko
+zezentoki
 zezenzale
 zi
+zian
 ziape
 ziape-gas
 ziapeaz
@@ -15823,13 +18496,25 @@ ziba
 zibereraso
 zibergaizkile
 zibil
+zibilizatu
+zibilizazio
 zibota
+zieken
+zien
 zientifiko
+zientifikoki
 zientzia
+zientzia-fikzio
 zientzialari
+zientziazko
 zietara
 zigala
+zigarreta
+zigilatu
 zigilu
+zigilu-marka
+zigilu-markatzeko
+zigiludun
 zigor
 zigor-aurrekari
 zigor-kode
@@ -15853,18 +18538,49 @@ zihoakeen
 zihoan
 zihoazen
 zihoazkeen
+zikin
 ziklomotor
 ziklotroi
 zikoina
 zilar
 zilar arrain
+zilar bizi
+zilar zuri
+zilargile
+zilargin
+zilargintza
+zilarkara
 zilarra
+zilarreria
+zilarretan
+zilarrezko
+zilarrezko eztei
+zilarreztatu
 zilegitu
+zimiko
+zimiko egin
+zimikoka
 zimitz
 zinateke
 zinatekeen
 zinatekete
 zinateketen
+zinderraizkidake
+zinderraizkidakete
+zinderraizkidan
+zinderraizkidaten
+zinderraizkieke
+zinderraizkiekete
+zinderraizkien
+zinderraizkieten
+zinderraizkiguke
+zinderraizkigukete
+zinderraizkigun
+zinderraizkiguten
+zinderraizkioke
+zinderraizkiokete
+zinderraizkion
+zinderraizkioten
 zindezaguzke
 zindezaguzkegu
 zindezaguzket
@@ -15892,14 +18608,13 @@ zinduzkake
 zinduzkakegu
 zinduzkaket
 zinduzkakete
+zinduzkaketegu
+zinduzkaketet
+zinduzkaketete
 zinduzkan
-zinduzkate
 zinduzkatedan
-zinduzkategu
 zinduzkategun
 zinduzkaten
-zinduzkatet
-zinduzkatete
 zinduzkateten
 zinegotzi
 zinen
@@ -15968,6 +18683,14 @@ zintzateten
 zintzilikatu
 zintzo
 zintzur
+zintzur-bustitze
+zintzur-heste
+zintzur-sagar
+zintzurkoi
+zintzurra busti
+zintzurra egin
+zintzurra urratu
+zion
 zipotza
 zipretar
 zira
@@ -15981,10 +18704,13 @@ ziriliko
 zirkonio
 zirkonioa
 zirku
+zirkular
 zirkulazio-aparatua
 zirkulazio-sistema
 zirkulu
+zirkulu polar
 zirkulu polar antartikoa
+zirkulu-sectore
 zirkuluerdi
 zirrindola
 zirrosi
@@ -16015,9 +18741,13 @@ zitzaten
 ziza
 zizare
 zizare zulo
+zizare-belar
+zizare-hazkuntza
+zizare-nagusi
 zizelkari
 ziztada lunbar
 ziztatu
+zoan
 zoaz
 zoazen
 zoazke
@@ -16093,7 +18823,6 @@ zortzirazka
 zortziren
 zortzitan
 zortziurren
-zorzi
 zotin
 zotz
 zotz egin
@@ -16111,17 +18840,65 @@ zubi
 zubi-begi
 zubi-branka
 zubi-bular
+zubia
+zubiak
+zubian
+zubiarekin
+zubiaren
+zubiarengatik
+zubiarentzat
+zubiari
+zubiaz
 zubibide
+zubiei
+zubiek
+zubiekin
+zubien
+zubiengatik
+zubientzat
+zubietako
+zubietan
+zubietar
+zubietara
+zubietaraino
+zubietarako
+zubietarantz
+zubietatik
+zubiez
 zubigile
 zubigintza
+zubik
+zubiko
 zubipe
+zubira
+zubiraino
+zubirako
+zubirantz
+zubirekin
+zubiren
+zubirengatik
+zubirentzat
+zubiri
+zubirik
 zubisari
+zubitako
+zubitan
+zubitara
+zubitaraino
+zubitarako
+zubitarantz
+zubitatik
+zubitik
+zubitzat
+zubiz
 zubizain
+zubron
 zuek
 zuen
 zuhain
 zuhaitz
 zuhaitz genealogiko
+zuhaitz-azal
 zuhaitz-igel
 zuhaitzain
 zuhaitzale
@@ -16138,6 +18915,8 @@ zuhamutsu
 zuhamuxka
 zuhandor
 zuhandor arrunt
+zuhauek
+zuhaur
 zuhur
 zuk
 zukean
@@ -16160,9 +18939,34 @@ zumitz
 zunan
 zur
 zuraidar
+zurak
+zurarekin
+zuraren
+zurarengatik
+zurarentzat
 zurari
+zuraz
 zurbil
 zure
+zure nahiak aginduak dira niretzat
+zurei
+zurekin
+zureko
+zurengatik
+zurentzat
+zurera
+zureraino
+zurerako
+zurerantz
+zuretako
+zuretan
+zuretara
+zuretaraino
+zuretarako
+zuretarantz
+zuretatik
+zuretik
+zurez
 zurgin
 zurgina
 zurginak
@@ -16244,6 +19048,7 @@ zuriberritu
 zuribide
 zurigailu
 zurigarri
+zurik
 zurikail
 zurikaildu
 zurikatu
@@ -16272,6 +19077,7 @@ zurrumurru
 zurrumurruka
 zurrut egin
 zurtoin
+zurtzat
 zurzuri
 zutabe
 zuten
@@ -16416,18 +19222,15 @@ zuzi
 zuztar
 züntzür
 Ç
-Íñigo
 Ñ
 Øresund
 Ü
-ãhãlke
 ç
 ñ
 ñirñir
+ñu
 ü
-ürxantx
 üthürri
-ĩhĩ
 Ĺ
 ĺ
 Ŕ

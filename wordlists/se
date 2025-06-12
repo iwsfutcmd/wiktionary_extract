@@ -33,7 +33,6 @@
 -ildit
 -in
 -it
--koatētēk
 -las
 -laš
 -ldat
@@ -56,7 +55,6 @@
 -saš
 -stit
 -t
--teahtta
 -tehka
 -tehta
 -ttiin
@@ -71,7 +69,9 @@
 -š
 -šit
 -šuvdna
+:
 A
+A-vitamiidna
 Afghanistan
 Afrihkká
 Alaska
@@ -89,11 +89,13 @@ Anárjávri
 Argentina
 Arjepluovvi
 Aserbaižan
+Atena
 Austrália
 Avvil
 B
 Badje-Duortnus
 Bahamas sullot
+Balkannjárga
 Bassi Vuoigŋa
 Beahcán
 Beaivvášgoddi
@@ -114,7 +116,6 @@ Bávlos
 C
 Cook-sullot
 D
-Davve-Mariánat
 Davveriikkat
 Davvesiida
 Davvi-Amerihkká
@@ -122,8 +123,6 @@ Davvi-Korea
 Davvi-Norga
 Davvinjárga
 Davviriikkat
-Davvẹnjárga
-Davvẹriikkat
 Deatnu
 Duiska
 Duiskka
@@ -172,6 +171,19 @@ Girkonjárga
 Giron
 Goa
 Greika
+Greikade
+Greikadet
+Greikame
+Greikamet
+Greikan
+Greikas
+Greikaset
+Greikaska
+Greikat
+Greikii
+Greikka
+Greikkain
+Greikkas
 Guhkesruoida
 Guhtur
 Guoládat
@@ -204,6 +216,8 @@ Iŋgá
 J
 Jangze
 Japána
+Jaskesmearra
+Jaskesáhpi
 Jehova duođašteaddji
 Jehova vihtan
 Jesus
@@ -218,7 +232,6 @@ Juhán
 Juleveatnu
 Juoksa
 Jupiter
-Jágát
 Jáhkot
 K
 Kampučea
@@ -237,7 +250,6 @@ Kongo dásseváldi
 Kristus
 Kristusa
 Kroatia
-Kuovdâkiäinu
 Kypros
 Káre
 Kárášjohka
@@ -267,6 +279,7 @@ Matteus
 Mauretánia
 Meksiko
 Merkur
+Merkur · Venus · Eana · Mars · Jupiter · Saturn · Uranus · Neptun [edit]
 Mihkkal
 Mihkku
 Mikael
@@ -308,6 +321,7 @@ O
 ON
 Oarje-Sahára
 Ohcejohka
+Olympia
 Ortodoksalaš girku
 Oseania
 Ovllá
@@ -327,6 +341,20 @@ R
 Risten
 Roavenjárga
 Roavvenjárga
+Romeo
+Romeode
+Romeodet
+Romeome
+Romeomet
+Romeon
+Romeoset
+Romeoska
+Romeot
+Romeui
+Romeuid
+Romeuide
+Romeuiguin
+Romeuin
 Romsa
 Románia
 Ruonáenan
@@ -394,10 +422,15 @@ Z
 Zámbia
 a
 a-a
+a-joavku
+aa
 abessiiva
 ablatiiva
 abmet
 abohtta
+abonnemeanta
+aborigiidna
+aboriginála
 aborta
 abortan
 aborteret
@@ -593,10 +626,8 @@ almmus
 almmustahttit
 almmustit
 almmá
-almmái
 almmálaš
 almmáskit
-almmọstahttit
 alternatiiva
 altteson
 alumiidna
@@ -758,7 +789,6 @@ ađahuvvat
 ađaiduvvat
 ađđamahttá
 ađđái
-ađˈđii
 ađˈđái
 b
 badje
@@ -917,15 +947,17 @@ bealljeloađgu
 bealljeskuolfi
 beallji
 bealljái
+bealnot
+bealnubbi
 bealušteaddji
 bealuštit
 beana
 beanna
-beanˈna
-beara
+beannot
 bearal
 bearalskuolfi
 bearaš
+beargalat
 beargalat!
 bearjadat
 bearral
@@ -971,6 +1003,7 @@ biedju
 biegga
 bieggat
 biehkan
+biehtadit
 bielka
 bielkka
 bierdna
@@ -1045,6 +1078,7 @@ bivvalis
 bivvat
 bivvát
 bivˈvát
+biđget
 biđonsámegiella
 biđonsámẹgiella
 biŋal
@@ -1148,9 +1182,12 @@ borga
 borgat
 borgemánnu
 borgemánu
+borgguheaddji
+borgguhit
 borgár
 borgárlaš
 borgárvuohta
+bormeašttir
 borraba
 borramuš
 borran
@@ -1161,6 +1198,7 @@ borri
 borrá
 boršut
 boso
+bosolit
 boson
 bosso
 bossu
@@ -1189,6 +1227,7 @@ buddhisma
 buddhista
 budjeahtta
 buffalo
+buhcciidviessu
 buhtes
 buhtis
 buhtisnieida
@@ -1236,8 +1275,10 @@ buokčat
 buolaš
 buole
 buollin
+buollinbiila
 buollinhoavda
 buollinolmmái
+buollinčáskadanbiila
 buollit
 buolláhit
 buollát
@@ -1273,6 +1314,7 @@ buotnjut
 buozas
 buođgát
 buođđu
+buođđun
 buođđut
 bupmálas
 bures
@@ -1348,6 +1390,7 @@ bálkkašuvˈvot
 bálká
 bállit
 bállu
+bálvalit
 bálˈloseahkka
 bálˈlu
 bámbu
@@ -1355,7 +1398,6 @@ bánedoavttir
 bánis
 bánno
 bánžat
-bánẹdoavttir
 bára
 báraheapme
 bárahisstávvalsátni
@@ -1413,6 +1455,7 @@ caggat
 caggi
 cahcaoažži
 cahkat
+cahkkehit
 cahkkát
 cahpat
 cahppát
@@ -1425,6 +1468,7 @@ cealkit
 cealkke dearvvuođaid
 cearki
 ceavvi
+cegget
 ceggoseamos
 ceggosit
 cibmut
@@ -1447,17 +1491,18 @@ cirgut
 cissat
 cissen
 cisset
+cissá
 cisˈsa
 cisˈsat
 cizáš
 cizášfálli
 cizáščáihni
+coahki
 coakci
 coakcul
 coakcut
 coggat
 cogge
-crumble
 cuhllat
 cuhlli
 cuhlˈli
@@ -1469,6 +1514,7 @@ cullat
 cummá
 cummát
 cumpi
+cumˈmá
 cumˈmát
 cuohkki
 cuohppa
@@ -1496,6 +1542,7 @@ daddjot
 dadjan
 dadjat
 daga
+dagahit
 dagan
 dagat
 dago
@@ -1545,6 +1592,7 @@ dan
 danin
 danne
 dapmi
+dappal
 darfi
 darjjesámegiella
 darjjẹsámẹgiella
@@ -1574,7 +1622,6 @@ davvisámẹgiel
 davvisámẹgielat
 davvisámẹgiella
 davvisápmi
-davvẹnuorti
 davvẹoarji
 davás
 dađe
@@ -1624,6 +1671,7 @@ defineret
 definišuvdna
 definēret
 dego
+dego buksa ja báidi
 dehálaččamus
 dehálaččat
 dehálaš
@@ -1639,6 +1687,7 @@ delegēret
 dello
 dellos
 deminutiiva
+demo-
 demokratiija
 demonteret
 deponeret
@@ -1768,6 +1817,7 @@ doalloeamit
 doalloisit
 doallu
 doalvi
+doalvut
 doapmat
 doardna
 doarggistit
@@ -1884,7 +1934,6 @@ duohki
 duohkin
 duohko
 duohkái
-duohkẹn
 duohpat
 duohta
 duohtavuohta
@@ -1928,7 +1977,6 @@ duottarcivkkán
 duovli
 duođamus
 duođat
-durista
 dus
 duski
 dutkat
@@ -2015,13 +2063,22 @@ dássi
 dássit
 dát
 dávda
+dávdde
+dávddi
+dávddiid
+dávddiide
+dávddiiguin
+dávddiin
+dávddis
+dávddit
 dávdesonahat
 dávdi
+dávdin
+dávdái
 dávgi
 dávgut
 dávjá
 dávli
-dávval
 dávvir
 dávžat
 dáčča
@@ -2075,6 +2132,7 @@ eallisilba
 eallit
 eallju
 eallo
+eallu
 ealáhus
 ealán
 ealˈli
@@ -2088,7 +2146,6 @@ eanamuolddat
 eanamuorji
 eananniehtti
 eanas
-eanaš
 eanemus
 eanet
 eanu
@@ -2097,8 +2154,6 @@ eappir
 earta
 earti
 eará
-earẹnoamáš
-earẹnomáš
 easka
 easkka
 eastat
@@ -2108,6 +2163,7 @@ eatnamis
 eatnat
 eatni
 eatnigiella
+eatnigiellaoahpahus
 eatniheagga
 eatnis
 eatnit
@@ -2116,10 +2172,10 @@ eaŋgalas
 eaŋgalasgiella
 eaŋgals
 eaŋgalsgiella
-eaŋgelasgiella
 edet
 egoisma
 egoista
+egyptalaš
 ehpel
 ehpet
 einnosta
@@ -2144,7 +2200,6 @@ ellos
 engalaskiela
 erenoamáš
 erenoamážit
-erenomáš
 eret
 eske
 essiiva
@@ -2157,13 +2212,10 @@ etnisitehta
 ettet
 etána
 eufemisma
-euro
 eurohpá bison
 evttoheapmi
 evttohit
 evttohus
-eŋgalasgiella
-eŋgalsgiella
 eŋgelas
 eŋgelasgiella
 f
@@ -2246,7 +2298,7 @@ fákta
 fális
 fállat
 fállá
-fánen!
+fánen
 fápmu
 fárfu
 fárret
@@ -2275,6 +2327,20 @@ gaikut
 gaivát
 galbarihcci
 galbmaskábe
+galbmaskábede
+galbmaskábedet
+galbmaskábeme
+galbmaskábemet
+galbmaskáben
+galbmaskábes
+galbmaskábeset
+galbmaskábeska
+galbmaskábet
+galbmaskábii
+galbmaskábiid
+galbmaskábiide
+galbmaskábiiguin
+galbmaskábiin
 galbmit
 galgan
 galgat
@@ -2334,13 +2400,13 @@ gaškát
 gažahit
 gažaldat
 geafes
-geaffi
 geafi
 geahkat
 geahnoheapme
 geahnohis
 geahpis
 geahppán
+geahča
 geahčastallat
 geahčastat
 geahčastit
@@ -2388,7 +2454,6 @@ geavaheaddjedovddaldat
 geavaheaddji
 geavaheaddjidovddaldat
 geavaheaddjit
-geavaheaddjẹdovddaldat
 geavahit
 geavrát
 geavvat
@@ -2460,7 +2525,6 @@ giljobaš
 gilli
 gilljut
 gillát
-gilo
 gilvit
 gilvu
 ginttal
@@ -2502,6 +2566,7 @@ go
 goabbá
 goahcat
 goahkka
+goahppil
 goahppilfálli
 goahti
 goaikut
@@ -2512,6 +2577,7 @@ goallut
 goallát
 goalmmát
 goalo
+goalsi
 goalvát
 goalˈlát
 goansta
@@ -2530,12 +2596,14 @@ goasii
 goaski
 goaskin
 goaskit
+goavdi
 goaŧŧu
 gobbá
 gobi
 gobiid
 gobmi
 goddalit
+goddi
 goddit
 goddot
 gohccát
@@ -2636,6 +2704,7 @@ guhkimus
 guhkit
 guhkkat
 guhkki
+guhkkin
 guhkẹsjuolggat
 guhte
 guhtemuš
@@ -2645,6 +2714,7 @@ guhttalogát
 guhttanuppelogát
 guhttanuppelohkái
 guidot
+guksi
 guktii
 gula
 gulan
@@ -2727,6 +2797,7 @@ guossoheaddji
 guostát
 guottu
 guovda
+guovdageaidnulaš
 guovddi
 guovdi
 guovgát
@@ -2746,6 +2817,7 @@ guovžžamuorji
 guođđit
 gurdit
 gurká
+gurra
 gurroseamos
 gurrosit
 gursa
@@ -2769,6 +2841,7 @@ gába
 gáddi
 gáddit
 gádja
+gádjit
 gádjut
 gáfe
 gáffal
@@ -2782,9 +2855,11 @@ gáhtta
 gáhttu
 gáhččat
 gáibi
+gáibmi
 gáica
 gáidat
 gáidet
+gáidnu
 gáigá
 gáisi
 gáisá
@@ -2792,6 +2867,7 @@ gáivo
 gájot
 gákkis
 gákti
+gákšu
 gálašit
 gálbi
 gálgat
@@ -2815,11 +2891,15 @@ gárrat
 gárremiin
 gárta
 gártat
+gárvvis
+gárvvistit
 gárži
 gáržu
 gáržut
 gáskit
 gássa
+gáttán
+gáttát
 gávcci
 gávccilogi
 gávccilogát
@@ -2840,6 +2920,8 @@ gávri
 gávrut
 gávrát
 gávtti
+gázzi
+gč.
 gūsˈsolaš
 h
 haddi
@@ -2854,6 +2936,7 @@ haŋŋá
 headju
 heagga
 heahkas
+heahki
 heahkka
 heahpu
 heahtedilli
@@ -2914,14 +2997,13 @@ holle
 hollen
 hollos
 holvut
-homo
 homofiila
 homoseksualitehta
 homoseksuála
 homovuohta
 homsa
 honnet
-horbma
+horbmá
 horsta
 horti
 huhpat
@@ -3043,7 +3125,6 @@ instituhtta
 institušuvdna
 instruktiiva
 instrumentála
-inte riktigt klok
 intensiiva
 intensitehta
 interjekšuvdna
@@ -3061,9 +3142,11 @@ iras
 irgi
 irraseamos
 irrasit
+isit
 iskat
 isken
 isláma
+islándalaš
 issoras
 issorasamus
 issorasat
@@ -3115,6 +3198,8 @@ jaskkodit
 jassa
 jeaggi
 jeagil
+jeagohisvuohta
+jealahas
 jearahit
 jearaldat
 jearran
@@ -3122,7 +3207,9 @@ jearransánit
 jearransátni
 jearrat
 jearru
+jegolaš
 jiehkki
+jiehkku
 jiehtanas
 jiekŋa
 jiekŋabadji
@@ -3132,9 +3219,45 @@ jiekŋaáigi
 jiellat
 jielli
 jielti
+jienas
+jienasta
+jienastan
+jienastat
+jienaste
+jienasteaba
+jienasteaddji
+jienasteadnu
+jienasteahkki
+jienasteahppi
+jienasteapmi
+jienasteatnot
+jienastedje
+jienastedjen
+jienastedjet
+jienastehket
+jienastehkon
+jienastehkos
+jienastehkoset
+jienastehkoska
+jienastehkot
+jienastehpet
+jienasteidde
+jienasteiddet
+jienasteigga
+jienasteimme
+jienasteimmet
+jienastetne
+jienastii
+jienastin
+jienastit
+jienastus
 jierbmat
 jierbmi
+jieris
 jietna
+jietnadeapmi
+jietnadit
+jievjaskuolfi
 jo
 joahcat
 joatkit
@@ -3157,12 +3280,16 @@ jorbbas
 jorbbot
 jorgaleaddji
 jorgalit
+jorggihit
 jorgut
 jorra
 jorrat
 jorre
 jorri
 jos
+jođiheaddji
+jođiheapmi
+jođihit
 jođán
 jođánis
 jođánit
@@ -3196,17 +3323,19 @@ juohkit
 juohku
 juoigat
 juoiggus
+juoksa
 juokŋat
 juolgat
-juolgeláhpi
 juolgesuorbma
 juolgi
 juopmu
 juorbut
 juovlabeahci
+juovlakaleandar
 juovlalávlla
 juovlamánnu
 juovllat
+juovva
 jurbmát
 jurdda
 jurddašit
@@ -3255,7 +3384,6 @@ kilográmmá
 kilomehter
 kino
 kirku
-kitschig
 klora
 klubba
 klubban
@@ -3324,6 +3452,7 @@ kvalitēhta
 kvantitatiiva
 kvarteahtta
 kviteret
+kvárca
 kvárka
 kyrillalaš
 káfe
@@ -3339,6 +3468,7 @@ laddat
 ladju
 ladni
 laggat
+lahka
 lahpat
 lahpesgávpi
 laigat
@@ -3443,7 +3573,6 @@ liberalisma
 liberalisēret
 liberála
 lidnu
-liekkadit
 liekkas
 liekkasvuohta
 lieksi
@@ -3456,7 +3585,6 @@ lieđbmi
 lieđđi
 lieđđun
 lieđđut
-ligget
 lihkkat
 lihkku
 lihkku beivviin
@@ -3465,7 +3593,6 @@ lihpi
 lihppu
 lihtter
 liidni
-liika
 liiki
 liikot
 liippát
@@ -3476,6 +3603,7 @@ linnjár
 litium
 litnjat
 livdnju
+livttis
 livčče
 livččen
 livččet
@@ -3486,6 +3614,7 @@ livččiidet
 livččiiga
 livččiime
 livččiimet
+liánta
 liŋka
 liŋkka
 liŋkkat
@@ -3574,6 +3703,8 @@ luokta
 luokčat
 luomi
 luomin
+luonddudieđa
+luonddudieđalaš
 luonddudáhpáhus
 luonddudáhpáhusain
 luondu
@@ -3593,6 +3724,24 @@ lutnjat
 lábbá
 láddelaš
 lágut
+láhje
+láhji
+láhjiid
+láhjiide
+láhjiiguin
+láhjiin
+láhjin
+láhjis
+láhjiset
+láhjiska
+láhjit
+láhjáde
+láhjádet
+láhjái
+láhjáme
+láhjámet
+láhján
+láhját
 láhka
 láhkan
 láhppit
@@ -3654,6 +3803,7 @@ láđđi
 láža
 láža (co-parent-in-law)
 lážžamuorji
+læk
 lūnddolaččat
 lūnddolaš
 m
@@ -3706,14 +3856,16 @@ maŋimus
 maŋis
 maŋit
 maŋos
+maŋŋebeaŋka
 maŋŋebárga
+maŋŋebárga · gaskavahkku · duorastat · bearjadat · lávvardat · sotnabeaivi [edit]
 maŋŋel
 maŋŋidis
 maŋŋil
 maŋŋit
 maŋŋonit
 maŋŋá
-maŋŋẹl
+mašiidna
 meaddit
 meahccebussá
 meahccesávza
@@ -3919,6 +4071,12 @@ máilmmicup
 máilmmicupa
 máilmmiávus
 máilmmiávvosa
+máinnas
+máinnasfuođđu
+máinnasgihpa
+máinnassivdnádus
+máinnastandáidda
+máinnastanvierru
 máinnastit
 máisa
 máistit
@@ -3963,14 +4121,13 @@ máŋggadieđalaš
 máŋggakultuvrralaš
 máŋggas
 máŋggat
+mášen
 máššat
-mördeg
 mū namma lea
 n
 na
 nagir
 nahkihit
-nahkẹhit
 naiiva
 nakšát
 nallat
@@ -3995,6 +4152,7 @@ naturalisma
 navdit
 nave
 navvit
+nazisma
 nađđa
 neahpi
 neahti
@@ -4065,6 +4223,9 @@ njiedjat
 njiellat
 njierrá
 njirvat
+njivli
+njivlla
+njižži
 njoahci
 njoahcut
 njoallut
@@ -4123,7 +4284,6 @@ njárbut
 njávgit
 njávgut
 njávkat
-njávvi
 njáškát
 njōzet
 noaidi
@@ -4159,6 +4319,7 @@ nullen
 nullet
 nullos
 nummir
+nuohtti
 nuollat
 nuondat
 nuora
@@ -4190,7 +4351,9 @@ náittosdilli
 náittus
 nála
 nállat
+nállu
 náráš
+nástegovva
 násti
 návdi
 návet
@@ -4243,7 +4406,6 @@ oambealle
 oamebiergu
 oanimus
 oanit
-oapman
 oapmet
 oapmi
 oappábárdni
@@ -4300,7 +4462,25 @@ oktanuppelogát
 oktanuppelohkái
 oktii
 okto
+oktovuhtii
+oktovuohta
+oktovuohtade
+oktovuohtadet
+oktovuohtame
+oktovuohtamet
+oktovuohtan
+oktovuohtas
+oktovuohtaset
+oktovuohtaska
+oktovuohtat
 oktovuoigatvuohta
+oktovuođa
+oktovuođaid
+oktovuođaide
+oktovuođaiguin
+oktovuođain
+oktovuođas
+oktovuođat
 oktána
 ole
 olgeš
@@ -4344,8 +4524,12 @@ olmmoš
 olmmošgoddi
 olmmái
 ološ
+olympiagilvvut
+olympialaš
 olán
 olát
+omd.
+omd. (ovdamearkka dihte)
 omman
 on
 oppa
@@ -4395,11 +4579,70 @@ ovccát
 ovda-
 ovdagovva
 ovdal
+ovdalaš
 ovdamearka
 ovdamearkka dihte
 ovdanáhkki
 ovdaráksá
 ovdasiidu
+ovddal
+ovdán
+ovdána
+ovdánan
+ovdánat
+ovdáne
+ovdáneaba
+ovdáneaddji
+ovdáneadnu
+ovdáneahkki
+ovdáneahppi
+ovdáneame
+ovdáneamen
+ovdáneamis
+ovdáneatnot
+ovdáneačča
+ovdáneaččan
+ovdáneaččat
+ovdáneaš
+ovdáneažžaba
+ovdáneažžabeahtti
+ovdáneažžabehtet
+ovdáneažžat
+ovdáneažžá
+ovdánedje
+ovdánedjen
+ovdánedjet
+ovdánehket
+ovdánehkon
+ovdánehkos
+ovdánehkoset
+ovdánehkoska
+ovdánehkot
+ovdánehpet
+ovdáneidde
+ovdáneiddet
+ovdáneigga
+ovdáneimme
+ovdáneimmet
+ovdánemiin
+ovdánetne
+ovdáneš
+ovdánežže
+ovdánežžet
+ovdánii
+ovdánin
+ovdánit
+ovdánivčče
+ovdánivččen
+ovdánivččet
+ovdánivččii
+ovdánivččiide
+ovdánivččiidet
+ovdánivččiiga
+ovdánivččiime
+ovdánivččiimet
+ovdánkeahttá
+ovdánus
 ovttas
 ovttasbargat
 ovttasohkabeallásaš
@@ -4423,6 +4666,16 @@ ođđasat
 ođđaseamos
 ođđasit
 p
+palestinalačča
+palestinalaččaid
+palestinalaččaide
+palestinalaččaiguin
+palestinalaččain
+palestinalaččas
+palestinalaččat
+palestinalaš
+palestinalažžan
+palestinalažžii
 panteisma
 paradiijás
 paradiisa
@@ -4448,6 +4701,7 @@ platina
 plána
 poasta
 popularitehta
+portugálalaš
 portála
 posetiiva
 positiiva
@@ -4469,7 +4723,6 @@ prostitušuvdna
 protona
 prošeakta
 pubertehta
-páhkka
 párka
 párra
 párragaskavuohta
@@ -4482,6 +4735,7 @@ rabat
 rabárber
 radderiggi
 raddi
+rahkadis
 rahkat
 rahkkes
 rahpat
@@ -4600,6 +4854,7 @@ rišša
 riššu
 roabát
 roadda
+roahcu
 roahttu
 roaibut
 roakči
@@ -4612,6 +4867,7 @@ roggen
 roggi
 rohkadallat
 rohpi
+rohttu
 rohtu
 rohči
 rokkan
@@ -4683,6 +4939,7 @@ ruovgat
 ruovji
 ruovttoluotta
 ruovttueana
+ruovttus
 ruoškit
 ruošša
 ruoššagiella
@@ -4740,7 +4997,6 @@ ráhkistuvvat
 ráhkisvuohta
 ráhkkáseamos
 ráhkkásit
-ráhkẹstit
 ráhpes
 ráhpis
 ráhput
@@ -4750,6 +5006,8 @@ ráidu
 ráigi
 rájes
 rájis
+ráksá
+ráksái
 rámbi
 rámbut
 ránes
@@ -4802,7 +5060,6 @@ salla
 salletgáiru
 sallit
 sallut
-saláhta
 saláhtta
 sarcut
 sarri
@@ -4834,7 +5091,6 @@ seaksa
 seakti
 seaktit
 sealgi
-seamu
 searvat
 searvevuohta
 searvi
@@ -4863,7 +5119,6 @@ sevdnjesáigi
 sevnnjodeapmi
 sevnnjodemiid
 sevnnjodit
-sextifjärdedelsnot
 sidjiide
 siedja
 siehppa
@@ -4878,7 +5133,6 @@ sieđgacivkkán
 sigareahtta
 sigára
 sihkaldat
-sihkar
 sihke
 sihkkar
 sihkkarastit
@@ -4972,10 +5226,10 @@ skárrit
 skátnjat
 skávgat
 skávli
+skávžá
 smarvi
 smiehttat
 smiergit
-smulpaj
 smáhket
 smávis
 snielut
@@ -5030,6 +5284,7 @@ sorjavaš
 sorját
 sosialisma
 sosialista
+sosiologiija
 sotnabeaivi
 sotnabeavi
 spageahtta
@@ -5066,6 +5321,7 @@ spáitit
 spálčát
 spánderet
 spánskagiella
+spártu
 spáseret
 sruva
 statiiva
@@ -5084,6 +5340,7 @@ stohkosa
 stohkosat
 struhpat
 studio
+studioságastallan
 stuhča
 stumpát
 stuollu
@@ -5144,6 +5401,20 @@ sunin
 suodji
 suoggat
 suohkan
+suohkanbargi
+suohkanbušeahtta
+suohkanbáhppa
+suohkandearvvašvuođabálvalus
+suohkandoavttir
+suohkanekonomiija
+suohkangalba
+suohkanguorahallan
+suohkanguovddáš
+suohkanhálddahus
+suohkanhálddašeapmi
+suohkankonferánsa
+suohkankássa
+suohkanlaš
 suohkat
 suohkku
 suohpput
@@ -5151,6 +5422,7 @@ suohtas
 suoibut
 suoidnemánnu
 suoidni
+suoivva
 suoksa
 suola
 suolaskáiti
@@ -5207,6 +5479,7 @@ suvrris
 suvráseamos
 suvrásit
 svanesång
+svulstig
 symmetria
 sábin
 sáddet
@@ -5229,6 +5502,7 @@ sáhte
 sáhtii
 sáhttet
 sáhttit
+sáhtán
 sáhtán!
 sáhtát
 sáibbo
@@ -5256,9 +5530,16 @@ sániide
 sániiguin
 sániin
 sánis
+sánis sátnái
 sánit
+sánálaš
 sápmelaš
+sápmelašvuohta
 sápmi
+sárdni
+sárdnideaddji
+sárdnideapmi
+sárdnidit
 sárdnut
 sárggis
 sárgi
@@ -5268,10 +5549,13 @@ sárgun
 sárgut
 sárrat
 sátnegirji
+sátnejođiheaddji
+sátneluohkká
 sátni
 sátnin
 sátnái
 sátnẹgirji
+sátnẹjođiheaddji
 sáttoáhpi
 sáttu
 sáttọáhpi
@@ -5418,6 +5702,7 @@ veahki
 veahkki
 veahkki!
 veahkẹhit
+veahá
 veaháš
 veahčir
 veaigi
@@ -5452,6 +5737,7 @@ veret
 verrát
 vette
 video
+videofilbma
 viehkat
 viehkki
 vielgadeamos
@@ -5505,7 +5791,6 @@ viidon
 viidu
 viidut
 viidát
-viigá
 viimmat
 viisses
 viissis
@@ -5548,6 +5833,7 @@ vuje
 vulge
 vulget
 vulgos
+vulkána
 vulos
 vuoddji
 vuoddját
@@ -5560,6 +5846,7 @@ vuodjut
 vuodjá
 vuogas
 vuogga
+vuohes
 vuohki
 vuohppa
 vuohppasássa
@@ -5570,14 +5857,21 @@ vuohttit
 vuohčit
 vuohčut
 vuohčču
+vuoi
 vuoidat
+vuoiddadit
+vuoiddas
 vuoiga
 vuoigat
 vuoigit
 vuoigŋa
 vuoigŋat
 vuoitit
+vuoitu
 vuoivvas
+vuoivvasmeastu
+vuoivvasnjuvddus
+vuoivvasoažži
 vuoiŋŋadit
 vuoiŋŋadus
 vuoiŋŋasteapmi
@@ -5606,6 +5900,7 @@ vuollat
 vuolli
 vuollin
 vuollái
+vuollánit
 vuolpu
 vuoládus
 vuona
@@ -5631,6 +5926,7 @@ vuossa
 vuossi
 vuossu
 vuossárga
+vuossárga · disdat
 vuosttaš
 vuostá
 vuosẹhit
@@ -5663,10 +5959,10 @@ váhnen
 váibat
 váibmosuotna
 váibmu
+váidalit
 váidit
 váidudit
 váidut
-váikko
 váilut
 váivi
 váivves
@@ -5686,6 +5982,7 @@ várdát
 várju
 várra
 várri
+váruhit
 várut
 váso
 vássit
@@ -5707,6 +6004,8 @@ watta
 wolfram
 xenon
 z
+{{t|1=se|2=liekkadit}}
+{{t|1=se|2=ligget}}
 Á
 Áhkkil
 Áile
@@ -5727,9 +6026,17 @@ z
 Ásllat
 Ålánda
 á
+ábas
 ábbut
+ábegáhttu
 ábiruvvá
+ábolaš
+ábuheapme
+ábuhit
+ábáiduvvan
 ádde
+áddegoahtit
+áddehaddat
 áddehahtti
 áddet
 áddjut
@@ -5775,6 +6082,7 @@ z
 áidnu
 áidut
 áigeavádat
+áigemašiidna
 áigečála
 áigge
 áiggi
@@ -5785,6 +6093,7 @@ z
 áigut
 áigá
 áigẹčála
+áika
 áinnut
 áiru
 áisá
@@ -5802,6 +6111,7 @@ z
 ákšu
 álbmot
 álbmotbeaivi
+álbmotjienasteapmi
 álbmotmeahcci
 álbmotstivra
 álbmotváldi
@@ -5824,13 +6134,13 @@ z
 álki
 álkimus
 álkit
+állat
 állut
 állát
 álo
 álpagáica
 áltár
 álás
-ámadadju
 ándagassii
 áno
 ánuhit
@@ -5866,15 +6176,25 @@ z
 ávki
 ávkkáiduvvat
 ávus
+ávvudeame
+ávvudeami
+ávvudeamis
+ávvudeamit
 ávvudeapmi
+ávvudeapmin
+ávvudeapmái
+ávvudemiid
+ávvudemiide
+ávvudemiiguin
+ávvudemiin
 ávža
 ávžaskábit
 ávži
 ávžžuhit
 áššeheapme
 ášši
+áššu
 áššẹheapmẹ
-återställa
 Č
 Čeahkka
 Čeavetjávri
@@ -5891,6 +6211,7 @@ z
 čakčat
 čala
 čalbmi
+čalgat
 čallat
 čalmmas
 čalmmeheamos
@@ -5902,6 +6223,7 @@ z
 čatnat
 čavga
 čavgadeamos
+čavgadet
 čavgadit
 čavgat
 čavges
@@ -5913,8 +6235,6 @@ z
 čeabehastit
 čeabet
 čeabetliidni
-čeabi
-čeabát
 čeabẹhastit
 čeahci
 čeahcit
@@ -5946,6 +6266,7 @@ z
 čeŋkkeš
 čibbeskálžu
 čibbi
+čiegar
 čiegus
 čiehgahpir
 čiehka
@@ -5988,13 +6309,16 @@ z
 čirrat
 čitnut
 čivga
+čivhli
 čivrrus
 čičči
 čižži
 čoaggit
+čoahkkanit
 čoahkkat
 čoalbmi
 čoalli
+čoamohas
 čoarrut
 čoarrát
 čoarvi
@@ -6011,6 +6335,7 @@ z
 čogu
 čohkat
 čohkka
+čohkket
 čohkkát
 čohkun
 čohkut
@@ -6033,6 +6358,7 @@ z
 čotta
 čottabávččas
 čovvát
+čugget
 čuige
 čujuhus
 čukčá
@@ -6087,9 +6413,11 @@ z
 čurges
 čurti
 čurtát
+čurvet
 čuvdi
 čuvges
 čuvget
+čuvggodit
 čužot
 čábbe
 čábbut
@@ -6108,6 +6436,7 @@ z
 čáhppesbađošguškil
 čáhppesbuokča
 čáhppesmuorji
+čáhppesnjukča
 čáhppesrásttis
 čáhppesčoavžžu
 čáhppát
@@ -6127,6 +6456,8 @@ z
 čálˈli
 čáppa
 čáppat
+čárvut
+čáskadanbiila
 čáskat
 čátná
 čávdit
@@ -6152,6 +6483,7 @@ z
 šallju
 šamanisma
 šamána
+šat
 šealgadeamos
 šealgadit
 šealgat
@@ -6174,6 +6506,7 @@ z
 šieđđat
 šiggut
 šiitit
+šillju
 šimpánsa
 širrat
 šlahtti
@@ -6194,7 +6527,6 @@ z
 šluŋkát
 šnjalčát
 šnjarvát
-šnjierrá
 šnjirgut
 šnjivvat
 šnjoargut
@@ -6205,8 +6537,11 @@ z
 šuohkkit
 šuokŋadahkki
 šuvvat
+šušmesuotna
 šušmi
 šušmmi
+šáhkka
+šáhkkaspealli
 šákša
 šállo
 šávge

@@ -42,6 +42,7 @@ agbaru
 agwutọ
 aigẹlẹ
 akele
+akpo
 ala
 ata
 atika
@@ -65,7 +66,9 @@ eji
 ejo
 ejoo
 eju
+ekpo
 ele
+eli
 ewo
 f
 fiili
@@ -74,6 +77,7 @@ gb
 gb'íchí
 gb'údọ̄
 gb'úlù
+gba
 gbọ
 gbọ́ káà
 gw
@@ -82,6 +86,7 @@ gwẹ
 gwọ́wọ́
 h
 i
+ichekpulu
 idu
 idọ
 iga
@@ -100,6 +105,7 @@ j
 j'ogwu
 j'ogwú
 j'ùjẹñwu
+jẹ
 k
 kp
 kp'éjú rú
@@ -112,6 +118,7 @@ n
 n'ọkọ́
 neju
 ny
+ny'ányí
 o
 obijimu
 obukọ
@@ -131,6 +138,7 @@ p
 piọọlọ
 r
 ree
+rule
 t
 u
 ubi
@@ -146,8 +154,6 @@ w
 w'ẹ́bọ
 wọla odudu
 wọla ọrọka
-wọ́l'òdùdu
-wọ́l'ọ̀rọ́ka
 wọ́la ánẹ́
 wọ́la ìhíájà
 wọ́la òdùdu
@@ -161,12 +167,14 @@ y
 È
 É
 Égbi
+Ékpo
 Ì
 Ìchẹbọ
 Í
 Ífá
 Ígálámẹ̄la
 Ígáláà
+Íkéléchìmáchì
 Ñ
 Ñm
 Ñw
@@ -178,15 +186,16 @@ y
 Ú
 à
 àgwùtọ̀
+àloji
 àmulú-ùkọ̀là
+ànyà
 àwa
-àwò
 á
+ábíá
 ábẹ-àfù
 áchálìfọ
+áchíkwúù
 áféjú
-ágbà
-ágbáà
 ágàárà
 ágábá
 álu-ọkọ́
@@ -202,19 +211,23 @@ y
 ètà-ẹ̀kpẹ̀
 èñíni
 é
-égbárū
-égbè
-égbéè
 éjò
-éjóò
 éjú-échúbi
 éjú-ékpá
 éjú-ékpọfọ́
 éjú-épi
+ékpo kpikpa
+ékpo ọ̀jẹ̀
+ékpo-ojí
+ékpo-unọ̀ba
+ékpo-ẹja
+ékpo-ọla
+ékpo-ọ̀pá
 ényẹ́
 éwó
 ì
 ìbégwú
+ìchèkpúlù
 ìdù
 ìhíájà
 ìkpàkáchi
@@ -226,8 +239,6 @@ y
 ímá-ẹ̀kpẹ̀
 íná
 ítíchà
-íwọ́la òdùdu
-íwọ́la ọ̀rọ́ka
 ñ
 ñm
 ñw
@@ -243,9 +254,11 @@ y
 òkwúta-ọmọjọ́chà
 òókáà
 ó
+ódú
 ógwu
 ógwú
 ólu-ẹja
+ólí
 ólí-égbè
 ólí-égbéè
 óóje
@@ -259,13 +272,9 @@ y
 ùjẹñwu-ánẹ́
 ùjẹñwu-ùrínyọ̀
 ùjẹñwu-ọ̀rọ́ka
-ùkpókpò
 ùlókóò
 ùrà
 ú
-úgwú
-újì
-újíì
 únyí-ẹbọ
 Ā
 ā
@@ -302,12 +311,14 @@ y
 ẹ̀bìẹ̀-ẹ̀bìẹ̀
 ẹ̀gwá
 ẹ̀gwákáà
+ẹ̀gwébie
+ẹ̀lẹ̀
+ẹ̀ta
 ẹ́
 ẹ́bọ
 ẹ́bọ-ojí
-ẹ́fáà
 ẹ́kọ̀
-ẹ́kọ́ọ̀
+ẹ́wẹ
 ẹ́wẹ ọ̀lọ
 ẹ́ñwu
 ẹ̄
@@ -331,7 +342,6 @@ y
 ọwọ
 ọya
 ọ̀
-ọ̀dẹ̀hẹ̀
 ọ̀gbọ̀wù
 ọ̀kpóóló-úbì
 ọ̀kọ̀-t'ọ́cha
@@ -344,6 +354,7 @@ y
 ọ́kọ-ógwùchẹ́kwọ̀
 ọ́kọ-ẹla
 ọ́kọ̀
+ọ́kọ́
 ọ́kọ́-ajalu
 ọ́kọ́-anẹ̀
 ọ́kọ́-ebíjè
@@ -354,16 +365,11 @@ y
 ọ́kọ́-ochù
 ọ́kọ́-ojáalè
 ọ́kọ́-íjẹ̀bú
-ọ́kọ́ọ̀
 ọ́la
-ọ́la òdùdu
-ọ́la ọ̀rọ́ka
 ọ́mátāīna
 ọ́wọ̀-ọ̀jẹ̀
 ọ́wọ́-iye
 ọ́wọ́-átā
 ọ́wọ́-áwohì
 ọ́wọ́-áwọ̄tọ
-ọ́wọ́ọ̀
-ọ́yáà
 ọ̄

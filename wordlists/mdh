@@ -2,7 +2,6 @@ Akad
 Akmad
 Alamada
 Alatala
-Alba
 Allah
 Ampatuan
 Bansil
@@ -19,7 +18,6 @@ Jamat
 Jumadi el Akir
 Jumadi el Awal
 Kakristianuan
-Kamis
 Kammis
 Koronadal
 Koronadalen
@@ -27,12 +25,13 @@ Kristiano
 Kristo
 Kutawatu
 Lanao
-Magindanau
 Magindanaw
+Magindanawn
 Makka
 Manguda
 Mangudadatu
 Maranao
+Maulana
 Meseh
 Mesehi
 Midsayap
@@ -46,7 +45,7 @@ Paglas
 Pangutaran Magindanaw
 Parang
 Piang
-Ramadlan
+Poblacion
 Ramedlan
 Rebi el Akir
 Rebi el Awal
@@ -56,7 +55,6 @@ Salasa
 Salatan Kutawatu
 Sandigan
 Sapal
-Sapetu
 Saptu
 Sapulu a Sugu
 Sawwal
@@ -65,8 +63,10 @@ Sulkaida
 Usman
 Utara Kutawatu
 abadi
+adimat
 agama
 agama Mesehi
+agimat
 agus
 ajal
 alad
@@ -75,6 +75,7 @@ alug
 alung
 alungan
 ama
+ambulans
 amo
 andaw
 angga
@@ -83,12 +84,14 @@ arga
 asu
 atep
 ating
+awtu
 baad
 baan
 babak
 babay
 babuy
 baga
+bagingedan
 bagisan
 bahasah
 baka
@@ -98,9 +101,12 @@ balerang
 balig
 balud
 ban
+bangku
 baniaga
+bansa
 barukan
 basa
+basu
 batabul
 batuk
 bedung
@@ -111,7 +117,6 @@ bel
 belidal
 belikul
 benget
-berniaga
 betis
 bilangguan
 bili-bili
@@ -120,7 +125,7 @@ binaning
 binaning puti
 binatang
 bisa
-bitun
+bisiklita
 bituun
 buaya
 bubun
@@ -147,10 +152,12 @@ dana
 datu
 dauat
 dayong
+days of the week: gay nu padian: Akad · Isnin · Salasa · Alba · Kamis · Jamat · Sapetu [edit]
 dedsaan
 dengki
 dila
 dilek
+distritu
 dua
 duda
 dulang
@@ -158,38 +165,51 @@ dunia
 duti
 duwa
 ebang
+edsatul
 emay
 emáy
 endu
 gabun
 gadung
+gajah
 galang
 gamut
 gamutan
 gangu
+gansu
 garugadi
 gatas
 gay
-gay nu padian
 gebu
+granada
+gulipu
+guma
 gunigunien
 gunting
 guru
 gusuk
 hatay
 hutan
+iblis
 ig
 igo
+ikug
 ilek
 imu na babay
 ina
 inayanan
 ingay
+inged
+ingeda
+ingedin
+ingedu
 ipamagapuy
 ipeninindeg
+irek
 isa
 itug
 jiwa
+kabpaginged
 kabpaninindegan
 kadengkian
 kagakal
@@ -198,14 +218,19 @@ kaharian
 kahawa
 kakaba
 kalasan
+kalsinsiliu
 kaludan
 kaluma
+kamagenged
 kanan
+kapagadimat
+kapaginged
 kapal
 kapal apuy
 kapatay
 kapaya
 kapedtindeg
+kapi
 kapir
 karabaw
 karatas
@@ -225,6 +250,8 @@ ken
 kendi
 kibas
 kilat
+kilumitru
+kitab
 kubal
 kubing
 kuda
@@ -232,8 +259,10 @@ kuden
 kudul
 kuitis
 kulambu
+kulsi
 kuman
 kursi
+kutsun
 kutu
 labu
 lagagan
@@ -253,6 +282,7 @@ laun
 laup
 layupan
 leb
+lebengan
 lekeb
 leman
 lengguk
@@ -262,6 +292,7 @@ libru
 lig
 lima
 linug
+liplanu
 lugu
 lumanguy
 lusud sa tian
@@ -280,12 +311,14 @@ magingay
 maginged
 maigo
 makapal
+malapati
 malendu
 malindeg
 mama
 mamis
 mamut
 manganup
+manginged
 manguda
 manipis
 manipu
@@ -305,10 +338,10 @@ mauyag
 mawasa
 mawatan
 mesjid
+midias
 miliun
 minum
 minutu
-mulid
 mulit
 murid
 nagangu
@@ -330,6 +363,8 @@ pagali
 paganad
 pagapuyan
 pagaway
+paginged
+pagingedan
 pakaw
 pakinig
 palakala
@@ -341,13 +376,16 @@ pamalang
 pamenus
 pamula
 pamulan
+pan
 pandi
 pangan
 pangenal
 panigabi
+pantalun
 panunurat
 papak
 papanuk
+papedtayan
 paras
 pat
 payong
@@ -358,21 +396,28 @@ pedtipu
 pedtipuan
 pegulan
 pelag
+pelagawan
 pendengki
 penipu
 penipuan
 pepuasa
 peragama
 petad
+pilinsa
+pinsil
 pirak
 pitak
 pitu
+prisidinti
 puasa
 pula
 pulangi
+pulis
 pusaka
 pused
 putaw
+rabit
+radiu
 ragat
 ragum
 ragun
@@ -382,6 +427,7 @@ rajabay
 ranaw
 ransuk
 rasul
+raypuliu
 rugu
 rumugu
 sa
@@ -399,7 +445,8 @@ sapa
 sapi
 sapu
 sapulu
-satol
+satul
+satulan
 saulan
 sawlan
 sebangan
@@ -416,16 +463,16 @@ siku
 silam
 sinipit
 sising
-siyaw
-sorga
+suala
 sugut
-sulga
 sulutan
 sumpit
+sundalu
 sundang
 surga
-surgah
+sutra
 tagenek
+talainged
 tali
 talumpa
 tambuli
@@ -443,9 +490,14 @@ timus
 timusan
 tinay
 tindeg
+tinidul
 tipu
 tipuan
 tiwalayan
+trak
+traktur
+traysikel
+tumbaga
 ubal
 udang
 ugagan
@@ -479,7 +531,7 @@ watun
 waw
 ابادي
 اودڠ
-راݢوم
+دنيا
 ورنا
 ڤواسا
 کودا

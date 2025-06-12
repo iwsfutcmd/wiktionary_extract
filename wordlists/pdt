@@ -365,6 +365,9 @@ Botta (nds)
 Bottabloom
 Bottadinkj
 Bottamalkj
+Bottamaltj
+Bottermalkj
+Bottermaltj
 Bowabeen
 Bowabän
 Brams
@@ -507,6 +510,7 @@ Donner
 Donst
 Doom
 Doopsteen
+Doot
 Dotem
 Dreefoot
 Dreeroda
@@ -590,6 +594,7 @@ Elren
 Eltesta
 Eltesta (Ältester m)
 Enbildunk
+Enj
 Enjel
 Enjwa
 Enschreft
@@ -602,10 +607,12 @@ Fachel
 Fada
 Fadavee
 Faks
+Faksen
 Fal
 Falm
 Famielje
 Famieljenstaum
+Famieljes
 Farisäa
 Farjoa
 Farnitz
@@ -733,6 +740,7 @@ Fraunsoos
 Frauz
 Freestikj
 Freid
+Freiden
 Freidstiera
 Fria
 Friedach
@@ -760,7 +768,6 @@ Frädenstiet
 Frädhoff
 Frätarie
 Fräten
-Frü
 Fua
 Fuamaun
 Fuatkomen
@@ -874,6 +881,7 @@ Hakjentun
 Hakjs
 Hakjsarie
 Hakjsenkonst
+Hakjsenmeista
 Hal
 Haleluja
 Halenfia
@@ -1230,6 +1238,7 @@ Jeschenkj
 Jeschicht
 Jestank
 Jewault
+Ji'toa
 Jiez
 Jinja
 Jlekj
@@ -1247,6 +1256,7 @@ Johanes
 Johanes de Deepa
 Jood
 Jordan
+Jrind
 Jräp
 Jräs
 Jud
@@ -1330,7 +1340,6 @@ Kjeeshendla
 Kjeew
 Kjeisa
 Kjeisarikj
-Kjen
 Kjennich
 Kjennichrikj
 Kjennichshoff
@@ -1486,6 +1495,7 @@ Kloosta
 Kloppott
 Klops
 Klopsfleesch
+Klotje
 Klotsch
 Klotz
 Klubbutje
@@ -1651,7 +1661,6 @@ Lastrunk
 Latoarn
 Laump
 Laumpenschorm
-Laund
 Launt
 Launt (nds)
 Launtenj
@@ -1671,6 +1680,7 @@ Leiw
 Lepp
 Lia
 Lichttorm
+Lieden
 Lieej
 Liem
 Loagawach
@@ -1722,6 +1732,7 @@ Matroos
 Maun
 Maundel
 Maunsjlett
+Mauskelnät
 Mautsch
 Meddach
 Meddpunkt
@@ -1803,7 +1814,9 @@ Nokjast
 Notel
 Nowamba
 Nowel
+Nutzen
 Näs
+Nät
 Oa
 Oabeit
 Oafgoot
@@ -1904,7 +1917,6 @@ Plaupamauz
 Plaupamul
 Plautdietsch
 Plautdietsch: Schaund
-Plautdietsch: beleeft
 Plauttdietsch
 Plauttdietsch (nds)
 Pleia
@@ -2042,6 +2054,7 @@ Rinkj
 Rint
 Rintfleesch
 Rintsbroden
+Rittatiet
 Riwa
 Rock
 Rodeo
@@ -2237,6 +2250,7 @@ Schopschoawel
 Schopsfal
 Schopsfleesch
 Schopstaul
+Schowanaksowent
 Schrakj
 Schrank
 Schraum
@@ -2536,6 +2550,7 @@ Tiet (nds)
 Tietplon
 Tint
 Tips
+Tookunft
 Toopkomen
 Tooschlach
 Tracht
@@ -2543,6 +2558,7 @@ Tron
 Troon
 Troost
 Trots
+Trua
 Tucks
 Tulp
 Tulpe
@@ -2557,6 +2573,7 @@ Tän
 Tün
 Ua
 Uag
+Uagen
 Ul
 Umstandswort
 Utbunt
@@ -2578,6 +2595,8 @@ Veheltniss
 Vehia
 Vesaumlungshus
 Vesaumlunk
+Veschlapsdach
+Vespräakjen
 Voagel
 Voagel (nds)
 Voda
@@ -2642,6 +2661,7 @@ Wauschwota
 Wauss
 Wee
 Weedhak
+Weeen
 Weemutta
 Weest
 Weid
@@ -3213,6 +3233,7 @@ besonda
 besopen
 besorcht
 bessawiess
+best
 bestendich
 bestädicht
 besäten
@@ -3245,6 +3266,7 @@ boajich
 boajopp
 boare
 boarmherzich
+bockelzhonn
 bode
 bollboarich
 bolsch
@@ -3255,6 +3277,7 @@ bose
 bosijch
 breese
 breet
+brellen
 brennboa
 brenne
 brinjen
@@ -3322,6 +3345,7 @@ donste
 donstijch
 doof
 doone
+doonen
 doot
 dootjebuaren
 dootmoaken
@@ -3342,6 +3366,7 @@ droagent
 drock
 droslich
 druglich
+du
 duaren
 duarhauft
 dulde
@@ -3380,6 +3405,7 @@ emma
 emmahan
 emsonst
 emwäaj
+en
 enaunda
 enj
 enjawiess
@@ -3392,6 +3418,7 @@ entstalt
 enzint
 erboarmlich
 errsennich
+es
 fa
 falich
 fanatisch
@@ -3477,6 +3504,7 @@ füle
 gaule
 gauns
 gaupe
+gaussläpel
 goa
 goanich
 goaschtrich
@@ -3544,13 +3572,14 @@ ippich
 irjentwanea
 irjentwua
 jachte
-jachten
 jalsta
 jeedenfauls
 jeemols
 jeeten
+jeft
 jeftijch
 jehorchen
+jenant
 jie
 jiedatsmol
 jistrenowent
@@ -3564,6 +3593,7 @@ jräsich
 junk
 jäl
 jälroot
+jäwen
 kaputt
 kaputt (nds)
 kaum
@@ -3579,7 +3609,6 @@ kjriezjen
 kjwälen
 kloa
 kloppe
-klotje
 knacke
 knakrich
 knaup
@@ -3611,6 +3640,8 @@ leet
 leet (nds)
 leida
 lempich
+leppstock
+lieden
 liedenschoftlich
 lind
 lom
@@ -3622,9 +3653,11 @@ lunsich
 lusich
 läach
 lädich
+läwen
 mang
 mank
 meed
+mennonitisch Plautdietsch
 metreisen
 mie
 mien
@@ -3633,6 +3666,7 @@ mootlooss
 morsch
 munta
 muskjestell
+nanen
 naut
 neiw
 nichta
@@ -3691,6 +3725,7 @@ ondeenlich
 ondenkjboa
 onehelich
 onemfintlich
+onen
 onerfoaren
 onfrintlich
 onheeflich
@@ -3738,13 +3773,16 @@ onweetent
 onweis
 onwirdich
 onwoa
+ooda
 oolt
 ooltmoodsch
+oonzefreden
 open
 open (nds)
 openboaren
 opjeschloten
 oppdrenjent
+oppet
 oppfaulent
 opphäwen
 oppjebrocht
@@ -3753,6 +3791,8 @@ oppstonen
 orrajcht
 orrein
 pdt
+plautdietsch
+pludren
 prachren
 profeetisch
 prost
@@ -3843,6 +3883,7 @@ schudahauft
 schumich
 schwak
 schwanga
+schwauzen
 schweetich
 schweifich
 schwiendriest
@@ -3868,6 +3909,8 @@ senjent
 senne
 sennen
 sennlooss
+sent
+sie
 sieekjen no
 sien
 sieprich
@@ -3897,8 +3940,10 @@ sua
 sön
 tieen
 tieendusent
+to
 toag
 tojoa
+toop
 toopkomen
 torne
 trachte
@@ -3919,8 +3964,10 @@ unja
 uteneen
 utgonen
 ve'orreinjen
+veeent
 vejäfs
 veleicht
+veloten
 velust
 venowent
 veroden
@@ -3928,6 +3975,9 @@ verut
 veseepen
 veselfst
 vesieekjen
+vesprakjt
+vesproaken
+vespräakjen
 väl
 wada
 wadalich
@@ -3935,7 +3985,6 @@ walkj
 wan Gott daut haben well
 wanemma
 wautemma
-wee
 weens
 weinich
 weis
@@ -3946,6 +3995,7 @@ weltlich
 werr
 wesen
 wess
+wia
 wichtich
 wie
 wieda
@@ -3956,8 +4006,14 @@ wiesen (nds)
 winjsch
 witt
 witt (nds)
+woa
 woaken
+woaren
+woascht
+woat
+woo
 wua'emma
+wuarom
 wäa
 wäakjlich
 zockaboom
