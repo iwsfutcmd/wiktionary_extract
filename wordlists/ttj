@@ -5,6 +5,8 @@
 -abwo
 -abyo
 -ago
+-agurwa
+-aguza
 -agwo
 -aho
 -aitu
@@ -16,56 +18,308 @@
 -ange
 -anyu
 -arwo
+-asa
+-atika
+-atira
+-atisa
+-atwa
 -atwo
 -awe
 -ayo
 -azo
 -ba-
+-baliza
+-banzibwa
+-bara
+-barra
+-barwa
+-baza
+-baziira
+-baziirra
+-baziirwa
+-baziiza
+-bazisa
 -bi-
 -biiha
 -biri
+-boha
+-bohera
+-bohesa
+-bohwa
+-bonabona
+-boneka
+-bonera
+-bonwa
+-boyera
+-boyesa
 -bu-
+-byama
+-byamira
+-byamya
+-cumisa
+-cumitira
+-cumitwa
+-cwacwana
+-cweka
+-cwera
+-cwibwa
+-cwisa
 -e
 -e-
+-ehara
+-ehindura
+-ehurra
+-ekamuura
+-ekuuba
+-ekwata
+-emanya
+-emererra
+-emereza
+-emerra
 -enyini
--era
+-eragaza
+-erora
+-erra
+-eyagura
+-eyita
+-eza
+-feera
+-fiisa
+-funda
+-fundira
+-funza
 -ga-
+-galiha
+-galihya
+-gamba
+-gambira
+-gambisa
+-gambwa
+-garamya
+-gazi
+-gera
+-gerra
 -gi-
 -gu-
+-gwa
+-gwera
+-gwijagira
+-gwijagiza
+-gwisa
+-ha
 -ha-
+-haisa
+-harwa
+-haza
+-heebwa
+-heera
+-heereza
+-hinduka
+-hindukira
+-ho clitic: -bazaaho
+-ho clitic: -kwataho
+-huliiriza
+-hulirra
+-hulirwa
+-huliza
+-hungura
+-hurruka
+-hurrukira
 -ihamu enda
--iragura
+-ija
+-ikalirra
+-ikaliza
+-ikara
+-ikarra
+-ikaza
+-ikisa
+-ikiza
+-ingi
+-iraguza
+-isa
+-itangana
+-itira
+-itisa
+-itwa
+-izira
 -ka-
+-kagiriza
+-kamuura
+-kamuurwa
+-ke
 -keeha
 -ki-
+-kooto
 -ku-
+-kuuba
+-kuubwa
+-kwasa
+-kwata
+-kwatana
+-kwatangana
+-kwataniza
+-kwatira
+-kwatwa
+-lemeeza
+-leremuka
+-leremura
+-leremurwa
 -li
 -li-
+-liibwa
+-liira
+-liisa
 -liku-
+-limira
+-limisa
+-limwa
 -liyo
+-lya
+-manyangana
+-manyiira
+-manyira
+-manyisa
+-manywa
+-miga
+-migamiga
+-migira
+-migisa
+-migwa
 -mu
+-mu clitic: -cwamu
 -mu-
 -n-
 -na
--nanata
+-naaba
+-naabira
+-naabisa
+-naabya
+-naga
+-nagira
+-nagisa
+-nanasa
+-ndi
 -nu
+-nunkira
+-nunkiriza
 -nya-
+-nyuunywa
+-nywa
+-nywera
+-nywibwa
+-nywika
+-nywisa
+-oga
+-ogera
+-ogesa
+-ogya
+-omeera
+-omeeza
+-ona
+-onkera
+-onkesa
+-onkya
 -onyini
+-ragaliza
+-ragaza
+-ragazibwa
 -raha
+-raihya
 -roho
+-rolerra
+-rorangana
+-rorra
+-rorwa
+-roza
 -ru-
+-rubasa
+-rubata
+-rubatarubata
+-rubatira
+-rubatwa
 -ruku-
 -rumu
+-rumwa
 -rumwa enda
+-rumya
+-rwana
+-rwanira
+-rwanisa
+-rwanwa
+-sarasara
+-sarra
+-sarwa
 -satu
+-saza
+-seereera
+-seereerra
+-seereeza
+-sekeereza
+-sekera
+-sekesa
+-sekwa
+-sesemwa
+-sesemya
+-siba
+-sibira
+-sibisa
+-sibwa
+-sibya
+-sika
+-sikisa
+-sikwa
+-sindika
+-sindikira
+-sindikwa
+-singa
+-singira
+-singisa
+-singura
+-singwa
+-sona
+-ta
+-ta-
 -taano
+-taito
+-takurra
+-takurwa
+-takuza
+-tanakira
+-tanakya
+-teekerereza
+-teekereza
+-teekerezibwa
+-teerangana
+-teerateera
+-teerra
+-teerwa
+-teeza
+-tematema
+-temera
+-temesa
+-temwa
+-tiinira
+-tiinisa
+-tiinwa
 -tu-
--tukura
+-tukuza
+-yo clitic: -faayo
+-zaana
+-zaanira
+-zaanisa
+-zaanwa
 -zi-
+-ziha
+-zihira
+-zina
+-zinira
+-zinisa
 Abatooro
 Agutamba
 Batooro
 Bu-
+Bugwaizooba
+Bungereza
 Butooro
 Ekitabu Ekirukwera
 Misiri
@@ -84,6 +338,7 @@ Omungereza
 Omunyamisiri
 Omunyamisiri class 1
 Omutooro
+Omutooro class 1
 Omutoorokati
 Orugiriiki
 Orugiriiki class 11
@@ -93,7 +348,6 @@ Orujungu
 Orungereza
 Orutooro
 Ru-
-a
 a ikumi
 a kabiri
 a kana
@@ -108,15 +362,24 @@ a okubanza 'first'
 a okumalirra
 a okwongeraho 'next'
 a-
+a/languages M to Z
 abagenyi
 abahyaka
 abakama
 abantu
+abasaija
 abiri
 abo
+ago
+agura
+aha
+aha-
 ahahyaka
+aho
+aho class 16
 aitu
 akaako
+akaana
 akaara
 akabwa
 akafumbarume
@@ -129,6 +392,7 @@ akajangu class 12
 akakaaga
 akakaikuru
 akakazi
+akakoko
 akakongoijo
 akakongoijo class 12
 akakumi
@@ -150,25 +414,37 @@ akasiiriira
 akasoke
 akateerarume
 akateerarume class 12
+akati
 akenda
+ako
 akoojo
 akooya
+ama-
 amahyaka
+amaino
+amaiso
 amaizi
 amankwaha class 6
 amooya
 ana
 ange
 anyu
+asa
 asatu
+ata
 ataano
 awe
 ay-
 ba-
 baamalaika
 bagenyi
+baha
 bahyaka
 bantu
+banza
+bara
+baza
+baziira
 bbina
 be-
 bi
@@ -184,7 +460,12 @@ biri
 bisatu
 bitaano
 bitabu
+bo
+bo class 2
 bo-
+boha
+bona
+boya
 bu-
 buhyaka
 bururu
@@ -193,23 +474,47 @@ busaho
 busamu
 busayo
 bwo
+bwo class 14
+byama
 byo
+byo class 8
+ceke
+cumita
+cwa
+di
+dora
 e
 e-
+ebi
+ebiganja
 ebihyaka
 ebikya
+ebintu
+ebisasara
+ebisasara class 8
 ebitabu
 eboha
 eby'
 ebya
 ebyenda
+ebyo
 ecumi
+egi
+egyo
+ehiihizi
+ehiihizi class 9
+eki
+ekibaro
 ekibero
+ekibira
+ekibira class 7
 ekibunu
+ekicumita
 ekicwanta
 ekifuba
 ekifunjo
 ekifunjo class 7
+ekigambo
 ekiganja
 ekiganja class 7
 ekiganja ky'ekigere
@@ -222,27 +527,39 @@ ekihaha
 ekihanga
 ekihangara
 ekihimbo
+ekihoiholya
+ekihoiholya class 7
 ekihonzi
 ekihuguhugu
+ekihuka
+ekihuka class 7
 ekihuru ky'enyindo
 ekihyaka
 ekiinyi
 ekiinyi class 7
+ekijoka
+ekijuma
 ekikazi
 ekikoko
 ekikonde
 ekikonde class 7
 ekikongoijo
 ekikongoijo class 7
+ekikoora
 ekikumi
 ekikuya
 ekimira
+ekimuli
 ekinaana
 ekinono
 ekinosi
 ekintu
+ekinunko
+ekinyansi
+ekinyansi class 7
 ekinyonyi
 ekinywa
+ekinywansande
 ekirale
 ekirale class 7
 ekireju
@@ -251,32 +568,54 @@ ekirusu
 ekisaatu
 ekisaija
 ekisajwa
+ekisasara
+ekisasara class 7
 ekisigi
 ekisinziro class 7
 ekisole
 ekisongezo
 ekisoro
+ekisoro class 7
 ekisoro ky'omukisaka
 ekisoro ky'omumaka
+ekisusu
+ekisusu class 7
 ekisusu ky'emboro
 ekisusu ky'emboro class 7
 ekisuzi
 ekitabu
 ekiteega
+ekiteekerezo
+ekitemamuhoro
+ekiteme
+ekiti
+ekiti ky'isoke
+ekizina
 eky'
+eky'enyanja
+eky'enyanja class 7
 ekya
+ekyakyo
+ekyana
 ekyara
+ekyasi
+ekyegoora
+ekyegoora class 7
 ekyenda
+ekyo
 ekyoma
 ekyoya
 emana
 emana class 9
+embaate
+embaate class 9
 embaju
 embaju class 10
 embaraasi
 embaraasi class 9
 embeba
 embeba y'omukono
+embibo
 embogo
 embogo class 9
 emboni
@@ -288,29 +627,41 @@ embuzi class 9
 embwa
 embwakati
 emeeza
+emerra
 emifumbi
 emihyaka
 emireju
+emirubatire
 emirundi ebiri
 emirundi ena
 emirundi esatu
 emirundi etaano
+emisonere
 emitagotago
+emitima
 emitwaro ikumi
+emitwe
 empaako
 empairimi
 empekenyu
+empinduka
+empindura
 empisi
 empisi class 9
 empunu
 empunu class 9
 empyaka
 emu
+emyoyo
+encu
+encu class 9
 enda
 enda y'ente
 endaawa
+endimi
 endurwa
 enfundo
+engamba
 engamira
 engamira class 9
 engamiya
@@ -328,14 +679,20 @@ enimi
 enjangu
 enjangu class 9
 enjojo
+enjoka
+enjoka class 9
 enjubu
 enjubu class 9
+enjunjuuzi
 enjuuro
 enkaaga
 enkangaasi
 enkerebe
 enkohi
 enkokera
+enkoko
+enkoko class 9
+enkokoromi
 enkongotera
 enkundi
 enkura
@@ -344,10 +701,16 @@ enkwaha
 enkwaha class 9
 enono
 ensa
+ensamaaki
+ensamaaki class 9
 ensanju
+ensaro
+enseko
 ensere
 ensere class 9
 ensigo
+ensimbi
+ensimbi class 9
 ensole
 ensundu
 entaama
@@ -355,7 +718,9 @@ entaama class 9
 entale
 entale class 9
 entama
+entanaki
 ente
+enteekereza
 entomi
 entomi class 9
 entulege
@@ -364,6 +729,8 @@ entuuke
 entuuyo
 entwiga
 entwiga class 9
+enwa
+enwa class 9
 enyakabiri
 enyakana
 enyakasatu
@@ -371,41 +738,83 @@ enyakataano
 enyalimu
 enyama
 enyana
+enyanja
+enyikara
 enyindo
 enyonyi
 enyugunyu
 enyugunyu class 9
+enyunyuuzi
+enyunyuuzi class 9
 enywata
+enzina
+enziramira
+enziramira class 9
 enziro
+era
 erangi
+eri
 erihyaka
+eriiba
+eriiba class 5
 eriino
 eriiso
 erimpwapwa
 erimpwapwa class 5
 ery'
 erya
+eryana
+eryo
 esagama
 esamaga
 etuutu
 ey-
+ezi
+ezo
+fa
+funda
 ga-
+galiha
+gamba
+garama
+gazi
+gera
 go
+go class 6
 gu-
 gufu
 gw-
+gwa
+gwijagira
 gwo
+gwo class 3
 ha
 ha-
 ha-(...-mu)
 ha-(...-yo)
 hahyaka
+hali
+hali class 16
 hamaiso
 hameeza
 hamu
 hamugongo
+hanu
+hanu class 16
+hara
+hiiga
+hinduka
+hindura
 ho
+ho class 16
+hungura
+hurra
+hurruka
+huuha
 hyaka
+i-
+ibabi
+ibabi class 5
 ibango
 ibara
 ibeere
@@ -417,19 +826,29 @@ igufa ly'ekifuba
 igufa ly'omugongo
 igufa ly'orubaju
 ihembe
+ihuli
+ihuli class 5
+ija
+ikara
+ikarra
 ikazi
 ikebe
 ikumi
 ikumi n'emu
+ikya
 ina
 ingaha
 ingi
 inywe
+ipapa
+ipapa class 5
+iragura
 irale
 isaija
 isanga
 isatu
 isoke
+ita
 itaano
 itama
 itwe
@@ -437,46 +856,58 @@ iwe
 iziga
 ka-
 kabiri
+kabyasi
+kabyasi class 9
+kaga
 kahyaka
 kakaaga
-kakobe
 kakumi
+kamuura
+kamuzizi
 kana
 kanaana
 kasanju
 kasatu
 kataano
+katikoomere
 ke
 kenda
+ki
 ki-
-kibuubi
 kihyaka
-kijubu
-kikara
+kiki
 kikumi
 kinaana
-kinyansi
 kitabu
-kitaka
 ko
+ko class 12
 kooto
 ku-
 kubanza
 kubi
 kuhyaka
+kuli class 17
+kunu class 17
 kuru
 kurungi
+kuuba
+kwata
 kwo
+kwo class 15
 kyenda
-kyenju
 kyo
+kyo class 7
 leero nu
+lemeera
+leremura
 li
 li-
 lihyaka
+lima
 ly'
 lya
 lyo
+lyo class 5
 mahyaka
 makumi
 makumi abiri
@@ -484,8 +915,14 @@ makumi ana
 makumi asatu
 makumi ataano
 malaika
+manya
+mbabo
+mbibyo
+mbubwo
 mifumbi
+miga
 mihyaka
+mpaho
 mpyaka
 mu
 mu-
@@ -497,15 +934,18 @@ mukama
 munaana
 muntu
 musanju
+mutwe
 muziiki
 mw-
 mwenda
 n'
 n-
 na
+naaba
 nabo
 nabwo
 nabyo
+naga
 nago
 nagwo
 naho
@@ -516,6 +956,7 @@ nako
 nakwo
 nakyo
 nalyo
+nanata
 nanka
 nanye
 nanyowe
@@ -526,8 +967,13 @@ nayo
 nazo
 ndi
 ndiijo
+ndiryo
+ndurwo
+ngago
 ngereza
+ngigyo
 ngu
+ngugwo
 nibyo
 niinywe
 niitwe
@@ -539,39 +985,59 @@ niryo
 niyo
 nizo
 nkaaga
+nkaha
+nkako
+nkikyo
+nkukwo
 nkumi
 nkumi ibiri
 nkumi ina
 nkumi isatu
 nkumi itaano
 nsanju
+ntutwo
 nu
 nubo
 nubwo
 nugo
+nuguna
 nugwo
 nuho
 nuko
 nukwo
 numwo
+nunka
 nurwo
 nutwo
 nuwe
 nye
+nyina omukama
 nyinenda
-nyinoomukama
 nyowe
+nyunyuuzi
+nyuunya
+nywa
+nzizo
 o
 o-
+obu
+obu-
 obufu w'enda
+obufunda
 obugeregere
 obugeregere class 14
+obuhiigi
 obuhyaka
 obujojo
 obukama
 obukazi
+obulemeezi
+obulimi
 obumu
 obune
+obuntu
+obuntu class 14
+oburaiha
 obusa
 obusaija
 obusigo
@@ -581,26 +1047,66 @@ obusura
 obusura bw'omukazi
 obusura bw'omusaija
 obuta
+obutiini
 obw'
 obwa
+obwikaro
+obwikazi
 obwingi
 obwisiki
 obwojo
+obwoki
+obwoki class 14
+obwomeezi
 obwongo
 obwoya
+oga
+ogu
 ogw'
 ogwa
+oha
+oku
+oku class 17
+oku-
 okubanza
+okufa
 okuguru
+okugwa
 okuhyaka
 okuju
 okuju class 15
+okulya
+okunywa
 okutu
+okwera
+omeera
+omu
+omu-
+omubazi
+omubaziizi
 omubiri
+omubu
+omubu class 3
+omufaakati
+omufu
+omufu w'enda
 omufumbi
+omugaate
+omugambi
 omugenyi
 omugongo
+omugu w'iraro
+omuguha
+omuguha class 3
 omuguta
+omuhama
+omuhama class 3
+omuhazi
+omuhi
+omuhiigi
+omuhinduki
+omuhinduzi
+omuhulizi
 omuhyaka
 omukaaga
 omukama
@@ -613,23 +1119,42 @@ omukira
 omukundi
 omukundi class 3
 omuleju
+omuli
+omulimi
 omulindi
 omulindi class 3
 omumaiso
 omumiro
 omunaana
 omunda
+omuniongorozi
+omuniongorozi class 3
 omuntu
 omuntu class 1
 omunwa
+omunya
+omunya class 3
+omunywi
+omurozi
+omurubasi
 omurundi
 omurundi gumu
+omurwani
 omusaija
 omusaija class 1
+omusale
 omusanju
+omusazi
+omusibi
 omusino
 omusino class 3
 omusoina
+omusoni
+omusono
+omuteezi
+omutemi
+omuti
+omuti class 3
 omutima
 omutima class 3
 omutwaro
@@ -637,20 +1162,44 @@ omutwaro gumu
 omutwe
 omutwe gw'emboro
 omutwe gw'emboro class 3
+omuzaani
+omuzaano
+omuzi
+omuzi class 3
+omuzihi
 omuziiki
+omuzinga
+omuzinga class 3
+omuzini
+omwana
+omwana class 1
 omwara
+omwasi
 omwenda
+omwikazi
+omwisi
 omwisiki
 omwojo
+omwomeezi
 omwoyo
 ona
 onka
+oru
+oru-
+orubabi
 orubaju
+orubaziiro
+orubazo
+orufu
+orugambo
 oruhago
 oruhara
 oruhu
 oruhyaka
+orujoki
+orujoki class 11
 oruju
+orujuma
 orukaaga
 orukizi
 orukohi
@@ -658,46 +1207,84 @@ orukumi
 orulera
 orulera class 11
 orulimi
+orumuli
 orunaana
 orunyonyi
 orura
 orusanju
 orusaya
+oruseenene
+oruseenene class 11
+orusunsu
+orusunsu class 11
 orususu
 orutambu
 orutege
+oruti
 orw'
 orwa
 orwenda
+otu
 otuhyaka
 oy-
+ragaza
+raiha
 rofu
+rora
 ru-
+rubata
 ruhyaka
 rukaaga
 rukumi
+ruma
 runaana
 rungi
 rusanju
-rutanga
+rwana
 rwenda
 rwo
+rwo class 11
 sa
+sara
 satu
+seereera
+seka
+sesema
+siba
+sika
+sindika
+singa
+sona
 ta
 taano
 taito
+takura
+tanaka
+teekereza
+teera
+tema
 ti
+ti-
+tiina
+tintiinabasezi
 to
 tu-
 tuhyaka
+tukura
 tw-
 two
+two class 13
 uwe
 w-
 y-
 yo
+yo class 4
+yo class 9
 yonjo
+zaana
 zi-
+ziha
+zina
 zo
+zo class 10
 —

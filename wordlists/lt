@@ -7,29 +7,28 @@
 (kaltu) nuteistasis
 (of maize) burbuolė
 * juodakis
-+1
-+2
-+3
 -acija
 -ada
 -aip
+-aitis
 -aitė
 -anta
 -antas
 -archas
 -arhija
 -as
+-auskas
 -auti
+-avičius
 -centrinis
 -centrizmas
 -centriškas
 -cija
 -dromas
--dyti
--dėti
 -elis
 -elytė
 -elė
+-evičius
 -fobija
 -grafija
 -grafinis
@@ -41,6 +40,7 @@
 -ifikacija
 -ija
 -iklis
+-iklė
 -imas
 -inas
 -ine
@@ -62,7 +62,6 @@
 -jas
 -klas
 -klis
--klys
 -klė
 -kratija
 -lika
@@ -87,6 +86,7 @@
 -stanas
 -takas
 -takė
+-tuvas
 -tyra
 -uka
 -ulis
@@ -96,14 +96,15 @@
 -uomenė
 -uosius
 -uoti
+-uotė
 -us
 -usis
 -ute
 -utis
 -utė
--uvas
 -užis
 -vka
+-yba
 -ybė
 -ykla
 -ymas
@@ -114,6 +115,7 @@
 -ystė
 -ytis
 -ytė
+-ùdė
 -ýbė
 -ėja
 -ėjas
@@ -125,7 +127,6 @@
 -ų
 -ųjų
 -ỹs
-0
 1-okas
 10-okas
 11-okas
@@ -143,6 +144,10 @@ AB
 AIDS
 AIDS kaspinas
 Abadanas
+Abadauskas
+Abakevičius
+Abalevičius
+Abaravičius
 Abasidas
 Abchazija
 Abchazijai
@@ -154,18 +159,29 @@ Aberdynas
 Abidas
 Abidžanas
 Abiejų Tautų Respublika
+Abišala
+Abramaitis
+Abramauskas
+Abramavičius
 Abraomas
+Abromaitis
+Abromas
 Abu Dabis
 Abudža
+Abukavičius
 Abydosas
 Achenas
+Adalbertas
 Adamas
 Adame
+Adamkevičius
 Adamo
 Adamu
 Adas
+Adauktas
 Adačis
 Adeno įlanka
+Adeodatas
 Adidžė
 Adis Abeba
 Adolfas
@@ -173,6 +189,7 @@ Adomas
 Adomas ir Ieva
 Adomo kostiumas
 Adomo obuolys
+Adomonis
 Adriana
 Adrianas
 Adrijos jūra
@@ -181,6 +198,7 @@ Adventas
 Adygėja
 Adžarija
 Adžãrija
+Afanasijus
 Afganistanas
 Afganistano Demokratinė Respublika
 Afganistãno Islãmo Respùblika
@@ -191,10 +209,12 @@ Agnius
 Agnė
 Agota
 Agridžentas
+Agryzas
 Agėjo knyga
 Ahmadas
 Aidahas
 Aidas
+Aidukas
 Aigaila
 Airija
 Airijai
@@ -211,11 +231,18 @@ Aistis
 Aistė
 Aivaras
 Aizputė
-Ai̇̃rijos Respùblika
+Ai̇̃mantas
+Ai̇̃rijos jū́ra
+Ai̇̃rimas
+Ai̇̃tvydas
+Ai̇̃vydas
 Ajaksas
 Ajačas
 Ajerso uola
+Akelaitis
+Akmenė
 Akmuo
+Akmẽnė
 Aknysta
 Akra
 Akvilas
@@ -232,29 +259,51 @@ Alberte
 Alberto
 Albina
 Albinas
+Albrechtas
 Aldebaranas
 Aldona
+Aleknavičius
 Aleksa
+Aleksaitis
 Aleksandra
 Aleksandrai
+Aleksandraitis
 Aleksandras
 Aleksandras Didysis
 Aleksandras Makedonietis
+Aleksandravičius
 Aleksandrija
 Aleksandro
 Aleksandru
 Aleksas
+Aleksenis
+Aleksevičius
+Aleksierius
+Aleksikas
+Aleksiukas
+Aleksonis
+Aleksotskis
+Aleksynas
 Aleksándras
+Aleksỹs
 Aleliūnas
+Aleškevičius
 Alfonsas
 Alfreda
 Alfredas
 Alfrede
 Alfredo
+Algauskas
+Algenis
 Algeras
 Algimantas
+Algimundas
 Algirdas
 Algis
+Algi̇̀mantas
+Algi̇̀mas
+Algi̇̀mintas
+Algi̇̀vidas
 Aliaska
 Aliaskos jupikų kalba
 Aliaskos malamutas
@@ -263,7 +312,9 @@ Alijevas
 Alina
 Alisa
 Alisteris
-Aliulis
+Aliukonis
+Ali̇̀mantas
+Ali̇̀vydas
 Aljė
 Alma
 Almata
@@ -279,13 +330,32 @@ Alvyra
 Alytus
 Alzheimerio liga
 Alãchas
+Alšauskas
+Alšis
 Alūksta
 Alžyras
 Alžyro Liaudies Demokratinė Respublika
+Al̃gandas
+Al̃gardas
+Al̃gaudas
+Al̃gedas
+Al̃ginas
+Al̃gintas
+Al̃girdas
+Al̃girtas
+Al̃gminas
+Al̃gvidas
+Al̃mantas
+Al̃tautas
+Al̃vydas
+Alẽksis
+Alẽksius
 Amalija
 Amanas
 Amazonė
 Ambazonija
+Ambrazaitis
+Ambrazevičius
 Amerika
 Amerikai
 Amerikas
@@ -307,6 +377,7 @@ Amèrikos žemýnas
 Amūras
 Anadyris
 Anapilis
+Anastasijus
 Anastazija
 Anatolija
 Anatolijus
@@ -319,17 +390,21 @@ Andriaus kryžius
 Andriejauka
 Andriejus
 Andrijauskas
+Andrijus
 Andrius
 Andriuška
 Andriuškevičius
 Andruškevičius
-Andrzejewski
+Andziulevičius
 Anelė
 Angela
+Angilija
+Angi̇̀lija
 Anglija
 Anglijos Bažnyčia
 Anglijos Karalystė
 Anglikonų sąjunga
+Anglikõnų bažnýčia
 Anglų kanalas
 Anglų-Egipto Sudanas
 Angola
@@ -340,6 +415,7 @@ Ankara
 Ankor Vatas
 Antananaryvas
 Antanas
+Antanavičius
 Antanina
 Antaris
 Antarktida
@@ -351,8 +427,13 @@ Antroji Ispanijos Respublika
 Antróji Karãlių knygà
 Antulis Donaldas
 Antverpenas
+Anupras
+Anušauskas
+Anykščiai
+Anykščiai̇̃
 Ančiogala
 Aomenas
+Apanavičius
 Apaštalų darbai
 Apeninai
 Apeninų pusiasalis
@@ -370,15 +451,19 @@ Arabijos
 Arabijos jūra
 Arabijos pusiasalis
 Arabiją
+Arabų lyga
 Arabų pavasaris
 Arafuros jūra
 Aragonas
 Arakava
 Aralo jūra
+Aranauskas
 Arbačiauskas
 Archangelskas
+Arcimavičius
 Arecas
 Aremorika
+Argaudas
 Argentina
 Argentinai
 Argentinos
@@ -386,7 +471,10 @@ Argentinos Respublika
 Argentiną
 Argonautas
 Ariadnė
+Ariogala
 Aristotelis
+Ariógala
+Ari̇̀mantas
 Arkadija
 Arkadijus
 Arkanzasas
@@ -412,13 +500,19 @@ Arnoldas
 Aronas
 Art Deco
 Artemidė
+Artemijus
 Artūras
 Arukiula
 Arunačal Pradešas
+Arvidas
 Arvydas
+Arvýdijus
 Arėjas
 Arūnas
 Arūnė
+Ar̃mantas
+Ar̃tautas
+Ar̃vydas
 Asamas
 Asgaila
 Asgardas
@@ -439,6 +533,7 @@ Astravičius
 Astūrija
 Asunsjonas
 Asura
+Atanazas
 Atlanto vandenynas
 Atonas
 Atropatena
@@ -448,24 +543,33 @@ Atėnė
 Atė́nai
 Audra
 Audrius
+Audri̇̀mantas
 Audronius
 Audronė
+Augi̇̀mantas
+Augustauskas
 Augustavas
 Augustinas
+Augustinavičius
 Aukso Ragas
 Aukso orda
 Aukė
+Aukškalnis
 Aukštaitija
 Aukštaitijai
 Aukštaitijoje
 Aukštaitijos
 Aukštaitiją
+Aukštikalniai
+Aukštikalnis
+Aukštuolis
 Aukštutinis ežeras
 Aukštutinė Volta
 Aukščionis
 Aurelija
 Aurelijus
 Aurimas
+Auri̇̀mantas
 Austerlicas
 Australija
 Australijos Sandrauga
@@ -476,6 +580,7 @@ Austrijos Respublika
 Austėja
 Aušra
 Aušrinė
+Averkijus
 Avinas
 Avogadro konstanta
 Avogadro skaičius
@@ -487,21 +592,39 @@ Azijos
 Azovo jūra
 Ašchabadas
 Ašmena
-B
+Aũdvydas
+Aũgmantas
+Aũgvydas
+Aũmantas
+Aũrimas
+Aũvydas
+Aũšmantas
+Aũšrimas
+Aũšvydas
 BJRM
 BVP
 Bab el Mandebas
+Babeckas
 Babelio bokštas
 Babelis
 Babilonija
+Babinskas
+Babkauskas
+Babrauskas
+Babravičius
 Babruiskas
+Bacevičius
 Bachmutas
 Badenas
 Badenas-Viurtembergas
+Baeriūnas
 Bafalas
 Bafino jūra
 Bagdadas
 Bagdoniškis
+Bagdzevičius
+Baginskas
+Bahamas
 Bahamos
 Bahreinas
 Bahreino Karalystė
@@ -509,12 +632,27 @@ Baidenas
 Baikalas
 Baikalo ežeras
 Bajamas
+Bajarauskas
+Bajarskas
+Bajeriūnas
+Bajoras
+Bakai
+Bakaitis
+Bakalis
+Bakas
+Bakauskas
+Bakelis
+Bakevičius
 Baku
 Balaklija
 Balduonė
+Balei̇̃šis
 Balis
 Balkanai
 Balkanų pusiasalis
+Balkauskas
+Balkevičius
+Balkus
 Balkãnų kalnai̇̃
 Balstogė
 Baltarusija
@@ -524,10 +662,13 @@ Baltieji rūmai
 Baltija
 Baltijos
 Baltijos jūra
+Baltoji Vokė
 Baltoji jūra
 Baltramiejus
+Baltóji Vókė
 Baluožiai
 Balys
+Balčiūnas
 Bamakas
 Bandar Seri Begavanas
 Bandžulis
@@ -543,6 +684,7 @@ Baranauskas
 Baranis
 Baranovičiai
 Barbadosas
+Barbadosu
 Barbora
 Barbė
 Bardilauskas
@@ -552,7 +694,18 @@ Bardzilauka
 Bardzilauskas
 Barenco jūra
 Bargaila
+Barkevičius
+Baronas
 Barselona
+Bartas
+Bartautas
+Bartenis
+Bartkauskas
+Bartkevičius
+Bartkus
+Bartnickas
+Bartoldas
+Bartolomė̃jus
 Bartušas
 Bartušis
 Bartuška
@@ -561,15 +714,24 @@ Bartušvičius
 Barysavas
 Barzilauskas
 Barzilovičius
+Barčevas
 Baršėnai
+Bar̃tautas
+Bar̃tvydas
+Bar̃vydas
 Bas Teras
+Basanavičius
 Basteras
 Batambangas
 Batas
 Bauskė
 Bavarija
 Bazelis
+Bazilevičius
+Bačauskas
+Bačiulis
 Bačka
+Bačys
 Baškirija
 Baški̇̀rija
 Baškortostanas
@@ -581,16 +743,21 @@ Bekingemo rūmai
 Belaaziorskas
 Belchatuvas
 Belcis
+Beleckas
 Belgija
 Belgijos Karalystė
 Belgijos Kongas
 Belgorodas
 Belgradas
 Belizas
+Belizo
+Belizu
 Belmopanas
 Belostokas
+Belunskas
 Benas
 Benediktas
+Benediktavičius
 Bengalija
 Bengalijos sultonatas
 Bengalijos įlanka
@@ -600,14 +767,24 @@ Beniliuksas
 Beninas
 Benino Liaudies Respublika
 Benjaminas
+Benkaitis
+Benkauskas
+Benkavičius
+Benkelis
+Benkevičius
+Benkunskas
+Benkus
+Benkusas
 Berdičevas
 Berezinas
 Bergaila
 Beringo jūra
 Beringo sąsiauris
+Berlinskas
 Berlynas
 Berlyno
 Berlyno siena
+Berlýno si̇́ena
 Bermudai
 Bernardas
 Bernarde
@@ -616,6 +793,7 @@ Bernas
 Bernatavičius
 Bernotas
 Bernotavičius
+Ber̃tautas
 Betelgeizė
 Bethovenas
 Betliejaus žvaigždė
@@ -629,8 +807,10 @@ Biaroza
 Biarozauka
 Biblas
 Biblija
+Bielinskas
 Bigaila
 Biharas
+Bikauskas
 Bikolai
 Bikolo regionas
 Birma
@@ -648,8 +828,13 @@ Bizantija
 Bizantijos imperija
 Biškekas
 Bišnuprija manipuri kalba
+Bi̇̀blija
+Bi̇̀rmantas
 Blagojevgradas
 Blagoveščenskas
+Blaževičius
+Blažiejus
+Blekevičius
 Blumfonteinas
 Bobas
 Bobriškis
@@ -657,12 +842,17 @@ Bodeno ežeras
 Boforto skalė
 Bogota
 Boholis
+Boleslovas
 Bolivija
 Bolivijos Daugiatautė Valstybė
 Bolonija
 Bolonijos padažas
+Bombėjus
 Bonaventūras
 Boneras
+Bonifacas
+Bonifacijus
+Borislavas
 Borneo
 Bosforas
 Bosforo sąsiauris
@@ -676,6 +866,7 @@ Braclavas
 Bradesiai
 Bragansa
 Brandenburgas
+Brandenburgo
 Brasta
 Bratislava
 Brazauskas
@@ -693,6 +884,7 @@ Brežnevas
 Brežnevo doktrina
 Brianskas
 Bridžtaunas
+Brigevičius
 Brigita
 Bristolis
 Britanija
@@ -700,21 +892,22 @@ Britanijos mūšis
 Britų Gviana
 Britų Hondūras
 Britų Kolumbija
+Britų imperija
 Britų salos
 Briuselis
 Bronislova
 Bronislovas
 Bronius
 Brunonas
-Brunėjaus Valstybė
 Brunėjus
 Bruocėnai
+Brėmenas
+Buckus
 Buda
 Buda Kašaliova
 Budapeštas
-Budikas
 Budishinas
-Budkevičius
+Budzilavičius
 Buenos Airės
 Bugaila
 Bugas
@@ -731,6 +924,7 @@ Bulgarijos Respublikos
 Bulgarijos Respubliką
 Bulgariją
 Bulgãrija
+Bundestagas
 Buniuškiai
 Bunkijas
 Burdzilauskas
@@ -742,22 +936,32 @@ Burundis
 Burės
 Busiškis
 Butanas
+Butautas
 Butgaila
 Butkauskas
 Butkevičius
 Butkus
-Butsika
+Butrimas
+Butrimavičius
+Butvila
+Butvilauskas
+Butvilavičius
 Butvydas
 Butãno Karalỹstė
 Buvusi Jugoslavijos Respublika Makedonija
 Bužumbūra
 Bychavas
 Bydgoščius
-C
+Bãdenas-Viùrtembergas
+Bùdvydas
+Bùndestagas
+Bùtautas
+Bùtvydas
+Býtautas
 Cagayan slėnis
 Calapan
+Cechanavičius
 Ceilonas
-Centras
 Centrinė Amerika
 Centrinė Europa
 Centrinės Afrikos Respublika
@@ -767,6 +971,8 @@ Cesvainė
 Cezaris
 Chabarovsko kraštas
 Chanty Mansijskas
+Chanuka
+Chanukà
 Charkovas
 Charonas
 Chartumas
@@ -776,12 +982,13 @@ Cheopso piramidė
 Cherona
 Chersonas
 Chidžazas
+Chodkevičius
 Chruščiovas
+Cijūnelis
 Ciurichas
 Cukraus Galvos kalnas
 CŽA
 CŽV
-D
 D-vas
 DI
 DK
@@ -789,6 +996,9 @@ DNR
 DP
 DVD
 DVSL
+Dabašinskas
+Dabkevičius
+Dabkus
 Dagaila
 Dagestanas
 Dahomėja
@@ -796,6 +1006,7 @@ Daina
 Dainava
 Dainius
 Daiva
+Dai̇̃mantas
 Daka
 Dakaras
 Dakija
@@ -803,10 +1014,13 @@ Dalasas
 Dalia
 Dalius
 Daliutė
+Dali̇̀mantas
 Dalmatija
+Damarackas
 Damaskas
 Dambrauskas
 Dambrauskienė
+Damfrisas ir Galovėjus
 Danas
 Dancigas
 Danfermlinas
@@ -826,14 +1040,14 @@ Dantė
 Danutė
 Danų
 Dar es Salamas
+Daramas
 Dardanelai
 Darfūras
 Darius
 Dartas Veideris
+Daugai
 Daugaila
 Daugardas
-Daugerdavičius
-Daugirdaitis
 Daugirdas
 Daugpilis
 Dauguva
@@ -842,15 +1056,27 @@ Daujotavičius
 Daujotis
 Daukszewicz
 Daukša
+Daumantas
+Dauno sindromas
 Dazbogas
+Daũgai
+Daũgmantas
+Daũgvydas
+Daũkvydas
+Daũmantas
+Daũrimas
+Daũvydas
 De Moinas
 Debalcevė
 Deilė
 Deividas
+Dei̇̃mantas
 Delio sultonatas
 Delis
 Demetra
 Deukalionas
+Devinti̇̀nės
+Deviñtinės
 Dešimt Dievo įsakymų
 Diana
 Didi Kunigystė Lietuvos
@@ -876,13 +1102,19 @@ Dilis
 Dimgaila
 Dingaila
 Dionisas
+Di̇̀dmantas
+Di̇̀rmantas
+Dmitrijus
 Dniepras
+Dobeslovas
+Dobkevičius
 Dodekanesas
 Dodoma
 Doha
 Domantas
 Domas
 Dominika
+Dominikai
 Dominikos Respublika
 Dominykas
 Don Kichotas
@@ -912,7 +1144,9 @@ Dueras
 Dunojus
 Durbė
 Duresis
+Dusetos
 Dušanbė
+Dvarionas
 Dvarčiai
 Dvoržakas
 Dvyniai
@@ -926,7 +1160,16 @@ Dzūkijai
 Dzūkijoje
 Dzūkijos
 Dzūkiją
+Dármantas
+Dártautas
+Dárvydas
 Dãnija
+Dómantas
+Dórmantas
+Dùsetos
+Dūdavičius
+Dūkštas
+Dū́kštas
 Džafna
 Džakarta
 Džalalabadas
@@ -938,6 +1181,7 @@ Džefersonas
 Džibutis
 Džida
 Džimis
+Džiugi̇̀mantas
 Džogjakartos regionas
 Džokonda
 Džomolungma
@@ -946,9 +1190,9 @@ Džordžija
 Džordžtaunas
 Džuba
 Džučio ulusas
-E
 EEE
 ES
+Ebersonas
 Edas
 Edeno sodas
 Edgaras
@@ -971,6 +1215,9 @@ Egiptas
 Egipte
 Egipto
 Egipto Arabų respublika
+Egi̇̀mantas
+Eglinskas
+Eglynas
 Eglė
 Egėjas
 Egėjo
@@ -978,10 +1225,30 @@ Egėjo jūra
 Egėjui
 Egėją
 Egė́jas
+Eibakas
+Eidintas
+Eidi̇̀mantas
 Eidmantas
+Eidrigevičius
 Eidvilas
 Eifelio bokštas
+Eigi̇̀mantas
 Eimantas
+Eimundas
+Eišiškės
+Ei̇̃bartas
+Ei̇̃dmantas
+Ei̇̃dvydas
+Ei̇̃gmantas
+Ei̇̃mantas
+Ei̇̃rimas
+Ei̇̃smantas
+Ei̇̃svydas
+Ei̇̃tautas
+Ei̇̃tmantas
+Ei̇̃tvydas
+Ei̇̃vydas
+Ei̇̃šiškės
 Ekseteris
 Ekvadoras
 Elamas
@@ -992,13 +1259,18 @@ Elena
 Eligijus
 Elioto bangų
 Eliziejus
+Eli̇̀mantas
+Elsneris
+Elsteris
 Elvyra
 Elzasas
 Elzasas-Lotaringija
 Elzbieta
 Elžbieta
+El̃mantas
 Emajegis
 Emanuelis
+Embrektas
 Emilija
 Epimetėjas
 Epyras
@@ -1014,6 +1286,8 @@ Eritrėja
 Eritrėjos valstybė
 Ernestas
 Erotas
+Er̃dmantas
+Er̃mantas
 Esenas
 Esperanto žemė
 Esperantolandas
@@ -1063,7 +1337,7 @@ Ezechielis
 Ezra
 Ezros knyga
 Ežerėlis
-F
+Ežerėnai
 Facebook
 Facebookas
 Farerai
@@ -1072,6 +1346,7 @@ Felicija
 Feliksas
 Fenris
 Ferdinandas
+Fidži
 Fidžis
 Filadelfija
 Filemonas
@@ -1079,7 +1354,7 @@ Filipinai
 Filipininė harpija
 Filipinų Respublika
 Filipinų jūra
-Filipi̇̀nų Respùblika
+Filipi̇̀nų jū́ra
 Filomena
 Finiksas
 Finmarkas
@@ -1087,6 +1362,7 @@ Fi̇̀džio jū́ra
 Flandrija
 Florencija
 Florida
+Floridos
 Flowers in Lithuanian
 Fobas
 Fodža
@@ -1104,11 +1380,12 @@ Fudzianas
 Fukuokas
 Funafutis
 Funinguras
-G
+Fòlketingas
 G-taškas
 G.
 Gabija
 Gabonas
+Gabono
 Gaboronas
 Gabrielis
 Gabrielius
@@ -1121,7 +1398,9 @@ Gailevičius
 Gailiginas
 Gailiminas
 Gailinas
+Gaili̇̀mantas
 Gailūnas
+Gai̇̃mantas
 Gajana
 Galatėja
 Galbutas
@@ -1143,24 +1422,42 @@ Ganga
 Gangtokas
 Gaosiongas
 Garbačas
+Garbačauskas
 Gardinas
 Garfildas
 Gargždai
+Garliava
+Garliavà
 Gaskonija
 Gaskonė
 Gavėnia
 Gaza
 Gazos Ruožas
+Gañtautas
+Gaũdrimas
+Gaũdvydas
 Gdanskas
-Gedgaldas
+Gedgaudas
+Gediminaitis
 Gediminas
+Gediminavičius
 Geilimanas
+Gei̇̃dvydas
+Gei̇̃mantas
+Gei̇̃smantas
+Gei̇̃stautas
+Gei̇̃svydas
+Gei̇̃tvydas
+Gei̇̃vydas
 Geleika
 Gelendžikas
 Geleoldas
+Gelgaudiškis
 Geligudas
 Geltonoji jūra
 Gelvičius
+Gel̃gaudiškis
+Gembickas
 Genkas
 Genovaitė
 Genoveva
@@ -1169,14 +1466,20 @@ Genuja
 Genė
 Gerardas
 Gerardo
+Geri̇̀mantas
 Gertrūda
 Gervila
 Gervilaitis
 Gervilas
 Gervilavičius
 Gervė
+Ger̃mantas
+Ger̃tautas
+Ger̃tvydas
+Ger̃vydas
 Geteborgas
 Getingenas
+Geñdvydas
 Gibraltaras
 Gibraltaro sąsiauris
 Giedrius
@@ -1189,6 +1492,17 @@ Gintas
 Gintautas
 Girdutis
 Girinas
+Giri̇̀mantas
+Gir̃dvydas
+Gir̃stautas
+Gi̇̀lmantas
+Gi̇̀ntautas
+Gi̇̀ntvydas
+Gi̇̀nvydas
+Gi̇̀rmantas
+Gi̇̀rtautas
+Gi̇̀rvydas
+Giẽdrimas
 Glazgas
 Goa
 Gold Kostas
@@ -1200,6 +1514,7 @@ Gorbačiovas
 Gorbačė
 Goricija
 Gotlandas
+Grabauskas
 Gradas
 Graikija
 Graikijai
@@ -1219,10 +1534,15 @@ Gražina
 Gražutė
 Grefenbergo taškas
 Grenada
+Grenadi̇̀nai
 Grenlandija
 Grenlándijos jū́ra
 Greta
 Grigalius
+Grigiškės
+Gri̇̀giškės
+Gri̇̀ntautas
+Gri̇̀nvydas
 Gruobinia
 Gruzija
 Gruzijai
@@ -1230,10 +1550,11 @@ Gruzijoje
 Gruzijos
 Gruziją
 Grytė
+Grãžvydas
+Grõžvydas
 Guamas
 Guangdongas
 Guangsi
-Gudia
 Gudigaila
 Gudija
 Gudžaratas
@@ -1248,16 +1569,31 @@ Guãmas
 Gvadalachara
 Gvadalkivyras
 Gvatemala
+Gvatemalai
 Gvidas
 Gvinėja
 Gvinėjos įlanka
+Gvi̇̀dmantas
 Gytis
 Gyvatnešis
 Gyvatė
 Gyvačių sala
+Gálmantas
+Gálvydas
+Gélmantas
+Gómantas
+Góstautas
+Gótautas
 Gùdija
+Gùstautas
+Gùtautas
+Gýtautas
 Gėlų futbolas
-H
+Gẽdmantas
+Gẽdrimas
+Gẽdvydas
+Gẽstautas
+Gẽtautas
 HR diagrama
 Haapsalu
 Habakukas
@@ -1268,9 +1604,12 @@ Haga
 Haidarabadas
 Hainanas
 Hainanis
+Haiti
 Haitis
 Haličas
 Hamburgas
+Hamburgo
+Hamburgu
 Hamiltonas
 Hamletas
 Hammarskjoldas
@@ -1278,6 +1617,7 @@ Hampšyras
 Hanojus
 Hanumanas
 Hararė
+Hari̇̀mantas
 Harjana
 Hatušas
 Havajai
@@ -1303,8 +1643,10 @@ Hera
 Hercegovina
 Herefordas
 Hermafroditas
+Hermanavičius
 Hermis
 Heros
+Her̃mantas
 Hesenas
 Hestija
 Hezbollah
@@ -1333,14 +1675,16 @@ Hubėjus
 Hunanas
 Hunų imperija
 Huronas
-I
 IT
+Iberija
 Ibisa
 Ibisos podengas
 Iboprofenas
 Idzanagis
 Idzanakis
 Idzanamė
+Idzelevičius
+Idzelis
 Iecava
 Ieva
 Ievai
@@ -1348,8 +1692,13 @@ Ievos kostiumas
 Ievà
 Igdrasilas
 Ignacas
+Ignacijus
+Ignalina
+Ignalinà
 Ignas
+Ignatijus
 Ikškilė
+Ilgauskas
 Iliatyvas
 Ilijada
 Ilona
@@ -1382,10 +1731,14 @@ Irano Islamo Respublika
 Iravadis
 Irena
 Irina
+Iri̇̀mantas
 Irma
 Irutė
 Irãko Respùblika
 Irãno Islãmo Respùblika
+Ir̃mantas
+Ir̃tautas
+Ir̃vydas
 Isfahanas
 Islamabadas
 Islamiškoji Afganistano Respublika
@@ -1413,6 +1766,8 @@ Ivanas
 Ivanas Rūstusis
 Ivano
 Iveta
+Ivánkivas
+Ivánkivo rajònas
 Ivãnas
 Izabelė
 Izaija
@@ -1426,27 +1781,32 @@ Izrael̃io Valstýbė
 Išėjimo
 Išėjimo knyga
 Iževskas
-J
 JAE
 JAV
 JK
 JTO
+Jacintas
 Jadvyga
 Jafa
 Jakutskas
 Jalomica
 Jalta
 Jamaika
+Jamaikai
 Jamusukras
 Janas
 Jangdzė
 Janina
+Jankauskas
+Jankevičius
+Jankus
 Janė
 Japanaja
 Japas
 Japonija
 Japonijos imperija
 Japonijos jūra
+Japònijos jū́ra
 Jaroslavas
 Jaroslavlis
 Jaudegis
@@ -1454,6 +1814,7 @@ Jaundė
 Jautis
 Java
 Javos jūra
+Jaũrimas
 Jehova
 Jekabpilis
 Jekaterinburgas
@@ -1467,6 +1828,7 @@ Jeremijas
 Jeremijo knyga
 Jerevanas
 Jerichonas
+Jeronimas
 Jeruzalė
 Jerèmija
 Jerèmijo knygà
@@ -1474,13 +1836,20 @@ Jevgenijus
 Jevleborgas
 Jezebelė
 Jidiš
+Jieznas
+Jiẽznas
 Joana
 Jobas
 Jobo knyga
 Joelio knyga
 Joelis
 Jogaila
+Jogailė
 Jogirdas
+Jogi̇̀lija
+Jogi̇̀lė
+Jogi̇̀mantas
+Jogáila
 Jokūbas
 Jokūbo laiškas
 Jokū̃bas
@@ -1494,6 +1863,9 @@ Jonava
 Jonavičius
 Jone
 Jonijos jūra
+Joniškis
+Joniškėlis
+Joniškė̃lis
 Jono
 Jono laiškai
 Jonos knyga
@@ -1545,16 +1917,22 @@ Jungti̇̀nės Amèrikos Valsti̇̀jos
 Juodkalnija
 Juodoji jūra
 Juozapas
+Juozapavičius
 Juozas
 Jupiteris
+Jurbarkas
+Jurevičius
 Jurga
+Jurginės
 Jurgis
 Jurgita
+Jurgi̇̀nės
 Jurijus
 Jus
 Justas
 Justina
 Justinas
+Juta
 Jutka
 Jutkauskas
 Jutlandija
@@ -1564,16 +1942,33 @@ Juõzas
 Južno Sachalinskas
 Jèmeno Respùblika
 Jèrichas
+Jódaras
+Jógantas
+Jógaudas
+Jógilas
+Jógina
+Jóginta
+Jómantas
+Jórimas
+Jóstautas
+Jósvydas
+Jótautas
+Jótvydas
+Jóvydas
 Jõnas
+Jõniškis
 Jõno Evangèlija
 Jõno laiškai̇̃
+Jõrė
+Jùrbarkas
+Jùrgis
+Jùrmantas
 Jėzus
 Jėzus Kristus
 Jė́zaus draugijà
 Jūratė
 Jūrmala
 Jūs
-K
 K.
 KLR
 KSSO
@@ -1582,12 +1977,16 @@ Kaaba
 Kaanano šuo
 Kabulas
 Kadijivka
+Kadkevičius
 Kaimanai
 Kaimãnai
 Kaimãnų Sãlos
 Kairas
+Kairevičius
 Kairo
 Kairys
+Kaišiadorys
+Kaišiadórys
 Kalabrija
 Kalašai
 Kalifornija
@@ -1601,11 +2000,14 @@ Kalmukija
 Kalnų Karabachas
 Kalnų Karabacho respublika
 Kalvaitis
+Kalvarija
+Kalvarijà
 Kalėdos
 Kalėdų išvakarės
 Kalėdų mugė
 Kalėdų sala
 Kalėdų turgus
+Kal̃mantas
 Kamantai
 Kamantas
 Kamantauskas
@@ -1616,6 +2018,7 @@ Kambòdžos Karalỹstė
 Kamenecas-Podolės
 Kamerūnas
 Kamilė
+Kaminskas
 Kampala
 Kampanija
 Kampučijos Liaudies Respublika
@@ -1657,6 +2060,8 @@ Katabanas
 Katalikų Bažnyčia
 Katalonija
 Kataras
+Katkauskas
+Katkus
 Katmandu
 Katovicai
 Kaukazas
@@ -1667,18 +2072,29 @@ Kavala
 Kavaliauka
 Kavaliauskaitė
 Kavaliauskas
+Kavarskas
 Kavolis
+Kavárskas
 Kazachija
 Kazachstanas
 Kazanė
 Kazimiera
 Kazimieras
+Kazlauskas
+Kazlų Rūda
+Kazlų̃ Rūdà
 Kazys
+Kañtautas
+Kañtrimas
+Kañtvydas
 Kašubija
 Kefalonija
 Keiptaunas
+Kelcai
 Keležeriai
+Kelmė
 Keltų jūra
+Kel̃mė
 Kembridžas
 Kenija
 Kentas
@@ -1696,7 +2112,6 @@ Ketvirtóji Karãlių knygà
 Kijevas
 Kijevo Rusia
 Kiklados
-Kimantavičius
 Kinija
 Kinijos Liaudies Respublika
 Kinijos Respublika
@@ -1704,15 +2119,18 @@ Kinijos Taipėjus
 Kinsgaila
 Kiotas
 Kipras
+Kiprijonas
 Kipro Respublika
 Kirgizija
 Kirgizijos Respublika
 Kirgizijos TSR
 Kirgizijos Tarybų Socialistinė Respublika
 Kirgizstanas
+Kiribati
 Kiribatis
 Kirilas
 Kisindžeris
+Kiñtautas
 Kišiniovas
 Kiūšiū
 Klaipėda
@@ -1758,6 +2176,7 @@ Koranas
 Korintas
 Korkas
 Kornelia
+Korsakas
 Korsika
 Korteso jūra
 Korãnas
@@ -1777,6 +2196,7 @@ Kostas
 Kotryna
 Koventris
 Kočis
+Krakauskas
 Krasnojarskas
 Kremenčukas
 Kremlius
@@ -1796,6 +2216,10 @@ Kryžiuočių Ordinas
 Ksantė
 Ksenofanas
 Kuba
+Kubai
+Kubanė
+Kudirkos Naumiestis
+Kudi̇̀rkos Naũmiestis
 Kukluksklanas
 Kuko Salos
 Kumelis
@@ -1830,6 +2254,7 @@ Kurskas
 Kuršas
 Kuršėnai
 Kuveitas
+Kuzmickas
 Kušanų
 Kušanų karalystė
 Kvakerių patranka
@@ -1837,22 +2262,33 @@ Kvala Lumpūras
 Kvebekas
 Kventinas
 Kvėbekas
+Kybartai
+Kybártai
 Kyjivas
+Kymantas
+Kãstautas
+Kérmantas
 Kùko Sãlos
 Kùperio liaukà
 Kùperio skỹstis
+Kùpiškis
 Kùresarė
 Kùrskas
+Kýmantas
 Kėdainiai
+Kęstas
+Kęstautas
+Kęstavičius
 Kęstutis
+Kę̃stautas
 Kūris
 Kūčios
 Kūčių diena
 Kūčių vakaras
 Kū̃čios
-L
 LDDP
 LDP
+LGBT eitynės
 LKD
 LKDP
 LLL
@@ -1892,10 +2328,13 @@ Laiškas galatams
 Laiškas hebrajams
 Laiškas kolosiečiams
 Laiškas romiečiams
+Lai̇̃mantas
+Lai̇̃svydas
 Lakšmė
 Lalibela
 Lamanšas
 Landsbergis
+Landtagas
 Langedokas
 Langė
 Laokoontas
@@ -1907,6 +2346,7 @@ Laptevų jūra
 Laputė
 Larisa
 Latgala
+Latgalą
 Latvija
 Latvijai
 Latvijoje
@@ -1922,10 +2362,15 @@ Laura
 Laurazija
 Laurynas
 Lazarevo jūra
+Lazdijai
+Lazdi̇̀jai
+Laũksvydas
 Leidenas
 Leipcigas
 Leitė
 Leitėnai
+Lengveniai
+Lengvenis
 Leninas
 Leningradas
 Lenkija
@@ -1979,9 +2424,12 @@ Lincas
 Linksmasis Rodžeris
 Linksmų Kalėdų
 Linksmų Šv. Kalėdų ir Laimingų Naujųjų Metų!
+Linkuva
+Linkuvà
 Lionas
 Lionginas
 Lipeckas
+Lipnickas
 Lisabona
 Liubliana
 Liublinas
@@ -1998,9 +2446,12 @@ Liveta
 Livingstonas
 Livonija
 Livornas
+Liùbartas
+Liùtautas
 Liūtas
 Liūtaširdis
 Li̇̀bijos Valstýbė
+Li̇̀nvydas
 Lodzė
 Logronjas
 Lokių sala
@@ -2021,23 +2472,32 @@ Luganskas
 Luhanskas
 Luhansko Liaudies Respublika
 Luiziana
+Lukaitis
 Lukas
+Lukauskas
+Lukaševičius
 Luke
 Lupeikis
 Lusonas
 Luvras
 Lvivas
+Lybartes
+Lándtagas
 Lãtvija
 Lénkija
 Lòndonas
 Lùko Evangèlija
+Lýgmantas
+Lýmantas
+Lėja
 LŽP
-M
-Maciejauskas
+Macevičius
 Maciejuvka
 Macijauskas
 Macius
 Madagaskaras
+Madagaskaro
+Madagaskaru
 Madeira
 Madhja Pradešas
 Madridas
@@ -2053,6 +2513,7 @@ Magna Carta Libertatum
 Magnitogorskas
 Maharaštra
 Mahometas
+Mahomètas
 Majamis
 Majonas
 Majotas
@@ -2090,7 +2551,9 @@ Manipuras
 Manksas katė
 Mantas
 Mantgaila
+Mantrimas
 Mantvilas
+Mantvydas
 Mančesteris
 Mao
 Marcelijus
@@ -2108,6 +2571,7 @@ Markas
 Marke
 Marko
 Marku
+Markūnas
 Marmuro jūra
 Marokas
 Maroko
@@ -2135,7 +2599,16 @@ Mauricijus
 Mauritanija
 Mazandarano jūra
 Mazòvijos Òstruva
+Mañtautas
+Mañtgirdas
+Mañtrimas
+Mañtvidas
+Mañtvilas
+Mañtvinas
+Mañtvydas
+Mañvydas
 Mažajai Lietuvai
+Mažeika
 Mažeikiai
 Mažoji Azija
 Mažoji Lietuva
@@ -2152,6 +2625,7 @@ Medardas
 Medija
 Medėja
 Medūza
+Mefodijus
 Meghalaja
 Megrelija
 Meile
@@ -2159,6 +2633,7 @@ Meilė
 Meka
 Meklenburgas-Pomeranija
 Meksika
+Meksikai
 Meksikas
 Meksikos įlanka
 Melanezija
@@ -2174,11 +2649,15 @@ Mesijas
 Mesina
 Mesinos sąsiauris
 Metraščių knyga
+Mečislovas
 Mianmaras
 Miao
 Michailas
 Michėja
 Michėjo knyga
+Mickauskas
+Mickevičius
+Mickus
 Midas
 Miglė
 Mikalojus
@@ -2189,6 +2668,7 @@ Mikė Pūkuotukas
 Mikėnai
 Milanas
 Milda
+Mili̇̀vydas
 Mincionokas
 Mindaugaitis
 Mindaugas
@@ -2196,7 +2676,9 @@ Mingai
 Minigaila
 Minojo
 Minskas
+Mintauja
 Mirga
+Miroslavas
 Misisipė
 Misūris
 Mitanija
@@ -2206,6 +2688,11 @@ Miunchenas
 Mizoramas
 Mičiganas
 Mičigano ežeras
+Mi̇̀lvydas
+Mi̇̀nalgas
+Mi̇̀ntautas
+Mi̇̀ntvydas
+Mi̇̀nvydas
 Modestas
 Mogadišas
 Mogiliavas
@@ -2214,7 +2701,10 @@ Mogolų imperija
 Mokytojo knyga
 Moldavija
 Moldova
+Moldovai
 Molizė
+Molėtai
+Molė́tai
 Momas
 Mona Liza
 Monakas
@@ -2236,19 +2726,29 @@ Mormonas
 Morta
 Motiejus
 Mozambikas
+Mozambiko
 Mozambiko Liaudies Respublika
+Mozambiku
 Mozė
+Mozūrija
 Mstislavlis
 Muhu
 Mumbajus
 Murmanskas
 Mykolas
+Mykolinės
+Mykoli̇̀nės
 Márkas
 Mãto Evangèlija
+Mãžrimas
+Mãžvydas
 Mèksikas
 Mèksikos į̇́lanka
+Mòlotovo koktei̇̃lis
 Mõrkaus Evangèlija
 Mõrkus
+Mýkolas
+Mą̃stautas
 Mėlyndantis
 Mėnesys
 Mėnesėlis
@@ -2256,7 +2756,6 @@ Mėnulio dievas
 Mėnulio užtemimas
 Mėnulis
 Mėnuo
-N
 N-
 N-13
 N-16
@@ -2276,6 +2775,7 @@ Naha
 Nahumo knyga
 Nalčikas
 Namibija
+Nari̇̀mantas
 Narnija
 Narva
 Natalija
@@ -2289,6 +2789,8 @@ Naujasis Testamentas
 Naujasis pasaulis
 Naujieji Hebridai
 Naujieji Metai
+Naujininkai
+Naujoji Akmenė
 Naujoji Anglija
 Naujoji Gvinėja
 Naujoji Ispanija
@@ -2299,13 +2801,21 @@ Naujoji Zelandija
 Naujoji Škotija
 Naujosios Zelandijos tujus
 Naujàsis Pietų̃ Vèlsas
+Naujóji Ai̇̃rija
+Naujóji Akmẽnė
 Naujóji Mèksika
+Naujóji Zelándija
 Naujóji Škòtija
 Naujųjų mẽtų i̇̀švakarės
+Nauri̇̀mantas
 Nauru
 Navalnas
 Navara
+Navickas
 Nazaretas
+Naũbartas
+Naũmantas
+Naũrimas
 Ndžamena
 Neapolio geltonis
 Neapolio įlanka
@@ -2314,6 +2824,10 @@ Negyvoji jūra
 Nehemija
 Nehemijo knyga
 Neipidas
+Nei̇̃mantas
+Nei̇̃vydas
+Nemenčinė
+Nemenči̇̀nė
 Nepalas
 Nepalo
 Nepalų bhasa
@@ -2323,6 +2837,8 @@ Neptūnas
 Nepãlo Federãcinė Demokrãtinė Respùblika
 Nerijus
 Neringa
+Neringà
+Neri̇̀mantas
 Nevarų kalba
 Niagaros krioklys
 Nica
@@ -2331,6 +2847,7 @@ Nigerija
 Nigeris
 Nijolė
 Nikaragva
+Nikaragvai
 Nikolajus
 Nikosija
 Niktė
@@ -2347,6 +2864,8 @@ Niukaslas
 Niukaslas prie Taino
 Niurnbergas
 Nivchių
+Ni̇̀rmantas
+Ni̇̀rtautas
 Nojaus arka
 Nojus
 Nomeda
@@ -2354,15 +2873,19 @@ Nora
 Norbertas
 Norgaila
 Noridžas
+Nori̇̀mantas
 Normandija
 Normandijos salos
 Norvaidė
 Norvegija
 Norvegijos jūra
 Norvegijos karalystė
+Norvydas
 Notingamas
+Novoaltaiskas
 Novorosijskas
 Novrūzas
+Noŕtautas
 Nr.
 Nubija
 Numidija
@@ -2371,14 +2894,26 @@ Nur Sultanas
 Nyderlandai
 Nyderlandų Karalystė
 Nyčė
+Nármantas
+Nártautas
+Nárvydas
+Nérvydas
+Nómantas
+Nórmantas
+Nórvydas
+Nóvydas
+Nùtautas
 NŠA
 Nẽmunas
-O
+Nẽrimas
+Obeliai
 Obė
+Obẽliai
 Ochotsko jūra
 Odesa
 Odeta
 Odinas
+Odisėja
 Odisėjas
 Odoakras
 Ohajas
@@ -2434,26 +2969,37 @@ Ošima
 Ožiaragio atogrąža
 Ožiaragis
 Ožputė
-P
 PP
 PSC
 PVM
 Pa de Kalė
+Pabradė
+Pabradė̃
 Pacinskas
 Padniestrė
 Pafosas
+Pagėgiai
+Pagė́giai
 Paidė
 Pakartoto Įstatymo knyga
 Pakistanas
 Pakistano Islamo Respublika
 Pakistãno Islãmo Respùblika
+Pakruojis
+Pakrúojis
 Palanga
 Palau
+Palenkė
+Palenkės Sokoluvas
 Palestina
 Panama
 Pandora
 Pandoros skrynia
+Pandėlys
+Pandėlỹs
 Pandžabas
+Panemunė
+Panemùnė
 Panevėžys
 Pangkalpinango
 Pangėja
@@ -2472,15 +3018,19 @@ Paryžius
 Pasaulio Prekybos Organizacija
 Paskutinė vakarienė
 Pastarųjų dienų šventųjų Jėzaus Kristaus bažnyčia
+Pasvalys
+Pasvalỹs
 Patarlių knyga
 Patina
 Patinskas
 Patrikas
 Paukščių Takas
+Paulauskas
 Paulius
 Pchenjanas
 Peipaus-Pskovo ežeras
 Pekinas
+Pekino
 Pekčė
 Pelenė
 Peliukas Mikis
@@ -2499,10 +3049,20 @@ Persija
 Persijos imperija
 Persijos įlanka
 Peru
+Petkaitis
+Petkauskas
+Petkelis
+Petkevičius
+Petkinas
+Petkinis
+Petkus
+Petkutis
+Petkūnas
 Petra
 Petrarka
 Petrarkos sonetas
 Petras
+Petrauskas
 Petravičius
 Petre
 Petro
@@ -2537,9 +3097,12 @@ Pigmalijonas
 Pijus
 Pijušas
 Pikardija
+Pikačiu
 Piliava
+Pilipavičius
 Piliukas
 Pilius
+Pilsudskis
 Pilukas
 Pilypas
 Pilỹpas
@@ -2553,6 +3116,7 @@ Pirėnų pusiasalis
 Pirė́nų pùsiasalis
 Pitagoras
 Piui de Domas
+Piza
 Pizos bokštas
 Pjemontas
 Planko konstanta
@@ -2594,17 +3158,25 @@ Prancūzijos Flandrija
 Prancūzijos Indokinija
 Prancūzijos Respublika
 Prancūzų revoliucinis kalendorius
+Pranà
 Pranė
 Pretorija
 Priapas
 Priape
 Priapo
+Priekulė
+Prienai
 Pripetė
 Priština
+Pri̇́ekulė
+Pri̇́enai
 Prokopas
 Prometėjas
 Provansas
 Pružanai
+Prãnas
+Prãnis
+Prãnė
 Prūsai
 Prūsija
 Prūsijos lietuvis
@@ -2625,28 +3197,38 @@ Pūkuotukas
 Pẽtras
 Pẽtro laiškai̇̃
 QR kodas
-R
 Rabatas
 Rachelė
 Radigaila
+Radkevičius
+Radvila
 Radviliškis
 Radvilė
 Radžasthanas
 Rafachas
 Ragaila
 Ragai̇̃nė
+Raimantas
 Raimondas
 Raimundas
+Rai̇̃mantas
+Rai̇̃vydas
 Rakverė
 Ralfas
+Ramanauskas
+Ramantas
 Raminta
 Ramunė
 Ramusis vandenynas
 Ramutė
+Ramygala
+Ramýgala
 Ramūnas
 Rangūnas
 Rapolas
 Rasa
+Raseiniai
+Raséiniai
 Raudonkepuraitė
 Raudonoji aikštė
 Raudonoji jūra
@@ -2658,6 +3240,8 @@ Rebeka
 Reda
 Regimantas
 Regina
+Reginaldas
+Regi̇̀mantas
 Reikjavikas
 Reimsas
 Reinas
@@ -2665,25 +3249,51 @@ Reino kraštas
 Reino kraštas-Pfalcas
 Remigijus
 Remis
-Renaldas
 Renata
 Renatas
 Renė
+Rietavas
+Rietãvas
 Rigaila
 Rigelis
 Rijadas
+Rikardas
 Rima
 Rimantas
 Rimantė
 Rimas
 Rimgaila
 Rimgaudas
+Rimgáila
+Rimkaitis
+Rimkantas
+Rimkauskas
+Rimkevičius
 Rimkus
+Rimkūnas
+Rimundas
 Rimvydas
 Ringaila
+Ringaudas
+Ringoldas
 Rita
 Ričardas
 Ričmondas
+Ri̇̀dmantas
+Ri̇̀ksdagas
+Ri̇̀mantas
+Ri̇̀mantis
+Ri̇̀mdaugas
+Ri̇̀mgaudas
+Ri̇̀mgirdas
+Ri̇̀mkantas
+Ri̇̀mtaras
+Ri̇̀mtautas
+Ri̇̀mvaldas
+Ri̇̀mvidas
+Ri̇̀mvydas
+Ri̇̀ntautas
+Ri̇̀nvydas
 Robertas
 Roberte
 Roberto
@@ -2712,6 +3322,7 @@ Romu
 Romualda
 Romualdas
 Rona
+Ronaldas
 Rostovas prie Dono
 Rozgaila
 Ruanda
@@ -2730,8 +3341,10 @@ Rusijos Tarybų Federacinė Socialistinė Respublika
 Rusijos imperija
 Rusijos stačiatikių bažnyčia
 Ruslanas
+Rutkauskas
 Ruzgaila
 Ryga
+Rygikogas
 Rygos įlanka
 Rygą
 Rytas
@@ -2746,36 +3359,60 @@ Rytų Romos imperija
 Rytų Sibiro jūra
 Rytų Timoras
 Rytų Vokietija
+Rámvydas
+Rãdmantas
+Rãdvydas
+Rãmantas
+Rãmavydas
+Rãsmantas
+Rãsvydas
+Rãtautas
 Ròbertas
 Ròmas /Rõmas
+Ròsmantas
+Rõmantas
 Rùsija
+Rùsijos Federãcija
+Rýtautas
 Rėgensburgas
 Rėja
 Rėzeknė
-Rūpestingi meškiukai
+Rūdiškės
 Rūta
 Rūtos knyga
-S
+Rū̃diškės
 SIM kortelė
+Sabaitis
+Sabanskas
+Sabas
+Sabauskas
+Saboniai
 Sabonis
 Sachalinas
 Sachara
 Saidpuras
+Sakalauskas
 Sakartvelas
+Sakas
+Sakevičius
 Sakramentas
 Saksonija
-Saliamono Salos
+Saksònija-Ánhaltas
+Salantai
+Salantai̇̃
 Saliamono salos
 Salihorskas
 Salomėja
 Salonikai
 Salvadoras
+Salvadoro
+Salvadoru
 Salvinija
 Salė
 Samarkandas
-Samoa
 Samsonas
 Samueli
+Samuelio
 Samuelio knyga
 Samuelis
 Samuèlio knygà
@@ -2788,6 +3425,7 @@ San Salvadoras
 San Tomė ir Prinsipė
 Sana
 Sanderlandas
+Sandoros skrynia
 Sandra
 Sankt Peterburgas
 Santjagas
@@ -2804,6 +3442,7 @@ Saturno
 Saturnu
 Saudo Arabija
 Saudo Arabijos Karalystė
+Sauka
 Saulius
 Saulutė
 Saulė
@@ -2814,12 +3453,16 @@ Savira
 Savoja
 Savė
 Saùdo Arãbijos Karalỹstė
+Saũmantas
+Saũrimas
 Seara
 Seda
 Sedna
 Seimas
 Seišeliai
+Sei̇̃mas
 Sekminės
+Sekmi̇̀nės
 Seldžiukas
 Seldžiukidas
 Semejus
@@ -2828,8 +3471,7 @@ Sena
 Senasis pasaulis
 Senegalas
 Sengaila
-Sent Kitsas ir Nevis
-Sent Lusija
+Sent Pitersbergas
 Sent Vinsentas ir Grenadinai
 Serbija
 Serbija ir Juodkalnija
@@ -2837,6 +3479,7 @@ Serbijos Respublika
 Sergejus
 Sergijus
 Seulas
+Seulo
 Sevastopolis
 Sevilija
 Sfaksas
@@ -2849,6 +3492,7 @@ Sicilijos sąsiauris
 Sidnėjus
 Sidonas
 Siera Leonė
+Sigismundas
 Sigita
 Sigitas
 Sikhizmas
@@ -2858,15 +3502,20 @@ Silva
 Silvestras
 Simas
 Simferopolis
+Simnas
 Simona
 Simonas
 Simonas sako
 Simone
+Sim̃nas
 Sindziangas
 Singaila
 Singapūras
 Singapūro Respublika
-Singapūro Respùblika
+Singapūru
+Sinkauskas
+Sinkevičius
+Sinkus
 Sinosfera
 Sinsinatis
 Sionas
@@ -2874,27 +3523,43 @@ Sirgaila
 Sirija
 Sirija Arabų Respublika
 Sirijus
+Si̇̀mantas
+Si̇̀ntautas
 Si̇̀rijos Árabų Respùblika
+Si̇̀rmantas
+Si̇̀rtautas
+Si̇̀rvydas
 Skaičių knyga
 Skai̇̃čių knygà
 Skandinavija
 Skaržyskas-Kamena
+Skaudvilė
+Skaudvi̇̀lė
 Skensgaila
 Skinsgaila
 Skirgaila
 Skirmantas
+Ski̇̀rmantas
+Ski̇̀rtautas
 Skolastika
 Skonė
 Skopjė
-Skorpionas
 Skrajojantis olandas
+Skuodas
+Skuõdas
+Skálmantas
+Skómantas
+Skóvydas
 Slavonija
 Slovakija
 Slovakijos Respublika
 Slovėnija
 Slovėnijos Respublika
 Slùckas
+Smalininkai
+Smaliniñkai
 Smolenskas
+Smolskas
 Snieguolė
 Snoudonas
 Snoudonija
@@ -2919,15 +3584,22 @@ Stambulas
 Stangaila
 Stanislova
 Stanislovas
+Stankauskas
+Stankevičius
+Stankus
 Stasys
 Stasė
 Stefanija
 Steponas
+Steponavičius
 Stiksas
 Stokholmas
 Stolinas
 Stounhendžas
 Strasbūras
+Stòrtingas
+Subačius
+Subãčius
 Sudanas
 Sudie
 Sumatra
@@ -2935,11 +3607,13 @@ Sumgaila
 Sungai
 Sungaila
 Suomija
+Suomijos Didžioji Kunigaikštystė
 Suomijos Respublika
 Suomijos įlanka
 Supermenas
 Surabaja
 Surinamas
+Sutkevičius
 Sutkus
 Suvalkija
 Suvalkijai
@@ -2950,14 +3624,15 @@ Suvalkų koridorius
 Suzana
 Svajūnas
 Svarogas
-Svarstyklės
 Svazilandas
 Sventagaila
 Svirgaila
+Sántautas
+Sãeima
+Sýmantas
 Sėla
 Sėlija
 Sūduva
-T
 TFA
 TPP
 TS
@@ -2991,28 +3666,51 @@ Talmùdas
 Tambovas
 Tamil Nadu
 Tamilnadas
+Tamkus
+Tam̃kevičius
 Tanatas
 Tanganika
 Tanzanija
 Tanãchas
 Tanžeras
 Tarantas
+Taraška
+Taraškevičius
+Tari̇̀mantas
 Tarptautinis Teisingumo Teismas
 Tarpupis
 Tartu
 Tarvizijus
 Tarybų Socialistinių Respublikų Sąjunga
 Tarybų Sąjunga
+Tar̃vydas
 Tasmanija
 Tasmano jūra
 Tatarstanas
 Tatrai
 Taueris
 Tauragė
-Tauras
+Tautas
+Tautvilà
+Tautvi̇̀lis
+Tautvi̇̀lius
 Tautvydas
 Tautų Sąjunga
 Taškentas
+Taũmantas
+Taũrimas
+Taũtginas
+Taũtgintas
+Taũtgirdas
+Taũtkantas
+Taũtmilas
+Taũtminas
+Taũtrimas
+Taũtvaidas
+Taũtvaldas
+Taũtvidas
+Taũtvilas
+Taũtvydas
 Tbilisis
 Teheranas
 Teisutis
@@ -3030,6 +3728,7 @@ Temzė
 Tenesis
 Teodoras
 Teresė
+Terksas ir Kaikosas
 Ternopilis
 Terpsichorė
 Tesėjas
@@ -3043,6 +3742,8 @@ Tibras
 Tichuana
 Tichė
 Ticianas
+Tijūnas
+Tijūnėlis
 Tilžė
 Timoro jūra
 Timotiejas
@@ -3055,7 +3756,11 @@ Titas
 Titus
 Tiumenė
 Tiuringija
+Tiškevičius
+Ti̇̀lmantas
 Togas
+Togo
+Togu
 Tokijas
 Toleikiai
 Toleikis
@@ -3065,6 +3770,9 @@ Toljatis
 Toma
 Tomas
 Tome
+Tomkauskas
+Tomkevičius
+Tomkus
 Tomo
 Tomskas
 Tonga
@@ -3076,6 +3784,7 @@ Torshaunas
 Torunė
 Toruva
 Toskana
+Trakai
 Trampas
 Transilvanija
 Transvalio Respublika
@@ -3090,22 +3799,29 @@ Tristanas da Kunja
 Triukšmauti
 Troja
 Trojos karas
+Troškūnai
+Troškū́nai
 Trumsė
 Trys karaliai
+Trãkai
 Tunas
 Tunisas
 Turkija
 Turkijos Respublika
 Turkmėnija
 Turkmėnistanas
-Tuvalu
 Tuvos Liaudies Respublika
 Tuzla
 Tverė
+Tvi̇̀rmantas
 Tylenis
 Tyras
+Tytuvėnai
+Tòmantas
+Tólmantas
+Tólvydas
+Týtuvėnai
 Tėve mūsų
-U
 UAB
 Uagadugu
 Ucunomija
@@ -3142,19 +3858,32 @@ Utrechtas
 Uzbekija
 Uzbekistanas
 Užnemunė
-V
+Užventis
 V.
 VLKK
+Vabalninkas
+Vabalniñkas
 Vaclovas
 Vadimas
 Vaducas
 Vaida
 Vaidas
+Vaidaugas
 Vaidilutė
 Vaidivutis
+Vaidi̇̀mantas
 Vaidotas
+Vaitkauskas
+Vaitkevičius
+Vaitkus
+Vaitulevičius
 Vaiva
 Vaivora
+Vai̇̃drimas
+Vai̇̃svydas
+Vai̇̃tautas
+Vai̇̃vydas
+Vai̇̃švydas
 Vajomingas
 Vakarai
 Vakariai
@@ -3173,6 +3902,7 @@ Vakarų̃ Austrãlija
 Valakija
 Valažinas
 Valdas
+Valdi̇̀mantas
 Valensija
 Valentas
 Valentinas
@@ -3181,16 +3911,25 @@ Valerijonas
 Valeta
 Valhala
 Valkaviskas
+Valonija
 Valteris
+Valònija
+Val̃mantas
 Vanda
 Vandenis
 Vankuveris
 Vanuatu
 Vardenis Pavardenis
+Varkauskas
+Varkevičius
+Varkys
+Varniai
 Varėna
+Varėnà
 Varšuva
 Varšuvos paktas
 Varšuvos sutartis
+Var̃niai
 Vasgaila
 Vasilevičai
 Vasiliauskas
@@ -3199,6 +3938,8 @@ Vatikanas
 Vatikano Miesto Valstybė
 Vatikãno miẽstas
 Vašingtonas
+Veisiejai
+Veisiejai̇̃
 Velingtonas
 Velsas
 Velse
@@ -3223,12 +3964,20 @@ Venesuela
 Vengrija
 Vengrijos Liaudies Respublika
 Vengrijos Respublika
+Venta
+Ventà
 Verakrusas
 Verchniadzvinskas
 Vergaila
 Vergilijus
+Verkauskas
+Verkevičius
+Verkys
 Veronika
 Versalis
+Verà
+Verònija
+Verònika
 Vestminsterio katedra
 Vestminsterio rūmai
 Vestminsterio vienuolynas
@@ -3240,18 +3989,24 @@ Vida
 Vidas
 Vidigaila
 Vidinė Mongolija
+Vidi̇̀mantas
 Vidmantas
 Viduriniai Rytai
 Vidurinė Azija
 Viduržemio jūra
 Vidžemė
+Viekšniai
+Viekšniai̇̃
 Viena
 Vientianas
 Vietnamas
 Vietnamo Demokratinė Respublika
 Vietnamo Socialistinė Respublika
+Vievis
 Viešpats
 Vigaila
+Vigi̇̀mantas
+Vikentijus
 Vikipedija
 Vikižodynas
 Viktoras
@@ -3259,10 +4014,16 @@ Viktorija
 Viktorijos ežeras
 Vileika
 Vilgaila
+Vilgi̇̀mantas
 Vilhelmas
 Vilhelmo
 Vilija
 Vilius
+Vili̇̀mantas
+Vilkaviškis
+Vilkavi̇̀škis
+Vilkija
+Vilkijà
 Vilma
 Vilniau
 Vilniaus
@@ -3271,6 +4032,7 @@ Vilniuje
 Vilniumi
 Vilnius
 Vilnių
+Viltautas
 Vilvordė
 Vincas
 Vincentas
@@ -3281,6 +4043,7 @@ Virbalis
 Virgilijus
 Virginija
 Virginijus
+Virgi̇̀mantas
 Virkantas
 Visaginas
 Visgaila
@@ -3288,9 +4051,26 @@ Vita
 Vitalija
 Vitalijus
 Vitebskas
+Vitkevičius
+Vitoldas
+Vitunskas
 Višnus
+Vi̇̀dmantas
+Vi̇̀dvydas
+Vi̇̀gmantas
 Vi̇̀lhelmas
+Vi̇̀lmantas
 Vi̇̀lnius
+Vi̇̀ltautas
+Vi̇̀nmantas
+Vi̇̀ntautas
+Vi̇̀rmantas
+Vi̇̀salgas
+Vi̇̀smantas
+Vi̇̀svydas
+Vi̇́entautas
+Vi̇́evis
+Viẽštautas
 Vladas
 Vladimiras
 Vladislova
@@ -3309,8 +4089,12 @@ Vroclavas
 Vt.
 Vulverhamptonas
 Vusteris
+Vydas
+Vydimantas
+Vydi̇̀mantas
 Vygandas
 Vygantas
+Vygi̇̀mantas
 Vysla
 Vyta
 Vytas
@@ -3318,15 +4102,26 @@ Vytautas
 Vytautė
 Vytenis
 Vytis
+Váidmantas
 Vèlsas
+Vèrė
+Výdaugas
+Výdgantas
+Výdgardas
+Výdmantas
+Výdminas
+Výdmintas
+Výgmantas
+Výktautas
+Výmantas
+Výtautas
 Vė
 Vėzeris
 Vėžio atogrąža
 Vėžys
 VšĮ
 Wicca
-Y
-Z
+Zabarauskas
 Zacharas
 Zacharija
 Zacharijas
@@ -3336,21 +4131,24 @@ Zagrebas
 Zagrebe
 Zagrebo
 Zairas
+Zajenkauskas
 Zakintas
 Zambija
 Zaporožė
 Zarasai
 Zelandija
-Zelandijos
 Zelenskis
+Zelándija
 Zenonas
 Zigmas
 Zikaras
 Zimbabvė
 Zinaida
+Zinevičius
+Zinkauskas
+Zinkevičius
+Zinkus
 Zita
-[Term?]
-a
 a!
 a.
 a. s.
@@ -3532,12 +4330,14 @@ abi-
 abidedi
 abidi
 abidvi
+abijai
 abiogenezė
 abipus
 abipusiai
 abipusis
 abipusiškas
 abipusiškumas
+abipusė priklausomybė
 abirankis
 abitas
 abiturientas
@@ -3567,9 +4367,11 @@ absoliutusis nulis
 absoliučiai
 absurdas
 absurdizmas
+absùrdas
 abu
 abudedu
 abudu
+abujai
 abuoja
 abuojai
 abuojas
@@ -3578,6 +4380,7 @@ abuojumas
 abuojus
 abuojybė
 abuojėti
+abušonis
 abyda
 abydnykas
 abydyti
@@ -3630,6 +4433,8 @@ adopcija
 adresas
 adva
 advakas
+adventi̇̀stas
+adventi̇̀stė
 adverija
 advernai
 advernas
@@ -3646,6 +4451,7 @@ adynykas
 adyti
 adytojas
 aerodromas
+aerofotoaparãtas
 aeroplanas
 aerouostas
 aerozolis
@@ -3664,6 +4470,7 @@ afganė
 afganų kurtas
 afgãnas
 afgãnė
+afiša
 aforizmas
 afotinė
 afrikanerių kalba
@@ -3677,8 +4484,13 @@ afrikinis sviestmedis
 agatas
 agentūra
 agniai
+agnostici̇̀zmas
+agnostikas
 agnumas
 agnus
+agnòstikas
+agnòstikė
+agnòstinis
 agorafobija
 agrastas
 agrastauti
@@ -3712,10 +4524,12 @@ aidas
 aidesys
 aidingas
 aidinti
+aidukas
 aidus
 aidėti
 aifonas
 aifònas
+aigyti
 aikido
 aikidò
 aiksėti
@@ -3737,6 +4551,8 @@ aimarų
 aimarų kalba
 ainis
 ainų kalba
+aipodas
+aipòdas
 airis
 airiška
 airiškai
@@ -3787,6 +4603,7 @@ airių vilkšunis
 airių volfhaundas
 airė
 aistra
+aisus
 aitrus
 aitvaras
 aičioti
@@ -3794,16 +4611,21 @@ aiškiai
 aiškiaregys
 aiškiaregystė
 aiškinti
+aiškintis
 aiškintojas
+aišku
 aiškumas
 aiškus
 aiškyn
 aiškėti
 aiža
+ai̇̃riškasis fùtbolas
+ai̇̃riškasis fùtbolininkas
 ajai
 ajajai
 aje
 ajeras
+ajibofobija
 akacija
 akademija
 akademikas
@@ -3812,6 +4634,7 @@ akcentas
 akcentologija
 akcentuoti
 akcentãvimas
+akceñtas
 akcija
 akcijų birža
 akcininkas
@@ -3900,6 +4723,8 @@ akluose
 akluosiuose
 akluosius
 aklus
+aklùmas
+aklýbė
 aklą
 akląja
 akląją
@@ -3948,12 +4773,17 @@ akuoti
 akupunktūra
 akutė
 akušerė
+akvakultūra
+akvakultūrà
 akvamarinas
 akvaponika
 akvarelė
 akvariumas
+akvari̇̀stika
 akvatinta
 akvedukas
+akvãriumininkas
+akvãriumininkė
 akyje
 akylas
 akys
@@ -4073,6 +4903,8 @@ aligãtorius
 alio
 aliumininis
 aliuminis
+ali̇̀nis
+ali̇̀nė
 aljansas
 alkana
 alkanas
@@ -4093,6 +4925,7 @@ alpini̇̀zmas
 alpti
 alpulys
 also apuokas
+alstė
 alsuoti
 alsė
 alternatyva
@@ -4100,6 +4933,8 @@ alternatyvinis
 alternatyvioji medicina
 alternatyvus
 altorius
+aludaris
+aludarỹstė
 alude
 aludes
 aludė
@@ -4118,6 +4953,12 @@ alyvà
 alyvãvimas
 alyvúotas
 alyvúoti
+alùdaris
+alùdarė
+alùdė
+alùs
+alúotas
+alúoti
 alėja
 alūnas
 al̃sas
@@ -4151,6 +4992,7 @@ amerikietė
 amerikiečių
 amerikiečių buldogas
 amerikinis
+amerikinis uosis
 amerikinė cyplė
 amerikinė lapė
 amerikiẽtiškasis fùtbolas
@@ -4162,6 +5004,7 @@ amfibija
 amfiteatras
 amfi̇̀bija
 amnestija
+amnezija
 amonio nitratas
 amoralus
 amortizatorius
@@ -4181,6 +5024,7 @@ ana
 anagrama
 anaip
 anaiptol
+anaiptõl
 analine
 analinei
 analines
@@ -4212,6 +5056,7 @@ analizė
 analogija
 analoginis
 analogiškas
+anam
 ananasas
 anapilin
 anarchija
@@ -4264,12 +5109,12 @@ angliavandenilis
 angliavandenis
 anglicizmas
 anglici̇̀zmas
+anglies dioksidas
 anglies rūgštis
 anglikonas
 anglikonybė
 anglikonýbė
 anglikõnas
-anglikõniškas
 anglikõnė
 anglinas
 anglingas
@@ -4365,6 +5210,7 @@ ankštis
 ankštumas
 ankštybė
 ankštyn
+ano
 anomalija
 anonimas
 anonimiškumas
@@ -4382,6 +5228,7 @@ antdaryti
 antduoti
 anteiti
 antena
+antežis
 antgerti
 anti
 antiamerikanizmas
@@ -4394,15 +5241,16 @@ anties
 antifrizas
 antiherojus
 antikarinis
+antiklerikalizmas
 antikristas
 antikūnas
-antileptons: antileptònai: pozitronas · antimiuonas · antitaonas · antineutrinas [edit]
 antilopė
 antilopė šoklė
 antilopės gnu
 antimis
 antinas
 antinomija
+antiperspirantas
 antis
 antisemitas
 antisemitizmas
@@ -4411,6 +5259,7 @@ antiteizmas
 anti̇̀dė
 anti̇́ena
 antkainis
+antkapis
 antkelti
 antkiesti
 antklodė
@@ -4454,6 +5303,8 @@ antru
 antràsis asmuõ
 antrãdienis
 antróks
+antrą
+antrąkart
 antsigauti
 antsiklausti
 antsisakyti
@@ -4465,6 +5316,7 @@ antstolis
 anttarti
 antturėti
 antvažiuoti
+antýtė
 antšokti
 antžengti
 antžibti
@@ -4491,15 +5343,20 @@ anūkas
 anūkė
 ap-
 ap-kalti
-ap-minti
 apalpti
 aparatas
 aparatinė įranga
 aparatčikas
 aparatūra
+aparatūrà
 apart
 apartamentas
 aparti
+aparãtas
+aparãtininkas
+aparãtininkė
+aparãtinis
+aparãtinė
 apateizmas
 apatiniai
 apatitas
@@ -4602,7 +5459,7 @@ apgalėdavus
 apgalėdavęs
 apgalėjai
 apgalėjau
-apgalėjimasapsigalėjimas
+apgalėjimas
 apgalėjo
 apgalėjome
 apgalėjote
@@ -4623,7 +5480,6 @@ apgalėsiąs
 apgalėtas
 apgalėte
 apgalėti
-apgalėtiapsigalėti
 apgalėtinai
 apgalėtinas
 apgalėtum
@@ -4691,17 +5547,19 @@ apgerti
 apgesti
 apginkluoti
 apginti
+apgirtęs
 apgižti
 apgražinti
 apgrybáuti
 apgula
 apgulti
 apgydyti
+apgyvendinti
 apgą̃sti
 api-
 api-brukti
 api-pinti
-apibaigtiapsibaigti
+apibaigti
 apibendrintas
 apiberti
 apibrinkti
@@ -4771,7 +5629,7 @@ apiprausti
 apipùlti
 apivykti
 apjudinti
-apjunkti(reflexive) apsijunkti
+apjunkti
 apkabinimas
 apkabinti
 apkalba
@@ -4877,7 +5735,7 @@ apkeliavote
 apkeliavus
 apkeliavęs
 apkelti
-apkirstiapsikirsti
+apkirsti
 apklausa
 apklausinėti
 apklausti
@@ -4941,13 +5799,16 @@ aplankas
 aplankymas
 aplankyti
 aplankýti
+apledėti
 apleisti
 aplenkti
 aplinka
 aplinkybė
 aplodismentai
+apmauti
 apmazgoti
 apmedžioti
+apminti
 apmirdama
 apmirdamas
 apmirdami
@@ -4977,7 +5838,6 @@ apmirsiąs
 apmirtas
 apmirte
 apmirti
-apmirtiapsimirti
 apmirtinai
 apmirtinas
 apmirtum
@@ -5000,6 +5860,7 @@ apmiršti
 apmirštu
 apmirštąs
 apmokestinimas
+apmokėti
 apmušti
 apmyžti
 apmókymas
@@ -5097,32 +5958,43 @@ apsakęs
 apsapnuoti
 apsauga
 apsauginis vožtuvas
+apsaugos darbuotojas
 apsaugotas
 apsaugoti
+apsegti
 apseilėti
 apsiarti
 apsiauti
 apsiautimas
+apsibaigti
 apsidengti
 apsigalėjimas
 apsigalėti
 apsiganyti
 apsiginklavimas
+apsiginkluoti
+apsigyventi
+apsijunkti
 apsikeitimas
 apsikirpti
+apsikirsti
 apsikiškiakopūsteliauti
 apsilaukti
+apsileidėlis
 apsimesti
 apsimetėlis
 apsimirti
+apsimokėti
 apsimušti
 apsimylėti
 apsinešęs
 apsiniáukti
+apsiožinti
 apsipirkti
 apsirašinėti
 apsirašyti
 apsirengti
+apsisaugoti
 apsisegti
 apsisiūti
 apsisprendimas
@@ -5144,8 +6016,10 @@ apsiuvus
 apsiuvąs
 apsiuvęs
 apsiversti
+apsivilkti
 apsišaukti
 apsišaukėlis
+apsišikti
 apsiūdama
 apsiūdamas
 apsiūdami
@@ -5172,7 +6046,6 @@ apsiūsiąs
 apsiūtas
 apsiūte
 apsiūti
-apsiūtiapsisiūti
 apsiūtinai
 apsiūtinas
 apsiūtum
@@ -5332,9 +6205,10 @@ apvalyti
 apvaras
 apvažiuoti
 apveikti
+apversti
 apveržti
 apvesti
-apvilkti(reflexive) apsivilkti
+apvilkti
 apvirsti
 apvykimas
 apvykti
@@ -5367,6 +6241,8 @@ apčiulpti
 apėjimas
 apėsti
 apšalti
+apšaukti
+apšikti
 apšilimas
 apši̇̀lti
 apšliùrti
@@ -5375,14 +6251,17 @@ apšokti
 apšviesti
 apšvietimas
 apžaisti
+apžavai
 apžengti
 apžergti
 apžibti
+apžiūrà
 apžiūrėjimas
 apžiūrėti
 apžósti
 ar
 ar Rifas
+ar galėtumėte man padėti?
 ar jums reikia pagalbos
 ar jums reikia pagalbos?
 ar jūs alergiški kokiems nors vaistams
@@ -5397,16 +6276,18 @@ ar kalbate lietuviškai?
 ar kalbi angliškai?
 ar kalbi lietuviškai?
 ar kas nors čia kalba angliškai?
+ar tu ištekėjusi?
 ar tu kalbi angliškai?
 ar tu tiki Dievu?
 ar tu vartoji kokius nors vaistus?
+ar tu vedęs?
 ar turi augintinių?
 ar turi merginą?
 ar turi vaikiną?
 ar turite augintinių?
 ar turite merginą?
 ar turite vaikiną?
-ar žada lyti
+ar žada lyti?
 arabas
 arabinis dusūnas
 arabiška
@@ -5456,6 +6337,7 @@ arabų
 arabų kalba
 arabų pasaulis
 arabų šalys
+aragonietiškas
 aras
 arba
 arbaletas
@@ -5464,16 +6346,23 @@ arbatinis
 arbatinis šaukštelis
 arbatinukas
 arbatinė
+arbati̇̀nis
+arbati̇̀nė
 arbatlapis
 arbatmedis
+arbatos
 arbatos ceremonija
 arbatpinigiai
 arbatà
+arbatą
 arbatėlė
 arbatė̃lė
 arbatžolės
 arboretumas
 arbãtininkas
+arbãtininkė
+arbãtinis
+arbãtinė
 arbãtlapis
 arbãtmedis
 arbãtpinigiai
@@ -5486,6 +6375,7 @@ archaizmas
 archeologas
 archeologienė
 archeologija
+archeologiją
 archeologinis
 archeopteriksas
 archipelagas
@@ -5519,6 +6409,7 @@ arena
 areole
 areoles
 areolė
+areãlinė kalbótyra
 areštas
 areštinė
 areštuoti
@@ -5535,6 +6426,7 @@ aristokratas
 aristokratija
 aritmetika
 aritmetinis
+ari̇̀mas
 arka
 arkai
 arkangelas
@@ -5548,31 +6440,41 @@ arklakartė
 arklas
 arklavirvė
 arklena
+arklenà
 arkliaganis
 arkliaganys
+arkliaganỹs
 arkliapalaikis
 arkliapupė
 arkliarūgštė
 arkliatvartis
 arkliauogė
+arkliavagis
 arklidė
 arklidės
 arkliena
 arkligonė
+arklininkas
 arklinis
+arklio
 arklio galia
 arkliukas
 arkliãvagis
+arkliãvagė
 arkliškas
 arkliūkštis
+arkli̇̀dė
+arkli̇́ena
 arklys
 arklėnas
+arklỹs
 arkose
 arktinis kiškis
 arlekinas
 armija
 armota
 armuo
+armuõ
 armėnai
 armėnas
 armėniška
@@ -5633,6 +6535,7 @@ artikelis
 artilerija
 artimas
 artinti
+artintis
 artipilnis
 artistas
 artišokas
@@ -5711,6 +6614,7 @@ astatinas
 astatis
 asteriskas
 asteroidas
+asteroidų žiedas
 astma
 astoņstūris
 astrocitas
@@ -5722,23 +6626,25 @@ astronautė
 astronomas
 astronomienė
 astronomija
+astronominis
 astronominis vienetas
 asė
 at-
 at-kalti
-at-minti(reflexive) at-si-minti
 at-pinti
 at-varyti
 ataka
 atakuoti
+ataraksija
 atarti
 ataskaita
 atašė
 atbaigimas
-atbaigtiatsibaigti
+atbaigti
 atbalsis
 atberti
 atbristi
+atburbėti
 atburti
 atbučiuoti
 atbėgti
@@ -5798,10 +6704,11 @@ atganyti
 atgarsis
 atgauti
 atgerti
+atginti
 atgrasyti
 atgrę̃žti
 atgrįžti
-atgultiatsigulti
+atgulti
 atgydyti
 ati-
 atia
@@ -6003,6 +6910,7 @@ atiduosiąs
 atiduotas
 atiduoti
 atiduotinas
+atidus
 atidùrti
 atidėliojimas
 atidėlioti
@@ -6012,15 +6920,15 @@ atimti̇̀s
 atitarti
 atitekėti
 atitikmuo
-atitiktiatsitikti
+atitikti
 atiti̇̀rti
 atitraukiamasis
 atitraukiamasis nervas
 atitraukiamasis raumuo
 atiturėti
-atitylėtiatsitylėti
+atitylėti
 atjudinti
-atjungti(reflexive) atsijungti
+atjungti
 atjunkti
 atkalbėti
 atkaltinti
@@ -6119,9 +7027,10 @@ atkeliavus
 atkeliavęs
 atkelti
 atkiesti
-atkirstiatsikirsti
+atkirsti
 atklausti
 atklausyti
+atkomandirúoti
 atkàkti
 atkąsti
 atlaikas
@@ -6139,12 +7048,16 @@ atlikimas
 atlikti
 atlikėjas
 atlyginimas
+atlyginti
 atmata
 atmatos
 atmazgoti
 atmedžioti
 atmesti
 atmink, kad mirsi
+atminti
+atminties netekimas
+atminties susilpnėjimas
 atmintinė
 atmintis
 atmirti
@@ -6153,6 +7066,7 @@ atmosferos slėgis
 atmušti
 atmylėti
 atnaujinti
+atneši
 atneši̇̀mas
 atnešti
 atodrėkis
@@ -6232,9 +7146,11 @@ atrasčiau
 atrauti
 atrašyti
 atregė́ti
+atrikti
 atrinkti
 atrinktinai̇̃
-atrišti(reflexive) atsirišti
+atrišti
+atrodo
 atrodyti
 atrofija
 atrofuoti
@@ -6286,6 +7202,7 @@ atsakytumėme
 atsakytumėte
 atsakytų
 atsakyčiau
+atsakõmas
 atsakõvas
 atsakýti
 atsakąs
@@ -6296,7 +7213,9 @@ atsakęs
 atsapnuoti
 atsargos
 atsargus
+atsegti
 atsiarti
+atsibaigti
 atsibosti
 atsidengti
 atsidusti
@@ -6305,14 +7224,18 @@ atsiginti
 atsigrybáuti
 atsigrįžimas
 atsigulti
+atsijungti
+atsijungęs
 atsijuokauti
 atsikartojimas
 atsikeliauti
+atsikirsti
 atsiklausti
 atsilaikyti
 atsilaižyti
 atsiliepti
 atsilikti
+atsilyginti
 atsimerkti
 atsiminimai
 atsiminti
@@ -6327,8 +7250,10 @@ atsiprašyti
 atsirasti
 atsiraugmas
 atsirašyti
+atsirišti
 atsirūkyti
 atsisakymas
+atsisakyti
 atsisegti
 atsiseilėti
 atsisiuntimas
@@ -6339,12 +7264,15 @@ atsistatydinti
 atsistebėti
 atsisukti
 atsisveikinimas
+atsisveikinti
 atsisėsti
 atsitikimas
 atsitikti
 atsitiktinis
 atsitraukti
+atsitylėti
 atsivalgyti
+atsivilkti
 atsičiulpti
 atsiūti
 atsiųsti
@@ -6381,17 +7309,21 @@ atvaldyti
 atvalgyti
 atvažiuoti
 atveikti
+atvejais
+atvejinis
 atvejis
+atvejų atvejais
 atverti
 atveržti
 atvesti
-atvilkti(reflexive) atsivilkti
+atvilkti
 atviras pasáulis
 atvirkštinis perpildymas
 atvirsti
 atvirutė
 atvykimas
 atvykti
+atzīšanās
 atóstogos
 atėjai
 atėjau
@@ -6540,12 +7472,16 @@ aukštakulniai
 aukštas
 aukštesnio laipsnio, vyresnysis
 aukštesnis
+aukštesnióji mokyklà
 aukštesnysis laipsnis
 aukštis
 aukštuma
 aukštumas
 aukštybė
+aukštyn kojom
+aukštyn kojomis
 aukštyn kvarkas
+aukštóji mokyklà
 aukštỹn
 aukščiau
 aukščiausiasis
@@ -6560,6 +7496,7 @@ auselė
 ausies
 ausinis
 ausinė kepurė
+ausinės
 ausis
 auskaras
 austi
@@ -6590,6 +7527,7 @@ autoatsakiklis
 autobiografija
 autobiogrãfija
 autobusas
+autobusu
 autobusų stotelė
 autobusų stotis
 autodafė
@@ -6604,9 +7542,12 @@ automatinis
 automatinis plunksnakotis
 automatizacija
 automatiškas
+automobiliai
 automobilis
+automobiliu
 automobilių plovykla
 automobilvežis
+automobilį
 automorfinis skaičius
 autonomija
 autonominė sensorinė meridianinė reakcija
@@ -6720,6 +7661,7 @@ azerbaidžaniečių kalba
 azijietis
 azijietė
 azijiečių
+azorelė
 azotas
 añglinas
 añglininkas
@@ -6753,6 +7695,8 @@ aš esu anglas
 aš esu anglė
 aš esu gėjus
 aš esu ištekėjusi
+aš esu katalikas
+aš esu katalikė
 aš esu krikščionis
 aš esu krikščionė
 aš esu kurčia
@@ -6780,6 +7724,8 @@ aš pavargęs
 aš taip pat
 aš tave myliu
 aš turiu klausimą
+aš vieniša
+aš vienišas
 aš žinau
 ašaka
 ašara
@@ -6791,6 +7737,7 @@ ašaromis
 ašaroms
 ašaros
 ašarose
+ašaroti
 ašarą
 ašarų
 ašigalis
@@ -6821,12 +7768,13 @@ aštuonkojis
 ašutas
 ašva
 ašvienis
+aũšti
 aūkštys
-b
 b. k.
 ba
 babaliuoti
 babeziozė
+babkės
 bachūras
 bachūriukas
 bacila
@@ -6908,8 +7856,11 @@ bailė
 baiminti
 baimintis
 baimė
+baisenybė
 baisu
 baisus
+baisybė
+baisūnas
 baitas
 bajanas
 bakalauras
@@ -6924,6 +7875,7 @@ bala
 bala nematė
 baladė
 balalajka
+balamutinti
 balanda
 balandis
 balandėliai
@@ -6962,6 +7914,7 @@ balsavimas
 balse
 balsis
 balsių harmonija
+balsi̇̀nis
 balso
 balso stygos
 balsu
@@ -6970,6 +7923,12 @@ balsuose
 balsuoti
 balsuotojas
 balsus
+balsãdėžė
+balsãlapis
+balsãvimas
+balsúoti
+balsúotoja
+balsúotojas
 balsą
 balsų
 balta
@@ -6990,6 +7949,7 @@ baltarùsis
 baltas
 baltasis
 baltasis dobilas
+baltasis fosforas
 baltasis kopūstas
 baltasis lokys
 baltasis vynas
@@ -7060,6 +8020,7 @@ baltumas
 baltuoju
 baltuosiuose
 baltuosius
+baltymai
 baltymas
 baltàsis lokỹs
 baltąja
@@ -7115,10 +8076,15 @@ balčiausiąsias
 balčiausių
 balčiausiųjų
 balžuva
+bal̃sas
+bal̃sis
+bal̃sė
 bamba
+bambagyslė
 bambarų
 bambsoti
 bambukas
+bambãgyslė
 bamperis
 banalus
 bananas
@@ -7147,6 +8113,8 @@ banke
 banketas
 bankininkas
 banknotas
+banknoto
+banknotu
 banko
 bankomatas
 bankrotas
@@ -7157,6 +8125,8 @@ banku
 baptistas
 baptiste
 baptisto
+bapti̇̀stas
+bapti̇̀stė
 bapti̇̀zmas
 barai
 barakas
@@ -7171,6 +8141,7 @@ barbarizmas
 barbarizmus
 barbariškas
 barbariškumas
+barchanas
 bardas
 bardišius
 bardo
@@ -7241,6 +8212,8 @@ bausti
 bavãriškasis akménslydis
 bazaltas
 bazilika
+bazilikas
+baziliskas
 bañdymas
 baškiras
 baškirų
@@ -7254,21 +8227,32 @@ bažnýčia
 bbd
 bdv.
 be
+be abejo
 be abejonės
+be abejõnės
+be paliovos
 be to
 be-
+beabejótinai
+beasmẽnis sakinỹs
+beasmẽnis veiksmãžodis
 bebaimis
 bebaimiškùmas
 bebaimỹstė
 bebai̇̃miškas
 bebalsis
+bebarzdis
 bebras
 bebrus
 bec de corbin
 bedantis
 bedarbis
+bedarbiáuti
 bedarbystė
 bedarbė
+bedar̃bis
+bedar̃bė
+bedañtis
 bedievis
 bedieviška
 bedieviškai
@@ -7409,10 +8393,12 @@ bedieviškąjį
 bedieviškąsias
 bedieviškų
 bedieviškųjų
+bedrõvis
 bedugnis
 bedugnė
 bedvasis
 bedùgnis
+bedùgnė
 bedūmis
 bedžiaugsmis
 beformis
@@ -7440,6 +8426,7 @@ bekonas
 bekraujis
 belaikis
 belaisvis
+belen kas
 belgas
 belgiškas
 belgė
@@ -7460,12 +8447,14 @@ bendraklasis
 bendraklasė
 bendralaikis
 bendraminčius
+bendramokslis
 bendrapilietis
 bendrapiliẽtis
 bendrapiliẽtė
 bendras
 bendrasis nacionalinis produktas
 bendrasis reliatyvumas
+bendrasis talonas
 bendrasis vidaus produktas
 bendratis
 bendraturtis
@@ -7539,6 +8528,8 @@ benzinas
 bepilotis orlaivis
 beprasmybė
 beprotis
+beprotiškai
+beprotiškas
 beprotnamis
 beprotybė
 beragis
@@ -7593,6 +8584,7 @@ betikslis
 betonas
 bevaikis
 bevaikystė
+bevai̇̃kis
 bevandenis
 bevardis
 bevardė giminė
@@ -7606,26 +8598,36 @@ beviltis
 beviltiškas
 beviltiškumas
 bevėjis
+bevė̃jis
 beydis
 beydiškùmas
 bezdalas
 bezdėti
+beýdiškas
+beširdis
+beširdiškas
 beždžionė
 beždžiõnė
 bežvaigždis
 bežvai̇̃gždis
 beỹdis
 biatlonas
+biblinis
 biblioteka
 bibliotekininkas
 bibliotekininkė
 bibliotekininkỹstė
+biblistika
+bibliškas
+bibli̇̀stas
+bibli̇̀stė
 bidė
 bifobija
 bifštekas
 bigas
 bijojimas
 bijoti
+bijotis
 bijūnas
 bijūnelis
 bikinis
@@ -7635,7 +8637,11 @@ bilietas
 bilingvi̇̀zmas
 binoklis
 bintas
+bintúoti
 biochemija
+biodyzelinas
+biodyzeli̇̀nas
+biodyzeli̇̀nis
 biofizika
 biogeografija
 biografija
@@ -7652,7 +8658,6 @@ birželis
 biržietis
 biržė
 bisas
-biseksualumas
 biskvitas
 biskį
 bismutas
@@ -7674,6 +8679,7 @@ biudžetas
 biudžetinis
 biulbiulis
 biuras
+biuro reikmenys
 biurokratas
 biurokratija
 biustas
@@ -7687,6 +8693,10 @@ bičiulė
 bičiulỹstė
 bičių duona
 bičių pienelis
+bi̇̀blininkas
+bi̇̀blininkė
+bi̇̀blinis
+bi̇̀blistika
 bi̇̀ginti
 bi̇̀gis
 bi̇̀gė
@@ -7696,6 +8706,7 @@ bi̇̀tinas
 bi̇̀tininkas
 bi̇̀tininkė
 bi̇̀tė
+bi̇́esas
 bjaurastis
 bjaurimas
 bjauri̇̀ngas
@@ -7710,9 +8721,12 @@ bjaũris
 bjáuras
 bjáurti
 blaivas
+blaivus
+blaivùs
 blakstiena
 blandas
 blandus
+blausùs
 blauzda
 blauzdikaulis
 blefas
@@ -8009,8 +9023,13 @@ braidýti
 braižas
 braižyti
 braižytojas
-brakonidai
 brakonierius
+brakonieriáuti
+brakonieriãvimas
+branda
+brandingas
+brandinti
+brandis
 brandumas
 branduolinis
 branduolinis ginklas
@@ -8021,6 +9040,7 @@ branduolinė fizika
 branduolys
 branduolėlis
 brandus
+brandõs atestãtas
 brangakmenis
 brangenybė
 brangiai
@@ -8052,7 +9072,10 @@ breketai
 brenda
 brendi
 brendis
+brendėti
 bretonų
+bretònas
+bretònė
 brezentas
 briauna
 bridai
@@ -8134,9 +9157,12 @@ brãškinis
 brãškė
 brólis
 bróliškas
+brólvaikis
 brólžudiškas
 brùknė
 brėkšti
+brėžti
+brė́kšti
 bręsti
 brūkšniai
 brūkšninis kodas
@@ -8229,6 +9255,7 @@ bulgarė
 bulgarų
 bulgunjachas
 bulimija
+bulius
 buljonas
 bulmastifas
 bulvių traškutis
@@ -8238,7 +9265,17 @@ bumerangas
 buomas
 buožgalvis
 buožė
+burba
+burbeklis
+burblys
+burbt
+burbtelėti
+burbti
 burbulas
+burbulis
+burbuliuoti
+burbuolė
+burbėti
 buritas
 burna
 burnakojis
@@ -8257,12 +9294,15 @@ bur̃bulas
 bus
 bus lietaus?
 busti
+but see JAV
 butas
 butelis
 buterbrodas
 butikas
+butukas
 buvai
 buvau
+buveinė
 buvimas
 buvintis
 buvo
@@ -8320,6 +9360,7 @@ bučiavo
 bučiavome
 bučiavote
 bučiavęs
+bučinukas
 bučinys
 bučiuodavai
 bučiuodavau
@@ -8445,7 +9486,9 @@ bučiuotų
 bučiuočiau
 bučkis
 bušlatas
+bybgraužys
 bybi
+bybiagalvis
 bybiai
 bybiais
 bybiams
@@ -8461,16 +9504,20 @@ bybių
 byby
 bybyje
 bybys
+bybčiulpys
+bybčiulpỹs
 bybį
 bybį dėjau
 bybį nachui gali čiulpt
 bybỹs
 byla
+bámba
 báudyti
 bãdmintonas
 bãdmintonininkas
 bãdmintonininkė
 bãdo strei̇̃kas
+bãras
 bãtas
 bãtinė
 bãtraištis
@@ -8781,15 +9828,19 @@ būdiniui
 būdiniuose
 būdinius
 būdinių
+būdinti
 būdiny
 būdinyje
 būdinys
 būdinį
 būdinỹs
+būdi̇̀ngas
 būdvardi
 būdvardinis
 būdvardis
+būdvardi̇̀nis
 būdvardyje
+būdvardė́ti
 būdvardį
 būdvardžiai
 būdvardžiais
@@ -8800,6 +9851,7 @@ būdvardžiui
 būdvardžiuose
 būdvardžius
 būdvardžių
+būgnai
 būgnas
 būgnelis
 būgštauti
@@ -8810,6 +9862,7 @@ būkite
 būklė
 būras
 būrys
+būrį
 būrų kalba
 būsena
 būsenos kitimas
@@ -8866,6 +9919,8 @@ būsite
 būsiu
 būsią
 būsiąs
+būstas
+būstinė
 būtas
 būtasis dažninis laikas
 būtasis kartinis laikas
@@ -8876,6 +9931,7 @@ būti
 būti neteisiam
 būtinai
 būtinas
+būtinis
 būtis
 būtojo laiko dalyvis
 būtum
@@ -8885,8 +9941,8 @@ būtybė
 būtų
 būčiau
 bū̃das
+bū̃dvardiškas
 bỹbis
-c
 caras
 carienė
 carystė
@@ -8899,9 +9955,9 @@ cemente
 cemento
 cementu
 centas
-centigramas
 centilitras
 centimetras
+centimètras
 centrai
 centrais
 centralizmas
@@ -8932,6 +9988,7 @@ ceris
 cerkvė
 cezario pjūvis
 cezis
+ceñtras
 cha cha cha
 chalatas
 chalbasyti
@@ -8941,6 +9998,9 @@ chamas
 chameleonas
 chanas
 chandžaras
+chanukija
+chanukiją
+chanùkija
 chaos
 chaosas
 chaotiškai
@@ -8956,6 +10016,7 @@ chemikas
 cheminis
 cheminis ginklas
 cheminis ryšys
+cheresas
 cherubinas
 chirurgas
 chirurgija
@@ -8978,7 +10039,9 @@ chronologiškas
 chronometras
 chujarinti
 chuliganas
+chunta
 chèminė enèrgija
+chèresas
 ciesorius
 cigaras
 cigaretė
@@ -9011,6 +10074,7 @@ civeta
 civiline teise
 civilinis
 civilinis kodeksas
+civilinė gynyba
 civilinės atsakomybės draudimas
 civilis
 civilisė
@@ -9020,15 +10084,16 @@ colis
 commiato
 cukierka
 cukinija
+cukrai̇̃nė
 cukraus vata
 cukrinis diabetas
 cukrus
+cunami
 cunamis
 cyplė
 czy
 cólinis
 c̆aroitas
-d
 d.
 d10
 d12
@@ -9070,13 +10135,16 @@ daiktavardžiuose
 daiktavardžius
 daiktavardžių
 daikte
+daikti̇̀nis
 daikto
 daiktu
 daiktui
 daiktuose
 daiktus
 daiktãvardis
+daiktãvardiškas
 daiktą
+daiktė́ti
 daiktų
 dailidė
 dailininkas
@@ -9088,6 +10156,7 @@ daina
 dainavai
 dainavau
 dainavedỹs
+dainavimas
 dainavo
 dainavome
 dainavote
@@ -9200,6 +10269,8 @@ daktaras
 daktarė
 dalaukti
 dalba
+dalbajobai
+dalbajobas
 dalelių fizika
 dalelių greitintuvas
 dalelytė
@@ -9214,8 +10285,10 @@ dalinis
 dalinti
 dalinti pusiau
 dalinys
+dalinỹs
 dalis
 dali̇̀nti
+dali̇̀s
 dalmatinas
 daltonizmas
 dalyba
@@ -9241,6 +10314,8 @@ dalyvyje
 dalyvė
 dalyvį
 dalýba
+dalýti
+dal̃gis
 dalẽlė
 dalỹvis
 dama
@@ -9315,6 +10390,12 @@ daniškų
 daniškųjų
 dantenos
 dantis
+dantistas
+danti̇̀nis
+danti̇̀s
+danti̇̀stas
+danti̇̀stė
+dantùkas
 dantų gydytojas
 dantų pasta
 dantų šepetukas
@@ -9342,8 +10423,11 @@ darbdavė
 darbingas
 darbininkas
 darbininkė
+darbo
+darbo diena
 darbo jėga
 darbo pasidalinimas
+darbo rinka
 darbo stotis
 darbo sutartis
 darbo teisė
@@ -9438,13 +10522,14 @@ dasiųsti
 daskersti
 dasėti
 data
-dati̇̀rtiišdati̇̀rti
+dati̇̀rti
 datulė
 datuoti
 daturėti
 dauba
 daug
 daugelis
+daugiaamžis
 daugiakalbystė
 daugiakalbỹstė
 daugiakampis
@@ -9454,6 +10539,8 @@ daugiausiai
 daugiažodis
 dauginimasis
 daugiskaita
+daugi̇̀nis skai̇̃tvardis
+daugi̇̀skaita
 daugkartinis erdvėlaivis
 daugpatystė
 daugtaškis
@@ -9463,6 +10550,7 @@ daugyba
 daugybė
 daugýba
 daugýbė
+daunas
 daužti
 daužyti
 davai
@@ -9538,7 +10626,7 @@ davėme
 davėte
 davę
 davęs
-days of the week: savaitės dienos: pirmadienis · antradienis · trečiadienis · ketvirtadienis · penktadienis · šeštadienis · sekmadienis [edit]
+dañtenos
 daėsti
 dažai
 dažalas
@@ -9567,9 +10655,8 @@ debesuotas
 debesėlis
 debiutas
 decibelas
-decigramas
 decilitras
-decimetras
+decimètras
 dedešva
 dedovščina
 defenestracija
@@ -9586,12 +10673,13 @@ deginti
 deglas
 degradacija
 degti
+degtindaris
 degtindarė
 degtinė
-degtinė fdegtindaris
 degtinės
 degtukas
 degtuvas
+degtùvas
 degu
 degumas
 deguonis
@@ -9614,21 +10702,23 @@ deimantą
 deimantų
 deivė
 deja
-dekagramas
 dekalitras
-dekametras
 deklaracija
 deklaruoti
 deklarãcija
 deklarãvimas
 deklinacija
 dekoltė
+dekomunizacija
 delbti
 delegacija
 delegatas
 delegatė
 delfinariumas
 delfinas
+delfi̇̀nas
+delfi̇̀nukas
+delfi̇̀nė
 delgti
 deliktų teisė
 delna
@@ -9647,11 +10737,13 @@ demokratas
 demokratija
 demokratinis
 demokratinis socializmas
+demokratinė
 demokratizacija
 demokratizuoti
 demokratiškas
 demokratė
 demonas
+demonimas
 demonstracija
 denacifikacija
 dendrariumas
@@ -9674,12 +10766,14 @@ deportuoti
 depresija
 deputatas
 deputinizacija
+deramas
 dergi̇̀mas
 dergti
 dergėti
 dergė́ja
 dergė́jas m
 derlingas
+derlius
 dermatologija
 derva
 dervingas
@@ -9687,6 +10781,7 @@ dervà
 derybos
 derėti
 derėtis
+der̃višas
 desantininkas
 desertas
 despotas
@@ -9708,6 +10803,7 @@ devinto
 devintokas
 devintokė
 devizas
+devyndienis
 devyneri
 devynerios
 devynetas
@@ -9723,6 +10819,7 @@ devynios
 devynios auklės, vaikas be galvos
 devynis kartus pamatuok – dešimtą kirpk
 devyniólika
+devýndienis
 dezertyras
 dezertyravimas
 dezinformacija
@@ -9734,19 +10831,25 @@ dešimtadalis
 dešimtas
 dešimtinė
 dešimtis
+dešimtkovė
 dešimtmetis
 dešimtokas
 dešimtokė
+dešim̃tkovininkas
+dešim̃tkovininkė
+dešim̃tkovė
 dešiniarankis
 dešinys
 dešinė
 dešra
+dešrainis
 dgs.
 diafragma
 diagnozė
 diagrama
 diakritinis ženklas
 dialektas
+dialektològija
 dialogas
 dialogo
 diametras
@@ -9763,6 +10866,7 @@ didvyriai
 didvyris
 didvyriškumas
 didvyrė
+didybė
 didybės manija
 didyn
 didysis
@@ -9781,6 +10885,11 @@ didžioji valstybė
 didžiulis
 didžiuotis
 didžióji fleità
+didžėjus
+didžėjáuti
+didžėjãvimas
+didžė̃jus
+didžė̃jė
 didỹsis kunigáikštis
 diegia
 diegti
@@ -9820,6 +10929,7 @@ dienų
 dievagotis
 dievaitis
 dievas
+dievas žino
 dievažytis
 dieverienė
 dieveris
@@ -9968,6 +11078,7 @@ dievobaimingas
 dievotas
 dievulis
 dievybė
+difenbachija
 difterija
 diftongas
 digitacija
@@ -9982,6 +11093,7 @@ dilbis
 dildė
 dilginti
 dilgus
+dilgėlinė
 dilgėlė
 dilgėti
 dilti
@@ -10011,7 +11123,6 @@ dirbtinis
 dirbtinis intelektas
 dirbtinumas
 dirbtuvė
-direct speech
 direktorius
 direktorė
 dirginti
@@ -10063,6 +11174,7 @@ di̇̀skininkas
 di̇̀skininkė
 diẽmedis
 dkt.
+dll.
 dobermanas
 dobilas
 dobiliena
@@ -10098,10 +11210,25 @@ dokumentas
 dokumentinis
 dokumentinis kinas
 doleris
+domautis
+domina
+dominai
+dominant
+dominantis
+dominate
+domini
+dominikonas
+dominikõnas
+dominikõnė
+domino
+dominote
 dominti
+dominu
+dominus
 domėjimasis
 domėtis
 dopaminas
+doras
 dorovingumas
 dorybė
 dovana
@@ -10154,6 +11281,7 @@ drausminis
 drausminti
 drausmė
 drausti
+draũgė
 drebučiai
 drebėti
 drebė́jimas
@@ -10173,12 +11301,25 @@ dri̇̀skius
 dri̇̀skė
 dri̇́ežas
 drobė
+dronas
+droni̇̀stas
+droni̇̀stė
+dronu
+dronus
+drovus
+drovà
+drovùmas
+drovė́tis
+dročinti
+dročintuvas
+dročylka
 drožlė
 drožti
 drugelio efektas
 drugelis
 drugys
 drugẽlis
+drumstas
 drumzlės
 drum̃zlės
 druska
@@ -10200,10 +11341,14 @@ dryžuotasis šakalas
 dryžúotas
 drýžas
 drąsa
+drąsmė̃
 drąsus
+drąsuõlis
 drąsà
+drą́sinti
 drėbti
 drėbtis
+drėbūnas
 drėgmė
 drėgmėmatis
 drėgmėrodis
@@ -10212,8 +11357,10 @@ drėgnasis miškas
 drėgnis
 drėgnumas
 drėkiklis
+drėkinimas
 drė́gnas
 drįsti
+drį̇̃sti
 drūtas
 du
 du alus, prašau
@@ -10236,12 +11383,15 @@ dujos
 dukart
 dukra
 dukraitė
+dukrà
 dukterinė įmonė
+dukterėčia
 duktė
 dulis
 dulkintis
 dulkių siurblys
 dulksna
+dulkė
 dulkės
 dumblas
 dumbliai
@@ -10372,6 +11522,7 @@ duonai
 duonas
 duonoje
 duonos
+duonos ir žaidimų
 duoną
 duos
 duosi
@@ -10439,6 +11590,7 @@ dupinas
 dupinuoti
 dupinúoti
 durijus
+durininkas
 duris
 durklas
 durklažuvė
@@ -10448,11 +11600,14 @@ durnas
 durnius
 durti
 durti kaip pirštu į akį
+durti̇̀nis
 durtuvas
+durtỹnės
 durys
 durys į rūsį
 durų giesmė
 duslintuvas
+dusyk
 dučė
 dušas
 dušo želė
@@ -10491,13 +11646,18 @@ dviratininkė
 dviratis
 dviratis treniruoklis
 dvirati̇̀nis
+dviračiu
 dviračių sportas
 dviskaita
 dviskilčiai
 dvitaškis
 dvišakuma
+dvi̇̀gubas kapuči̇̀nas
 dvi̇̀raidis
+dvi̇̀ratininkas
+dvi̇̀ratininkė
 dvi̇̀ratis
+dvi̇̀račiai
 dvokas
 dvokimas
 dvokla
@@ -10518,7 +11678,9 @@ dygliatriušis
 dygliuotoji jūrų žvaigždė
 dyglys
 dygti
+dykaraginiai
 dykas
+dykra
 dykuma
 dykumas
 dykynė
@@ -10527,7 +11689,14 @@ dyri̇̀kas m
 dyri̇̀kė
 dyri̇̀mas
 dyrėti
+dyzelinas
 dyzelinis
+dyzelis
+dyzeli̇̀nas
+dyzeli̇̀nis
+dyzeli̇̀nis vari̇̀klis
+dzin
+dzin-dzi-lin
 dzindziliatorius
 dzingsėti
 dziudistas
@@ -10538,21 +11707,30 @@ dziudò
 dziundzia
 dzūkas
 dzūkė
+dáiktais
+dáiktas
+dáiktiškas
 dáilinti
 dárbas
 dãžninis žodýnas
+dègti
 dèmonas
 dìrginimas
 dóbstis
 dù
 dùmplės
+dùrti
 dúoba
 dúobas
 dúoklė
 dýroti
+dýzelininkas
+dýzelininkė
+dýzelis
 dėbti
 dėdė
 dėdė Semas
+dėjau
 dėji̇̀mas
 dėkingas
 dėkingumas
@@ -10587,9 +11765,10 @@ dėstytojas
 dėti
 dėtis
 dėžutė
-dėžùtė
 dėžė
+dė́ti
 dė̃dė
+dūchas
 dūdmaišis
 dūkinti
 dūki̇̀nimas
@@ -10599,11 +11778,14 @@ dūmas
 dūminė granata
 dūminė raudonuodegė
 dūmi̇̀mas
+dūmtraukis
 dūmų daviklis
 dūmų uždanga
 dūpa
 dūžis
 dūžtamas
+dū́mtakis
+dū́mtraukis
 džemas
 džemperis
 džiaugsmas
@@ -10613,13 +11795,12 @@ džiaugsmingiau
 džiaugsmingiausiai
 džiaugtis
 džiazas
-džiazininkas
-džiazinis
-džiazistas
-džiaziškas
-džiazmenas
-džiazuoti
+džiazmènas
+džiazmènė
+džiazròkas
+džiazúoti
 džiga
+džigitas
 džihadas
 džihãdas
 džinas
@@ -10628,9 +11809,13 @@ džiova
 džiovinti
 džiunglės
 džiutas
+džiãzininkas
+džiãzininkė
+džiãzinis
 džiūti
+džiūvėsis
+džiūvėsėlis
 džèmas
-e
 echidna
 echolalija
 egiptietis
@@ -10653,6 +11838,7 @@ egzistencializmas
 egzistencija
 egzistuoti
 egzobiologija
+egzoplaneta
 egzorcizmas
 egzosfera
 egzoskeletas
@@ -10668,6 +11854,7 @@ eidavome
 eidavote
 eidavus
 eidavęs
+eidukas
 eiga
 eik
 eik nachui
@@ -10993,6 +12180,7 @@ eldija
 elektra
 elektrinis
 elektrinis laukas
+elektrinis skustuvas
 elektrinė
 elektrodas
 elektroferezė
@@ -11028,12 +12216,20 @@ elgesys
 elgesỹs
 elgeta
 elgtis
+eliksyras
 elis
 elitas
+elnenà
 elniaragis
 elnias
 elniena
+elnininkas
+elnininkystė
+elnininkỹstė
 elniukiniai
+elniùkas
+elni̇̀nis
+elni̇́ena
 elnė
 elèktrinis
 elèktros enèrgija
@@ -11123,6 +12319,7 @@ erelyje
 erelį
 eretikas
 erezija
+eritroci̇̀tas
 eritromicinas
 eritropoezė
 eritrėjietis
@@ -11328,9 +12525,12 @@ erotiškųjų
 erotomanija
 ertas
 erzinti
+erzintinas
+erzintis
 eròtinis
 eròtiškas
 erčia
+erškė̃tuogė
 eržilas
 esamas
 esamasis laikas
@@ -11393,6 +12593,7 @@ esperántininkas
 esperántininkė
 esperánto
 espresas
+esprèsas
 estafetinis
 estafetė
 estafètė
@@ -11448,6 +12649,7 @@ esu
 esu ištekėjusi
 esu vedęs
 esybė
+esą
 esąs
 esė
 eta
@@ -11480,6 +12682,7 @@ eunuchas
 eunùchas
 euras
 euristika
+euro
 eurocentas
 eurocentrizmas
 europietis
@@ -11493,6 +12696,9 @@ europiẽtė
 eurovizija
 eurovizininkas
 eurovizinis
+euru
+eurus
+euròpinis omãras
 evakuacija
 evakuoti
 evangelija
@@ -11502,6 +12708,7 @@ evangelizavimas
 evangeli̇̀škas
 evangèlija
 evangèlikas
+evangèlikė
 evoliucija
 evoliucinis
 evoliucinė biologija
@@ -11509,6 +12716,7 @@ ezoterika
 ezoterinis
 eš
 ešerys
+eũro zonà
 ež.
 ežerai
 ežerais
@@ -11533,12 +12741,14 @@ ežerėlis
 ežerė̃lis
 ežerų
 ežerų kraštas
+ežgalis
 ežia
+ežinis
 ežys
-f
 f.
 fabrikas
 facebookinti
+fagoci̇̀tas
 fagotas
 failas
 faks.
@@ -11550,17 +12760,26 @@ falafeliai
 falafelias
 faleristika
 falčionas
+falšuoti
 fanas
 fanatikas
 fanatizmas
 fanatiškas
 fandomas
 fanera
+faniera
+fantastika
 fantastinis
+fantazija
+fantazuoti
 fantomas
 faraonas
 farerų
 farerų kalba
+fariziejiškùmas
+fariziejus
+fariziẽjiškas
+fariziẽjus
 farmacija
 farmakologija
 farsas
@@ -11568,7 +12787,11 @@ fartlekas
 faršas (semi-finished)
 fasadas
 fazanas
+fazano
+fazanynas
+fazanýnas
 fazinis greitis
+fazãnas
 fazė
 fašina
 fašistas
@@ -11580,6 +12803,7 @@ fechtuotojas
 federacija
 federalinė vyriausybė
 feisbukas
+fejerverkai
 fejerverkas
 felacija
 feldšpatas
@@ -11607,8 +12831,6 @@ fikusas
 filantropas
 filialas
 filigranas
-filipinietis
-filipinietė
 filmas
 filmavimas
 filmuoti
@@ -11629,6 +12851,8 @@ finansuoti
 finansãvimas
 finansúotojas
 finansų rinka
+finãlas
+finãlinis
 firma
 fistingas
 fistulė
@@ -11672,6 +12896,7 @@ forma
 formai
 formaldehidas
 formaliai
+formalioji kalba
 formalumas
 formalus
 formalybė
@@ -11697,8 +12922,10 @@ fosforo rūgštis
 fotelis
 fotkė
 fotkę
+fotoalbumas
 fotoaparatas
 fotobiologija
+fotoefektas
 fotografai
 fotografais
 fotografas
@@ -11709,10 +12936,15 @@ fotografo
 fotografu
 fotografus
 fotografė
+fotojúosta
+fotoplokštẽlė
+fotopopierius
+fotopõpierius
 fotosintezė
 frakcija
 francis
 frankas
+frapė
 frazė
 fregata
 frenologija
@@ -11721,6 +12953,7 @@ frizas
 frontas
 fruktidoras
 fruktozė
+frãpė
 frãzė
 fu
 fuga
@@ -11736,12 +12969,12 @@ funkcija
 furgonas
 futbolas
 futbolininkas
+futbolu
 fuziliai
 fùtbolas
 fùtbolininkas
 fùtbolininkė
 fėja
-g
 g.
 gabalas
 gabaliùkas
@@ -11749,13 +12982,12 @@ gabalė̃lis
 gabana
 gabenti
 gabija
-gabonietis
-gabonietė
 gabus
 gadinti
 gadinti orą
 gadolinis
 gaida
+gaidintis
 gaidrus
 gaidrùs
 gaidukas
@@ -11765,6 +12997,7 @@ gaigalas
 gailestingas
 gailus
 gailėti
+gainioti
 gainiotis
 gairė
 gaisas
@@ -11798,9 +13031,11 @@ galabyti
 galaktika
 galas
 galbūt
+gale
 galerija
 gali
 galia
+galiausiai
 galimas
 galime
 galimybė
@@ -11809,6 +13044,7 @@ galininkas
 galininkinis
 galininkinis veiksmažodis
 galinis
+galiniñkinis veiksmãžodis
 galint
 galinti
 galintieji
@@ -11858,6 +13094,7 @@ galis
 galite
 galiu
 galiùkas
+gali̇̀nis
 gali̇̀nti
 galopas
 galsas
@@ -11934,6 +13171,8 @@ galėčiau
 galį
 galįs
 galūnė
+galų
+galų gale
 gamalas
 gambietis
 gambietė
@@ -11982,6 +13221,7 @@ garas
 garažas
 garbingas
 garbinti
+garbus
 garbė
 gardas
 gardinti
@@ -12025,7 +13265,9 @@ gatvėse
 gatvę
 gaublys
 gaubtas
+gaubti
 gaubtinė žarna
+gaudai?
 gaudama
 gaudamas
 gaudami
@@ -12112,6 +13354,7 @@ gebėjimas
 gebėti
 gedimas
 gedinėti
+gedo
 gedulas
 gedėti
 gedė́jimas
@@ -12144,9 +13387,9 @@ geležinė uždanga
 geležis
 geležtė
 gelis
-gelsva
 gelsvai ruda
 gelsvas
+gelta
 geltas
 gelti
 geltona
@@ -12157,8 +13400,10 @@ geltonoji starta
 geltonsnapis naras
 geluonis
 geluoniuotas
+gelzganas
 gemzė
 genas
+genda
 genealogija
 generacija
 generalinis
@@ -12170,6 +13415,7 @@ generõlas leitenántas
 generõlas majõras
 generõlas pul̃kininkas
 genetika
+genijus
 genitalijos
 genocidas
 genomas
@@ -12193,6 +13439,7 @@ gerai
 gerai matomas
 gerai žinomas
 geras
+gerasis samarietis
 gerb.
 gerbiamas
 gerbimas
@@ -12212,6 +13459,7 @@ gerdavęs
 geri
 geria
 geriamas
+geriamasis vanduo
 geriame
 geriant
 geriantis
@@ -12255,22 +13503,40 @@ gertuvė
 gertų
 gerumas
 gerutis
+gervinas
+gerviùkas
 gervuogiáuti
 gervuogiãvimas
 gervuogýnas
 gervuogė
 gervė
+gervẽlė
 gerybinis
 geryn
 gerčiau
 geršė
+ger̃vinas
 gesinti
 gesintuvas
+gesi̇̀klis
 gesi̇̀mas
+gesi̇̀nti
+gesi̇́ntoja
+gesi̇́ntojas
+geso
+gestakalbis
+gestakal̃bis
+gestakal̃bė
+gestapas
+gestapininkas
 gestas
 gesti
+gestãpas
+gestãpininkas
+gestãpininkė
 gestų kalba
 gesyti
+gesỹklė
 getai
 getais
 getams
@@ -12429,6 +13695,7 @@ gilumas
 gilus
 gilusis
 gilė
+gilės
 gilūs
 gilų
 gilųjį
@@ -12441,6 +13708,7 @@ gimimas
 giminaitis
 giminaitis m
 giminaitė
+giminingas
 giminė
 giminės medis
 gimnastas
@@ -12464,9 +13732,11 @@ ginimas
 ginklakalys
 ginklakalė̃
 ginklakalỹs
+ginklanešys
 ginklanešỹs
 ginklas
 ginklavimosi varžybos
+ginkluoti
 ginkluotosios pajėgos
 ginkluõtė
 ginklúotas
@@ -12500,6 +13770,9 @@ giružė
 gitara
 gitaristas
 gitaristė
+gitari̇̀stas
+gitari̇̀stė
+gitarà
 giñklas
 giñklininkas
 giñklininkė
@@ -12531,6 +13804,7 @@ glinda
 gliukozė
 globa
 globalizacija
+globoti
 globėja
 globėjas
 glostyti
@@ -12591,6 +13865,9 @@ gnostiškąsias
 gnostiškų
 gnostiškųjų
 gnu
+gnòstikas
+gnòstikė
+gnòstinis
 go
 gobimas
 gobimasis
@@ -12609,6 +13886,7 @@ gobšus
 gojus
 golemas
 golfas
+golfininkas
 gomurys
 gondola
 gondolininkas
@@ -12683,9 +13961,11 @@ grai̇̃kų
 gramas
 gramatika
 gramatikas
+gramatiko
 gramatikė
 grambuolys
 gramofonas
+gramãtika
 granata
 granatas
 granatsvaidis
@@ -12696,6 +13976,7 @@ granitas
 granãtsvaidininkas
 granãtsvaidis
 grappa
+grauduli̇̀nė žvãkė
 graudus
 graužikas
 gravitacija
@@ -12811,6 +14092,7 @@ gražų
 gražųjį
 gredzenpīle
 greipfrutas
+greit
 greita
 greitai
 greitais
@@ -12879,8 +14161,10 @@ grietini̇̀nė
 grietinė
 grietinėlė
 grietinė̃lė
+griežinti
 griežlė
 griežtas
+griežti
 grifas
 grifonas
 grigaliaus kalendorius
@@ -12905,13 +14189,19 @@ griuvenos
 griuvėsiai
 grivina
 griūti
+grobimas
 grobstymas
 grobti
 grobuonis
+groja
 grojaraštis
 grojimas
 groji̇̀mas
+grojo
+grok
+gros
 groti
+grotum
 grotuvas
 grožinė literatūra
 grožis
@@ -12955,15 +14245,16 @@ grynieji pinigai
 grynoji būsena
 gráužas
 grãfinis dizáinas
+grãmas
 gróti
 grùpinis sèksas
 grúodas
 grąža
 grąžinimas
 grąžinti
-grąžintisugrąžinti
 grąži̇̀nti
 grąžtas
+grēksūdze
 grėblys
 grėbti
 gręžti
@@ -12976,6 +14267,7 @@ grūdas
 grūdėta varškė
 grūsti
 grūtis
+grẽtinamoji kalbótyra
 grỹbas
 grỹbinis
 grỹbšis
@@ -12990,10 +14282,12 @@ gudragalvė
 gudri
 gudriai
 gudrinti
+gudročius
 gudrumas
 gudruolis m
 gudruolė
 gudrus
+gudrutis
 gudrybė
 gudrėti
 gudė
@@ -13005,8 +14299,10 @@ gulbe
 gulbei
 gulbes
 gulbi
+gulbinas
 gulbis
 gulbiukas
+gulbiùkas
 gulbių
 gulbė
 gulbė giesmininkė
@@ -13017,6 +14313,7 @@ gulbėms
 gulbės
 gulbėse
 gulbę
+gulbẽlė
 guldyti
 gulekšnis
 guliašas
@@ -13032,6 +14329,7 @@ gultis
 gulykla
 gulėjimas
 gulėti
+gul̃bė
 guma
 gumbas
 gumiarabikas
@@ -13093,6 +14391,7 @@ gyvates
 gyvatgalvis
 gyvatinis
 gyvatiškas
+gyvatnešis
 gyvatukas
 gyvatuodegis
 gyvatvorė
@@ -13128,6 +14427,7 @@ gyvybinis
 gyvybė
 gyvãtė
 gyvénti
+gyvýbė
 gyvūnai
 gyvūnais
 gyvūnams
@@ -13143,15 +14443,23 @@ gyvūną
 gyvūnų
 gáirinti
 gãras
+gèstas
 gèsti
+gèstų kalbà
 gélbėtojas
 gélti
+gérvuogė
 gérvė
+gòlfas
+gòlfininkas
+gòlfininkė
 gùrti
+gąsdinti
 gąsti
 gą̃sti
 gė
 gėda
+gėdinti
 gėdintis
 gėdos stulpas
 gėdytis
@@ -13193,7 +14501,6 @@ gūglintojas
 gūžduobė
 gūžta
 gūžys
-h
 ha
 habilitacija
 hadžas
@@ -13451,12 +14758,11 @@ hašišas
 hegemonija
 hekatomba
 hektaras
-hektogramas
 hektolitras
-hektometras
 helikopteris
 heliocentrinis
 heliocentrizmas
+heliotropas
 helis
 hematitas
 hematologija
@@ -13486,7 +14792,6 @@ heroizmas
 herojus
 heterocentrizmas
 heteroseksizmas
-heteroseksualumas
 hiacintas
 hiatas
 hidratas
@@ -13508,6 +14813,10 @@ higiena
 himalajinis lokys
 himnas
 hindi
+hinduistas
+hindui̇̀stas
+hindui̇̀stė
+hindui̇̀zmas
 hiperinfliacija
 hipernova
 hiperoreksija
@@ -13524,6 +14833,7 @@ hipopotamas
 hipotezė
 hipė
 hitas
+hi̇̀ndi
 hmongai
 hoacinas
 hobis
@@ -13605,6 +14915,7 @@ ikoną
 ikonų
 ikrai
 ilga
+ilgai
 ilgakojis bėgikas
 ilgakulnis
 ilgalaikis
@@ -13613,9 +14924,20 @@ ilgalūpis lokỹs
 ilgametis
 ilgas
 ilgesys
+ilginti
 ilgis
+ilgo
+ilgs
+ilgstelės
+ilgstinis
+ilgstintis
+ilgti
 ilguma
 ilgumas
+ilgus
+ilgėjimas
+ilgėjimasis
+ilgėti
 ilgėtis
 iliustracija
 iliuzija
@@ -13629,6 +14951,7 @@ iliuzijose
 iliuziją
 iliuzijų
 iliùzinis
+ilk
 ilmenitas
 ilsėkis ramybėje
 ilsėti
@@ -13636,11 +14959,22 @@ ilsėtis
 ilsėtis ant laurų
 ilsė́ti
 ilsė́tis
+il̃sti
+ima
 imamas
+imame
+imant
+imantis
+imate
+imbecilas
 imbieras
 imbierinis
+imi
 imigracija
 imigrantas
+imliai
+imlumas
+imlus
 imperatorienė
 imperatorius
 imperatorė
@@ -13654,10 +14988,11 @@ importas
 importuotojas
 importúoti
 impotencija
+ims
 imti
+imtynės
+imu
 imãmas
-in three days
-in two days
 in-
 indaplovė
 indas
@@ -13798,9 +15133,11 @@ irbis
 irgi
 iridi
 iridis
+irigacija
 irklas
 ironija
 irti
+irzti
 irštva
 islamas
 islamizmas
@@ -13973,16 +15310,19 @@ izrael̃ietis
 izrael̃ietė
 iš
 iš bėdos
+iš karto
 iš kur tu esi?
 iš papratimo
+iš pradžių
 iš vienos pusės
 iš-
 iš-balnoti
 iš-brukti
 iš-joti
-iš-minti
+iš-kalti
 iš-si-kalti
 iš-si-varyti
+iš-varyti
 išagrastáuti
 išange
 išangei
@@ -14004,7 +15344,7 @@ išačiuoti
 išbadėjusi
 išbadėjęs
 išbaigimas
-išbaigtiišsibaigti
+išbaigti
 išbandyti
 išbarti
 išberti
@@ -14012,6 +15352,7 @@ išbrinkti
 išbristi
 išbrukniáuti
 išbrę́sti
+išburbėti
 išburti
 išbučiavai
 išbučiavau
@@ -14147,6 +15488,7 @@ išdaigų
 išdaigųjį
 išdarinėti
 išdaryti
+išdati̇̀rti
 išdavikas
 išdavikė
 išdavimas
@@ -14235,14 +15577,15 @@ išduoti
 išduotinas
 išdyrėti
 išdùrti
+išdúoti
 išdėstymas
+išdėti į šuns dienas
 išdžiūti
 išeiti
 išeitinis kodas
-išeitipaišeiti
 išgalvoti
-išgalėjimasišsigalėjimas
-išgalėtiišsigalėti
+išgalėjimas
+išgalėti
 išgama
 išganyti
 išgaubtas
@@ -14252,20 +15595,24 @@ išgelbėjimas
 išgelbėti
 išgerti
 išgesti
+išgimti
 išginti
 išgirdi̇̀mas
 išgirgždėti
 išgirsti
-išgražintiišsigražinti
+išgražinti
 išgrybáuti
 išgrįsti
 išgulti
 išgydyti
+išgyventi
+išgąsdinti
 išgą̃sti
 išgėrimas
 išgūglinti
 išieškoti
 išilgi̇̀nė fleità
+išilgti
 išimtis
 išjudinti
 išjudėti
@@ -14406,6 +15753,7 @@ iškalbūs
 iškalbų
 iškalbųjį
 iškaltinti
+iškart
 iškasti
 iškastinis kuras
 iškeisti
@@ -14507,11 +15855,13 @@ iškepti
 iškilėlis
 iškirpti
 iškirptė
-iškirstiišsikirsti
+iškirsti
 išklausti
 išklausyti
 išklotinė
+iškomandirúoti
 iškraujúoti
+iškreipti
 iškrypėlis
 iškurti
 iškvieskite greitoją
@@ -14576,11 +15926,12 @@ išleisti
 išlepti
 išlepėlis
 išlepęs
-išlieti(reflexive) išsilieti
+išlieti
 išlikimas
 išlikti
 išlinkis
 išlyga
+išlyginti
 išmagnetinti
 išmalda
 išmanusis telefonas
@@ -14589,8 +15940,9 @@ išmanyti
 išmanùsis telefònas
 išmatos
 išmazgoti
-išmedžiotiišsimedžioti
+išmedžioti
 išmesti
+išminti
 išminties akmuo
 išmintingas
 išmintis
@@ -14623,7 +15975,6 @@ išmirsiąs
 išmirtas
 išmirte
 išmirti
-išmirtiišsimirtipaišmirti
 išmirtinai
 išmirtinas
 išmirtum
@@ -14646,10 +15997,12 @@ išmiršti
 išmirštu
 išmirštąs
 išmoka
+išmokimas
 išmoki̇̀mas
 išmokti
 išmokti mintinai
 išmokyti
+išmokėti
 išmušti
 išmylúoti
 išmylėti
@@ -14725,6 +16078,8 @@ išparduotumėme
 išparduotumėte
 išparduotų
 išparduočiau
+išpasakyti
+išpati̇̀rti
 išpažintis
 išpirka
 išpirkti
@@ -14733,6 +16088,7 @@ išpjaustyti
 išplakti
 išplauki̇̀mas
 išplauti
+išplauti smegenis
 išpopuliarėti
 išprapùlti
 išprasti
@@ -14746,6 +16102,7 @@ išpuikęs
 išpùlti
 išradimas
 išradinėti dviratį
+išradėjas
 išraiška
 išrankus
 išrasti
@@ -14756,37 +16113,55 @@ išregė́ti
 išreikšti
 išreiškimas
 išriedė́ti
+išrikti
 išrinkti
-išristi(reflexive) išsiristi
-išrėktiišsirėkti
+išristi
+išrėkti
 išrūgos
-išrūkytiišsirūkyti
+išrūkyti
 išsakyti
 išsapnuoti
+išsaugoti
 išsegiklis
 išsegti
 išseilėti
 išsiarti
+išsibaigti
+išsigalėjimas
+išsigalėti
+išsigimti
 išsigimėlis
 išsigimėliškas
 išsigimęs
+išsigražinti
 išsigūglinti
+išsiilgti
 išsiimti
 išsikaštuoti
+išsikirsti
 išsilaisvinti
 išsilaižyti
 išsilavinimas
+išsilieti
 išsilikti
+išsimedžioti
 išsimirti
+išsimokėti
 išsimušti
 išsinaudáuti
+išsiožinti
 išsiparduoti
 išsirašyti
+išsiregistravimas
 išsirengti
+išsiristi
+išsirėkti
+išsirūkyti
 išsisiūti
 išsistebėti
 išsisukti
 išsitatuiruoti
+išsitrenirúoti
 išsitylėti
 išsiuva
 išsiuvai
@@ -14822,6 +16197,7 @@ išsiveržimą
 išsiveržimų
 išsiveržti
 išsiveržė
+išsivesti
 išsišakojimas
 išsiūdama
 išsiūdamas
@@ -14849,7 +16225,6 @@ išsiūsiąs
 išsiūtas
 išsiūte
 išsiūti
-išsiūtiišsisiūti
 išsiūtinai
 išsiūtinas
 išsiūtum
@@ -14866,6 +16241,7 @@ išskersti
 išskirti
 išskirtis
 išskleisti
+išskyrus
 išskysti
 išslė̃pti
 išsmaukýti
@@ -15061,6 +16437,7 @@ ištatuiruotumėme
 ištatuiruotumėte
 ištatuiruotų
 ištatuiruočiau
+išteisinti
 išteklius
 ištekėjusi
 ištekėti
@@ -15068,6 +16445,7 @@ išties
 ištikimas
 ištikimybė
 ištikti
+ištiktùkas
 ištirpti
 ištisai
 ištisai̇̃
@@ -15125,7 +16503,6 @@ ištylėsiąs
 ištylėtas
 ištylėte
 ištylėti
-ištylėtiišsitylėti
 ištylėtinai
 ištylėtinas
 ištylėtum
@@ -15197,7 +16574,7 @@ išveikti
 išversti
 išverti̇̀mas
 išveržti
-išvesti(reflexive) išsivesti
+išvesti
 išvestinė
 išvietė
 išvilkti
@@ -15210,6 +16587,7 @@ išvykti
 išvèžti
 iščiulpti
 išėjimas
+išėji̇̀mas
 išėsti
 iššalti
 iššifravimas
@@ -15222,6 +16600,7 @@ išžaginimas
 išžaisti
 išžengti
 išžibė́ti
+išžioti
 išžiūrinti
 išžiūrintieji
 išžiūrintiems
@@ -15275,7 +16654,6 @@ i̇̀švakarės
 i̇́etininkas
 i̇́etininkė
 i̇́etis
-j
 ja
 jachta
 jaguaras
@@ -15343,14 +16721,12 @@ japoniškų
 japoniškųjų
 japonė
 japonų kalba
-japònas
-japòniškas
-japònė
-japònų
+japòninis
 jas
 jaspis
 jau
 jaudinti
+jaudrus
 jauja
 jaukinti
 jaukus
@@ -15368,16 +16744,32 @@ jaunuóliškai
 jaunuõliškas
 jaunystė
 jausmas
+jausmaženklis
 jausmingas
 jausminis
 jausminti
 jausti
 jaustis
 jaustukas
+jautaganys
+jautakaktis
+jautakis
+jautena
 jautiena
 jautienos befstrogenas
+jautinas
+jautinis
 jautinė varlė
+jautinėti
 jautis
+jautkarve
+jautsonis
+jautveda
+jaučiai
+jaučiaorė
+jaučiapilvis
+jaučiokas
+jaučius
 javai
 javai̇̃
 javas
@@ -15389,6 +16781,7 @@ jazminas
 jazmi̇̀nas
 jei
 jei ką
+jei nebūtum atidaręs lango!
 jeigu
 jemenietis
 jemenietė
@@ -15522,6 +16915,7 @@ judvi
 judviejų
 judviem
 judviese
+judãika
 judąs
 judėdama
 judėdamas
@@ -15565,6 +16959,8 @@ judėtumėme
 judėtumėte
 judėtų
 judėčiau
+judė́jas
+judė́jė
 juk
 jukatekų majų kalba
 jumis
@@ -15607,6 +17003,7 @@ juodadėmė menkė
 juodalksnis
 juodaplaukis
 juodas
+juodasai menas
 juodasis lokys
 juodasis pipiras
 juodasis raganosis
@@ -15637,6 +17034,7 @@ juoduoti
 juodvarnis
 juodymė
 juodàsis lokỹs
+juog
 juokas
 juokas geriausias vaistas
 juokauti
@@ -15671,6 +17069,7 @@ juosè
 juosėti
 jurei̇̃vis
 jurginas
+jurgi̇̀nas
 juridinis
 jurisdikcija
 juristas
@@ -15679,6 +17078,7 @@ jus
 justicija
 jutimas
 jutubas
+jutuberis
 juvelyras
 juvelyrika
 juvelyrinis
@@ -15694,7 +17094,6 @@ jái
 jám
 jámbas
 jáuja
-jáutiena
 jóms
 jõ
 jõdviem
@@ -15709,7 +17108,7 @@ jùms
 jùs
 júodas
 júodraštis
-júostisujuosti(reflexive) susijuosti
+júosti
 ją
 ją̃
 jėga
@@ -15769,7 +17168,6 @@ jų
 jųdviejų
 jų̃
 jų̃dviejų
-k
 k.
 kabalda
 kabantis tiltas
@@ -15779,7 +17177,12 @@ kabinetas
 kablelis
 kabliataškis
 kabliukas
+kabliãtaškis
+kabliùkas
+kabliúoti
 kablys
+kablẽlis
+kablỹs
 kaboti
 kabutės f pl [„◌“] or [«◌»]
 kabóti
@@ -15790,7 +17193,12 @@ kad prisivirei košės, tai ir srėbk
 kada
 kada ne kada
 kada nors
+kadagi̇̀nis
+kadagi̇̀nė
+kadaguogė
 kadagys
+kadagýnas
+kadagỹs
 kadai
 kadaise
 kadangi
@@ -15824,6 +17232,7 @@ kailiniuotas
 kailinukai
 kailinėliai
 kailis
+kailiuotas
 kailius
 kaimanai
 kaimanais
@@ -15839,6 +17248,7 @@ kaimaną
 kaimanų
 kaimas
 kaimavietė
+kaimelis
 kaimenė
 kaimietis
 kaimiškas
@@ -15856,17 +17266,20 @@ kaina
 kainuoti
 kaip
 kaip jūs tariate šitą žodį?
+kaip nuvykti iki oro uosto?
 kaip pasakyti … angliškai?
 kaip pasiklosi, taip išmiegosi
 kaip tariamas šis žodis?
 kaip tau sekasi?
 kaip tu tari šitą žodį?
+kaip vienas
 kairiarankis
 kairioji
 kairomonas
 kairė
 kairė̃
 kaisti
+kaitalioti
 kaitinti
 kaitmuo
 kaitra
@@ -15874,6 +17287,7 @@ kaityti
 kaizeris
 kaišti
 kai̇̃p
+kai̇̃p degtùkas
 kai̇̃p nóri
 kaka
 kakariekū
@@ -15896,10 +17310,13 @@ kaladė
 kalakutas
 kalakutiena
 kalakuti̇́ena
+kalakutuoti
 kalakutáitė
+kalakutãvimas
 kalakutùkas
 kalakùtas
 kalakùtė
+kalankė
 kalavijas
 kalba
 kalbai
@@ -15964,6 +17381,7 @@ kalbiems
 kalbininkas
 kalbinis
 kalbiniñkas
+kalbiniñkė
 kalbioje
 kalbiomis
 kalbioms
@@ -15987,6 +17405,7 @@ kalbus
 kalbà
 kalbótyra
 kalbótyrininkas
+kalbótyrininkė
 kalbùmas
 kalbą
 kalbąs
@@ -16071,6 +17490,7 @@ kalbėtumėte
 kalbėtų
 kalbėčiau
 kalbė́ti
+kalbė́toja
 kalbė́tojas
 kalbūs
 kalbų
@@ -16087,6 +17507,7 @@ kalibras
 kalifas
 kalifatas
 kalifornis
+kalifòrnis
 kaligrafija
 kalikas
 kalikė
@@ -16157,6 +17578,7 @@ kalną
 kalnėnas
 kalnėnė
 kalnų
+kalorija
 kalstyti
 kalta
 kaltas
@@ -16267,6 +17689,7 @@ kamuolys
 kamuoti
 kamštelis
 kamštinis
+kamštinis ąžuolas
 kamštis
 kamšyti
 kamščiatraukis
@@ -16308,6 +17731,7 @@ kankina
 kankinimas
 kankinti
 kankintoja
+kankintojas
 kankintojas m
 kankinys m
 kankinė
@@ -16319,15 +17743,20 @@ kankorėžis
 kanoja
 kanojininkas
 kanojà
+kanonierius
 kanopa
 kantri
 kantrybė
+kanãpmarka
 kanãppienis
 kanãpė
+kanãpės
 kanòjininkas
 kančia
 kančiliai
+kapai
 kapas
+kape
 kapeika
 kapela
 kapeliniai
@@ -16340,10 +17769,17 @@ kapitelis
 kapituliacija
 kapituliuoti
 kaplys
+kapo
 kapoklė
 kapoti
 kapotė
+kapu
 kapueira
+kapui
+kapus
+kapučinas
+kapuči̇̀nas
+kapą
 kapšai
 kapšais
 kapšams
@@ -16385,6 +17821,7 @@ karalystė
 karalỹstė
 karamelė
 karams
+karangė
 karantinas
 karaokė
 karas
@@ -16426,6 +17863,8 @@ karininkija
 karinis
 kariniñkas
 karinti
+karinė chunta
+karinė policija
 karinė prievolė
 karinės oro pajėgos
 kario
@@ -16449,12 +17888,16 @@ karneolis
 karnizas
 karnyksas
 karo
+karo belaisvis
+karo belaisvė
 karo laivas
 karo laivynas
 karo metas
 karo nusikaltimas
 karo nusikaltėlis
 karo padėtis
+karo paskelbimas
+karo policija
 karo tarnyba
 karo teatras
 karo šūkis
@@ -16464,15 +17907,21 @@ karstas
 karta
 kartais
 kartas
+karto
 kartografija
 kartojimas
 kartokite paskui mane
 kartonas
 kartoti
 kartotinis veikslas
+kartotis
 kartu
 kartus
 kartuvės
+kartvelas
+kartveliškas
+kartvelė
+kartą
 karu
 karui
 karuose
@@ -16519,6 +17968,7 @@ kas naujo?
 kas nedirba, tas neklysta
 kas tai yra?
 kas tau darbo
+kas žino
 kasa
 kasdien
 kasdiẽnis
@@ -16545,8 +17995,10 @@ katalikybė
 katalikė
 katali̇̀kas
 katali̇̀kinti
+katali̇̀kintoja
 katali̇̀kintojas
 katali̇̀kiškas
+katali̇̀kė
 katalogas
 katalonų
 katapulta
@@ -16568,9 +18020,13 @@ katie
 katilas
 katilėlis
 katinas
+katiniùkas
+katinùkas
+katinė̃lis
 katodas
 katrenas
 katuogė
+katùkas
 katýtė
 katė
 katėje
@@ -16649,11 +18105,15 @@ kaũpas
 kaũpti
 kaž-
 kažin
+kažin kada
 kažkada
 kažkaip
 kažkas
+kažkodėl
 kažkoks
 kažkur
+kche
+kchè
 kebabas
 keblus
 kedras
@@ -16674,6 +18134,7 @@ keistùmas
 keistýbė
 keitimas
 keitimų žurnalas
+keitinėti
 keksas
 keksiukas
 kekuras
@@ -16687,6 +18148,7 @@ keleivė
 kelei̇̃vinis
 kelei̇̃vis
 kelelis
+keletas
 keli
 keliai
 kelialapis
@@ -16794,9 +18256,11 @@ kelintas
 kelio
 kelio ženklas
 kelionė
+kelionė laiku
 kelis
 keliáuti
 keliãvimas
+keliñtinis skai̇̃tvardis
 kelių
 kelmas
 kelnaitės
@@ -16894,6 +18358,7 @@ keturkojis
 keturkojė
 keturratininkas
 keturratis
+keturrãtis
 ketus
 ketveri
 ketverios
@@ -16909,6 +18374,7 @@ ketvirtokas
 ketvirtokė
 ketvirtos eilės pusbrolis
 ketvirtos eilės pusseserė
+ketùrratis
 kevalas
 kečujų kalba
 kečupas
@@ -16918,6 +18384,7 @@ kiaulenà
 kiauliatvartis
 kiauliauogė
 kiaulidė
+kiaulidę
 kiauliena
 kiaulininkas
 kiaulininkỹstė
@@ -16928,6 +18395,7 @@ kiaulpienė
 kiaulytė
 kiauláitė
 kiaulė
+kiaulė-taupyklė
 kiaune
 kiaunei
 kiaunes
@@ -16945,14 +18413,29 @@ kiautas
 kiaušai
 kiaušas
 kiaušialąstė
+kiaušide
+kiaušidė
+kiaušidę
+kiaušiniai
 kiaušinienė
+kiaušinio
 kiaušinio lukštas
 kiaušinis
+kiaušiniu
+kiaušinių
 kiaušinėlis
+kiaušinė̃lis
+kiaušinį
+kiaušiãląstė
 kiauši̇̀dė
+kiauši̇̀ninis
 kiauši̇̀nis
+kiauši̇̀ntakis
+kiaũlininkas
+kiaũlininkė
 kiaũlinti
 kiaũlė
+kiaũšas
 kiberkaras
 kibernetika
 kibilda
@@ -16989,7 +18472,10 @@ kieta
 kietai̇̃
 kietas
 kietasis gomurys
+kietasis kvietys
 kietinti
+kietmetris
+kietà
 kietėti
 kijatas
 kikenti
@@ -16999,12 +18485,25 @@ kilimo ir tūpimo takas
 kilimėlis
 kilmininkas
 kilmė
+kilmę
 kilnus
 kilnusis erelis
 kilo-
 kilogramas
+kilogramo
+kilogramu
+kilogramus
+kilogrãmas
+kilogrãminis
 kilolitras
 kilometras
+kilometriùkas
+kilometri̇̀nis
+kilometro
+kilometru
+kilometrãžas
+kilomètras
+kilomètrinis
 kilovatvalandė
 kilpa
 kilpelė
@@ -17065,12 +18564,15 @@ kiniškąjį
 kiniškąsias
 kiniškų
 kiniškųjų
+kinkanas
 kinkyti
+kinkãnas
 kino teatras
 kinofobija
 kinrožių arbata
 kinrožė
 kintamoji elektros srovė
+kinti
 kinèsė
 kinètinė enèrgija
 kinė
@@ -17103,11 +18605,18 @@ kirtis
 kirvis
 kirčiuoti
 kirčiuotė
+kirčiãvimas
+kirčiúotas
+kirčiúoti
+kiršlys
+kir̃tis
 kir̃šti
 kisielius
+kisti
 kitada
 kitados
 kitaip
+kitais metais
 kitakalbis
 kitakilmis
 kitapus
@@ -17127,6 +18636,7 @@ kiurksoti
 kivi
 kivirčas
 kivis
+kiáušas
 kišeninis žibintuvėlis
 kišeninė gertuvė
 kišenpinigiai
@@ -17151,6 +18661,9 @@ ki̇̀sti
 ki̇̀tas
 ki̇̀škis
 ki̇̀škė
+ki̇́etas
+ki̇́etmetris
+kiẽkinis skai̇̃tvardis
 kiẽkis
 klaida
 klaidinga
@@ -17294,29 +18807,42 @@ klaksonas
 klampoti
 klampynė
 klanas
+klapčiukas
 klarnetas
 klasifikacija
+klasikinė muzika
 klasta
 klastingas
+klastóti
 klasė
 klasės lenta
 klauptas
 klausa
 klausau
 klausiamasis
+klausiamàsis sakinỹs
 klausikas
 klausikė
 klausimas
+klausi̇̀klis
 klausomoji landa
 klausti
 klaustis
 klaustukas
 klausus
+klausykla
+klausyklà
 klausymas
 klausyti
 klausytis
 klausytoja
 klausytojas
+klausà
+klausõvas
+klausõvė
+klausýti
+klausýtoja
+klausýtojas
 klausėja
 klausėjas
 klavesinas
@@ -17327,11 +18853,14 @@ klaviatūrà
 klavikordas
 klavišas
 klavi̇̀šas
+klaũsymas
 kleivas
 kleptokratija
 kleras
 klevas
 kleve
+kliedesys
+kliedė́ti
 klientas
 klientė
 klifas
@@ -17371,6 +18900,7 @@ klėtis
 klė́tis
 klūpėti
 kmynas
+knabždėti
 knarkti
 knyga
 knygai
@@ -17433,6 +18963,7 @@ kojos pirštas
 kojos piršto nagas
 kojotas
 kokas
+kokia
 kokia kaina?
 kokias kalbas mokate?
 kokiomis kalbomis susikalbate?
@@ -17443,7 +18974,13 @@ kokoso pienas
 koks
 koks jūsų vardas
 koks tavo telefono numeris?
+koksas
+koksuoti
 kokteilis
+kokteiliùkas
+koktei̇̃linis
+koktei̇̃linė
+koktei̇̃lių plaktùvė
 koktus
 kokybinis
 kokybiškas
@@ -17479,6 +19016,9 @@ kolū́kis
 koma
 komacuna
 komanda
+komandiruoti
+komandiruotė
+komandiruõtė
 kombainas
 komedija
 komendanto valanda
@@ -17509,6 +19049,7 @@ kompiuteriais
 kompiuteriams
 kompiuterinis
 kompiuterinis piratas
+kompiuterinis žaidimas
 kompiuterinė programa
 kompiuterio
 kompiuterio monitorius
@@ -17522,6 +19063,7 @@ kompiuterių
 kompiuterių tinklas
 kompiuteryje
 kompiuterį
+kompiūkštis
 komplikuotùmas
 komplikãcija
 komplèksinis plauki̇̀mas
@@ -17529,12 +19071,14 @@ kompozicija
 kompozitorius
 kompromatas
 kompromisas
+komunikacija
 komunistas
 komunistinis
 komunistinė
 komunistinė partija
 komunistė
 komunistų partija
+komunizacija
 komunizmas
 koncentracija
 koncentracijos stovykla
@@ -17572,6 +19116,7 @@ konkuruoti
 konkurãvimas
 konservatizmas
 konsorciumas
+konstatúojamasis sakinỹs
 konstitucija
 konstitucinis
 konstitucinė monarchija
@@ -17610,12 +19155,14 @@ kopa
 kopernikis
 kopija
 kopijavimas
+kopijavimo aparatas
 kopijinis
 kopijuoti
 koplyčia
 koplyčià
 kopra
 kopti
+kopula
 kopà
 kopėčios
 kopūstas
@@ -17640,6 +19187,8 @@ korsakas
 korta
 kortas
 kortelė
+kortos
+kortų žaidimas
 korundas
 korupcija
 korvetė
@@ -17691,6 +19240,7 @@ korėjietiškųjų
 korėjietė
 korėjiečių
 korėjiečių kalba
+kosmetika
 kosmetinis
 kosminis
 kosminis laivas
@@ -17710,6 +19260,7 @@ kova
 kovalentinis ryšys
 kovarnis
 kovas
+kovinė galvutė
 kovos kirvis
 kovos kūjis
 kovos menas
@@ -17722,7 +19273,7 @@ koziris
 kočėlas
 koše
 košmaras
-košmariškos
+košmariškas
 košti
 košė
 košės
@@ -17749,6 +19300,7 @@ krapas
 krapinėti
 krapštukas
 krateris
+kraujagyslýtė
 kraujagyslė
 kraujai
 kraujais
@@ -17757,6 +19309,8 @@ kraujas
 kraujau
 kraujažolė
 kraujo
+kraujo donoras
+kraujo donorystė
 kraujo grupė
 kraujo perpylimas
 kraujo plazma
@@ -17770,10 +19324,21 @@ kraujuje
 kraujuose
 kraujuoti
 kraujus
+kraujãgyslė
+kraujãvimas
+kraujódara
+kraujóplūdis
+kraujósruva
+kraujótaka
+kraujúoti
 kraują
 kraujų
 krauti
+krautuvininkas
+krautuvininkė
 krautuvė
+krautuvė̃lė
+krautùvas
 kraštas
 kraštietis
 kraštiẽtis
@@ -17823,18 +19388,38 @@ krešulỹs
 krešėti
 kriauklė
 kriaušė
+kriek
 krienai
 krienas
+kriete
 krieti
 krijà
 kriketas
+krikštaduktė
+krikštamotė
 krikštas
 krikštasūnis
+krikštatėvis
+krikštavardis
 krikštykla
+krikštyklà
+krikštytojas
+krikštãdukra
+krikštãduktė
+krikštãmotė
+krikštãsūnis
+krikštãtėvis
+krikštãvaikis
+krikštãvardis
+krikštỹnos
+krikščionijà
 krikščionis
 krikščioniškas
 krikščionybė
 krikščionė
+krikščionė́ti
+krikščióninti
+krikščiónintojas
 krikščiónis
 krikščióniškas
 kriminalas
@@ -17864,7 +19449,9 @@ krištolas
 krištolinis rutulys
 kri̇̀jas
 kri̇̀kštas
+kri̇̀kšto var̃das
 kri̇̀kštyti
+kri̇̀kštytojas
 kri̇̀sti
 kriẽnas
 kroatas
@@ -17948,9 +19535,11 @@ krykti
 krykšti
 kryptis
 kryždirbystė
+kryžiai
 kryžiažodis
 kryžiuotis
 kryžius
+kráuti
 kráutuvė
 krãpšas
 krãštas
@@ -17993,15 +19582,19 @@ ksenonu
 ksenònas
 ksilofonas
 kt.
+ktm
 kubas
 kubietis
 kubietė
 kubilius
 kubinė šaknis
 kubu
+kudakuoti
+kudakãvimas
+kugelis
 kuilys
 kuisys
-kukli
+kuklumas
 kuklus
 kukmedis
 kukulis
@@ -18040,12 +19633,16 @@ kultūromis
 kultūroms
 kultūros
 kultūrose
+kultūrà
 kultūrą
 kultūrų
 kumeliukas
 kumeliùkas
 kumelė
+kumetis
 kumpis
+kumpiu
+kumpį
 kumysas
 kumštis
 kum̃pis
@@ -18082,20 +19679,34 @@ kur
 kur esame?
 kur jūs gyvenat?
 kur tu gyveni?
+kur yra oro uostas?
 kur yra tualetas?
 kurapka
 kuras
 kurdiškai
 kurdų
 kurfiurstas
+kuri
+kuria
 kuriame
+kurias
+kurie
+kurio
+kuriom
+kuriomis
+kurioms
+kurios
+kuriose
 kuris
+kurią
 kurjeris
 kurkulai
 kurmi
+kurmiarausis
+kurmiarausį
 kurmio
 kurmis
-kurmrausis
+kurmiùkas
 kurmėnas
 kurortas
 kurpelė
@@ -18113,12 +19724,15 @@ kuvasas
 kuvaso
 kušti
 kuštuóti
+kuštėti
 kuštė́ti
 kuždesys
+kuždėti
 kvadratas
 kvadratinis metras
 kvadratinė šaknis
 kvadratu
+kvadrãtinis mètras
 kvaila
 kvailai
 kvailas
@@ -18147,6 +19761,7 @@ kvepėjimas
 kvidičas
 kviesti
 kvietimas
+kvietimu
 kvietinis
 kvieti̇̀mas
 kvietys
@@ -18166,25 +19781,34 @@ káltas
 kálti
 káltinti
 kárvė
+kãdaguogė
 kãras
 kãro dvi̇̀ratininkas
 kãtedra
 kãtininkas
+kãtininkė
 kèpti
 kéltas
 kélti
 kòkosas
 kója
 kõšė
+kùbinis mètras
 kùnigas
+kùrmiarausis
+kùrminis
+kùrmis
+kùrmrausis
 kùšlas
 kùštinti
+kúopinis skai̇̃tvardis
 ką
 ką pasėsi tą ir pjausi
 ką tik
 ką tik dabar
 kąsnis
 kąsti
+kėdutė
 kėdė
 kėglinė
 kėglis
@@ -18193,6 +19817,7 @@ kėkštas
 kėlinys
 kėnis
 kėsintis
+kėsti
 kęsti
 kūdikis
 kūdikiškas
@@ -18234,9 +19859,9 @@ kūrybiškumas
 kūrėja
 kūrėjas
 kūrėjas m
+kūtvėla
 kūšys
 kẽlias
-l
 l. e.
 l. e. p.
 laba diena
@@ -18248,6 +19873,7 @@ labas rytas
 labas vakaras
 labasytis
 labdara
+labdarybė
 labdarys
 labiau
 labiausiai
@@ -18321,7 +19947,9 @@ laipsnių pagal Celsijų
 laiptai
 laiptas
 laiptinė
+laistinė́ti
 laistytuvas
+laistỹklė
 laisva programinė įranga
 laisvai
 laisvalaikis
@@ -18407,14 +20035,17 @@ laparoskopija
 lapas
 lape
 lapei
+lapenà
 lapes
 lapinas
 lapine
+lapiáuti
 lapiùkas
 lapių
 lapkritis
 laptopas
 laptopu
+lapýnas
 lapė
 lapėje
 lapėmis
@@ -18424,6 +20055,8 @@ lapėse
 lapę
 latakas
 latas
+lateksas
+lateksi̇̀nis
 latgaliẽtis
 latgãlis
 latve
@@ -18542,6 +20175,8 @@ laukymė
 laukys
 laukčiau
 laukė
+laukėja
+laukėjas
 laukėme
 laukėte
 laukęs
@@ -18604,19 +20239,28 @@ lašiša
 lašėti
 laũkas
 ledai
+ledainė
 ledas
 ledinis naras
 ledinė menkė
+ledi̇̀nis
+ledi̇̀nis kapuči̇̀nas
 ledjūrio menkė - pollock
 ledkalnis
 ledlaužis
 ledo ritulys
 ledynas
 ledynmetis
+ledúotas
+ledýnas
+ledýninis
+ledė́ti
+ledė̃kas
 legalizavimas
 legenda
 legendinis
 legionas
+legionierius
 legioniẽrius
 legiono
 legiònininkas
@@ -18644,10 +20288,12 @@ leksikografija
 leksikologija
 leksikonas
 leksinis
+lektorius
 leli
 lelija
 lelis
 lemi
+lemiamas
 lempa
 lemputė
 lempùtė
@@ -18667,6 +20313,7 @@ lengvatikis
 lengvatikýbė
 lengviau
 lengviausiai
+lengvinti
 lengvoji pramonė
 lengvóji atlètika
 leninizmas
@@ -18736,7 +20383,6 @@ leprozoriumas
 leptonas
 leptone
 leptono
-leptons: leptònai: elektronas · miuonas · taonas · neutrinas [edit]
 leptòninis
 lepus
 lepūnas
@@ -18756,7 +20402,10 @@ letena
 letenėlė
 leukemija
 leukizmas
+leukocitas
+leukoci̇̀tas
 leukozė
+leukòzė
 leñgvas
 liaudies
 liaudies medicina
@@ -18821,6 +20470,7 @@ lietau
 lietaus
 lietaus lašas
 lieti
+lieti ašaras
 lietingas
 lietinimas
 lietpaltis
@@ -18874,6 +20524,7 @@ lietuviškuose
 lietuviškuosiuose
 lietuviškuosius
 lietuviškus
+lietuviškùmas
 lietuvišką
 lietuviškąja
 lietuviškąją
@@ -18927,6 +20578,13 @@ liktinis
 likutis
 likviduoti
 likvidus
+limfa
+limfagyslė
+limfmazgis
+limfocitas
+limfoci̇̀tas
+limfãgyslė
+limfą
 limnològija
 limonadas
 limuzinas
@@ -18942,14 +20600,19 @@ liniuotė
 liniuõtė
 lini̇̀nis
 link
+linkai
 linkis
+linko
+links
 linksma
 linksmas
+linksmų
 linksmų Velykų
 linksniavimas
 linksnis
 linksniuoti
 linksniuotė
+linkte
 linkti
 linkėjimas
 linkėti
@@ -18992,8 +20655,6 @@ liudytojas
 liuksas
 liuksemburgietis
 liuksemburgietė
-liuksemburgiẽtis
-liuksemburgiẽtė
 liurbis
 liustra
 liuteronas
@@ -19003,6 +20664,7 @@ liuteronybė
 liuteronýbė
 liuteronė
 liuterõnas
+liuterõnė
 liutnia
 livermoris
 livonų
@@ -19023,8 +20685,10 @@ liūsti
 liūtas
 liūte
 liūtei
+liūtenà
 liūtes
 liūtis
+liūto dalis
 liūts
 liūtukai
 liūtukais
@@ -19047,8 +20711,13 @@ liūtės
 liūtėse
 liūtę
 liūčių
+liū̃tas
 liū̃tė
 ližė
+li̇̀mfa
+li̇̀mfinis
+li̇̀mfmazgis
+li̇̀mfocitas
 li̇̀nčas
 li̇̀tas
 li̇̀tvakas
@@ -19058,6 +20727,7 @@ lobis
 locative case
 lochijos
 logaritminis
+logika
 logistika
 lojalumas
 lojalus
@@ -19066,6 +20736,7 @@ lokalinis
 lokomotyvas
 lokys
 lombardas
+lopas
 lopeta
 lopšelis
 lopšinė
@@ -19088,12 +20759,15 @@ lotosus
 lotosą
 lotosų
 lotynizacija
+lotyni̇̀stas
+lotyni̇̀stė
 lotynų
 lotynų kalba
 lova
 lovas
 lovatiesė
 lovelė
+lovytė
 lozungas
 lože
 ložė
@@ -19143,8 +20817,10 @@ lyga
 lygiadienis
 lygiakraštis
 lygiavimas
+lyginamasis
 lyginimas
 lyginti
+lygintis
 lygintuvas
 lygis
 lygmuo
@@ -19175,6 +20851,7 @@ lytinio
 lytinis
 lytinis aktas
 lytinis gyvenimas
+lytinis švietimas
 lytiniu
 lytiniu keliu plintanti liga
 lytiniuose
@@ -19196,11 +20873,16 @@ lytiškai plintanti liga
 lytiškumas
 lyti̇̀niai sántykiai
 lyti̇̀nis gyvẽnimas
+láistyti
+láistytoja
+láistytojas
 láiškas
 láiškininkas
 lãbas rýtas
+lãpė
 lãtvinti
 lãtvis
+lãtė
 lãžas
 lèksika
 lénkas
@@ -19210,15 +20892,19 @@ lýdkrosnė
 lýdmetalis
 lýdyti
 lýdytojas
+lýginamoji kalbótyra
 ląstelinis
 ląstelė
 lėbavimas
+lėki̇̀mas
 lėkti
 lėktuvas
 lėktuvnešis
 lėktuvo bilietas
 lėktuvo palydovas
 lėktuvo palydovė
+lėktùvas
+lėktùvnešis
 lėkštas
 lėkštė
 lėliukė
@@ -19230,6 +20916,7 @@ lėtas
 lėtūnas
 lėšos
 lė́nas
+lė̃kti
 lęšis
 lįsti
 lūgnė
@@ -19239,13 +20926,15 @@ lūpinė armonikėlė
 lūšis
 lūšna
 lūšnelė
+lūšnynas
 lūžis
 lūžti
+lūžęs
 lū́žti
+lẽdas
 lẽdjūris
 lỹkis
 lỹtiškas
-m
 m.
 m. m.
 m. sav.
@@ -19270,6 +20959,7 @@ magnis
 mahoutas
 maike
 maikė
+mainadė
 mainas
 mainytis
 maistas
@@ -19296,6 +20986,7 @@ makiažas
 makija
 makleri
 makleris
+makonė
 makronai
 makronas
 makronė
@@ -19314,6 +21005,7 @@ maldauti
 maldininkas
 maldyti
 maldà
+maldỹvai
 maliarija
 malietis
 malietė
@@ -19396,9 +21088,11 @@ man reikia jūsų pagalbos
 man reikia tavo pagalbos
 man yra dvidešimt metų
 man šakės
+manai
 manaip
 manas
 manasis
+manau
 mandagumas
 mandagus
 mandarinas
@@ -19406,10 +21100,12 @@ mandarininė antis
 manding
 mandings
 mane
+manei
 manekenas
 manga
 manganas
 mango
+mangrovė
 mangusta
 maniau
 manifestas
@@ -19429,11 +21125,13 @@ mano vardas
 mano vardas ...
 mano vardas yra
 manoji
+manome
 manulas
 manuskriptas
 manyje
 manyjè
-manymas mišmanymas
+manymas
+manysi
 manyti
 manè
 manęs
@@ -19447,9 +21145,11 @@ margarinas
 margas
 margoji musmirė
 margutė
+margùtis
 marias
 marihuana
 marijampolietis
+marionetinė valstybė
 marionetė
 marios
 marka
@@ -19467,6 +21167,7 @@ marlė
 marmeladas
 marmelãdas
 marmuras
+marmūzė
 marokietis
 marokietė
 marokiečių
@@ -19487,6 +21188,7 @@ maršrutinis taksi
 maršrutizatorius
 marža
 masažas
+masdevalija
 masendzis
 masinio naikinimo ginklas
 maskaradas
@@ -19971,7 +21673,6 @@ materija
 matlankis
 mato
 matomas
-matomasnematomas
 matome
 matote
 matracas
@@ -20028,6 +21729,7 @@ maukas
 maumedis
 maurai
 maurus
+mausti
 mauzoliejus
 mazgas
 mazginas
@@ -20201,6 +21903,7 @@ mažąja
 mažąją
 mažąjį
 mažąsias
+mažėti
 mažų
 mažųjų
 meandra
@@ -20211,6 +21914,9 @@ mechaninė energija
 mechanizmas
 mechãninė enèrgija
 medalis
+medaus
+medaus mėnesis
+medaus mėnuo
 medaus rasa
 medi
 medicina
@@ -20370,6 +22076,7 @@ meilėje
 meilėmis
 meilėms
 meilės
+meilės istorija
 meilės santykis
 meilės žaismas
 meilėse
@@ -20397,6 +22104,7 @@ melo kojos trumpos
 melodija
 melodinis
 melodi̇̀ngas
+mels
 melsti
 melsvieji ešeriai
 meluoti
@@ -20414,6 +22122,7 @@ membrana
 memorialas
 memuarai
 mena
+menadė
 menai
 menais
 menas
@@ -20421,9 +22130,11 @@ mendelevis
 mene
 menhyras
 meni
+menimasis
 menininkas
 menininkas m
 menininkė
+meninis
 meniu
 meniška
 meniškai
@@ -20632,8 +22343,11 @@ metodika
 metodikas
 metodinis
 metodistas
+metodizmas
 metodiškai
 metodiškas
+metodi̇̀stas
+metodi̇̀zmas
 metodologija
 metodologinis
 metras
@@ -20641,11 +22355,21 @@ metrinė erdvė
 metro
 metronomas
 metropolitenas
+metropoliteno
+metropolizãcija
+metropoli̇̀tas
+metropòlija
 metroseksualas
+metrãžas
+metròpolis
 metu
 metui
 metus
 metãlas
+metòdas
+metòdika
+metòdinis
+metòdiškas
 metą
 metė́ja
 metė́jas
@@ -20675,6 +22399,8 @@ miau
 miaukimas
 miauksėti
 midus
+midùdaris
+midùdarė
 miegamasis
 miegapelė
 miegas
@@ -20713,10 +22439,14 @@ miglotas
 miglýnas
 migracija
 migrantas
+migrena
 migti
 mijakų
 miklumas
+mikologija
+mikro-
 mikroautobusas
+mikroautobùsas
 mikrobanga
 mikrobangų krosnelė
 mikrobas
@@ -20724,6 +22454,7 @@ mikrobusas
 mikrofonas
 mikrokompiuteris
 mikrometras
+mikromètras
 mikrosekundė
 mikroskopas
 miksoma
@@ -20733,14 +22464,18 @@ mikčiojimas
 mikčioti
 mili-
 milicija
+miligramas
+miligramo
+miligramu
+miligrãmas
 milijardas
 milijonas
 milijonierius
 milimetras
+milimètras
 milisekundė
 militarizacija
 militarizmas
-milligramas
 millilitras
 miltai
 miltas
@@ -20802,7 +22537,11 @@ minėja
 minėjas
 minỹkas
 miokardo infarktas
+mira
+mirai
+miras
 miražas
+miražą
 mirdama
 mirdamas
 mirdami
@@ -20822,6 +22561,8 @@ mirkite
 mirksėti
 mirkti
 mirkyti
+mirmekofilija
+miros
 mirs
 mirsi
 mirsiant
@@ -20858,6 +22599,7 @@ mirtį
 mirtų
 mirus
 mirusysis
+mirą
 mirčiai
 mirčiau
 mirčių
@@ -20880,6 +22622,7 @@ misa
 misija
 misionieriaus poza
 misionierius
+misioniẽriškas
 misterija
 misti
 mistikas
@@ -20924,6 +22667,8 @@ miškẽlis
 mišti
 mi̇̀gdymas
 mi̇̀nkštinti
+mi̇̀sija
+mi̇̀sijos
 mi̇̀škas
 mi̇̀škininkas
 miẽgas
@@ -20940,11 +22685,14 @@ mochitas
 mochi̇̀tas
 modemas
 moduliacija
+mokei
 mokestinis
 mokestis
 mokesti̇̀nis
 mokesčių mokėtojas
 mokesčių rojumi
+mokinti
+mokintis
 mokinys
 mokinys m
 mokinė
@@ -20953,6 +22701,7 @@ mokinỹs
 mokinỹstė
 moki̇̀nti
 moki̇̀ntis
+moko
 mokslas
 moksleivijà
 moksleivis m
@@ -20995,6 +22744,8 @@ mokykliniu
 mokykliniuose
 mokyklinius
 mokyklinių
+mokyklinùkas
+mokyklinùkė
 mokyklinė
 mokyklinė lenta
 mokyklinėje
@@ -21031,6 +22782,8 @@ mokė́jimas
 mokė́ti
 mokė́tojas
 mokỹklinis
+mokỹkliškai
+mokỹkliškas
 molas
 molbertas
 moldavas
@@ -21236,7 +22989,10 @@ motiniškas
 motinos
 motinystė
 motinėlė
+moto-
 motociklas
+motoci̇̀klininkas
+motoci̇̀klininkė
 motoras
 motorinis
 motorinė transporto priemonė
@@ -21246,8 +23002,6 @@ motoroleris
 motyvacija
 motė
 mozaika
-mozambikietis
-mozambikietė
 močia
 močiutė
 močiùtė
@@ -21265,6 +23019,7 @@ mudviejų
 mudviem
 mudviese
 muedzinas
+muedzi̇̀nas
 muflonas
 mugė
 muiladarys
@@ -21294,10 +23049,13 @@ mums
 mumyse
 mumysè
 murkti
+murmėti
+murzinas
 mus
 musikė
 musmirė
 musonas
+musth
 musulmonas
 musulmonė
 musulmònas
@@ -21305,7 +23063,8 @@ musulmõniškas
 musė
 musė zvimbeklė
 muziejininkas
-muziejinis
+muziejininkystė
+muziejininkỹstė
 muziejus
 muzika
 muzikantas
@@ -21316,6 +23075,10 @@ muziko
 muzikologija
 muzikos instrumentas
 muzikus
+muziẽjininkas
+muziẽjininkė
+muziẽjinis
+muziẽjus
 muša
 mušdinti
 mušeika
@@ -21341,6 +23104,7 @@ myli
 mylia
 mylimas
 mylime
+mylimóji
 mylint
 mylinti
 mylintieji
@@ -21626,6 +23390,8 @@ mãrios
 mãtymas
 mãžlietuvis
 mègzti
+mètras
+mètrinis
 mélžti
 mérkti
 mókamai
@@ -21899,9 +23665,9 @@ mū́sų
 mū̃dras
 mū̃ris
 mẽdžias
+mẽno kūrinỹs
 mẽs
 mẽškis
-n
 na
 na ir kas
 nachui
@@ -21978,6 +23744,7 @@ namininkė
 naminis
 naminis paukštis
 naminė
+naminė bitė
 naminė katė
 naminė pelėda
 namisėda
@@ -22006,6 +23773,7 @@ namų darbai
 namų židinys
 nanosekundė
 naras
+naratologija
 narcizas
 nardai
 nariu
@@ -22057,6 +23825,7 @@ naudojimas
 naudojimasis
 naudotas
 naudoti
+naudotis
 naudotoja
 naudotojai
 naudotojais
@@ -22076,7 +23845,7 @@ naudotojuose
 naudotojus
 naudotoją
 naudotojų
-naudotojų skydeliai
+naudáuti
 naudóti
 naujadaras
 naujagimis
@@ -22351,6 +24120,7 @@ nebeprisikiškiakopūsteliavę
 nebeprisikiškiakopūsteliavęs
 neblogai
 nebuvimas
+nebėra
 nebūti
 nedarbas
 nedaug
@@ -22374,6 +24144,7 @@ negailestingas
 negalininkinis veiksmažodis
 negalėjimas
 negalėti
+negirdėtas
 negras
 negriukas
 negronis
@@ -22390,6 +24161,7 @@ neigti
 neišauklėtas
 neištikimas
 neištikimybė
+neišvengiamas
 neišverčiamas
 nei̇̃
 nejaukus
@@ -22428,6 +24200,7 @@ nekrologą
 nekrologų
 nekropolis
 nekrozė
+nektaras
 nekęs
 nekęsdavo
 nekęsti
@@ -22441,6 +24214,7 @@ nelyginamasis laipsnis
 nematoma
 nematomas
 nematomoji medžiaga
+nematomumas
 nemiga
 nemirtingas
 nemokama
@@ -22468,6 +24242,7 @@ neodimis
 neofašizmas
 neoficialus
 neologizmas
+neonacismas
 neonacistas
 neonacizmas
 neonas
@@ -22482,6 +24257,7 @@ nepajudinamas
 nepajunktas
 nepajunkęs
 nepakankamai įvertinti
+nepaklusti
 nepalietis
 nepalietė
 nepalų
@@ -22490,12 +24266,14 @@ nepaprastas
 nepasisekimas
 nepasotinamas
 nepasotinamumas
+nepastebimumas
 nepatogus
 nepažįstama
 nepažįstamas
 neperšaunama liemenė
 nepilietis
 nepilietė
+nepilnametis
 neplauti
 nepraustas vaikas
 neprausti
@@ -22527,8 +24305,10 @@ nereikšmingas
 nereligingumas
 nerija
 nerijà
+nerimas
 nerinkti
 nervas
+nervingas
 nervinti
 nervinė anoreksija
 nerštas
@@ -22545,8 +24325,10 @@ nespręsk apie knygą iš viršelio
 nesuprantamas
 nesuprantu
 nesąmanė
+nesąmoningas
 nesąmonė
 nesąžiningas
+nesą́monė
 nesėkmingas
 nesėkmė
 net
@@ -22564,6 +24346,7 @@ netikėtas
 netikša
 netinkamas
 neto svoris
+netrukus
 neturėti
 netvarka
 netvarkai
@@ -22716,6 +24499,7 @@ netvarką
 netvarkų
 netyčia
 netèkti
+netýčia
 neuroninis tinklas
 neuropatologas
 neutralitetas
@@ -22763,6 +24547,7 @@ nežinomas
 nežinomasis
 nežinoti
 nežudymas
+nežymimàsis arti̇̀kelis
 niaukti
 niauktis
 niekada
@@ -22909,25 +24694,27 @@ notaras
 notrelė
 noumenas
 novelė
+novenà
 nr.
 nu-
-nu-balnoti(reflexive) nu-si-balnoti
+nu-balnoti
 nu-brukti
-nu-minti
 nu-pinti
+nu-si-balnoti
 nu-varyti
 nualpimas
 nualpti
 nuarti
 nuauti
-nubaigimasnusibaigimas
-nubaigtinusibaigti
+nubaigimas
+nubaigti
 nubausti
 nuberti
 nublogėti
 nubrozdinimas
 nubrėžti
 nubrę́sti
+nuburbėti
 nuburti
 nubučiuoti
 nubyrėjimas
@@ -23002,10 +24789,9 @@ nuduotas
 nuduote
 nuduoti
 nuduotinas
-nuduotipanuduoti
 nudùrti
 nudėti
-nueitipanueiti
+nueiti
 nuga
 nugali
 nugalimas
@@ -23050,7 +24836,6 @@ nugalėte
 nugalėti
 nugalėtinai
 nugalėtinas
-nugalėtinusigalėti
 nugalėtoja
 nugalėtojas
 nugalėtum
@@ -23066,8 +24851,9 @@ nugaros smegenys
 nugauti
 nugeibti
 nugeisti
-nugertinusigerti
+nugerti
 nugesti
+nuginkluoti
 nuginti
 nuglemžti
 nugražinti
@@ -23076,13 +24862,16 @@ nugrybauti
 nugrybáuti
 nugulti
 nugydyti
+nuilgti
 nuimti
 nujudinti
 nujudėti
 nujunkti
 nujuokauti
 nukalbėti
+nukalsti
 nukaltinti
+nukariauti
 nukeliaudama
 nukeliaudamas
 nukeliaudami
@@ -23178,7 +24967,7 @@ nukeliavus
 nukeliavęs
 nukelti
 nukiesti
-nukirstinusikirsti
+nukirsti
 nuklausti
 nuklausyti
 nukonkurúoti
@@ -23239,18 +25028,20 @@ nuleisti
 nulikti
 nulis
 nuliñkti
+nuliūsti
 numalšinti
 numatyti
 numazgoti
 numedžioti
 numeris
 numesti
+numinti
 numirti
-numirtinusimirtipanumirti
 numizmatika
 numušti
 numylúoti
 numylėti
+numylė́tinė
 numyžti
 numãtymas
 nunaiki̇̀nti
@@ -23437,6 +25228,7 @@ nuotaka
 nuotekis
 nuotolis
 nuotrauka
+nuotraukų albumas
 nuotykingas
 nuotykis
 nuovargis
@@ -23444,6 +25236,7 @@ nuoviras
 nuovokumas
 nuošimtis
 nuoširdus
+nuoširdžiai̇̃
 nupakuoti
 nupirkti
 nupjaustyti
@@ -23519,8 +25312,11 @@ nurėkti
 nurūkyti
 nusakyti
 nusapnuoti
+nusegti
 nuseilėti
 nusiarti
+nusibaigimas
+nusibaigti
 nusidengti
 nusidėjėlis
 nusidėjėlė
@@ -23536,29 +25332,36 @@ nusikaltimas
 nusikaltimas žmoniškumui
 nusikaltėlis
 nusikaltėlė
+nusikirsti
 nusilaižyti
 nusileidimas
 nusileidimas rogutėmis
 nusileisti
+nusimirti
 nusimušti
 nusipelnyti
 nusipirkti
 nusiplū̃kti
+nusiraminti
 nusirašimas
 nusirašyti
 nusirengti
 nusisegti
+nusisiūti
+nusistoti
 nusisukti
 nusiteikimas
 nusiteikti
 nusitylėti
+nusivilkti
 nusivylimas
 nusivylusi
 nusivylęs
 nusišlapinti
-nusiūtinusisiūti
+nusiūti
 nusiųsti
 nusižengimas
+nusižudyti
 nuskalbti
 nuskenuoti
 nuskersti
@@ -23569,8 +25372,10 @@ nuskùrėlis
 nuskùrėlė
 nuslė̃pti
 nusmaukýti
+nusodinti
 nuspręsti
 nusrūti
+nustatymas
 nustatyti
 nustatýti
 nustebėti
@@ -23641,6 +25446,7 @@ nutarė
 nutarėme
 nutarėte
 nutaręs
+nuteikti
 nuteisti
 nuteistoji
 nutekėjimas
@@ -23700,7 +25506,6 @@ nutylėte
 nutylėti
 nutylėtinai
 nutylėtinas
-nutylėtinusitylėti
 nutylėtum
 nutylėtumėme
 nutylėtumėte
@@ -23711,12 +25516,13 @@ nutūpti
 nuuogáuti
 nuvaldyti
 nuvalgyti
+nuvargti
 nuvažiuoti
 nuveikti
+nuversti
 nuveržti
 nuvesti
 nuvilkti
-nuvilkti(reflexive) nusivilkti
 nuvirsti
 nuvykimas
 nuvykti
@@ -23745,11 +25551,12 @@ nykštukinės markatos
 nykštys
 nóras
 nùbas
-nùbiška
 nùbiškas
 nùbė
 nùmeris
+núopisa
 núosavas
+núosmauka
 núosmukis
 núotaka
 núotrauka
@@ -23771,6 +25578,7 @@ nūdiena
 nūnai
 o
 o dar
+o ne
 o šiaip
 o, Dieve!
 oazė
@@ -23791,7 +25599,8 @@ obuoliẽnė
 obuolys
 obuolys nuo obels netoli terieda
 obuolỹs
-oceans: vandenynai: Arkties vandenynas · Atlanto vandenynas · Indijos vandenynas · Pietų vandenynas · Ramusis vandenynas [edit]
+obòjininkas
+obòjininkė
 oda
 odekolonas
 odininkas
@@ -23816,9 +25625,12 @@ oftalmologija
 oi!
 okapija
 okarina
+okazionalizmas
 okeanas
 okeanografas
+okeanografija
 okeanografė
+okeanologija
 oksidatorius
 oksigenas
 oksimoronas
@@ -23892,16 +25704,23 @@ oli̇̀mpinės žaidỹnės
 omanietis
 omanietė
 omaras
+omaro
+omeny
+omenyj
+omenyje
 omerta
 omletas
-on that day
+omnibùsas
+omuo
 ondatra
 oniksas
 onkologija
+onomatopė́ja
 opa
 opalas
 opera
 operacija
+operacinė
 operacinė sistema
 opiatas
 opiate
@@ -23917,6 +25736,11 @@ optimizmas
 opšrus
 oralinis
 oralinis seksas
+orangutanas
+orangutangas
+orangutango
+orangutángas
+orangutãnas
 oranžadas
 oranžinis
 oranžinė
@@ -23938,6 +25762,7 @@ organizmas
 organizuoti
 organizuotumas
 organizãvimas
+organų donorystė
 orgazmai
 orgazmais
 orgazmams
@@ -24093,6 +25918,7 @@ ornitologija
 ornitologė
 oro
 oro balionas
+oro erdvė
 oro laineris
 oro linija
 oro pagalvė
@@ -24112,14 +25938,31 @@ osmis
 otolaringologija
 ovalas
 ozonas
+ozono
+ozonúoti
+ozòno skylė̃
+ozòno skỹdas
+oš
+ošei
+oši
+ošia
+ošiau
+ošiu
+ošk
+ošti
+ošus
+ošė
 oželis
 oželis nykštukas
 ožena
 ožiaragis
+ožinti
+ožintis
 ožiukas
 ožka
 ožkabarzdis asiūklis
 ožkaganys
+ožkentis
 ožkenà
 ožki̇́ena
 ožkutis
@@ -24127,16 +25970,17 @@ ožkà
 ožragis
 ožys
 ožỹs
-p
 pa-
 pa-balnoti
 pa-brukti
 pa-kalti
-pa-minti
+pa-pinti
 pa-si-pinti
 pa-si-varyti
+pa-varyti
 paaiškinimas
 paaiškinti
+paantežis
 paantraštė
 paaprinkti
 paarti
@@ -24147,9 +25991,8 @@ paausinė liauka
 paauti
 paačiuoti
 pabaiga
-pabaigimaspasibaigimas
+pabaigimas
 pabaigti
-pabaigtipasibaigti
 pabaigtuvės
 pabaisa
 pabandyti
@@ -24161,7 +26004,9 @@ pabrangti
 pabrinkti
 pabrėžti
 pabrę́sti
+paburbėti
 pabuvimas
+pabučiuok mane
 pabučiuoti
 pabùsti
 pabėgimo greitis
@@ -24195,6 +26040,7 @@ padangė
 padaras
 padargas
 padarginė
+padarymas
 padaryti
 padaryti nuostolių
 padaryti žalos
@@ -24203,7 +26049,11 @@ padauža
 padavėja
 padavėjas
 padažas
+padegamàsis bùtelis
+padegimas
 padegti
+padegė́ja
+padegė́jas
 padeiti
 padengti
 padidinti
@@ -24228,6 +26078,7 @@ padõriai
 padėjėja
 padėjėjas
 padėkite
+padėklas
 padėkoti
 padėti
 padė̃bti
@@ -24245,10 +26096,11 @@ pagaliaũ
 pagalvė
 pagalvėlė
 pagalėjimas
-pagalėtipasigalėti
+pagalėti
 paganyti
 pagarba
 pagarbus
+pagauni
 pagauti
 pageidauti
 pageidavimas
@@ -24267,13 +26119,14 @@ pagonis
 pagonybė
 pagooglinti or pagūglinti
 pagr. f.
-pagražintipasigražinti
+pagražinti
 pagreitis
 pagrindas
 pagrindinis
 pagrindinis diržas
 pagrindinė forma
 pagrindinė gatvė
+pagrindi̇̀nė mokyklà
 pagrindų direktyva
 pagrobimas
 pagrobti
@@ -24282,20 +26135,23 @@ pagrįsti
 pagrįžti
 pagulti
 pagumburis
-pagundytipasigundyti
+pagundyti
 pagundytojas
 pagydyti
+pagálbinis veiksmãžodis
 pagūglinti
 pagūglinėti
 paieška
 paieškoti
-paieškotipasiieškoti
 paikioti
 pailgosios smegenys
+pailgti
 pailsėti
 painumas
 painùmas
 painės
+paišalioti
+paišeiti
 paišmirti
 paišpirkti
 paišvažiuoti
@@ -24333,11 +26189,13 @@ pakeitimas
 pakeliamasis tiltas
 pakeliauti
 pakelis
+pakeliui
 pakelti
 pakenkti
 paketas
+paketinti
 pakiemė
-pakirstipasikirsti
+pakirsti
 pakistanietis
 pakistanietė
 paklaida
@@ -24480,6 +26338,7 @@ palašas
 paleisti
 paleistuvis
 paleistuvė
+palengvinti
 paleontologas
 paleontologija
 palestinietis
@@ -24506,6 +26365,7 @@ palydovas
 palydovė
 palydėti
 palyginimas
+palyginti
 palángė
 palėpė
 palšas
@@ -24520,10 +26380,12 @@ pamatai
 pamatas
 pamatyti
 pamazgoti
-pamedžiotipasimedžioti
+pamažu
+pamedžioti
 pamilti
 paminklas
-pamirtipapamirtipasimirti
+paminti
+pamirti
 pamiršti
 pamišimas
 pamiškė
@@ -24531,6 +26393,7 @@ pamišti
 pamišęs
 pamoka
 pamokslas
+pamokslavimas
 pamokslininkas
 pamoksláuti
 pamokyti
@@ -24552,8 +26415,7 @@ pan.
 pana
 panacėja
 panaiki̇̀nti
-panamietis
-panamietė
+panamà
 panaudotoja
 panaudotojai
 panaudotojais
@@ -24600,6 +26462,8 @@ panosė šlapia
 panslavizmas
 panteonas
 panuduoti
+panueiti
+panumirti
 panupirkti
 panupjaustyti
 panurinkti
@@ -24607,15 +26471,19 @@ panuvažiuoti
 panėsėti
 paobuoliáuti
 papaja
+papamirti
 papamobilis
 papanurinkti
 papapirkti
 paparacas
 paparazrinkti
+papareiti
 paparinkti
 papartis
 paparvažiuoti
 papas
+papasakyti
+papasiūti
 papasusirinkti
 papavalgyti
 paperdimas
@@ -24660,6 +26528,7 @@ paprastoji mėnulžuvė
 paprastoji raudonuodegė
 paprastoji rusmenė
 paprastoji tekšė
+paprastoji ternecija
 paprastoji trūkažolė
 papratimai
 papratimais
@@ -24706,12 +26575,14 @@ paradoksų
 paradòksiškas
 paragrafas
 paragvãjinis
+paraidžiui
 parakas
 paralimpiẽtis
 paralyžius
 parama
 paramai
 paramas
+parametras
 paramoje
 paramomis
 paramoms
@@ -24733,7 +26604,7 @@ parašiutas
 parašiutininkas
 paraštė
 parašyti
-parbaigtiparsibaigti
+parbaigti
 pardavei
 pardaviau
 pardavimas
@@ -24779,7 +26650,6 @@ parduosime
 parduosite
 parduosiu
 parduoti
-parduotiapiparduotiatparduotiišparduotiperparduotiužparduoti
 parduotum
 parduotumėme
 parduotumėte
@@ -24795,17 +26665,20 @@ pareigoti
 pareigus
 pareigybė
 pareigūnas
-pareitipapareiti
+pareiti
 pareiškimas
 pargauti
 pargerti
 parginti
 parinkti
+parinktis
 paristi
-parišti(reflexive) pasirišti
+parišti
 parjuokauti
 parkalbėti
 parkas
+parkavimas
+parkavimo vieta
 parke
 parkeliaudama
 parkeliaudamas
@@ -24901,6 +26774,7 @@ parkeliavote
 parkeliavus
 parkeliavęs
 parkelti
+parkingas
 parko
 parku
 parkurti
@@ -24920,16 +26794,19 @@ parpirkti
 parplakti
 parpùlti
 parrauti
-parristi(reflexive) parsiristi
+parristi
 parsibaigimas
+parsibaigti
 parsiklausti
 parsiplauti
 parsirasti
+parsiristi
 parsiuntimas
 parsiųsti
 parskalbti
 partekėti
 partija
+partityvinis
 partizanas
 partizaninis karas
 partneris
@@ -25006,7 +26883,6 @@ pasakysiąs
 pasakytas
 pasakyte
 pasakyti
-pasakytiišpasakytipapasakytipripasakyti
 pasakytinas
 pasakytum
 pasakytumėme
@@ -25025,6 +26901,7 @@ pasauli
 pasauliai
 pasauliais
 pasauliams
+pasaulietis
 pasaulinis
 pasaulinis karas
 pasaulio
@@ -25035,24 +26912,43 @@ pasauliui
 pasauliuose
 pasaulius
 pasaulių
+pasauliẽtinis
+pasauliẽtis
+pasauliẽtiškas
+pasauliẽtė
 pasaulyje
 pasaulėžiūra
+pasaulė́ti
 pasaulį
 pasegti
 paseilėti
+pasibaigimas
+pasibaigti
 pasibelsti
 pasibjaurėjimas
 pasidarymas
+pasidažyti
 pasiduoti
 pasiekiamas
 pasiekti
+pasienis
+pasieniẽtis
+pasieniẽtė
 pasiflora
+pasigailėti
+pasigai̇̃dinti
+pasigalėti
 pasigandė́ti
 pasiganyti
+pasigražinti
 pasigrybáuti
+pasigundyti
 pasigėręs
+pasiieškoti
+pasiilgti
 pasikalbėti
 pasikeitimas
+pasikirsti
 pasikiškiakopūsteliauti
 pasikėlęs
 pasikėsinimas
@@ -25060,7 +26956,10 @@ pasilaikyti
 pasilaižyti
 pasilikti
 pasimatymas
+pasimedžioti
+pasimirti
 pasimušti
+pasiožinti
 pasipiktinęs
 pasipriešinimas
 pasipriešinimo narys
@@ -25070,28 +26969,39 @@ pasipūtęs
 pasirašyti
 pasirinkimas
 pasirinkti
+pasirišti
+pasirodo
 pasirodyti
 pasiruošęs
+pasisiūti
 pasiskolinti
 pasisukti
 pasisveikinimas
 pasiteisinti
 pasitenkinimas
+pasitikti
 pasitikėjimas
 pasiuntinys
 pasiutligė
 pasiutęs
 pasivaikščiojimas
 pasivaikščioti
+pasivilkti
 pasiūlymas
 pasiūlyti
-pasiūtipapasiūtipasisiūti
+pasiūti
 pasiųsti
+pasi̇́enininkas
+pasi̇́enininkė
+pasi̇́eninis
+pasi̇́enis
 paskaita
 paskaičiuoti
 paskala
 paskalbti
+paskata
 paskelbimas
+paskelbti karą
 paskelbėjas
 paskenuoti
 paskersti
@@ -25316,17 +27226,22 @@ pastogė
 pastovas
 pastraipa
 pastùrgalis
+pasuduoti
 pasueiti
 pasukti
 pasusirinkti
 pasusiūti
 pasuvažiuoti
 pasvajok vaikeli
+pasvajoti
 pasveikinimas
 pasveikinti
 pasverti
 pasyvas
 pasyvus
+pasáulinis
+pasáulis
+pasõstė
 pasąmoninė
 pasėjimas
 pasėti
@@ -25338,6 +27253,7 @@ patalai
 patalas
 patalinė blakė
 patalpa
+patalpinti
 patalynė
 patardama
 patardamas
@@ -25378,6 +27294,7 @@ patarkime
 patarkite
 patarlė
 patarlės
+patarmė̃
 patarnáuti
 patars
 patarsi
@@ -25420,6 +27337,7 @@ pati
 patiekalas
 patiekalų knyga
 patiekti
+paties
 patiesalas
 patik
 patikai
@@ -25455,7 +27373,6 @@ patikte
 patikti
 patiktinai
 patiktinas
-patiktipasitikti
 patiktum
 patiktumėme
 patiktumėte
@@ -25464,6 +27381,7 @@ patikus
 patikčiau
 patikėti
 patikęs
+patim
 patina
 patinas
 patinka
@@ -25477,7 +27395,7 @@ patinku
 patinkąs
 patirti
 patirtis
-pati̇̀rtiišpati̇̀rti
+pati̇̀rti
 patogenas
 patogus
 patranka
@@ -25611,6 +27529,7 @@ patylėtų
 patylėčiau
 patylįs
 patyrimas
+patyčia
 patėvis
 paukštgaudys
 paukštgaudė
@@ -25659,6 +27578,7 @@ paupinį
 paupi̇̀nis
 paupys
 pauzė
+paužturėti
 pav.
 pavadinimas
 pavadinti
@@ -25671,6 +27591,7 @@ pavakarieniáuti
 pavaldyti
 pavalgyti
 pavardė
+pavargti
 pavargęs
 pavasari
 pavasariai
@@ -25692,22 +27613,40 @@ paveldėtoja
 paveldėtojas
 paveržti
 pavesti
+pavianas
 paviešinimas
-pavilkti(reflexive) pasivilkti
+pavilkti
 pavirsti
 pavirti
 pavirtimas
+paviršinis
 paviršius
+paviršutiniškas
 pavojingas
 pavojus
+pavydas
+pavydelninkas
+pavydingas
+pavyduolis
 pavydus
+pavydėjimas
+pavydėti
 pavykimas
 pavykti
 pavyzdys
 pavyzdžiui
+pavėjinis
 pavėjui
+pavėluoti
+pavė̃jinis
+pavė̃jui
 pavỹdas
 paáugti
+pačiam
+pačiame
+pačiom
+pačiomis
+pačioms
 pačios
 pačiu laiku
 pačiulpti
@@ -25715,6 +27654,7 @@ pačiūža
 pačiūžos
 paėjimas
 paėsti
+paįsiūti
 pašalinis
 pašalinti
 pašalti
@@ -25797,6 +27737,7 @@ peilis
 peizažas
 pei̇̃linis
 pei̇̃lis
+peki̇̀nas
 pele
 pelei
 pelekas
@@ -25877,6 +27818,7 @@ pensija
 pensininkas
 pensininkė
 pensinis
+pensionas
 pensnė
 pentagrama
 pentalogija
@@ -25884,7 +27826,7 @@ per
 per daug
 perarti
 perauti
-perbaigtipersibaigti
+perbaigti
 perberti
 perbraukti
 perbrinkti
@@ -25970,7 +27912,7 @@ perestroika
 perfojuosta
 perfokorta
 pergalė
-pergalėjimaspersigalėjimas
+pergalėjimas
 pergalėti
 pergamentas
 pergauti
@@ -25989,7 +27931,7 @@ perkeliauti
 perkelti
 perki
 perkiesti
-perkirstipersikirsti
+perkirsti
 perklausti
 perklausyti
 perkąsti
@@ -26003,7 +27945,7 @@ perlamutras
 perlas
 perlaukti
 perle
-perlieti(reflexive) persilieti
+perlieti
 perlo
 perlu
 perlui
@@ -26011,6 +27953,7 @@ permaina
 permatomas
 permazgoti
 permirti
+permokėti
 permušti
 permylėti
 permyžti
@@ -26120,15 +28063,21 @@ persapnuoti
 persas
 persekiojimas
 persekioti
+persibaigti
+persigalėjimas
 persikas
+persikirsti
 persilaižyti
 persileidimas
+persilieti
 persimonas
 persirengti
+persisiūti
 persisukti
 persivalgymo sutrikimas
+persivalgyti
 persiškas
-persiūtipersisiūti
+persiūti
 persiųsti
 perskalbti
 perskersti
@@ -26158,13 +28107,16 @@ perturėti
 pertylėti
 perukas
 pervalgyti
+pervaža
 pervažiuoti
 perveikti
 perversmas
+pervertinti
 perveržti
 pervirsti
 pervirti
 perùvinis
+perėja
 perėjimas
 perėsti
 peršalimas
@@ -26186,7 +28138,13 @@ pfierdžas
 pfui
 pianinas
 pica
+picai
 picerija
+piceriją
+picos
+picà
+picèrija
+picą
 piemenauti
 piemenukas
 piemenė
@@ -26221,7 +28179,10 @@ pieveržti
 pievãgrybis
 pievẽlė
 piešas
+piešimas
 piešinys
+piešinỹs
+pieši̇̀mas
 piešti
 pieštukai
 pieštukais
@@ -26235,7 +28196,11 @@ pieštukuose
 pieštukus
 pieštuką
 pieštukų
+pieštùkinis
+pieštùkinė
 piešėjas
+piešė́jas
+piešė́jė
 pigi
 pigiai
 pigiava
@@ -26244,6 +28209,7 @@ pigumas
 pigus
 pikai
 pikantiškas
+pikapas
 piknaudžiauti
 piknaudžiavimas
 piknikas
@@ -26252,6 +28218,7 @@ piktadarys
 piktas
 piktavalis
 piktnaudžiauti
+piktograma
 piktybinis
 piktžodžiauti
 piktžolė
@@ -26351,6 +28318,7 @@ pirmas
 pirmasis
 pirmasis asmuo
 pirmi
+pirmiausia
 pirmininkas
 pirmininkė
 pirminis
@@ -26363,6 +28331,7 @@ pirmokė
 pirmokės
 pirmyn
 pirmàsis asmuõ
+pirmąsyk
 piroklastinis srautas
 pirsas
 pirskioti
@@ -26379,6 +28348,7 @@ piršys
 pis
 pisa
 pisai
+pisalas
 pisamas
 pisame
 pisant
@@ -26450,9 +28420,11 @@ pisiąs
 pisk
 piskime
 piskite
+pislys
 piso
 pisome
 pisote
+pistacija
 pistas
 piste
 pisti
@@ -26478,15 +28450,21 @@ pizė
 pižama
 pi̇̀ldyti
 pi̇̀lnatis
+pi̇̀lstyti
 pi̇̀rmas
+pi̇̀rmąkart
+pi̇̀salas
 pi̇́engrybis
 pi̇́eningas
 pi̇́eninis
 pi̇́eniškai
 piẽtūs
+piẽšti
 pjaustai
 pjaustau
 pjaustei
+pjaustinė́ti
+pjausti̇̀klis
 pjausto
 pjaustome
 pjaustote
@@ -26499,6 +28477,7 @@ pjaustydavote
 pjaustyk
 pjaustykime
 pjaustykite
+pjaustyklà
 pjaustymai
 pjaustymais
 pjaustymams
@@ -26527,12 +28506,22 @@ pjaustyčiau
 pjaustė
 pjaustėme
 pjaustėte
+pjaustỹklė
 pjausčiau
 pjauti
+pjauti grybą
+pjauti̇̀nis
 pjautuvas
+pjautuviškas
+pjautỹnės
 pjedestalas
 pjesė
 pjovimas
+pjáustyti
+pjáustytinis
+pjáustytojas
+pjáustytojė
+pjáuti
 pjūklas
 pjūtis
 pl.
@@ -26540,6 +28529,7 @@ placdarmas
 placenta
 plagiatas
 plagijavimas
+plakatas
 plaki̇̀mas
 plakti
 plaktis
@@ -26580,6 +28570,7 @@ plaukas
 plaukikas
 plaukikė
 plaukimas
+plaukimo baseinas
 plaukiojimo pūslė
 plauki̇̀kas
 plauki̇̀mas
@@ -26590,18 +28581,21 @@ plaukmuõ
 plaukti
 plaukykla
 plaukyklà
-plaukymo baseinas
 plaukų džiovintuvas
 plauna
 plauname
 plaunate
 plauni
 plaunu
+plaus
+plausi
 plaustas
 plausti
 plaustyti
+plautas
 plauti
 plautis
+plautum
 plautuvė
 plaučiai
 plaučių uždegimas
@@ -26611,7 +28605,9 @@ plačiai
 plaštaka
 plaštakė
 plaũkti
+plebisci̇̀tas
 pleiskana
+pleistras
 plekšnė
 plentas
 pleroma
@@ -26662,6 +28658,7 @@ plynasis kirtimas
 plynaukštė
 plyta
 plytelė
+plyšęs
 pláuti
 plónas
 plótas
@@ -26671,6 +28668,7 @@ plėvė
 plėšikas
 plėšinys
 plėšriavoris
+plėšrūnas
 plėšti
 plūduras
 plūduriuoti
@@ -26691,6 +28689,7 @@ pochui
 podagra
 podiatras
 podkastas
+podukra
 podėlis
 poema
 poeta
@@ -26716,6 +28715,8 @@ pokytis
 pokštas
 pokštauti
 polas
+poledýninis
+poledýnmetis
 poliandrija
 poliarinė lapė
 poliarinė pašvaistė
@@ -26749,6 +28750,7 @@ poliucija
 poli̇̀cija
 poli̇̀cinis
 poli̇̀tikė
+polka
 polonis
 polonizacija
 poltergeistas
@@ -26768,10 +28770,12 @@ ponis
 pontoninis tiltas
 popierinis rankšluostis
 popierius
+popieri̇̀nis
 popietė
 popiežius
 popkornas
 poplūdis
+popmuzika
 populiarinimas
 populiarinti
 populiarintojas
@@ -26968,6 +28972,7 @@ pornografų
 pornogrãfija
 pornogrãfinis
 pornogrãfiškai
+pornogrãfiškas
 portatyvinis kompiuteris
 portfelis
 portretas
@@ -27027,6 +29032,7 @@ porūšis
 poskyris
 postmodernizmas
 posėdis
+posūnis
 potencinė energija
 poteñcinė enèrgija
 poti
@@ -27034,6 +29040,7 @@ potraukis
 potrauminio streso sindromas
 potvynis
 potyris
+povaikis
 povas
 poveržlė
 poza
@@ -27048,17 +29055,20 @@ ppr.
 pr.
 pr. Kr.
 pr. m. e. (rieš mūsų erą)
-pra-minti
+pra-kalti
 pra-si-kalti
 pra-si-varyti
-prabaigtiprasibaigti
+pra-varyti
+prabaigti
 praberti
 prabrinkti
 prabristi
 prabrę́sti
+praburbėti
 prabùsti
 prabėgti
 prabūti
+pradanginti
 pradarai
 pradaramas
 pradarant
@@ -27107,20 +29117,23 @@ pradarė
 pradarėme
 pradarėte
 pradaręs
+pradeda
 pradengti
 pradinis
 pradinė mokykla
+pradi̇̀nė mokyklà
 praduoti
 pradyrėti
 pradėjimas
 pradėti
 pradžia
 pradžiamokslis
+pradžioje
 praeitas
 praeiti
 praeitis
 praeivis
-pragalėtiprasigalėti
+pragalėti
 praganyti
 pragaras
 pragauti
@@ -27129,10 +29142,13 @@ pragmatika
 pragurbėlis
 pragydyti
 prailginti
+prailgis
+prailgti
 prajudinti
 prajuokauti
 prakaitas
 prakaituotas
+prakaituoti
 prakaitãvimas
 prakaitúotas
 prakaitúoti
@@ -27238,7 +29254,7 @@ prakeliavus
 prakeliavęs
 prakelti
 prakiesti
-prakirstiprasikirsti
+prakirsti
 praklausyti
 praktika
 praktikantas
@@ -27303,10 +29319,12 @@ pralaukėte
 pralaukęs
 praleisti
 pralieti
+pralilnùmas
 pralįsti
 pramazgoti
 pramiegoti
 pramiegóti
+praminti
 pramoga
 pramonė
 pramonės perversmas
@@ -27380,16 +29398,21 @@ praplauti
 praprausti
 prapulti
 prapùlti
+prarajà
 prarasti
 praregė́ti
+prarikti
 prarinkti
 praràsti
 prarėkti
 prarūkyti
 prasakyti
 prasapnuoti
+prasibaigti
 prasidėti
+prasigalėti
 prasikaltinti
+prasikirsti
 prasimušti
 prasiskverbti
 prasisukti
@@ -27401,11 +29424,14 @@ praskalbti
 praskersti
 praskysti
 prasmingas
+prasminis
 prasmė
 prasrūti
+prastas
 prasti
 prastova
 prasukti
+prasčiokas
 prasėjimas
 prasėti
 pratarimas
@@ -27485,15 +29511,19 @@ prazeodimis
 praėjimas
 praėjęs
 praėsti
+prašalina
 prašalinti
 prašalti
 prašau
 prašau, paduokit druską
+prašinėti
 praši̇̀lti
 prašokti
 prašom
 prašymas
 prašyti
+prašytoja
+prašytojas
 praũsti
 pražaisti
 pražengti
@@ -27521,6 +29551,7 @@ prekyvietė
 prekývietė
 prekė
 prelatas
+preliminarus
 premija
 premjera
 premjeras
@@ -27545,21 +29576,21 @@ prezidentūra
 prezidiumas
 pri-
 pri-kalti
-pri-minti
-pri-minti(reflexive) pri-si-minti
 pri-si-varyti
+pri-varyti
 priapizmas
 priarti
 priausti
 priauti
 priačiuoti
 pribaigimas
-pribaigtiprisibaigti
+pribaigti
 priberti
 pribijoti
 pribrinkti
 pribristi
 pribrę́sti
+priburbėti
 priburti
 pribučiuoti
 pribėgti
@@ -27578,6 +29609,8 @@ pridėtinės vertės mokestis
 prie
 prie-
 priebalsis
+priebalsi̇̀nis
+priebalsýnas
 prieblanda
 priedainis
 priedanga
@@ -27592,6 +29625,9 @@ prieiga
 prieinamas
 prieinamumas
 prieiti
+priekaba
+priekabi̇̀nis
+priekabi̇̀nis namẽlis
 priekalas
 priekin
 priekinis
@@ -27622,7 +29658,6 @@ prietaisų skydelis
 prietaras
 prietaringas
 prietarinis
-prietema
 prievarta
 prieveiksmis
 prieš
@@ -27637,6 +29672,9 @@ priešintis
 priešinė liauka
 priešistorinis
 priešiškumas
+priešlėktuvinė gynyba
+priešlėktùvininkas
+priešlėktùvinis
 priešnuodis
 priešpaskutinis
 priešpilnis
@@ -27656,9 +29694,10 @@ prigesti
 prigrybáuti
 prigundyti
 priimti
+priimtinas
 prijaukintas
 prijudinti
-prijungti(reflexive) prisijungti
+prijungti
 prijunkti
 prijunkęs
 prijuokauti
@@ -27668,6 +29707,7 @@ prikeliauti
 prikelti
 priklausti
 priklausyti
+prikomandirúoti
 prikraujúoti
 prikrèkti
 prikąsti
@@ -27678,8 +29718,10 @@ prilieti
 prilikti
 primatas
 primazgoti
-primedžiotiprisimedžioti
-primirtiprisimirti
+primedžioti
+priminti
+primirti
+primokėti
 primušti
 primylėti
 primyžti
@@ -27695,8 +29737,10 @@ prinokęs
 printeris
 priobuoliáuti
 prioritetas
+pripasakyti
 pripažinti kaltu
 pripjaustyti
+priplakti
 priplauki̇̀mas
 priplauti
 pripranta
@@ -27741,6 +29785,7 @@ prirūkyti
 prisakyti
 prisapnuoti
 priseilėti
+prisibaigti
 prisidengti
 prisidėti
 prisiganyti
@@ -27749,10 +29794,15 @@ prisiimti
 prisijungti
 prisikėlimas
 prisilikti
+prisimedžioti
 prisiminti
+prisimirti
 prisimušti
+prisipažinimas
 prisipažinti
+prisipisti
 prisiplakti
+prisisiūti
 prisisukti
 prisitaikanti
 prisitaikantis
@@ -27762,10 +29812,13 @@ prisitaikėliškas
 prisitaikėlė
 prisitraukimas
 prisivakarieniáuti
+prisivilkti
 prisivirei košės
 prisivirti
 prisivirti košės
-prisiūtiprisisiūti
+prisičiulpti
+prisišikti
+prisiūti
 prisiųsti
 priskalbti
 priskersti
@@ -27773,6 +29826,7 @@ priskysti
 prislė̃pti
 prismaukýti
 prisrūti
+pristatymas
 pristatýti
 pristebėti
 prisukti
@@ -27845,6 +29899,8 @@ priturėti
 pritylėti
 pritūpimas
 priuogáuti
+privala
+privalauti
 privaldyti
 privalgai
 privalgamas
@@ -27894,8 +29950,15 @@ privalgė
 privalgėme
 privalgėte
 privalgęs
+privalingas
 privalo
+privalomas
+privalu
+privalumas
+privalus
+privalymas
 privalėti
+privati nuosavybė
 privatizacija
 privatumas
 privatus
@@ -27906,23 +29969,27 @@ priveikti
 priversti
 privertimas
 priveržti
-privilkti(reflexive) prisivilkti
+privilkti
 privirsti
 privirti
 privirti košės
 prizas
 prizmė
-pričiulptiprisičiulpti
+pričiulpti
 priėjimas
+priėji̇̀mas
 priėmi̇̀mas
 priėsti
 prišalti
+prišikti
 priši̇̀lti
 prišokti
 prižaisti
 prižengti
 prižibė́ti
 prižiūrėti
+pri̇́ebalsė
+pri̇́ekaba
 pri̇́ešais
 pri̇́ešauti
 pri̇́ešiai
@@ -27932,6 +29999,8 @@ pri̇́ešininkė
 pri̇́ešinis
 pri̇́ešinė liaukà
 pri̇́ešpriešiais
+pro vienas kitą
+proainis
 proanūkis
 proanūkė
 problema
@@ -27986,7 +30055,11 @@ projektas
 projektų vadyba
 prokalbė
 prokuratūra
+prokuratūrà
+prokuratūrą
 prokuroras
+prokuròras
+prokuròrė
 proletaras
 proletariatas
 proletariato diktatūra
@@ -27999,6 +30072,7 @@ propagandinis
 propagandistas
 propagandistė
 propeleris
+propiesorius
 proplaneta
 proporcija
 proporcijos
@@ -28017,6 +30091,7 @@ proporcionalus
 proporcionalūs
 proporcionalų
 prosenelis
+prosenis
 proskyna
 prospektas
 prostata
@@ -28038,8 +30113,10 @@ protestuoti
 protestuotojas
 protestántas
 protestántiškas
+protestántė
 protestãvimas
 protestúoti
+protestúotoja
 protestúotojas
 protezas
 protingas
@@ -28055,6 +30132,7 @@ protrombinas
 protèstas
 protą pamesti
 protėvis
+protų nutekėjimas
 provaikaitis
 provincialas
 provincializmas
@@ -28069,6 +30147,7 @@ prv.
 prãkaitas
 pròstata
 próga
+prósūnaitis
 prõtas
 prūsas
 prūselis
@@ -28081,6 +30160,7 @@ psalteris
 pseudomokslas
 pseudonimas
 pseudoskorpionas
+psichas
 psichiatras
 psichiatrija
 psichiatrė
@@ -28114,13 +30194,16 @@ pudelių
 pudelyje
 pudelį
 pudra
+puika
 puikiai
 puikus
+puikybė
 pulkas
 pulkininkas
 pulkáuti
 pulkúoti
 pulkẽlis
+puloveris
 pulsaras
 pulsas
 pulsuoti
@@ -28150,7 +30233,6 @@ pupẽlė
 purkšti
 purmuo
 purplelis
-purpurinė
 purvas
 purvinas
 purvinti
@@ -28226,7 +30308,10 @@ pusiasalis
 pusiaujas
 pusiaunaktis
 pusiáujas
+pusiãsalis
 puskarininkis
+puskilogramis
+puskilometris
 puskvailis
 puslaidininkis
 puslapi
@@ -28243,13 +30328,16 @@ puslapių
 puslapyje
 puslapį
 pusmetis
+pusmetris
 pusmėnulis
 pusnis
 pusnuogis
+puspriekabė
 pusrutulinis
 pusrutulis
 pusrutuliškas
 pusryčiai
+pusryčiauti
 pussesere
 pusseserei
 pusseseres
@@ -28280,6 +30368,7 @@ putė
 pučas
 pušelė
 pušis
+puškinija
 pušynas
 pušūnai
 pvz.
@@ -28305,6 +30394,7 @@ pyragas
 pyst
 pyzda
 pyškintis
+pártnerė
 pãdalyvis
 pãdugnės
 pãplūdimio fùtbolas
@@ -28312,6 +30402,7 @@ pãplūdimio fùtbolininkas
 pãpulkininkis
 pãpulkininkė
 pãpuošalas
+pãsaitas
 pãsaka
 pãsakiškai
 pãstatas
@@ -28321,6 +30412,7 @@ pãštininkė
 pãžadas
 pérbręsti
 pérdurti
+pérlenktoji picà
 pérsigąsti
 pérskaudėti
 pértirti
@@ -28332,12 +30424,22 @@ péržibėti
 péržosti
 pòras
 pókštas
+póledynmetis
+põpierininkas
+põpierininkė
+põpierius
 pùsaklis
 pùsdalyvis
+pùsiasalis
 pùskarininkis
 pùskarininkė
+pùskilogramis
+pùskilometris
 pùskvailis
+pùsmetris
+pùspriekabė
 pùsprotis
+pùsratis
 pùsė
 pėda
 pėstininkai
@@ -28362,9 +30464,8 @@ pūti
 pūtimas
 pū́das
 pū̃nė
-quarks: kvárkai: aukštỹn kvárkas · žemỹn kvárkas · keistàsis kvárkas · žavùsis kvárkas · žemiáusiasis kvárkas · aukščiáusiasis kvárkas [edit]
-r
 r.
+rabarbaras
 rabinas
 rabinistinis
 rabinistinis judaizmas
@@ -28381,6 +30482,7 @@ radimas
 radimasis
 radioaktyvumas
 radioaktyvus
+radiochirurgija
 radioteleskopas
 radis
 rado
@@ -28393,14 +30495,17 @@ radybė
 radėja
 radėjas
 radęs
+radža
 ragana
 raganius
 raganosis
+raganė
 ragas
 ragelis
 ragena
 raginis
 raginė
+raguotas
 raguotasis vieversys
 ragutis
 raibas
@@ -28426,6 +30531,7 @@ rakti
 raktų pakabukas
 rakètsvaidis
 rakštis
+rambus
 rambutanas
 ramekinas
 ramentas
@@ -28586,6 +30692,7 @@ raštinis
 raštinė
 raštiškas
 rašyba
+rašybos
 rašymas
 rašysena
 rašyti
@@ -28596,6 +30703,7 @@ rašytojų
 rašytuvas
 rašýti
 rašė
+ražiena
 reabilitacija
 reakcija
 reaktorius
@@ -28606,9 +30714,14 @@ receptas
 recesija
 redaktorius
 referendumas
+referendumo
+referendumu
+referendumus
 reforma
 refrenas
 rega
+regbi
+regbininkas
 regbis
 regentas
 regentė
@@ -28667,10 +30780,12 @@ reli̇̀giškas
 reljefas
 remeziniai
 remti
+renantera
 rengimas
 renginys
 rengti
 rengtis
+rengyklė
 renis
 renka
 renkamas
@@ -28687,7 +30802,6 @@ rentgenis
 repeticija
 replika
 replės
-reported speech
 reporteris
 represija
 reprezentuoti
@@ -28706,6 +30820,7 @@ respubliką
 respublikų
 restoranas
 restorano vagonas
+restorãninis
 resursai
 resursas
 retai
@@ -28769,15 +30884,18 @@ riedė́ti
 riekti
 riekė
 riekė̃
+riestainis
 rietenos
 riešas
 riešutas
 riešutinė
 riešutų sviestas
 rigatoniai
+rikdyti
 rikis
 riksmas
 riksmo karalienė
+rikti
 rimas
 rimbas
 rimtai
@@ -28860,6 +30978,7 @@ ritminė gimnastika
 rito
 ritualas
 ritulys
+ritė
 rizika
 rišimas
 rišti
@@ -28874,6 +30993,7 @@ rodis
 rodmuo
 rododendras
 rodonitas
+rodos
 rodyklė
 rodymas
 rodymasis
@@ -28910,6 +31030,7 @@ rombe
 rombo
 rombu
 rombus
+romfaja
 romytas gaidys
 romėnų kelias
 rondelis
@@ -28954,6 +31075,7 @@ rudaãkis
 rudeninis
 rudens
 rudgalvė kryklė
+rudis
 rudmėsė
 rudoji lapė
 rudoji lūšis
@@ -28962,6 +31084,7 @@ rudumas
 ruduo
 ruduoti
 rudàsis lokỹs
+rudė
 rugelis
 rugiagėlė
 rugiai
@@ -29112,6 +31235,7 @@ rutulininkas
 rutulio stūmimas
 rutulys
 rutulỹs
+rykauti
 ryklys
 ryklė
 rykštenė
@@ -29164,10 +31288,13 @@ rytojaus naktis
 rytojaus vakaras
 rytojus
 rytojykštis
+rytè
+rytój
 rytų
 rytỹs
 ryškus
 ryšys
+ryšỹs
 ryžinis trupialas
 ryžinukas
 ryžis
@@ -29177,17 +31304,24 @@ ráimas
 ráinas
 ráivas
 rãbinas
+rãbinė
+rãgas
 rãginti
 rãktas
 rãštas
+règbininkas
+règbininkė
+règbis
 rómyti
 rùdas
 rùpūžė
+rùsas
 rùsinti
 rùsintojas
 rùtulininkas
 rùtulininkė
 rùtulio stūmi̇̀mas
+rýt
 rýtas
 rýto žvaigždė̃
 rąstagalys
@@ -29267,14 +31401,13 @@ rūta
 rūtelė
 rūšinis
 rūšis
+rūškanas
 rūškynė
-rūžava
 rū́gti
 rū̃kalas
 rū̃komasis
 rū̃kymas
 rỹžis
-s
 sabalai
 sabalais
 sabalams
@@ -29296,10 +31429,10 @@ saga
 sagelė
 sagutė
 saiga
-sailas
 saitas
 saithe（Pollachius virens）
 saitynas
+sai̇̃las
 sakai
 sakalas
 sakalas keleivis
@@ -29354,6 +31487,8 @@ sakančiąją
 sakančiąsias
 sakančių
 sakančiųjų
+sakartvelietis
+sakartvelietė
 sakau
 sakei
 sakiau
@@ -29366,6 +31501,10 @@ sakome
 sakote
 saksas
 saksofonas
+saksofoni̇̀stas
+saksofoni̇̀stė
+saksofònininkas
+saksofònininkė
 saksų
 sakvojažas
 sakydama
@@ -29401,6 +31540,11 @@ sakytumėme
 sakytumėte
 sakytų
 sakyčiau
+sakýsena
+sakýti
+sakýtinis
+sakýtoja
+sakýtojas
 sakąs
 sakė
 sakėme
@@ -29463,11 +31607,13 @@ saldžioji
 saldžių sapnų
 salelė
 saliamis
+saliavas
 salieras
 salinimas
 salinti
 salinė lapė
 saliukis
+sali̇̀ngas
 salota
 salotinė sultenė
 salotos
@@ -29481,6 +31627,7 @@ salyklinis
 salyklinė
 salymas
 salynas
+salà
 salė
 salų valstybė
 sam-
@@ -29505,8 +31652,10 @@ sandara
 sandėlis
 sandėliuoti
 sandėlys
+sanežis
 sangrija
 sangrąžinis
+sangrąži̇̀nis veiksmãžodis
 sankcija
 sankryža
 sanskritas
@@ -29949,6 +32098,7 @@ saugių
 saugiųjų
 saugojimas
 saugoti
+saugotis
 saugotojas
 saugu
 saugumas
@@ -30002,6 +32152,7 @@ savaitgalis
 savaitraštis
 savaitė
 savanaudis
+savanaudiškas
 savanaudiškumas
 savanoris
 savanoriškai
@@ -30053,6 +32204,7 @@ savęs
 savę̃s
 savỹ
 saškės
+saũsgyslė
 scena
 schizofrenikas
 schizofrenikė
@@ -30072,7 +32224,6 @@ segtis
 segtukas
 segtuvas
 seifas
-seilas
 seilėdama
 seilėdamas
 seilėdami
@@ -30125,13 +32276,23 @@ seilėčiau
 seimas
 seismologija
 seismologinis
+sei̇̃las
+sek
+seka
+sekai
+sekant
 sekantis
+seki
 seklus
 sekmadienis
+sekmãdienis
+seko
 sekretorius
 sekretorė
+seks
 seksas
 sekse
+seksi
 sekso
 seksologija
 seksu
@@ -30143,8 +32304,11 @@ seksualizavimas
 seksualumas
 seksus
 sekta
+sekte
 sekti
 sektorius
+seku
+sekundometras
 sekundė
 sekundė < minutė < valanda < diena < mėnuo < metai < amžius
 seldžiukų
@@ -30284,6 +32448,9 @@ seniūnaitija
 seniūnas
 seniūnija
 seniūnė
+senka
+senkant
+senki
 senmergė
 seno
 senoje
@@ -30292,6 +32459,7 @@ senoji anglų kalba
 senoji bažnytinė slavų kalba
 senojo
 senojoje
+senolis
 senomis
 senoms
 senos
@@ -30311,6 +32479,7 @@ sentikybė
 sentikýbė
 sentimentai
 sentimentas
+sentėvis
 senu
 senukas
 senuoju
@@ -30319,6 +32488,7 @@ senuosiuose
 senuosius
 senus
 senutė
+senvagė
 senóvė
 seną
 senąja
@@ -30343,10 +32513,12 @@ septyniolika
 septynioliktas
 septynios
 septyniólika
+septýnkovė
 serbai
 serbas
 serbentai
 serbentas
+serbinė eglė
 serbiška
 serbiškai
 serbiškais
@@ -30408,6 +32580,7 @@ seserys
 sesija
 sesuo
 sesutė
+sesérvaikis
 sesė
 seteris
 sezonas
@@ -30521,9 +32694,11 @@ simboliškas
 simbòlinis
 simbòliškas
 simetrija
+simetriškai
 simfonija
 simfoninis
 simfoninis orkestras
+simfòdžiazas
 simfòninis
 simpatinė nervų sistema
 simpoziumas
@@ -30620,6 +32795,7 @@ siuvančiųjų
 siuvate
 siuvau
 siuvi
+siuvimas
 siuvinėti
 siuvo
 siuvome
@@ -30691,18 +32867,31 @@ siūtų
 siūčiau
 siųsti
 siųstis
+si̇́ena
+si̇́eninis
+siẽtas
+siẽti
 skaidrus
+skaistavaris
 skaistažiedė
 skaistykla
+skaistùmas
+skaistùs
+skaistýbė
+skaistė́ti
+skait.
 skaitai
 skaitau
 skaitei
 skaitiklis
+skaitinis
 skaitmeninis
+skaitmuõ
 skaito
 skaitome
 skaitote
 skaitvardis
+skaitvardi̇̀nis
 skaitydavai
 skaitydavau
 skaitydavo
@@ -30727,6 +32916,7 @@ skaitytumėme
 skaitytumėte
 skaitytų
 skaityčiau
+skaitýti
 skaitė
 skaitėme
 skaitėte
@@ -30736,8 +32926,12 @@ skaičiuoti
 skaičiuotojas
 skaičiuotuvas
 skaičius
+skaičiúoti
 skaičių
+skai̇̃stinti
+skai̇̃stis
 skai̇̃tvardis
+skai̇̃čius
 skalatuotis
 skalauti
 skalbenė
@@ -30800,6 +32994,7 @@ skardinė
 skardi̇̀ngas
 skardus
 skarlatina
+skarmalas
 skarmalius
 skaudùs
 skaudėti
@@ -30813,6 +33008,7 @@ skelbimas
 skelbimų lenta
 skelbti
 skeletas
+skelti
 skendi̇̀mas
 skendėti
 skeneris
@@ -30836,8 +33032,11 @@ skilvis
 skilvys
 skina
 skinti
+skiri
 skirpstas
+skirs
 skirsnis
+skirtas
 skirti
 skirtingai
 skirtingas
@@ -30941,24 +33140,32 @@ skriẽsti
 skroblas
 skrodimas
 skrosti
+skrudintuvas
+skrudintùvas
 skruoblas
 skruostas
+skruzdýnas
 skruzdė
 skruzdėlynas
 skruzdėlė
 skrybėlė
 skrydis
 skrynia
+skrùdinti
+skrùsti
 skrúostas
 skuba
+skubai
 skubinti
 skubotas
 skubumas
 skubus
 skubėti
+skuduras
 skudurius
 skudùtis
 skujuotis
+skujãuogė
 skulptorius
 skulptorė
 skulptūra
@@ -31011,6 +33218,7 @@ skysčiui
 skysčiuose
 skysčius
 skysčių
+skãtinamasis sakinỹs
 skùbinti
 skýstis
 skėrys
@@ -31215,15 +33423,19 @@ smarãgdas
 smarãgdinis
 smauglys
 smaugti
+smaukalius
 smaukyti
 smaukytojas
-smaukýtuvas
+smaukytuvas
+smaukytùvas
+smaũkalas
 smaũkti
 smaũkymas
 smegenys
 smegenų mirtis
 smegenų plovimas
 smegma
+smeilė
 smela
 smerkti
 smerti
@@ -31231,6 +33443,7 @@ smertis
 smerčiai
 smidras
 smigis
+smigęs
 smilga
 smilkalai
 smilkinys
@@ -31246,6 +33459,12 @@ smogti
 smokingas
 smuikas
 smuikininkas
+smuikúoja
+smuikúojas
+smuikúoti
+smui̇̃kas
+smui̇̃kininkas
+smui̇̃kininkė
 smuklė
 smulkių prekių automatas
 smulkmena
@@ -31403,6 +33622,7 @@ smulkus buržuazija
 smulkūs pinigai
 smurtas
 smurte
+smùklė
 smėlio audra
 smėlio dėžė
 smėlio laikrodis
@@ -31430,6 +33650,7 @@ sniego kruopos
 sniego motociklas
 sniego rogės
 sniego senis
+sniego žmogus
 sniegstartė
 sniegu
 sniegui
@@ -31439,6 +33660,7 @@ sniegą
 sniegų
 snigti
 sninga
+sniẽgo žmogùs
 snukeris
 snukio ir nagų liga
 snukis
@@ -31446,6 +33668,7 @@ socialdemokratas
 socialdemokratija
 socialinis
 socialinis tinklas
+socialinė psichologija
 socialinė žiniasklaida
 socialistas
 socialistinis
@@ -31506,6 +33729,7 @@ sovietybė
 spagečiai
 spalis
 spalva
+spalvotas pieštukas
 spalvų̃ aklùmas
 spal̃gena
 spanguoliauti
@@ -31523,10 +33747,12 @@ spardytis
 sparnas
 sparnuotas
 sparnuotoji raketa
+spartai
 sparvos
 spauda
 spaudinys
 spaudos konferencija
+spaudos laisvė
 spaudos presas
 spaudà
 spausdinimo presas
@@ -31534,7 +33760,14 @@ spausdinti
 spausdintuvas
 spausti
 spaustuvai
+spaustuvininkas
+spaustuvininkė
 spaustuvė
+spaustùkai
+spaustùkas
+spaustùvai
+spaustùvas
+spaustùvinis
 spañguolė
 specialistas
 specialistė
@@ -31588,7 +33821,9 @@ spinduliuotė
 spindulys
 spinduolis
 spinta
+spintelė
 spiralė
+spirgai
 spirgas
 spirginys
 spirgutis
@@ -31640,11 +33875,18 @@ spynà
 spyris
 spyruoklė
 spáudyti
+spáusdinti
+spáusdintinis
+spáusdintoja
+spáusdintojas
+spáusti
 spòrtas
 spòrtbatis
 spòrtinis
 spòrtiškas
 spąstai
+spąstas
+spąste
 spėti
 spęsti
 spūstis
@@ -31675,8 +33917,10 @@ srovinis
 srovénti
 srovė
 srovė́ti
+srovė̃
 sruventi
 sruvénti
+sróvė
 srùtos
 srūti
 stabas
@@ -31704,6 +33948,7 @@ stalas
 stalinistas
 stalinistė
 stalinizmas
+stalinė leidyba
 staliukas
 stalo tenisas
 stalo žaidimas
@@ -31718,6 +33963,7 @@ starkis
 starkus
 starta
 startas
+statei
 statine
 statines
 statinys
@@ -31725,6 +33971,7 @@ statinė
 statistika
 statistinis
 stati̇̀nė
+stato
 statula
 status
 statusis kampas
@@ -31732,6 +33979,7 @@ statyba
 statybininkas
 statybinis
 statybvietė
+statys
 statyti
 statùs
 staubrỹs
@@ -31746,6 +33994,7 @@ stačiatikýbė
 stačiatikỹstė
 stačiãtikis
 stačiãtikiškas
+stačiãtikė
 stebi
 stebimas
 stebime
@@ -31872,6 +34121,7 @@ stilizacija
 stilizatorius
 stilizuoti
 stimpankas
+stimulas
 stingti
 stipendija
 stipriai̇̃
@@ -31920,17 +34170,20 @@ streikas
 strepetys
 stresas
 strimelė
+striukė
 stroboskopas
 stroncis
 stropus
 struktūra
 struktūrinis
+struktū̃rinė kalbótyra
 strutis
 strykas
 strãzdas
 strėlikė
 strėlinė
 strėlė
+strėnos
 stuburai
 stuburais
 stuburams
@@ -31967,6 +34220,7 @@ stãbaras
 stãbymas
 stãlo tènisas
 stãlo tènisininkas
+stãtas
 stãčias
 stèpė
 sténgtis
@@ -31978,19 +34232,23 @@ su
 su gimtadieniu
 su liežuviu tik plakti
 su-
-su-brukti(reflexive) su-si-brukti
-su-minti
+su-brukti
 su-nerti
+su-pinti
+su-si-brukti
 su-si-pinti
 su-varyti
 suanglė́ti
 suapvalintas
 suarti
 suaugusi
+suaugusysis
 suaugęs
 suauti
 suačiuoti
-subaigtisusibaigti
+subaigti
+subalamutintas
+subalamùtinti
 suberti
 subingalvis
 subjektas
@@ -32003,6 +34261,7 @@ subrę́sti
 subsidija
 subtilus
 subtitras
+suburbėti
 suburti
 subùsti
 subėgti
@@ -32016,26 +34275,33 @@ sudgabalis
 sudie
 sudieu
 sudirginti
+sudominti
 sudrausti
 suduoti
-suduotipasuduoti
 sudužti
+sudužusi širdis
 sudùrti
 sudėti
+sudėtingas
 sudėtingumas
 sudėtis
 sudėti̇̀ngumas
+sudėti̇̀nis sakinỹs
 sudėti̇̀s
 sueiti
 sueitis
 sueiti̇̀s
+suežis
 sufiksas
 sugadinimas
 sugadinti
 sugalėti
 sugauti
+sugebėti
+sugebė́jimas
 sugedęs
 sugeibti
+sugeriamasis
 sugerti
 sugesti
 suginti
@@ -32093,12 +34359,13 @@ sugluminąs
 sugluminčiau
 sugluminęs
 sugražinti
+sugrąžinti
 sugrįžti
 sugulti
-sugundytisusigundyti
+sugundyti
 sugundytojas
 sugūglinti
-suieškotisusiieškoti
+suieškoti
 suimti
 suinteresuoti
 sujaudinti
@@ -32106,8 +34373,8 @@ sujudinti
 sujudėti
 sujungimas
 sujungti
-sujungti(reflexive) susijungti
 sujunkti
+sujuosti
 sukakti
 sukaktuvės
 sukaktùvės
@@ -32120,13 +34387,16 @@ sukiesti
 sukilimas
 sukilėlis
 sukilėlė
-sukirstisusikirsti
+sukirsti
+sukirčiãvimas
+sukirčiúoti
 suklaidinti
 suklausti
 suklausyti
 suknelė
 suknisti
 sukraujúoti
+sukryžiuoti
 sukrèkti
 suktas
 sukti
@@ -32134,10 +34404,10 @@ suktinukas
 suktis
 sukurstyti
 sukurti
-sukurti(reflexive) susikurti
 sukutis
 sukvailioti
 sukàkti
+sukélti skaũsmą
 sukùšti
 sukąsti
 sukčiavimas
@@ -32214,7 +34484,8 @@ sumanymas
 sumanyti
 sumazgoti
 sumažinti
-sumedžiotisusimedžioti
+sumedžioti
+suminti
 sumokėti
 sumušti
 sumuštinis
@@ -32310,12 +34581,14 @@ suomių kalba (suomiškai)
 suomė
 suopis
 supakuoti
+supergalybė
 superherojus
 superkompiuteris
 supermarketas
 supernova
 supernovos liekana
 supervalstybė
+superžvaigždė
 supirkti
 supistas
 supisti
@@ -32323,6 +34596,7 @@ supjaustymas
 supjaustyti
 supjauti
 supjovimas
+suplakti
 suplauti
 supletyvizmas
 suplyšėlis
@@ -32374,14 +34648,18 @@ supratus
 supratęs
 suprausti
 suptis
+supykęs
 supóti
 supùlti
 supū́ti
 sura
+suras
+suraste
 surasti
 surašyti
 suregė́ti
 surikata
+surikti
 surinkti
 surišti
 surišti mazgu
@@ -32392,13 +34670,24 @@ surūdýti
 surūkyti
 susakyti
 susapnuoti
+susegti
 suseilėti
 susiarti
+susibaigti
+susibalamutinęs
 susidomėjimas
 susigaudyti
 susigrybáuti
 susigrūdimas
+susigundyti
+susiieškoti
+susiilgti
+susijungti
+susijuosti
 susijęs
+susikirsti
+susikurti
+susimedžioti
 susimušti
 susimylúoti
 susimókymas
@@ -32420,6 +34709,7 @@ susitarimas
 susitikimas
 susitikti
 susituokti
+susitylėti
 susiuva
 susiuvai
 susiuvamas
@@ -32464,13 +34754,14 @@ susiūte
 susiūti
 susiūtinai
 susiūtinas
-susiūtipasusiūtisusisiūti
 susiūtum
 susiūtumėme
 susiūtumėte
 susiūtų
 susiūčiau
 susiųsti
+susižavėti
+susi̇̀jęs
 suskaidymas
 suskaityti
 suskaitýti
@@ -32487,7 +34778,7 @@ sustabdyti
 sustatýti
 sustóti
 susukti
-susyti
+susýti
 susėjimas
 susėti
 sutaikymas
@@ -32560,8 +34851,8 @@ sutemos
 suteneris
 sutikimas
 sutikti
-sutiktisusitikti
 suti̇̀rti
+sutrikimas
 sutrukdai
 sutrukdamas
 sutrukdant
@@ -32613,13 +34904,14 @@ sutrukdžiau
 sutrukdžius
 sutrumpinimas
 sutrypti
+sutuokti
 sutuoktinis
 sutuokti̇̀nė
 sutuoktuvės
 suturėti
 sutvarkymas
 sutvarkyti
-sutylėtisusitylėti
+sutylėti
 suvakarieniáuti
 suvaldyti
 suvalgai
@@ -32815,6 +35107,7 @@ svaigalai
 svainis
 svainė
 svaja
+svajingas
 svajoklis
 svajoklė
 svajone
@@ -32881,6 +35174,7 @@ svetimžodis
 svetingumas
 svetur
 svečias
+svečių namai
 sviedinys
 sviestas
 sviesti
@@ -32903,7 +35197,6 @@ svyruoklė
 svyruoti
 sváinė
 syborgis
-syn: buvimas
 syvas
 sàvo
 sántykis
@@ -32912,6 +35205,7 @@ sáulės vė́jas
 sãkalas
 sãkalininkas
 sãkališkas
+sãkymas
 sãlės fùtbolas
 sãlės fùtbolininkas
 sãpnas
@@ -32919,10 +35213,14 @@ sèkso pozà
 sénti
 séntikis
 séntikė
+sénvagė
+sòftbolas
+sóstas
 sóstinė
 sù
 sùltys
 súodžiai
+sýti
 są-
 sąjunga
 sąjungininkas
@@ -32938,8 +35236,6 @@ sąmyšis
 sąnarys
 sąnašinė lyguma
 sąrašas
-sąryšys
-sąsaja
 sąsiauris
 sąsiuvinis
 sąskaita
@@ -32959,9 +35255,12 @@ sąžinės priekaištai
 są́mokslas
 są́mokslininkas
 są́mokslininkė
+są́ryšys
+są́saja
 są́veika
 są́veikauti
 są́žinė
+sėbras
 sėdi
 sėdimas
 sėdime
@@ -33072,6 +35371,8 @@ sėjikas
 sėjikė
 sėjimas
 sėjomaina
+sėjėja
+sėjėjas
 sėjūnas
 sėjūnė
 sėkla
@@ -33189,16 +35490,20 @@ sė́klinis latãkas
 sė́klinė pūslẽlė
 sūdytas
 sūdyti
+sūni̇́enė
 sūnus
+sūnáitis
+sūnùs
 sūnėnas
+sūnė́nas
 sūrelis
 sūris
 sūrumas
 sūrus
 sūrẽlis
+sẽkmas
 sẽnas
 sẽnis
-t
 t. y.
 t.p.
 t.y.
@@ -33230,9 +35535,16 @@ taifūnas
 taiga
 taigi
 taika
+taikdarys
+taikdarỹstė
+taikiai̇̃
 taikinys
+taiki̇̀ngas
+taikos derybos
 taikyti
 taikytis
+taikà
+taikùs
 tailandietis
 tailandietė
 taip
@@ -33247,9 +35559,11 @@ taisyklė
 taisyklės skirtos jas sulaužyti
 taisymas
 taisyti
+taisytis
 taisýti
 taisýtis
 taisỹklė
+tajam
 tajiškai
 tajiškas
 tajų
@@ -33257,6 +35571,7 @@ tajų kalb
 takas
 taksas
 taksi
+taksi stotelė
 taksonomija
 taktika
 talantas
@@ -33269,12 +35584,17 @@ talismanas
 taljateliai
 talka
 talkininkas
+talmudi̇̀stas
+talmudi̇̀stė
 talonas
 talpykla
 talžyti
 tam
 tam tikras
+tampa
+tampi
 tamponas
+tampu
 tamsa
 tamsiaakis
 tamsiaãkis
@@ -33288,6 +35608,8 @@ tamsùs
 tango
 tankas
 tankis
+tanki̇̀stas
+tanki̇̀stė
 tanklaivis
 tankumas
 tankumynas
@@ -33300,10 +35622,16 @@ tanzanitas
 tanzanė
 taonas
 taoninis neutrinas
+tapai
 tapatybės kortelė
+tapau
 tapetai
+tapo
 taps
+tapsi
+tapte
 tapti
+tapus
 tapyba
 tapybos kūrinys
 tapyras
@@ -33356,7 +35684,16 @@ tarkim
 tarkime
 tarkite
 tarkuoti
+tarmi̇̀nis
+tarmýbė
 tarmė
+tarmėtyra
+tarmėtyrininkas
+tarmėtyrą
+tarmė́tyra
+tarmė́tyrininkas
+tarmė́tyrininkė
+tarmė̃
 tarnai
 tarnais
 tarnams
@@ -33381,6 +35718,7 @@ tarp kitko
 tarp-
 tarpamatis
 tarpas
+tarpežis
 tarpijos
 tarpiklis
 tarpininkas
@@ -33389,6 +35727,8 @@ tarpinis
 tarpinstitucinis
 tarpinės smegenys
 tarpiškas
+tarpledýninis
+tarpledýnmetis
 tarpsnis
 tarptautiniai santykiai
 tarptautinis
@@ -33414,6 +35754,7 @@ tarpvietę
 tarpviečių
 tarpžvaigždinis
 tarpžvaigždi̇̀nis
+tarpẽklis
 tars
 tarsi
 tarsiant
@@ -33444,8 +35785,14 @@ tarėme
 tarėte
 taręs
 tarša
+tar̃minis
+tar̃miškas
+tar̃pdantis
+tar̃pledynmetis
+tar̃ti
 tas
 tas pats
+tasai
 tatuiravai
 tatuiravau
 tatuiravimas
@@ -33687,6 +36034,7 @@ teejakuliuoja
 tefilinas
 tegali
 tegauna
+tegenda
 tegeria
 tegu
 tegul
@@ -33696,6 +36044,7 @@ teigi̇̀mas
 teigti
 teikti
 teikėjas
+teima
 teinas
 teine
 teino
@@ -33707,6 +36056,7 @@ teisininkė
 teisinis
 teisi̇̀mas
 teismas
+teismo salė
 teisti
 teisumas
 teisuolis
@@ -33717,8 +36067,10 @@ teisėja
 teisėjas
 teisėjauti
 teisėjavimas
+teisėjūkštis
 teisėjų
 teisėsauga
+teisėtas
 teišbučiuoja
 teiškeliauja
 teišlaižo
@@ -33736,6 +36088,8 @@ tekalba
 tekaltina
 tekbolas
 tekeliauja
+tekila
+tekilà
 tekis
 tekstai
 tekstais
@@ -33778,6 +36132,7 @@ telugų kalba
 telūras
 telūru
 tema
+temano
 temasturbuoja
 temato
 temedžioja
@@ -33786,6 +36141,7 @@ temperatūra
 templė
 temptį gumą
 temptį laiką
+temti
 temyli
 temyža
 ten
@@ -33876,6 +36232,7 @@ ter̃minas
 tesako
 tesapnuoja
 teseilėja
+teseka
 tesignalizuoja
 tesimasturbuoja
 tesiuva
@@ -33883,6 +36240,7 @@ teskaito
 teskrenda
 teslėpia
 testamentas
+testato
 testebi
 testosteronas
 tesuglumina
@@ -33930,14 +36288,7 @@ težada
 težaidžia
 težino
 težiūri
-the day before
-the feminine form
 the masculine form
-the next day
-three days ago
-three days before
-three days earlier
-three days later
 tibetinė lapė
 tiekimo grandinė
 tiekti
@@ -33945,12 +36296,12 @@ tiekėja
 tiekėjas
 ties
 tiesa
-tiesi
 tiesiai
 tiesiog
 tiesiogiai
 tiesioginis
 tiesioginė nuosaka
+tiesióginis sakinỹs
 tiesti
 tiesumas
 tiesus
@@ -33961,8 +36312,10 @@ tik tik
 tikimybių teorija
 tikmedis
 tikrai
+tikrai̇̃
 tikras
 tikras vyras
+tikriausiai
 tikrieji agučiai
 tikrinis daiktavardis
 tikrinti
@@ -33976,6 +36329,8 @@ tikslingas
 tikslus
 tiktai
 tikti
+tiktokeris
+tikyba
 tikėjimas
 tikėti
 tikėtis
@@ -33994,6 +36349,7 @@ tinginỹs
 tingti
 tingus
 tingė́ti
+tinkamas
 tinkinti
 tinklainis
 tinklainė
@@ -34008,8 +36364,15 @@ tinkli̇̀nis
 tinti
 tipas
 tipografija
-tiramisu
+tira
+tirame
+tiramisù
+tirami̇̀sas
+tirant
 tiras
+tirate
+tiri
+tirk
 tironija
 tironiškas
 tirpalas
@@ -34022,6 +36385,8 @@ tirpti
 tirpumas
 tirpus
 tirpùs
+tirs
+tirsi
 tirti
 tirtė́ti
 tirštas
@@ -34037,13 +36402,13 @@ tiñklininkas
 tiñklininkė
 tiñkliškas
 tiùrkas
+ti̇̀mpa
 ti̇̀ngti
 to
 to break away
 to make off
 to slip away
 tobulas
-today
 todėl
 todėl, dėl to, užtat
 todėl, kad
@@ -34062,16 +36427,18 @@ toliau
 toliaũ
 tolimas
 tolinti
+tolintis
 tolis
 toluma
 tolus
 tolybė
 tolydinis
 tolydumas
+tolydus
+tolydžio
 tolygus
 tomahaukas
 tomas
-tomorrow
 tona
 tonacija
 tonas
@@ -34088,6 +36455,7 @@ torsas
 tortas
 tortilainis
 tortilija
+torto
 totalitarinis
 totalitarizmas
 totemas
@@ -34168,6 +36536,7 @@ tranzuoti
 trapecija
 trapus
 trasa
+traukiniu
 traukinys
 traukti
 traškutis
@@ -34182,6 +36551,9 @@ tremti
 tremtis
 treneris
 trenerė
+treniruoti
+treniruotė
+treniruõtė
 trenkti
 trepanacija
 trestas
@@ -34210,6 +36582,8 @@ trikojis
 trilbis
 trileris
 trimitas
+trimitininkas
+trimituotojas
 trinti
 trintukas
 trintuvė
@@ -34218,6 +36592,7 @@ triolètas
 triptikas
 triratis
 triratukas
+trirãtis
 trisdešimt
 trisdešimtas
 trispalvė
@@ -34233,11 +36608,14 @@ trišalis pokalbis
 trišalis susitikimas
 triūsas
 tri̇̀nti
+tri̇̀ratis
 trln.
 trobelė
 trobãgrybis
+trofėjus
 trokšti
 troleibusas
+troleibùsas
 trolis
 trombas
 trombinas
@@ -34283,6 +36661,7 @@ trãnas
 trýlika
 trąša
 trūkis
+trūkęs
 trẽšnė
 tu
 tu man patinki
@@ -34294,6 +36673,7 @@ tuberkuliozė
 tugra
 tujinti
 tukanas
+tukti
 tulis
 tulpė
 tulžies akmuo
@@ -34319,7 +36699,9 @@ turbanas
 turbina
 turbūt
 turgavietė
+turgumi
 turgus
+turgų
 turi
 turimas
 turime
@@ -34597,6 +36979,7 @@ turėsiąs
 turėtas
 turėte
 turėti
+turėti omenyje
 turėtinai
 turėtinas
 turėtoja
@@ -34609,11 +36992,13 @@ turėčiau
 turįs
 tur̃gus
 tur̃tas
+tuzinas
 tuõj
 tušas
 tušinukas
 tuštuma
 tuštybė
+tuščia
 tuščias
 tuščiaviduris
 tvanas
@@ -34762,6 +37147,7 @@ tvarkingąsias
 tvarkingų
 tvarkingųjų
 tvarki̇̀ngas
+tvarkoj
 tvarkoje
 tvarkomis
 tvarkoms
@@ -34791,10 +37177,6 @@ tvirtýbė
 tvirtėti
 tviteris
 tvora
-two days ago
-two days before
-two days earlier
-two days later
 tykus
 tyla
 tyli
@@ -34903,8 +37285,12 @@ tyrinė́ti
 tyri̇̀mas
 tyrėjas
 tyrė́jas
+tyčia
+tyčioti
 tàvo
 tàvo Šviesióji Aukštybė
+táikinti
+táikomoji kalbótyra
 tárpas
 táu
 táu neutri̇̀nas
@@ -34916,7 +37302,13 @@ tólimas
 tóšis
 tù
 tùščias
+týtinti
+týtyti
+týčinis
+týčiotis
+tą
 tądien
+tąsias
 tąsumas
 tėkmė
 tėtis
@@ -34940,6 +37332,7 @@ tė́vas
 tė́viškas
 tęsti
 tūba
+tūbė
 tūkst.
 tūkstantas
 tūkstantis
@@ -34948,6 +37341,7 @@ tūkstančio mylių kelionė prasideda žengus vieną žingsnį
 tūris
 tūzas
 tū́kstantas
+tų
 tẽkis
 u
 ugandietis
@@ -34997,6 +37391,7 @@ ugnikalniui
 ugnikalniuose
 ugnikalnius
 ugnikalnių
+ugnikalni̇̀nis
 ugnikalnyje
 ugnikalnį
 ugninga
@@ -35140,6 +37535,10 @@ ugningų
 ugningųjų
 ugninis
 ugnis
+ugni̇̀ngas
+ugni̇̀nis
+ugni̇̀s
+ugnẽlė
 ui!
 ukrainietis
 ukrainietiškai
@@ -35148,6 +37547,7 @@ ukrainietýbė
 ukrainietė
 ukrainiečių
 ukrainiečių kalba
+ukrainiẽtis
 ukrainofobija
 ukrainų kalba
 ulbaudama
@@ -35213,6 +37613,7 @@ uniforma
 unikaliai
 unikalumas
 unikalus
+unitas
 unitazas
 unitazo pompa
 universalinė parduotuvė
@@ -35387,17 +37788,17 @@ už uždarų durų
 už-
 už-brukti
 už-kalti
-už-minti
-už-minti(reflexive) už-si-minti
 už-si-varyti
+už-varyti
 užadyti
 užapvalintas
 užarti
 užauti
 užbaigimas
-užbaigtiužsibaigti
+užbaigti
 užberti
 užbrinkti
+užburbėti
 užburtas ratas
 užburti
 užbučiuoti
@@ -35457,7 +37858,6 @@ uždavinys
 uždegimas
 uždegiminis
 uždegti
-uždegti(reflexive) užsidegti
 uždengti
 uždirbti
 uždobti
@@ -35468,7 +37868,7 @@ užduoti
 užduotis
 uždėti
 užeiti
-užgalėtiužsigalėti
+užgalėti
 užganyti
 užgauti
 užgeisti
@@ -35480,20 +37880,24 @@ užgesęs
 užginti
 užgniaužti
 užgriūti
-užgultiužsigulti
+užgulti
 užgundyti
 užieškoti
+užilgti
 užimtas
+užjausti
 užjudinti
 užkaklė
 užkalbėti
 užkaltinti
+užkandi̇̀nė
 užkardėlė
+užkariauti
 užkariavimas
 užkeliauti
 užkelti
 užkiesti
-užkirstiužsikirsti
+užkirsti
 užklausti
 užklotas
 užkraujúoti
@@ -35517,12 +37921,14 @@ užminti
 užmirti
 užmiršti
 užmokestis
+užmokėti
 užmušti
 užmylúoti
 užmylėti
 užmyžti
 užnaiki̇̀nti
 užniáukti
+užpakalinis
 užpakalis
 užpardavei
 užpardaviau
@@ -35576,28 +37982,38 @@ užrašas
 užrašyti
 užrašų knygutė
 užriesti
+užrikti
 užrinkti
 užristi
 užrišti
 užrėkti
 užrūkyti
 užsakyti
-užsakytiužsisakyti
 užsapnuoti
+užsegti
 užsiarti
+užsibaigti
 užsibūti
 užsidegimas
+užsidegti
 užsidengti
 užsienietis
-užsienietiškas
 užsienietė
 užsieninis
 užsienio kalba
 užsienio skola
 užsienis
+užsieni̇̀nis
+užsieniẽtis
+užsieniẽtiškas
+užsieniẽtė
+užsigalėti
 užsiganyti
 užsigrybáuti
+užsigulti
+užsiilgti
 užsiimti
+užsikirsti
 užsiklausyti
 užsilikti
 užsimerk
@@ -35645,18 +38061,27 @@ užsimerkė
 užsimerkėme
 užsimerkėte
 užsimerkęs
+užsiminti
 užsimušti
 užsirašinėti
 užsirašyti
 užsiregistruoti
+užsisakyti
 užsisegti
+užsisiūti
+užsisklendęs
 užsispyręs
 užsistebėti
 užsisukti
+užsisvajoti
+užsitylėti
+užsivilkti
 užsičiaupk
 užsičiaupkite
+užsičiaupti
 užsiėmusiam
-užsiūtiužsisiūti
+užsiėmęs
+užsiūti
 užsiųsti
 užskalbti
 užskersti
@@ -35738,10 +38163,10 @@ užtikrinti
 užtikti
 užtrauktukas
 užtrokšti
-užturėtipaužturėti
+užturėti
 užtvanka
 užtvara
-užtylėtiužsitylėti
+užtylėti
 užugdyti
 užuojauta
 užuolaida
@@ -35809,10 +38234,11 @@ užvažiuoti
 užveikti
 užveržti
 užvesti
-užvilkti(reflexive) užsivilkti
+užvilkti
 užvirinti
 užvirsti
 užvirti
+užzombinti
 užčiulpti
 užėjimas
 užėjėja
@@ -35826,7 +38252,6 @@ užžengti
 užžibti
 užžibė́ti
 užžiūrėti
-v
 va
 va būti
 vabalas
@@ -35858,6 +38283,7 @@ vaginalinis seksas
 vagis
 vagi̇̀s
 vagnorkė
+vagnorėlis
 vagonas
 vagonas restoranas
 vagoniņš
@@ -35947,6 +38373,7 @@ vaivorýnas
 vaivóti
 vaizdas
 vaizdasaka
+vaizdavimas
 vaizdelis
 vaizdinga
 vaizdingai
@@ -35959,7 +38386,6 @@ vaizdingam
 vaizdingame
 vaizdingas
 vaizdingasis
-vaizdingasvaizdingaivaizdingumas
 vaizdingesne
 vaizdingesnei
 vaizdingesnes
@@ -36090,13 +38516,14 @@ vaizdingų
 vaizdingųjų
 vaizdinis
 vaizdinys
+vaizdo kamera
 vaizdo klipas
 vaizdo registratorius
 vaizdo įrašas
+vaizdumas
 vaizduoti
-vaizduotivaizdavimas
 vaizduotė
-vaizdusvaizdumas
+vaizdus
 vaizdų apdorojimas
 vai̇̃kas
 vakar
@@ -36239,7 +38666,8 @@ valgyk
 valgykime
 valgykite
 valgykla
-valgymo sutrikimai
+valgyklà
+valgymo sutrikimas
 valgys
 valgysi
 valgysiant
@@ -36297,6 +38725,7 @@ valstietis
 valstietė
 valstija
 valstijos
+valstybe
 valstybingumas
 valstybininkas
 valstybinis
@@ -36306,6 +38735,7 @@ valstybė
 valstybė narė
 valstybės perversmas
 valstybės vadovas
+valstybę
 valsčius
 valtininkas
 valtis
@@ -36327,6 +38757,7 @@ vanadi
 vanadinitas
 vanadis
 vanagas
+vanagė
 vandemjeras
 vandenie
 vandenilis
@@ -36345,6 +38776,7 @@ vandens
 vandens kelias
 vandens laikodris
 vandens malūnas
+vandens parkas
 vandens patranka
 vandens ratas
 vandens telkinys
@@ -36381,26 +38813,46 @@ vard.
 vardadienis
 vardas
 vardažodis
+vardažodi̇̀nis
 vardiklis
 vardininkas
+vardiniñkas
+vardãžodis
 vargas
+varge
 vargingas
 varginti
 vargi̇̀ngas
+vargo
 vargonai
+vargondirbė̃
+vargondirbỹs
+vargonininkas
+vargonúoti
+vargonė̃liai
+vargs
 vargti
+vargu
 vargus
+vargõnininkas
+vargõnininkė
 vargšas
 vari
 variantas
 varikas
 variklis
 varikė
+varininkas
 varinis
+varinė
 varinėti
 vario
+variokas
 varis
 variu
+variuoti
+vark
+varkalys
 varle
 varlei
 varles
@@ -36439,6 +38891,7 @@ varovas
 varovė
 varpa
 varpai
+varpaliejỹs
 varpas
 varpininkas
 varpininkė
@@ -36461,8 +38914,10 @@ varputės galvutė
 varputėse
 varputę
 varpučių
+varpáuti
 varpą
 varpų
+varpẽlis
 varstas
 vartai
 vartininkas
@@ -36581,9 +39036,17 @@ varžas
 varžovas
 varžtas
 varžtelis
+varžu
 varžybos
 varžymas
 varžyti
+varžytis
+var̃das
+var̃dyti
+var̃pas
+var̃pinė
+var̃tai
+var̃tinis tènisas
 vasara
 vasarai
 vasaras
@@ -36628,6 +39091,7 @@ veidrodis
 veik
 veika
 veikalas
+veikiai
 veikiamasis
 veikiamoji rūšis
 veikimas
@@ -36637,7 +39101,10 @@ veiksmažodis
 veiksmingai
 veiksmingas
 veiksmingumas
+veiksmi̇̀ngas
 veiksmãžodis
+veiksmãžodiškas
+veiksmãžodi̇̀nis
 veiksnys
 veikti
 veiktinis
@@ -36645,6 +39112,8 @@ veiktis
 veikėja
 veikėjas
 veislė
+vei̇̃ksmas
+vei̇̃kti
 veja
 vejapjovė
 veksilologija
@@ -36663,10 +39132,19 @@ velsietiškas
 velti
 veltiniai
 veltinys
+veltui
+velykáitis
+velykáuti
+velýkinis
+velýkinė
+velýkiškas
 vemti
 vena
 vendingas
 venerinė liga
+vengi
+vengia
+vengiate
 vengras
 vengriška
 vengriškai
@@ -36713,6 +39191,8 @@ vengriškųjų
 vengrė
 vengrų
 vengrų skalikas
+vengti
+venkite
 venteris
 ventiliatorius
 veranda
@@ -36720,6 +39200,7 @@ verbavimas
 verbuoti
 verdenė
 verdiktas
+verdulis
 vergai
 vergais
 vergas
@@ -36739,6 +39220,7 @@ verkėjas
 verkšlenti
 vermišeliai
 vermutas
+veronika
 verpalai
 verpstukas
 verpti
@@ -36760,11 +39242,14 @@ vertybinis
 vertybė
 vertė
 vertėjas
+verčiau
+verš
 veršiena
 veršis
 veršiukas
 veržlė
 veržti
+ver̃kti
 ver̃slas
 ver̃slininkiškas
 ver̃slinis
@@ -36775,10 +39260,13 @@ vestuvės
 vestùvininkas
 vestùvinis
 veteranas
+veterinaras
 veterinarija
 veterinarinis
 veterinãras
+veterinãrija
 veterinãrinis
+veterinãrė
 vetušas
 veñgrinė
 večas
@@ -36795,7 +39283,7 @@ vidaus degimo variklis
 video
 video kasetė
 video kasetę
-video žaidimai
+video žaidimas
 videoklipas
 vidinis
 vidinė ausis
@@ -36807,9 +39295,11 @@ viduriavimas
 vidurinis
 vidurinės smegenys
 viduriukas
+viduriuoti
 viduriùkas
 vidurių šiltinė
 viduri̇̀nis
+viduri̇̀nė mokyklà
 viduriẽtis
 vidurnaktis
 vidurys
@@ -36821,11 +39311,25 @@ vidža lentelė
 viela
 vielasiūlė
 vien
+vien(a)-
 viena
+viena koja
+viena ranka
 viena vertus
+vienai
 vienaip
+vienam
 vienaragis
 vienas
+vienas kaip pirštas
+vienas o vienas
+vienas per kitą
+vienas pro vieną
+vienas už kitą
+vienas už vieną eina
+vienas velnias
+vienas vienoj
+vienas į vieną
 vienaskaita
 vienaskaitos
 vienaskilčiai
@@ -36838,6 +39342,8 @@ vienetinis
 viengubas
 viengungis
 viengungiškas
+vieni
+vieni niekai
 vieningai
 vieningas
 vieningumas
@@ -36855,9 +39361,18 @@ vienišùmas
 vienišėti
 vienkartinis
 vienkartis
+vieno
+vieno kaulo
 vienodas
 vienoks
+vienos
+vienos ašaros
+vienos dienos
 vienratis
+vienrãtis
+vientisi̇̀nis sakinỹs
+vienu
+vienu lydžiu
 vienu šūviu nušauti du zuikius
 vienuolika
 vienuoliktas
@@ -36866,10 +39381,13 @@ vienuoliktokė
 vienuolis
 vienuolynas
 vienuolė
+vienus
 vienybė
 vienyti
+vienytis
 vienãskaita
 vienúolika
+vieną
 viesulas
 vieta
 vietininkai
@@ -36925,6 +39443,7 @@ vilkams
 vilkas
 vilkas avies kailyje
 vilkdalgis
+vilkdantis
 vilke
 vilkikas m
 vilkikė
@@ -36932,6 +39451,7 @@ vilkimas
 vilkinimas
 vilkinti
 vilkiukas
+vilki̇̀kas
 vilko
 vilkolakis
 vilks
@@ -36960,6 +39480,7 @@ vilnietė
 vilnis
 vilni̇̀škis
 vilnonas
+vilnonis
 vilnos
 vilti
 viltis
@@ -36967,10 +39488,20 @@ vinelė
 vingis
 vinis
 vinkšna
+violetinis
 violetinė
+violončelininkas
+violončeli̇̀stas
+violončeli̇̀stė
 violončelė
+violončèlininkas
+violončèlininkė
+violončèlė
 viralas
 virbas
+virduklis
+virdulas
+virduliuoti
 virdulys
 virimas
 virkštelė
@@ -36985,6 +39516,7 @@ virtinis
 virtinukas
 virtinė
 virtuali realybė
+virtualioji mašina
 virtuoti
 virtuvė
 virus
@@ -37018,6 +39550,7 @@ vis
 vis dar
 vis tiek
 vis-
+visa
 visad
 visada
 visada prašom
@@ -37025,6 +39558,9 @@ visagalio
 visagalis
 visai
 visaip
+visais
+visam
+visame
 visas
 visata
 visažinis
@@ -37037,12 +39573,16 @@ visiškai
 visiškas
 visiškas užtemimas
 viskas
+viskio
 viskis
 vislab
+viso
 viso gero
 visoks
+visos
 visos teisės saugomos
 visovė
+visu
 visuma
 visuminis
 visuomenininkas
@@ -37051,12 +39591,16 @@ visuomeninti
 visuomenis
 visuomeniškas
 visuomenė
+visuomenės sutartis
 visuomet
 visuotinis
 visuotinis atšilimas
 visur
+visus
 visutėlis
 visybė
+visą
+visų
 visų šalių proletarai, vienykitės
 visųpirm
 visžalis
@@ -37089,6 +39633,7 @@ viščiukus skaičiuoja vakarais
 viščiùkas
 vi̇̀ltis
 vi̇̀štininkas
+vi̇́enratis
 viẽtininkas
 viẽtinis
 viẽtoj
@@ -37227,6 +39772,7 @@ voverėms
 voverės
 voverėse
 voverę
+voxelis
 vulgarus žmogus
 vulkaniniai pelenai
 vulkaninė žiemà
@@ -37240,36 +39786,38 @@ vylius
 vynai
 vynas
 vyndarys
-vyndarys(wine-making): vynininkystė
 vyndarystė
 vyndaržis
 vyndarỹs
-vyningas
 vynininkas
-vyninis
+vynininkystė
 vyninkas
 vyninė
-vyniškas(adv.): vyniškai ()
+vyniškai
 vynkekė
 vynmaišis
 vynmediniai
+vynmedinis
 vynmedis
 vynmetis
 vynuogenojas
+vynuogiauti
+vynuogienojas
 vynuogienójas
 vynuogininkas
+vynuogininkystė
 vynuogininkỹstė
+vynuoginis
 vynuogiáuti
 vynuogiãvimas
 vynuogi̇̀nis
 vynuogynas
 vynuogýnas
 vynuogė
-vynuogė(adj.): vynuoginis(grape grower): vynuogininkas(wine-making): vynuogininkystė(grapevine): vynuogienojas(to pick grapes): vynuogiauti(vineyard): vynuogynas
 vynvytis
 vynynas
 vynyčia
-vynšakė(adj.): vynmedinis
+vynšakė
 vyr.
 vyr. g.
 vyrai
@@ -37420,6 +39968,7 @@ vyro
 vyro sesuo
 vyru
 vyrui
+vyrukas
 vyruose
 vyrus
 vyrùkas
@@ -37451,10 +40000,12 @@ vyšniúotas
 vyšni̇̀nė
 vyšniẽnė
 vyšnýnas
+vãbalas
 vãkaro žvaigždė̃
 vãlymas
 vãrymas
 vélniškai
+vélniškas
 vérgas
 vókietininkas
 vókietinti
@@ -37464,7 +40015,6 @@ výriškas
 výskupas
 výskupiškas
 vąšelis
-vēksmažuodis
 vėdarai̇̃
 vėdarėlis
 vėdinti
@@ -37516,11 +40066,13 @@ vỹšninis
 vỹšniškas
 xenoantropologija
 xenozoologija
+xuj znajiet
+xz
+xzn
 y
 yda
 ydingas
 ydingùmas
-yesterday
 yla
 ylius
 ynis
@@ -37654,14 +40206,19 @@ ypatingų
 ypatingųjų
 ypatumas
 ypatus
+ypatybe
 ypatybė
+ypatybę
 ypatýbė
 ypač
 ypačiai
 yra
 yžė̃
-z
 zakiatas
+zakristija
+zakristijonas
+zakristijà
+zakristijõnas
 zalatas
 zalatininkas
 zalatinis
@@ -37676,9 +40233,14 @@ zarna
 zebras
 zebrinis ryklys
 ziemeļu gulbis
+zigota
 zirzėti
 zizifas
 zičiai
+zlotas
+zloto
+zlotu
+zlòtas
 zodiakas
 zodiako
 zombis
@@ -37704,19 +40266,28 @@ zuikis
 zuikė
 zvimbti
 zylė
-{{t|1=lt|2=šildyti}}
+Áltingas
 Ánglija
+Ãšmantas
 Èdenas
+Èduskunta
 Èdvardas
+Èdvydas
 Èstija
+Ìlmantas
+Ìlvydas
+Ìmantas
 Ìndijos Respùblika
+Ùžventis
 àš
 áiža
 álpinis
 ánglas
 ánglinti
+ánglė
 ántis
 árklas
+árti
 áudra
 áusti
 ãbejas
@@ -37729,17 +40300,23 @@ zylė
 ãvalynė
 ãvinas
 ãšara
+élnias
+élnininkas
+élnė
 òrgija
 óda
 ùgdymas
 ùlbavimas
+ùrna
 ùžjūris
+ùžsienis
 úoga
 úogininkas
 úoginis
 úostyti
 úošvis
 ýdingai
+ýdingas
 Ą
 ą
 ąsa
@@ -37762,11 +40339,16 @@ zylė
 ąžuolą
 ąžuolėlis
 ąžuolų
-Č
 Čadas
+Čaikauskas
 Čaikovskis
 Čampa
 Čanakalė
+Čaplinskas
+Čarnas
+Čarnauskas
+Čarneckas
+Čartoriskis
 Čekija
 Čekijai
 Čekijoje
@@ -37788,9 +40370,12 @@ zylė
 Černiauskas
 Černigovas
 Černihivas
+Černius
 Černobylis
 Česlovas
+Česnauskas
 Česnauskis
+Četvertinskas
 Čečėnija
 Čhatisgarhas
 Čiba
@@ -37802,10 +40387,11 @@ zylė
 Čiukčių jūra
 Čiuvašija
 Čiuvãšija
+Čiõvydas
+Čosnuvka
 Čosonas
 Čučhė
 Čèkija
-č
 čaižyti
 čardašas
 čeburekas
@@ -37865,6 +40451,7 @@ zylė
 česnakų spaustuvas
 čia
 čiabata
+čiaudulỹs
 čiaudėti
 čiaupas
 čigonas
@@ -37875,6 +40462,7 @@ zylė
 činkvedėja
 čiobrẽlis
 čionai̇̃
+čirvai
 čiuko kalba
 čiukčis
 čiukčių kalba
@@ -37936,14 +40524,18 @@ zylė
 čiul̃pti
 čiuožinė́ti
 čiuoži̇̀kas
+čiuoži̇̀kė
 čiuoži̇̀mas
 čiuožti
 čiuožykla
+čiuožyklà
 čiuožėjas
+čiuožė́ja
 čiuožė́jas
 čiuožỹnė
 čiupti
 čiuptuvas
+čiurinti
 čiurkšlys
 čiurkšlė
 čiurlenti
@@ -37956,6 +40548,7 @@ zylė
 čiužinys
 čiõbras
 čiõn
+čiùožtelėti
 čiūvas
 Ė
 ė
@@ -37987,6 +40580,8 @@ zylė
 ėjome
 ėjote
 ėjus
+ėjėja
+ėjėjas
 ėjęs
 ėjūnas
 ėjūnė
@@ -38035,15 +40630,17 @@ zylė
 į sveikatą
 į viršų
 į-
-į-brukti(reflexive) į-si-brukti
+į-brukti
 į-kalti
-į-minti(reflexive) į-si-minti
+į-pinti
+į-si-brukti
 į-si-pinti
 į-si-varyti
+į-varyti
 įarti
 įauti
 įbaigimas
-įbaigtiįsibaigti
+įbaigti
 įbauginti
 įberti
 įbrinkti
@@ -38063,6 +40660,7 @@ zylė
 įbrolį
 įbrėžti
 įbrę́sti
+įburbėti
 įbėgti
 įbūti
 įcentrinė jėga
@@ -38316,7 +40914,7 @@ zylė
 įgalėdavęs
 įgalėjai
 įgalėjau
-įgalėjimasįsigalėjimas
+įgalėjimas
 įgalėjo
 įgalėjome
 įgalėjote
@@ -38339,7 +40937,6 @@ zylė
 įgalėti
 įgalėtinai
 įgalėtinas
-įgalėtiįsigalėti
 įgalėtum
 įgalėtumėme
 įgalėtumėte
@@ -38360,10 +40957,11 @@ zylė
 įgyvendinimas
 įgyvendinti
 įgyvéndinimas
+įgąsdinti
 įgūdis
+įilgti
 įjudinti
 įjungti
-įjungti(reflexive) įsijungti
 įjunkis
 įjunkti
 įjuokauti
@@ -38469,8 +41067,8 @@ zylė
 įkeliavus
 įkeliavęs
 įkelti
-įkirstiįsikirsti
-įklausytiįsiklausyti
+įkirsti
+įklausyti
 įklotė
 įkraujúoti
 įkurti
@@ -38484,13 +41082,16 @@ zylė
 įlaižyti
 įlanka
 įleisti
-įlieti(reflexive) įsilieti
+įlieti
 įlįsti
+įmaišyti
 įmanomas
 įmanyti
 įmesti
+įminti
 įmirkti
-įmirtiįsimirti
+įmirti
+įmokėti
 įmontuotoji programinė įranga
 įmonė
 įmotė
@@ -38551,13 +41152,16 @@ zylė
 įrenginys
 įrinkti
 įrišti
+įrodinėti
 įrodymas
+įrodyti
 įrūkyti
 įsakas
 įsakmė
 įsakymas
 įsakyti
 įsapnuoti
+įsegti
 įseilėti
 įsesere
 įseserei
@@ -38570,6 +41174,7 @@ zylė
 įseserės
 įseserėse
 įseserę
+įsibaigti
 įsibrauti
 įsibrovėlis
 įsigalėjimas
@@ -38577,20 +41182,30 @@ zylė
 įsiganyti
 įsigrybáuti
 įsijudėti
+įsijungti
+įsikirsti
 įsiklausti
 įsiklausyti
+įsikurti
 įsikąsti
 įsilaužėlis
+įsilieti
 įsimaišyti
 įsimedžioti
+įsiminti
+įsimirti
 įsimušti
+įsimylėjimas
 įsimylėti
 įsirašyti
 įsisegti
 įsisiūti
 įsiskolinimas
 įsiskverbti
+įsisvajoti
 įsisąmoninti
+įsitikinimas
+įsitikinęs
 įsiuva
 įsiuvai
 įsiuvamas
@@ -38610,6 +41225,7 @@ zylė
 įsivaizduojamas
 įsivaizduoti
 įsiveržimas
+įsičiulpti
 įsiūdama
 įsiūdamas
 įsiūdami
@@ -38639,7 +41255,6 @@ zylė
 įsiūtinai
 įsiūtinas
 įsiūtis
-įsiūtiįsisiūtipaįsiūti
 įsiūtum
 įsiūtumėme
 įsiūtumėte
@@ -38657,6 +41272,7 @@ zylė
 įspausti
 įspėjimas
 įspėti
+įspė́ti
 įspūdinga
 įspūdingai
 įspūdingais
@@ -38882,6 +41498,7 @@ zylė
 įtikinti
 įtikti
 įturėti
+įtvaras
 įtėvis
 įtūžis
 įvadas
@@ -38967,7 +41584,7 @@ zylė
 įvykyje
 įvykį
 įvèžti
-įčiulptiįsičiulpti
+įčiulpti
 įėjimas
 įėsti
 įšalti
@@ -38991,31 +41608,46 @@ zylė
 įžymus
 įžymybė
 įžósti
+į̇́dukra
 į̇́jūris
 į̇́lanka
 į̇́nagis
 į̇́našas
 į̇́noris
 į̇́spūdis
+į̇́sūnis
+į̇́vaikis
 ōžouls
 Š
 Š.
 Šaansi
+Šakiai
+Šakiai̇̃
 Šaltasis karas
 Šalčininkai
 Šambala
 Šamoni
+Šampãnė
+Šampãnė-Ardė́nai
 Šanchajus
 Šandongas
 Šansi
+Šaparas
+Šaparaskas
+Šaparavičius
 Šarlerua
 Šartras
 Šarūnas
+Šaukelis
 Šaulys
+Šeduva
+Šeduvà
 Šefildas
 Šekspyriškas sonetas
 Šensi
 Šeremetjevo
+Šeštinės
+Šešti̇̀nės
 Ši Cu
 Šiauliai
 Šiaurinė
@@ -39039,17 +41671,22 @@ zylė
 Šibuja
 Šikoku
 Šila
+Šilalė
 Šilutė
+Šilãlė
 Širazas
+Širvintos
 Šiurpnaktis
 Šiva
 Šiáurės Ai̇̃rija
 Šiáurės Amèrika
+Ši̇̀rvintos
 Škotija
 Škotijos Bažnyčia
 Škotijos Karalystė
 Škòtija
 Škòtijos jū́ra
+Šmidtas
 Šmukšta
 Šoa
 Šostakavičius
@@ -39060,8 +41697,10 @@ zylė
 Šrousberis
 Šrusberis
 Štirija
+Štralzundas
 Štrausas
 Štutgartas
+Šubertas
 Šv.
 Šv. Jurgio sąsiauris
 Švarcvaldas
@@ -39079,6 +41718,10 @@ zylė
 Šventoji Dvasia
 Šventoji Marija
 Šventoji Romos imperija
+Švenčionys
+Švenčionėliai
+Švenčionė̃liai
+Švenčiónys
 Švitrigaila
 Ščecinas
 Šėtonas
@@ -39086,13 +41729,19 @@ zylė
 š. m.
 š.m.
 ša
+šabas
 šablonas
 šachas
 šachmatai
+šachmatų figūra
 šachmatų laikrodis
+šachmãtininkas
+šachmãtininkė
+šachmãtinis
 šachta
 šafranas
 šafraninis
+šaiba
 šaipytis
 šaka
 šakai
@@ -39158,6 +41807,7 @@ zylė
 šalčiúoti
 šamas
 šampanas
+šampãninis
 šampūnas
 šansas
 šantažas
@@ -39165,6 +41815,7 @@ zylė
 šantažúoti
 šantažúotojas
 šapalas
+šapas
 šariatas
 šariãtas
 šarka
@@ -39182,11 +41833,21 @@ zylė
 šaudykla
 šaudyklė
 šaudyti
+šaukiamàsis sakinỹs
 šaukimas
+šaukinỹs
+šauki̇̀kas
+šauki̇̀kė
+šauklė̃
+šauklỹs
 šauksmininkas
 šaukti
 šauktinis
 šauktukas
+šaukãlius
+šaukãlė
+šaukė́ja
+šaukė́jas
 šaukštas
 šaukštelis
 šaukštis
@@ -39198,6 +41859,12 @@ zylė
 šašas
 šašlykas
 šašãgrybis
+šaũkinti
+šaũkoti
+šaũksmas
+šaũkti
+šcherai
+šchèrai
 še
 šedevras
 šefas
@@ -39214,7 +41881,9 @@ zylė
 šelfas
 šen
 šepetys
+šepsėti
 šerdis
+šerdi̇̀s
 šeriai
 šerkšnas
 šermenys
@@ -39226,11 +41895,14 @@ zylė
 šermuonėlis - ermine
 šernas
 šerys
+šezlongas
+šezlòngas
 šešeri
 šešerios
 šešetas
 šeši
 šešiakampis
+šešiarãtis
 šešiasdešimt
 šešiasdešimtas
 šešiolika
@@ -39251,9 +41923,11 @@ zylė
 šešta
 šeštadalis
 šeštadienis
+šeštadieni̇̀nė mokyklà
 šeštas
 šeštokas
 šeštokė
+šeštãdienis
 šešėlis
 ši
 ši naktis
@@ -39392,7 +42066,7 @@ zylė
 šikną
 šiknų
 šikti
-šiktinė̃
+šiktinė
 šikšna
 šikšnosparnis
 šilagėlė
@@ -39412,16 +42086,25 @@ zylė
 šilkais
 šilkams
 šilkas
+šilkaspar̃nis
 šilke
 šilkime
+šilkininkỹstė
+šilkiniñkas
+šilkiniñkė
 šilkite
+šilki̇̀nis
+šilki̇̀nė
+šilkmedis
 šilko
 šilkografija
 šilku
 šilkui
+šilkuogė
 šilkuose
 šilkus
 šilkverpis
+šilkúotas
 šilką
 šilkų
 šilo
@@ -39445,6 +42128,10 @@ zylė
 šiluma
 šilumnešis
 šilčiau
+šil̃kas
+šil̃kmedis
+šil̃kuogė
+šil̃kverpis
 šilẽlis
 šimpanzė
 šimtakojis
@@ -39453,10 +42140,15 @@ zylė
 šimtinė
 šimtmetis
 šim̃tas
+šim̃tgramis
 šintoizmas
+šio
 šiogunatas
 šiol
 širdgėla
+širdies smūgis
+širdies stimuliatorius
+širdiplėvė
 širdis
 širdutės
 širmas
@@ -39471,6 +42163,8 @@ zylė
 šitai
 šitaip
 šitas
+šitie
+šito
 šiukšliaduobė
 šiukšliavamzdis
 šiukšliavežis
@@ -39486,6 +42180,7 @@ zylė
 šiukšlė
 šiukšlės
 šiukšlėtas
+šiuo
 šiuolaikinis
 šiuolaikinė sakmė
 šiurkštus
@@ -39577,12 +42272,15 @@ zylė
 šmė́kščioti
 šnabždesys
 šnabždėti
+šnapšėti
+šnarėti
 šnek.
 šneka
 šnekorius
 šnekėti
 šnervė
 šnibždesys
+šnibždomis
 šnibždėjimas
 šnibždėti
 šnicelis
@@ -39668,6 +42366,7 @@ zylė
 šokinėti
 šokis
 šokite
+šokliavoris
 šoklus
 šoklys
 šoklė
@@ -39776,6 +42475,7 @@ zylė
 šukos
 šukuosena
 šukuoti
+šuldu buldu
 šulinys
 šunadvokatis
 šunadvokatė
@@ -39817,8 +42517,10 @@ zylė
 šuniuko poza
 šuniuoti
 šuniuotis
+šuniùkas
 šuniškas
 šunių
+šuni̇́ena
 šunkara
 šunkarys
 šunkarė
@@ -39850,6 +42552,7 @@ zylė
 šunys
 šunyse
 šunystė
+šunýtė
 šunėkas
 šunį
 šunų
@@ -39860,7 +42563,10 @@ zylė
 šuolis
 šuoliuoti
 šuva
+šuõ
+švagždėti
 švaistyti laiką
+švakšėti
 švara
 švarinti
 švarkas
@@ -40085,13 +42791,33 @@ zylė
 švilpukas
 švinas
 švirkštas
+švisti
 švitriešis
 švitrinis popierius
+švitvaris
+švi̇̀sti
 šviẽsmetis
 švytinti
+švytulỹs
 švytuoklė
-švyturiniñkas
+švyturiai
+švyturininkai
+švyturininkas
+švyturininku
+švyturininką
+švyturiu
+švyturiúoti
+švyturyje
 švyturys
+švyturė̃lis
+švyturį
+švyturỹs
+švytúoti
+švytė́ti
+švýsčioti
+švỹturininkas
+švỹturininkė
+šydas
 šykštumas
 šykštus
 šykštybė
@@ -40122,6 +42848,9 @@ zylė
 šãšas
 šónas
 šùngrybis
+šùnininkas
+šùnininkė
+šùniškas
 šùnvyšnė
 šėmas
 šėtonas
@@ -40139,6 +42868,7 @@ zylė
 šūksmas
 šūsnis
 šūvis
+šẽštas
 Ū
 ŪS
 Ūstis prie Labės
@@ -40153,6 +42883,7 @@ zylė
 ūkais
 ūkams
 ūkana
+ūkanotas
 ūkas
 ūke
 ūkininkas
@@ -40188,7 +42919,9 @@ zylė
 Žadmantė
 Žagaila
 Žagarė
+Žagãrė
 Žaliasis Kyšulys
+Žei̇̃mantas
 Žemaitija
 Žemaitijai
 Žemaitijoje
@@ -40198,30 +42931,44 @@ zylė
 Žemaitėjė
 Žemutinis Naugardas
 Žemutinė Saksonija
+Žemuti̇̀nė Saksònija
 Žemyna
 Žemė
 Ženeva
 Ženevos ežeras
+Ženevos konvencija
 Žezkazganas
 Žečpospolita
 Žešova
 Žešuvas
 Žiezdrė
+Žiežmariai
+Žiežmãriai
+Žilinskas
 Žilvinas
 Žingaila
 Žiobaras
 Žitomyras
 Živilė
+Ži̇̀ntautas
 Žongaila
 Žoros
+Žukas
+Žukauskas
 Žungaila
 Žuvys
 Žvaigždžių karai
 Žydrūnas
 Žygimantas
+Žygi̇̀mantas
 Žymantė
 Žytomyras
-ž
+Žãdmantas
+Žãdvydas
+Žùkauskas
+Žùkevičius
+Žýbartas
+Žýmantas
 žabangos
 žabas
 žabe
@@ -40310,6 +43057,7 @@ zylė
 žalgirietis
 žalia
 žaliaakis
+žaliagyvatė
 žalias
 žaliaãkis
 žalingas
@@ -40317,7 +43065,6 @@ zylė
 žalioji citrina
 žalioji meleta
 žaliukė
-žalsva
 žaltvykslė
 žaltys
 žalvarinis
@@ -40329,6 +43076,7 @@ zylė
 žandas
 žandenos
 žandikaulis
+žandi̇̀kaulis
 žanras
 žara
 žargonas
@@ -40336,13 +43084,18 @@ zylė
 žarna
 žarnos
 žasti
+žavesys
 žaviai̇̃
+žavingas
 žavi̇̀ngas
+žavumas
 žavus
 žavusis kvarkas
 žavùmas
+žavėti
 žavėtis
 žebenkštis
+žeisti
 želmeni̇̀nė žąsi̇̀s
 želti
 želė
@@ -40463,6 +43216,7 @@ zylė
 žemynų
 žemys
 žemà
+žemýnas
 žemčiūgas
 žemčiūgininkas
 žemčiūginis
@@ -40630,7 +43384,9 @@ zylė
 žiovauti
 žioveinis
 žiovulys
+žiovulỹs
 žirafa
+žirafiùkas
 žirgas
 žirgelis
 žirgužis
@@ -40640,6 +43396,7 @@ zylė
 žiu
 žiurkė
 žiurkėnas
+žióvauti
 žiū
 žiūri
 žiūrimas
@@ -40692,6 +43449,7 @@ zylė
 žiūrinėti
 žiūrite
 žiūriu
+žiūronas
 žiūrovai
 žiūrovas
 žiūrovė
@@ -40740,6 +43498,7 @@ zylė
 žiūrėčiau
 žiūrįs
 ži̇̀bas
+ži̇̀noma
 žiẽbti
 žliūgė
 žli̇̀bas
@@ -41034,6 +43793,7 @@ zylė
 žodis į žodį
 žodis žodin
 žodi̇̀ngas
+žodi̇́ena
 žodyje
 žodynai
 žodynais
@@ -41048,11 +43808,13 @@ zylė
 žodynuose
 žodynus
 žodyną
+žodynė̃lis
 žodynų
 žodýnas
 žodýnininkas
 žodýnininkė
 žodýniškas
+žodýno li̇̀zdas
 žodį
 žodžiai
 žodžiais
@@ -41096,6 +43858,7 @@ zylė
 žudytoja
 žudytojas
 žulas
+žulnùs
 žulti
 žuolis
 žuregė́ti
@@ -41104,15 +43867,20 @@ zylė
 žurnalistika
 žurnalistė
 žuvauti
+žuviai
 žuviena
+žuvies
 žuvies padažas
 žuvies piršteliai
+žuvimi
 žuvingas
 žuvininkas
 žuvininkystė
 žuvininkáuti
+žuvininkė̃lis
 žuvininkỹstė
 žuvinis
+žuviniñkas
 žuvis
 žuvis pūva nuo galvos
 žuvitakis
@@ -41124,9 +43892,11 @@ zylė
 žuvi̇̀tyrininkas
 žuvi̇̀vaisa
 žuvi̇̀vaisininkas
+žuvyje
 žuváuti
 žuváutojas
 žuvėdra
+žuvį
 žuvų
 žvaigžde
 žvaigždei
@@ -41355,6 +44125,7 @@ zylė
 žvakei
 žvakes
 žvakidė
+žvakidę
 žvakių
 žvaki̇̀dė
 žvaki̇̀galis
@@ -41419,6 +44190,8 @@ zylė
 žydas
 žydija
 žydiškas
+žydiškumas
+žydiškùmas
 žydra
 žydras
 žydraãkis
@@ -41430,11 +44203,14 @@ zylė
 žygėti
 žymeklis
 žymimasis artikelis
+žymimàsis arti̇̀kelis
+žymus
 žymė
 žynys
 žynė
 žàsti
 žálvaris
+žándas
 žãgaras
 žãgrė
 žãlas
@@ -41454,6 +44230,8 @@ zylė
 žąsinas
 žąsininkỹstė
 žąsiniñkas
+žąsinùkas
+žąsinė̃lis
 žąsis
 žąsiukas
 žąsiùkas
@@ -41473,12 +44251,11 @@ zylė
 žẽmė
 žỹbas
 žỹdas
+žỹdiškas
+žỹdė
 ẽglė
 ẽžeras
 –
-–1
-–2
-–3
 —
 ’
 ◌᷋

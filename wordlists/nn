@@ -98,7 +98,9 @@
 -ingane
 -ingar
 -inne
+-isasjon
 -isere
+-isering
 -isk
 -isme
 -ist
@@ -193,6 +195,7 @@
 1. mai-toget
 10-tida
 10-øring
+1000 meter stafett
 11-tida
 12-tida
 13-tida
@@ -251,7 +254,6 @@ AUF-ar
 AUF-arane
 AUF-arar
 AUF-aren
-Aa
 Aaer
 Aaerna
 Aashild
@@ -345,7 +347,6 @@ Alzheimers sjukdom
 Amanda
 Amazonaselva
 Amerika
-AmerikaNord-AmerikaSør-Amerika
 Amerikansk Samoa
 Amerikas konfødererte statar
 Amman
@@ -441,7 +442,6 @@ Aruba
 Arve
 Arved
 Arvid
-As-Sirat
 Asbjørg
 Asbjørn
 Aserbajdsjan
@@ -584,6 +584,7 @@ Bekkhild
 Belarus
 Belgia
 Belize
+Beng
 Bengalbukta
 Bengeir
 Bengen
@@ -747,6 +748,7 @@ Bragernes
 Brakerøya
 Brammwien
 Brandalv
+Brandenburg
 Brandy
 Branntwien
 Brasil
@@ -754,7 +756,6 @@ Bratislava
 Brekstad
 Bretagne
 Brevik
-Brig of Dread
 Britisk Columbia
 Brokk
 Brondolv
@@ -822,11 +823,11 @@ CV-i
 California
 Californiabukta
 Canada
+Caymanøyane
 Cecilie
 Cess
 Ceylon
 Chile
-Chinvat Bridge
 Chitral
 Christiania
 Christmasøya
@@ -857,7 +858,9 @@ Dagfinn
 Dagmar
 Dagny
 Dagrun
+Dagstjerna
 Dahomey
+Dale
 Dalgeir
 Dalsbygda
 Dalsfjord
@@ -900,6 +903,7 @@ Den antarktiske halvøya
 Den arabiske halvøy
 Den arabiske halvøya
 Den arabiske republikken Syria
+Den demokratiske folkerepublikken Korea
 Den demokratiske republikken Kongo
 Den demokratiske sosialistiske republikken Sri Lanka
 Den dominikanske republikk
@@ -983,6 +987,7 @@ Dombås
 Domhilda
 Dominica
 Donau
+Dora
 Dorrud
 Doversundet
 Dovre
@@ -1109,6 +1114,9 @@ Eritrea
 Erle
 Erlend
 Ernke
+Espe
+Espedal
+Espevær
 Ess
 Ess-dur
 Ess-duren
@@ -1126,6 +1134,7 @@ Evgenij
 EØS
 F
 FN
+Fader vår
 Fagerli
 Fagerlibana
 Fagerlimyra
@@ -1154,6 +1163,8 @@ Fastrun
 Fastulv
 Fauske
 Fedje
+Femund
+Femundsmarka
 Feng
 Fennoskandia
 Fenre
@@ -1264,6 +1275,7 @@ Fridstein
 Fridtjof
 Fridtjov
 Frigg
+Frigjeringsdagen
 Frillsjøen
 Frodar
 Frode
@@ -1616,6 +1628,7 @@ Gýró
 H
 H-mjølk
 HEF
+Haaland
 Hades
 Hadsel
 Haffjord
@@ -1814,6 +1827,8 @@ Hjaltlandsøyane
 Hjarrand
 Hjarrande
 Hjelmbere
+Hjeltefjorden
+Hjeltland
 Hjerdkinn
 Hjerkinn
 Hjuringberget
@@ -1828,6 +1843,7 @@ Hjørleiv
 Hjørmund
 Hjørolv
 Hjørulv
+Hjørungane
 Hjørungavåg
 Hjørungdalen
 Hjørungneset
@@ -1840,6 +1856,7 @@ Hod
 Hof
 Hokkaido
 Hokksund
+Holand
 Holland
 Hollolv
 Hollulv
@@ -1850,7 +1867,11 @@ Holmgeir
 Holmsbu
 Holmstein
 Holtålen
+Homme
 Hommelvik
+Homselva
+Homsmoen
+Homstean
 Honduras
 Honningsvåg
 Hord
@@ -1897,6 +1918,7 @@ Håkkå
 Håko
 Håkon
 Håkonsen
+Håland
 Hårbard
 Håstein
 Håvald
@@ -1914,6 +1936,7 @@ ID-en
 IKT
 ISP
 IT
+Iberia
 Ibestad
 Ibiza
 Idbjørg
@@ -2072,6 +2095,7 @@ Jødeland
 Jølster
 Jørgensdagen
 Jørpeland
+Jøsenfjord
 Jøsok
 Jøsokbakken
 Jøsokstranda
@@ -2083,7 +2107,6 @@ KI
 Kaifas
 Kairo
 Kaliningrad
-Kalinov Most
 Kalliope
 Kallsøy
 Kambodsja
@@ -2096,6 +2119,7 @@ Kapp Horn
 Kapp Verde
 Kappadokia
 Karasjok
+Karelen
 Karibia
 Karl
 Karle
@@ -2115,6 +2139,8 @@ Kaukasia
 Kaukasus
 Kaupang
 Kaupanger
+Kautokeino
+Kautokeinoelva
 Kavala
 Kavála
 Kebnekaise
@@ -2141,6 +2167,7 @@ Kjellberg
 Kjelldor
 Kjetilbjørg
 Kjetilbjørn
+Kjølen
 Kjøpenhamn
 Klagesongane
 Klakksvik
@@ -2153,6 +2180,7 @@ Knudsen
 Knut
 Knutsen
 Knutsson
+Kobe
 Kolbein
 Kolbjørn
 Kolbotn
@@ -2240,6 +2268,7 @@ Kvinesdal
 Kvinesfjorden
 Kvinlog
 Kvinnherad
+Kvitekrist
 Kviterussland
 Kvitsjøen
 Kvitøya
@@ -2319,6 +2348,7 @@ Levanger
 Levanten
 Liahaugen
 Liahaugtjønna
+Liaocheng
 Libanon
 Liberia
 Libya
@@ -2410,8 +2440,10 @@ Lærdalsfjorden
 Lærdalsøyri
 Læsø
 Lødingen
+Løe-kros
 Løkken Verk
 Lørenskog
+Løva
 Løvstakken
 M
 MDG
@@ -2459,6 +2491,7 @@ Manx katt
 Margaret
 Margareta
 Margrethe
+Maria
 Maria Magdalena
 Maria møy
 Marianane
@@ -2719,8 +2752,6 @@ Ny-York
 Ny-Zealand
 Ny-Ålesund
 Nye-Jorvik
-Nynorsk symbolsk
-Nynorsk tyrannisera
 Nyplassen
 Nyårsnavar
 Nærbø
@@ -2827,6 +2858,7 @@ Oslotunnelen
 Osmund
 Oteros
 Otra
+Otre
 Otrenes
 Otros
 Otta
@@ -2874,6 +2906,7 @@ Pi-dagen
 Piería
 Pillar-Guri
 Pireus
+Pisa
 Pitcairnøyane
 Pitcairnøyene
 Platon
@@ -2881,6 +2914,7 @@ Podalen
 Podhale
 Podl
 Polen
+Polet
 Polhavet
 Polynesia
 Porsgrunn
@@ -2888,6 +2922,8 @@ Port Arthur
 Portugal
 Posletta
 Preussen
+Pridefestival
+Prideparade
 Prokopios
 Provence
 Puebla
@@ -2898,6 +2934,8 @@ Påskeøya
 Q
 Qatar
 Quisling
+Qvisna
+Qvissna
 R
 Radøy
 Raggarden
@@ -3044,6 +3082,7 @@ Roftaty
 Rogaland
 Rogheim
 Rolf
+Rollag
 Rolleiv
 Rollov
 Rolv
@@ -3112,6 +3151,7 @@ Røykjavik
 Røyros
 Røyrvik
 S
+SBK
 SN
 SUS
 Sahara
@@ -3156,6 +3196,10 @@ Sarpen
 Sarpsborg
 Satan
 Sauda
+Saudaelva
+Saudafjorden
+Saudasjøen
+Saudaskjeret
 Saudi-Arabia
 Sauherad
 Schelde
@@ -3250,6 +3294,7 @@ Skarå
 Skaråli
 Skaun
 Skedsmo
+Skedsmokorset
 Ski
 Skien
 Skienselva
@@ -3312,7 +3357,11 @@ Sortland
 Sovjetunionen
 Sp
 Spania
+Sparbu
+Sperillbanen
+Sperillen
 Spitsbergen
+Spjelkavik
 Spydeberg
 Sri Lanka
 St George's Channel
@@ -3334,6 +3383,7 @@ Stavernsøya
 Stefan
 Stefanie
 Stefanus
+Steiermark
 Stein
 Steina
 Steinar
@@ -3390,6 +3440,7 @@ Stordal
 Store Saltsjø
 Storesand
 Storfjorden
+Storfyrstedømet Finland
 Storfyrstedømet Litauen
 Storhertugdømet Luxembourg
 Storofsen
@@ -3406,11 +3457,11 @@ Stynbjørn
 Styrbjørn
 Styrgeir
 Styx
+Stålmannen
 Støre
 Støren
 Støresbygda
 Støreshøgda
-Sud-Amerika
 Sudan
 Sudaust-Asia
 Suderøy
@@ -3427,6 +3478,7 @@ Sunnolv
 Sunnulv
 Sunnylven
 Sunnylvsfjorden
+Supermann
 Surinam
 Surnadal
 Svalbard
@@ -3504,6 +3556,7 @@ Svåvald
 Swaziland
 Syd-Dakota
 Syden-ferie
+Sygna
 Sygnefest
 Sykkylven
 Sykkylvsfjorden
@@ -3719,6 +3772,7 @@ Totak
 Toten
 Totland
 Totland indre
+Totner
 Tove
 Tower of London
 Trandeim
@@ -3792,6 +3846,7 @@ Tunisia
 Tunsberg
 Turid
 Turkmenistan
+Turks- og Caicosøyane
 Tuva
 Tuvalu
 Tvedestrand
@@ -3906,6 +3961,7 @@ Vadolv
 Vadsø
 Vadsøya
 Vadulv
+Vagnstjerna
 Vak
 Valakia
 Valberg
@@ -3916,6 +3972,7 @@ Vald
 Valdar
 Valde
 Valdny
+Valdres
 Valdrik
 Valencia
 Valfar
@@ -3976,11 +4033,13 @@ Veikolv
 Veikulv
 Vekjell
 Vekjetil
+Vekta
 Velaug
 Veleiv
 Velsvik
 Velsvika
 Vemund
+Vendelsund
 Vendilbjørg
 Venedig
 Venezia
@@ -3988,6 +4047,7 @@ Venezuela
 Venhild
 Venjot
 Vennesla
+Vensås
 Venus
 Veny
 Veolv
@@ -4133,10 +4193,12 @@ Vingne
 Vingulmark
 Vinje
 Vinland
+Vinmonopolet
 Vinstra
 Vinstre
 Vinterbraut
 Vinterfevil
+Vintergotu
 Vintergutu
 Visund
 Vitgeir
@@ -4145,6 +4207,8 @@ Vitjarar
 Vitjararne
 Vitjaren
 Voden
+Voie
+Voiebyen
 Volda
 Voldsfjorden
 Voldshamaren
@@ -4162,7 +4226,9 @@ Vrådal
 Vuku
 Vågan
 Vågar
+Våge
 Vågen
+Vågsbygd
 Vågsøy
 Vågøy
 Våler
@@ -4229,6 +4295,7 @@ a-menneski
 a-moll
 a-mål
 a-verb
+a/languages M to Z
 aa
 aaborr
 aadr
@@ -4251,6 +4318,7 @@ aari
 aato
 aatte
 abaddon
+abakleg
 abakus
 abakusen
 abbed
@@ -4331,6 +4399,7 @@ abortera
 abortere
 abortiv
 abortivkur
+abraksleg
 absint
 absinten
 absolusjon
@@ -4375,6 +4444,7 @@ adagio
 adagioa
 adagioet
 adagioi
+adalhending
 adam
 adamsdrakt
 adamsdrakta
@@ -4572,6 +4642,7 @@ aftanrøde
 aftansong
 aftnane
 aftnar
+agale
 agat
 age
 ageleg
@@ -4881,6 +4952,7 @@ akuttmedisinen
 akuttmedisinsk
 akuttmedisinske
 akuttmottak
+akvakultur
 akvamarin
 akvamarinen
 akvarell
@@ -5403,6 +5475,7 @@ amøbane
 amøbar
 amøbe
 amøben
+an
 anabaptist
 anaerob
 anaerobe
@@ -5479,9 +5552,11 @@ andande
 andane
 andar
 andbakkes
+andberr
 andblesen
 ande
 ande ut
+andeberr
 andebryst
 andebusokning
 andebøle
@@ -5679,6 +5754,7 @@ ankerplass
 ankerplassane
 ankerplassar
 ankerplassen
+ankertroll
 anklane
 anklar
 ankre
@@ -5995,6 +6071,7 @@ applausen
 applikasjon
 apposisjon
 apposisjonell
+apr.
 aprikos
 aprikosane
 aprikosar
@@ -6018,6 +6095,7 @@ arabarkvinne
 arabisk
 arabiske
 arabisken
+aragonesisk
 arameisk
 arameiske
 arbeid
@@ -6626,6 +6704,7 @@ atterljod
 atterljom
 atterlyd
 atterskip
+attertofta
 atterut
 attest
 attestane
@@ -6698,6 +6777,7 @@ audner
 audt
 aue
 auene
+aug.
 auga
 auga for auga, tann for tann
 auge
@@ -6748,6 +6828,7 @@ augevitne
 augevitnet
 augeøks
 augi
+augkvarm
 augne
 augne-
 augneblikk
@@ -6966,6 +7047,7 @@ avantgardar
 avantgarde
 avantgarden
 avarisk
+avbakleg
 avbalansere
 avbilda
 avbilde
@@ -7616,6 +7698,7 @@ balderbråene
 balderbråer
 bale
 balet
+baliblom
 balja
 baljane
 baljar
@@ -7636,6 +7719,7 @@ ballar
 ballast
 ballasta
 ballasten
+ballblom
 ballbunad
 ballen
 ballerina
@@ -7788,6 +7872,7 @@ bannlysa
 bannlyse
 bannlysing
 bannord
+bannsikker
 bannskap
 bantu
 bantuane
@@ -7838,11 +7923,13 @@ barberskummet
 barbersåpe
 barbiturat
 barbitursyre
+barbrogull
 barbromess
 barbromessa
 barbromesse
 barbromessene
 barbromesser
+barbrå
 bard
 bardage
 bardane
@@ -8335,6 +8422,7 @@ bekk
 bekkalokk
 bekkane
 bekkar
+bekkasin
 bekkefar
 bekkelokk
 bekken
@@ -8385,6 +8473,7 @@ belizaren
 belizisk
 beliziske
 belje
+belma
 belta
 belte
 beltesjuke
@@ -8482,6 +8571,7 @@ beredyktig
 bereevne
 bereflate
 beregne
+bereist
 berekna
 berekne
 berekonstruksjon
@@ -8838,6 +8928,7 @@ bider
 bidet
 bidja
 bidjar
+bidos
 bidrag
 bidraga
 bidraget
@@ -9001,6 +9092,7 @@ bilmotoren
 bilpanser
 bilpansera
 bilpanseret
+bilradio
 bilseljar
 bilskilt
 bilskip
@@ -9090,10 +9182,12 @@ biomassane
 biomassar
 biomasse
 biomassen
+biomedisin
 biometrisk
 biometriske
 biosfære
 biosfæren
+biotisk
 biotitt
 biotitten
 biprodukt
@@ -9137,6 +9231,8 @@ biskopar
 biskopen
 biskoppeleg
 bislag
+bismar
+bismarpund
 bisneleg
 bisol
 bisonokse
@@ -9185,6 +9281,7 @@ biting
 bitre
 bitst
 bittelite
+bitteliten
 bitter
 bitterheit
 bittert
@@ -9275,6 +9372,7 @@ bjørkor
 bjørn
 bjørnane
 bjørnar
+bjørneboke
 bjørnebær
 bjørnebæra
 bjørnebæret
@@ -9287,6 +9385,7 @@ bjørnen
 bjørnepels
 bjørnepelsar
 bjørnepelsen
+bjørneskjegg
 bjørnetenest
 bjørneteneste
 bjørnevaka
@@ -9417,6 +9516,8 @@ blemmete
 blendar
 blendarop
 blendaropning
+blende
+blendetjuke
 blenk
 blenka
 blenke
@@ -9480,8 +9581,11 @@ blindar
 blindare
 blindast
 blinde
+blindeblomst
 blindebukk
 blindeskrift
+blindesoleie
+blindetjuka
 blindgata
 blindgate
 blindgatene
@@ -9602,6 +9706,7 @@ blodoverføringane
 blodoverføringar
 blodpengar
 blodpiss
+blodpissgras
 blodplasma
 blodplate
 blodpris
@@ -9971,6 +10076,8 @@ bokavlane
 bokavlar
 bokavlen
 bokbind
+bokbindar
+bokbål
 bokelskar
 bokfink
 bokform
@@ -10040,6 +10147,7 @@ boksøl
 boksølet
 boku
 bol
+bola
 bolar
 bolig
 boligfelt
@@ -10068,6 +10176,7 @@ bolsok
 bolsokane
 bolsokar
 bolsoken
+bolster
 bolt
 boltane
 boltar
@@ -10126,6 +10235,7 @@ bondehovding
 bondemål
 bonden
 bondestand
+bondsk
 bondskt
 bong
 bongo
@@ -10272,6 +10382,7 @@ bosone
 bosor
 boss
 bosset
+bosspann
 bostkast
 bosu
 bosune
@@ -10376,6 +10487,7 @@ brannstasjonane
 brannstasjonar
 brannstasjonen
 brannstell
+brannstiftar
 brannstifting
 brannsår
 brannsåra
@@ -10696,6 +10808,7 @@ brodermordet
 brodersaks
 brok
 brokbein
+brokete
 brokk
 brokkoli
 brokkoliane
@@ -10847,6 +10960,7 @@ brule
 brulegging
 brullaup
 brumlebasse
+brummar
 brun
 bruna
 brunare
@@ -11024,6 +11138,9 @@ bryllaupsreis
 bryllaupsreise
 bryllup
 bryn
+bryne
+brynebutt
+brynekopp
 brynestein
 brynja
 brynje
@@ -11036,6 +11153,7 @@ brynjor
 brynju
 brynjune
 brynjur
+brynstokk
 bryo
 brysam
 brysk
@@ -11059,10 +11177,12 @@ brystkreft
 brystkreften
 brystmjølk
 brystmål
+brystning
 brystsmerta
 brystsmerte
 brystsmertene
 brystsmerter
+brystvern
 brystvorta
 brystvorte
 brystvortene
@@ -11873,6 +11993,7 @@ byvord
 byvåpen
 både
 både-og
+bådn
 båe
 båggå
 bågå
@@ -11887,6 +12008,7 @@ båna
 bånd
 båndsalat
 bånet
+bånster
 båra
 båre
 båregang
@@ -11923,6 +12045,7 @@ båtshaken
 båtskur
 båttrafikk
 båttrafikken
+båttå
 båtå
 bæ
 bælskrika
@@ -12165,6 +12288,7 @@ cellemembran
 cellene
 celler
 cellevegg
+cellist
 cello
 celloane
 celloar
@@ -12693,7 +12817,6 @@ dauvøygd
 daverande
 davidsstjerne
 davre
-days of the week: vekedag: måndag · tysdag · onsdag
 dd
 de
 de fleste
@@ -12949,6 +13072,7 @@ demonstrativt
 demonstrera
 demonstrere
 demoralisere
+demra
 den
 den arabiske verda
 den arabiske våren
@@ -13040,6 +13164,7 @@ derre
 derrik
 dersom
 dertil
+des.
 desarmere
 desember
 desennium
@@ -13635,6 +13760,7 @@ dobbelsidig
 dobbelsidige
 dobbelt
 dobbelt tonelag
+dobbelt-
 dobbelte
 dobbeltform
 dobbelthaka
@@ -13876,6 +14002,7 @@ draga
 dragande
 dragas
 dragast
+dragdokke
 drage
 draget
 dragkamp
@@ -13951,6 +14078,7 @@ draug
 draugane
 draugar
 draugen
+draugkakk
 draugljos
 draugtare
 draum
@@ -14083,6 +14211,7 @@ drite
 drite ut
 driten
 dritereig
+dritfus
 driti
 dritings
 dritsekk
@@ -14189,8 +14318,14 @@ drosjesjåføren
 drott
 drottane
 drottar
+drottedag
 drotten
+drottensmord
+drottensord
+drottenssvik
+drottenssvikar
 drottning
+drottsete
 drua
 drue
 druene
@@ -14382,7 +14517,6 @@ dumpet
 dumpsterdiving
 dumpt
 dumrian
-dumskap
 dumt
 dun
 duna
@@ -14858,6 +14992,7 @@ døvhøyrd
 døvre
 døvt
 døy
+døy for mordarhand
 døy ut
 døyande
 døyast
@@ -14963,7 +15098,10 @@ eg er amerikanar
 eg er blind
 eg er døv
 eg er gift
+eg er jødisk
+eg er katolikk
 eg er kristen
+eg er protestant
 eg er sjuk
 eg er svolten
 eg er tjue år gamal
@@ -15059,6 +15197,7 @@ eidfjording
 eidfyrde
 eidn
 eidsvollsmann
+eie
 eiendom
 eiendomsrett
 eier
@@ -15182,6 +15321,7 @@ einebu
 einebær
 eineform
 einegard
+einegga
 einekage
 einekoll
 einelav
@@ -15248,6 +15388,7 @@ einskapen
 einskild
 einskildting
 einsleg
+einslestes
 einspråklegheit
 einsrette
 einst
@@ -15282,6 +15423,8 @@ eiret
 eirete
 eirgrøn
 eirut
+eislestes
+eislistis
 eismal
 eista
 eiste
@@ -15323,6 +15466,8 @@ ejakulere
 eket
 eki
 ekkel
+ekkje
+ekklesiastisk
 ekko
 ekkoa
 ekkoet
@@ -15340,6 +15485,7 @@ ekornet
 ekornlav
 ekra
 ekre
+ekreblom
 eksakt
 eksakte
 eksamen
@@ -16041,6 +16187,7 @@ engene
 enger
 engi
 engjar
+engkall
 englane
 englar
 engleaktig
@@ -16382,6 +16529,7 @@ esli
 esoterisk
 esoteriske
 espalier
+espe
 esperantist
 esperanto
 esperantoen
@@ -16962,6 +17110,7 @@ fallande
 falle
 falle bort
 falle daud om
+falle for mordarhand
 falle for noko
 falle frå kvarandre
 falle heldig ut
@@ -17357,6 +17506,7 @@ fasttelefoni
 fastvare
 fat
 fata
+fata i
 fatal
 fatale
 fatalt
@@ -17392,6 +17542,7 @@ favorittar
 favoritten
 fe
 fea
+feb.
 feber
 feberen
 febernedsetjande
@@ -17407,6 +17558,7 @@ feder
 federne
 fedjeværing
 fedjing
+fedlestakk
 fedrane
 fedrar
 fedrarne
@@ -17686,6 +17838,9 @@ fenna
 fennek
 fennene
 fenner
+fennolog
+fenologi
+fenologisk
 fenomen
 fenomena
 fenomenal
@@ -18206,6 +18361,7 @@ finneting
 finnetoll
 finnfadervår
 finnferd
+finnflerre
 finnfor
 finnforgjord
 finngalkn
@@ -18329,6 +18485,7 @@ firkanta
 firkantane
 firkantar
 firkanten
+firkantperikum
 firkanttast
 firkløver
 firkløverane
@@ -18413,6 +18570,8 @@ fiskefor
 fiskeforet
 fiskefôr
 fiskefôret
+fiskegarn
+fiskegån
 fiskehandlar
 fiskehjell
 fiskeindustri
@@ -18443,6 +18602,7 @@ fiskeskipperane
 fiskeskipperar
 fiskeskipperen
 fiskestim
+fiskesympe
 fisket
 fisketank
 fisketankane
@@ -18499,6 +18659,7 @@ fjelland
 fjellanda
 fjellandet
 fjellbjørk
+fjellbraudd
 fjellbu
 fjellbunad
 fjellbygd
@@ -18512,6 +18673,7 @@ fjellerke
 fjellet
 fjellfager
 fjellfinn
+fjellfross
 fjellgop
 fjellgrunn
 fjellgrunnen
@@ -18539,6 +18701,7 @@ fjellklatring
 fjellmarkmus
 fjellmus
 fjellmyrløpar
+fjellnever
 fjello
 fjellom
 fjellområda
@@ -18568,6 +18731,7 @@ fjellryggene
 fjellrygger
 fjellrype
 fjells
+fjellsaks
 fjellsida
 fjellside
 fjellsidene
@@ -19014,6 +19178,7 @@ floga
 floge
 flogemyr
 floget
+floghavre
 flogi
 flogiston
 flogsand
@@ -19119,7 +19284,7 @@ fluvial
 fluviale
 fluvialt
 fly
-fly etter jentene
+fly etter gjentene
 flya
 flyande
 flybillett
@@ -19339,6 +19504,7 @@ fløyelsskrikje
 fløyene
 fløyer
 fløygde
+fløygja
 fløygje
 fløyma
 fløyme
@@ -19629,6 +19795,7 @@ forarbeida
 forarbeidet
 forbanna
 forbanne
+forbaska
 forbausande
 forbedre
 forbedring
@@ -20336,6 +20503,7 @@ fortidsminne
 fortidsminnet
 fortissimo
 fortjene
+fortofta
 fortom
 fortrinnsvis
 fortryte
@@ -21488,6 +21656,7 @@ fusne
 fust
 fut
 futhark
+futsal
 futurum
 fy
 fy faen
@@ -21635,6 +21804,7 @@ fyrtårna
 fyrtårnet
 fyrtøy
 fyru
+fyrvaktar
 fyrverk
 fyrverkeri
 fyrverkeria
@@ -21710,6 +21880,7 @@ få kjøt på beina
 få med seg
 få seg en god lått
 få seg til
+få svi
 få til
 få til å vemjast
 få til å vemmast
@@ -21850,6 +22021,7 @@ fødselsvekter
 fødslane
 fødslar
 føflekk
+føggel
 føgl
 føkk
 føl
@@ -22123,6 +22295,7 @@ gaffeltruckar
 gaffeltrucken
 gaflane
 gaflar
+gagl
 gaglemyr
 gagna
 gagnlaus
@@ -22146,6 +22319,7 @@ galat
 galatar
 galder
 galderen
+galdlur
 galdr
 galdra
 galdrande
@@ -22422,6 +22596,7 @@ garnisonsbyane
 garnisonsbyar
 garnisonsbyen
 garnisonskyrkje
+garp
 gartnar
 gartnarlære
 gartnarsaks
@@ -22546,6 +22721,7 @@ gaukur
 gaukvaffel
 gaula
 gaule
+gaullist
 gaum
 gaupa
 gaupe
@@ -22608,6 +22784,7 @@ geita
 geitane
 geitar
 geitblomme
+geitebraud
 geitebukk
 geitebukkane
 geitebukkar
@@ -22625,6 +22802,8 @@ geitom
 geitost
 geitrams
 geitsleip
+geitsleipe
+geitsnok
 geitsymre
 geittare
 gekko
@@ -22742,6 +22921,7 @@ geodesien
 geodetisk
 geodetiske
 geofysikk
+geofysikken
 geofysisk
 geofysiske
 geoglyf
@@ -23222,12 +23402,14 @@ gjenta
 gjentaka
 gjentake
 gjente
+gjenteaktig
 gjentene
 gjenter
 gjentone
 gjentor
 gjentorne
 gjentune
+gjentunge
 gjentur
 gjenvalg
 gjenverande
@@ -23243,6 +23425,7 @@ gjera eit hovud kortare
 gjera ende på
 gjera etter
 gjera greie for
+gjera kål på
 gjera rett og skil
 gjera store pengar
 gjera åt
@@ -23320,6 +23503,7 @@ gjetar
 gjetarane
 gjetarar
 gjetaren
+gjetarhund
 gjete
 gjeter
 gjetordsfager
@@ -23781,6 +23965,7 @@ godkjenning
 godkjenninga
 godkjenningane
 godkjenningar
+godlukt
 godlæte
 godmor
 gods
@@ -24284,6 +24469,7 @@ grenseskil
 grensesnitt
 grensesnitta
 grensesnittet
+grensestein
 grensestolpane
 grensestolpar
 grensestolpe
@@ -24381,6 +24567,7 @@ gripne
 gris
 grisane
 grisar
+grisblekkje
 grise
 grisefest
 griseflaks
@@ -24391,6 +24578,7 @@ grisene
 griser
 grisetare
 grisete
+grisetunge
 grisgrendt
 grisk
 griske
@@ -24421,6 +24609,7 @@ grommare
 grommast
 gromme
 gromt
+gron
 grop
 gropa
 gropene
@@ -24637,6 +24826,7 @@ gruver
 gruveselskap
 gruveselskapa
 gruveselskapet
+gruvesjakt
 gry
 gryande
 grysja
@@ -24645,6 +24835,7 @@ gryta
 gryte
 grytene
 gryter
+grytidleg
 grå
 grå stær
 gråaktig
@@ -24776,6 +24967,7 @@ grønøygd
 grøn’u
 grøssar
 grøsse
+grøta
 grøvre
 grøvst
 grøvste
@@ -25011,6 +25203,8 @@ guyanaren
 guyanaskrikje
 guyansk
 guyanske
+gvanndag
+gvefs
 gydje
 gyger
 gygr
@@ -25154,6 +25348,8 @@ gå bananas
 gå bort
 gå fem på
 gå frå munn til munn
+gå frå vettet
+gå frå vitet
 gå god for nokon
 gå heim og vogg
 gå i analyse
@@ -25179,6 +25375,7 @@ gå på
 gå på akkord med
 gå på hovudet
 gå på ski
+gå på trynet
 gå sin veg
 gå til
 gå til helvete
@@ -25203,6 +25400,7 @@ gågata
 gågate
 gågatene
 gågater
+gåmå
 gåmål
 gåpåhug
 gåpåhumør
@@ -25216,6 +25414,7 @@ gårdbruker
 gårdsarbeider
 gåre
 gårer
+gårkveld
 gårsdag
 gårsdagen
 gås
@@ -25286,6 +25485,7 @@ ha bomull i øyra
 ha bruk for
 ha det
 ha det bra
+ha ei høne å plukke med
 ha eit auge for
 ha greie på
 ha kalvskit på tunga
@@ -25299,6 +25499,7 @@ ha rett til
 ha råd til
 ha til felles med
 ha tømmermenn
+ha å rutta med
 haa
 haag
 haagaa
@@ -25402,6 +25603,7 @@ hakelen
 haken
 hakene
 haker
+hakk
 hakka
 hakke
 hakkene
@@ -25464,6 +25666,8 @@ halen
 halestokk
 hall
 halla
+hallais
+hallaisen
 hallane
 hallar
 halleluja
@@ -25481,6 +25685,7 @@ hallikverksemd
 hallingdøl
 hallo
 hallo?
+halloen
 halloi
 halloiane
 halloiar
@@ -26113,6 +26318,7 @@ hatkriminalitet
 hatt
 hattane
 hattar
+hatteblom
 hattefokk
 hatten
 hattsopp
@@ -26129,9 +26335,11 @@ haugar
 haugbu
 haugen
 haugesundar
+haugety
 haugevis
 haugjen
 haugkall
+haugtuss
 haugvette
 hauk
 hauk og due
@@ -26176,6 +26384,7 @@ havast
 havbotn
 havbotnen
 havbotnspreiing
+havbrug
 have
 haverkn
 havert
@@ -26192,6 +26401,7 @@ havgåande
 havgående
 havis
 havkatt
+havklikse
 havklima
 havklimaet
 havlire
@@ -26212,6 +26422,7 @@ havoverflatene
 havoverflater
 havre
 havregraut
+havremjølk
 havren
 havs
 havsalat
@@ -26540,6 +26751,7 @@ heldige
 heldigvis
 heldo
 heldt
+heldt eg på å seia
 heldt fram
 hele
 helete
@@ -26900,6 +27112,7 @@ herregard
 herregud
 herremann
 herremannen
+herremannstopp
 herremenn
 herremennene
 herremiddag
@@ -26995,6 +27208,7 @@ hestekjøtt
 hestekraft
 hestekreftene
 hestekrefter
+hestekuk
 hestelaup
 hesteløp
 hesteløpa
@@ -27068,6 +27282,7 @@ hevert
 heving
 hevja
 hevje
+hevle
 hevne
 hi
 hia
@@ -27121,6 +27336,7 @@ himmellekamar
 himmellekamen
 himmelrike
 himmelriket
+himmelrømd
 himmelseng
 himmelsenga
 himmelsengene
@@ -27311,6 +27527,7 @@ hjelpetelefonen
 hjelpeverb
 hjelpt
 hjelpte
+hjelt
 hjemmel
 hjernane
 hjernar
@@ -27451,6 +27668,7 @@ hoggtanna
 hoggtennene
 hoggtenner
 hogne
+hogold
 hogris
 hogster
 hogstr
@@ -27535,6 +27753,7 @@ homogen
 homogene
 homogenisert mjølk
 homogent
+homologere
 homomarsj
 homoparade
 homoseksualitet
@@ -27548,6 +27767,7 @@ homøopati
 homøopatien
 homøopatisk
 homøopatiske
+hond
 honduran
 honduranar
 honduranarane
@@ -28081,6 +28301,9 @@ hungrig
 hungrige
 huning
 huningbraud
+hurd
+hurdorm
+hurre
 hurtig
 hurtigbåt
 hurtigbåtane
@@ -28184,7 +28407,6 @@ huver
 huvu
 huvud
 hvalfanger
-hverdag
 hverdagsliv
 hvetemel
 hvilken
@@ -28434,6 +28656,7 @@ håkkå
 håkkåkul
 hålaus
 håløyg
+håmann
 håmmår
 håm’e
 håndledd
@@ -28611,6 +28834,7 @@ hærta
 hærtatt
 hærverk
 hærverket
+hæsj
 hæstkuk
 hæv
 hæve
@@ -28671,6 +28895,7 @@ høgnorsk
 høgre
 høgre sida
 høgrehendt
+høgrøysta
 høgsete
 høgskolane
 høgskolar
@@ -28704,6 +28929,7 @@ høgvatn
 høi
 højr
 høki
+høkjel
 høkr
 høkra
 høkrande
@@ -28852,11 +29078,14 @@ i gjeld til
 i god tru
 i gode og vonde dagar
 i granskauen
+i grunnen
 i går
+i går kveld
 i heile natt
 i hel
 i hende
 i hop
+i hytt og pine
 i jår
 i kok
 i kveld
@@ -29065,10 +29294,12 @@ ikkje rett i hovudet
 ikkje sant
 ikkje sjå skogen for berre tre
 ikkje sjå ut
+ikkje so verst
 ikkje så rart
 ikkje-
 ikkje-binær
 ikkje-røykjar
+ikodn
 ikon
 ikona
 ikonane
@@ -29370,6 +29601,7 @@ informasjonen
 informasjons- og kommunikasjonsteknologi
 informasjonsteknologi
 informasjonsteknologien
+informatikk
 informativ
 informative
 informativt
@@ -30276,6 +30508,7 @@ iøynefallende
 j
 ja
 ja vel
+ja visst
 jabba
 jackpot
 jackpotar
@@ -30360,6 +30593,7 @@ jamføre
 jamgod
 jamhøg
 jamleik
+jammen
 jamn
 jamna
 jamnad
@@ -30379,6 +30613,7 @@ jamvekt
 jamvektsmål
 jamvel
 jamvel om
+jan.
 janitsjar
 janitsjarane
 janitsjarar
@@ -30448,6 +30683,7 @@ jarnvare
 jarnverk
 jarv
 jase
+jasegeit
 jaselabb
 jasen
 jatta
@@ -30487,7 +30723,6 @@ jemenittisk
 jemenittiske
 jenta
 jente
-jenteaktig
 jentefager
 jentefotballfotball
 jentelus
@@ -30767,6 +31002,7 @@ jordbruksproduktet
 jordbær
 jordbæra
 jordbæret
+jorddrott
 jorde
 jordeigar
 jordeple
@@ -30778,6 +31014,7 @@ jordet
 jordete
 jordfeste
 jordfokk
+jordgeit
 jordhus
 jordi
 jording
@@ -30843,7 +31080,6 @@ jortar
 jorte
 joruba
 jotun
-jouhikko
 journalføra
 journalførar
 journalføre
@@ -31027,7 +31263,6 @@ jæger
 jækla
 jærbu
 jærs
-jæskla
 jævel
 jævelen
 jævla
@@ -31154,6 +31389,7 @@ kaffikjerring
 kaffikopp
 kaffimjølk
 kaffipause
+kaffiskvett
 kaffitrekt
 kaffitrektar
 kafé
@@ -31161,7 +31397,6 @@ kaféane
 kaféar
 kaféen
 kagg
-kagge
 kahytt
 kahytta
 kahytte
@@ -31233,6 +31468,7 @@ kaktusane
 kaktusar
 kaktusen
 kaktusskrikje
+kakuskive
 kalander
 kalasjnikov
 kalasjnikovane
@@ -31322,6 +31558,7 @@ kalkunar
 kalkunen
 kalkunhane
 kalkunhøne
+kalkvatn
 kall
 kalla
 kallane
@@ -31363,6 +31600,7 @@ kalvar
 kalvbeint
 kalvdans
 kalve
+kalvedans
 kalvedrikke
 kalvefilet
 kalvekjøt
@@ -31380,6 +31618,7 @@ kamakselen
 kamakslane
 kamakslar
 kamaksling
+kamar
 kamb
 kambane
 kambar
@@ -31433,12 +31672,14 @@ kamille
 kamillen
 kammane
 kammar
+kammelblomme
 kammen
 kammer
 kammera
 kammeret
 kammermusikk
 kammermusikken
+kammers
 kamp
 kampane
 kampanilar
@@ -31470,6 +31711,9 @@ kamuflasje
 kamuflasjen
 kamull
 kan
+kan du hjelpa meg?
+kan eg koma inn?
+kan eg røyka?
 kan henda
 kan hende
 kanadagjæsene
@@ -31614,6 +31858,7 @@ kapp
 kappa
 kappdrikka
 kappe
+kappelan
 kappet
 kapphug
 kappverdar
@@ -31737,6 +31982,7 @@ kari
 karia
 karibisk
 karibiske
+kariblom
 karibsvale
 karies
 kariesen
@@ -31827,6 +32073,7 @@ kartografi
 kartografien
 karusell
 karuss
+karv
 kasakhisk
 kasakhstanar
 kasakhstanarane
@@ -32035,6 +32282,7 @@ kaukar
 kaukasisk
 kaukasiske
 kaun
+kaunasoleia
 kaupang
 kaure
 kauri
@@ -32046,6 +32294,7 @@ kaustisk
 kaustisk soda
 kaustiske
 kaut
+kautokeinoværing
 kava
 kavaleri
 kavaleria
@@ -32055,6 +32304,7 @@ kavaleristane
 kavaleristar
 kavaleristen
 kavande
+kavate
 kavbåt
 kave
 kaviar
@@ -32376,6 +32626,7 @@ kjapp
 kjapp på labben
 kjappe
 kjapt
+kjas
 kje
 kjea
 kjeande
@@ -32770,6 +33021,7 @@ kjøl
 kjølane
 kjølar
 kjøle
+kjøleg
 kjølemedia
 kjølemediet
 kjølemedium
@@ -33299,6 +33551,7 @@ klikken
 klikket
 klikkevesen
 klikkvesen
+klikse
 klima
 klimaa
 klimaanlegg
@@ -33555,6 +33808,7 @@ klynket
 klypa
 klype
 klype f salt
+klype salt
 klypene
 klyper
 klypp
@@ -33641,6 +33895,7 @@ knaggrekke
 knaggrekkja
 knaggrekkje
 knaillhal
+knaka
 knake
 knall
 knall og fall
@@ -33775,6 +34030,7 @@ knoppen
 knort
 knortestokk
 knota
+knote
 knotemål
 knott
 knuffa
@@ -33840,6 +34096,8 @@ koalisjonane
 koalisjonar
 koalisjonen
 kobbel
+kobebiff
+kobekjøt
 koble
 kobolt
 koboltblå
@@ -33890,6 +34148,7 @@ koinnj
 koiné
 koinéspråk
 kok
+koka vekk i kål
 kokain
 kokainen
 kokainet
@@ -34507,6 +34766,7 @@ kongressen
 kongro
 kongrodyr
 kongrovev
+kongsgras
 kongslyd
 konisk
 koniske
@@ -34979,8 +35239,10 @@ kordirigenten
 kore
 korean
 koreanar
+koreanologi
 koreansk
 koreanske
+koreanske studiar
 koreansken
 koreografi
 koret
@@ -35014,6 +35276,7 @@ korleis
 korleis går det?
 korleis har du det?
 korleis står det til?
+korlægje
 korn
 korna
 kornaks
@@ -35086,6 +35349,8 @@ korset
 korsett
 korsetta
 korsettet
+korsfarar
+korsferd
 korsfeste
 korsfesting
 korsikanar
@@ -35233,6 +35498,7 @@ kostyma
 kostyme
 kostymet
 kot
+kote
 kotefinn
 kotelett
 kotelettane
@@ -35292,6 +35558,7 @@ kraftutbyggingar
 kraftverk
 kraftverka
 kraftverket
+kragablom
 kragane
 kragar
 krage
@@ -35307,6 +35574,7 @@ krakken
 kram
 krambu
 krame
+kramkar
 kramme
 krampane
 krampar
@@ -35456,6 +35724,7 @@ kremfløyte
 kremle
 kremlolog
 kremlologi
+kremmar
 kreng
 krengja
 krenka
@@ -35810,6 +36079,7 @@ krossmessene
 krossmesser
 krosstog
 krotekake
+krubbrat
 krukka
 krukke
 krukkene
@@ -35819,6 +36089,7 @@ krum
 krumbøygde
 krumme
 krumming
+krump
 krumt
 krus
 krushår
@@ -35830,6 +36101,7 @@ krut
 kruthorn
 kry
 kryande
+krybberat
 krydd
 krydda
 krydde
@@ -35867,6 +36139,7 @@ krype
 krype saman
 krype til krossen
 kryper
+krypinn
 krypling
 krypskyttar
 kryptisk
@@ -36040,6 +36313,7 @@ kuke ut
 kukhovud
 kukk
 kukost
+kukur
 kul
 kula
 kulak
@@ -36064,6 +36338,7 @@ kuleramme
 kulerammene
 kulerammer
 kulestøyt
+kulestøytar
 kulinarisk
 kulinariske
 kuling
@@ -36438,6 +36713,7 @@ kvalspyd
 kvalstasjon
 kvalv
 kvam
+kvanndag
 kvannjol
 kvanta
 kvantefysikk
@@ -36474,6 +36750,7 @@ kvardagslivet
 kvardagsmål
 kvardagssoge
 kvardagsuttrykk
+kvarg
 kvarhelst
 kvark
 kvarkenov
@@ -36522,6 +36799,7 @@ kvatt
 kvatte
 kvavna
 kve
+kveda
 kveddja
 kvede
 kvefs
@@ -36542,7 +36820,10 @@ kveis
 kveisa
 kveise
 kveisene
+kveisepass
 kveiser
+kveisesetel
+kveisesott
 kveisete
 kveita
 kveite
@@ -36607,6 +36888,7 @@ kveldsmjølk
 kveldsol
 kveldsrode
 kveldsrøde
+kveldssete
 kveldssol
 kveldssola
 kveldstur
@@ -36689,6 +36971,7 @@ kvesa
 kvese
 kvessa
 kvesse
+kvessne
 kvest
 kvet
 kvetja
@@ -36821,6 +37104,7 @@ kvister
 kvisterne
 kvistine
 kvistir
+kvisu
 kvit
 kvit dverg
 kvit elefant
@@ -36883,6 +37167,7 @@ kvitkinngås
 kvitkinnsvartterne
 kvitkledd
 kvitkløver
+kvitkoll
 kvitkrull
 kvitkval
 kvitkål
@@ -36988,6 +37273,7 @@ kvæn
 kvænsk
 kvænska
 kvænske
+kvæsa
 kvæse
 kvæve
 kvít’e
@@ -37223,6 +37509,7 @@ kystvakt
 kystvakta
 kystvaktene
 kystvakter
+kyta
 kå
 kåande
 kåkfest
@@ -37240,6 +37527,7 @@ kålrøter
 kåmmå
 kåmå
 kåpe
+kåpegras
 kåppår
 kåre
 kåringssjå
@@ -37247,6 +37535,7 @@ kåte
 kåtleik
 kåtmunna
 kåtskap
+kåvå
 kæll
 kòs
 kòsi
@@ -37444,6 +37733,7 @@ lagunen
 lagunene
 laguner
 lainnj
+laiv
 lakan
 lakane
 lakar
@@ -37539,6 +37829,7 @@ landbruket
 landbruksmessig
 landbruksmessige
 landbu
+landdrott
 lande
 landegrensa
 landegrense
@@ -37689,6 +37980,7 @@ langobard
 langobardane
 langobardar
 langobarden
+langorv
 langrenn
 langrennet
 langs
@@ -37743,6 +38035,7 @@ lapp
 lappane
 lappar
 lappause
+lappe
 lappen
 lappeteppa
 lappeteppe
@@ -37776,6 +38069,7 @@ lasagne
 lasagnen
 lasagneplate
 lasanje
+lasaron
 laser
 laserane
 laserar
@@ -37910,6 +38204,7 @@ laupebane
 laupekatt
 laupen
 lauper
+laupetid
 laupne
 laupt
 laupte
@@ -38087,6 +38382,7 @@ leggjande
 leggjast
 leggje
 leggje bører på
+leggje i øyde
 leggje seg
 leggje stein til børa
 leggje til
@@ -38252,6 +38548,7 @@ lekamar
 lekamen
 lekamskrenking
 leke
+lekjesblekkje
 lekjo
 lekju
 lekjune
@@ -38302,6 +38599,7 @@ lem
 lemba
 lemen
 lemena
+lemende
 lemenet
 lemenår
 lemja
@@ -38530,6 +38828,7 @@ letu
 letune
 letur
 leukisme
+leukocytt
 lev
 lev vel
 leva
@@ -38570,6 +38869,7 @@ leveransen
 leverar
 levere
 leverer
+leverhogg
 levering
 leveringa
 leveringane
@@ -38598,6 +38898,7 @@ levevilkåret
 leveår
 leveåra
 leveåret
+levkocytt
 levkøy
 levra
 levrane
@@ -38948,7 +39249,9 @@ livbøyen
 livbøyene
 livbøyer
 livd
+livdarhol
 livde
+livdehol
 live
 live opp
 livebraud
@@ -39071,6 +39374,7 @@ ljodbok
 ljodboka
 ljodbrev
 ljodbrigde
+ljodbylgje
 ljodbær
 ljodbøkene
 ljodbøker
@@ -39176,6 +39480,7 @@ ljuvleg
 ljå
 ljåane
 ljåar
+ljådogg
 ljåen
 ljågras
 ljår
@@ -39383,6 +39688,7 @@ lom
 lomane
 lomar
 lomasvale
+lomeldre
 lomen
 lomhund
 lomma
@@ -39430,6 +39736,7 @@ longene
 longo
 longone
 longor
+lopp
 loppa
 loppe
 loppekasse
@@ -39631,6 +39938,7 @@ lugu
 luguber
 lugubert
 lugubre
+lugum
 luka
 luke
 lukene
@@ -39857,6 +40165,7 @@ lydbrigde
 lydbær
 lydbøkene
 lydbøker
+lydbølge
 lydbølgje
 lydbøye
 lydd
@@ -39967,7 +40276,9 @@ lyktestolpe
 lyktestolpen
 lymfa
 lymfe
+lymfeknute
 lymfekreft
+lymfocytt
 lymfom
 lymfoma
 lymfomet
@@ -40069,6 +40380,7 @@ lyskjeldene
 lyskjelder
 lyskvant
 lysmor
+lysna
 lyspæra
 lyspære
 lyspærene
@@ -40199,6 +40511,7 @@ låven
 låvesvale
 læ
 læg
+lægd
 lægene
 læger
 lægervall
@@ -40221,6 +40534,7 @@ lækjarar
 lækjaren
 lækjarstand
 lækje
+lækjeblad
 lækjemiddel
 læll
 læms
@@ -40422,6 +40736,7 @@ løss
 løssen
 løva
 løve
+løvefot
 løvemunn
 løvene
 løver
@@ -40481,6 +40796,8 @@ løytnant
 løytnantane
 løytnantar
 løytnanten
+løytnantshjarta
+løytnantshjarte
 løyv
 løyva
 løyvande
@@ -40847,6 +41164,7 @@ mandel
 mandelbetennelse
 mandelen
 mandelfarge
+mandelgåve
 mandelpotet
 mandeltre
 mandig
@@ -40922,6 +41240,7 @@ manna
 mannaask
 mannalav
 mannast
+mannbisk
 mannbjørn
 manndom
 manndomen
@@ -41007,6 +41326,7 @@ mare
 mareflyndre
 marekatt
 marekors
+marekvast
 marekvist
 maremerke
 marene
@@ -41018,6 +41338,7 @@ mareritt
 mareritta
 marerittet
 marespjeld
+marflo
 marg
 margane
 margar
@@ -41036,10 +41357,13 @@ marhalm
 marianykleblom
 marianøkleband
 marianøkleblom
+mariastakk
 marihand
 marihuana
 marihøne
+marikjortel
 marikåpe
+marimynte
 marin
 marina
 marinaen
@@ -41066,6 +41390,8 @@ marinykleblom
 marinøkleband
 marinøkleblom
 marionett
+maristakk
+maristakke
 maritim
 maritime
 maritimt
@@ -41099,6 +41425,7 @@ marki
 markiane
 markiar
 markien
+markinsk
 markise
 markja
 markjer
@@ -41159,6 +41486,7 @@ marsjar
 marsjen
 marsk
 marsken
+marstein
 marsvin
 martingal
 martnad
@@ -41703,9 +42031,9 @@ mekanisme
 mekanismen
 mekedag
 mekedag (i.e., ‘midtvekedag’)
-mekedag · torsdag · fredag · laurdag · sundag~søndag [edit]
 mekka
 mekke
+mekkergauk
 mekle
 meklingsmann
 mekregauk
@@ -41806,6 +42134,7 @@ mellomstasjonen
 mellomstor
 mellomstore
 mellomstort
+mellomtenar
 mellomtid
 mellomtida
 mellomtidene
@@ -42098,6 +42427,7 @@ metodikkar
 metodikken
 metodisk
 metodiske
+metodisme
 metodist
 metodistane
 metodistar
@@ -42476,6 +42806,8 @@ miltbrann
 miltbrannen
 milten
 miltet
+milthogg
+miltsting
 min
 min sant
 min santen
@@ -43137,6 +43469,7 @@ monoton
 monotone
 monotont
 monsok
+monster
 monsun
 monsunane
 monsunar
@@ -43201,9 +43534,13 @@ mordar
 mordarane
 mordarar
 mordaren
+mordarhand
 mordarisk
 morder
+morderska
 morderske
+morderskene
+mordersker
 mordet
 mordvåpen
 mordvåpena
@@ -43252,6 +43589,7 @@ morgonsol
 morgonstjerne
 morgonstund
 morgonstund har gull i munn
+morgontung
 mork
 morka
 morkaka
@@ -43262,6 +43600,7 @@ morke
 morken
 morkent
 morki
+morkna
 morknare
 morknast
 morkne
@@ -43614,16 +43953,19 @@ mumiar
 mumie
 mumien
 mumle
+mumpa
 mun
 mun tru
 muna
 munde
+mundur
 mune
 mungaat
 mungåt
 munk
 munkane
 munkar
+munkekruna
 munkekutte
 munkelus
 munken
@@ -43712,8 +44054,10 @@ mur
 mura
 murane
 murar
+muras
 mure
 muren
+muristakk
 murmeldyr
 muro
 murru
@@ -43725,6 +44069,7 @@ mursvale
 muru
 murune
 murur
+murustakk
 murustjerne
 murverk
 murverket
@@ -43900,6 +44245,7 @@ myndig
 myndig alder
 myndigalder
 myndigheiter
+myngle
 mynt
 mynta
 myntane
@@ -43955,6 +44301,7 @@ myrkongle
 myrkret
 myrkt
 myrlapp
+myrlappause
 myrlende
 myrlendt
 myrmalm
@@ -43962,6 +44309,7 @@ myrmjølke
 myrplante
 myrsaks
 myrsnipe
+myrstakk
 myrt
 myrte
 myrull
@@ -44262,6 +44610,7 @@ møderna
 møderne
 mødrene
 mødrer
+møggel
 møk
 møka
 møket
@@ -44302,6 +44651,7 @@ mønstera
 mønsteret
 mønstra
 mønstrete
+mønsås
 mør
 møre
 møretorsk
@@ -44337,6 +44687,7 @@ mørketida
 mørkhuda
 mørkhåra
 mørkhærd
+mørkredd
 mørkret
 mørkt
 mørkøygd
@@ -44516,11 +44867,14 @@ nase-
 nasebjørn
 naseblod
 naseblodet
+nasebor
+nasebore
 nasegryn
 nasehug
 naseljod
 naselyd
 nasen
+nasen i vêret
 nasene
 naseparti
 naser
@@ -44895,6 +45249,7 @@ nedetida
 nedetter
 nedfall
 nedfallet
+nedfallsott
 nedfallstre
 nedfallstrea
 nedfallstreet
@@ -44998,6 +45353,7 @@ neglt
 neglte
 negrane
 negrar
+negro spiritual
 negta
 negte
 nei
@@ -45155,6 +45511,7 @@ nettene
 netter
 netterne
 nettet
+netthandel
 netthinna
 netthinne
 netthinnene
@@ -45475,6 +45832,7 @@ nok
 noka
 nokka
 noko
+nokoleis
 nokolunde
 nokon
 nokor
@@ -45727,6 +46085,7 @@ notsteng
 notvarp
 nougat
 nov
+nov.
 novelle
 november
 noverande
@@ -46012,6 +46371,7 @@ nåe
 någauk
 någå
 nåkka
+nåkkå
 nåkå
 nåkån
 nål
@@ -46286,6 +46646,7 @@ oboane
 oboar
 oboe d'amore
 oboen
+oboist
 obs
 observant
 observasjon
@@ -46453,6 +46814,7 @@ oganesson
 ogn
 ogna
 ogni
+ogobor
 ogso
 også
 ohm
@@ -46529,6 +46891,7 @@ oksygen
 oksygenet
 oksygenfattig
 oksygenfattige
+okt.
 okta-
 oktav
 oktavane
@@ -47135,6 +47498,7 @@ opphav
 opphava
 opphavet
 opphavleg
+opphavleg nasjon
 opphavlege
 opphavlig
 opphavsfolk
@@ -47631,6 +47995,7 @@ ortografi
 ortografiane
 ortografiar
 ortografien
+orv
 orwellsk
 os
 osa
@@ -47743,6 +48108,7 @@ ouverturar
 ouverture
 ouverturen
 ov-
+ovaburd
 ovafor
 ovafrå
 ovaifrå
@@ -48042,6 +48408,7 @@ ovulasjonen
 ovund
 ovunda
 ovundi
+ovåttå
 owenisme
 ozon
 ozonet
@@ -48377,6 +48744,7 @@ paraplyorganisasjon
 paraplyorganisasjonane
 paraplyorganisasjonar
 paraplyorganisasjonen
+paraplystativ
 parasitt
 parasittane
 parasittar
@@ -48401,6 +48769,7 @@ parfyme
 parfymen
 parfymert
 parfymerte
+paringstid
 pariserhjul
 pariserhjula
 pariserhjulet
@@ -48686,6 +49055,9 @@ paukane
 paukar
 pauke
 pauken
+pauli
+pauli ord
+paulinsk
 pausane
 pausar
 pause
@@ -48778,8 +49150,8 @@ pelikanane
 pelikanar
 pelikanen
 pelma
+pelma til
 pelme
-pelme til
 pels
 pelsane
 pelsar
@@ -48810,6 +49182,7 @@ pengedum
 pengefolk
 pengefolka
 pengefolket
+pengegras
 pengelens
 pengemangel
 pengemangelen
@@ -48932,6 +49305,7 @@ perifert
 perige
 perihel
 perihelium
+perikum
 periodane
 periodar
 periode
@@ -48963,6 +49337,7 @@ perlemor
 perlemoret
 perlene
 perler
+perleugle
 perm
 permafrost
 permafrosten
@@ -49318,6 +49693,7 @@ pizzaar
 pizzaen
 pizzaene
 pizzaer
+pizzeria
 pjoltrane
 pjoltrar
 pla
@@ -49362,7 +49738,6 @@ planetarium
 planeten
 planetologi
 planetologien
-planets of the Solar System: planet: Merkur · Venus · jorda~jordi · Mars · Jupiter · Saturn · Uranus · Neptun [edit]
 plankane
 plankar
 plankart
@@ -49613,6 +49988,7 @@ pokal
 pokalane
 pokalar
 pokalen
+poke
 pokker
 pol
 polakk
@@ -49629,6 +50005,7 @@ polaritet
 polaritetane
 polaritetar
 polariteten
+polarljos
 polarlomvi
 polarrev
 polarsirkel
@@ -49888,6 +50265,7 @@ positivt
 positron
 positrona
 positronet
+poss
 post
 postbod
 postboks
@@ -50136,6 +50514,7 @@ prestesnipp
 prestestand
 prestevia
 prestevie
+prestgull
 prestinna
 prestinne
 prestinnene
@@ -50168,6 +50547,7 @@ prikkane
 prikkar
 prikken
 prikken over i-en
+prikkperikum
 primadonna
 primadonnaa
 primadonnaene
@@ -50570,6 +50950,7 @@ provisorium
 provoserande
 provosere
 provoserende
+proxy
 prute
 pryd
 pryda
@@ -50945,6 +51326,7 @@ på grunn av
 på gråten
 på hekta
 på hengande håret
+på høg tid
 på jådnå
 på kreditt
 på kryss og tvers
@@ -50953,6 +51335,7 @@ på langs
 på leistane
 på lestane
 på lur
+på måfå
 på ny
 på nytt
 på papiret
@@ -51065,7 +51448,6 @@ påverknad
 påverknaden
 påvirke
 påvirkning
-pælme
 pæra
 pære
 pærene
@@ -51277,6 +51659,7 @@ rally
 rallya
 rallyet
 rambukk
+ramla
 ramle
 ramma
 ramme
@@ -51430,6 +51813,7 @@ ratane
 ratar
 rate
 raten
+ratesjuke
 ratifikasjon
 ratifikasjonane
 ratifikasjonar
@@ -51448,7 +51832,6 @@ rattstammen
 rattstammene
 rattstammer
 raud
-raud flugesopp
 rauda
 raudare
 raudast
@@ -51712,6 +52095,7 @@ refrengi
 refs
 refsen
 refte
+refuge
 regalia
 regatta
 regattaane
@@ -51901,6 +52285,7 @@ reindrift
 reine
 reinen
 reinfinn
+reinflokk
 reingjering
 reingjeringa
 reingjøring
@@ -52065,6 +52450,7 @@ reklame
 reklamebyrå
 reklamebyråa
 reklamebyrået
+reklamefri
 reklamejippo
 reklamekampanjane
 reklamekampanjar
@@ -52248,6 +52634,7 @@ renovering
 renoveringa
 renoveringane
 renoveringar
+rensel
 rent
 renta
 rente
@@ -52792,6 +53179,7 @@ ringstav
 ringt
 ringtrast
 ringtrost
+ringtruge
 ringvei
 rini
 rinskvin
@@ -52800,6 +53188,7 @@ ripa
 ripe
 ripene
 riper
+ripmål
 rips
 ripsbusk
 ripsbuske
@@ -52870,6 +53259,7 @@ rivande
 rivas
 rivast
 rive
+rivehovud
 riven
 rivene
 river
@@ -52990,6 +53380,7 @@ romanar
 romanasalat
 romanen
 romanforfattar
+romanist
 romanosalat
 romansane
 romansar
@@ -53133,6 +53524,7 @@ rosmarinane
 rosmarinar
 rosmarinen
 rosor
+rossgauk
 rossmål
 rosverdig
 rosévin
@@ -53190,6 +53582,7 @@ rovfugl
 rovfuglane
 rovfuglar
 rovfuglen
+rovmordar
 rovor
 royalties
 royalty
@@ -53219,6 +53612,7 @@ rug
 rugbraud
 rugbrød
 rugbrødet
+rugbyspelar
 rugda
 rugde
 rugdene
@@ -53241,8 +53635,8 @@ ruinar
 ruinby
 ruinen
 ruke
-rukke
 rukkel
+rukkestakk
 rukku
 rukl
 rulett
@@ -53282,6 +53676,7 @@ rulletrapp
 rulletrappa
 rulletrappene
 rulletrapper
+rullings
 rult
 rulta
 rulte
@@ -53991,6 +54386,7 @@ røyskatt
 røyskattane
 røyskattar
 røyskatten
+røyspost
 røyst
 røysta
 røyste
@@ -53999,6 +54395,7 @@ røystelokale
 røystene
 røyster
 røysterett
+røyta
 røyte
 røyve
 s
@@ -54324,6 +54721,7 @@ sameksistens
 sameksistensen
 sameksistere
 samekufte
+sameleis
 samen
 sameting
 sametromme
@@ -54609,6 +55007,7 @@ sann
 sanna
 sanne
 sanne etter
+sanneleg
 sannferdeleg
 sannferdig
 sanning
@@ -54712,6 +55111,7 @@ saubukk
 saucisse
 saud
 saudabu
+saudabue
 saudi
 saudiar
 saudiarabar
@@ -54794,6 +55194,7 @@ scener
 sceneshow
 sceneshowa
 sceneshowet
+scenestuping
 scenografi
 scenografien
 schilling
@@ -54821,6 +55222,7 @@ screwdriver
 script
 scripta
 scripte
+se og kort
 seborré
 seboré
 sebra
@@ -54832,7 +55234,6 @@ sebraer
 sebu
 sed
 sedd
-seddel
 sede
 sede opp
 sedeleg
@@ -54929,6 +55330,7 @@ seies
 seiest
 seig
 seige
+seigpinast
 seigt
 seiing
 seikval
@@ -55194,6 +55596,7 @@ semjo
 semju
 semjune
 semjur
+semmer
 sen
 sena
 senane
@@ -55222,6 +55625,7 @@ sending
 sendt
 sendte
 sene
+senedrått
 senegalesar
 senegalesarane
 senegalesarar
@@ -55231,6 +55635,7 @@ senegalesiske
 senene
 sener
 seneskjedebetennelse
+senestrekk
 seng
 senga
 sengbu
@@ -55333,6 +55738,7 @@ sentruma
 sentrumet
 sentrumi
 sentrumsmål
+sep.
 separat
 separate
 separatisme
@@ -55453,6 +55859,7 @@ sessar
 sesse
 sessen
 sest
+sest seinare
 set
 seta
 setane
@@ -55843,6 +56250,7 @@ sildra
 sildrande
 sildrar
 sildre
+sildrope
 silhuett
 silhuettane
 silhuettar
@@ -56191,6 +56599,7 @@ sjauane
 sjauar
 sjauen
 sjaug
+sjaund
 sjav
 sjav'e
 sjebek
@@ -56346,6 +56755,7 @@ sjuketrygd
 sjukt
 sjumenning
 sjun
+sjurgull
 sjursmess
 sjursmessa
 sjursmesse
@@ -56483,6 +56893,7 @@ sjøkrigen
 sjøl
 sjøl om
 sjøla
+sjølane
 sjølei
 sjøleia
 sjøleiene
@@ -56506,6 +56917,7 @@ sjølven
 sjølvgjeve
 sjølvgjeven
 sjølvgjevne
+sjølvgod
 sjølvgåande
 sjølvhat
 sjølvhjelp
@@ -56567,6 +56979,7 @@ sjømat
 sjømaten
 sjømenn
 sjømennene
+sjømige
 sjømil
 sjømila
 sjømilene
@@ -56741,6 +57154,7 @@ skanken
 skanki
 skannar
 skanne
+skantil
 skap
 skapa
 skapande
@@ -57064,6 +57478,7 @@ skinna
 skinnbind
 skinnbrok
 skinnbroktare
+skinnbukse
 skinnebein
 skinnebuss (bokmål)
 skinnet
@@ -57131,6 +57546,7 @@ skirselden
 skirsl
 skirsle
 skirsler
+skirtorsdag
 skisenter
 skisentera
 skisenteret
@@ -57346,6 +57762,7 @@ skjera alle over same leist
 skjera alle over same lest
 skjerande
 skjerar
+skjerblom
 skjerd
 skjere
 skjere til
@@ -57416,6 +57833,7 @@ skjule
 skjulested
 skjulet
 skjult
+skjurgull
 skjut
 skjuttugull
 skjå
@@ -57423,6 +57841,7 @@ skjæker
 skjær
 skjæraks
 skjære
+skjæreblom
 skjæring
 skjærseld
 skjærselden
@@ -57491,6 +57910,7 @@ skodd
 skodda
 skodde
 skoddefinn
+skoddefugl
 skoddene
 skodder
 skode
@@ -57671,6 +58091,7 @@ skoren
 skorfeste
 skori
 skorne
+skorofele
 skorpa
 skorpar
 skorpe
@@ -57706,6 +58127,7 @@ skottar
 skotte
 skotten
 skottpengar
+skottår
 skotår
 skotåra
 skotåret
@@ -57725,7 +58147,9 @@ skrammel
 skrante
 skrap
 skrapa
+skrapar
 skrape
+skrapekall
 skrapekunst
 skrapet
 skrapjarn
@@ -57778,9 +58202,12 @@ skrem
 skremd
 skremde
 skremma
+skremma nokon av vitet
 skremmande
 skremmast
 skremme
+skremme nokon av vettet
+skremme nokon av vitet
 skremmer
 skremt
 skremte
@@ -57822,6 +58249,7 @@ skriftene
 skrifter
 skriftespegel
 skriftespegelen
+skriftestol
 skriftet
 skriftfeste
 skriftleg
@@ -57912,6 +58340,7 @@ skrivne
 skrog
 skroga
 skroget
+skrolla
 skrot
 skrota
 skrote
@@ -57942,6 +58371,8 @@ skrubbær
 skrublyant
 skrue
 skruen
+skrueste
+skruestikke
 skrufar
 skrugard
 skrugjenge
@@ -58002,6 +58433,7 @@ skråninga
 skråningane
 skråningar
 skråppå
+skråsikker
 skråtobakk
 skræddar
 skrækja
@@ -58091,6 +58523,7 @@ skulebussar
 skulebussen
 skuleelev
 skulegang
+skulegjente
 skulejente
 skulekorps
 skulelækjar
@@ -58113,6 +58546,7 @@ skulka
 skulke
 skulla
 skulle
+skulle eg til å seia
 skulptur
 skulpturane
 skulpturar
@@ -58121,6 +58555,7 @@ skulptør
 skulptørane
 skulptørar
 skulptøren
+skuls
 skult
 skulte
 skum
@@ -58315,6 +58750,7 @@ skyvt
 skå
 skåande
 skåddj
+skåidd
 skåk
 skåka
 skåki
@@ -58415,6 +58851,7 @@ slav
 slava
 slavane
 slavar
+slavatn
 slave
 slavearbeid
 slavearbeidet
@@ -58442,10 +58879,12 @@ slegest
 sleget
 slegga
 slegge
+sleggekastar
 sleggene
 slegger
 sleggja
 sleggje
+sleggjekastar
 sleggjene
 sleggjer
 slegi
@@ -58457,8 +58896,11 @@ sleik
 sleike
 sleikje
 sleip
+sleipe
+sleiper
 sleiping
 sleipna
+sleipsnok
 sleit
 sleiva
 sleivut
@@ -58623,6 +59065,7 @@ slovenarar
 slovenaren
 slovensk
 slovenske
+slu
 sludd
 sluddbye
 sluddet
@@ -58675,6 +59118,7 @@ slynger
 slå
 slå an
 slå av
+slå ein prat
 slå i hel
 slå inn på
 slå lens
@@ -58702,11 +59146,14 @@ slåsskamp
 slåsskjempe
 slåst
 slåstkamp
+slåter
+slåtra
 slått
 slåttane
 slåttar
 slåttemark
 slåtten
+slåttmann
 slåttonn
 slær
 slø
@@ -58958,6 +59405,7 @@ smokk
 smokkane
 smokkar
 smokken
+smolo
 smolt
 smolta
 smoltane
@@ -59014,6 +59462,7 @@ småfalle
 småfallen
 småfalne
 småfugl
+smågjente
 smågodt
 småjenta
 småjente
@@ -59031,6 +59480,7 @@ småkyrkje
 småle
 smålæte
 småpengar
+småpoke
 småprat
 småregn
 småregnet
@@ -59042,6 +59492,7 @@ småstein
 småsteinane
 småsteinar
 småsteinen
+småstela
 småsyre
 småsystrer
 småsøsken
@@ -59216,6 +59667,7 @@ sno
 snoa
 snoande
 snoe
+snok
 snop
 snopet
 snor
@@ -59245,6 +59697,7 @@ snur
 snurka
 snurke
 snurpenot
+snurre
 snurrebass
 snurrebassane
 snurrebassar
@@ -59963,7 +60416,6 @@ sosiologiske
 sosioøkonomisk
 sosioøkonomiske
 soss
-sosse
 sossegut
 sot
 sota
@@ -60024,6 +60476,7 @@ sovjetrepublikk
 sovjetrepublikkane
 sovjetrepublikkar
 sovjetrepublikken
+sovl
 sovn
 sovna
 sovnande
@@ -60157,6 +60610,7 @@ speida
 speidar
 speide
 speie
+speika
 speilegg
 speilegga
 speilegget
@@ -60381,6 +60835,7 @@ spjut
 spjuta
 spjutet
 spjutkast
+spjutkastar
 spjutøks
 splint
 splintr
@@ -60472,6 +60927,7 @@ spoven
 sprachbund
 sprada
 spradebasse
+spraglete
 sprakk
 sprang
 spranga
@@ -60638,7 +61094,6 @@ spursmål
 spurst
 spurt
 spurte
-spurv
 sputt
 sputta
 spy
@@ -60649,6 +61104,7 @@ spyda
 spydet
 spydig
 spydkast
+spydkastar
 spydkastet
 spydøks
 spye
@@ -60788,6 +61244,7 @@ stadi
 stadia
 stadiet
 stadig
+stadig vekk
 stadige
 stadion
 stadiona
@@ -61024,6 +61481,7 @@ statuettane
 statuettar
 statuetten
 status
+status quo
 statusane
 statusar
 statusen
@@ -61633,6 +62091,7 @@ stolpar
 stolpe
 stolpebu
 stolpen
+stolpestikke
 stolpra
 stolt
 stolte
@@ -61869,6 +62328,7 @@ strakte
 strand
 stranda
 strandabu
+strandbalderbrå
 strandbu
 strande
 strandflate
@@ -62204,6 +62664,7 @@ studentane
 studentar
 studentby
 studenten
+studentgetto
 studer
 studera
 studerande
@@ -62313,6 +62774,7 @@ stutthærd
 stuttleik
 stuttmælt
 stuttne
+stuttorv
 stuu
 stuv
 stuvane
@@ -62851,6 +63313,7 @@ summar
 summe
 summen
 summet
+summetre
 sumo
 sump
 sumpane
@@ -63133,6 +63596,7 @@ svartsjuk
 svartskjorte
 svartskogsnigel
 svartskrikje
+svartsnok
 svartstill
 svartstille
 svartstilt
@@ -63167,6 +63631,7 @@ svear
 svebn
 svecisme
 sveibu
+sveibue
 sveigja
 sveik
 svein
@@ -63257,7 +63722,7 @@ svermen
 sverta
 sverte
 sverva
-svette
+sveva
 sveve
 svevebåt
 svevn
@@ -63329,7 +63794,9 @@ svillene
 sviller
 svima av
 svimeslåande
+svimla
 svimling
+svimmel
 svimra
 svimre
 svin
@@ -63380,6 +63847,7 @@ svingskiva
 svingskive
 svingskivene
 svingskiver
+svingstikke
 svini
 svinn
 svinnsott
@@ -63475,7 +63943,10 @@ sværast
 sværaste
 svære
 svært
+svæva
 svæve
+svævedrykk
+svæveråd
 svøbn
 svøm
 svømde
@@ -63592,6 +64063,7 @@ syknedag
 syl
 sylane
 sylar
+sylater
 sylen
 sylgja
 sylgje
@@ -63967,7 +64439,10 @@ så langt (som)
 så langt, så godt
 så menn!
 så og så
+så sanneleg
 så som så
+så vidt
+så visst
 så å seia
 såande
 såast
@@ -64058,6 +64533,7 @@ sårbandasje
 sårbar
 sårbare
 sårbart
+sårblad
 såre
 såret
 sårlege
@@ -64503,6 +64979,7 @@ ta rotta på
 ta sats
 ta seg
 ta seg av
+ta seg ein bolle
 ta seg ein liten knert
 ta seg for
 ta seg saman
@@ -64510,6 +64987,7 @@ ta seg til rettes
 ta seg ut
 ta slutt
 ta sorgene på forskot
+ta tak i
 ta til
 ta til orde for
 ta tyren ved horna
@@ -64735,7 +65213,6 @@ talgbleie
 talgen
 talgmeis
 talgokse
-talharpa
 talja
 taljane
 taljar
@@ -64799,6 +65276,7 @@ tangenten
 tanget
 tangfjøre
 tangje
+tangloppe
 tanglus
 tank
 tanka
@@ -65058,8 +65536,10 @@ taust
 taustige
 taustubb
 taut
+tauver
 tauverk
 tauverket
+tauvra
 tauvrekall
 tavl
 tavla
@@ -65329,6 +65809,8 @@ telefonsentralane
 telefonsentralar
 telefonsentralen
 telefonsvarar
+telegrafisk
+telegrafist
 telegram
 telekommunikasjon
 telekommunikasjonane
@@ -65824,7 +66306,6 @@ tidlegast
 tidlegaste
 tidlegbær
 tidlege
-tidlig
 tidløyse
 tidobbel
 tidoble
@@ -66260,6 +66741,7 @@ tindved
 tine
 tiner
 ting
+ting og tang
 tinga
 tinga på
 tingallmuge
@@ -66306,6 +66788,7 @@ tinningen
 tinnitus
 tinnpest
 tinnsoldat
+tint
 tiosvovelsyre
 tipi
 tipla
@@ -66360,6 +66843,7 @@ tiår
 tiåra
 tiåret
 tja
+tjald
 tjall
 tjau
 tjaua
@@ -66466,6 +66950,7 @@ tjuvpermisjon
 tjuvpermisjonane
 tjuvpermisjonar
 tjuvpermisjonen
+tjyrukross
 tjå
 tjå ut
 tjåande
@@ -66477,6 +66962,7 @@ tjått
 tjæra
 tjære
 tjærehjell
+tjærekors
 tjærelog
 tjærelogane
 tjærelogar
@@ -66556,6 +67042,7 @@ toga
 togaen
 togaene
 togaer
+togbillett
 togekspeditør
 togekspeditørane
 togekspeditørar
@@ -66891,6 +67378,7 @@ tosse
 tossene
 tosser
 tostavingstonelag
+tot
 totaktsmotor
 total
 total formørking
@@ -66980,6 +67468,7 @@ trafikkåra
 trafikkåre
 trafikkårene
 trafikkårer
+trafikkøy
 trafo
 tragediane
 tragediar
@@ -67435,6 +67924,7 @@ tresvale
 tretida
 tretjøre
 tretling
+tretore
 trett
 tretta
 trettan
@@ -67922,6 +68412,7 @@ tryllestav
 tryllestavane
 tryllestavar
 tryllestaven
+tryna
 tryne
 trysja
 tryt
@@ -68138,6 +68629,7 @@ tullingen
 tullkuk
 tullprate
 tullut
+tulug
 tumarsfinger
 tumble down
 tumlar
@@ -68148,7 +68640,9 @@ tumle
 tumsen
 tun
 tuna
+tunbalderbrå
 tunbjørk
+tunblekkje
 tunderbjørk
 tundersopp
 tundra
@@ -68205,6 +68699,7 @@ tungmetall
 tungmjølka
 tungmælt
 tungnæm
+tungras
 tungsam
 tungsame
 tungsamt
@@ -68410,6 +68905,7 @@ tussefløyte
 tussekors
 tusselort
 tusselus
+tussesovl
 tusskall
 tussmørke
 tussut
@@ -68500,6 +68996,7 @@ tvette
 tvi tvi
 tvi-
 tvibu
+tviegga
 tvigifte
 tvihug
 tvikjønn
@@ -68532,6 +69029,7 @@ tvitann
 tvitola
 tvitole
 tvitoling
+tvitolsnavar
 tvitra
 tvitre
 tvitunga
@@ -68540,6 +69038,7 @@ tviøygde
 tvo
 tvoga
 tvoge
+tvogegras
 tvogene
 tvoger
 tvogo
@@ -68697,6 +69196,7 @@ tyrannen
 tyranni
 tyrannia
 tyranniet
+tyrannisera
 tyrannisere
 tyrannisk
 tyre
@@ -68756,6 +69256,8 @@ tyte
 tytebær
 tytebæra
 tytebæret
+tyting
+tytingtjuv
 tytta
 tytte
 tyttebær
@@ -68788,6 +69290,7 @@ tåker
 tåkete
 tåla
 tåle
+tållå
 tålmod
 tålå
 tåpane
@@ -68810,6 +69313,7 @@ tårevått
 tårn
 tårna
 tårnet
+tårnfalk
 tårnsvale
 tårone
 tåror
@@ -69016,6 +69520,7 @@ ubær
 ubøygde
 udatert
 udaterte
+udaude
 uddu
 udemokratisk
 udemokratiske
@@ -69139,6 +69644,7 @@ ugler
 uglesjå
 uglesjåande
 ugløymeleg
+ugrasbalderbrå
 ugunstig
 ugunstige
 ugyger
@@ -69176,6 +69682,7 @@ uisolerte
 ujamn
 ujamne
 ujamt
+uke
 ukjend
 ukjende
 ukjent
@@ -69553,6 +70060,7 @@ underskriftene
 underskrifter
 underskrive
 underslagar
+underslekt
 underslåande
 undersoge
 underst
@@ -69609,11 +70117,13 @@ underverket
 undervisa
 undervise
 undervising
+undervisingstime
 undervisning
 undervisninga
 undervisningane
 undervisningar
 undervurdere
+undervurdering
 undras
 undrast
 undulat
@@ -70002,6 +70512,7 @@ utakande
 utakknemleg
 utalands
 utan
+utan mål og meining
 utan unnatak
 utan unntak
 utan vidare
@@ -70026,6 +70537,7 @@ utanriksminister
 utanriksministeren
 utanriksministrane
 utanriksministrar
+utanrikspolitikk
 utanskjers
 utanstokks
 utanum
@@ -70259,6 +70771,7 @@ utopiar
 utopien
 utopisk
 utopiske
+utor måten
 utover
 utpost
 utpostane
@@ -70461,6 +70974,7 @@ utviklingsland
 utviklingslanda
 utviklingslandet
 utviklingslære
+utvilsamt
 utvinning
 utvinninga
 utvinningane
@@ -70507,6 +71021,8 @@ uviss
 uvissa
 uvisse
 uvisst
+uvit
+uvita
 uvitenskapelig
 uvitskapeleg
 uvitskapelege
@@ -70553,6 +71069,7 @@ vadefuglen
 vaden
 vader
 vadet
+vadhald
 vadmål
 vadmålsbrok
 vadt
@@ -70586,6 +71103,7 @@ vagnane
 vagnar
 vagnen
 vagt
+vahaill
 vaie
 vaier
 vaierane
@@ -70675,6 +71193,7 @@ valdtektene
 valdtekter
 valdtektsforbrytar
 valdtektsmann
+valen
 valenok
 valens
 valet
@@ -70698,6 +71217,7 @@ vallak
 vallakane
 vallakar
 vallaken
+vallnever
 vallokale
 vallon
 vallonane
@@ -71084,6 +71604,7 @@ vassavkjølt
 vassbasert
 vassbaserte
 vassbein
+vassbjølle
 vassblemme
 vassbøffel
 vasscooter
@@ -71093,6 +71614,7 @@ vasscooteren
 vassdrag
 vassdrukken
 vasse
+vassele
 vassfall
 vassfar
 vassfarga
@@ -71120,6 +71642,8 @@ vasskuter
 vasskuterane
 vasskuterar
 vasskuteren
+vasskåpe
+vasslapp
 vasslaus
 vassleidning
 vasslilja
@@ -71143,6 +71667,7 @@ vassrett
 vassrette
 vassrotte
 vassrå
+vasstakk
 vasstand
 vasstank
 vasstett
@@ -71153,9 +71678,11 @@ vassverk
 vassverka
 vassverket
 vassvette
+vassåk
 vatersott
 vatikansk
 vatikanske
+vatl
 vatn
 vatna
 vatne
@@ -71259,6 +71786,8 @@ vegar
 vegbygging
 vegdekke
 vege
+vegeblad
+vegemot
 vegen
 vegen til helvete er brulagt med gode føremål
 vegetabilsk
@@ -71302,6 +71831,7 @@ vegkantane
 vegkantar
 vegkanten
 vegkart
+vegkryss
 veglaus
 vegløyse
 vegn
@@ -71698,6 +72228,7 @@ ver so snill
 ver så god
 ver så snill
 vera
+vera att i vatle
 vera for seg sjølv
 vera full av faen
 vera i anmarsj
@@ -71795,6 +72326,7 @@ verfar
 verforelder
 verft
 verg
+verhår
 veri
 verifiserbar
 verifiserbare
@@ -71822,6 +72354,7 @@ verkande
 verkar
 verke
 verkeleg
+verkeleg?
 verkelegare
 verkelegast
 verkelegaste
@@ -72056,6 +72589,7 @@ vetrar
 vett
 vetta
 vette
+vettehaug
 vetteljos
 vettelys
 vettenyre
@@ -72073,6 +72607,7 @@ vettertøy
 vettet
 vettlaus
 vettløyse
+vettskremd
 vettu
 vev
 veva
@@ -72103,7 +72638,9 @@ vexa
 vexillologi
 vha.
 vi
+vi preikast
 vi sest
+vi sest seinare
 vi talast
 via
 viadukt
@@ -72123,6 +72660,7 @@ vibreringar
 vice versa
 vid
 vida
+vidan vegg
 vidare
 vidaregåande
 vidaregåande skole
@@ -72149,6 +72687,7 @@ videotelefonar
 videotelefonen
 videre
 videreutvikle
+vidfaren
 vidfløygde
 vidjo
 vidju
@@ -72157,6 +72696,7 @@ vidjur
 vidka
 vidke
 vidt
+vidtbefaren
 vidunderleg
 vidunderlig
 vidvinkel
@@ -72463,6 +73003,7 @@ vinstokk
 vinstre
 vinsyre
 vinter
+vinterbraut
 vinterbunad
 vinterdyne
 vinteren
@@ -72728,6 +73269,7 @@ vitskaplege
 vitskaplegheit
 vitskapskvinne
 vitskapsmann
+vitskremd
 vittig
 vittige
 viv
@@ -72851,6 +73393,7 @@ vonbroten
 vonbrott
 vond
 vondarta
+vondemannen
 vondhug
 vondsinna
 vondskap
@@ -73076,6 +73619,7 @@ våningshus
 våningshusa
 våningshuset
 vånn
+vånnmål
 våpen
 våpena
 våpenarsenal
@@ -73140,6 +73684,7 @@ våtdrakta
 våtdraktene
 våtdrakter
 våte
+våthatte
 våtlendt
 våtmark
 våtmarka
@@ -73221,6 +73766,7 @@ vòrar
 vòren
 vøla
 vøle
+vømmøl
 vørd
 vørda
 vørdande
@@ -73251,6 +73797,7 @@ watt
 wattane
 watten
 wattime
+wattmeter
 wattsekund
 wc
 web
@@ -73348,6 +73895,7 @@ yngt
 ynsk
 ynska
 ynske
+ynskeleg
 ynskeliste
 ynsket
 ynski
@@ -73499,7 +74047,7 @@ zoonosen
 zoonotisk
 zoonotiske
 zuluhovding
-{{t|1=nn|2=varme}}
+zygote
 Å
 Åbjørg
 Åbjørn
@@ -73630,9 +74178,9 @@ zuluhovding
 Øystein
 Øyulv
 Øyvald
+à jour
 à la
 å
-å dragast
 å flyta
 å fløyte
 å hovde
@@ -73871,6 +74419,7 @@ zuluhovding
 åtseletarane
 åtseletarar
 åtseletaren
+åtskild
 ått
 åttande
 åttandedel
@@ -74129,6 +74678,7 @@ zuluhovding
 ønskjast
 ønskje
 ønskje ugjort
+ønskjeleg
 ønskjeliste
 ønskjer
 ønskt
@@ -74177,6 +74727,7 @@ zuluhovding
 ørsk
 ørsmå
 ørsmåe
+ørsnelle
 ørsting
 ørt
 ørta
@@ -74264,12 +74815,10 @@ zuluhovding
 øydt
 øye
 øyeblikk
-øyebryn
 øyebunad
 øyeeple
 øyehule
 øyelokk
-øyenbryn
 øyene
 øyenlokk
 øyenskygge
@@ -74346,7 +74895,6 @@ zuluhovding
 батрак
 батрачество
 лань
-сени
 ḥasidisme
 —
 ☭

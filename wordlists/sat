@@ -133,6 +133,7 @@ the period-character used in Indo-Aryan languages
 ᱜᱤᱛᱤᱞ ᱚᱛ
 ᱜᱤᱛᱤᱡ
 ᱜᱤᱫᱽᱨᱟᱹ
+ᱜᱨᱟᱢ ᱯᱚᱧᱪᱟᱭᱚᱛ
 ᱜᱩᱞᱟᱹᱯ
 ᱜᱩᱡᱩᱜ
 ᱜᱩᱡᱽᱨᱟᱴᱤ
@@ -184,6 +185,7 @@ the period-character used in Indo-Aryan languages
 ᱞᱟᱡ
 ᱞᱟᱣᱚᱥ
 ᱞᱟᱦᱚᱨ
+ᱞᱟᱵᱽ
 ᱞᱟᱸᱫᱟ
 ᱞᱟᱹᱠᱛᱤ
 ᱞᱟᱹᱣᱟ
@@ -289,14 +291,12 @@ the period-character used in Indo-Aryan languages
 ᱠᱟᱸᱥᱟ
 ᱠᱟᱸᱪ
 ᱠᱟᱹᱣᱰᱤ
-ᱠᱟᱹᱤᱨᱤ
 ᱠᱟᱹᱬᱫᱤ ᱟᱲᱟᱜ
 ᱠᱟᱹᱱᱩᱱ
 ᱠᱟᱹᱴᱩᱵ
 ᱠᱤᱣᱵᱟ
 ᱠᱤᱥᱠᱩ
 ᱠᱤᱱ
-ᱠᱩᱤᱞᱟ
 ᱠᱩᱭᱞᱤ
 ᱠᱩᱲᱤ
 ᱠᱩᱲᱤᱫ
@@ -401,7 +401,6 @@ the period-character used in Indo-Aryan languages
 ᱢᱚᱴᱟ
 ᱢᱟᱛ
 ᱢᱟᱛᱠᱚᱢ
-ᱢᱟᱛᱠᱳᱢ ᱥᱟᱜᱮᱱ
 ᱢᱟᱞᱚᱯᱩᱨᱚᱢ
 ᱢᱟᱞᱟᱯᱯᱩᱨᱚᱢ
 ᱢᱟᱞᱣᱟᱭ
@@ -504,7 +503,6 @@ the period-character used in Indo-Aryan languages
 ᱥᱟᱨᱡᱳᱢ
 ᱥᱟᱨᱦᱟᱣ
 ᱥᱟᱫᱚᱢ
-ᱥᱟᱫᱟ
 ᱥᱟᱬᱮᱥ
 ᱥᱟᱭ
 ᱥᱟᱰᱮ
@@ -605,7 +603,6 @@ the period-character used in Indo-Aryan languages
 ᱦᱟᱹᱠᱩ
 ᱦᱟᱹᱡᱩᱜᱼᱟ
 ᱦᱟᱹᱱᱤ
-ᱦᱟᱹᱲᱤᱟᱹᱲ
 ᱦᱟᱺᱰᱤ
 ᱦᱤᱞᱤᱭᱟᱢ
 ᱦᱤᱡᱩᱜ
@@ -626,8 +623,10 @@ the period-character used in Indo-Aryan languages
 ᱦᱮᱢᱟᱞ ᱵᱩᱨᱩ
 ᱦᱮᱢᱵᱨᱚᱢ
 ᱦᱮᱨᱮᱞ
+ᱦᱮᱰᱮᱡ
 ᱦᱮᱰᱯᱷᱳᱱ
 ᱦᱮᱸᱥᱟᱜ
+ᱦᱮᱹᱰᱮᱹᱡ
 ᱦᱮᱺᱫᱮᱹ
 ᱦᱳ
 ᱦᱳᱭᱳᱝ
@@ -641,7 +640,6 @@ the period-character used in Indo-Aryan languages
 ᱧᱩᱛᱩᱢ
 ᱧᱩᱢ
 ᱧᱩᱱᱩᱢ
-ᱧᱮᱝᱜᱮᱫ
 ᱧᱮᱞ
 ᱧᱮᱞᱮ
 ᱧᱮᱱᱮᱞᱚᱢ
@@ -654,7 +652,6 @@ the period-character used in Indo-Aryan languages
 ᱨᱚᱵᱚᱴ
 ᱨᱚᱵᱤᱱᱫᱽᱨᱚᱱᱟᱛᱷ
 ᱨᱟᱛᱟᱝ
-ᱨᱟᱝᱜᱤᱟᱹ
 ᱨᱟᱡᱚᱥᱛᱷᱟᱱᱤ
 ᱨᱟᱡᱟ ᱮᱸᱜᱮᱞ
 ᱨᱟᱡᱽ
@@ -843,7 +840,6 @@ the period-character used in Indo-Aryan languages
 ᱯᱟᱹᱨᱤ ᱨᱩᱣᱟᱹ
 ᱯᱟᱹᱨᱥᱤ
 ᱯᱟᱹᱪᱷᱤᱢ
-ᱯᱟᱺᱫᱨᱟ
 ᱯᱤᱞᱪᱩ
 ᱯᱤᱯᱲᱤᱚᱝ
 ᱯᱤᱴᱷᱟ
@@ -1023,8 +1019,6 @@ the period-character used in Indo-Aryan languages
 ᱵᱷᱳᱱᱰᱳ
 ᱶ
 ᱷ
-ᱷᱮᱰᱮᱡ
-ᱷᱮᱺᱰᱮᱹᱡ
 ᱸ
 ᱹ
 ᱺ

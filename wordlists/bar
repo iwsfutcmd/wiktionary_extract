@@ -4,10 +4,10 @@
 's
 -augad
 -er
+-ert
 -n
 -zea
 A
-Achter
 Adabei
 Adachsl
 Adress
@@ -312,6 +312,8 @@ Erdåpfe
 Ergedåg
 Ertag
 Erzbischof
+Erzherzog
+Erzherzogtitl
 Estareich
 Estland
 Europamaster
@@ -404,7 +406,6 @@ Füllung
 Fülm
 Füm
 Fün
-Fünfer
 G'nack
 Gaaßbock
 Gachn
@@ -617,6 +618,7 @@ Herz
 Herzkaschperl
 Herzkasperl
 Herzogdum
+Hetz
 Hiafler
 Hiniche
 Hinicher
@@ -697,7 +699,6 @@ Joahrmarkt
 Joahrtausend
 Joahrtåg
 Joahrzehnt
-Joker
 Jordanien
 Jungferninsln
 Jåar
@@ -733,6 +734,7 @@ Kaschperltheater
 Kasler
 Kasperl
 Kasperlkopf
+Kasperlpuppn
 Kasperltheater
 Kasus Belli
 Katalonien
@@ -901,6 +903,7 @@ Madl
 Madli
 Mai
 Maleachi
+Marquesas-Insln
 Marün
 Marünbam
 Marünknedl
@@ -973,7 +976,6 @@ Narrischer
 Nazi
 Neijoahr
 Neijåar
-Neiner
 Neiseeland
 Netsch
 Niamberg
@@ -1035,7 +1037,6 @@ Oaschloch
 Oaweit
 Obaatzda
 Obaöstarreich
-Ober
 Obhuat
 Obst
 Ohrwaschl
@@ -1050,6 +1051,7 @@ Ollaheilignomd
 Ostainsl
 Ostan
 Ouswoid
+Packlrass
 Pallawatsch
 Paläster
 Palästina
@@ -1066,6 +1068,7 @@ Pferd
 Pfinzda
 Pfinzdåg
 Pfoiz
+Pfoizerzherzog
 Pfurz
 Pfäjza
 Philosoph
@@ -1188,6 +1191,7 @@ Sau
 Sauastoff
 Saubeidl
 Saugfrast
+Sauhund
 Schandamarie
 Schandi
 Schas
@@ -1288,7 +1292,6 @@ Sidafrika
 Sidtiroul
 Sie
 Siebaner
-Siebner
 Siid-Karolina
 Siidamerika
 Siidkarolina
@@ -1432,6 +1435,7 @@ Topfnschmarrn
 Topfnstrudl
 Topfntortn
 Tratschn
+Trauminet
 Treant
 Trennscheibn
 Trennung
@@ -1450,6 +1454,7 @@ Tschecherl
 Tschechische Republik
 Tschesn
 Tschocherl
+Tschottn
 Tuam
 Tuatn
 Turknwoaz
@@ -1460,7 +1465,6 @@ Tånzn
 Tåschnfeitl
 Uawaschl
 Uawaschlkaktus
-Unter
 Unterflack
 Unterflak
 Untergattn
@@ -1610,7 +1614,6 @@ Wüdåpfe
 Zager
 Zahlungsmidd
 Zechn
-Zehner
 Zeid
 Zezn
 Zindler
@@ -1631,7 +1634,6 @@ Zwetschgnschnops
 Zwetschgnwossa
 Zwiefe
 Zwiewe
-Zwoarer
 Zächa
 Zähnt
 Zåhlung
@@ -1654,6 +1656,7 @@ a Leiberl reißn
 a Luft kriagn
 a Mödung schiabn
 a fads Aug håbn
+a/languages A to L
 aa
 aana
 aane
@@ -1953,7 +1956,7 @@ baiss
 balitsch
 banln
 banlt
-bar
+bar.
 batzn
 bedeitn
 bedeitsåm
@@ -2412,6 +2415,8 @@ entstön
 entsurgn
 entwischn
 epfl
+eppa
+epps
 eps
 er
 erdepfl
@@ -2574,7 +2579,6 @@ grantln
 grapsn
 grau
 grea
-grean
 greißlich
 grian
 grias di
@@ -2906,6 +2910,7 @@ leicht
 lesn
 letschert
 liab
+liab'n
 liagn
 liegn
 lila
@@ -2919,6 +2924,7 @@ låssn
 lòngas
 ma
 mah
+mahorisch
 mair seachsni
 malad
 mama
@@ -3128,7 +3134,6 @@ ollas
 ols
 olt
 omoin
-orange
 oransch
 oregn
 oreisn
@@ -3323,6 +3328,7 @@ scheißn
 schejßn
 schiabn
 schiach
+schiach wia der Zins
 schiagln
 schiaßn
 schiffa
@@ -3495,6 +3501,7 @@ todln
 totlåchn
 totschlågn
 touchter
+trama
 tratschn
 treffn
 trennan

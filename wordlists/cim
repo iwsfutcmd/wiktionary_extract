@@ -168,7 +168,7 @@ Vastzait
 Vüsche
 Vüutze
 Züun
-a
+a/languages A to L
 aabend
 aadar
 aala
@@ -930,6 +930,7 @@ bógale
 bóndar
 bóoghel
 bóol
+bóolkhèmm
 bóolkhèmman
 bóorsan
 bóorset
@@ -1034,7 +1035,6 @@ dat
 daumo
 dauran
 daurt
-days of the week: taaghe dar bòchen: méentag · èrtag · mittog · fiistag · braitag · zaastag · zuntag [edit]
 de
 den
 den-
@@ -1844,16 +1844,6 @@ gelacht
 gelesa
 gem
 genaaro
-genaaro avrell ghenaar
-genaaro disèmber ghenaar
-genaaro febraaro ghenaar
-genaaro genaaro ghenaar
-genaaro ghenaar ghenaar
-genaaro hòrnich ghenaar
-genaaro maartzo ghenaar
-genaaro majo ghenaar
-genaaro moajo ghenaar
-genaaro mèertzo ghenaar
 geprenk
 gertle
 gerècht
@@ -3147,16 +3137,6 @@ maanen
 maano
 maanont
 maartzo
-maartzo avrell mèertzo
-maartzo disèmber mèertzo
-maartzo febraaro mèertzo
-maartzo genaaro mèertzo
-maartzo ghenaar mèertzo
-maartzo hòrnich mèertzo
-maartzo maartzo mèertzo
-maartzo majo mèertzo
-maartzo moajo mèertzo
-maartzo mèertzo mèertzo
 machan
 madjo
 magar
@@ -3171,16 +3151,6 @@ maines
 maistra
 maistro
 majo
-majo avrell moajo
-majo disèmber moajo
-majo febraaro moajo
-majo genaaro moajo
-majo ghenaar moajo
-majo hòrnich moajo
-majo maartzo moajo
-majo majo moajo
-majo moajo moajo
-majo mèertzo moajo
 mal
 malaméntar
 malzait
@@ -3196,14 +3166,12 @@ marka
 martzo
 maskera
 matak
-matak · mertak · mittak · funftak · fraitak · samtak · suntak [edit]
 maul
 maurar
 maus
 me
 memme
 menta
-menta · erta · mitta · fintzta · vraita · såntzta · sunta [edit]
 mertak
 met
 mettar
@@ -3669,6 +3637,7 @@ tåntzan
 tèkkel 's aizarn bail 'z ist glüun
 tòat
 tòitz
+tòndar
 tóndaran
 töatan
 töoran

@@ -22,6 +22,7 @@
 -åcion
 -åd
 -ård
+-ès
 -î
 1 Also used as the polite singular form
 2 Also used as the first person plural in Southern and Western dialects
@@ -50,6 +51,7 @@ Aleur
 Alfonse
 Alfrede
 Almagne
+Almagne do Levant
 Alodîye
 Alècsis
 Alègzandrine
@@ -60,6 +62,7 @@ Amel
 Amerike
 Anboèse
 Andene
+Anderlek
 Anderluwe
 Andjlene
 Andjline
@@ -92,7 +95,11 @@ Artur
 Assesse
 Astire
 Astride
+Ate
 Ate-dilé-Brudjlete
+Atomium
+Atoniom
+Auderghem
 Aurèlîye
 Awan
 Ayiti
@@ -117,6 +124,7 @@ Beleul
 Belfroed
 Belgråde
 Belorûsse
+Belœil
 Benelusse
 Bengali
 Benoet
@@ -485,6 +493,7 @@ Etiopeye
 Etåle
 Eudaliye
 Eve
+Ever
 Eû
 Eûdalîye
 E̊
@@ -555,6 +564,7 @@ Gabriyel
 Gabriyele
 Gabrî
 Gaguite
+Gant
 Gaspård
 Gayel des Cornouwayes
 Gazea
@@ -739,6 +749,7 @@ Lompré
 Loncén
 Londe
 Lonzene
+Looz
 Lorint
 Lorintî
 Lotaire
@@ -762,6 +773,7 @@ Lèya
 Léstine
 Lîchtensteyn
 Lîssin
+Lô
 Lôbe
 Macsi
 Macsimiyin
@@ -935,9 +947,11 @@ Nèké
 Nèyåw
 Nîme
 Nîmegue
+Oarschot
 Occitan
 Oceyan Pacifike
 Ocgniye-Li Noû Lovén
+Oderguem
 Odjî
 Ogusse
 Ohè
@@ -1086,6 +1100,7 @@ Sinefe
 Sinforyin
 Sint Esprit
 Sint Petersbork
+Sint-Djîle
 Sint-Djôr-so-Mouze
 Sint-Guilin
 Sint-Houbert
@@ -1202,6 +1217,8 @@ Toenne
 Toennete
 Tombale
 Tomsin
+Tongres-Looz
+Tongue-Lô
 Toni
 Torgen
 Tornè
@@ -1337,6 +1354,7 @@ Zéfir
 Zélîye
 a
 a bénrade
+a costé di
 a cåze di
 a dfûle tiesse
 a fwait ki
@@ -1353,12 +1371,15 @@ a pîs dschås
 a schipe
 a schlintche mwin
 a stok
+a tchaeke marixhå s’ clå
+a tchaeke mônî si stî
 a ti
 a tiesse difûle
 a torade
 a vinde
 a vosse santé
 a ç' moumint la
+a/languages M to Z
 abagant
 abaguer
 abandner
@@ -1455,6 +1476,10 @@ aiwlene
 aiye
 al copete
 al copete do martchî
+al difén
+al fén
+al fén des féns
+al fén do conte
 al varade
 alaedje
 alans-è
@@ -1520,6 +1545,7 @@ anêyes
 aparexhe
 apele
 apicî
+aplaker
 apoirter
 apoisse
 apontyî
@@ -1626,6 +1652,7 @@ aviyi
 aviåcion
 aviè
 avnaedje
+avnant
 avni
 avoenne
 avou
@@ -1639,7 +1666,6 @@ awè
 awè ene crole
 awè idêye
 awè l' gozî come ene tchåsse
-awè l' schite
 awè peu
 awè ptchî
 axhale
@@ -1677,6 +1703,7 @@ bata
 bataye
 bate
 bate copene
+bate di dvizes
 bate li fier tant k' il est tchôd
 batea
 batijhî
@@ -1766,6 +1793,7 @@ boesse ås sotreyes
 boigne
 bok
 boke
+boket
 bokion
 bolaedje
 bolant
@@ -1815,6 +1843,7 @@ bouxhon
 bouxhî
 bouxhî l’ martchî djus
 bouye
+bouyter
 bovrins
 bowemyin
 bowemyinne
@@ -2050,6 +2079,7 @@ cloteure
 clå
 clå-d'-ôr
 clé
+clôre
 cminå
 cnoxhe
 cobén
@@ -2271,6 +2301,7 @@ côrî
 cû
 cût
 cûte
+cûtner
 d' astcheyance
 d' asteure
 d' ådjourdu
@@ -2336,6 +2367,7 @@ dijhinnes
 dijhêye
 dilive
 dilon
+dilé
 dimagnî
 dimander
 dimani
@@ -2411,6 +2443,7 @@ distcherdjî
 distchinner
 distchårner
 distchårné
+distinde
 distinkyî
 distrocler
 distrure
@@ -2747,7 +2780,6 @@ etchårnaedje
 etchårner
 eterlingwa
 etermint
-eternite
 eternåcionå
 eternåcionål
 eterviou
@@ -2770,6 +2802,7 @@ ewaermint
 ewaeré
 ewal
 ewalper
+exhet
 eyet
 ezès
 eû
@@ -2838,6 +2871,7 @@ fiyåsse
 fiyî
 fizik
 fizike
+flabåd
 flach
 flaireur
 flamaxhe
@@ -2879,9 +2913,11 @@ fonccionaire
 fond
 fond di dnêyes
 fonetike
+fonk
 fonne
 fonnet
 fontinne
+fontinne ås moxhons
 for
 forbeure
 forcoridjaedje
@@ -3014,6 +3050,7 @@ gaeyî
 gaiy
 gaiyté
 galant
+galeyrin
 galicyin
 gamén
 gangnè
@@ -3183,6 +3220,8 @@ hôt-pårleu
 hôtitche
 hôtu
 i
+i gn a
+i n a
 i n' fåt nén vinde l' oû k' est co e cou del poye
 i n' fåt rén po çoula
 i n'a rén d'pé ki l'coete aiwe
@@ -3194,6 +3233,7 @@ ilusse
 ime
 impire
 impreur
+imprimreye
 impôrtant
 imådje
 imådjete
@@ -3264,7 +3304,6 @@ kinoxhe
 kinoxheu
 kinoxheuse
 kinoye
-kipôtter
 kiroptere
 kischirer
 kissemer
@@ -3381,6 +3420,7 @@ londi
 londjin
 londjinnmint
 long
+lonxhea
 lotchet
 lote
 loudene
@@ -3395,6 +3435,7 @@ loyminoye
 loyminoymint
 loyén
 loyî
+lozindje
 ls
 lu
 lugnård
@@ -3444,6 +3485,7 @@ malåde
 malén
 mame
 mamuron
+man
 manaedjmint des rsoûces uminnes
 mande
 mande escuze
@@ -3578,6 +3620,7 @@ moloné
 molusse
 molén
 molén a fiyî
+moman
 moncea
 monde
 mondiål
@@ -3681,6 +3724,7 @@ målureus
 målåjhey
 måpoli
 mårdi
+mårler
 mårlå al longue cawe
 mårtcheu
 mårtcheuse
@@ -3716,6 +3760,7 @@ ndè
 nedjaedje
 nedje
 nedjî
+negociåcion
 netieure
 netyî
 neute
@@ -3785,6 +3830,7 @@ nåjhi
 nåjhisté
 nèni
 nén comifåt
+nén gråve
 nôr
 nôvimbe
 nûlêye
@@ -3807,6 +3853,7 @@ olyinne
 ombe
 ombrire
 ome
+omes
 omrin
 on
 on fameus
@@ -3972,6 +4019,8 @@ pile
 pilure
 pilé
 pingne
+pingne di macrale
+pingne di sôrcire
 pinser
 pinser (a)
 pinte
@@ -4008,6 +4057,7 @@ plaeçaedje
 plaeçmint
 plafon
 plaidî
+plaijhant
 plaijhi
 plaire
 plaker
@@ -4039,9 +4089,11 @@ pluriyal
 plurizeye
 plåstea
 po
+po fini
 po rén
 po si e cas
 po tolmine ké
+po tot fini
 po vinde
 pocwè
 poenne
@@ -4106,8 +4158,12 @@ pouchlon
 poude
 poudingue
 pougn
+pougnaedje
+pougnet
 pougneye
+pougnård
 pougnårder
+pougnî
 poujhete
 poujhoe
 poujhî
@@ -4244,6 +4300,7 @@ rabot
 rabourer
 rabressî
 rabrouxhe
+racanozer
 racatoirtcheye
 racoejhi
 raconcoister
@@ -4255,7 +4312,9 @@ racwén
 raddimint
 raddisté
 rade
+radiocérudjeye
 radmint
+radår
 raece
 raecene
 raecinete
@@ -4344,6 +4403,7 @@ reclôre
 recråxhî
 redjaler
 redjon
+refaxhî
 referé
 relijha
 relijhaedje
@@ -4465,6 +4525,7 @@ rispåde
 rissaetchî
 risse
 rissorvini
+ristinneu
 ritchire
 ritchåfer
 ritourner
@@ -4560,6 +4621,7 @@ råyî djus
 rén
 rénnvåt
 rîlêye
+rîtåve
 rômarin
 rôze
 rôzî
@@ -4705,6 +4767,7 @@ seucea
 seulmint
 seur
 sey
+seyance
 seye
 shijh
 shijhe
@@ -4894,6 +4957,7 @@ spale
 speate
 speli
 spene
+spene di sôrcire
 spieme
 spierlin
 spinasse
@@ -5051,6 +5115,7 @@ tank
 tant di
 tantaloye
 taper
+taper al måle
 taper des poes dvant les colons
 taper ene ouyåde
 taprece
@@ -5106,6 +5171,7 @@ tcherbonaedje
 tcherbonî
 tcherdjî
 tcherdon
+tcherdon d' bwès
 tcherete
 tchereye
 tcheriaedje
@@ -5216,6 +5282,7 @@ testea
 tetanosse
 teton
 texhe
+texheu
 teyåte
 ti
 ti-minme
@@ -5249,6 +5316,7 @@ tirer
 tiyoû
 tizôtes
 tni
+to
 tocoe
 todi
 toele
@@ -5322,6 +5390,7 @@ treråyî
 trevén
 trexhe
 trezôr
+tribu
 trimler
 trimleu
 trimpe
@@ -5368,6 +5437,7 @@ tård
 tårdjî
 tårdou
 tåve
+tåve d' åté
 tåvlea
 tåvlea periodike des elemints
 tåvleu
@@ -5482,6 +5552,7 @@ voye
 vozôtes
 vozôtes1
 vraiy
+vs
 vs1
 vude
 vudî
@@ -5535,6 +5606,7 @@ wayea
 wayimer
 wespî
 wesse
+wicci
 wice
 wilicom
 winberkin
@@ -5626,6 +5698,7 @@ zûnmint
 Ö
 Û
 â
+å dbout do conte
 å hôt
 å lon
 å lådje
@@ -5686,6 +5759,7 @@ zûnmint
 èt
 èç
 èç-n
+édjucaedje
 éndjole
 éndjolijhî
 ê

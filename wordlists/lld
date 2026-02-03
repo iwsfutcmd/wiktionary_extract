@@ -1,72 +1,49 @@
-,
 -menter
 -mënter
-A
 Ades
 Adesc
 Adiç
 Austria
-B
 Badia
 Balsan
 Bulsan
-C
 CVN
 Cianplongo
 Ciarënzia
 Croazia
-D
 Die te l paie
 Dispruch
-E
 Esterreich
-F
-G
 Gherdëina
-H
-I
 Iapan
-J
 Klyazma
-L
 Ladin
 Laurënz
-M
 Madona
 Milan
 Minca
 Moroder
-N
 Nadel
 Nazions Unides
 Nuclò
-O
-P
 Persenon
 Porsenú
-Q
-R
 Rio de Djenero
 Rio de Janeiro
-S
 Sa Stefi
 Senoner
 Stefi
 Südtirol
-T
 Talia
 Tomesc
 Trentin
 Trënt
 Tumesc
-U
 Unieja
 Urtijëi
-V
 Val Badia
 Viena
-Z
-a
+a/languages A to L
 aa
 abenëura
 abilitazion
@@ -451,7 +428,6 @@ anera salvaria
 ani
 ann
 ansciuda
-ansciudaaisciödaaisciuda
 ansciudes
 anter
 anula
@@ -821,12 +797,12 @@ ausiliera
 ausilieres
 ausiliers
 aussei
+aussënt
 aut
 auta
 auter
 autes
 autonn
-autonnaltonnuton
 autonns
 autonom
 autonoma
@@ -933,7 +909,6 @@ aziunera
 aziuneres
 aziuners
 ać
-b
 bagot
 bal
 balé
@@ -1000,7 +975,6 @@ bënunides!
 bënunii!
 bënunì!
 bëus
-c
 ca
 ca tlo
 cadaver
@@ -1213,9 +1187,14 @@ ciunes
 ciòch
 co
 co vala pa?
+coa
+coa da bespies
+coa de la surices
+coa de viperes
 coche
 cochemei
 cocogné
+coes
 coesion
 cogn
 cogna
@@ -1840,7 +1819,6 @@ cërt
 cësa
 cëses
 cëura
-d
 da
 da oradecà
 da spes
@@ -1956,6 +1934,7 @@ defujion
 defënd
 degré
 degrés
+degugn
 degun
 deguna
 degunes
@@ -2351,7 +2330,6 @@ dërt
 dì
 dî
 dò
-e
 ebe
 eclesiastic
 eclesiastices
@@ -2494,6 +2472,7 @@ ent
 entant
 entenjer
 enveze
+enziclopedia
 erc
 erjer
 erma
@@ -2571,7 +2550,6 @@ estradizion
 europeich
 eva
 eves
-f
 fac
 facultà
 fai
@@ -2770,6 +2748,7 @@ furmé
 furmés
 fèr
 fé
+fé coa
 fé la catidles
 fé na bëusa
 fé na ciòca
@@ -2778,7 +2757,6 @@ fën
 fëna
 fëta
 fòra
-g
 gabian
 gabinel
 gacia
@@ -2961,7 +2939,9 @@ gusté
 guviern
 guvierns
 gën
-h
+gòut
+gòuta
+góta
 hez
 hoi
 i
@@ -2985,9 +2965,9 @@ inier
 iniò
 inom
 inomes
+inrosadöra
 insteies
 instà
-instàistéistà
 intier
 inuem
 inuvazion
@@ -2995,7 +2975,6 @@ inuvazions
 invern
 inverns
 inviern
-invierninvern
 invierns
 inzai
 iolan
@@ -3016,7 +2995,6 @@ istruzions
 istà
 istá
 isté
-j
 jebia
 jegher
 jené
@@ -3247,7 +3225,6 @@ lënia
 lënia da tizé
 lëur
 lëures
-m
 ma ies'a mat
 magistrac
 magistrat
@@ -3884,6 +3861,7 @@ normes
 november
 nrescida
 nrescides
+nrosadura
 nseniament
 nstes
 nstesc
@@ -4021,7 +3999,6 @@ otantetrei
 otantot
 otantun
 otober
-p
 paeje
 paejes
 paesc
@@ -4108,6 +4085,10 @@ passé
 passé dant
 passés
 pasta dai dënz
+pasta e fajei
+pasta e fajuoi
+pasta e fajói
+pasta e fajöi
 patat
 paternità
 patrimone
@@ -4185,6 +4166,8 @@ piens
 pietcuecen
 pievia
 pighêr
+pinch
+piné
 piré de patac
 pitl
 pitla
@@ -4192,6 +4175,10 @@ pitla marënda
 pitles
 pitli
 piza
+pië
+pië do
+pië ite
+pië via
 plan
 plana
 plovei
@@ -4203,6 +4190,8 @@ polach
 polacs
 polages
 polagia
+polesc
+polesc dl pe
 politic
 politices
 politich
@@ -4342,12 +4331,15 @@ preventiva
 preventives
 previdenza
 previdenzia
+priejes
+priesc
 prim
 prima
 primes
 primi
 prinzip
 prinzips
+prisc
 privac
 privada
 privades
@@ -4601,8 +4593,6 @@ puzné
 pëc
 pëces
 pët
-q
-r
 raion
 raions
 raporc
@@ -4814,6 +4804,7 @@ rejonovan
 rejonove
 rejonoves
 rejons
+rejonèr
 rejoné
 rejonés
 relatif
@@ -5203,6 +5194,9 @@ ronia
 rosadöra
 rosadüra
 roscignol
+rossagn
+rossagna
+rossié
 roza
 rucin
 rucins
@@ -5210,6 +5204,7 @@ ruf
 rujeneda
 rujenedes
 rujené
+rujené ora
 rujneda
 rujnedes
 rujné
@@ -5220,10 +5215,10 @@ rurela
 rureles
 rus
 ruves
+rë
 rëjes
 rëm
 rëms
-s
 sabe
 sabeda
 sablon
@@ -5282,6 +5277,7 @@ scientific
 scientifices
 scientifich
 scientificia
+scienz
 scienza
 scintla
 scioper
@@ -5331,15 +5327,16 @@ scurtoves
 scurté
 scurtés
 scuter
+scuté
 scué
 se
 se abiné adum
 se cumpurté
 se n jì
 se ponder
+se rujené
 se rënder cont
 se śaré ite
-seasons: sajon: ansciuda~aisciöda~aisciuda · instà~isté~istà · autonn~altonn~uton · inviern~invern [edit]
 secuestra
 secuestran
 secuestraras
@@ -5820,7 +5817,6 @@ sëida
 sëni
 sënn
 sëurt
-t
 tachin
 talian
 taliana
@@ -5987,13 +5983,14 @@ tëmp
 tëmps
 tò
 tòch
-u
 ublianza
 ublient
 ublienta
 ublientes
 ublients
+udan
 udir
+udëi
 uedl
 ueia
 uem
@@ -6133,7 +6130,6 @@ usservés
 utober
 uton
 utschac
-v
 vacia
 valeivi
 valeivl
@@ -6151,6 +6147,7 @@ valtoi
 valuta
 varëta
 varëtes
+vascel da l'eves
 vea
 vedei
 veder
@@ -6159,6 +6156,7 @@ vedleza
 vedli mutons
 vegn
 vegnì
+vejin
 vela
 veles
 vender
@@ -6233,7 +6231,6 @@ vëis
 vërt
 vëta
 y
-z
 zacai
 zacan
 zachei
@@ -6267,6 +6264,7 @@ zircoscrizion
 zircoscrizions
 zirculazion
 zirculazions
+zirm
 zitadin
 zitadinanza
 ziteies
@@ -6277,24 +6275,9 @@ zivich
 zivicia
 ziviera
 züla
-À
-Á
-Ä
-È
-É
 Ë
-Ò
-Ó
-Ö
-Ù
-Ú
-Ü
 à
-á
-ä
-è
 èlber
-é
 é na domana
 ébe
 ê
@@ -6309,15 +6292,7 @@ züla
 ënt
 ërt
 ëura
-ò
-ó
-ö
-ù
-ú
-ü
 üf
-Ś
-ś
 śaré
 śaré ite
 śaré ju

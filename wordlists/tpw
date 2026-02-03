@@ -1,4 +1,3 @@
-'
 'Ybatatã
 'Ybotyra
 'Ygûasu
@@ -14,6 +13,7 @@
 'angûera
 'apiku'i
 'apixapaba
+'apub
 'ar
 'ara
 'ara nhabi'õ
@@ -21,7 +21,10 @@
 'ara îabi'õndûara
 'araybysokeme
 'atinga
+'aun
 'ayîá
+'aîub
+'aîubesãîran
 'aîuru
 'e
 'e angá
@@ -53,6 +56,7 @@
 'ybakamusi
 'ybakurupari
 'ybamembeka
+'ybametara
 'ybamirĩ
 'ybamoîybypyra
 'ybamyxuna
@@ -89,18 +93,16 @@
 'yporu
 'ypytera
 'ypîasó
+'ypûã
 'ysokaúna
 'ysoko'ĩ
+'ysokoba
 'ysyryka
 'yîebyra
 *akûãî
 *itaaob
-*umbyk
-*umbyka
 *îagûaruna
-*îagûatyryka
 *îurupesẽ
-,
 -'ĩ
 -a
 -e'ym
@@ -115,10 +117,10 @@
 -reme
 -sab
 -sar
+-ta'e
 -usu
 -ygûar
 -ûasu
-A
 Abaosanga
 Abarebebé
 Abatiposang
@@ -141,20 +143,17 @@ Aragûasu
 Araruna
 Ararusuaîa
 Araryboîa
+Arasatyba
 Aru'ype
 Arõngatu
 Aîmbiré
 Aîurûasu
-B
-E
 Eiraîá
 Exu'y
-G
+Gûaratyba
 Gûatapytyba
 Gûaîxará
 Gûenũ
-H
-I
 Igpaũguaçû
 Inĩgûasu
 Iperu'y
@@ -163,9 +162,9 @@ Itamogûaîa
 Itaomirĩ
 Itapuku
 Itaîybá
-K
 Ka'ioby
 Kapi'ibary
+Karamuru
 Kariîooka
 Kariîopiara
 Kaûmondá
@@ -181,7 +180,6 @@ Kyrymuré
 Kûarasyîuba
 Kûatiarusu
 Lárissa
-M
 Ma'eakanga
 Mairapoxy
 Mairatã
@@ -191,28 +189,30 @@ Marakaîagûasu
 Marakaûasu
 Marasá
 Maíra
+Maîepĩ
 Mb
 Mboî'i
 Mbyrykioka
 Metaracãga
 Metarakanga
+Metarapu'a
 Meîrugûasu
 Mo'ytinga
+Monda'y
 Moroupîarûera
 Murukuîaûasu
-N
-Nd
-Ng
-Nh
+Murutityba
 Nheterõîa
-O
-P
 Pakukaîa
 Paragûasu
 Paranapitinga
 Paranaûasu
 Paranãgûasu
 Parati'y
+Paraíba
+Pará
+Patuá
+Paxiku
 Peró
 Petymuku
 Pikyroby
@@ -225,21 +225,19 @@ Pirataraka
 Piraîybá
 Potigûara
 Potyra
-R
 Rerityba
 Reriûasu
 Rorẽso
-S
 Sapopema
-Serobabé
+Serobebé
 Siriîy
 Soûerusu
 Sumé
 Sûasuakanga
 Sûasuka'ẽ
-T
 T.
 Tagûaíba
+Tamandûa'i
 Tapi'irebira
 Tatapytera
 Tatuûasu
@@ -253,22 +251,19 @@ Tupã Ta'yra
 Tupã Tuba
 Tupã sy
 Tuîba'e
-U
 U'itinga
 Uba
 Urubu
 Urubutingygûaba
 Urubutĩgûaba
-X
-Y
 Ybyku'i
+Ybyoka
 Ybyrapuku
 Ybyrapûé
 Ybytaro'y
 Ybytinga
 Ybytingapeba
 Ybytyrapé
-a
 a'e
 a'ea
 a'eba'eaîpó
@@ -282,6 +277,7 @@ a'yrĩ
 a'ysy
 a'ysé
 a-
+a/languages M to Z
 aan
 aba
 aba'yba
@@ -303,11 +299,15 @@ abatiatã
 abatieté
 abatigûasu
 abatimirĩ
+abatinga
 abatipeba
 abatitinga
 abatityba
 abatiúna
+abaíb
+abaîeru
 abaîurupari
+abikûara
 abá
 abá amõ
 abápe nde
@@ -318,7 +318,6 @@ agueâ
 agueâpopig
 agûapé
 agûaragûasu
-agûaragûasu · agûará · îagûamimbaba
 agûarakynhusu
 agûarakyîa
 agûarausá
@@ -327,6 +326,8 @@ agûará
 agûeapopy
 agûera
 agûeá
+agûi
+agûiapysá
 ait
 aiuru
 akaka'i
@@ -385,11 +386,14 @@ akokûesé
 akub
 akuba
 akuti
+akuti sa'yju
 akutimirĩ
+akutipuru
 akypûeri
 akyrara
 akã
 akãpyra
+akãrague
 akó
 akûeî
 akûeîba'e
@@ -436,6 +440,7 @@ andyra'aka
 andyragûasu
 andyraybîaryba
 andyrá
+anera
 ang
 angaturama
 angaîpab
@@ -452,7 +457,9 @@ anhangyîara
 anhapopûera
 anhapûá
 anhasy
+anhinga
 anhu'ytinga
+anhumatiroba
 anhõ
 any
 anũ
@@ -479,9 +486,9 @@ apara
 apek
 apekũ
 apekũgûyra
+apepokumã
 apere'a
 apiti
-apiti'yba
 apitîara
 apixara
 apopora
@@ -492,6 +499,7 @@ apupé
 apyaba
 apykaba
 apykapuku
+apysa
 apysakûara
 apysyk
 apé
@@ -507,14 +515,17 @@ apŷabusu
 apŷapytanga
 ara
 arabé
-arapipoka
+arakõi
 arara
 ararakanga
 araraúna
 araruna
 araryba
 araryboîa
+arasagûasu
+arasamirĩ
 arasari
+arasaíba
 araso'iá
 arasá
 aratiku
@@ -522,18 +533,20 @@ aratue'ẽ
 aratupinima
 arerãîa
 aricobegastou
+aru
 aruanã
 arugûá
 arukanga
 arukangûyra
 aruá
 aryîa
+ará
 asab
-asaîé
 aso'îaba
 asukari
 asukiri
 asy
+asy class IIa
 asá
 asé
 asébe
@@ -545,12 +558,16 @@ atapy
 atapûana
 atating
 atatinga
+atatinga class IIa
 atau'uba
 atu'uba
 atuaupaba
 aty
+atyba
 atá
+atá class IIa
 atã
+atã class IIa
 atîam
 atîama
 aube
@@ -591,6 +608,7 @@ aîuruîu
 aîuruîuba
 aîurûasu
 aîxó
+aîyba
 aîymena
 aîyra
 aîó
@@ -598,9 +616,9 @@ aúra
 aûana
 aûsub
 aûsuba
+aûsuba class IIa
 aûsupara
 a’e
-b
 baîaku
 baîakuûará
 bebuî
@@ -615,8 +633,7 @@ bixana
 bobok
 cain
 carapina
-days of the week: porabykyara: putu'u · porabykypy · porabykymokõî · porabykymosapyr · so'opapaba · îekuakuba · sabaru [edit]
-e
+che
 e'õ
 e'õaba
 e'õaíba
@@ -671,7 +688,10 @@ emo'emyîara
 emonãnamo
 endy
 endyapytaîyka
+endybaaba
 endybagûyaîa
+endybagûyra
+endybá
 endyendyîab
 endypuka
 endyra
@@ -685,6 +705,7 @@ endébo
 enha'ẽ
 enonhan
 epyk
+epyme'eng
 epîak
 epîaka'ub
 epîakatu
@@ -739,6 +760,7 @@ eteeté
 etekatu
 eteté
 etymã
+etymã class IIa
 etymãkanga
 etymãkangupîara
 etymãmbûera
@@ -762,9 +784,7 @@ eõ
 eŷmbab
 eŷmbaba
 eŷmbaba îagûara
-eŷmbaba îagûara · îagûapytanga · îagûara [edit]
 eẽ
-g
 guatatenhẽ
 guîraçapucayuçû
 gûabiraba
@@ -776,7 +796,8 @@ gûamaîakugûará
 gûamaîakukuruba
 gûambaîakuaté
 gûambaîakuatĩ
-gûanhumũ
+gûang
+gûanhumỹ
 gûapara'ytyba
 gûapare'ytyba
 gûapyk
@@ -803,6 +824,7 @@ gûaraúna
 gûariama
 gûariba
 gûarinĩ
+gûarinĩnamo só
 gûarugûá
 gûarusueremimby
 gûará
@@ -817,6 +839,7 @@ gûatapygûasu
 gûatasaba
 gûatá
 gûaîaapara
+gûaîaba
 gûaîakatu
 gûaîamirĩ
 gûaîamũ
@@ -838,6 +861,7 @@ gûaîbĩpaîé
 gûaîbĩpokakabyba
 gûaîmĩ ûyrapara
 gûaînumbyakaîu
+gûaîugûaîu
 gûaîá
 gûesapopybo
 gûesapopybonhote
@@ -846,6 +870,7 @@ gûy
 gûym
 gûyra'ĩ
 gûyraakangasaba
+gûyragûasu
 gûyramirĩ
 gûyrapuka
 gûyrapunga
@@ -865,11 +890,14 @@ gûyrype
 gûyrá
 gûyráîurupari
 gûé
-h
+ha'e
+ha'ekuéra
 hericobebe
+hikuái
 hust
 i
 i angaîpaba'e
+i kûatiarapyra
 i me'engymbyra
 i monhangymbyra
 i poxyba'e
@@ -900,7 +928,6 @@ inaîagûasu'yba
 inaîamirĩ
 inaîá
 ingaopeapi'yba
-ingapékûatiara
 ingá
 inimbeba
 inĩ
@@ -920,6 +947,7 @@ itaemboaoba
 itaesakanga
 itaeté
 itaitinga
+itakysegûasu
 itakyseuru
 itakysé
 itamaraká
@@ -948,18 +976,25 @@ ixébo
 iã
 iãa
 iãba'eianga
-k
+jasykõi
 ka'a
 ka'aakanga
 ka'aataîa
-ka'aaxyma
 ka'abondûara
 ka'aeté
+ka'aguy
+ka'aguygua
+ka'amombyrõ
+ka'amondó
+ka'aoby
 ka'apa'ũ
 ka'ape só
 ka'apîasó
 ka'apûera
+ka'aroba
 ka'atinga
+ka'avo
+ka'ay
 ka'aygûana
 ka'aîara
 ka'iúna
@@ -991,12 +1026,16 @@ kamby
 kamby'ok
 kambyamĩ
 kambyk
+kambyrypy'a
+kambá
 kamixá
 kamusi
 kamusiaîura
 kamusioka
 kana
-kandiru
+kandea
+kandea tinga
+kanea reru
 kang
 kanga
 kangûera
@@ -1009,10 +1048,16 @@ kapibara
 karagûataakanga
 karaiba
 karaibebé
+karaibeté
+karaipaba
 karakará
 karamemûã
+karamemûãmirĩ
+karamuru
 karamurupinima
 karanderu
+karaobamirĩ
+karapaná
 karapina
 karapinima
 karapytanga
@@ -1020,14 +1065,13 @@ kararapinima
 karasy
 karaíb
 karaíba
+kariba
 karipiratyatinga
 kariîó
 karu
 karugûasu
-karuka
 karukasy
-karukypy
-karupysaîé
+kará
 karûaba
 kasîana
 kating
@@ -1049,9 +1093,10 @@ kaûĩe'ẽ
 kaûĩeté
 kaûĩkaraku
 kaûĩmakaxera
-kaûĩmûana
+kaûĩpiranga
 kaûĩpyasu
 kaûĩtatá
+kaûĩymûana
 ker
 kera
 kerambu
@@ -1064,8 +1109,6 @@ kereîûá
 kerupaba
 kesaba
 kesapeba
-ko'ema
-ko'emytanga
 koa
 koba'e
 koema
@@ -1086,6 +1129,9 @@ ku'a
 ku'i
 kuab
 kukuritinga
+kumaru
+kumarugûasu
+kumarumirĩ
 kunhambyra
 kunhataĩ
 kunhã
@@ -1147,6 +1193,7 @@ kûandu
 kûar
 kûara
 kûarasy
+kûarasy 'ara
 kûarasy reîkeaba
 kûarasy ru'uba
 kûarasy sembaba
@@ -1158,7 +1205,6 @@ kûare'yma
 kûaruru
 kûarybỹîa
 kûati
-kûatiar
 kûatiara
 kûatiasaba
 kûatimundé
@@ -1177,36 +1223,30 @@ kûeîba'e
 kûá
 kûé
 larousoub
-m
 ma'endy
 macharron
 mairi
+mairiygûara
+makaka
 makaxera
 mamõ suípe ereîur
 mamõpe eresó
 mamõpe ereîkobé
 mamõpe ereîkó
 mamõygûara
-mana'ybaru
-mana'ybusu
 mana'ytinga
+mandi'oka
 mandi'oka'i
 mandi'opeba
 mandi'opuba
 mandi'opûera
-mandi'ybambûaraé
-mandi'ybumana
-mandi'ybusu
-mandi'ybybyîana
-mandi'ybyîurusu
-mandi'yparati
 mandubi
-mandyba
 manema
 mani'oka
 mani'okaba
 mani'oketé
-manipokamirĩ
+mani'yba
+manima
 manõ
 manõaíb
 manõmanõ
@@ -1216,6 +1256,8 @@ marabinderere
 marakanã
 marakanã-arara
 marakanãarara
+marakanãgûasu
+marakanãmirĩ
 marakatĩ
 marakatĩûasu
 marakaîaeté
@@ -1223,21 +1265,27 @@ marakaîagûasu
 marakaîamimbaba
 marakaîamirĩ
 marakaîá
+maramonhanga
+marana ri ikó
+maranaritekoara
 maranebira
 maranungara
 marbicha
 mari
 marigûi
+marika
 marsarron
+martera
 marã 'é
 marãpe nde rera
 marãpe nde rera?
 matamatá
+matĩaré
 maxaru
 maíra
-mb
 mba'e
 mba'e resé
+mba'e supé
 mba'e ybybondûara
 mba'e'ueteeté
 mba'eapanupãsaba
@@ -1292,6 +1340,7 @@ mbarakaîá
 mberu
 mberu ra'yra
 mberuoby
+mbetara
 mbi'u
 mbiaûsuba
 mboiesapykûara
@@ -1338,6 +1387,7 @@ menybyra
 menyky'yra
 meriti'yba
 meru
+metara
 miapeteka
 miapé
 miaratakaka
@@ -1345,6 +1395,7 @@ miaûsuba
 miaûsube'yma
 migûaîuba
 migûá
+mikûatiara
 mimbaba
 mimbabararõana
 mimbaberekoara
@@ -1373,6 +1424,7 @@ mobobok
 moendy
 moendypuk
 moendyîab
+moepy
 mogûeîyb
 moingó
 moka'ẽ
@@ -1382,6 +1434,10 @@ mokurusá
 mokyrana
 mokyrana'yra
 mokõi
+mokõiha
+mokõipa
+mokõisa
+mokõive
 mokõî
 mokõî oîoirundyk
 mokõîa
@@ -1389,7 +1445,9 @@ momanõ
 mombuk
 momiaûsub
 momoroting
+mondarõ
 mondyk
+mondá
 mondó
 mongaraíb
 mongaraû
@@ -1411,6 +1469,8 @@ morotinga
 morubixaba
 mosapyr
 mosapyra
+mosykyakanitara
+mosykypyranga
 motebir
 moting
 motyb
@@ -1429,6 +1489,7 @@ mundé
 mundé-arataká
 mundé-gûaia
 mundé-piká
+muratu
 muruanha
 murukuîaeté
 murukuîagûasu
@@ -1439,6 +1500,7 @@ murukuîatymãkuîa
 murukuîayperoba
 murukuîaúna
 murukuîá
+musiky
 musu
 musurana
 my'a
@@ -1446,8 +1508,8 @@ mykura
 mytũporanga
 myîu'itinga
 mãîa
+mûãnha'ã
 mũ
-n
 n'aîkuabi
 na
 na sasyî
@@ -1458,15 +1520,12 @@ nanaka'apora
 nanakakaba
 naná
 narinaripinima
-nd
 nde
 ndebe
 ndebo
 ne
 nem
 nemby
-ng
-nh
 nha'erupaba
 nha'ẽ
 nha'ẽmbeba
@@ -1487,6 +1546,8 @@ nhanduabiîu
 nhanduapu'a
 nhandugûasu
 nhandé
+nhati'ũ
+nhati'ũasu
 nhau'uma
 nhe'eng
 nhe'enga
@@ -1514,13 +1575,14 @@ nhe'ẽporoîukaíba
 nhe'ẽpyo'u
 nhe'ẽrueru
 nhe-
-nheenga
+nhembo'e
 nhemim
 nhemoakub
 nhemokunumĩ
 nhemomotar
 nhemomotá
 nhemopyrang
+nhemosaraî
 nhemote'õ'a
 nhomongetasaba
 nhomongetá
@@ -1532,16 +1594,19 @@ nhũ
 nhũasyma
 nhũbondûara
 nhũmendûara
+nitiû
 nupã
 o
 o aîurybo
 o'o
 o-
+ob
 oba
 oba'ok
 obaapyra
 obaapûã
 obabo
+obagûang
 obaky'aky'a
 obamoún
 obapirang
@@ -1565,15 +1630,19 @@ obyeté
 obykanugûá
 obyûasu
 obá
+obá class IIa
 obý
 ogûataba'e
 oka
 oka rerekoara
 okabytera
 okabyterusu
+okamirĩ
 okanga
 okangûama
+okapuku
 okapyra
+okara
 okarapupa'ũ
 okarupagûama
 okemysá
@@ -1585,7 +1654,9 @@ okusu
 okybaté
 okytá
 omanõba'e
+onhoba'ũ
 opaba'erame'yma
+opakatu mba'e tetiruã monhanga e'ikatuba'e
 opakatumba'e
 opakombó
 opambó
@@ -1595,6 +1666,7 @@ opykõîa
 opyá
 opá
 opóbo
+oreñande
 oro-
 oroaûsub
 ory
@@ -1622,7 +1694,6 @@ oîepébo
 oîoirundyk
 oîoirundyka
 oîporuba'e
-p
 pa
 pa'i
 paka
@@ -1631,6 +1702,7 @@ pakaîara
 pakoba
 pakoby
 pakoka'atinga
+pakõi
 pana
 pana mba'e'usaba
 pana monhangaba
@@ -1656,9 +1728,13 @@ paranãmbora
 paranãngûá
 paranãygûara
 parati
+paraíba
 pará
 pataku
+patuamirĩ
+patygûá
 paîa
+paîa-angaba
 paîeangaíba
 paîeaíba
 paîegûasu
@@ -1671,7 +1747,6 @@ pe pukuî
 pe-
 peb
 peba
-pee
 peke'i
 pemimbaba
 pemirĩ
@@ -1682,7 +1757,6 @@ pepoypy
 pepó
 pereb
 pereba
-pererek
 perereka
 pereru
 peró
@@ -1698,6 +1772,7 @@ peîoasapaba
 peẽ
 peẽme
 peẽmo
+piara class Ib
 piku'i
 piku'ipinima
 piku'ipytanga
@@ -1717,6 +1792,8 @@ pindá
 pindá monhangara
 pindá posyîtaba
 pindá-yba
+pinhã
+pinhã'yba
 pinim
 pinima
 pinĩpinim
@@ -1769,6 +1846,7 @@ piraumbu
 pirauruku
 piraybyrá
 piraysoka
+piraíba
 piraîeoka
 piraîké
 piraîuba
@@ -1778,14 +1856,17 @@ piraúna
 pirá
 pirãîa
 pirãîagûara
-pirãîatinga
-pirãîgûara
 pirûera
+pitanga
 pitanguru
 pitangûagûasu
+pitangĩ
 pitaûã
 piting
 pitinga
+pitomba
+pitãmo'asara
+pitãnhemonhangaba
 pixana
 piã
 po'ir
@@ -1819,6 +1900,7 @@ pokuab
 pokuaba'ũ
 pokupé
 pokytã
+pokõi
 pomaranduba
 pomobybyk
 pomogûab
@@ -1827,10 +1909,12 @@ pomonga
 pomoîyb
 popetekaba
 popytera
+popytera class Ib
 popytera'isaba
 popyteîkaba
 popytuna
 popytá
+por
 pora
 porabyky
 porabykyara
@@ -1840,6 +1924,7 @@ porabykypy
 poraké
 porang
 poranga
+poraseîtara
 porenonhandara
 pororoka
 pororokaba
@@ -1850,6 +1935,7 @@ poruukar
 potar
 poti'atinga
 potigûara
+potisoba
 potyr
 potyra
 potyrõ
@@ -1869,17 +1955,23 @@ poîababa
 poîoybyra
 poîoybyri
 pratu
+pu
 pu'am
 pu'ama
 pu'amagûera
 puk
+pukamirĩ
+pukasûera
 pukaíb
 puku
+puká
 pupuk
 pupuka
 pupé
 pupîara
 puraké
+pusu'umukaî
+pusu'umukaîa
 putu'u
 putugûaba
 putumimbyka
@@ -1887,6 +1979,7 @@ putun
 putuna
 putunusu
 py
+py class Ib
 py'a
 py'aká
 py'anhemongetá
@@ -1909,11 +2002,10 @@ pyrain
 pyrang
 pyranga
 pysapema
-pysaîe'ĩ
-pysaîé
 pysebo'i
 pysyrõ
 pysã
+pysã class Ib
 pysãapyra
 pysãgûasu
 pysãgûasuybyrixûara
@@ -1927,14 +2019,17 @@ pytanga
 pytuna
 pytunarõ
 pytá
-pyxang
-pyxanga
 pyxun
 pyxuna
 pyá
 pá
 pé
+pé class IId
 pó
+pó class Ib
+pûakatu
+pûapendaba
+pûapẽ
 pûer
 pûerab
 pûeraba'ub
@@ -1946,17 +2041,21 @@ pûã-mytera
 pûã-myterybyrixûara
 pûãbe'engaba
 pûãgûasu
+pûãkytab
+pûãkytã
 pûãmirĩ
 pûãmytera
 pûãmyterybyrixûara
+pûãpyra
+pûãîepotasaba
 quarou
-r
 ram
 rambûer
 ran
 rana
 resé
 reîa
+reîa remiaûsuba
 ro'y
 ro'ynhemoapysanga
 ro'yrypy'aka
@@ -1969,7 +2068,7 @@ roryb
 rorypaba
 ruru
 rurunhynga
-s
+s-
 sabaru
 sabîagûasu
 sabîapoka
@@ -1986,12 +2085,19 @@ sakûãîba'e
 sakûãîba'egûyra
 samambaîa
 samongy
+sanguîá
 sapatu
 sapaîu
 saporema
 sapotaîa
 sapukaî
 sapukaîa
+sapukaîa miri
+sapukaîa nheengaramé
+sapukaîa potyra
+sapukaîa roka
+sapukaîa-apŷaba
+sapukaîa-kunhã
 sapé
 saraûaîa
 sarigûeîa
@@ -2015,6 +2121,7 @@ seîxu
 seîxupirá
 seîxutatá
 seîxuîurá
+sikurigûasu
 siri
 siriaie'yma
 siriapûã
@@ -2023,6 +2130,7 @@ sirimirĩ
 sirinema
 sirioby
 so'o
+so'o apu'a
 so'oaíba
 so'ogûasurãîgûera
 so'okugûaba
@@ -2092,7 +2200,6 @@ sûasukanga
 sûasumandi'yba
 sûasupytanga
 sûasutinga
-t
 ta'yra
 taba
 tabapîasaba
@@ -2137,7 +2244,6 @@ tanimbuka
 tanimbuky
 tapera
 taperu pana mbo'isara
-tapesyma
 tapeti
 tapi'ikaba
 tapi'ikuruba
@@ -2166,6 +2272,7 @@ tapyîtinga
 taragûyboîa
 tare'imboîa
 tare'ira
+tasyba
 tasypytanga
 tata'u
 tata'yba
@@ -2196,7 +2303,6 @@ taturama
 taturana
 tatuûasu
 tatá
-tawa
 taxe
 taîaoba
 taîasu
@@ -2232,14 +2338,13 @@ timuna
 tin
 ting
 tinga
-tingaíb
 tingaíba
 tipoîa
 tipoîrana
 titinga
 tiá nde karuka
 tiá nde ko'ema
-tiá nde putuna
+tiá nde pytuna
 tiîeúna
 to'o
 torypaba
@@ -2250,6 +2355,7 @@ tugûypabe'yma
 tuindara
 tukana
 tukanusu
+tukunaré
 tukura
 tupana
 tupi
@@ -2291,7 +2397,7 @@ tymaba
 tymara
 typy'oky
 tyuru
-u
+tĩ
 u'i
 u'iabiruru
 u'iapu'a
@@ -2306,6 +2412,7 @@ u'ipukuîtaba
 u'isyka
 u'itinga
 u'iîará
+u'u
 u'uba
 u'ubae'ẽeíra
 u'ubae'ẽndyba
@@ -2334,6 +2441,7 @@ una
 upaba
 upagûera
 uparana
+upi'a class IIa
 upi'atinga
 upixûar
 upixûara
@@ -2354,10 +2462,10 @@ usá
 uí
 uĩa
 uĩba'e
-x
 xabi
 xabi monhangara
 xabimirĩ
+xaûi rerekoara
 xe
 xe 'useî
 xe py'ape
@@ -2382,6 +2490,7 @@ xy
 xyra
 xó
 y
+y'u
 yasse
 yassetata
 yba
@@ -2389,6 +2498,7 @@ ybaka
 ybakuna
 ybakygûar
 ybakygûara
+ybateba'e
 ybatinga
 ybaté
 ybatĩ
@@ -2422,18 +2532,35 @@ ybypytanga
 ybyra
 ybyraapûaîara
 ybyrababaka
+ybyrae'ẽ
+ybyragûyba
+ybyrakytã
+ybyrakytĩaba
+ybyrakytĩara
+ybyrakûara
 ybyrakûatiara
+ybyranha'ẽ
 ybyranhatimana
+ybyrapandara
 ybyrapararanga
 ybyraparyba
 ybyrapatagûy
+ybyrapeba
+ybyrapesẽ
 ybyrapinima
 ybyrapokanga
 ybyrapytanga
+ybyrarema
+ybyrasoka
+ybyrataîa
 ybyratinga
 ybyraty
+ybyrayagûasu
+ybyrayamirĩ
 ybyraygara
 ybyraypypûera
+ybyrayá
+ybyraúna
 ybyryby'apaba
 ybyrá
 ybysokaba
@@ -2447,15 +2574,18 @@ ybytuura
 ybytuûasu
 ybytyra
 ybyupaba
+ybyuru
 ybyyby'ab
 ybyîara
 ybá
+ybõ
 ye'ẽ
 ygamembyra
 ygapeba
 ygapoasu
 ygapukuî
 ygapó
+ygapẽnambi
 ygara
 ygara rerekoara
 ygara rokabytera
@@ -2489,6 +2619,7 @@ yperukyba
 yperupinima
 yporu
 ypy
+ypye'yma
 ypytym
 ypûera
 ysaeté
@@ -2500,27 +2631,20 @@ ysypoysyka
 ysypó
 ysá
 ytá
-Á
-Ã
-É
-Í
-Î
+{{t|1=tpw|2=aîura}}
 Îabebyry
 Îagûanharõ
 Îagûareté
 Îagûaruna
 Îagûatinga
 Îakuparĩ
+Îakurutu
 Îandé Îara
 Îanypa'yba
 Îasytatagûasu
 Îesu
 Îuraytaûasu
 Îurupari
-Ó
-Õ
-Ú
-Û
 Ûanhumy
 Ûaraûasu
 Ûaîayró
@@ -2529,8 +2653,7 @@ ytá
 Ûyraparusu
 Ûyrapasama
 Ûyraûasupinima
-Ûyraûasuúna
-á
+Ûyraûasuunaé
 ã
 ãa
 ãba'eanga
@@ -2548,8 +2671,6 @@ ytá
 ãînhoba'ũ
 ãîyba
 é
-í
-î
 îa-
 îabeburapinima
 îabebyra
@@ -2591,8 +2712,10 @@ ytá
 îakutinga
 îandara
 îandarusu
+îandupysá
 îandykaraíba
 îandé
+îandé pytuna
 îandébe
 îandébo
 îandûaba
@@ -2646,9 +2769,16 @@ ytá
 îepîakukar
 îetipemena
 îoatypeteka
+îoaûsuba
 îobapeteka
 îu
+îu'i
+îu'igûara'igûara'i
 îu'iperereka
+îu'iponga
+îu'ií
+îu'iîia
+îu'ĩ
 îuapekanga
 îuapytá
 îuatĩ
@@ -2657,8 +2787,15 @@ ytá
 îuba
 îukasara
 îukaíb
+îukurutu
 îukykaraíba
+îukyra
+îukyrakokara
+îukyrana
+îukyre'ẽ
 îukyruru
+îukyry
+îukytaîa
 îuká
 îukába
 îukásaba
@@ -2697,9 +2834,12 @@ ytá
 îy'yba
 îyapara
 îyatĩmuku
+îybagûyra
 îybakanga
 îybapekanga
 îybatupoîa
+îybaypy
+îybaypya'ỹîa
 îyboîa
 îyboîusu
 îybá
@@ -2714,26 +2854,12 @@ ytá
 îyyba
 îó
 ñe'enga
-ó
-õ
-ú
-û
 ûarapyranga
+ûaraîa
 ûaruá
 ûaîamũ-mundé
 ûyrapara
 ûyraûasuúna
 ûĩ
-Ĩ
-ĩ
-Ũ
-ũ
 ũmbarab
-Ŷ
-ŷ
-Ẽ
-ẽ
-Ỹ
-ỹ
 ‘ytab
-→ Portuguese: taba

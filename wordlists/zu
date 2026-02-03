@@ -27,6 +27,7 @@
 -alisa
 -alisisa
 -aliwa
+-amaPutukezi
 -amukelana
 -amukeleka
 -amukelela
@@ -72,6 +73,7 @@
 -aphulisa
 -aphulisisa
 -aphulwa
+-asePhothugali
 -azana
 -azayazi
 -azeka
@@ -146,7 +148,7 @@
 -emukela
 -engeza
 -enzakala
--enzakalisa
+-enzakalísa
 -ephuka
 -ephula
 -ephuza
@@ -157,6 +159,7 @@
 -eqisa
 -eqisisa
 -eqiwa
+-esiPutukezi
 -eyana
 -eyayeya
 -eyeka
@@ -222,7 +225,6 @@
 -lethisa
 -limisa
 -lingisa
--liphuzi
 -lo
 -loba
 -luhlaza
@@ -232,7 +234,6 @@
 -mhlophe
 -mi
 -mnyama
--mpunga
 -munca
 -munya
 -na
@@ -247,10 +248,8 @@
 -ngenisa
 -ngenisisa
 -ngenwa
--ngwevu
 -ni
 -nje
--nsomi
 -nsundu
 -nyumba
 -nzima
@@ -364,8 +363,6 @@ C
 D
 Dladla
 Dlamini
-Double qoppa
-Double qoppa with diaeresis
 E
 F
 G
@@ -395,6 +392,7 @@ Inyanga
 IsiHolandi
 IsiKhathalani
 IsiLilo sikaJeremiya
+IsiLimela
 IsiSpanish
 Isiczechoslovakia
 Isifinilandi
@@ -411,6 +409,8 @@ K
 KwaZulu
 KwaZuluNatal
 L
+Latin double qoppa
+Latin small double qoppa with diaeresis
 LesiTahiti
 M
 Madlala
@@ -428,6 +428,7 @@ R
 S
 T
 Template:list:Latin script letters
+Thobani
 Thuli
 U
 Ugu Emhlophe
@@ -446,6 +447,7 @@ Y
 Z
 a
 a-
+a/languages M to Z
 aba
 aba-
 abaThembu
@@ -700,7 +702,6 @@ dana
 dansa
 danyana
 dayisa
-days of the week: usuku lwesonto: iSonto · uMsombuluko · uLwesibili · uLwesithathu · uLwesine · uLwesihlanu · uMgqibelo [edit]
 dazuka
 dazula
 de
@@ -1003,6 +1004,7 @@ i-Eshiya
 i-NATO
 i-Ostreliya
 i-awunsi
+i-croissant
 i-ephuleli
 i-oyili
 i-quintet
@@ -1539,6 +1541,7 @@ inkathazo
 inkathi
 inkawu
 inkehlo
+inkemfe
 inkentshane
 inkinga
 inkinobho
@@ -1777,6 +1780,7 @@ isiJalimane
 isiJalimani
 isiMuhu
 isiNdebele
+isiNdendeule
 isiNgisi
 isiNguni
 isiPutukezi
@@ -1792,6 +1796,7 @@ isiSwazi
 isiTshwana
 isiTsonga
 isiTswana
+isiTumbuka
 isiVenda
 isiXhosa
 isiZulu
@@ -1980,6 +1985,7 @@ isiqephu
 isiqeshana
 isiqhaza
 isiqhebeza
+isiqhebezakude
 isiqhephu
 isiqhimu
 isiqhingana
@@ -2055,6 +2061,7 @@ isu
 isundu
 iswidi
 isángoma
+isíTumbuka
 isígqi
 isínci
 itafula
@@ -2602,6 +2609,7 @@ nqunu
 nqwabela
 nsomi
 nsundu
+ntambo
 ntaza
 ntofontofo
 ntshontsha
@@ -3289,8 +3297,10 @@ ukhweshe
 ukhweshe class 11/10
 ukoko
 ukoma
+ukotha
 ukotini
 uku-
+ukuba
 ukubala
 ukubaluleka
 ukubona
@@ -3307,12 +3317,14 @@ ukuduma kwezulu
 ukudumala
 ukudweba
 ukufa
+ukufela
 ukugcotshwa
 ukugeza
 ukugqwala
 ukugula
 ukugxeka
 ukuhlamba
+ukuhleka
 ukuhlikihla
 ukuhlobonga
 ukuhlwa
@@ -3343,6 +3355,7 @@ ukuphakama
 ukuphakamisa
 ukuphawula
 ukupheka
+ukuphekela
 ukuphela
 ukuphenduka
 ukuphikisana
@@ -3365,6 +3378,8 @@ ukushona
 ukuthambisa anga
 ukuthula
 ukuvamisa
+ukuwa
+ukuya
 ukuze
 ukuzibulala
 ukuzigqaja
@@ -3407,6 +3422,7 @@ umabi
 umabo
 umabonakude
 umafikazisina
+umaka
 umakhalekhukhwini
 umakhelwane
 umakhi
@@ -3855,6 +3871,7 @@ uḿduzu
 uḿhwebi
 uḿkhathí
 uḿkhombo
+uḿzukûlu
 v
 vakasha
 vakashela
@@ -3981,6 +3998,8 @@ zwakala
 íngwenya
 îbhotêla
 úbumpôfu
+úmdlwénguli
+úmkhôno
 Ɓ
 ɓ
 ϟ

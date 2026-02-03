@@ -39,7 +39,6 @@
 -istan
 -k
 -kar
--krasî
 -kuj
 -kuj-
 -kujï
@@ -52,6 +51,7 @@
 -nasî
 -nomî
 -not
+-o
 -ok
 -patî
 -pîv
@@ -67,10 +67,12 @@
 -xwaz
 -yek
 -yî
+-yî (ku)
 -zan
 -zanî
 -ê
 -î
+-î (ku)
 -în
 -îst
 -îtî
@@ -79,7 +81,6 @@
 13.
 13em
 1em
-:
 A
 AIDS
 AY
@@ -138,7 +139,6 @@ Azerî
 Azêrbaycanî
 Azırbaicani
 Aşgabat
-B
 Bab
 Badîn
 Bager
@@ -172,6 +172,7 @@ Berzan
 Bexda
 Bexdad
 Bextewar
+Bihara Erebî
 Bilgarî
 Birmanya
 Biryar
@@ -194,10 +195,10 @@ Bîngol
 Bîşkek
 Bûkareşt
 Bûtan
-C
 COVIDa dirêj
 Cakarta
 Cano
+Canstîn
 Cemsera Bakur
 Cemsera Başûr
 Cenevre
@@ -208,7 +209,6 @@ Coliseum
 Colombo
 Corctawn
 Cuba
-D
 DAÎŞ
 DKN
 DMME
@@ -253,7 +253,6 @@ Dîcle
 Dîno
 Dûpişk
 Düzce
-E
 Ebû Zebî
 Edinburgh
 Edirne
@@ -266,6 +265,7 @@ Ehmed
 Ehmedo
 Ehmedê
 Ehmedî
+Ehya
 Ekuador
 El Salvador
 El-Qaîde
@@ -273,6 +273,7 @@ Elah
 Elezîz
 Ellah
 Elmanya
+Elohîm
 Elî
 Emerîka
 Emman
@@ -282,6 +283,7 @@ Enqere
 Entab
 Erd
 Erden
+Erdexan
 Erebistan
 Erebistana Siûdî
 Ermanistan
@@ -303,7 +305,6 @@ Ewropaya Rojhilat
 Ewrûpa
 Ewustralya
 Eyûb
-F
 Fadil
 Faris (ku)
 Farqîn
@@ -317,7 +318,6 @@ Firat
 Fransa
 Frensa
 Fînland
-G
 Gaskonya
 Gelavêj
 Gelawêj
@@ -337,7 +337,6 @@ Gurcistan
 GÎF
 Gîneya Rojbendî
 Gûgil
-H
 HSD
 Habîl
 Hanoi
@@ -355,6 +354,8 @@ Hemedan
 Herzegovîna
 Hesekê
 Hesen
+Hespîk
+Hespîr
 Hesîçe
 Hewa
 Hewlêr
@@ -365,18 +366,15 @@ Holanda
 Holenda
 Hungarya
 Hêlîn
-I
 Indianapolis
 Indonezya
 Inglistan
 Iraq
-J
 Jamaîka
 Japon
 Java
 Jesussa Mesîh
 Jiyan
-K
 Kabe
 Kabûl
 Kadiz
@@ -431,11 +429,9 @@ Kuala Lumpur
 Kurdistan
 Kurdistana Sor
 Kurdiya Navendî
-Kurdî
 Kuweyt
 Kîev
 Kîlîkya
-L
 Laos
 Laponya
 Latium
@@ -453,7 +449,6 @@ Lîbya
 Lîtvanya
 Lîvonya
 Lîzbon
-M
 Madrîd
 Makedonyaya Bakur
 Malezya
@@ -510,7 +505,6 @@ Mîrnişînên Erebî yên Yekbûyî
 Mûsa
 Mûsil
 Mûş
-N
 NATO
 NY
 Namîbiya
@@ -534,7 +528,6 @@ Nîwzelanda
 Nû York
 Nû Zelenda
 Nûh
-O
 Oksîtanya
 Okyanûsa Mezin
 Orşelîm
@@ -543,7 +536,6 @@ Ostralya
 Other seasons
 Otrîş
 Ottawa
-P
 PKK
 PMME
 PYD
@@ -567,7 +559,7 @@ Portûgal
 Prag
 Pretoria
 Putîn
-Q
+Pîjan
 Qada Sor
 Qahîre
 Qarûn
@@ -584,7 +576,6 @@ Quds
 Qunbere
 Qur'an
 Qurix
-R
 RTC
 Rabat
 Rastî
@@ -603,7 +594,9 @@ Rojhilata Navîn
 Rojîn
 Roma
 Romanya
+Romaya kevnare
 Ronî
+Ruhstîn
 Rênas
 Rêxistina Peymana Bakurê Atlantîkê
 Rêxistina Tenduristiya Cîhanê
@@ -611,7 +604,6 @@ Rêzan
 Rîga
 Rûsya
 Rûsî
-S
 Sahara
 Sahraya Rojava
 Samî
@@ -663,7 +655,6 @@ Sûdana Başûr
 Sûriya
 Sûriye
 Sûrînam
-T
 TEFL
 Tacîkistan
 Tacîkî
@@ -693,17 +684,16 @@ Trabzon
 Troya
 Truva
 Trînîdad û Tobago
+Turku
 Tîmora Rojhilat
 Tîr
 Tîrana
 Tîsfûn
 Tûnis
-U
 Ukrayna
 Ulaanbaatar
 Ustralya
 Uşak
-V
 Vaduz
 Vanûatû
 Vatîkan
@@ -712,7 +702,6 @@ Venûs
 Vilnius
 Viyana
 Viyetnam
-W
 WC
 Wan
 Warşova
@@ -721,7 +710,6 @@ Wellington
 Wolfgang
 Wêls
 Wîkîpediya
-X
 Xaneya T jehravî
 Xarpêt
 Xartûm
@@ -734,39 +722,40 @@ Xeşeyerşa I
 Xiristiyan
 Xirvatistan
 Xuda
+Xwarîn
 Xweda
 Xwedê
 Xwedê hez bike
-Y
 YPG
 YPJ
 Yehowa
+Yehya
 Yehûda
 Yekîtiya Ewropayê
 Yekîtiya Sovyetê
 Yemen
 Yewnanistan
+Yewnanistana kevnare
 Yewnanî
 Yonan
 Yonanistan
 Yonanî
 Yunanistan
 Yûgoslavya
+Yûhenna
 Yûnan
 Yûnanistan
 Yûnis
 Yûsuf sûre
-Z
 Zagreb
 Zagros
 Zanyar
-Zawe
+Zav
 Zaxo
 Zelal
 Zelendaya Nû
 Zelendaya Teze
 Zozan
-a
 abajûr
 abaza
 abazayî
@@ -891,10 +880,20 @@ ajans
 ajansa nûçeyan
 ajansên nûçeyan
 ajda
+ajna
 ajnaberî
+ajnan
 ajne
+ajnek
+ajneke
+ajnekê
+ajnin
+ajninan
+ajnine
+ajnino
 ajnê
 ajnê kirin
+ajnên
 ajo
 ajobarî
 ajok
@@ -945,6 +944,7 @@ alayî
 albalû
 albanî
 albîno
+albûm
 alegorî
 alek
 alem
@@ -1085,6 +1085,7 @@ amadekirî
 aman
 amanşok
 amar
+amator
 ambar
 ambargo
 ambasad
@@ -1104,6 +1105,7 @@ amoş
 ampûl
 amrîkayî
 amrîkî
+amyar
 amêr
 amîba
 amîn
@@ -1116,6 +1118,7 @@ ana
 anaka
 analojî
 analîst
+analîz
 anarşî
 anatoksîn
 anatomî
@@ -1171,6 +1174,7 @@ aql
 aqlmend
 aqût
 ar
+aragonî (ku)
 aram
 aramtî
 aramxane
@@ -1246,6 +1250,7 @@ arşîv
 arşîv kirin
 arşîvger
 arşîvvan
+as
 asan
 asansor
 asanî
@@ -1387,6 +1392,7 @@ avarê
 avayî
 avbend
 avbendî
+avce
 avdan
 avdana dikare
 avdar
@@ -1560,7 +1566,6 @@ aşîtîxwaz
 aşût
 aşûte
 aşûvan
-b
 ba
 bab
 babelîsk
@@ -1653,6 +1658,7 @@ bangeşe
 bangkirin
 banke
 bankevanî
+bankkar
 banknot
 banyo
 banşî
@@ -1842,6 +1848,8 @@ benzînxane
 benî
 benîşt
 beq
+beqlawe
+beqlewe
 ber
 ber avîtin
 ber bi
@@ -1859,6 +1867,7 @@ berazê kovî
 berazên erdê
 berazên kovî
 beraş
+berber
 berbest
 berbihar
 berbiharî
@@ -1958,6 +1967,7 @@ berxwedan
 berxweder
 berzax
 berzivistan
+berçav
 berçavk
 berçavka
 berçavkan
@@ -2004,6 +2014,7 @@ betrapêr
 bextenîz
 bextewerî
 bexîl
+bexşandin xwestin
 bexşîner
 beyan
 beybûn
@@ -2087,11 +2098,12 @@ bi riya
 bi rê ketin
 bi rê kirin
 bi saya
-bi ser da birin ()
-bi ser keftin ()
-bi ser va bûn ()
+bi saya serê
+bi ser da birin
+bi ser keftin
+bi ser va bûn
 bi ser va kirin
-bi ser xistin ()
+bi ser xistin
 bi ser xwe ve hatin
 bi taybetî
 bi tevahî
@@ -2142,6 +2154,7 @@ biborînim
 biborînin
 biborînî
 bibêjim
+bibêjin
 bibêçewtî
 bibîne
 bibînim
@@ -2156,6 +2169,7 @@ biceribîne
 biceribînim
 biceribînin
 biceribînî
+bicihanîn
 bicihkirin
 bicilixîne
 bicilixînim
@@ -2182,6 +2196,7 @@ bidewisîne
 bidewisînim
 bidewisînin
 bidewisînî
+bidil
 bidizîkî
 bidomîne
 bidomînim
@@ -2240,6 +2255,7 @@ bihilweşîne
 bihilweşînim
 bihilweşînin
 bihilweşînî
+bihnok
 bihurtin
 bihurîn
 bihêvî
@@ -2395,6 +2411,7 @@ binkirê kirin
 binkom
 binnav
 binnivîs
+binpê kirin
 binpêker
 binpêkerî
 binpêkirin
@@ -2456,7 +2473,7 @@ birevînî
 birgeha panî
 biribim
 birin
-birin serî ()
+birin serî
 birinc
 birk
 birojî
@@ -2567,6 +2584,7 @@ bitaşîne
 bitaşînim
 bitaşînin
 bitaşînî
+bitecrûbe
 bitefanda
 bitefîne
 bitefînim
@@ -2660,6 +2678,7 @@ bo xatirê
 bo xwe kirin xem
 bo çi
 bodrûm
+bokmål
 bomaweyî
 bomba atomê
 bombe
@@ -2668,6 +2687,7 @@ borand
 borandibû
 borandin
 borandiye
+boreg
 boron
 borrîhewa
 borrîkehewa
@@ -2835,6 +2855,7 @@ bêtam
 bêtamtî
 bêtamî
 bêtamîtî
+bêtecrûbe
 bêtêkilî
 bêwate
 bêwatetir
@@ -2904,7 +2925,6 @@ bûro
 bûse
 bûstan
 bûyer
-c
 cade
 cadeyî
 cadû
@@ -2920,9 +2940,11 @@ can
 candar
 canemaz
 canewer
+cang
 canhêştir
 canî
 car
+car bi car
 carcaran
 cardin
 carekê
@@ -2933,11 +2955,13 @@ casûs
 cawbir
 cax
 caş
+cedel
 cedwel
 ceh
 cehd
 cehnem
 cejin
+cejn
 celad
 celaqî
 celeb
@@ -3110,7 +3134,6 @@ cûcik
 cûn
 cûr
 cûtin
-d
 da
 da ku
 dabaş
@@ -3128,6 +3151,7 @@ dadayî
 dadgeh
 dadgerê levanînê
 dadgêr
+dadik
 dadmend
 dadmendî
 dadwer
@@ -3233,7 +3257,6 @@ dayan
 daye
 dayik
 dayre
-days of the week: rojên hefteyê: duşem · sêşem · çarşem · pêncşem · în · şemî · yekşem [edit]
 dayîn
 dazde
 daçek
@@ -3261,11 +3284,13 @@ delaltir
 delaltirîn
 delalî
 delav
+delegasyon
 delîl
 delîldar
 delîlî
 delîve ()
 dem
+dem bi dem
 dema borî
 dema raketinê
 dema vekirî
@@ -3324,6 +3349,7 @@ deng lê kiribûye
 deng lê kirin
 deng lê kiriye
 dengdar
+dengdêr
 denge
 dengejê
 dengiz
@@ -3349,6 +3375,7 @@ derbeya leşkerî
 derbirin
 derbirîn
 derbxane
+derbî
 derd
 derdan
 derdor
@@ -3474,7 +3501,7 @@ destxweş
 destçep
 destî
 destûr
-destûr dan
+destûrdan
 dev
 dev jê berdan
 deve
@@ -3556,6 +3583,7 @@ diazirînim
 diazirînin
 diazirînî
 dibe
+dibe ku
 dibedilîne
 dibedilînim
 dibedilînin
@@ -3738,6 +3766,8 @@ dikojînin
 dikojînî
 dikî
 dil
+dil dan
+dil ketin
 dildar
 dildarî
 dilekizê
@@ -3797,7 +3827,7 @@ dilsoz
 dilsozî
 dilteng
 diltengî
-dilxwaz
+dilwasî
 dilxweş
 dilzîz
 dilçakî
@@ -4148,6 +4178,7 @@ ducaniya derekî
 ducanî
 ducar kirin
 dudeng
+dudilî
 dufikrî
 dugiyan
 duhendebûn
@@ -4200,6 +4231,7 @@ dînar
 dînozor
 dîntir
 dîntirîn
+dîplomasî
 dîplomat
 dîploîd
 dîreksiyon
@@ -4260,14 +4292,15 @@ dûrûdirêj
 dûv
 dûvmesas
 dûvre
+dûvstêr
 dûxan
 dûş
-e
 e-kovar
 e-name
 e-peyam
 e-pirtûk
 ebced
+ebe
 ebedî
 ebreşûm
 ebûrî
@@ -4342,6 +4375,7 @@ elbanî
 elektronîk
 elektrîk
 elem
+eletewş
 elfabe
 elho
 elimandiye
@@ -4350,6 +4384,7 @@ elmanî
 elmas
 elo
 elok
+elçî
 elîf
 elîfba
 elîfbe
@@ -4371,12 +4406,13 @@ emin
 emir
 emirkanî
 emniyet
-emperator
+emperyalîzm
 emrê Xwedê
 emrîkî
 emîn
 enbar
 encam
+encamdan
 encamdar
 encumen
 encûr
@@ -4422,6 +4458,7 @@ epîgrafî
 epîkrîz
 epîstemolojî
 eqar
+eqil
 eqildar
 eql
 eqldar
@@ -4454,6 +4491,7 @@ erê
 erê kirin
 erîtrosît
 erûk
+esil
 esman
 esmanê dev
 esnaf
@@ -4471,7 +4509,9 @@ etnonasyonalîzm
 etîket
 etîmolog
 ev
+evandin
 evdesxane
+evistin
 evîn
 evîndar
 evîndara te me
@@ -4522,9 +4562,10 @@ eşqiya
 eşya
 eşêf
 eşîr
-f
 falinca mejî
 faliyet
+fanos
+fanûs
 fanûsgeh
 farisî
 fasûlî
@@ -4539,6 +4580,7 @@ felaket
 feldspat
 felsefe (ku)
 fen
+fener
 fenomenal
 feqet
 feqîr
@@ -4546,6 +4588,7 @@ feqîrî
 fer
 feraziye
 feraş
+ferd
 ferec
 ferencî
 ferengi
@@ -4620,6 +4663,7 @@ firiz
 firman
 firnik
 firo
+firokgeh
 firotibim
 firotin
 firoşer
@@ -4653,6 +4697,7 @@ fişne
 flamî
 fluor
 folklor
+fon
 fonetîk
 fonograf
 formûl
@@ -4695,6 +4740,7 @@ fêr kirin
 fêr kiriye
 fêrgeh
 fêrkirin
+fîkî
 fîl
 fîlm
 fîlmografî
@@ -4710,12 +4756,12 @@ fîstan
 fîtotomî
 fîzyolojîk
 fîşek
-g
 ga
 gadûv
 gakûvî
 gal vanî
 galegot
+galerî
 galte
 gamet
 gan
@@ -4785,6 +4831,7 @@ gembol
 gemirandin
 gemî
 gengaz
+gengeşe
 genim
 genî
 gep
@@ -4902,6 +4949,7 @@ gilêş
 gilî
 gincirgincirî dike
 gir
+giramî
 giran
 girane
 giraniya atomê
@@ -5184,7 +5232,6 @@ gûstêrk
 gûz
 gûzan
 gûş
-h
 hacat
 hacet
 hacîreşk
@@ -5238,6 +5285,7 @@ hay jê bûn
 haydî
 hazir
 heb
+hebandin
 hebû nebû
 hebû tune bû
 hebûn
@@ -5333,6 +5381,7 @@ henîfe
 heq
 heqîqet
 her
+her bijî ()
 her dem
 her gav
 her kes
@@ -5587,6 +5636,7 @@ hezare
 hezarpê
 hezarsal
 hezaz
+heziqîn
 hezm
 hezîran
 heş
@@ -5657,6 +5707,7 @@ hing
 hingiv
 hingivîn
 hingê
+hiqûqa navneteweyî
 hireba
 hirmî
 hirç
@@ -5680,6 +5731,7 @@ hişktir
 hişktirîn
 hişkî
 hiştin
+hobî
 hodax
 hogir
 hokar
@@ -5697,6 +5749,7 @@ homonîm
 homonîmî
 homoseksuelî
 homoseksûalîte
+hoplît
 hormona derpirandinê
 hormona dijî mîztin
 hormona geşê
@@ -5706,6 +5759,7 @@ hoste
 hotêl
 hov
 hox
+hoz
 hozanvan
 hudhud
 hulhul
@@ -5717,8 +5771,8 @@ huner
 hunerhez
 hunermend
 hunermendî
+hurmet
 huçik
-hwd
 hwd.
 hê carekê
 hêcet
@@ -5809,7 +5863,7 @@ hêzên çekdar
 hêştir
 hêştirga
 hêştirme
-hêşîn
+hîcab
 hîcret
 hîdro-
 hîdrojen
@@ -5864,8 +5918,8 @@ hûr kirin
 hûrbîn
 hûrkirin
 hûrûmûr
-i
 iblîs
+ihtiram
 ihtiyac
 ilm
 ilmî
@@ -5888,6 +5942,7 @@ inşela
 iraqî
 irf
 irhabî
+isaîlî
 isim
 islah
 ism
@@ -5895,12 +5950,13 @@ isqof
 istasyona radyoyê
 istibdad
 isyanker
+itîzar
 ixracadkar
 izin
 işkirap
-j
 jaj
 jalopî
+jambon
 jan
 jana zirav
 janr
@@ -5932,6 +5988,7 @@ ji ber ko
 ji ber ku
 ji ber man
 ji ber vê
+ji ber xwe ve gotin (ku)
 ji ber çavan çûn
 ji ber çi
 ji bilî
@@ -6011,6 +6068,7 @@ jê pê va
 jê va
 jê vekirin
 jê şûn va
+jêbir
 jêder
 jêderxistî
 jêkirin
@@ -6027,6 +6085,7 @@ jîndar
 jînekolojî
 jîngeh
 jîr
+jîriya destkarî
 jîriya destkirî
 jîrkî
 jîrtir
@@ -6036,7 +6095,6 @@ jîyan
 jûdo
 jûjî
 jûr
-k
 k'il
 ka
 ka ka
@@ -6056,11 +6114,14 @@ kal bûn
 kal kirin
 kalaallisut
 kalan
+kalorî
 kaltî
 kalî
 kalîte
 kam
 kamera
+kamil
+kamil kirin
 kampanya
 kanabîs
 kanadî
@@ -6078,6 +6139,7 @@ kanûna duyem
 kap
 kapik
 kapêk
+kapîtal
 kapîtalîst
 kapîtalîzm
 kar
@@ -6148,6 +6210,7 @@ karwanseray
 karxane
 karxezal
 karçîn
+karê reş
 karîban
 karîgeh
 karîn
@@ -6172,6 +6235,7 @@ kaxizê daşirê
 kaxizê tualetê
 kaxçîn
 kayîn
+kaûçik
 kaşik
 kaşok
 kaşxank
@@ -6274,8 +6338,6 @@ kesk
 keskankiroj
 keske
 keskesor
-keskê tarî
-keskê vekirî
 keskûala
 kesre
 kestane
@@ -6447,6 +6509,7 @@ kolik
 kolona berwarîkî
 kolona dakêşayî
 kolona hilkêşayî
+kolonyalîzm
 kolonî
 kolza
 kom
@@ -6462,6 +6525,7 @@ komele
 komeleya xwînê
 komenav
 komentar
+komet
 komgirav
 komir
 komirr
@@ -6518,6 +6582,7 @@ kovik
 kowboy
 kox
 koxik
+kozmetîk
 kozmo-
 koç
 koça dawîn
@@ -6527,6 +6592,7 @@ koçerî
 koşk
 kravat
 kredî
+kreş
 krismas
 kriyolojî
 kromatîd
@@ -6534,9 +6600,11 @@ krîpto-
 krîter
 krîz
 ku
+kuafor
 kudeta
 kudik
 kufrî
+kufte
 kuh
 kujende
 kujer
@@ -6559,6 +6627,7 @@ kulîmek
 kulîn
 kulûb
 kumirr
+kumêd
 kun
 kuna bazneyî
 kuna hêlkeyî
@@ -6709,6 +6778,7 @@ kêm nekiribî
 kêm nekiribû
 kêm nekiriye
 kêm nekî
+kêmanî
 kêmav
 kêmkirin
 kêmkirî
@@ -6735,6 +6805,7 @@ kî
 kîjan
 kîkboksîng
 kîkongoyî
+kîler
 kîlo
 kîlo-
 kîlogram
@@ -6754,6 +6825,7 @@ kîrquzdê (ku)
 kîrûrg
 kîs
 kîsikê zeravê
+kîso
 kîte
 kû
 kû der
@@ -6765,8 +6837,9 @@ kûrahî
 kûrtir
 kûrtirîn
 kûrûdûr
+kûsî
 kûçik
-l
+la
 labaratûwar
 lakêşemox
 lal
@@ -6825,6 +6898,7 @@ li ba
 li ber
 li ber sikratê
 li cem
+li derve
 li dijî
 li dora
 li dû
@@ -6839,11 +6913,14 @@ li hindavî
 li ku
 li kêleka
 li kû
+li meydanê
 li milê din
 li nêzî
 li pey
 li pêş
+li qadê
 li rex
+li saheyê
 li ser
 li ser benan meşîn
 li ser bingehê
@@ -6897,6 +6974,7 @@ lingxwas
 liq
 liq û pop
 liqê borrihewa
+livik
 livîn
 liwan
 lixav
@@ -6958,6 +7036,7 @@ lê zêde nekiriye
 lê zêde nekî
 lê çûn
 lêbelê
+lêborîn
 lêdan
 lêgerbar
 lêgerîn
@@ -6978,6 +7057,7 @@ lêsorkirin
 lêsorkirî
 lêv
 lêvkî
+lêvî
 lêxistin
 lêzêdekirin
 lîk
@@ -6996,6 +7076,7 @@ lîsteya reş
 lîsteya şopandinê
 lîstik
 lîstik xelas
+lîstika vîdyoyê
 lîstikvan
 lîstin
 lîteratûr
@@ -7014,7 +7095,6 @@ lûs
 lûsemasûlke
 lûtke
 lûşe
-m
 ma
 madam
 made
@@ -7026,14 +7106,17 @@ madeya tîwêner
 madeyê gewr
 madeyê spî
 maf
+mafya
 mafê vetoyê
 mafên mirovan
 magazîn
+magneozkirin
 magnezyûm
 mahîn
 mak
 maker
 maksî-
+makyaj
 makîne
 makîneya hesabê
 mal
@@ -7111,6 +7194,7 @@ maytêker
 maytêkerî
 mayê xwe tê dan
 mayê xwe tê kirin
+mazeret
 mazî
 maç
 maç kirin
@@ -7132,6 +7216,7 @@ medenî
 medrese
 medya
 medyaya sosyal
+medî
 medûsa
 mefer
 mefhûm
@@ -7163,6 +7248,7 @@ melevan
 melex
 melexan
 melik
+melkemot
 memik
 memnûh
 memnûn
@@ -7187,6 +7273,7 @@ merez
 merg
 merheba
 merhele
+merhem
 meriv
 merixand
 merixandibe
@@ -7218,9 +7305,14 @@ mesûliyet
 met
 metal
 metastaz
+metbex
 meteorolojî
+meteorît
 methem
 metin
+metirsî
+metirsî dan
+metirsîdan
 metod
 metran
 metreq
@@ -7250,6 +7342,7 @@ meyît
 mezad
 mezar
 mezat
+meze
 mezel
 mezheb
 mezin
@@ -7305,10 +7398,12 @@ mimkin
 min
 min bêrîya te kiriye
 min tu divê
+minaqeşe
 minare
 minasib
 mintiqe
 minêkar
+miqdar
 mirabe
 mirar
 miravî
@@ -7341,6 +7436,7 @@ mistdan
 misteed
 misîn
 mit
+mitfax
 mitleq
 mitêl
 mixabin
@@ -7411,6 +7507,7 @@ muzayede
 muze
 muzexane
 muzîk
+muzîka pop
 muzîkjen
 muçe
 muşrik
@@ -7521,7 +7618,6 @@ mûrî
 mûsîbet
 mûz
 mûçink
-n
 na
 naafirîne
 naafirînim
@@ -7764,6 +7860,7 @@ navpençik
 navpoşê malzarokê
 navsere
 navteng
+navxweyî
 navçavepil
 navçe
 navçeyî
@@ -8169,6 +8266,7 @@ nesekinîne
 nesekinînim
 nesekinînin
 nesekinînî
+nesl
 nesoj
 nesîb
 nesîhet
@@ -8420,6 +8518,7 @@ numerolojî
 nuqte
 nusxe
 nutq
+nynorsk
 nê ()
 nêm
 nêr
@@ -8444,6 +8543,7 @@ nêçîr
 nêçîra firindeyan
 nêçîrvan
 nîgarvan
+nîgeranî
 nîhîlîzm
 nîjadparêzî
 nîlûfer
@@ -8521,13 +8621,13 @@ nûjentirîn
 nûjenî
 nûkirin
 nûner
+nûsazî
 nûtir
 nûtirîn
 nûza
 nûçe
 nûçegihan
 nûçename
-o
 oblast
 oc
 ocax
@@ -8561,22 +8661,24 @@ oranjî
 ordî
 organîzma
 orgazm
+osetî
 osmanî
 ostralî
 ostrojen
 otanazî
 oto-
 otobûs
+otokrasî
 otomatîk
 otomobîl
 otêl
 oxira xêrê be
 oxîn
 oẍir be
-p
 pa
 padîşah
 padîşahî
+padşeh
 pagoda
 pak kirin
 pakistanî
@@ -8588,6 +8690,7 @@ pale
 palewan
 palkursî
 palto
+palyaço
 palîndrom
 pamîdor
 pan
@@ -8641,7 +8744,7 @@ paqijtirîn
 paqijî
 par
 parastin
-parastvan
+parastina sîvîl
 parastî
 parasîmpasawî
 parav
@@ -8680,7 +8783,6 @@ parêztin
 parêzvan
 pasaport
 pasîfîzm
-pasîv
 patik
 patikepil
 patinxane
@@ -8761,6 +8863,7 @@ penîr
 penîs
 pepûk
 peqandin
+peqlewe
 perasû
 perdaq
 perde
@@ -8930,6 +9033,7 @@ pirskirî
 pirsîn
 pirteqal
 pirteqalî
+pirtik
 pirtûk
 pirtûkfiroş
 pirtûkhez
@@ -8985,6 +9089,7 @@ piştre
 piştî
 piştî ku
 plana B
+plastîk
 plazmaxane
 plazmaya xwînê
 plutokrasî
@@ -9012,6 +9117,7 @@ potpûrî
 potîn
 poyinter
 poz
+pozbilind
 pozbilindî
 pozîsyona mîsyoneran
 poç
@@ -9039,10 +9145,12 @@ pê lê kirin
 pê re bûn
 pê vên
 pêbawerî
+pêbend nebûn
 pêcanik
 pêcek
 pêda
 pêdivî
+pêgeh
 pêhel
 pêjek
 pêjeke
@@ -9237,7 +9345,6 @@ pûş
 pûşber
 pûşper
 pȋvan
-q
 qad
 qal kirin
 qalib
@@ -9399,6 +9506,7 @@ qerf
 qermîçok
 qernefîl
 qerqewil
+qerqeşe
 qertel
 qertelan
 qertelek
@@ -9456,6 +9564,7 @@ qeşartibû
 qeşartin
 qeşartiye
 qeşe
+qeşmer
 qeşmerane
 qible
 qicik
@@ -9467,7 +9576,6 @@ qilîçk
 qimarbaz
 qinyat
 qiral
-qiralî
 qirax
 qire
 qirik
@@ -9495,17 +9603,20 @@ qorzî
 qozeqer
 qul
 qulaç
+quling
 qulipandin
 qulpik
 qumar
 qumar kirin
 qumar lîstin
 qumarker
+qumaş
 qumbere
 qumrî
 ququme
 qurad
 qurban
+qure
 quretî
 qurincîk
 qurm
@@ -9553,25 +9664,26 @@ qut nekî
 qutabxane
 qutabî
 qutkirin
+qutî
 quz
 quzilqurt
 quşxane
 qêmîş
+qîble
 qîblename
 qîmet
 qîn
 qîr
+qîrusîra ... kirî
 qîtar
 qîz
 qîzik
-qîçik
 qû
 qûm
 qûn
 qûre
 qût
 qıse
-r
 rabûn
 radabim
 radan
@@ -9598,6 +9710,7 @@ ramîn
 ramûsan
 ramûsandin
 ran
+rapor
 raserî
 raspêrî
 rast
@@ -9653,6 +9766,7 @@ reg
 reh
 rehaweta şirîn
 rehjen
+rehîm
 rehîn
 rehîne
 rejî
@@ -9660,6 +9774,7 @@ rejîm
 rekeh
 reklam
 remezan
+remz
 remzî
 renek
 reng
@@ -9688,6 +9803,7 @@ reqsker
 reqîb
 resedxane
 resm
+resmî
 respublîk
 restoran
 restorator
@@ -9792,6 +9908,7 @@ robar
 robot
 rohn û tarîtî
 roj
+roja kar
 rojane
 rojava
 rojavayî
@@ -9831,9 +9948,11 @@ ronkirin
 ronî
 rovî
 rubab
+ruh
 rusî
 ruxandin
 ruxset
+ruşwet
 rê
 rêasin
 rêbaz
@@ -9886,6 +10005,8 @@ rêz
 rêzan
 rêzanî
 rêzdar
+rêzdarî
+rêzgirtin
 rêzik
 rêziman
 rêç
@@ -9937,8 +10058,8 @@ rûviya zirav
 rûviya zêde
 rûvî
 rûçal
-s
 sabit
+sabotaj
 sabote bike
 sabote bikim
 sabote bikin
@@ -9979,6 +10100,7 @@ sac
 sade
 saet
 sahib
+sahil
 sahir
 sak
 sakaroz
@@ -10010,6 +10132,7 @@ sardînî
 sarinc
 sarincîka
 sarkomer
+sarkopenî
 sarox
 sartir
 sartirîn
@@ -10071,6 +10194,7 @@ sed
 seda
 sedaqet
 sede
+sedef
 sedem
 sedembûn
 sedemî
@@ -10116,11 +10240,13 @@ sekuler
 selam
 selamu aleykum
 selamunaleykum
+selete
 selik
 selmas
 sema
 sema kirin
 semaver
+sembol
 sembola statûyê
 sembolîk
 semed
@@ -10141,7 +10267,7 @@ sepirek
 seqf
 ser
 ser birîn
-ser dan ()
+ser dan
 ser jê kirin
 ser qûna yekî kenîn
 ser çûk
@@ -10164,6 +10290,7 @@ serbixweyî
 serbî
 serdem
 serdest
+serdestiya spiyan
 serdewlet
 serdozger
 serdozgerî
@@ -10173,8 +10300,7 @@ seredan
 serederî
 serejin
 serek
-serek ()
-sereke ()
+sereke
 serekeşîr ()
 serekhoz
 serekêl
@@ -10239,11 +10365,13 @@ serma
 sermawez
 sermemik
 sermest
+sermiyan
 sernerm
 sernişîv
 sernûçe
 serobin
 serok
+serok ser serek
 seroka berê
 seroka giştî
 serokatî
@@ -10300,6 +10428,7 @@ siberoj
 sibox
 sibê
 sicîlyayî
+sicûq
 sifet
 sifir
 sifir kirin
@@ -10403,7 +10532,6 @@ sor
 soran
 soranî
 sorav
-soravî
 sorbî
 soreta
 sorik
@@ -10455,6 +10583,7 @@ spîçk
 spûtnîk
 stad
 stadyûm
+stajyer
 standin
 star
 star kirin ()
@@ -10575,6 +10704,7 @@ sîxurr
 sîxurî
 sör
 sûc
+sûd
 sûdbexş
 sûk
 sûka pişkan
@@ -10587,7 +10717,6 @@ sûriyeyî
 sûrî
 sûsenek
 sûsk
-t
 ta
 tabûr
 tabût
@@ -10649,8 +10778,10 @@ tamijîner
 tamker
 tamkirî
 tamî
+tan
 tang
 tank
+tantûnî
 taqê serketinê
 tar
 tarantul
@@ -10770,7 +10901,9 @@ teblîk
 tebîb
 tebîet
 tecawiz
+tecawiz kirin
 tecrûbe
+tecwîd
 tefand
 tefandibe
 tefandibim
@@ -10784,8 +10917,10 @@ tefandiye
 tefsîr
 tefte
 tehdît
+tehlîl
 tehwî
 tekamûl
+tekbîr
 tekcarî
 teker
 teklîf
@@ -10823,6 +10958,7 @@ temam
 temam (temam bûn)
 temam kirin
 temamker
+temamkirî
 temaşegeh
 temaşeger
 temaşeker
@@ -10845,6 +10981,7 @@ ten
 tenahî
 tendirûst
 tendirûstî
+tenduristî
 tendûr
 tendûrustî
 teng
@@ -10904,6 +11041,7 @@ terkkirî
 term
 terorîst
 terorîzm
+terrcan
 terrik
 tersî
 terzî
@@ -10950,6 +11088,7 @@ tewere
 tewik
 tewizî
 tewr
+tewrî
 tews
 tewsiye
 tewtew
@@ -11154,6 +11293,7 @@ totalîter
 tov
 tovav
 toz
+toşpî
 toşîr
 tradîsyon
 trafoyê
@@ -11266,7 +11406,6 @@ tûtin
 tûşbûn
 tûşker
 tûşîbûn
-u
 umre
 umêd
 umêdewar
@@ -11277,7 +11416,8 @@ unda
 unîform
 unîforma
 unîvers
-v
+uzir xwestin
+uzr
 va ser kirin
 vac
 vagon
@@ -11421,7 +11561,6 @@ vîrgul
 vîrusa koronayê
 vîrûs
 vîze
-w
 w.m.
 w.n.
 wad
@@ -11432,11 +11571,13 @@ wan deman
 wan deran
 war
 warayî
+wasite
 wate
 watedar
 watenasî
 watt
 we
+websîte
 wefa
 wefadar
 wefat
@@ -11488,6 +11629,7 @@ welatvan
 welatê
 welatên
 welatî
+weqf
 weqî
 wer
 werar
@@ -11541,6 +11683,7 @@ wezîrên karûbarên derve
 wezîrî
 weçe
 weşanger
+wicûd
 winda kirin
 wir
 wirdememîle
@@ -11577,7 +11720,6 @@ wîlayetên
 wîn
 wîskî
 wîşî
-x
 xal
 xala helînê
 xala kelînê
@@ -11649,6 +11791,7 @@ xebitandin
 xebitîn
 xefiye
 xefnêr
+xefnêrî
 xela
 xelas
 xelaskarê
@@ -11737,6 +11880,7 @@ xezûr
 xib
 xibik
 xidmet
+xiftan
 xifş
 xilas
 xilas (xilas bûn)
@@ -11817,13 +11961,17 @@ xunav
 xundevan
 xunkar
 xupal
+xur
 xurek
 xurfe
 xurik
 xurika çêlekan
 xurme
+xurt
 xurt kirin
+xurîn
 xutbe
+xuya
 xuşk
 xwahafîz
 xwandin
@@ -11858,14 +12006,17 @@ xwedanenas
 xwedankar
 xwedawend
 xwedê
+xwedênenas
 xwedêtirs
 xwedî
 xwedî kirin
 xwedîdawa
 xwedîerd
 xwedîmaf
+xwedîtecrûbe
 xwegir
 xweh
+xwehr
 xwekujî
 xwekuştin
 xwelî
@@ -11951,7 +12102,6 @@ xûk
 xûn
 xûndarî
 xûç
-y
 ya baştir
 ya ku
 yahodî
@@ -12012,7 +12162,6 @@ yî
 yûnanî
 yûz
 yûzpiling
-z
 zad
 zadik
 zafer
@@ -12069,6 +12218,7 @@ zeft kirin
 zelal
 zelal kirin
 zelam
+zelete
 zelzele
 zeman
 zemawend
@@ -12121,6 +12271,7 @@ zeîfok
 zibil
 zibûn
 zig
+zihn
 zik
 zikak
 zikekelên
@@ -12157,6 +12308,7 @@ zimanê
 zimanê bavkalan
 zimanê bernamekirinê
 zimanê biyanî
+zimanê derî
 zimanê ejnebî
 zimanê erebî
 zimanê farisî
@@ -12256,6 +12408,7 @@ ziyandar
 ziyander
 ziyaret
 zombî
+zootomî
 zordarkuj
 zordarkujî
 zordarî
@@ -12306,14 +12459,14 @@ zûtirîn
 Çîna karker
 Çînistan
 Çînî
-Ê
 Êlih
 Êrîvan
 Êzidi
-Î
 Îbrahîm
+Îbranî
 Îdir
 Îdlib
+Împeratoriya Brîtanî
 Împeratoriya Osmanî
 Înglistan
 Înternasyonal
@@ -12331,7 +12484,6 @@ zûtirîn
 Îsraîl
 Îtalya
 Îzmîr
-Û
 Ûganda
 Ûkranya
 Ûkrayna
@@ -12341,12 +12493,12 @@ zûtirîn
 Ûrisî
 Ûrmiye
 Ûzbêkistan
-ç
 ça
 çadir
 çak kirin
 çakar
 çakuç
+çakêt
 çal
 çalak
 çalakker
@@ -12456,6 +12608,7 @@ zûtirîn
 çewender
 çewisandin
 çewrî
+çewt
 çewtî
 çeşn
 çeşît
@@ -12610,6 +12763,7 @@ zûtirîn
 îpotek
 îprax
 îqame
+îqrar
 îqtibas
 îqtisad
 îrannasî
@@ -12668,12 +12822,12 @@ zûtirîn
 ûte
 ûtêl
 ûtî
-Ş
 Şahname
 Şam
 Şam şekir e lê welat şirîntir e
 Şam şekir lê welat şirîntir e
 Şehla
+Şehla (ku)
 Şerê Cîhanî yê Duyem
 Şerê Sar
 Şeytan
@@ -12693,7 +12847,6 @@ zûtirîn
 şahedetname
 şaheng
 şahid
-şahitî
 şahxwînber f aort
 şahî
 şahînşahî
@@ -12703,6 +12856,7 @@ zûtirîn
 şampanya
 şampo
 şan
+şande
 şandin
 şane
 şaneya repker
@@ -12737,6 +12891,7 @@ zûtirîn
 şeh kirin
 şehade
 şehadet
+şehanşeh
 şehderevan
 şeher
 şehla
@@ -12745,6 +12900,7 @@ zûtirîn
 şehîd
 şehîd (ku)
 şehîd ketin
+şehîtî
 şekir
 şekirmiz
 şekirê behîvan
@@ -12890,6 +13046,7 @@ zûtirîn
 şixtîk
 şiyan
 şiyar kirin
+şiîr
 şkeft
 şkence
 şofar
@@ -12927,8 +13084,6 @@ zûtirîn
 şîlav
 şîlavk
 şîn
-şînê esmanî
-şînê vekirî
 şîpane
 şîr
 şîranî
@@ -12943,6 +13098,8 @@ zûtirîn
 şûkirî
 şûm
 şûn
+şûna birînê
+şûnbirîn
 şûnik
 şûnpê
 şûnwarnas
@@ -13007,7 +13164,6 @@ zûtirîn
 ـستان
 ـی
 ـین
-فلستین
 فەرەنسی
 لنگ
 مۆر

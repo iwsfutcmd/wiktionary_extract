@@ -19,6 +19,8 @@
 -ier
 -iesme
 -if
+-inge
+-ique
 -ité
 -ment
 -té
@@ -46,6 +48,8 @@ Arabe
 Aristotelique
 Armenie
 Artus
+Arverne
+Arvernie
 Asie
 Athenien
 Atheniens
@@ -60,6 +64,10 @@ Bouquinghem
 Caire
 Camalot
 Cantaber
+Carlinge
+Carlingien
+Carlingiens
+Carlovingien
 Castelan
 Castelans
 Casteloing
@@ -68,6 +76,8 @@ Castille
 Castillien
 Catholique
 Cauvin
+Chaldee
+Charlesmaigne
 Chierrebourg
 Chrestien
 Chrestienne
@@ -76,9 +86,15 @@ Chrestiens
 Chrestienté
 Christ
 Christianisme
+Cinthie
+Circe
+Circee
 Constantinoble
 Cornuaille
+Cynosure
+Cynthie
 Cyppre
+Cypre
 Cæsar
 Dannoys
 Denys
@@ -97,6 +113,7 @@ Escoçois
 Espaignol
 Espaignols
 Filles du Roy
+Florestan
 France
 François
 Françoises
@@ -121,6 +138,7 @@ Grece
 Grecz
 Grenade
 Græc
+Græce
 Græcque
 Gui
 Guillemme
@@ -147,6 +165,8 @@ Indien
 Indois
 Iorge
 Iosephe
+Irlandois
+Irlandoise
 Italien
 Iudée
 Iuif
@@ -161,6 +181,7 @@ Kaamalot
 Katherine
 Lancelot
 Languedoch
+Lernee
 Levant
 Limosin
 Lissebonne
@@ -168,6 +189,9 @@ Lissebonnois
 Logres
 Lois
 Londres
+Lothaire
+Lotharinge
+Lotharingie
 Lourde
 Lutherisme
 Lybie
@@ -176,8 +200,12 @@ Macedonien
 Mahomet
 Mahometan
 Mahommet
+Manichée
 Marion
 May
+Merovee
+Merovinge
+Merovingien
 Montreal
 Mordrec
 More
@@ -206,7 +234,6 @@ Pantagruelicques
 Pasques
 Payen
 Perse
-Persien
 Pescheur
 Phelippe
 Piccardie
@@ -232,21 +259,29 @@ Saint Graal
 Sarrazin
 Saslebery
 Sathan
+Scylle
 Socrates
 Sophy
 Souysse
 Souysses
 Sparte
+Sphinge
 Stoicien
 Stoiciens
+Strabon
 Suisse
 Surie
 Sycile
+Syringe
 Tartar
 Testard
 Thomas
 Thoulousain
 Thoulouse
+Thuringe
+Thuringie
+Transsilvanie
+Transsylvanie
 Tristran
 Trois Rivieres
 Turcq
@@ -269,13 +304,15 @@ Wincestre
 Windesoire
 Xenophane
 Yorch
+Yrlandois
+Yrlandoise
 Ysabel
 Ytalie
 Yvain
 Zandvich
-a
 a desmesure
 a son escient
+a/languages M to Z
 aage
 aages
 abandonner
@@ -699,6 +736,7 @@ bienveillant
 biere
 billette
 billion
+biscuit
 bizarrerie
 blanc
 blanche
@@ -719,6 +757,8 @@ bolenger
 bombasin
 bon
 bonne
+bonnes
+bons
 bosse
 bouc
 bouche
@@ -758,6 +798,7 @@ brevaige
 brief
 briefve
 briefveté
+brigade
 brouette
 brunette
 brusler
@@ -849,6 +890,7 @@ chair
 chaire
 chaisne
 chaisnes
+chaldaïque
 chaloir
 chameau
 champ
@@ -858,6 +900,7 @@ chandelles
 chanffrains
 chanffraint
 chanson
+chansons
 chant
 chanter
 chapelle
@@ -931,6 +974,10 @@ choleres
 chorde
 chordes
 chose
+choue
+choues
+chouette
+chouettes
 choys
 chresme
 chronicque
@@ -986,6 +1033,7 @@ combinacion
 combinaison
 combiner
 comedie
+commander
 comme
 commencement
 commencer
@@ -1059,6 +1107,12 @@ consuivir
 consyderation
 consyderer
 conte
+contemnateur
+contemnement
+contemner
+contempteur
+contemption
+contemptrice
 contenement
 content
 contesse
@@ -1332,6 +1386,7 @@ desieuner
 desieuné
 desinfecter
 desir
+desirable
 desirer
 desirier
 desirs
@@ -1479,6 +1534,9 @@ douloureux
 doulx
 douter
 dracon
+dragee
+drageoir
+dragier
 drap
 drogue
 droict
@@ -1732,6 +1790,7 @@ escris
 escrit
 escrivain
 escrivant
+escroue
 escryer
 escu
 escuier
@@ -1990,6 +2049,7 @@ feste
 festes
 feu
 feuillage
+feuille
 feulle
 feurre
 feut
@@ -2001,6 +2061,7 @@ fiebvre
 fiebvres
 fievre
 fille
+filles
 filz
 fin
 finable
@@ -2046,6 +2107,8 @@ forcené
 forest
 forestz
 formage
+forme
+formes
 formeus
 formeux
 fors
@@ -2110,6 +2173,7 @@ fructier
 fruict
 fruicts
 fruictz
+fueille
 fuir
 fumee
 fumer
@@ -2320,6 +2384,7 @@ heurter
 hideux
 historien
 histoyre
+hoe
 homicide
 homme
 honeste
@@ -2343,7 +2408,9 @@ hoste
 hostel
 hostesse
 hostoier
+houe
 houer
+houes
 houssepillier
 hucher
 huer
@@ -2414,6 +2481,7 @@ imbecillité
 immoderation
 imparfaict
 imparfaictes
+impatience
 imperceptiblement
 imperfaict
 imperfection
@@ -2436,18 +2504,22 @@ incongneu
 incontinent
 inconveniens
 inconvenient
+incorporable
 incorrigible
 incroiable
 incroiables
 incurable
 indemnité
+indien
 indifferent
+indique
 indivisible
 ineffable
 inegalité
 inequalité
 inestimable
 inevitable
+inexcusable
 infidele
 infidelle
 infidelles
@@ -2548,14 +2620,20 @@ jecter
 jeune
 jeux Olympiques
 jobe
+jocond
+joconde
+jocondité
 joint
 joint que
 joly
+joue
 jouer
+joues
 jouir
 jouissance
 jour
 jouïr
+jovial
 joyeulx
 jus
 justicerie
@@ -2838,6 +2916,7 @@ mesmes
 mesnager
 mesnaige
 mespris
+mesprisance
 messagerie
 messagier
 messe
@@ -2878,6 +2957,7 @@ modelle
 moderer
 moderne
 moderéement
+moe
 moeurs
 moien
 moine
@@ -2913,7 +2993,10 @@ mosaïque
 mot
 mot a mot
 motz
+moue
+moues
 mouette
+mouhe
 moulin
 moult
 mourir
@@ -2940,6 +3023,7 @@ moynes
 moys
 moytié
 mucer
+mue
 mulcte
 mulcter
 muliebrité
@@ -3148,6 +3232,7 @@ oysillons
 oysiveté
 ozer
 où
+pacification
 pacificque
 pacquage
 pacque
@@ -3173,6 +3258,7 @@ painture
 paisiblement
 palays
 palefroy
+palestin
 palpable
 pannicle
 pantoufle
@@ -3199,6 +3285,7 @@ parfonde
 parfondement
 parfum
 parfumer
+parfumier
 parlemens
 parlement
 parler
@@ -3232,6 +3319,7 @@ past
 pastenaille
 pasture
 pasturer
+patience
 patient
 patricien
 patriote
@@ -3291,6 +3379,8 @@ perrocquet
 perron
 perser
 perseverance
+persien
+persienne
 persuader
 persuadé
 persuasion
@@ -3377,11 +3467,13 @@ ploms
 plouvoir
 ployer
 plumaige
+plus
 pluspart
 plustost
 plutost
 pluye
 pluyes
+plꝰ
 pocher
 poenitence
 poesie
@@ -3885,6 +3977,7 @@ ruysseau
 ryme
 rymes
 ryre
+ré
 s'il
 s'il vous plaist
 sablon
@@ -3973,6 +4066,7 @@ septmaine
 serainer
 serement
 serf
+seringue
 serpent
 servir
 servy
@@ -4013,6 +4107,7 @@ sommes
 son
 songe
 songer
+sons
 sorbir
 sospechon
 soubdain
@@ -4033,6 +4128,7 @@ soubçons
 soucier
 soucy
 soucyer
+souef
 souffisant
 souffreteux
 soufre
@@ -4059,6 +4155,9 @@ soy
 soy-mesmes
 soye
 special
+speciale
+speciales
+speciaulx
 specificque
 sperme
 sphaere
@@ -4104,6 +4203,7 @@ sympathie
 synagogue
 syncere
 syncerité
+syringe
 systeme
 systolicque
 systolicques
@@ -4211,6 +4311,7 @@ tourneroient
 tournoy
 tournoyement
 tournoyer
+tous deux
 tousiours
 tousjours
 tout
@@ -4453,6 +4554,7 @@ vrayes
 vrays
 vraysemblable
 vraysemblablement
+vraysemblables
 vuider
 vulguaire
 vye
@@ -4487,6 +4589,7 @@ zelle
 épithète
 és
 õ
+ü
 ĩ
 œconomique
 œil

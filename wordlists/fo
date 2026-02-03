@@ -1,4 +1,3 @@
-" | Dysnomia
 (innilig) bøn
 -a
 -andi
@@ -368,7 +367,6 @@ Børka
 Bøur
 Búgvi
 Búi
-Charon | style="width: 7.1%
 Cooksoyggjarnar
 D
 Dagbjartur
@@ -511,7 +509,6 @@ Enna
 Enokur
 Erhard
 Erika
-Eris
 Erla
 Erlendur
 Erlingur
@@ -563,6 +560,7 @@ Eyðleyg
 Eyðmar
 Eyðmundur
 Eyðolvur
+Eyðri
 Eyðrið
 Eyðrun
 Eyðstein
@@ -756,8 +754,6 @@ Gundur
 Gunn
 Gunna
 Gunnar
-Gunnarsdóttir
-Gunnarsson
 Gunnbjørg
 Gunnbjørn
 Gunnbrit
@@ -802,6 +798,7 @@ Gøtugjógv
 Gøtuskeggi
 H
 HVDC kaðal
+Haag
 Hagbarður
 Haggai
 Halda
@@ -975,10 +972,12 @@ Húnbogi
 Húngerð
 Húngunn
 Húni
+Húsavík
 I
 IP-adressa
 Ida
 Immanuel
+In the village of Hattarvík
 Ina
 India
 Indiahav
@@ -1015,7 +1014,6 @@ Inna
 Innara Mongolia
 Innaru Suðuroyggjar
 Internet
-IoEuropaGanymedesCallisto
 Irak
 Iran
 Irena
@@ -1051,6 +1049,7 @@ Jaspur
 Jastrið
 Jatmundur
 Jatvarður
+Javnaðarflokkurin
 Jehova Vitni
 Jeltsin
 Jemen
@@ -1162,7 +1161,6 @@ Jøkul
 Jørgun
 Jørmundur
 Jørundur
-Jørðin
 Júlia
 Júlian
 Július
@@ -1177,6 +1175,9 @@ Jútta
 K
 KFUK
 KFUM
+KT
+KT-verkfrøði
+KT-verkfrøðingur
 Kai
 Kaia
 Kairo
@@ -1324,7 +1325,6 @@ Laars
 Laila
 Landsverk
 Landsynningsasia
-Langasandur
 Laos
 Lappland
 Lars
@@ -1502,6 +1502,7 @@ Miðevropa
 Miðgarður
 Miðjarðarhav
 Miðásia
+Mjólkarvegur
 Mjølnir
 Mogadishu
 Moldova
@@ -1522,13 +1523,13 @@ Muskó
 Mykines
 Myrna
 Málfríð
-Mánin
 Máur
 Mækir
 Móritania
 Mórits
 Mórus
 Móses
+Múlafossur
 München
 N
 Naddoddur
@@ -1563,6 +1564,7 @@ Nils
 Nina
 Ninna
 Nita
+Niðhøggur
 Niðurlond
 Njál
 Njálur
@@ -1590,7 +1592,6 @@ Norðuratlantiska Sáttmálafelagsskapurin
 Norðuratlantshav
 Norðurdakota
 Norðurevropa
-Norðurhav
 Norðurháland
 Norðurkorea
 Norðurland
@@ -1702,8 +1703,6 @@ Persaflógva
 Petra
 Petrina
 Petur
-PhobosDeimos
-Pluto
 Poli
 Portugal
 Potter
@@ -1859,8 +1858,6 @@ Saranja
 Sarita
 Saturn
 Sebastian
-Sebastiansdóttir
-Sebastiansson
 Selena
 Selinda
 Selma
@@ -2082,6 +2079,7 @@ Sølvør
 Sørin
 Sørkvi
 Sørli
+Sørvágsvatn
 Súna
 Súnbjørt
 Súnfríð
@@ -2167,7 +2165,6 @@ Treysti
 Trina
 Tripolis
 Tristan
-Triton
 Triðja Mósebók
 Tromsø
 Trondheim
@@ -2342,10 +2339,8 @@ Ytra Mongolia
 Ytru Suðuroyggjar
 Yvonna
 Zefanias
-[Term?]
-[Term?][Term?][Term?][Term?][Term?]
-[Term?][Term?][Term?][Term?][Term?]Titan[Term?]
 a
+a/languages A to L
 abbabarn
 abbabarna
 abbabarnanna
@@ -2368,6 +2363,7 @@ actinium
 adjø
 admirálur
 advent
+advokatur
 afganskur
 afrikaans
 afrikani
@@ -2397,6 +2393,7 @@ afturljóð
 aftursvar
 aftursøgn
 afturvið
+afturímóti
 agað
 agn
 agngágga
@@ -2436,6 +2433,7 @@ akker
 akkerspláss
 akkord
 akkuleya
+akkurát
 aks
 aksil
 akslatræ
@@ -2462,10 +2460,8 @@ albanskur
 albogi
 albógvi
 alda
-aldamót
 aldan
 aldansvín
-aldin
 aldinbori
 aldri
 aldu
@@ -2476,6 +2472,8 @@ alduna
 alduni
 aldunnar
 aldur
+aleina
+aleinaður
 alfa
 alfagur
 alfrøði
@@ -2487,6 +2485,7 @@ alguna
 alhalgunaaftan
 alhanda
 alheimur
+alheimurin
 ali
 alin
 alisfrøði
@@ -2504,6 +2503,7 @@ allur
 almanna
 almannagagnligt endamál
 almannalykil
+almannaráðgevi
 almannastova
 almannaverk
 almennur
@@ -2534,6 +2534,7 @@ altjóða
 altjóða flogvøllur
 altjóðafelagsskapur
 altjóðagerð
+altso
 altíð
 aluminium
 alv
@@ -2589,8 +2590,6 @@ annar hvítusunnudagur
 annar lýsingarháttur
 annar og triðji
 annarhvør
-annarleiðis
-annars
 annaðhvørt
 anorakkur
 ansa eftir
@@ -2606,6 +2605,7 @@ apa
 apaldur
 apassjari
 apotek
+apotekari
 app
 appilsin
 appilsindjús
@@ -2750,7 +2750,9 @@ asnunum
 aspargus
 astatan
 asteriksur
+astigmatisma
 astma
+astronautur
 astronomiskur
 at
 at ...
@@ -2762,6 +2764,8 @@ at vísa reyv
 atamjaðarurt
 atburður
 atdráttarkraft
+atdráttarlóg
+atdráttarmegi
 atfeingi
 atferðarfrøði
 atfinningarsamur
@@ -2770,11 +2774,11 @@ atgerð
 atgongd
 atgongdur
 atgongumerki
-atknýti
 atkomandi
 atkomuleiki
 atkomuviðurskifti
 atkvøða
+atkvøðurættur
 atlas
 atløgubryggja
 atom
@@ -2791,6 +2795,7 @@ av og á
 av tí at
 av-
 avariskt
+avbjóðing
 avbronglan
 avbygd
 avbyrging
@@ -2802,6 +2807,7 @@ avgerandi
 avgerð
 avgerðargrundarlag
 avgjald
+avgjørt
 avgreiðsla
 avgrund
 avgustur
@@ -2830,6 +2836,7 @@ avrik
 avskepla
 avskepling
 avskorið oktaetur
+avslappaður
 avsláttur
 avstaðfaring
 avstraliari
@@ -2850,9 +2857,6 @@ aðalhugtak
 aðalhugtaks
 aðalhugtøk
 aðalkonsul
-aðalmunur
-aðalmál
-aðalregla
 aðalritari
 aðalritstjóri
 aðalroynd
@@ -2862,7 +2866,6 @@ aðalskrivari
 aðalspurningar
 aðalspurnings
 aðalspurningur
-aðaltáttur
 aðrar
 aðrastaðni
 b
@@ -2882,6 +2885,7 @@ bakarí
 bakaður
 bakbeist
 bakdyr
+bakgrund
 bakinum
 bakkalendi
 bakki
@@ -2893,6 +2897,7 @@ bakskák
 baksláttur
 bakspegil
 baksturvøra
+baksýni
 bakur
 baldur
 ball
@@ -2923,10 +2928,13 @@ bani
 banið
 banjo
 banka
+bankakonta
+bankakonto
 bankarnir
 bankaseðil
 banki
 banna
+bannaður
 bar
 bara
 baraldur
@@ -2976,11 +2984,13 @@ barns
 barnsburðarfarloyvi
 barnsburður
 barnsins
+barnslig
+barnsligt
 barnsligur
 barokkur
 barr
 barrskiva
-barrtræ
+barrtænari
 barrvarðar
 barrvørðir
 barrvørður
@@ -3025,6 +3035,7 @@ baðrúm
 baðstova
 be
 beduinur
+behagiligur
 bei
 beiggi
 bein
@@ -3034,6 +3045,7 @@ beinagrind
 beinanvegin
 beinasamur
 beinasemi
+beinaveg
 beinavegin
 beinbrot
 beinbrotskattarklógv
@@ -3071,7 +3083,9 @@ bensin
 bensinstøð
 ber
 bera
+bera fram
 bera saman
+bera til
 berbeinaður
 berbróstað
 berføttur
@@ -3150,12 +3164,15 @@ bilsin
 bilskúr
 bilskúrur
 bilstjóri
+biltúrur
 bilur
 bilverja
 bilverksmiðja
 bind
 binda
+bindimynstur
 binding
+bindingarmynstur
 bindingarstokkur
 bindistrika
 bingja
@@ -3170,7 +3187,6 @@ bingjunum
 bingjur
 bingjurnar
 biografur
-biohøll
 birki
 birta
 biskupsdømi
@@ -3208,10 +3224,10 @@ bjørn
 blak
 blaka
 blaktra
+blanda
 blandingur
 blað
 blaðak
-blaðgrein
 blaðgrøni
 blaðlygn
 blaðlús
@@ -3221,6 +3237,7 @@ blaðs
 blaðtari
 blaðteknara
 blaðteknari
+bleika
 bleikja
 bleikur
 blekk
@@ -3242,6 +3259,7 @@ blindleiki
 blindni
 blindur
 blindur passasjerur
+blinkstra
 blogga
 bloggari
 bloggur
@@ -3252,6 +3270,7 @@ blomstur
 bloti
 bloyta
 blundur
+blunka
 blunkhinna
 blunkljós
 blá
@@ -3260,6 +3279,7 @@ bláari
 bláastur
 bláber
 blábers
+blábleikur
 bládepla
 bládúgva
 blágráur
@@ -3325,6 +3345,7 @@ blóðkorn
 blóðkrabbi
 blóðkroppur
 blóðkykna
+blóðmissur
 blóðmørsdeiggj
 blóðnakin
 blóðpylsa
@@ -3333,7 +3354,6 @@ blóðs
 blóðsdropi
 blóðskemd
 blóðsprongdur
-blóðsukur
 blóðsótt
 blóðtrýst
 blóðtøppur
@@ -3342,6 +3362,7 @@ blóðutur
 bløka
 bløtt
 bløða
+bløðarasjúka
 bløðra
 bløðrutari
 bløðrutyggigummi
@@ -3379,7 +3400,6 @@ borgan
 borgarakríggj
 borgaraligt ólýdni
 borgaraligur
-borgaraskapur
 borgari
 borgarstjóri
 borin
@@ -3403,6 +3423,7 @@ botnfiskiskapur
 botnfiskur
 botnur
 botnvatn
+boxari
 boyggja
 boð
 boða
@@ -3412,7 +3433,6 @@ boðsenda
 boðsháttur
 boðskapur
 boðsveinur
-bragd
 branda
 brandar
 brandgulur
@@ -3425,6 +3445,7 @@ brast
 bratsj
 brattlendi
 brattur
+bregða
 breiddarstig
 breiðastur
 breiðfokka
@@ -3455,6 +3476,7 @@ breskur
 bresta
 bresthetta
 breti
+bretskt
 bretskur
 breyt
 breytargarður
@@ -3536,7 +3558,6 @@ bruni
 brunnin
 brunnur
 bruttosøla
-bruttotjóðarinntøka
 bruttotjóðarúrtøka
 bruttovinningur
 bruður
@@ -3578,6 +3599,7 @@ bróstsjúka
 bróstvørta
 bróta
 bróðir
+bróðurdóttir
 bróðurligur
 bróðurpartur
 bróðursonur
@@ -3669,6 +3691,7 @@ burka
 burt
 burtur
 burturstaddur
+burturvið
 burðar
 burðardyggur
 burðarlækni
@@ -3680,6 +3703,7 @@ bussførari
 bussskýli
 busssteðg
 busssteðgipláss
+busssteðgistað
 busssteðgistaður
 busstúrur
 bussur
@@ -3691,13 +3715,17 @@ bygdarligur
 bygdarmál
 bygdarsøga
 bygdarvegur
+bygdina
 bygdur
 bygg
+byggi-
+byggiarbeiðari
 byggilist
 byggilistafólk
 byggja
 byggkorn
 bygnaðarligur
+bygningsfeilur
 bygningur
 byl
 bylgja
@@ -3705,10 +3733,11 @@ bylgju
 bylgjur
 byrja
 byrjan
+byrjandi
+byrjari
 byrsuhani
 byrsukjaftur
 byrsupípa
-byrsuskot
 byrur
 byrða
 byrði
@@ -3734,7 +3763,9 @@ bátagálgi
 bátastøð
 bátleysur
 bátur
+báðar
 báðir
+báðumegin
 bæs
 bæsa
 bæsandi
@@ -3746,12 +3777,14 @@ bæsti
 bæstu
 bæstur
 bævur
+bæði
 bæði ... og
 bíbil
 bíbilskur
 bíblia
 bíggjarmaður
 bílegging
+bíleggja
 bíligur
 bílæt
 bína
@@ -3765,17 +3798,14 @@ bógvur
 bók
 bóka
 bókabúð
-bókaforlag
 bókahandil
 bókaheimur
 bókahill
-bókakeyp
 bókakápa
 bókar
 bókartræ
 bókartræs
 bókartrø
-bókarøð
 bókasavn
 bókasøla
 bókasølu
@@ -3784,7 +3814,6 @@ bókavarðar
 bókavinur
 bókavørðir
 bókavørður
-bókaútgáva
 bókbindara
 bókbindari
 bókfrøði
@@ -3808,7 +3837,6 @@ bókígða
 bólatari
 bólgna
 bólka
-bólkalimur
 bólkur
 bólkurin
 bólstra
@@ -3826,6 +3854,7 @@ bótarsoð
 bøga
 bøkini
 bøklalava
+bøksl
 bøkum
 bøkunum
 bøkur
@@ -3841,6 +3870,7 @@ bønarorð
 børa
 børan
 børanna
+børkumura
 børkur
 børn
 børnini
@@ -3872,7 +3902,6 @@ búklop
 búkur
 búlendi
 búloyvi
-búmerki
 búnaðarfrøði
 búnaðarfrøðingur
 búnaðarfrøði´
@@ -3897,7 +3926,6 @@ býarligur
 býfluga
 býflugubøli
 býfluguhald
-býfluguvoks
 býta
 býttisligur
 býttlingur
@@ -3908,6 +3936,8 @@ cappuccino
 cider
 d
 d.
+dadda
+daddast
 dadla
 dadlupálmi
 dag
@@ -3962,9 +3992,7 @@ dansur
 dapur
 dapurleiki
 datt
-daughter of Gunnar
 davidur
-days of the week: dagar í vikuni: mánadagur · týsdagur · mikudagur
 de
 degningsæl
 degnum
@@ -3978,6 +4006,7 @@ dekk
 deksbátur
 deld
 delfin
+demensjúka
 deodorantur
 departure
 depil
@@ -3987,6 +4016,8 @@ des
 desember
 desembur
 desi-
+dessert
+detektivur
 detta
 devul
 devulin
@@ -3998,9 +4029,9 @@ deyvligur
 deyvoyra
 deyvur
 deyða-
+deyðableikur
 deyðadrukkin
 deyðafíggindi
-deyðakyrrur
 deyðarevsing
 deyðastrá
 deyði
@@ -4069,6 +4100,8 @@ djúptgangandi
 djúpur
 djús
 do
+dokumentarfilmur
+dokumentarur
 dolkur
 dollari
 donsk
@@ -4129,6 +4162,7 @@ drukkin
 drunnhvíti
 drunnmorreyður
 drykkjustova
+drynja
 dryppa
 dryppari
 dráp
@@ -4151,6 +4185,7 @@ duga tygum enskt?
 dugandi
 dugi
 dugileiki
+dugir
 dugir tú enskt?
 dugnaligum
 dugnaligur
@@ -4187,7 +4222,6 @@ dustsúgvari
 dustsúgvarin
 dustsúgvarum
 dustsúgvarunum
-dustutur
 dvína
 dvøl
 dvørgahetta
@@ -4216,6 +4250,7 @@ dáta
 dátusending
 dátuviðgerð
 díki
+díkimura
 dímunarknútur
 dís
 dómara
@@ -4289,16 +4324,21 @@ edikssýra
 edikur
 edla
 eff
+effektivur
 eftir
 eftir happi og hátíðum
 eftirburður
 eftirferð
 eftirgevin
 eftirgjørdur
+eftirgáa
+eftirgáan
+eftirgáin
 eftirlit
 eftirløn
 eftirlønarmaður
 eftirløningur
+eftirmatur
 eftirnavn
 eftirnavna
 eftirnavnanna
@@ -4311,6 +4351,7 @@ eftirnøvn
 eftirnøvnini
 eftirnøvnum
 eftirnøvnunum
+eftirrættur
 eftirseting
 eftirspurningur
 eftirviðgerð
@@ -4318,6 +4359,7 @@ eg
 eg búgvi í Melbourne
 eg dugi ikki eingilskt
 eg dugi ikki enskt
+eg dugi ikki føroyskt
 eg eiti
 eg eiti Jógvan - my name is Jógvan
 eg elski teg
@@ -4348,6 +4390,7 @@ eggja
 eggjahvíti
 eggjakoppur
 eggjakøka
+eggjan
 eggjareyði
 eggjaskal
 eggklingra
@@ -4356,7 +4399,6 @@ eggplanta
 egilker
 egin
 eginbilur
-eginbúskapur
 eginleiki
 eginogn
 egintelda
@@ -4397,7 +4439,6 @@ ein
 ein og hvør
 ein og tjúgu
 eina
-eina ferð
 einabarn
 einaferð var tað
 einar
@@ -4424,6 +4465,7 @@ eingispretta
 eingjarrósa
 eingjartimotey
 einglar
+eingongd
 einhentur
 einhyrningur
 eini
@@ -4518,7 +4560,6 @@ eldhugi
 eldri
 eldsbruni
 eldslogi
-eldsløkkingur
 eldstaður
 eldur
 elduvíkingur
@@ -4564,6 +4605,7 @@ emirur
 emm
 enda
 endaleysur
+endaliga
 endamál
 endamálsgrein
 endaumfar
@@ -4577,10 +4619,8 @@ endurnýtsla
 endursameining
 endursending
 endursøgn
-endurtaka
 endurtøka
 enn
-enn hann er kroystur til at gera
 enni
 ennigul ont
 ennihvít gás
@@ -4710,8 +4750,8 @@ eyga fyri eyga
 eyga fyri eyga, tonn fyri tonn
 eygatonn
 eygað
-eygleiðing
 eygmorreyður
+eygnabruni
 eygnabrá
 eygnabrúgv
 eygnabrún
@@ -4732,7 +4772,6 @@ eykasýning
 eykasýningar
 eykavinningur
 eyknevna
-eymur
 eyrgrýti
 eyriði
 eyrriða
@@ -4822,6 +4861,7 @@ farin
 fariseari
 farleið
 farmabátur
+farmaceutur
 farmaskip
 farmaskips
 farmavørður
@@ -4864,7 +4904,6 @@ feitta
 feittstift
 feittsúgvandi
 feittut
-feittut hár
 feittutum
 feittutur
 feitur
@@ -4879,20 +4918,32 @@ felagsligur
 felagslimur
 felagsmongd
 felagsnavn
+felagsráðgevi
 felagsskapur
 felagssongur
 fella
 felliskráka
 fen
+fena
+fenanna
 fenaður
 fenbressa
 fendíki
 fenheykur
+feni
+fenini
+feninum
+fenið
 fenjutur
+fens
+fensins
+fenum
+fenunum
 fepur
 fepurstokkur
 fer
 ferastaknútur
+feria
 ferja
 ferju
 ferjur
@@ -4919,6 +4970,7 @@ ferðataska
 ferðavinna
 ferðaætlan
 ferðingarhetta
+ferðmark
 ferðmálari
 ferðmátari
 ferðsla
@@ -4927,6 +4979,9 @@ ferðsluljós
 ferðsluskelti
 ferðslutalva
 ferðslutøppur
+ferðsluvanlukka
+ferðsluvanlukku
+ferðsluvanlukkuni
 ferðsluótýggi
 ferðugur
 fesk súpan
@@ -4946,7 +5001,6 @@ fikublað
 fikutræ
 filistari
 filmar
-filmframleiðari
 filmir
 films
 filmsjónleikara
@@ -5037,7 +5091,6 @@ fiskur
 fita
 fiti
 fitievni
-fitikendur
 fitikertil
 fitiloysin
 fitilókur
@@ -5059,8 +5112,6 @@ fjallafípa
 fjallagrevlingur
 fjallakambur
 fjallalendi
-fjallaríkur
-fjallarøð
 fjallarýpa
 fjallaskarð
 fjallasúkkla
@@ -5089,6 +5140,7 @@ fjarskiftismiðil
 fjarskiftissamband
 fjarskiftistænasta
 fjarstaddur
+fjarstøða
 fjarstýra
 fjarstýrari
 fjarstýrdur
@@ -5107,7 +5159,6 @@ fjaðrar
 fjaðurbóltur
 fjaðurpennur
 fjeppari
-fjálgur
 fjórsíðstur
 fjórða
 fjórða royvildið
@@ -5116,9 +5167,10 @@ fjórðingur
 fjórðu
 fjórðungsvegur
 fjós
-fjølbroytni
 fjøll
+fjøllittur
 fjøllum
+fjøllunum
 fjølmentan
 fjølmentanarstevna
 fjølmiðil
@@ -5134,10 +5186,12 @@ fjørvetur as in í fjørvetur
 fjørvár as in í fjørvár
 fjørð
 fjørður
+fjøtur
 fjøður
 fjøðurdýna
 fjøðurpennur
 fjúrtan
+fjúrtandi
 fjús
 fl.
 flaga
@@ -5157,7 +5211,6 @@ flatlendi
 flatlús
 flatur
 fleiri
-fleiri ferðir
 fleirmælingur
 fleirmæltur
 fleirtal
@@ -5248,6 +5301,7 @@ flyta
 flyta seg
 flytifuglur
 flæmingur
+flætta
 flís
 flógvi
 flógvur
@@ -5261,10 +5315,10 @@ fløga
 fløgubrennari
 fløguspælari
 fløkja
+fløkjasligur
 fløktur
 fløska
 fløskugass
-fløskuhill
 fløtt
 fløttur
 fløva
@@ -5282,11 +5336,12 @@ fokkaður
 fokn
 fola
 foli
+folinsýra
 fongsul
 fonn
 forberg
+forbjóða
 forboðin
-forbrongla
 fordómur
 foreldrafundur
 foreldraloysingur
@@ -5294,11 +5349,10 @@ foreldur
 forelska
 forfallin
 forfaðir
-forganga
+forgrund
 forhúð
-forklaga
+forklára
 forkvinna
-forkøla
 forkølaður
 forlykt
 form.
@@ -5310,7 +5364,6 @@ formæli
 fornavn
 fornenskt
 fornfrøði
-fornfrøðingur
 fornføroyskt
 fornføroyskur
 forngrikskt
@@ -5332,7 +5385,7 @@ forstanda
 forsætisráðharri
 forsøga
 forsøgn
-fortala
+forsøguligur
 fortaldi
 fortaldu
 fortaldur
@@ -5346,6 +5399,7 @@ fortelur
 fortíð
 fortún
 forvinningur
+forvirra
 forvitin
 forða
 fosfor
@@ -5371,11 +5425,9 @@ framan
 framasøkin
 framburður
 framfaks
-framføra
 framførsla
 framførsluhús
 framgongd
-framhald
 framhaldandi
 framhaldssøga
 frami
@@ -5390,10 +5442,13 @@ framleiðsluskattur
 framleiðslustudningur
 framleiðsluvirði
 framløga
+framman fyri
+frammanfyri
 frammanífrá
 frammorreyður
 framrútur
 framsýna
+framsýni
 framsýning
 framsýningar
 framsýningarhøll
@@ -5402,12 +5457,13 @@ framtonn
 framtíð
 framtíðar lýsingarháttur
 framtøkur
+framum
 framvegis
+framúr
 framúrskarandi eginleiki
 fransaterna
-fransbreyð
+fransbreyð franskur franskbreyð
 fransium
-franskbreyð
 franskt
 franskur
 fransmaður
@@ -5438,11 +5494,14 @@ fremmandur
 fremri
 fremstifingur
 fremstur
+fretur
+frisørur
 friðarligur
 friðarmillumgongufólk
 friðarrørsla
 friður
 fronsk
+frosin
 froskaegg
 froskar
 froskaslag
@@ -5463,8 +5522,6 @@ froysa
 froða
 frukt
 frukt súlta
-fruktkroppur
-fruktsaft
 fruktsevja
 frukttræ
 frukttræs
@@ -5477,17 +5534,11 @@ frumframførslur
 frumframsýning
 frumgermanskt
 frumindoevropeiskt
-frummerking
-frummynd
 frumneyt
 frumnorrønt
-frumnorrønur
 frumskógur
 frumsnið
 frumsøgn
-frumsýning
-frumtal
-frumtekstur
 fruntur
 fryntligur
 frysta
@@ -5504,6 +5555,7 @@ fráhaldsrørsla
 fráleikamálari
 fráleiki
 frálæra
+frálíka
 frálíkur
 frástøðumálari
 frásøga
@@ -5511,7 +5563,6 @@ frásøgn
 frásøgufólk
 fræ
 frægur
-frækorn
 frælsi
 frælsir
 frælsishetja
@@ -5534,7 +5585,9 @@ frísiskt
 frísiskur
 frískur
 fríspark
+fríteinkjari
 frítt er Eysturfelli frá at fara
+frítíð
 frítíðarheim
 fríur
 fríður
@@ -5559,7 +5612,6 @@ fuglalús
 fuglaslag
 fuglasúpan
 fuglaveiða
-fuglaætt
 fuglfirðingur
 fugloyingur
 fuglur
@@ -5571,8 +5623,8 @@ fullfíggjaður
 fullgjølla
 fullgjørdur
 fullkomin
-fullkorn
 fullur
+fullveldi
 fundarboð
 fundarbók
 fundardagur
@@ -5624,6 +5676,7 @@ fyribeiningarfylgi
 fyribils
 fyribrigdi
 fyribyrging
+fyribyrgja
 fyridømi
 fyriklæði
 fyrikoming
@@ -5642,9 +5695,6 @@ fyrisøguligur
 fyritøka
 fyrr
 fyrr enn
-fyrra a
-fyrra i
-fyrra í
 fyrradagin
 fyrrapartur
 fyrri
@@ -5665,7 +5715,9 @@ fáa at rísa
 fáa av sær
 fáa eldhuga
 fáa nýtslu úr
+fáa prógv
 fáa til sættar og semju
+fáa útbúgving
 fáir
 fákunna
 fálkur
@@ -5693,7 +5745,6 @@ fíggindskapur
 fíggingarmøguleiki
 fíggja
 fíggjar-
-fíggjarfrøðingur
 fíggjarligur
 fíggjarmál
 fíggjarsvik
@@ -5707,6 +5758,7 @@ fínthakkaður
 fínur
 fólk
 fólkaatkvøða
+fólkadráp
 fólkaflytingatíðin
 fólkafundur
 fólkalívsfrøði
@@ -5751,6 +5803,7 @@ fótur
 fóðra
 fóður
 fóðurtari
+føddur
 føla
 følna
 følnar
@@ -5768,7 +5821,6 @@ førlús
 føroyakort
 føroyaskøra
 føroyingar
-føroyingar vóru illa kroystir av sjórænarum
 føroyingur
 føroysk
 føroyska
@@ -5790,6 +5842,7 @@ føðilandsvinur
 føðing
 føðingardagur
 føðingarstova
+føðistaður
 føðitíttleiki
 fúka
 fúnaður
@@ -5805,7 +5858,6 @@ fýlum
 fýra
 fýra og hálvtrýss
 fýrikur
-fýrisligur
 fýrs
 fýrstaður
 fýrur
@@ -5839,6 +5891,8 @@ gammur
 ganda
 gandakallur
 gandakelling
+gandakendur
+gandakent
 gandur
 ganga
 ganga á høkjum
@@ -5848,6 +5902,7 @@ gangið
 gardina
 garn
 garnasótt
+garði
 garður
 gass
 gassa
@@ -5863,6 +5918,7 @@ gassskortur
 gasstangaskip
 gasstól
 gat
+gavst
 ge
 gedda
 gegl
@@ -5875,6 +5931,7 @@ geislavirkin
 geislavirkið avfall
 geislavirkni
 geislaviðgerð
+geisling
 geisp
 geispa
 geit
@@ -5892,6 +5949,7 @@ geldingur
 geldskrápur
 geldur hani
 gemsa
+generalur
 genta
 gentubátur
 gentukór
@@ -5907,8 +5965,9 @@ gera gott aftur
 gera herverk
 gera nógv burtur úr ongum
 gera pá
-gera seg heiman
 gera seg inn á
+gera í ørviti
+gerandis
 gerast
 gerast hovin og trútin
 germani
@@ -5930,14 +5989,17 @@ gestur
 geva
 geva bróst
 geva dømi um
+geva eftir
 geva ein undir vangan
 geva gávu
 geva lyfti
 geva rætt til
 geva tittul
 geva upp ond
+geva út
 gevan
 gevast
+geykn
 geykur
 geymi
 geypa
@@ -5946,6 +6008,7 @@ geypur
 gift
 gifta
 gifta seg
+giftast
 giftur
 gikt
 giktarrunnur
@@ -5966,12 +6029,14 @@ girnast
 girnd
 girndarhugur
 girstong
+girða
 girðing
 gista
 gistingarhús
 gita
 gitin
 gitnaður
+givið
 gjald
 gjalda
 gjaldkort
@@ -6018,10 +6083,7 @@ glað
 glaðlyntur
 glaður
 gleppa
-glerhella
-glering
 glerpípa
-glerseting
 gletta
 gleða
 gleði
@@ -6069,8 +6131,8 @@ glóð
 gløa
 gløgg
 gløggur
-gløgt er gestsins eyga -
 gløða
+gnagdjór
 gnagdýr
 gneggja
 gnelliskjóra
@@ -6092,6 +6154,7 @@ gongubrúgv
 gongugøta
 gongur
 gongustjørna
+gongustjørnur
 gongutúrur
 gonguvegur
 gor
@@ -6121,18 +6184,22 @@ goymsluvirði
 goys
 goysa
 goði
+grafikari
+grafisk sniðgeving
 grafiskur
 grafiskur samleiki
 gramla
 grammleiki
 grammofon
 granatepli
+grand danois
 grann
 grannabygd
 grannalag
 grannaoyggj
 granni
 grannkongul
+grannljómari
 grannlýsi
 grannskoðari
 granntræ
@@ -6141,6 +6208,7 @@ granntrø
 grannviður
 granska
 granskan
+granskari
 gransking
 granskingarætlan
 gras
@@ -6158,9 +6226,12 @@ grastúgva
 grasætt
 grava
 gravarferð
+gravhundur
 gravhús
+gravitationslæra
 gravkúgv
 graður
+grefligur
 grein
 greina
 greinandi
@@ -6220,6 +6291,7 @@ grulva
 grundarlag
 grundarsteinur
 grundhugsan
+grundleggjandi
 grundleggjandi eginleiki
 grundleggjandi førleiki
 grundleggjandi kunnleiki
@@ -6235,6 +6307,7 @@ grunnlús
 grunnskygdur
 gráari
 gráastur
+grábleikur
 grábrúnur
 grábøka
 grábøkut ont
@@ -6249,8 +6322,8 @@ grárognkelsi
 gráskrápur
 gráspurvur
 grásvartur
-grát ei
 gráta
+grátkomin
 grátt
 grátt undir steini
 grátur
@@ -6258,6 +6331,7 @@ grátítlingur
 gráur
 grækarismessa
 grælingur
+græt
 grætur
 gríma
 grína
@@ -6273,7 +6347,6 @@ grótbrúgv
 grótbrúgvar
 grótbrýr
 grótgarður
-grótharður
 gróthús
 grótlendi
 grótlús
@@ -6283,7 +6356,6 @@ gróðrarlendi
 gróður
 grøn
 grøna
-grønakorn
 grønar
 grønar drúvur
 grønari
@@ -6334,7 +6406,6 @@ grýtutur
 gudalæra
 gudasøgn
 gudfrøði
-gudfrøðingur
 gudloysi
 gudsspottandi
 gudstænasta
@@ -6356,6 +6427,7 @@ gull
 gullasj
 gullittur
 gulllaksur
+gullmura
 gullringur
 gullsmiður
 gullsólja
@@ -6381,6 +6453,9 @@ gyllin
 gyllir
 gyltur
 gyðja
+gáa
+gáaliga
+gáast
 gágga
 gággagn
 gágguagn
@@ -6403,23 +6478,43 @@ gágguskip
 gággusogin
 gággutrog
 gáin
+gáleysur
 gálgi
+gáloysi
+gáloysiliga
+gáloysni
 gálv
 gálva
 gás
+gásamura
 gásaregg
 gásareyga
 gásarhold
 gásarkjaftur
+gásarungi
 gásasteggi
 gáta
 gátuførur
 gáva
+gávan
+gávu
 gávukort
+gávukorti
+gávukortini
+gávukortinum
+gávukortið
+gávukorts
+gávukortsins
+gávum
+gávuna
+gávuni
+gávunnar
 gávur
+gávurnar
 gæliskt
 gæliskur
 gæs
+gætur
 gævi
 gíggja
 gírni
@@ -6435,9 +6530,9 @@ góða ferð
 góða nátt
 góða ólavsøku
 góðan dag
-góðan daginn
 góðan morgun
 góðan seinnapart
+góðbiti
 góðgæti
 góði
 góðs
@@ -6451,9 +6546,12 @@ gøta
 gøtudanskt
 gøtugrái
 gøtumaður
+gøtumusikantur
+gøtuna
 gøtunavnaskelti
 gøtuskeggi
 gøtuskuri
+gøtutónleikari
 gýtt
 gýðingahatur
 gýðingur
@@ -6483,10 +6581,12 @@ hala
 halabein
 halafaks
 halapadda
+hald
 halda
 halda fyri gjøldur
 halda á
 halga
+halgidagur
 halgiskrín
 halgur
 hali
@@ -6530,7 +6630,6 @@ handilssveinur
 handilsvinna
 handilsviður
 handklæði
-handla
 handleggur
 handrit
 handskarúm
@@ -6545,7 +6644,6 @@ hani
 hann
 hann er sum útnyrðingur -
 hann er útnyrðingur -
-hann ger ikki meira
 hann skal eitast at ...
 hans
 hansara
@@ -6568,6 +6666,7 @@ harraborg
 harri
 hart
 harta
+harumframt
 haruætt
 harva
 harðdiskur
@@ -6579,6 +6678,7 @@ harður
 hasin
 hassj
 hastiligur
+hasumegin
 hata
 hatandi
 hatað
@@ -6600,6 +6700,7 @@ hava orðaskifti
 hava samlegu
 hava tilknýti til
 hava tygum ...?
+hava uppiborið
 hava áhuga
 havandi
 havbátur
@@ -6633,7 +6734,6 @@ havrimjøl
 havsbotnur
 havsbrúgv
 havsbrún
-havsfiskur
 havsild
 havskip
 havskrápur
@@ -6655,6 +6755,7 @@ heggtræ n [tree]
 heggur m [tree]
 heglingsæl
 heglingur
+hegn
 hegni
 hegnigur
 hegnpeli
@@ -6675,7 +6776,7 @@ heilsugevandi
 heilsugóður
 heilsuligur
 heilsuviðgerð
-heilsøla
+heilt
 heilt nakin
 heilur
 heim
@@ -6696,7 +6797,7 @@ heimasíða
 heimbygd
 heimbýli
 heimild
-heimildarrit
+heimildarfilmur
 heimildarsvik
 heimin
 heimkunnleiki
@@ -6705,7 +6806,6 @@ heimlandinum
 heimleysur
 heimligur
 heimsfarsótt
-heimsfrumsýning
 heimsknøttur
 heimskort
 heimskreppa
@@ -6743,6 +6843,7 @@ heiðurslimur
 heiðursløn
 heiðursløn Nobels
 heiðursmerki
+hekkla
 heldur
 heldur ikki
 heldur nógvur
@@ -6750,7 +6851,6 @@ helheimur
 helium
 helli
 hellisbúgvi
-hellisloft
 hellubotnur
 help
 helper
@@ -6761,7 +6861,6 @@ helviti
 helvt
 hemar
 hemari
-hence
 henda
 hendan
 hendi
@@ -6779,14 +6878,19 @@ hepta-
 her
 herbergi
 herbúni
+herdur
 herfrøði
 herfuglur
+herfólk
 herja
 herja á
+herkvinna
 herlið
+hermari
 hermaður
 hermikráka
 herming
+hernaðarligur
 heroin
 herseting
 herskip
@@ -6821,6 +6925,7 @@ hestasveinur
 heststyrki
 hestur
 hesum
+hesumegin
 hetja
 hetjuligur
 hetlendingur
@@ -6850,6 +6955,7 @@ higst
 higsta
 hildið
 hill
+hilniseiður
 himin
 himinjaðari
 himinknøttur
@@ -6872,6 +6978,7 @@ hinir
 hinna
 hinskynd
 hinskyndur
+hinumegin
 hinvegin
 hiplingur
 hiri motu
@@ -7030,7 +7137,6 @@ hjartaylur
 hjá
 hjá sær
 hjá teimum
-hjáhjálp
 hjákráka
 hjáljóð
 hjálmur
@@ -7077,8 +7183,6 @@ holubúgvi
 holudúgva
 home: hús
 hon
-hon kroysti barnið inn at sær og kysti tað
-hon kroysti hendurnar saman
 hond
 hondbremsa
 hondklæði
@@ -7107,6 +7211,7 @@ horvið
 hosa
 hosta
 house
+hov
 hovna
 hoyballa
 hoyfepur
@@ -7125,6 +7230,7 @@ hoyvíkingur
 hug
 huga
 hugagóður
+hugaheimur
 hugar
 hugarensl
 hugarnar
@@ -7179,6 +7285,8 @@ hunangsmánaður
 hunangur
 hunda-
 hundadagar
+hundapassari
+hundareim
 hundasjúka
 hundasjúkur
 hundaøði
@@ -7219,6 +7327,7 @@ hvat
 hvat eitur tað á enskum
 hvat eitur tað á enskum?
 hvat er klokkan?
+hvat fyri
 hvat gert tú?
 hvat kostar tað
 hvat kostar tað?
@@ -7301,6 +7410,7 @@ hvør veit?
 hvørfall
 hvørfals-
 hvørgin
+hvørgumegin
 hvørjum
 hvørjumfall
 hvørjumfals-
@@ -7341,7 +7451,12 @@ hálendingur
 hálendskt
 hálendskur
 hálka
+háls
+hálsar
+hálseitil
 hálshøgga
+hálsi
+hálsilska
 hálsketa
 hálsklútur
 hálslækni
@@ -7373,10 +7488,13 @@ hálvtak
 hálvtrýss
 hálvtóni
 hálvur
-hálvur annar
 hálvurannar
 hálvøld
 hámark
+hámarks-
+hámarksferð
+hámarkslongd
+hámarksorka
 hámiðøld
 hár
 hárfríðkan
@@ -7396,6 +7514,7 @@ háskúlarørsla
 háskúli
 hástig
 hástórur
+hásummar
 hátalari
 hátignarligur
 hátt
@@ -7407,6 +7526,7 @@ hátíðarligur
 hátøkni
 hátún
 háur
+hávirðing
 hávur
 háðan
 hædd
@@ -7444,10 +7564,13 @@ hóskvøld
 hósmorgun
 hósvíkingur
 hótta
+hóttandi
 hóttur
+hóva
 hóvjarn
 hóvspor
 hóvur
+høgari
 høgga
 høggmynd
 høggormur
@@ -7460,7 +7583,9 @@ høgravendur
 høgravíðgongdur
 høgrhentur
 høgri
+høgrumegin
 høgt
+høgtíð
 høgur
 høgætt
 høka
@@ -7482,11 +7607,13 @@ høsnakjøtssuppa
 høsnaregg
 høsnarungi
 høsnasuppa
+høsnasúpan
 høsnutur
 høv
 høvd
 høvdadýna
 høvdingi
+høvdið
 høvdu
 høvi
 høvil
@@ -7538,6 +7665,7 @@ húsfólk
 húsgøgn
 húshald
 húsi
+húskallur
 húsketta
 húski
 húskøttur
@@ -7585,6 +7713,7 @@ illgerð
 illgerðamaður
 illgongdur
 illgruna
+illgrunasamur
 illgrundaður
 illgruni
 illgrýti
@@ -7601,6 +7730,7 @@ ilska
 ilskur
 ilt
 imbrimil
+imponera
 inda
 indari
 indi
@@ -7619,7 +7749,6 @@ innangarðsjørð
 innanhýsis
 innanveggja
 innaní
-innari
 innastur
 innbjóðing
 innbrot
@@ -7631,8 +7760,8 @@ inngangur
 inngongd
 innhjólaður
 inni
+innibleikur
 innibátur
-innihald
 innihaldsyvirlit
 innilig bøn
 innilig umsókn
@@ -7640,14 +7769,18 @@ innivist
 innkast
 innkeypskurv
 innkoyringarbreyt
+innlendis
 innlendskur
 innlit
+innrætting
 innskaraður
 innskot
 innspræning
 inntøka
+innvortis
 innvølur
 insest
+interessa
 internetsamband
 iranskur
 iridium
@@ -7815,14 +7948,19 @@ juta
 játa
 játta
 jóansøka
+jóansøkudagur
 jóansøkugrasfræ
 jói
 jól
 jólaaftan
+jólaaftansdagur
+jólaaftansdøgurði
 jólabygd
 jólabýur
 jóladagur
 jólaføsta
+jólagáva
+jólagávu
 jólaheilsan
 jólakalendari
 jólakort
@@ -7858,6 +7996,7 @@ júst
 júti
 jútskur
 k
+kabinett
 kadmium
 kaffi
 kaffihús
@@ -7916,11 +8055,14 @@ kamfur
 kampannaknútur
 kampingbilur
 kampingvognur
+kanadiari
+kanadiskur
 kanadiskur fótbóltur
 kanarjufuglur
 kanel
 kanelsnigil
 kanin
+kann
 kanna
 kannan
 kanning
@@ -7964,6 +8106,7 @@ kassi
 kast
 kasta
 kasta sær av vatninum
+kasta uppá
 kastanja
 kastanjutræ
 kastivindur
@@ -8023,6 +8166,7 @@ kelda
 keldufar
 keldumál
 keldupennur
+kelidjór
 kelling
 kellingartari
 kelti
@@ -8049,10 +8193,12 @@ kensluloysi
 keppur
 kerta
 kertiljós
+kervi
 kerúbur
 kesjva
 keta
 ketil
+ketsjupp
 ketta
 kettjari
 kettjup
@@ -8072,7 +8218,6 @@ keypmannahavningur
 keypmannaskúli
 keypmansskapur
 keypmaður
-keypsla
 keypsorka
 keða
 keðiligur
@@ -8114,7 +8259,6 @@ kirsubers
 kista
 kitla
 kivifrukt
-kjafftur
 kjafthvít
 kjafthvíta
 kjafthvítan
@@ -8136,6 +8280,7 @@ kjallarahædd
 kjallari
 kjalllámur
 kjamorro
+kjansur
 kjarnahús
 kjarnandgerð
 kjarnasýra
@@ -8183,7 +8328,6 @@ kjøtgóður
 kjøthandil
 kjøthjallur
 kjøthús
-kjøtigur
 kjøtkaka
 kjøtkendur
 kjøtkráka
@@ -8194,7 +8338,6 @@ kjøtlimur
 kjøtlíknandi
 kjøtmaskina
 kjøtmatur
-kjøtmikil
 kjøtmoli
 kjøtmortari
 kjøtmáltíð
@@ -8220,7 +8363,6 @@ kjøttugga
 kjøttyngi
 kjøttægr
 kjøttíð
-kjøtutur
 kjøtverður
 kjøtviðskeri
 kjøtvøra
@@ -8240,6 +8382,7 @@ klappan
 klapping
 klarinett
 klasi
+klaver
 kleggi
 kleima
 kleimandi
@@ -8335,7 +8478,7 @@ knáur
 knæ
 knæsbót
 knívur
-knívur mátti ikki fara í mjólk - bert skeið ella spónur og krúss - a knife may never go in milk - only scoop
+knívur mátti ikki fara í mjólk - bert skeið ella spónur og krúss
 knópsvanur
 knørr
 knørrur
@@ -8349,8 +8492,6 @@ knútakoyril
 knútakál
 knútur
 knýta
-knýta saman
-knýting
 kobolt
 kodda
 koddar
@@ -8391,10 +8532,14 @@ koløld
 kom
 koma
 koma aftur
+koma fram á
 koma niður á flogvøllin
 koma til lands
+koma til sjóndar
 koma til sættar og semju
+koma undan
 koma í staðin fyri
+koma óvart á
 kombikk
 komfýrur
 komi
@@ -8404,13 +8549,13 @@ kommaseting
 kommavilla
 kommuna
 kommunisma
-kommunubúskapur
 kommunulækni
 kommunurnar
 komplekst tal
 komst
 komu
 kona
+kondiskógvur
 kondittarí
 kongadóttir
 kongafiskur
@@ -8425,7 +8570,6 @@ kongskrúna
 kongsríki
 kongsstavur
 kongsveldi
-kongul
 konguligur
 kongur
 kongurvág
@@ -8531,6 +8675,7 @@ krambúðarsveinur
 kransur
 krapi
 kravgonga
+kreativur
 kredda
 krem
 kremini
@@ -8545,6 +8690,7 @@ kringin
 kringur
 kringvarp
 kristiligur
+kristin
 kristindómur
 kristna
 kristnandi
@@ -8579,7 +8725,6 @@ krossur
 krossvegur
 krovl
 kroysta
-kroysta knetti
 krunkur
 krutl
 krutt
@@ -8633,6 +8778,7 @@ krókutur
 króna
 krónur
 krønika
+krúllutur
 krúna
 krúnhjørtur
 krúnprinsessa
@@ -8661,12 +8807,15 @@ kumpass
 kumpassrósa
 kumys
 kundi
+kundu
 kunna
 kunngerð
 kunning
 kunningarstova
+kunningartøkni
 kunnleikamálaráðharri
 kunnleiki
+kunnu
 kunoyingur
 kunstur
 kunta
@@ -8676,21 +8825,23 @@ kurdiskur
 kurium
 kurla
 kursjetta
+kursvinningur
 kurv
 kurvablómuætt
 kurvabóltur
+kurvbóltur
 kusa
 kustur
 kvagg
 kvala
 kvalast
+kvalmandi
 kvantuástøði
 kvarkur
 kvartalaskifti
 kvarts
 kvað
 kveiki
-kveikja
 kvennkyn
 kvennljón
 kvennmaður
@@ -8703,8 +8854,10 @@ kviksilvur
 kvikur
 kvinna
 kvinnukór
+kvinnuligheit
 kvinnuligur
 kvinnurørsla
+kvinnuskapur
 kvintsirkul
 kvirra
 kvirrur
@@ -8741,16 +8894,15 @@ kyknusaft
 kyknuslim
 kyknuveggur
 kyksilvur
+kymriskt
 kyn
-kynda
 kyndarbrotsmaður
 kyndil
 kyndilsmessa
-kyndilsmessuaftan (1 February)
+kyndilsmessuaftan
 kyndilsmessubygd
 kyndilsmessudagur
 kyndilsmessuknútur
-kyndilsmessuknútur (19. January)
 kyndilsmessukvøld
 kyndilsmessukúgv
 kyndilsmessulandsstýrið
@@ -8850,7 +9002,6 @@ kórdrongur
 kórgátt
 kórharri
 kórleiðari
-kórlimur
 kórrimar
 kórsangari
 kórsbróðir
@@ -8917,6 +9068,8 @@ laggunum
 lagna
 lagnustund
 lagt
+lak
+lakbleikur
 laki
 lakk
 laksaaling
@@ -8949,13 +9102,10 @@ landgrunnur
 landið
 landkort
 landkráka
-landkyrra
 landnyrðingur
 landnámsbygd
 landoddi
 landsbygd
-landsbókavørður
-landsbúskapur
 landsdystur
 landsfelag
 landsfelagsskapur
@@ -8979,12 +9129,20 @@ langabbasonur
 langabbi
 langafríggjadagur
 langavi
-langferð
-langhús
 langmotta
 langomma
 langskel
 langskip
+langskipa
+langskipanna
+langskipi
+langskipini
+langskipinum
+langskipið
+langskips
+langskipsins
+langskipum
+langskipunum
 langspjót
 langt
 langt síðan
@@ -9007,6 +9165,7 @@ lat meg fáa hetta
 lata
 lata aftur
 lata upp
+latið
 latur
 latín
 latínskur
@@ -9028,14 +9187,20 @@ laðsins
 lega
 leggir
 leggja
+leggja aftrat
 leggja at
+leggja eftir [sær]
 leggja eygað í pung
 leggja frá sær
 leggja hald á
+leggja høvdið á blokkin
+leggja merki til
 leggja rygg til
 leggja seg á knæ
+leggja seg út í
 leggja á
 leggja árarnar inn
+leggja út
 leggsýra
 leggur
 legugrýti
@@ -9053,7 +9218,6 @@ leiksystkin
 leiksýning
 leiksýningar
 leikur
-leikverk
 leingi
 leir
 leirvíkingur
@@ -9102,6 +9266,7 @@ letti
 lettiskt
 lettiskur
 letur
+levera
 levsa
 leygardagin
 leygardagur
@@ -9142,10 +9307,13 @@ liggja
 liggur
 ligið
 likamságangur
+likinda
 likka
 likkutútur
+liknandi
 liktinsteinskur
 lilja
+lillaður
 lim
 lima
 limabólkur
@@ -9177,10 +9345,12 @@ linna
 linur
 liri
 lispund
+lissa
 list
 listakona
 listakvinna
 listamaður
+listasavn
 listateigur
 listaverk
 listfrøði
@@ -9202,11 +9372,15 @@ litri
 litur
 liturgiskur
 liva
+liva seg inn í
+livandi
 livibreyð
+livna
 livur
 lið
 liðabruni
 liðadýr
+liðagikt
 liðin
 liðið
 liðmjúkur
@@ -9217,12 +9391,14 @@ ljómari
 ljómaringur
 ljón
 ljós
+ljósa-
 ljósablágráur
 ljósablátt
 ljósabláur
 ljósabrúnari
 ljósabrúnur
 ljósaflekkutur
+ljósagarn
 ljósagrá
 ljósagráur
 ljósagrønur
@@ -9234,7 +9410,6 @@ ljósareyður
 ljósatendring
 ljósbrot
 ljósbrúngulur
-ljósbákn
 ljósevni
 ljósfrøði
 ljósgeisli
@@ -9316,7 +9491,6 @@ loyniferðafólk
 loynikeypmaður
 loyniorð
 loynispeki
-loynitræ
 loynivegur
 loypa
 loypingur
@@ -9409,8 +9583,6 @@ lutetium
 lutfalsleika
 lutfalsleikar
 lutfalsleiki
-lutfalsligur
-lutfalsval
 luttaka
 luttur
 luttøka
@@ -9454,11 +9626,13 @@ látin
 látur
 láturkobbi
 láturkópur
+láturmildur
 láum
 læ
 læa
 lægd
 lækkandi
+lækna
 læknabládepla
 læknaeirisgras
 læknafelag
@@ -9485,6 +9659,7 @@ lærmønuverkur
 lærubók
 lærusveinur
 læsa
+læsa av
 læsarabræv
 lætna
 lætt
@@ -9509,6 +9684,7 @@ líggjarnir
 líggjum
 líggjunum
 lík
+líka
 líkasum
 líkasæla
 líkasælur
@@ -9546,6 +9722,7 @@ líkur
 líkvagnur
 líkverja
 líkvognur
+lím
 líma
 lín
 lína
@@ -9615,8 +9792,8 @@ líð
 líða
 lóg
 lógarbrot
+lógarbroyting
 lógbrótari
-lógmaður
 lógsøkja
 lógu
 lógv
@@ -9668,6 +9845,7 @@ løtuvinningur
 løva
 løð
 løða
+løðari
 løðini
 løðum
 løðunum
@@ -9721,6 +9899,7 @@ maisarkorn
 maisarmjøl
 maisflykra
 maismjøl
+majones
 majonesa
 makaskjal
 maki
@@ -9729,7 +9908,6 @@ makligur
 makrel
 makrelfiskiskapur
 makrelur
-makt
 makur
 mala
 malajalam
@@ -9743,6 +9921,7 @@ man
 mandarin
 mandarinur
 mandla
+mandlubruni
 manga takk
 mangan
 manglandi neyvleiki
@@ -9751,6 +9930,7 @@ mangur
 mann
 manna
 mannaask
+mannaheimur
 mannakærleiki
 mannarættindi
 mannatrekkur
@@ -9795,7 +9975,6 @@ marmor
 marmorbleikur
 marra
 mars
-marsipan
 marsvín
 marur
 marxisma
@@ -9852,6 +10031,7 @@ megi
 megin
 megin-
 megingjørð
+meginheimur
 meginland
 meginlandarák
 meginlívæðr
@@ -9866,6 +10046,7 @@ meiningin við lívinum
 meinviti
 meir
 meira
+meirilutamál
 meistari
 meitilberg
 meiðsla
@@ -9955,13 +10136,18 @@ minkingarorð
 minna
 minnast
 minni
+minnilutamál
+minnisleysur (forgetful; absent-minded
 minnislutir
 minnislutur
+minnisríkur
+minnissvinn
 minuttur
 mirakul
 mis-
 misbrúka
 miseydnast
+misgáa
 mishátti dunnuungin
 misháttur
 miskunnarleysur
@@ -9978,6 +10164,7 @@ mistrúgv
 mistur
 misálit
 mitt
+mitt í
 miðaldarborg
 miðaldarlatín
 miðaldarpart
@@ -9994,6 +10181,8 @@ miðjumjáur
 miðkringur
 miðriv
 miðsalt vatn
+miðskeiðis
+miðstaður
 miðstig
 miðsøkin
 miðøld
@@ -10014,7 +10203,6 @@ mjólkarsukur
 mjólkarsólja
 mjólkarsós
 mjólkarsýra
-mjólkarvegur
 mjólkarvirki
 mjólkgreytur
 mjóma
@@ -10044,10 +10232,12 @@ molybden
 momma
 mommuepl
 mon
+monarki
 mongoli
 mongoltítlingur
 mongu
 monnum
+mops
 morber
 morberjalitur
 morberjatræ
@@ -10088,7 +10278,6 @@ mostir
 motorakfar
 motorbátur
 motormaður
-motorpassari
 motorsúkkla
 motorsúkklistur
 motorur
@@ -10107,17 +10296,14 @@ mu
 mugu
 mumia
 muna
+munagóður
 munandi
 munda
 mundi
-mundu
 munkur
 munna
-munnað
 munnharpa
 munnhørpa
-munni
-munnu
 munnum
 munnur
 munum
@@ -10125,7 +10311,6 @@ mununum
 munur
 mura
 murtur
-muskatnøt
 muskatnøtar
 muskatnøtir
 muskatt
@@ -10148,6 +10333,7 @@ muslimur
 mussa
 mussa meg
 mussast
+mussur
 mutla
 mutra
 mutur
@@ -10168,6 +10354,7 @@ myndahøggari
 myndalist
 myndamaður
 myndamál
+myndarligur
 myndasavn
 myndasøga
 myndasøgu
@@ -10175,6 +10362,7 @@ myndasøgur
 myndatilfar
 myndatól
 myndil
+myndlist
 myndugleikarnir
 myndugleiki
 mynstur
@@ -10233,6 +10421,7 @@ málføri
 málførleiki
 málgagn
 málibók
+máling
 málkunnleiki
 málleysur
 málloysi
@@ -10262,7 +10451,6 @@ mánalýsi
 mánamorgun
 mánasjúka
 mánasjúkutvørri
-mánaðamót
 mánaðarskifti
 mánaður
 máni
@@ -10294,6 +10482,7 @@ mæla
 mælti
 mær
 mær tørvar ...
+mær tørvar...
 mæti
 mætur
 míga
@@ -10320,6 +10509,7 @@ mótstøðurørsla
 mótsøgn
 móttøka
 mótur
+mótvegis
 mótvindur
 móðir
 móðirfaðir
@@ -10346,6 +10536,7 @@ møguligar
 møguligir
 møguligt
 møguligur
+mølkúla
 mølma
 mølur
 møna
@@ -10378,7 +10569,6 @@ møðir
 møðið
 møður
 múlesil
-múli
 múlmorreyður
 múr
 múrmildýr
@@ -10428,6 +10618,7 @@ nakrar
 nakrari
 nakrir
 nalvi
+narkolepsi
 narra
 nasabein
 nasablóð
@@ -10648,6 +10839,7 @@ nytta
 nyttuleysur
 náa
 nábalsklógv
+nábleikur
 nábúgvi
 nágreinliga
 náhvalur
@@ -10673,7 +10865,6 @@ nálaviðgerð
 náleyga
 nám
 námsfrøði
-námsfrøðingur
 námskeið
 námsvinna
 nátan
@@ -10683,7 +10874,6 @@ nátt
 náttarravnur
 náttarskrápur
 náttarvøka
-náttarvørður
 náttfirvaldur
 nátthegri
 nátthúgva
@@ -10804,7 +10994,6 @@ nýsælendingur
 nýsælendskur
 nýta
 nýta til fyrimunar fyri
-nýtaramót
 nýtslulutur
 nýtslumarkamót
 nýtslumót
@@ -10859,10 +11048,7 @@ oljuberjaolja
 oljubers
 oljubilur
 oljuframleiðsla
-oljufýrur
 oljuhúsi
-oljukendur
-oljuleiðing
 oljulitur
 oljum
 oljuna
@@ -10882,6 +11068,7 @@ olmussuheiðar
 olympiskir leikir
 oman
 omaneftir
+omaná
 omega-3-fitisýra
 omma
 ommubarn
@@ -10901,7 +11088,9 @@ ongtítlingur
 onki
 onkuntíð
 onkur
+onkursvegna
 onkustaðni
+onkutíð
 onnur
 onnur mósebók
 ont
@@ -10914,6 +11103,7 @@ opin
 opinekra
 opinleiki
 opna
+opningsevni
 orangutang
 oratorium
 organ
@@ -10928,7 +11118,9 @@ orkuframleiðsla
 orkuframleiðslu
 orkuframleiðslur
 orkukreppa
+orkuverk
 ormaevni
+ormahol
 ormum
 ormur
 ormvera
@@ -10938,6 +11130,8 @@ orsaka
 orsøk
 ortodoksur
 orð
+orða
+orða seg
 orðabók
 orðabøkur
 orðadráttur
@@ -10950,12 +11144,13 @@ orðatilfar
 orðaupprunafrøði
 orðbending
 orðblindi
+orðblindni
+orðblindur
 orðfeingi
 orði
 orðing
 orðið
 orðtak
-osfr.
 oskamjólk
 osmium
 ost
@@ -10968,12 +11163,14 @@ oturskinn
 ov
 ov nógv
 ovdrukkin
-ovfisking
 ovframleiðsla
-ovhiting
-ovróður
 ovsova
 ovtaðing
+ovur-
+ovurbjartur
+ovurdjúpur
+ovurglaður
+ovurhugaður
 ovurhugi
 ovurmorgin
 ovursintur
@@ -11011,6 +11208,7 @@ oyndfirðingur
 oyra
 oyralurtitól
 oyrar
+oyratelefonir
 oyri
 oyrna-, nasa- og hálslækni
 oyrnadeild
@@ -11076,7 +11274,6 @@ paprika
 par
 parabil
 paradis
-paranøt
 paranøtar
 paranøtir
 parkeringarbót
@@ -11086,7 +11283,10 @@ parlags
 parløg
 part
 partabræv
+partabrævaindeks
 partabrævakursvinningur
+partabrævamarknaðinum
+partabrævamarknaður
 partabrævavinningur
 partafelag
 partur
@@ -11095,7 +11295,7 @@ passa
 passmynd
 pasta
 pastinakk
-patronymic
+patogen
 patrón
 pavstur
 pe
@@ -11110,12 +11310,10 @@ pengaseðil
 pengum
 pengunum
 penicillin
-peningabúskapur
 peningafalsan
 peningaleys
 peningaleyst
 peningaleysur
-peningaligur
 peningaloysi
 peningaloysis
 peningar
@@ -11131,6 +11329,8 @@ pennasleikjari
 pennatekning
 pennur
 pensil
+pensiónistur
+pensjónsaldur
 penslastrok
 penur
 pera
@@ -11142,12 +11342,12 @@ perlu
 perluband
 perluhøna
 perluleykur
-permission
 persi
 persilla
 persillu
 persiskt
 persiskur
+persónligheit
 persónsfornavn
 persónur
 peru
@@ -11206,7 +11406,7 @@ pittur
 pjakutur
 pjákutur
 plagg
-planets of the Solar System: gongustjørnur i sólskipan: Merkur · Venus · jørðin · Mars · Jupiter · Saturn · Uranus · Neptun [edit]
+planki
 planta
 planti
 plantu
@@ -11274,10 +11474,16 @@ postmerki
 postur
 postverk
 pottadeyvur
-pottur
 praseodymium
 prenta
+prentara
+prentaran
+prentarans
+prentaranum
+prentarar
 prentari
+prentarin
+prentvilla
 pressa
 prestagarður
 prestakjóli
@@ -11289,6 +11495,7 @@ prikkut turriklæði
 prikkutum
 prikkutur
 prinsessa
+prinsipp
 prinsur
 privatbilur
 privatur
@@ -11303,6 +11510,7 @@ prosentstig
 protaktinium
 protesa
 prumpa
+prumpur
 prát
 práta
 prátandi
@@ -11327,6 +11535,7 @@ prísskelti
 prísur
 prógv
 prógva
+prógvaður
 próvtøka
 prøva
 prúður
@@ -11344,8 +11553,8 @@ pungdýr
 pungur
 puniskur
 punktum
-puntut mynstur
 puntutur
+purlutur
 purpur
 purpurlitur
 purpurtari
@@ -11427,6 +11636,7 @@ pólskum
 pólskur
 pø á pø
 púki
+púra
 púta
 quenya
 r
@@ -11447,7 +11657,6 @@ raka sig
 rakdropi
 rakiblað
 raklendi
-rakstrarbúskapur
 rakstrarlag
 rakstrarvinningur
 rakstur
@@ -11477,6 +11686,7 @@ ravløða
 ravmagn
 ravmagnsstreymur
 ravmagnstøkni
+ravmagnsverk
 ravmagnsverkfrøði
 ravmagnsverkfrøðingur
 ravnabøli
@@ -11489,7 +11699,6 @@ rað
 raðfylgi
 raðtal
 redikur
-redoksvirði
 regla
 regluverk
 regn
@@ -11508,6 +11717,7 @@ reindýrahald
 reindýrakjøt
 reindýraskón
 reinfann
+reingja
 reinkúgv
 reinleikan
 reinleiki
@@ -11536,7 +11746,6 @@ reka
 rekatari
 rekaviður
 reki
-rekil
 rekja
 relativitetsástøði
 remba
@@ -11550,6 +11759,7 @@ rennifjøl
 rennihjól
 rennikavaæl
 rennisjógvur
+renniskógvur
 rentuvinningur
 reptilla
 retorikkur
@@ -11617,7 +11827,6 @@ ribs
 riddari
 rifla
 rigga
-right
 rikin
 rimagirðing
 rimaverk
@@ -11675,6 +11884,8 @@ ropa
 ropi
 rosina
 rosinan í pylsuendanum
+rosinubreyð
+rosinukøka
 ross
 rossaber
 rossamakrelur
@@ -11705,6 +11916,7 @@ royktur
 roykur
 royna
 roynd
+royndarheimur
 roynitræ
 roynitræs
 roynitrø
@@ -11805,18 +12017,17 @@ rán
 ránfuglur
 ránsdjór
 ránsdýr
-ránsfuglur
 ránsmannabøli
 ránsmans
 ránsmaður
 ránsmenn
-ránstonn
 rárur
 rás
 rásegl
 ráur
 ráð
 ráða
+ráðaleysur
 ráðgevi
 ráðhús
 ráðstevna
@@ -11844,10 +12055,8 @@ rættatoft
 rætthyrningur
 rættiliga
 rættilækni
-rættindi
 rætting
 rættleiki
-rættleiðing
 rættlesari
 rættskriving
 rætttrúgv
@@ -11861,7 +12070,6 @@ ræátari
 ræða
 ræðandi
 ræðast
-ræði
 ræðsla
 ræðufilmur
 ræðuskítur
@@ -11869,6 +12077,7 @@ ríki
 ríkidømi
 ríkisborgararættur
 ríkisborgaraskapur
+ríkisborgari
 ríkisdáli
 ríkisepli
 ríkisfelagsskapur
@@ -11953,8 +12162,6 @@ røkja
 røkka
 røkti
 røktingarmaður
-røntgendeild
-røntgengeisli
 røntgenlækni
 røntgenmynd
 røntgenviðgerð
@@ -11985,6 +12192,7 @@ røstsúpan
 røtur
 røða
 røðil
+røðulist
 rúgva
 rúka
 rúm
@@ -11993,8 +12201,10 @@ rúmdarbúni
 rúmdarfar
 rúmdarfari
 rúmdarferja
+rúmdarkapping
 rúmdarmaður
 rúmdarsteinur
+rúmdarstøð
 rúmdarvera
 rúmdarøld
 rúmfrøði
@@ -12066,7 +12276,6 @@ saltastur
 saltfiskur
 saltgrind
 saltkendur
-saltkorn
 saltlaki
 saltsýra
 saltur
@@ -12081,6 +12290,7 @@ samanbera
 samanbrestur
 samanburður
 samanhang
+samanhangur
 samansett skúvur
 samansvørjingarástøði
 samarbeiði
@@ -12095,11 +12305,11 @@ sambiskur
 samborgari
 sambært
 samdrigin
+samdur
 samdøgur
 samdøgursfluga
 samfelag
 samfelagsfrøði
-samfelagsfrøðingur
 samfelagsligur
 samfelagsmálvísindi
 samfundur
@@ -12127,8 +12337,6 @@ samráðast
 samráðingarfundur
 samrøða
 samskifti
-samskiftiskervi
-samskiftismiðil
 samskipa
 samskipan
 samstarv
@@ -12141,9 +12349,9 @@ samtak
 samtala
 samtalufelagi
 samtykkja
+samtíðis
 samtøka
 samur
-samveldi
 samvinna
 samvinnurørsla
 samvirkin
@@ -12186,7 +12394,6 @@ sannleikavirði
 sannleiki
 sannleiksorð
 sannleikur
-sannlíkindi
 sannlíkur
 sannur
 sannveruligur
@@ -12200,13 +12407,11 @@ sauna
 saval
 savn
 savna
-savnvørður
 saðil
 saðilsmiður
 sbr.
 sbrt.
 se
-seasons: árstíð: vár · summar · heyst · vetur [edit]
 sedristræ
 sedrisviður
 seg
@@ -12215,15 +12420,15 @@ segl
 seglbátur
 seglont
 segði
+seigur
 seinast
 seinastur
 seinførur
 seingjargjørð
 seingongdur
+seinkaður
 seinmiðøld
-seinna a
 seinna i
-seinna í
 seinnapartur
 seinni
 seinpjakutur
@@ -12231,6 +12436,7 @@ seinrapartur
 seinri
 seint
 seinur
+seiðhvalur
 seiði
 seiður
 sekk
@@ -12268,7 +12474,6 @@ senda
 sendari
 sendiboð
 sendiboði
-sendiferð
 sendiharrastova
 sendiharri
 sending
@@ -12331,7 +12536,6 @@ seðil
 sfinksur
 shamanisma
 shamanur
-shop
 sibiriskur márur
 sig
 siga
@@ -12342,10 +12546,8 @@ sigarettpappír
 sigarettroykur
 sigarettstubbi
 sigaretttubbak
-sigflog
 sigi
 sigla
-sigling
 siglingarfrøði
 signa
 sigoynari
@@ -12369,6 +12571,7 @@ sildberi
 sildreki
 silisium
 silki
+silkibleikur
 silkifirvaldur
 silkiormur
 silkitráður
@@ -12376,10 +12579,10 @@ silvur
 silvurbláur
 silvurgráur
 silvurhegri
-silvurlittur
 silvurnitrat
 silvurpappír
 silvurringur
+simpulthen
 since I saw you the last time
 sindur
 sink
@@ -12396,6 +12599,7 @@ sirm
 siropur
 sissa
 sita
+sita dadda
 sita illa um sátt
 sita væl um sátt
 sitipláss
@@ -12418,6 +12622,8 @@ sjal
 sjampanja
 sjampo
 sjangra
+sjefarahundur
+sjefarhundur
 sjeikur
 sjey
 sjey-
@@ -12426,11 +12632,11 @@ sjeyogtretivu
 sjeyti
 sjimpansa
 sjokuláta
-sjokuláta við nøtum
 sjokulátu
 sjokulátuegg
 sjona
 sjá
+sjáførur
 sjál
 sjáldan
 sjáldan er ein báran støk
@@ -12525,8 +12731,11 @@ sjómansheim
 sjómaður
 sjómíl
 sjón
+sjónarmið
 sjónarringur
 sjónarváttur
+sjónd
+sjóndar
 sjónleikabólkur
 sjónleikara
 sjónleikarar
@@ -12565,6 +12774,8 @@ sjúkramelding
 sjúkrasong
 sjúkrastova
 sjúkraviðgerð
+sjúkubirtil
+sjúkueyðkenni
 sjúkur
 sjúkuviðgerð
 skabb
@@ -12587,7 +12798,6 @@ skaldsøga
 skaldsøgu
 skaldsøgur
 skaldverk
-skali
 skalla
 skalli
 skallutur
@@ -12603,6 +12813,7 @@ skandium
 skap
 skapa
 skapanarevni
+skapandi
 skapleysur
 skaploysingur
 skapningur
@@ -12617,7 +12828,10 @@ skarvs
 skarvur
 skarð
 skarðssýrusmæra
+skattaborgari
+skattagjaldari
 skattamál
+skattaskjól
 skattasvik
 skattasvikari
 skattmeistari
@@ -12652,6 +12866,7 @@ skeinkjarin
 skeinkjarum
 skeinkjarunum
 skeivleiki
+skeivt
 skeivur
 skeið
 skeiðbundna skipanin
@@ -12671,6 +12886,7 @@ skemdarorð
 skemma
 skemt
 skemta
+skemtandi
 skemtibátur
 skemtiligur
 skemtisøga
@@ -12716,6 +12932,7 @@ skinnbátur
 skinnhandrit
 skip
 skipa
+skipa fyri
 skipaferðsla
 skipahavn
 skipalega
@@ -12752,6 +12969,7 @@ skjálvtakráka
 skjól
 skjóra
 skjóta
+skjótast til ber
 skjótgongdur
 skjótleiki
 skjótt
@@ -12761,8 +12979,11 @@ skjøl
 skjøldur
 skjúrt
 skjúrta
+skjúrtu
+skjúrtur
 skjútsbátur
 skjýtur
+sklerosa
 skola
 skolopendara
 skolopendaran
@@ -12784,6 +13005,7 @@ skordýratýnari
 skorpión
 skorsteinssópari
 skorsteinur
+skortbleikur
 skortmorreyður
 skot
 skotabrundur
@@ -12814,6 +13036,7 @@ skrivara
 skrivarar
 skrivari
 skriviborð
+skrivliga
 skrivstova
 skrivstovukvinna
 skrivstovusveinur
@@ -12823,11 +13046,13 @@ skriðdjór
 skriðdýr
 skriðlús
 skriðsólja
+skrotta
 skroypiligur
 skrubb
 skrubbhávur
 skrubbmotta
 skrukk
+skrulla
 skrá
 skrála
 skránni
@@ -12838,6 +13063,9 @@ skrásett
 skrásett parlag
 skrásett parløg
 skráskrift
+skrædl
+skrædli
+skrædlið
 skrædna
 skræpa
 skræpusótt
@@ -12870,7 +13098,6 @@ skundmynd
 skundsending
 skurr
 skurðartari
-skurðdeild
 skurðlækni
 skurðmynd
 skurðstova
@@ -12908,7 +13135,6 @@ skítur
 skíð
 skógarbjørn
 skógareldur
-skógarlendi
 skógarsólja
 skóghøggari
 skógi
@@ -12951,7 +13177,9 @@ skúlastjóri
 skúlasálarfrøðingur
 skúlataska
 skúlating
+skúlatænari
 skúlatími
+skúlaður
 skúlgongdur
 skúli
 skúlvur
@@ -12977,12 +13205,12 @@ slaga
 slaktari
 slanga
 slangan
+slappa av
 slatur
 sleikisneis
 sleikja
 sleipa
 sleiskari
-sleiv
 slekt
 slektbólkur
 sleppa
@@ -13016,6 +13244,7 @@ slátrari
 slær
 slært
 slættasti sjógvur og brattastu bylgjur
+slættbinding
 slættibøka
 slættlendi
 slættur
@@ -13037,6 +13266,8 @@ slóða
 slóðbrótandi
 slóðbrótari
 sløkkilið
+sløkkiliðskvinna
+sløkkiliðsmaður
 sløkkja
 smakka
 smakkgóður
@@ -13082,6 +13313,7 @@ smoyggja
 smoyggjandi
 smoygt
 smyril
+smyrilsurt
 smyrja
 smyrjikoppur
 smyrjiolja
@@ -13120,9 +13352,18 @@ smáfeingin
 smáfeingis
 smáfenaður
 smáfeta
+smáfiska-
+smáfiskagreipa
+smáfiskahøvd
+smáfiskahúkur
+smáfiskaknokkur
+smáfiskaleið
+smáfiskamið
+smáfiskarák
+smáfiskasjógvur
+smáfiskateyggj
 smáfiskateyggja
 smáfiskur
-smáfiskursmáfiska-smáfiskagreipasmáfiskahúkursmáfiskahøvdsmáfiskaknokkursmáfiskaleiðsmáfiskamiðsmáfiskaráksmáfiskasjógvursmáfiskateyggj
 smáfjøkin
 smáflekkutur
 smáflenna
@@ -13251,6 +13492,7 @@ smásíl
 smásøga
 smásøla
 smásølumaður
+smátalari
 smátandur
 smáting
 smátjóð
@@ -13267,15 +13509,17 @@ smávera
 smáæti
 smækkanarorð
 smæra
+smæða
 smæðhetta
+smæðin
 smíl
 smíla
 smílast
 smíð
+smíðijarn
 smør
 smørdeiggj
 smørskel
-smørsýr
 smørsýra
 smúgva
 snakka
@@ -13299,6 +13543,7 @@ snigil
 snigilsferð
 sniglaepli
 sniglar
+snild
 snildfon
 snildleiki
 snildur
@@ -13347,8 +13592,8 @@ sokkur
 soleiðis
 soltin ostur
 somuleiðis
+somumegin
 son
-son of Gunnar
 sona
 sonardóttir
 sonarsonur
@@ -13375,13 +13620,13 @@ sorgarboð
 sorgarleiki
 sosialisma
 sosialistiskur
+sosialráðgevi
 sosialur
 sosialur serkunnleiki
 sosialur tryggleiki
 sosiolekt
 sosiologi
 sostatt
-source
 sova
 sova yvir
 sovikamar
@@ -13449,7 +13694,6 @@ splintur
 splitta
 sponn
 sponsk
-spoon and mug
 sporl
 sporðdreki
 spreingievni
@@ -13538,6 +13782,7 @@ stammkykna
 standa
 standing
 standmynd
+stangarkota
 stargras
 stari
 starv
@@ -13551,6 +13796,7 @@ statt
 stavafeingi
 stavarað
 stavilsi
+stavivilla
 stavkirkja
 stavnhetta
 stavrað
@@ -13648,6 +13894,7 @@ stikkulsber
 stikkulsberjarunnur
 stikkulsberjasaft
 stikkulsbers
+stiklavond
 stilla
 stillipinnur
 stilvi
@@ -13674,7 +13921,6 @@ stjølir
 stjølur
 stjørna
 stjørnualisfrøði
-stjørnualisfrøðingur
 stjørnubreyt
 stjørnufrøði
 stjørnufrøðiligur
@@ -13682,6 +13928,7 @@ stjørnufrøðingar
 stjørnufrøðings
 stjørnufrøðingur
 stjørnugrús
+stjørnulíka
 stjørnumerki
 stjørnumynd
 stjørnuskot
@@ -13720,7 +13967,6 @@ stoytdoyvari
 stoytil
 stoytur
 strangleiki
-strangur
 streingir
 streingjakór
 strekki
@@ -13789,6 +14035,7 @@ stuttnøs
 stuttsíða
 stuttsøga
 stuttur
+stuðla
 stuðul
 styggja frá sær
 stykki
@@ -13796,6 +14043,7 @@ stynja
 styrja
 styrjurogn
 styrki
+styrkja
 stytting
 stá
 stál
@@ -13827,10 +14075,12 @@ stór flekkuspæta
 stór hornugla
 stór skjátta
 stóra
+stóran
 stórbygd
 stórbærur
 stórfingni
 stórhav
+stórheimur
 stórhertugadømi
 stórhundrað
 stórkeypmaður
@@ -14082,8 +14332,10 @@ svørja
 svørð
 svørðfiskur
 svørður
+svøvnapnø
 svøvngangari
 svøvngonga
+svøvnkøva
 svøvnleys
 svøvnleyst
 svøvnleysur
@@ -14092,9 +14344,9 @@ svøvnloysis
 svøvnposi
 svøvnur
 syfilis
+syfrisviður
 sylindari
 sylofon
-symfoniorkestur
 synd
 synda
 syndabukkur
@@ -14126,18 +14378,20 @@ syndigur
 syndra
 syndrast
 syngja
+sypristræ
+syprisviður
 syrgja
 systir
 systkin
 systkinabarn
 systkinaflokkur
+systurdóttir
 systursonur
 syðri
 sá
 sáa
 sál
 sálarfrøði
-sálarfrøðingur
 sálarfrøðiviðgerð
 sálarlækni
 sálarmessa
@@ -14153,13 +14407,14 @@ sápubløðra
 sápuskál
 sápustykki
 sár
+sáran
 sársamanseyming
+sárur
 sást
 sáta
 sátanskur
 sátt
 sáttasemjari
-sáttmali
 sáttmálaørkin
 sáttmáli
 sáð
@@ -14202,6 +14457,7 @@ síðu
 síðumorreyður
 síður
 síðuriv
+síðurnar
 sól
 sólargeisli
 sólarlag
@@ -14223,6 +14479,7 @@ sólbrillur
 sóldøgg
 sólja
 sóljuætt
+sólorka
 sólsetur
 sólskipan
 sólur
@@ -14351,7 +14608,6 @@ sýldur drunnhvíti
 sýlur
 sýna
 sýnagoga
-sýni
 sýning
 sýr
 sýra
@@ -14367,11 +14623,11 @@ t
 t.d.
 t.d. (til dømis)
 ta
-ta ferðina
 ta(tá)†
 tablett
 tagl
 tagna
+tagnarheimur
 tai
 tailendskt
 tailendskur
@@ -14385,8 +14641,11 @@ taka frá
 taka lívið av
 taka lívið av sær
 taka niður
+taka prógv
 taka uppaftur
 taka við
+taka á bóli
+takast
 takk
 takk fyri
 takka
@@ -14403,6 +14662,7 @@ tal
 tala
 talan
 talan er um ...
+talari
 taldi
 taldu
 taldur
@@ -14454,6 +14714,7 @@ tarabrosma
 taralús
 taraslag
 tari
+tarmalop
 tarmkykna
 tarmur
 tarna
@@ -14474,10 +14735,8 @@ tað er ótti á mær
 tað gongur væl
 tað haldi eg
 tað haldi eg ikki
-tað man vera
-tað man óivað vera beinari
 tað má passa
-tað rennur ikki vatn ímillum -
+tað rennur ikki vatn ímillum
 tað var einki annað enn góðan dag og farvæl -
 tað var so lítið
 tað veit eg ikki
@@ -14507,9 +14766,11 @@ teisti
 teiti
 teitur
 tekanna
+tekin
 tekingarhálmur
 tekingartilfar
 tekja
+tekjuleykur
 tekk
 tekktræ
 tekn
@@ -14547,6 +14808,7 @@ telefonkaðal
 telefonsamband
 telefonsvarari
 telelinsa
+teleskop
 telja
 teljandi
 telji
@@ -14576,6 +14838,7 @@ temuður
 tendra
 tendrari
 tenn
+tennis
 teppi
 tequila
 terbium
@@ -14604,6 +14867,7 @@ terraði
 terraðu
 terraður
 terri
+terriari
 terrið
 tertudeiggj
 tesk
@@ -14622,7 +14886,7 @@ tevja
 tey
 tey tíggju boðini
 teymont
-than he is forced to
+teys
 that ...
 thorium
 tiga
@@ -14757,7 +15021,6 @@ tjóðarinntøka
 tjóðarmál
 tjóðarogn
 tjóðarprógv
-tjóðarroknskapur
 tjóðarsamleiki
 tjóðarskomm
 tjóðartaka
@@ -14856,6 +15119,7 @@ tjúgundi
 tjúkkari
 tjúkkastur
 tjúkkur
+tjúkt
 to appear
 to assault
 to leave it"
@@ -14885,6 +15149,8 @@ tokvanlukka
 tokvognur
 tol
 tola
+tolin
+tolinmøði
 tolkur
 tollaksmessa
 tolling
@@ -14940,8 +15206,8 @@ toruveður
 toruæl
 torv
 torva
-torvatrøll
 torvheiðar
+torvskeri
 tosa
 tosa tygum enskt
 tosandi
@@ -14969,7 +15235,6 @@ toyklemma
 toymi
 toys
 toysins
-trade
 traff
 trakt
 traktar
@@ -15016,6 +15281,7 @@ treytum
 treytunum
 trillión
 trilogi
+trimum
 trinnir
 trinnur
 tristur
@@ -15043,10 +15309,12 @@ troyst
 troyttur
 troðka
 trukkur
+trumma
 trupul
 trupulleiki
 trygd
 trygdarbelti
+trygdareiður
 trygdarhol
 trygdarrit
 trygging
@@ -15178,6 +15446,8 @@ tummasmessa
 tummi
 tummil
 tummilfingur
+tummilfingurregla
+tummilfingurregul
 tundra
 tundur
 tundurbjálving
@@ -15203,6 +15473,7 @@ tunna
 tunnil
 tunnugjørð
 tunnur
+tunt
 turka
 turkadúgva
 turkiskt
@@ -15249,6 +15520,9 @@ tvætla
 tvíburi
 tvífalt nákvæmi
 tvíflís
+tvíflísar
+tvíflísarnar
+tvíflísin
 tvíkilja
 tvíkynd
 tvíkyndur
@@ -15275,6 +15549,7 @@ tvørri
 tvørskapur
 tvørstong
 tvørsøgn
+tvørturum
 tvørturímóti
 tvørvegis
 tvørá
@@ -15418,6 +15693,7 @@ tíðindatænasta
 tíðindi
 tíðleiki
 tíðliga
+tíðligur
 tó
 tó at
 tók
@@ -15436,7 +15712,6 @@ tónalag
 tónaskald
 tónaskalds
 tónaskøld
-tónasmiður
 tóni
 tónleikara
 tónleikarafelag
@@ -15447,7 +15722,6 @@ tónum
 tórsdag
 tórsdagin
 tórsdagur
-tórsdagur · fríggjadagur · leygardagur · sunnudagur [edit]
 tøgin
 tøgn
 tøka
@@ -15456,6 +15730,7 @@ tøkni
 tøknifrøði
 tøkniligur kunnleiki
 tøkniligur serkunnleiki
+tøkuorð
 tøkutýðing
 tøkuvarp
 tøla
@@ -15563,6 +15838,7 @@ umfata
 umfatandi
 umframt
 umgerð
+umgirdur
 umheimur
 umhugi
 umhugsa
@@ -15596,12 +15872,8 @@ umstøður
 umsókn
 umvæla
 undan
-undandráttur
-undanfarin
 undangonga
 undangongumaður
-undankapping
-undanmaður
 undanstreymur
 undantak
 undantaksstøða
@@ -15661,7 +15933,6 @@ ungverji
 ungverskt
 ungverskur
 universitet
-universitetsbókavørður
 university
 unna
 unnusta
@@ -15671,17 +15942,14 @@ upp
 upp eftir
 upp á vegin
 uppaftur
-uppboð
-uppboðssøla
 uppdatera
 uppeftir
-uppfatan
 uppfiskaður
-uppgerð
 uppgáva
 upphiting
 upphædd
 uppi
+uppiborin
 uppihaldsloyvi
 upplatin
 upplýsing
@@ -15695,19 +15963,17 @@ uppsjóvarfiskaslag
 uppsjóvarfiskastovnur
 uppsjóvarfiskiskapur
 uppsjóvarfiskur
-uppsjóvarfloti
-uppsjóvarskip
 uppsjóvarvinna
 uppskot
 uppskrift
 uppskriftabók
-uppslag
 uppsnissaður
 uppspunnin
 uppstillingarfundur
-uppsøgn
+upptikin
 upptrekkjari
 upptøka
+uppvaksin
 uppvaskimaskina
 uppí
 uppílegging
@@ -15740,7 +16006,6 @@ uttanríkisráð
 uttanríkisráðið
 uttaná
 uttanífrá
-uttari
 uttast
 uttastur
 v
@@ -15752,10 +16017,10 @@ vakna
 vakrastur
 vaks
 vaksa
-vakshattur
 vakskaka
 vakskøka
 vaksljós
+vaksnamannaár
 vakstrarlendi
 vakt
 vaktarmaður
@@ -15795,6 +16060,7 @@ valnøt
 valnøtar
 valnøtir
 valnøtuolja
+valrættur
 valseta
 valseðil
 valskeið
@@ -15829,6 +16095,7 @@ vantrúgvandi
 vantrúgvin
 vanuatiskur
 vanuatubúgvi
+vanur
 vappa
 var
 vara
@@ -15892,7 +16159,6 @@ vatni
 vatninum
 vatnið
 vatnkráka
-vatnleiðing
 vatnleiðsla
 vatnlendi
 vatnmelón
@@ -15942,7 +16208,6 @@ vegvísari
 veikleiki
 veikstreymur
 veikur
-veingjaflog
 veit
 veita
 veita bana
@@ -16032,6 +16297,7 @@ verfólk
 verið
 verja
 verji
+verjuleysur
 verk
 verkfrøði
 verkfrøðingur
@@ -16097,6 +16363,7 @@ veðrur
 veður
 veðurdós
 veðurfastur
+veðurforsøgn
 veðurfrøði
 veðurfrøðingur
 veðurføst
@@ -16109,6 +16376,7 @@ veðurlíkindi
 veðurlíkindir
 veðurskifti
 veðurstova
+veðurtíðindi
 veðurvánir
 vibratorur
 viga
@@ -16140,7 +16408,6 @@ vinadystur
 vinalag
 vinaligur
 vinarheilsan
-vinber
 vinbláber
 vinda
 vindblak
@@ -16164,7 +16431,6 @@ vinningsbýti
 vinningssteðgur
 vinningur
 vinnubræv
-vinnubúskapur
 vinnufelag
 vinnufelagssvik
 vinnufrælsi
@@ -16185,6 +16451,7 @@ vinskapur
 vinstra
 vinstrhentur
 vinstri
+vinstrumegin
 vinstur
 vinur
 violin
@@ -16261,6 +16528,7 @@ vitnisfastur
 vitnisábyrgd
 vitramannasteinurin
 vitska
+vittigheit
 vittuggi
 vitugur
 vitum
@@ -16276,11 +16544,11 @@ við fleiri stavilsum
 við gleði
 við herðing
 við tveimum stavilsum
+við vónum
 við áherðslu
 viða
 viðarkol
 viðarlund
-viðarlundaøki
 viðarmeyk
 viðartítlingur
 viðarvøkstur
@@ -16308,7 +16576,9 @@ viðgongutíð
 viðhald
 viðhvørt
 viðmerking
+viðmerkja
 viðmerkjari
+viðmæla
 viðoyingur
 viðskiftafólk
 viðtaka
@@ -16353,7 +16623,6 @@ vundið
 vuvusela
 vága
 vágbingur
-vágsarmur
 vágsbotnur
 vágur
 vákasmyril
@@ -16468,6 +16737,7 @@ víndrúvukjarnuolja
 víngarður
 vínkjallari
 vínreyður
+víntænari
 vípa
 vírikur
 vísa
@@ -16497,6 +16767,7 @@ víðskygdur
 víður
 vón
 vóna
+vónandi
 vónbrot
 vónbrotin
 vónbrots
@@ -16528,6 +16799,7 @@ vøddavevnaður
 vøddi
 vøgga
 vøggubarn
+vøggudeyði
 vøggudýna
 vøggustova
 vøka
@@ -16557,10 +16829,9 @@ vøtnini
 vøtnum
 vøtnunum
 vøttur
+walisiskt
 watt
 what she eats
-where water has been
-white-space: nowrap
 wienarbreyð
 wolfram
 xenon
@@ -16572,7 +16843,6 @@ ymiska
 ymiskan
 ymiskar
 ymiskir
-ymiskleiki
 ymisks
 ymiskt
 ymiskum
@@ -16591,6 +16861,7 @@ yngri
 yngstur
 ynna
 ynski
+ynskir
 ynskishugsan
 ynskja
 ynskja til lukku
@@ -16623,6 +16894,7 @@ yvirbókavarðar
 yvirbókavørðir
 yvirbókavørður
 yvirdýna
+yvirflati
 yvirflokkur
 yvirfrakki
 yvirgangsfelagsskapur
@@ -16643,10 +16915,11 @@ yvirmaður
 yvirmenn
 yvirmunnur
 yvirmuður
+yvirraska
 yvirskegg
-yvirskot
 yvirstig
-yvirtak
+yvirtala
+yvirtænari
 yvirtímar
 yvirvekt
 yvirvørr
@@ -16821,6 +17094,7 @@ zirkon
 álopsbyrsa
 álur
 álvaratos
+álvarligur
 álvarsamur
 álvarsligur
 álvur
@@ -16874,7 +17148,6 @@ zirkon
 áseting
 áseyður
 áskoðan
-áskoðari
 ást
 ástarfundur
 ástarleikur
@@ -16896,12 +17169,14 @@ zirkon
 átst
 átta
 áttaermdur høgguslokkur
+áttakantur
 áttamannafar
 áttandi
 áttaogtretivu
 áttatalsknútur
 áttati
 áttermdur
+átthyrningur
 átti
 áttu
 áturvomb
@@ -16911,10 +17186,13 @@ zirkon
 átøkur
 áum
 áunum
+ávegis
+ávikavist
 ávinningur
 ávirka
 ávirkan
 ávirki
+ávísa
 ávísingarfornavn
 ávøkstur
 áðrenn
@@ -17128,6 +17406,7 @@ zirkon
 ísraelsmaður
 ísstykki
 ísterningur
+ístíð
 ísur
 ísøld
 ítriv
@@ -17137,10 +17416,13 @@ zirkon
 ítróttur
 ítøkiligur
 íð
+íða
 íðin
 ð
 ó
 ó-
+óansæð
+óargaungi
 óbundin
 óbundið
 óbundið fornavn
@@ -17150,7 +17432,9 @@ zirkon
 ódnarveður
 ódrukkin
 ódrúgvur
+ódugnaligur
 ódámligur
+óeffektivur
 óektaður
 óerla
 óeydna
@@ -17171,6 +17455,7 @@ zirkon
 ógvella
 ógvisligur
 ógvuliga
+ógáaður
 óhapp
 óheppin
 óherdur
@@ -17211,10 +17496,8 @@ zirkon
 óndur
 ónevndur
 óneyvleiki
-óneyvur
 óneyðugur ótryggleiki
 ónsdagur
-ónsdagur · hósdagur
 ónytta
 ónøktandi
 óraddaður
@@ -17248,6 +17531,7 @@ zirkon
 ósunnur
 ótakksamur
 ótol
+ótolin
 ótryggleiki
 óttast
 ótti
@@ -17277,6 +17561,7 @@ zirkon
 óður
 ø
 ødla
+øgiliga
 øgiligur
 øgn
 øka
@@ -17317,6 +17602,7 @@ zirkon
 ørur
 ørv
 ørvahúsi
+ørvin
 ørvur
 ørðugur
 øsa
@@ -17384,6 +17670,7 @@ zirkon
 øðuskel
 ú
 úla
+úlpa
 úlvatík
 úlvfiskur
 úlvskjaftur
@@ -17393,7 +17680,9 @@ zirkon
 úr vøggu í grøv
 úrdráttur
 úrslit
+úrslitaleysur
 úrtøka
+úrtøkiligur
 úrtøkusáttmáli
 ússaligur
 útbygd
@@ -17405,8 +17694,10 @@ zirkon
 útflutningsmøguleiki
 útflutningur
 útflýggja
+útflýggjan
 útgangspunkt
 útgerð
+útgivin
 útgongd
 útgáva
 úthandil
@@ -17423,6 +17714,7 @@ zirkon
 útkoma
 útland
 útlendingur
+útlendis
 útlendskur
 útlit
 útnevna
@@ -17440,12 +17732,9 @@ zirkon
 útoyggjafelag
 útoyggjafólk
 útróðrarbátur
-útróður
 útskinn
-útskot
 útstoytsrør
 útsynningur
-úttala
 útvarp
 útvarpssending
 útvarpsskrá
@@ -17454,6 +17743,7 @@ zirkon
 útvarpstól
 útvega
 útvegur
+útvortis
 ý
 ýa
 ýla
@@ -17461,6 +17751,5 @@ zirkon
 ýsopur
 ýting
 ǃxóõ
-—
 ◌́
 ◌᷍◌

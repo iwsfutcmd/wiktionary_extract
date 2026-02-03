@@ -91,9 +91,11 @@
 -minaatsiaq
 -mineq
 -mioq
+-mit
 -mita
 -mitaava
 -miu
+-mut
 -naar
 -naq
 -nar
@@ -109,10 +111,12 @@
 -ngajag
 -ngajak
 -nguaĸ
+-ni
 -niaq
 -niar
 -niarsarï
 -nisaq
+-nit
 -niutï
 -nnaaq
 -nnak
@@ -124,6 +128,7 @@
 -nnguaq
 -nnguarsi
 -nnig
+-p
 -paaluit
 -paat
 -palaaq
@@ -320,7 +325,6 @@ Cookøerne
 Danieli
 Danmarki
 Dortmund
-E
 Echidna
 Echo
 Eerik
@@ -343,7 +347,6 @@ Europa
 Eurydike
 Euterpe
 Ezra
-F
 Fari
 Fiilimuu
 Filippimiunut
@@ -351,7 +354,6 @@ Finlandi
 Finskisut
 Folketingi
 Frankrigi
-G
 Gaja
 Ganymedesi
 Grækenlandi
@@ -360,7 +362,6 @@ Guuti
 Guutimik mianerinnittoq
 Guutimik nalusoq
 Guutisiorneq
-H
 Hebræerinut
 Hekate
 Helene
@@ -370,7 +371,6 @@ Hollandi
 Hvideruslandi
 Hydra
 Hyperioni
-I
 Iiliit
 Iisaaq
 Ilasiaq
@@ -395,7 +395,6 @@ Ivalo
 Ivalu
 Ivik
 Ivinnguaq
-J
 Jaaja
 Jaaku
 Jaappili
@@ -438,7 +437,6 @@ Jôrîna
 Júko
 Jûlut
 Jûna
-K
 K'itura
 K'ítôra
 Kaalat
@@ -497,6 +495,7 @@ Kuluk
 Kulunnguaq
 Kunnak
 Kunngeqarfik Danmarki
+Kunngi Frederik VIII Nuna
 Kunngikkormiut
 Kunngit
 Kunngu
@@ -526,7 +525,6 @@ Kîstîna
 Kúngo
 Kûno
 Kûtak
-L
 Laakki
 Laannguaq
 Laasi
@@ -545,7 +543,6 @@ Lôrît
 Lôĸe
 Lûtivik
 Lũtsivik
-M
 Maalat
 Maalia
 Maaliaanna
@@ -597,7 +594,6 @@ Mâria
 Mârio
 Míkile
 Mîlo
-N
 Naalagaaffeqatigiit
 Naalagaq
 Naalakkersuisut
@@ -623,13 +619,13 @@ Nukannguaq
 Nunat Avannarliit
 Nunat Tamalaat Peqatigiit
 Nuuk
+Nuummi
 Níko
 Níkulinguaĸ
 Níkulât
 Níkulît
 Nîse
 Nûk
-O
 Oquna
 Orto
 Ortu
@@ -667,7 +663,6 @@ Pâlît
 Pîa
 Pîta
 Pîtaĸ
-Q
 Qaammat
 Qaaqqutsiaq
 Qagiirgiin
@@ -683,7 +678,6 @@ Qulutaq
 Qunaaq
 Qunerseeq
 Qupanuk
-R
 Rantuulfi
 Riikki
 Rikki
@@ -695,7 +689,6 @@ Ruusa
 Ruutuulfi
 Ríke
 Rĩke
-S
 Saalat
 Saalu
 Saamu
@@ -725,6 +718,7 @@ Sikkerneq
 Sikkerninnguaq
 Sikkersoq
 Sikuiuitsoq
+Sisimiut
 Solsiden
 Spania
 Stefani
@@ -750,7 +744,6 @@ Sîva
 Sîvale
 Sûlut
 Sûsât
-T
 TV-eqarfik
 Taatsiannguaq
 Taatsiaq
@@ -789,7 +782,6 @@ Túpia
 Tûla
 Tûma
 Tûmarse
-U
 Uiloq
 Ujo
 Ujoorsi
@@ -815,13 +807,13 @@ Utertunnguaq
 Uularik
 Uuli
 Uunartoq Qeqertaq
-V
 Veerti
 Vêrte
 Wikipedia
 Wolfgang
 a
 a longish tin-pot
+a'a
 a'arpoq
 aa-at
 aa-ila
@@ -995,6 +987,7 @@ aja
 ajaa
 ajaaq
 ajak
+ajassaat
 ajassaatit
 ajoqersugaq
 ajoqersuiartortitaq
@@ -1072,6 +1065,7 @@ alligatori
 allivaa
 allivoq
 allu
+alpine timothy
 alussaat
 aluu
 amaroq
@@ -1093,6 +1087,7 @@ anarnaq
 anarpoq
 anartarfiit imaat
 anartarfik
+anartarfik sumiippa?
 andengradsligningi
 anersaaq
 anersaarpoq
@@ -1118,6 +1113,7 @@ angerlarsimaffik
 angisooq
 angivoq
 angoorpoq
+angummut
 angusalluk
 angut
 angutaat
@@ -1126,6 +1122,7 @@ anguteqatiminoortartoq
 anguteqatiminoortoq
 anguteqatinik atoqateqartarneq
 angutinik arnanillu atoqateqartartoq
+angutip
 angutit
 angutivik
 anguvoq
@@ -1198,6 +1195,7 @@ aqqaneq-sisamat
 aqqaneq-tallimat
 aqqanillit
 aqqit
+aqqup
 aqqusaartuinerup annertussusia
 aqqusineq
 aqqusineq isaariaq
@@ -1274,11 +1272,13 @@ assersuut
 assi
 assigiiaamik periaaseqarneq
 assigiissitaq
+assiliisoq
 assut
 ataaseq
 ataasersiut
 ataasinngorneq
 ataata
+ataatap
 ataataq
 ataatat
 ataatsimut
@@ -1287,6 +1287,7 @@ atasunik isaterineq
 ateq
 ateqarpoq
 atequt
+atermut
 ati
 atiit
 atisaarniafik
@@ -1418,6 +1419,7 @@ benziina
 betingninngi
 betonngi
 bibliotekari
+biblioteki
 biibili
 biibilit
 biileerniartoq
@@ -1518,11 +1520,12 @@ doktori
 dommeri
 doping
 drinking cup
-e
 eertaasaq
 eertaq
 efterskole
-el-imik
+elektriciteti
+elektricitetiliorfik
+elværki
 enhjørningi
 eqalugaasaq
 eqalugaq
@@ -1573,9 +1576,12 @@ eriinniortoq
 erinarsorpoq
 erinarsortartoq
 erinarsuut
+erloq
 erneq
 ernerit
+ernermut
 ernersiaq
+ernerup
 erniaq
 ernisussiortoq
 errorpaa
@@ -1588,7 +1594,6 @@ ersaq
 erserpoq
 ersersippaa
 ersiut
-f
 fabrikki
 farisiiari
 farsi
@@ -1612,7 +1617,6 @@ fritidsklubi
 frokosti
 fry"
 fælleskønni
-g
 gassi
 gigti
 godaften
@@ -1628,7 +1632,6 @@ guutipilussiorneq
 guutipilussiorpoq
 guutit
 guutiussuseq
-h
 hashi
 hebræerisut
 hej
@@ -1648,11 +1651,13 @@ hundredi
 hvepsi
 hvidløgi
 håndboldi
-i
 iffiaq
 iffissat
+iga
 igaffiit
 igaffik
+igaffimmut
+igaffiup
 igalaaq
 igasoq
 igavoq
@@ -1736,12 +1741,17 @@ illoq
 illoqarfiit
 illoqarfik
 illu
+illuigaq
 illuk
 illukoq
 illuliaq
 illumi
 illumik
+illumit
+illumut
 illuni
+illunit
+illunut
 illussaarsuaq
 illut
 ilti
@@ -1845,6 +1855,7 @@ inimi qullersuaq
 inissisimaneq
 inissisimavoq
 inna
+innaallagiaq
 innaniut
 innanniut
 inneq
@@ -1980,7 +1991,6 @@ ivigaqarfik
 ivigaqarfittaq
 ivik
 ivikkat
-j
 januaari
 japanimiutut
 jordbæri
@@ -1998,7 +2008,6 @@ juullisiorluarit
 juullisiorpoq
 juullisiut
 juuni
-k
 kaagi
 kaagiliaq
 kaagiliassaq
@@ -2052,6 +2061,7 @@ kartoffeli
 katersugaasivik
 katersuuppoq
 katillugit
+katiterisoq
 katsorsaat
 kaviaari
 kiagualaartoq
@@ -2152,13 +2162,11 @@ kvælstoffi
 kålrabi
 kønni
 kørekorti
-l
 lager
 latiinerisut
 latinerisut
 løveq
 løveq arnaviaq
-m
 maaji
 maajooq
 maani
@@ -2247,13 +2255,11 @@ muldvarpi
 musaq
 målertoq
 mæslingit
-n
 naagga
 naaja
 naajaaq
 naajavaaq
 naajavaarsuk
-naak WC -ii?
 naalaarutit siutaasat
 naalagaq
 naalakkerpaa
@@ -2371,6 +2377,8 @@ nattorallit
 navianartoq
 neqi
 neqigaa
+neqimut
+neqip
 neqissaq
 neqitaq
 neqitassaq
@@ -2403,6 +2411,7 @@ nilakkarneq
 nilattarpoq
 nileq
 nilerpoq
+nillaavoq
 nillataartitsivik
 nillerpoq
 nillertoq
@@ -2474,6 +2483,7 @@ nukappiaraq
 nukaq
 nukarleq
 nukissaarunneq
+nukissiorfik
 nuliaq
 nuliarpoq
 nullut
@@ -2483,7 +2493,9 @@ nuna sajuppoq
 nunaat
 nunaateqarneq
 nunalerineq
+nunamut
 nunanut allanut ministeri
+nunap
 nunap assinga
 nunap sajunnera
 nunap sajunnerat
@@ -2503,7 +2515,6 @@ nutserivoq
 nutsigaq
 nuuk
 nîsa
-o
 oktobari
 oliveni
 opiummi
@@ -2572,6 +2583,8 @@ pakkaluaq
 palasi
 palleq
 pallittaalisaq
+pamioq
+pamiortooq
 pana
 panaanneq
 panaasalik
@@ -2583,7 +2596,7 @@ panna
 pannakaaq
 panteri
 papikuujuk
-pappiaraq
+pappiala
 paqqingavaa
 paratiisi
 parki
@@ -2609,6 +2622,8 @@ persiskisut
 persuaq
 perusuersartarfik
 pi
+piaqqamut
+piarak
 piaraq
 piffik
 piffissaq
@@ -2677,6 +2692,7 @@ pissutigalugu
 pisuppoq
 pisuujuvoq
 piumassuseq
+piumavoq
 polenimiutut
 politeeqarfik
 politiit
@@ -2776,6 +2792,8 @@ qaqorsaat
 qaqorteqqasut
 qaqortoq
 qaqortualuk
+qaqqamut
+qaqqap
 qaqqaq
 qaqqat
 qaqqortariarsuaq
@@ -2804,7 +2822,6 @@ qaserpoq
 qasertoq
 qasilitsoq
 qasilitsut
-qasilittoq
 qasseersiut
 qassinngorpa?
 qassit
@@ -2815,6 +2832,7 @@ qatanngut angut
 qatanngutigaa
 qatanngutisiaq
 qatanngutissaq
+qeeq
 qeeraasaq
 qeerlutooq
 qeerlutooq angutiviaq
@@ -2870,6 +2888,7 @@ qitsuk
 qiuutit
 qivioq
 qivittut assaat
+qooq
 qooroq
 qoqassivaa
 qorlortumik uffarfik
@@ -2884,6 +2903,7 @@ quiasaarut
 quiasaarutiginninneq
 quiasaarutiginnippoq
 quiasuppoq
+quivoq
 qujaaannarpunga
 qujan'
 qujanaq
@@ -2909,7 +2929,6 @@ quppaqut
 qussuit
 qussuk
 quttoraq
-r
 raaja
 raajaleriffik
 raajaqarfik
@@ -2917,6 +2936,7 @@ raajarniarneq
 raajarniut
 raajarpoq
 rabarberi
+radio
 radioaraq angallattagaq
 radiokkut
 religioni
@@ -2926,7 +2946,6 @@ rubiia
 russeq
 russisut
 ruusa
-s
 saamerleq
 saamisut
 saaneq
@@ -3066,6 +3085,7 @@ sininnartoq
 sinippoq
 sinittarfiit
 sinittarfik
+sinnattoq
 sinnattorpoq
 sinnguppuua
 sioqqat
@@ -3077,6 +3097,7 @@ sisamanik qulillit
 sisamanngorneq
 sisamat
 sisamavilik
+sisi
 sissaq
 sissarmiutaq
 siulequt
@@ -3173,7 +3194,6 @@ svenskisut
 swahilimiutut
 syfilisi
 sølvi
-t
 ta
 ta-
 taa
@@ -3206,6 +3226,7 @@ takusaq
 takusarpaa
 takuss'
 takussutissaq
+takutitsineq
 taleq
 talerpik
 tallimaat
@@ -3223,6 +3244,7 @@ tamakku
 tamanut
 tamaq
 tamarmik
+tammaaneqartoq
 tandpasta
 tanki
 tappiitsoq
@@ -3245,7 +3267,12 @@ tattattooq avannarleq
 taxa
 tea
 teknikeri
+terianniaasaq
 terianniaq
+terianniaq qaqortaq
+terianniaq qernertaq
+terianniaraq
+terianniaraq - fox cub
 teriaq
 thailandimiutut
 tiaavulu
@@ -3360,6 +3387,7 @@ tupinnartuliaq
 tupissut
 tupissut avannarleq
 tusaamasaq
+tusagassiortut
 tusarfik
 tusarnaarpoq
 tusarnaartitsineq
@@ -3380,7 +3408,6 @@ tyskeq
 tyskisut
 tysklandimiu
 tyviat
-u
 uaguk
 uagut
 uanga
@@ -3509,7 +3536,6 @@ uumunnga
 uunarpoq
 uunnappaa
 uuterisoq
-v
 vaataparsi
 valnødi
 vampyri

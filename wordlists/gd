@@ -206,6 +206,7 @@ An Cuan a Deas
 An Cuan a Tuath
 An Danmhairg
 An Dreagbhod
+An Dreòllainn
 An Eadailt
 An Eilbheis
 An Fhraing
@@ -256,6 +257,7 @@ Anna
 Annag
 Anndra
 Anndrais
+Anndras
 Antartaig
 Antigua agus Barbuda
 Aodh
@@ -270,6 +272,8 @@ Ar n-Athair
 Arabach
 Arabaich
 Arabais
+Aragonais
+Aragón
 Arasdotal
 Arcaibh
 Argantain
@@ -302,8 +306,10 @@ Baile Bhòid
 Baile Chanso
 Baile Dheòrsa
 Baile Dhubhthaich
+Baile Dhunlèibhe
 Baile Hamaltan
 Baile Lèir
+Baile a' Chàil
 Baile na Beirbhe
 Baile na Boirbhe
 Baile na h-Eaglaise
@@ -317,6 +323,7 @@ Bangladaiseach
 Barabal
 Baroc
 Barraigh
+Bartolomèus
 Basgach
 Basgais
 Bealaruis
@@ -350,6 +357,7 @@ Beul Feirsde
 Beurla
 Beurla Ghallda
 Beurla Ghallta
+Beurla Reagaird
 Beurlachais
 Beurlachas
 Beurlachasan
@@ -361,7 +369,6 @@ Bh-ph
 Bh-uas
 Bhaltair
 Bhatarsaigh
-Bhiet-Nam
 Bhreatainn
 Bhàtar
 Bhèineas
@@ -398,9 +405,7 @@ Britheamhan
 Brìde
 Brìgh Naoimh Pheadair
 Brìghde
-Brùnaigh
 Buill Pàrlamaid
-Butàn
 Bàal
 Bàbilon
 Bàgh na h-Eaglaise
@@ -418,7 +423,6 @@ Caimbeul
 Caingis
 Cairistìona
 Cairo
-Cairtbheil
 Caisg
 Caisteal Nuadh
 Caiteag
@@ -435,7 +439,6 @@ Calum na Margaid
 Calum-figheadair
 Camas Mheagsago
 Camas Pearsach
-Cambuidea
 Camshron
 Canada
 Canadach
@@ -458,6 +461,7 @@ Catrìona
 Ceana
 Ceanag
 Ceanaidh
+Ceann na Cuthaige
 Ceap Breatainn
 Cearcall Antartaig
 Ceilteach
@@ -499,10 +503,9 @@ Cogaidhean na Croise
 Coimbra
 Coimhearsnachd Fèin-riaghlaidh nam Basgach
 Coinneach
-Coirèa a Deas
-Coirèa a Tuath
 Colla
 Colosianach
+Comhairle Dhùn Phris is Ghall-Ghàidhealaibh
 Confucius
 Congo na Beilge
 Corcaigh
@@ -548,9 +551,9 @@ Cuan Siar
 Cuan Sèimh
 Cuan a Tuath
 Cuan na h-Èireann
+Cuchulainn
 Cuebec
 Cuibeic
-Cuibhéit
 Cuibèg
 Cuimreach
 Cuimrich
@@ -572,8 +575,6 @@ Cèasar
 Cèit
 Cèitean
 Cèitein
-Cìopras
-Cìorgastan
 Còig Gadhair Osgair
 Còrn
 Còrnais
@@ -602,8 +603,10 @@ Deuteronomi
 Deòrsa
 Dhanmhairg
 Dhia
+Dhorcha
 Dhè
 Dhòmhnaill
+Dhòmhnall
 Dhùn Dè
 Dhùn Dèagh
 Di-Màirt
@@ -629,7 +632,6 @@ Did
 Didòmhnaich
 Didòmhnaich Shlat-phailme
 Didòmhnaich Tùrnais
-Didòmhnaich · Diluain · Dimàirt · Diciadain · Diardaoin · Dihaoine · Disathairne [edit]
 Dih
 Dihaoine
 Dihaoine na Ceusta
@@ -659,6 +661,7 @@ Domhan Ùr
 Donaidh
 Donnchadh
 Dorcha
+Dreòllainn
 Dubhlinn
 Dunnchadh
 Dàbhaidh
@@ -697,8 +700,6 @@ Dùn nan Gall
 Dùn Èideann
 Dùn Éideann
 Dùthaich nam Basgach
-Dùthaich nam Mongol
-Dùthaich nan Tàidh
 E
 Eabhra
 Eabhrac
@@ -731,7 +732,6 @@ Eaglais Ìosa Chrìost de Naoimh an Latha mu Dheireadh
 Eagrachadh Cunnradh a' Chuain Shiair a Tuath
 Eairdsidh
 Ealasaid
-Eaman
 Eanraig
 Ear-Àisianach
 Earra-Ghàidheal
@@ -756,9 +756,7 @@ Eilean a' Cheò
 Eilean a' Phrionnsa
 Eilean a' Trosg
 Eilean an Fhraoich
-Eileanan Filipineach
 Eileanan Fàro
-Eileanan Mhaladaibh
 Eileanan Shealtainn
 Eileanan Siar
 Eileanan a' Chaolais
@@ -809,6 +807,7 @@ Fhionnlainn
 Fhraing
 Fhrangach
 Filib
+Filip
 Fionn
 Fionn-Ungaireach
 Fionnghal
@@ -835,6 +834,7 @@ Frangais
 Frangaise
 Freardorcha
 Friseal
+Fughlaigh
 Fàilte Mhoire
 Fàrothach
 Fàrothaich
@@ -909,6 +909,7 @@ Gleann Comhann
 Gleann Dail
 Gleann Eilg
 Gnàth-fhacail
+Gobha
 Gobhar
 Goill
 Goiridh
@@ -959,9 +960,9 @@ Ierusalem
 Ifrinn
 Impireachd na Gearmailte
 Inbhir Nis
+Inbhir Pheofharain
 Inbhir Àir
 Indianapolis
-Innd-Innse
 Innis Tìle
 Inns nam Gall
 Innseachan
@@ -971,8 +972,6 @@ Iob
 Ioel
 Iomaratan Arabach Aonaichte
 Ionah
-Ioràc
-Ioràn
 Ioslam
 Ioslamach
 Ioslamachd
@@ -988,7 +987,6 @@ Iuchair
 Iuchar
 Iupatar
 Iàcob
-Iòrdan
 Iòseph
 Iùdah
 Iùdas
@@ -996,6 +994,8 @@ Iùdas Iscariot
 Iùdhach
 Iùdhaich
 Iùdhaidheachd
+Iùgoslaibhia
+Karelia
 Keir
 L
 LCDT
@@ -1009,7 +1009,6 @@ Laighean
 Latha Nollaige
 Latha na Sàbaid
 Laurasia
-Leabanon
 Leabhar Ghnìomharan nan Abstol
 Leagsaidh
 Lebhiticus
@@ -1064,7 +1063,6 @@ Là nan Trì Rìghrean
 Là-Bhuidheachais
 Làbarach
 Làsaras
-Làthos
 Lèah
 Lèbhi
 Lèiruig
@@ -1122,7 +1120,6 @@ Malachi
 Malaidheach
 Malaidhich
 Malaidhis
-Malaidhsea
 Malaig
 Mamaidh
 Manainn
@@ -1161,7 +1158,6 @@ Mhìcheil
 Mhòrag
 Micah
 Milde
-Miànmar
 Mohamadanach
 Mohamadanaich
 Moire
@@ -1253,7 +1249,6 @@ Naòmi
 Neacail
 Neacal
 Neaptun
-Neapàl
 Nehemiah
 Niall
 Niall gun chiall
@@ -1311,8 +1306,6 @@ Omàn
 Osgar
 Ostair
 P
-Pagastàn
-Palastain
 Paris
 Partan
 Peadair
@@ -1322,6 +1315,7 @@ Peigi
 Pheadair
 Pheairt
 Philemon
+Philip
 Philipianach
 Phàdraig
 Phòlainn
@@ -1346,7 +1340,6 @@ Pàdruig
 Pàra
 Pàraig
 Pàrlan
-Párthláin
 Pòl
 Pòla a Deas
 Pòla a Tuath
@@ -1377,6 +1370,7 @@ Ridire
 Rob
 Robaidh
 Roblox
+Rodachan
 Rodaidh
 Roib
 Roinn-Eòrpa
@@ -1385,6 +1379,7 @@ Ros Neimhidh
 Rothach
 Ruaill Bheag
 Ruaill Mhòr
+Ruaireachan
 Ruairidh
 Ruaraidh
 Ruis
@@ -1491,16 +1486,15 @@ Shasainn
 Sheumais
 Sheumas
 Sheòrais
+Shomhairle
 Shorcha
 Siarag
 Simeon
 Simidh
-Singeapòr
 Sion
 Sion Shuas
 Siorrachd Lannraig
 Sir
-Siridhea
 Slighe Chlann Uisnich
 Slàbhach
 Slàbhaich
@@ -1524,7 +1518,6 @@ Spàinntis
 Srath Chluaidh
 Srath Spè
 Sri Jayawardenapura
-Sri Lanca
 Sruighlea
 Sròn Reamhar
 Steòrnabhagh
@@ -1568,7 +1561,6 @@ Sìonais
 Síle
 T
 Tabh
-Taidh-Bhàn
 Taidigeastàn
 Taigh Iain Ghròte
 Taigh nam Morairean
@@ -1581,7 +1573,7 @@ Tarbh
 Tarsgabhaig
 Tbilisi
 Teacsas
-Template:list:Latin script letters
+Tegucigalpa
 Tesalonianach
 Teàrlach
 Tighearna
@@ -1613,14 +1605,11 @@ Trìona
 Tròidh
 Tuil Ruadh
 Tuile Ruaidhe
-Tuirc
 Tuireadh
 Tulga is Talga
-Turcmanastàn
 Tìleach
 Tìlich
 Tìlis
-Tìomor an Ear
 Tìr Idhe
 Tìr a' Mhurain
 Tìr an Eòrna
@@ -1754,6 +1743,7 @@ a' Chairtbheil
 a' Chuimrigh
 a' Chàisg
 a' Ghearmailt
+a' Ghàidhealtachd
 a' Mh
 a' Mhaighdeann Moire
 a' Mhaoil
@@ -1796,6 +1786,7 @@ a-màireach
 a-nall
 a-nall thairis
 a-nis
+a-nis is a-rithist
 a-nisd
 a-nise
 a-nist
@@ -1808,12 +1799,15 @@ a-nìos
 a-raoir
 a-riamh
 a-rithist
+a-rithist!
 a-rèist
 a-rìs
 a-staigh
 a-staigh air
 a-steach
+a-teodha
 a-theodha
+a/languages M to Z
 aH
 aL
 ab
@@ -1843,6 +1837,7 @@ abhagan
 abhaig
 abhainn
 abhlan coisrigte
+abhras
 abstoil
 abstol
 aca
@@ -1977,6 +1972,7 @@ aicinne
 aicinnean
 aictiniam
 aide
+aideachadh
 aidich
 aifreann
 aifrionn
@@ -2005,8 +2001,10 @@ aigne
 ailbhealach
 ailbhean
 ailbheanan
+ailbhear
 ailbhein
 ailceimicear
+aileag
 ailleann
 aillse
 ailm
@@ -2196,7 +2194,9 @@ air dheireadh
 air dhomh
 air dhomh sin a ràdh
 air dhuinn sin a ràdh
+air dhìochuimhne
 air do shocair
+air dìochuimhne
 air dòigh
 air fad
 air falbh
@@ -2237,6 +2237,7 @@ airgead-beatha
 airgead-beò
 airgead-calpa
 airgead-ceann
+airgead-luachra
 airgead-pòcaid
 airgid phruinn
 airgid-beò
@@ -2260,7 +2261,8 @@ aiseil
 aisigeach
 aisil
 aisling
-aisling-chadailaisling-chonnain ()
+aisling-chadail
+aisling-chonnain
 aisneiseach
 aiste
 aistese
@@ -2281,6 +2283,7 @@ aithneachadh
 aithneachaidh
 aithnichear an caraid an là na faiche
 aithnichear fear air a' chuideachd a chumas e
+aithnichidh na leth-chiallaich a chèile
 aithreachas
 aithris
 aithris-leabhar
@@ -2473,6 +2476,7 @@ an ceann a chéile
 an ceartuair
 an ceathramh
 an cogadh fuar
+an coinneamh
 an cèin
 an còmhnaidh
 an còrr
@@ -2483,6 +2487,7 @@ an dara cuid
 an dara cuid X no Y
 an dara pearsa
 an dara taobh
+an dos mòr
 an dubh-isean ag iarraidh an dubh-gheòidh
 an dà chuid
 an dà chuid... agus...
@@ -2508,6 +2513,7 @@ an iar
 an impis
 an latha a bheireas an cuilean an t-ugh
 an latha an-diugh
+an latha an-dè
 an latha eile
 an latha roimhe
 an leanabh a dh'fhàgar dha fhèin, cuiridh e a mhàthair gu nàire
@@ -2539,6 +2545,7 @@ an t-Sròn Reamhar
 an t-Suain
 an t-Suirbhidh Òrdanais
 an t-aon nach teagaisgear ris a' ghlùin chan fhoghlamar ris an uilinn
+an t-isean deireadh linn
 an t-seachdain seo chaidh
 an t-uan-Càisge
 an taobh a-staigh a-muigh
@@ -2561,7 +2568,9 @@ an-ath-bhliadhn'
 an-ath-bhliadhna
 an-ath-oidhch'
 an-ath-sheachdain
+an-ceartuair
 an-chreideamh
+an-còmhnaidh
 an-diugh
 an-dràsda
 an-dràsta
@@ -2707,6 +2716,7 @@ aoibhinn
 aoibhneas
 aoibhneasan
 aoibhneis
+aoidionach
 aoigh
 aoigheachd
 aoin
@@ -2777,6 +2787,7 @@ aotromaich
 aotromain
 aotroman
 aotruime
+apag
 apracot
 apragod
 apragodan
@@ -3034,6 +3045,7 @@ ath-thinneas-cloinne
 ath-thionndadh
 ath-thog
 ath-thogail
+ath-threòrachadh
 ath-thruas
 ath-thruasach
 ath-thuisleachadh
@@ -3223,6 +3235,7 @@ ballach
 ballachan
 ballaire
 ballaire-bòthain
+ballan
 ballan-ionnlaide
 ballan-seilcheig
 ballrachd
@@ -3317,7 +3330,10 @@ banaraichean
 banas-feise
 banas-taighe
 banca
+bancaichean
 bancaid
+bancair
+bancaireachd
 banchaig
 bancharaid
 banfhlaithe
@@ -3447,6 +3463,7 @@ beachda
 beachdan
 beachlannair
 beachlannaireachd
+beadag
 beadradh
 beadraich
 beadraichte
@@ -3497,7 +3514,10 @@ beannachd
 beannachd leat
 beannachd leibh
 beannachdan
+beannaibh
 beanntach
+beanntaichean
+beanntainean
 beanntan
 beanntan-teine
 beart
@@ -3632,11 +3652,13 @@ bheag
 bhealach
 bhean
 bheatha
+bheathach
 bheil
 bheilear
 bheileas
 bheinn
 bheir
+bheirt
 bheith
 bhi
 bhidio
@@ -3650,11 +3672,15 @@ bhitheadh
 bhitheamaid
 bhitheas
 bhithinn
+bhithist
 bhliadhna
 bhliadhnaichean
 bhlàth
 bho
 bho chionn
+bho chionn fhada
+bho chionn ghoirid
+bho chionn greis
 bho dheireadh
 bho seo a-mach
 bho shean
@@ -3670,6 +3696,7 @@ bhotal
 bhrat
 bhrata
 bhreab
+bhriathar
 bhriogais
 bhris
 bhriseadh
@@ -3690,6 +3717,7 @@ bhuaipe
 bhuaipese
 bhuaithe
 bhuaithesan
+bhualadh
 bhuam
 bhuamsa
 bhuapa
@@ -3697,10 +3725,12 @@ bhuapasan
 bhuat
 bhuatsa
 bhuidhe
+bhuille
 bhun
 bhunadh
 bhuntàta
 bhàrr
+bhàs
 bhògas
 bhògas na h-oidhche
 bhòidse
@@ -3832,6 +3862,7 @@ bleideag
 bleigeard
 bleodhan
 bleoghainn
+bleoghann
 bliadhna
 bliadhna fhiosgail
 bliadhna ionmhais
@@ -3876,6 +3907,7 @@ blàthachadh
 blàthachadh na cruinne
 blàthaich
 blàthan
+blàths
 blàths-inntinn
 bo
 bobag
@@ -4008,12 +4040,15 @@ bonaid an losgainn
 bonaid-snàimh
 bonn
 bonn a-staigh
+bonn-a-sia
+bonn-a-sè
 bonn-cuimhne
 bonn-stèidh
 bonnach
 bonnach Brìde
 bonnach air bois, cha bhruich e is cha loisg
 bonnach-bainnse
+bonnach-fallaid
 bonnach-uighe
 bonnaich
 bonnaich-uighe
@@ -4094,6 +4129,7 @@ breabaidhean
 breaban
 breabta
 breac
+breac an t-sìl
 breac-liath
 breac-sheunain
 breacag
@@ -4158,6 +4194,7 @@ briogaidhean
 briogaidhean clì
 briogaidhean deis
 briogais
+briogais ghoirid
 briogais-biob
 briogais-shnàimh
 briogaise
@@ -4221,14 +4258,12 @@ bruach
 bruadair
 bruadar
 bruadar cadail
-bruadaraich
 bruaillean
 bruic
 bruich
 bruich ann an àmhainn
 bruich lus an-seo
 bruichealachd
-bruichealachd - sultriness
 bruicheil
 bruicheile
 bruichidh
@@ -4456,6 +4491,8 @@ buinn
 buinn a-staigh
 buinne
 buinneach
+buinneag
+buinneag-Bhruisealach
 buinnig
 buinnteachd
 buinteanas
@@ -4529,6 +4566,7 @@ bàirneach-riabhach
 bàirneach-riabhach bhàn
 bàirneach-thollta
 bàis
+bàite
 bàn
 bàn-dhearg
 bàn-gheal
@@ -4661,6 +4699,7 @@ bòrdaidhean-sneachda
 bòron
 bòst
 bòsta
+bòstail
 bòstan
 bòtainn
 bòtann
@@ -4711,6 +4750,9 @@ c' ainm a tha ort? c' ainm a tha oirbh?
 c' fhad
 cab
 cabadaich
+cabag
+cabaire
+cabairneach
 caban
 cabanta
 cabar
@@ -4830,6 +4872,7 @@ cailleachag a' chinn ghuirm
 cailleachag cheann-dubh
 cailleachan
 cailleachan-oidhche
+cailleago
 caillich
 caillich-oidhche
 cailliche
@@ -5071,7 +5114,11 @@ capall-mara
 capall-uallaich
 capar
 car
+car a' mhuiltein
+car air char
+car mu char
 car mu chnoc
+car-a'-mhuiltein
 carabhan
 carach
 caractair
@@ -5165,6 +5212,8 @@ cathadh
 cathadh-mara
 cathadh-sneachda
 cathag
+cathag dhearg-chasach
+cathag nan casan dearg
 cathaidh
 cathaidh-mhara
 cathaidh-shneachda
@@ -5310,6 +5359,7 @@ cearr-loman
 cearr-làmhach
 cearr-mharcach
 cearradan
+cearrag
 cearragach
 cearraman
 cearran
@@ -5366,6 +5416,7 @@ ceithir-cheàrnach
 ceithir-deug
 ceithir-thimcheall
 ceud
+ceud mìle
 ceud mìle fàilte
 ceudailiotair
 ceudameatair
@@ -5465,13 +5516,13 @@ cha toil le
 cha toir an uaisle goil air a phoit
 chabar
 chac
-chafed skin
 chaidh
 chaidil
 chaidreach
 chaile
 chaill
 chailleach
+chaillte
 chaise
 chait
 chaitheamh
@@ -5531,6 +5582,7 @@ chirce
 chitheadh
 chitheamaid
 chithear
+chitheas
 chithinn
 chlach
 chladh
@@ -5576,6 +5628,7 @@ choingheall
 choinneamh
 choire
 choise
+cholann
 chom
 choma
 chompanaidh
@@ -5584,6 +5637,7 @@ chona
 chonnaic
 chor
 chorp
+chorrach
 chos-uisge
 chostag
 chostagan
@@ -5596,6 +5650,7 @@ chreid
 chridhe
 chroise
 chrosta
+chruach
 chruaidh
 chruth
 chuain
@@ -5677,6 +5732,7 @@ cian-dhealbh
 cian-fhuaim
 cian-fhuaimean
 cian-òran
+cianail
 cianalas
 ciar
 ciaradh
@@ -5752,6 +5808,9 @@ ciùrradh
 ciùrraidh
 ciùrraidhean
 ciùrrte
+clabaire
+claban
+clabhs
 clach
 clach chruth-atharrachail
 clach ghrùideach
@@ -5763,6 +5822,7 @@ clach-chopair
 clach-dhomblais
 clach-eòlas
 clach-ghainmhich
+clach-ghleusaidh
 clach-mheallain
 clach-mhìle
 clach-uasal
@@ -5851,6 +5911,7 @@ cleachdte
 cleamhna
 cleamhnan
 cleas
+cleas-cainnte
 cleas-teine
 cleasa
 cleasachd
@@ -6027,6 +6088,7 @@ clàs
 clàsa
 clàsan
 clèibh
+clèir
 clèireach
 clèireachail
 clèirich
@@ -6064,8 +6126,10 @@ clòimh mhilis
 clòimh-chat
 clòimh-chotain
 clòimh-liath
+clòimhdeag
 clòimhdeag (Lochaber)
 clòimhe
+clòimheadh
 clòimhean
 clòimhneag
 clòimhteach
@@ -6085,8 +6149,16 @@ cnagan
 cnagan-aodaich
 cnaig
 cnaig-aodaich
+cnap
+cnap na bròige
+cnap-glùine
+cnap-mailleachaidh
+cnap-saic
 cnap-starra
 cnap-starra cànain
+cnapach
+cnapaich
+cnapan
 cnapan-starra cànain
 cnatain
 cnatan
@@ -6111,7 +6183,9 @@ cnuasaich
 cnuic
 cnuimh
 cnuimhe
+cnuimheag
 cnuimhean
+cnuimhneag
 cnàg
 cnàimh
 cnàimh a' chlèibh
@@ -6128,6 +6202,7 @@ cnàimh-droma
 cnàimh-mòr-na-lurgainn
 cnàimh-reamhar
 cnàimh-slinnein
+cnàimheach
 cnàimhean
 cnàimhean-slinnein
 cnàimhneach
@@ -6226,6 +6301,7 @@ co-latha breith
 co-latha breith sona
 co-là-breith
 co-là-breith sona
+co-làmhaiche
 co-mhalairteach
 co-mhaoineach
 co-mhaoineas
@@ -6335,6 +6411,7 @@ coilich-Fhrangaich
 coilidh
 coille
 coille-chnò
+coille-dhubh
 coille-uisge
 coilleadh
 coilleag
@@ -6702,11 +6779,14 @@ crann-deiridh
 crann-fèarna
 crann-fìge
 crann-gaoithe
+crann-snàth
 crann-tara
 crannachan
 crannag
 crannagan
+crannaibh
 crannaig
+crannchur
 craobh
 craobh shìor-ghorm
 craobh-chuilinn
@@ -6714,6 +6794,7 @@ craobh-geanmchno
 craobh-geanmchno-fhiadhaich
 craobh-liath-ghorm
 craobh-mheas
+craobh-shice
 craobh-shloinntearachd
 craobh-ubhail
 craobhaidh fuar
@@ -6808,6 +6889,7 @@ criopton
 crios
 crios Chù-Chulainn
 crios meadhan an t-saoghail
+crios-Chuchulainn
 crios-meadhain
 crios-sàbhailteachd
 crios-sàbhalaidh
@@ -6867,8 +6949,10 @@ cronachadh
 cronachaidh
 cronachaidhean
 cronaich
+cronaig
 crosda
 crosdachd
+crosgag-shnàtha
 crosta
 crotach
 crotal
@@ -6911,6 +6995,7 @@ cruinneil
 cruinnich
 cruit
 cruit-chòrda
+cruithear
 cruithneachd
 cruithneachd-buidhe
 cruth
@@ -7083,6 +7168,7 @@ cuilidh
 cuilidhean
 cuilinn
 cuim
+cuime
 cuimhne
 cuimhneachadh
 cuimhneachaidh
@@ -7120,6 +7206,7 @@ cuir am feabhs
 cuir am mearachd
 cuir am meud
 cuir an aire
+cuir an clamhan gobhlach am measg nan cearc
 cuir an dara taobh
 cuir an dàrna taobh
 cuir an fhìrinn
@@ -7162,6 +7249,7 @@ cuir-ris
 cuirceag
 cuireadh
 cuireadh pìobaire
+cuiridh
 cuirm
 cuirm-bhliadhnail
 cuirm-chiùil
@@ -7861,6 +7949,7 @@ dealbhannan dath-uisge
 dealg
 dealg-stocainn
 dealgan
+dealt
 dealuich
 deamhan
 deamhas
@@ -7903,6 +7992,7 @@ dearc-ola
 dearc-roide
 dearc-thachdaidh
 dearc-ubhal
+dearc-uisge
 dearcag
 dearcag ghorm
 dearcag-Fhrangach
@@ -7972,6 +8062,7 @@ deatach
 deataiche
 deataichean
 deatamach
+deathach
 deic
 deice
 deicean
@@ -8035,9 +8126,7 @@ deocan-dearga
 deoch
 deoch air uilinn
 deoch an dorais
-deoch an doras
 deoch an doruis
-deoch an dorus
 deoch an uil-ìoc
 deoch chasruisgte
 deoch làidir
@@ -8124,6 +8213,7 @@ dhachaidh
 dhachaigh
 dhaibh
 dhaibhsan
+dhall
 dham
 dhan
 dhan dara taobh
@@ -8143,6 +8233,7 @@ dheatach
 dheigheadh
 dheighinn
 dheireadh
+dheise
 dhen
 dheth
 dhethsan
@@ -8350,6 +8441,7 @@ do-thuigsinneachdan
 do-àireamh
 doL
 dobhar-chù
+docair
 docaireachd
 does not exist
 doi-chiallach
@@ -8416,10 +8508,13 @@ dorchaidhean
 dorgh
 dorra
 dorra-tràigh
+dorsair
 dorsan
 dorsan a-muigh
 dorsan mòra
 dorus
+dos
+dos beag
 dotair
 dotair-teaghlaich
 dotairean
@@ -8593,6 +8688,7 @@ dubh-fhacal
 dubh-fhaclan
 dubh-liath
 dubh-ogha
+dubh-threabha
 dubhach
 dubhachas
 dubhadh
@@ -8655,6 +8751,7 @@ duine-eigin
 duine-mharbhadh
 duine-uasal
 duinealas
+duineigin
 duineil
 duinn
 duinne
@@ -8662,6 +8759,7 @@ duirc
 duirc-ghiuthais
 duircean
 duirche
+duirgh
 duirt
 duit
 duitsa
@@ -8884,7 +8982,7 @@ déidh-leum
 déiseag
 dì-
 dì-armaich
-dì-bruich - undercooked
+dì-bruich
 dì-cheann
 dì-cheannadh
 dì-cheannaich
@@ -8934,6 +9032,8 @@ dìobhail
 dìobhair
 dìobhairt
 dìobhalach
+dìochuimhne
+dìochuimhneach
 dìochuimhneachadh
 dìochuimhnich
 dìoghail
@@ -8954,6 +9054,7 @@ dìollaid
 dìomhain
 dìomhair
 dìomhanas
+dìomoladh
 dìon
 dìona
 dìonach
@@ -8996,6 +9097,7 @@ dòigheil
 dòirt
 dòlais
 dòlas
+dòlasach
 dòlasachd
 dòlasan
 dòrainn
@@ -9278,17 +9380,18 @@ ealantachd
 ealantaich
 ealantair
 ealantas
+ealf
 eallach
 eallan
 ealt
 ealta
 ealtan
 eanach
+eanach-gàrraidh
 eanchainn
 eanchainne
 eanchainnean
 ear
-ear-dheas
 ear-thuath
 earb
 earba
@@ -9462,6 +9565,7 @@ eun-Frangach
 eun-an-t-sneachda
 eun-bealltainne
 eun-creiche
+eun-crom
 eun-druidh
 eun-eòlaiche
 eun-eòlaichean
@@ -9485,6 +9589,7 @@ euphonium
 euslaint
 euslainte
 euslaintean
+eàrlas
 eàrr
 eàrr-bhruich
 eàrr-dearg
@@ -9526,6 +9631,7 @@ eòlasan
 eòrna
 f
 f (feasgar)
+fa choinneamh
 fa chomhair
 fa dheireadh
 fa-dheòidh
@@ -9574,6 +9680,15 @@ faiceall
 faiceallach
 faiceam
 faiceamaid
+faiche
+faiche an bhaile
+faiche aonaigh
+faiche bollaí
+faiche cróice
+faiche ghiústála
+faiche imeartha
+faiche mhargaidh
+faiche thraenála
 faicibh
 faicill
 faicinn
@@ -9645,6 +9760,7 @@ falbh
 falbh air iteig
 falbhaidh
 falbhanaiche na h-oidhche
+fallaid
 fallain
 fallaineachd
 fallas
@@ -9789,6 +9905,7 @@ feamnaidhean
 feann
 feannadh
 feannag
+feannag-ghlas
 feansa
 fear
 fear an taighe
@@ -9849,6 +9966,7 @@ feitheamh
 feithimh
 feocallan
 feocallan-Eòrpach
+feothal
 feucag
 feuch
 feuch gun còrd e ribh
@@ -9879,6 +9997,7 @@ feusagan dùinte
 feusaig
 feusaige
 feusaige dùinte
+feusgan
 feàrna
 feàrr
 feòil
@@ -9936,6 +10055,7 @@ fheusagach
 fheàrr
 fheòladair
 fhiacais
+fhiacla
 fhichead
 fhionn
 fhionna
@@ -10090,6 +10210,7 @@ fionnsgeòil
 fionntach
 fiontach
 fios
+fios sgeulaichdean a' bhaile
 fiosa
 fiosaiche
 fiosaichean
@@ -10174,6 +10295,7 @@ flùraichean
 fo
 fo bhuaidh na dighe
 fo gheasaibh
+fo ghruaim
 fo los
 fo mhaide na poite
 fo mhulad
@@ -10200,6 +10322,7 @@ fo-dheirg
 fo-fhlaitheachd
 fo-ghiùlanair
 fo-ghnìomhachas
+fo-ghèineas
 fo-lagh
 fo-lagha
 fo-laghannan
@@ -10240,6 +10363,7 @@ fodhaibh
 fodhaibhse
 fodhainn
 fodhainne
+fodhal
 fodham
 fodhamsa
 fodhasan
@@ -10544,6 +10668,7 @@ fuiteagaidh
 fulaing
 fulang
 fulangach
+fulmair
 func
 fungas
 furachail
@@ -10595,6 +10720,7 @@ fàinneachan-pòsaidh
 fàinneachan-solais
 fàinnean
 fàinnte
+fàir
 fàire
 fàireag-sheile
 fàirean
@@ -10610,6 +10736,7 @@ fàitheam
 fàitheaman
 fàitheim
 fàl
+fàl (Argyll)
 fàn
 fànas
 fàradh
@@ -10661,6 +10788,7 @@ fèin-aithnean
 fèin-bhrodadh
 fèin-bhrodaidh
 fèin-bhrodaidhean
+fèin-eachdraidh
 fèin-fhoghainteach
 fèin-fhoghainteachd
 fèin-fhoghainteachdan
@@ -10684,6 +10812,7 @@ fèineag
 fèineil
 fèis
 fèisd
+fèith
 féidh
 féileadh
 féileagan
@@ -10748,6 +10877,7 @@ fòidean
 fòidearachd
 fòidhpe
 fòineimeach
+fòirneart
 fòirneartmhor
 fòirneis
 fòn
@@ -10768,6 +10898,8 @@ fòrlagh
 fòrlaidhean
 fòrlaighean
 fòs
+fòtas
+fòthannan-crom
 fóghaint
 fóghainteachd
 fóghainteas
@@ -10819,6 +10951,7 @@ gabhalaichean
 gabhalaichean gaol air
 gabhaltach
 gabhann
+gabhann (Perthshire)
 gabhar-allaidh
 gabhar-bhreac
 gach
@@ -10840,6 +10973,7 @@ gag gàg
 gagan
 gaid
 gail
+gailc
 gailearaidh
 gaileiridh
 gaileiridhean
@@ -10904,7 +11038,7 @@ gamhna
 gan
 gann
 gann de
-gann-bhruich - to parboil
+gann-bhruich
 gaoid
 gaoideach
 gaoideanta
@@ -10961,7 +11095,6 @@ gath-teth
 gatha
 gathan
 gathannan
-gd.
 ge
 ge b' e
 ge be
@@ -11000,6 +11133,7 @@ gealaig-buachair
 gealaige buidhe
 gealaige-dubh-cheannaich
 gealan
+gealbhan
 gealbhonn
 gealbhonn nam preas
 gealbhonn nan craobh
@@ -11039,6 +11173,7 @@ geama
 geama-bhidio
 geamannan
 geamannan Gàidhealach
+geamhlag
 geamhrachadh
 geamhrachaidh
 geamhrachaidhean
@@ -11116,6 +11251,8 @@ geis
 generous
 geobag
 geodha
+geop
+geotal
 geug
 geug-dhuilleagach
 geur
@@ -11134,6 +11271,7 @@ geòire
 geòlas
 ghabh
 ghabhas
+ghad
 ghal
 ghalair
 ghalar
@@ -11141,6 +11279,7 @@ ghaoth
 gharbh
 ghasta
 gheadas
+ghealach
 gheall
 gheat
 gheataichean
@@ -11153,9 +11292,11 @@ ghill
 ghille
 ghin
 ghlac
+ghlacadh
 ghlais
 ghlic
 ghliocais
+ghluais
 ghluasad
 ghob
 ghoid
@@ -11249,6 +11390,7 @@ giobarnach
 giofag
 giofagan
 giofaige
+giolla faiche
 giomach
 giomach-pìobaire
 giomach-uisge Ameireaganach
@@ -11264,6 +11406,7 @@ giosag
 giotàr
 giotàr dealain
 giseag
+giusgal
 giuthais
 giuthas
 giùlain
@@ -11280,6 +11423,7 @@ glacaidh
 glacaidhean
 glacan
 glacannan
+glagaireachd (Killin)
 glaice
 glaine
 glainn'-uighe
@@ -11420,6 +11564,7 @@ gnàth-obair
 gnàth-theagasg
 gnàtha
 gnàthach
+gnàthaich
 gnàthais
 gnàthais-chainnt
 gnàthais-chainnte
@@ -11483,6 +11628,7 @@ gob-sheisg ruadh
 gobach
 gobach. cabach
 gobada-lìridh
+gobag
 gobaire
 gobairean
 goban
@@ -11560,6 +11706,7 @@ graf
 grafa
 grafaichean
 gram
+granaraidh
 greallach
 greann
 greannach
@@ -11749,6 +11896,7 @@ gubarnach
 guda-leum
 gug gùg
 guga
+guga-Tiortach
 gugachan
 gugalaidh-gù
 guib
@@ -11781,6 +11929,8 @@ gun fhiosta
 gun luaidh
 gun robh math agad
 gun robh math agaibh
+gun stuth
+gun stuth (Islay)
 gun teagamh
 gun tèid leat
 gun uisge
@@ -11866,6 +12016,7 @@ gèilleadh
 gèillean
 gèillidh
 gèillidhean
+gèimhleag
 gèinn
 gèire
 gìogan
@@ -11907,15 +12058,15 @@ hi homh homh
 hiatais
 hiatas
 hiopocrasaidh
-hobbit
+hobat
 hocaidh
 hocaidh-deighe
 hoigh
 hoilmiam
 homh
 huds
-hàbad
 hèiliam
+hì hua huagaich
 hì hò hù huagaich
 hò-rò
 hò-rò!
@@ -11947,7 +12098,6 @@ iar-ban-ogha
 iar-bhan-ogha
 iar-cheann-suidhe
 iar-chinn-suidhe
-iar-dheas
 iar-itheadair
 iar-leasachain
 iar-leasachan
@@ -11957,7 +12107,6 @@ iar-mhìrean
 iar-ogha
 iar-ogha sinn-seanar
 iar-oghaichean sinn-phàrantain
-iar-thuath
 iarainn
 iarann
 iarann preasach
@@ -11978,6 +12127,8 @@ iasad
 iasadan
 iasaid
 iasg
+iasg agus sliseagan
+iasg agus tiops
 iasg dubh
 iasg is feòil
 iasg is tiops
@@ -12063,6 +12214,7 @@ innleachdan
 innleadair
 innleadair-thogalach
 innleadaire
+innleadaireachd
 innleadairean
 innleadairean-thogalach
 innse
@@ -12081,6 +12233,7 @@ inntinn-eòlas
 inntinneach
 inntinnean
 inntrig
+iobalag obalag
 iochd
 iochd air n-achd
 iochdmhor
@@ -12147,6 +12300,7 @@ ioma-chànaineach
 ioma-chànanach
 ioma-chànanaich
 ioma-dhathach
+ioma-dhiadhach
 ioma-dhiadhachd
 ioma-dhiadhachdan
 ioma-dhualchasach
@@ -12190,6 +12344,7 @@ iomlaid
 iomlan
 iomlanachd
 iomnuachadh
+iomnuachaidh
 iompachadh
 iompachaidh
 iompachaidhean
@@ -12342,6 +12497,7 @@ is gorm na cnuic a tha fada bhuainn
 is i an dias is truime is ìsle chromas a ceann
 is ionnan aithreachas crìche ri 'bhi cuir siol mu Fheill-Màrtainn
 is lugha air
+is math an còcaire an t-acras
 is math le
 is minig a bha an donas dàicheil
 is mise gu dìleas
@@ -12665,6 +12821,7 @@ leibh
 leibhse
 leig
 leig air
+leig air dìochuimhne
 leig an saoghal leis an t-sruth
 leig anail
 leig fuil
@@ -12727,9 +12884,10 @@ leth-allt
 leth-aoin
 leth-aon
 leth-aonan
+leth-bhliadhna
 leth-bhreith
 leth-bhreith gnè
-leth-bhruich - to parboil
+leth-bhruich
 leth-bhràthair
 leth-chaman
 leth-char
@@ -12788,6 +12946,7 @@ leòid
 leòidean
 leòmag
 leòman
+leòmann
 leòmhainn
 leòmhann
 leòmhann-chraobh
@@ -12921,6 +13080,7 @@ loisgiche
 loisgte
 loit-leigheas
 lom
+lomaire faiche
 lomhainn
 lomnochd
 lon
@@ -13043,13 +13203,13 @@ luis bhuidhe Bhealltainn
 luis dà bhliadhnail
 luiseanachd
 luitèitiam
+lurach
 luranach
 lurgainn
 lurgann
 lurgannan
 lus
 lus Chaluim Chille
-lus Chù-Chulainn
 lus a' chlamain
 lus a' chomain
 lus a' chrom-chinn
@@ -13061,7 +13221,9 @@ lus mhic rìgh Bhreatainn
 lus na h-oidhche
 lus nam ban-sìth
 lus nan dearc
+lus nan gillean òga
 lus nan oighreag
+lus-Chuchulainn
 lus-crè
 lus-féidh clòimheach
 lus-itheach
@@ -13092,6 +13254,7 @@ làin
 làin-mhara
 làine
 làir
+làir-ghlas (Arisaig)
 làir-mhaide
 làireach
 làirinciam
@@ -13315,7 +13478,6 @@ madadh allaidh
 madadh fada
 madadh-allaidh
 madadh-donn
-madadh-donn (South Argyll, Arran)
 madadh-gul
 madadh-mór
 madadh-ruadh
@@ -13392,6 +13554,7 @@ maighstir
 maighstir an t-siorcais
 maignèisiam
 mailghean
+maille ri
 main-obair
 mair
 mairbh
@@ -13407,6 +13570,7 @@ maiseachd
 maiseadail
 maisealachd
 maistir
+maistreadh
 maistrich
 maith
 maith na bà
@@ -13490,10 +13654,12 @@ mar as fheàrr as urrainn do
 mar as trice
 mar bu trice
 mar chloich às an adhar
+mar chù a' mùin air an t-sneachd
 mar eadh
 mar eisimpleir
 mar gum b' eadh
 mar gum biodh
+mar ri
 mar seo
 mar sin
 mar sin air adhart
@@ -13593,6 +13759,7 @@ mathanan
 mathas
 matà
 me
+meaban
 meacain
 meacan
 meacan an rìgh
@@ -13606,6 +13773,8 @@ meacan-rìgh fiadhain
 meacan-uilleann
 meacanaig
 meacanaigean
+meacanaigs
+meacanaigs quantumach
 meacanan
 meach
 meadaigeach
@@ -13620,6 +13789,7 @@ meadhanan
 meadhg
 meaga-liotair
 meal
+meal a naidheachd
 meal do naidheachd
 meal ur naidheachd
 meal-a-naidheachd
@@ -13695,7 +13865,6 @@ meatair cheàrnagaich
 meatair ciúbach
 meatairean
 meatairean ceàrnagach
-medium
 meidh
 meidh-àile
 meidhe
@@ -13790,6 +13959,7 @@ mhàg mhàg
 mhàthair
 mhèirleach
 mhìosachan
+mhò
 mhòmaid
 mhòr
 mi
@@ -13800,6 +13970,7 @@ miadhon
 miadhonach
 mial
 mial-choille
+mial-chù
 miala
 mialan
 mialchu-féidh
@@ -14100,6 +14271,7 @@ muir-thìreach
 muireach
 muirt
 mulad
+muladach
 muladan
 mulaid
 mullach
@@ -14718,6 +14890,7 @@ na sir, is na seachan an an cath
 nach
 nach binn guth an eòin far na dh'fhàs e
 nach eil
+nach eil fhios
 nach maireann
 nad
 naidheachd
@@ -14828,10 +15001,12 @@ neach-tòiseachaidh
 neacrois
 nead
 neadaich
+neamhan
 neamhnaid
 neamhnaide
 neamhnaidean
 neapaigear
+nearbh-phian
 nearbhach
 neart
 neartmhor
@@ -14993,6 +15168,7 @@ notachaidhean
 notaich
 notaichean
 notaichean-maise
+nuadal
 nuadh
 nuadha
 nuadhaich
@@ -15069,12 +15245,14 @@ o chionn
 o chionn fhada
 o chionn ghoirid
 o chionn greis
+o dheas
 o mhoch gu dubh
 o mo Dhia
 o mo chreach
 o seo a-mach
 o shean
 o sin a-mach
+o thuath
 o thùs
 ob
 obag
@@ -15240,11 +15418,14 @@ ollamh
 ollamhan
 on
 on a
+on ear
+on iar
 on uair sin a-mach
 onair
 onaire
 onairean
 onarach
+onfhadh
 onoir
 onorach
 opairèisean
@@ -15427,6 +15608,7 @@ peasair-each
 peasair-luchag - tufted vetch
 peasan
 peasanan
+peasg
 peasrach
 peasraichean
 peata
@@ -15465,6 +15647,7 @@ peucag
 peucagan
 peucaige
 peur
+peur-stobach
 peuran
 peurtag
 phana
@@ -15526,6 +15709,7 @@ pioghaidean
 piorbhaig
 piorraid
 piotsa
+piotsathan
 piseach
 piseag
 piseagan
@@ -15553,6 +15737,7 @@ pl. tdd
 plaide
 plana
 planaid
+plangaid
 plaoisg
 plaoisg-uighe
 plaosg
@@ -15567,6 +15752,8 @@ platapus
 plathadh
 plathaidh
 plathaidhean
+pleantrainn
+pleintri
 plenty
 pleòiteag
 pleòiteag (North Uist, Benbecula)
@@ -15639,6 +15826,7 @@ poll-acarsaid
 poll-caca
 poll-salainn
 pollach
+pollastair
 polòiniam
 pongail
 ponndadh
@@ -15692,6 +15880,8 @@ preasach
 preasan
 preasarlach
 preasarlaich
+preig
+preigeadair
 priob
 priobadh
 priobaidh
@@ -15839,6 +16029,7 @@ pàgantachdan
 pàidh
 pàidh Albannach
 pàigh
+pàigheadh
 pàighean
 pàighidh am feamann am feurach
 pàipear
@@ -16091,6 +16282,8 @@ reul-bhad
 reul-chearbach
 reul-eòlas
 reultan
+reumhach
+reumhag
 reusanta
 reòdh
 reòdhadh
@@ -16335,6 +16528,7 @@ rubha
 rubhannan
 rud
 rud beag
+rud gun fheum
 rud sam bith
 rudail
 rudan
@@ -16585,6 +16779,7 @@ sailleadh
 saillidh
 saillidhean
 saillte
+sailm
 sailm-uchd
 saimh
 sainnt
@@ -16696,6 +16891,7 @@ seaboirgiam
 seacaid
 seach
 seach-shlighe
+seach-stiùireadh
 seach-thìm
 seach-thìme
 seach-thìmean
@@ -16775,6 +16971,7 @@ sean
 seana-
 seana-ghille
 seana-mhaighdeann
+seanacach
 seanachaidh
 seanacheannach
 seanaiche
@@ -16820,6 +17017,8 @@ searbhag
 searbhag dhuilleagach
 searbhagan
 searbhaig
+searbhan-muc
+searbhan-muice gàrraidh
 searbhanta
 searbhantan
 searbhasach
@@ -16849,7 +17048,6 @@ seasgair
 seasgairean
 seasgar
 seasmhach
-seasons: ràith: earrach · samhradh · foghar · geamhradh [edit]
 seatlaig
 seiche
 seichean
@@ -16965,6 +17163,7 @@ seirbheisean
 seirbheisean catharra
 seirbheisean nàiseanta
 seirbhiseach
+seirbhiseach nan cridheachan
 seirbhisich
 seirc
 seircean
@@ -16992,6 +17191,7 @@ seothaiche
 seud
 seud-muineil
 seudag
+seudaire
 seudan
 seula
 seulachan
@@ -17138,6 +17338,7 @@ sgailc-nid
 sgairp
 sgairpe
 sgairpean
+sgairteil
 sgaiteach
 sgal
 sgala
@@ -17377,10 +17578,12 @@ sguabaidh
 sguabaidhean
 sguaban
 sguaibe
+sguan (Strathglass)
 sgud
 sgudail
 sgudail rèidio-beò
 sgudal
+sgudal (Scalpay)
 sgudal rèidio-beò
 sguir
 sguir de
@@ -17430,6 +17633,7 @@ shealbhach
 shean
 sheanair
 sheilg
+sheinn
 sheirbhiseach
 sheisear
 sheunta
@@ -17446,12 +17650,14 @@ shoilleir
 shoirbheachail
 shorcha
 shreap
+shrian
 shròn
 shuas
 shàbhail
 shéid
 shìl
 shìobhalta
+shìoda
 shìos
 sia
 sia deug
@@ -17475,6 +17681,7 @@ sibh2
 sibhse
 sibhse2
 sibhsigeadh
+sicamor
 sil
 sileacon
 sileadh
@@ -17487,6 +17694,7 @@ simileir
 sin
 sin a ràdh
 sin agad e
+sin mar a thuiteas an crannchur
 sin ri ràdh
 sin thu fhèin
 sin thu fhèin!
@@ -17505,6 +17713,7 @@ sinnsear
 sinnsearachd
 sinnsearan
 sinnsire
+siocamor
 siogàir
 siogàr
 siogàran
@@ -17670,6 +17879,7 @@ slànaich
 slànaighear
 slànair
 slèibh
+slèibhe
 slèibhtean
 slèigh
 slèiste
@@ -17787,6 +17997,7 @@ snaimean
 snaimeannan
 snaip
 snais
+snaoim
 snaoisean
 snap
 snapach
@@ -17806,6 +18017,7 @@ sneachdail
 sneadh
 sneadha
 sneadhan
+sneic
 sniog-sneog
 snodha-gàire
 snog
@@ -17814,12 +18026,32 @@ snucair
 snàgail
 snàig
 snàigean
+snàithean
+snàithle
+snàithlean
+snàithnean
 snàmh
 snàmh luath
 snàmhadh
 snàmhaiche
 snàmhaidh
 snàmhair
+snàth
+snàth-clòimhe
+snàth-cotain
+snàth-cuir
+snàth-càraidh
+snàth-dlùthaidh
+snàth-fhuaigheil
+snàth-galadh
+snàth-lus
+snàth-lìn
+snàth-moineis
+snàth-ola
+snàth-riaghailt
+snàth-rèilidh
+snàth-sìoda
+snàth-truisidh
 snàthad
 snàthadag
 snàthag
@@ -17986,6 +18218,7 @@ speur
 speuradaireachd
 speuradh
 spideag
+spionnadh
 spiorad
 spioradan
 spioraid
@@ -18371,6 +18604,7 @@ suainealaichean
 suainealais
 suainealas
 suainean
+suainsean (Strathglass)
 suairc
 suairce
 suairceas
@@ -18409,7 +18643,6 @@ suirgheach
 suiteas
 suiteis
 sult
-sultry
 sunnag
 sunnd
 sunndach
@@ -18442,6 +18675,7 @@ sàmhach
 sàmhchair
 sàmhchaire
 sàr
+sàr àrd-ìre
 sàr-ùmhal
 sàrachadh
 sàrachaidh
@@ -18773,11 +19007,14 @@ tainge
 taingeil
 tainnleag
 tair-
+tairbh
 tairbhe
 tairg
 tairg comhairle do
 tairgse
 tairgseachan
+tairsgeil
+tairsgeir
 taisbeanadh
 taisbeanaidh
 taisbeanaidhean
@@ -18808,6 +19045,7 @@ talla-cluiche
 talmaich
 talmhainn
 talmhainnean
+talmhan
 talmhana
 tamhasg
 tana
@@ -18862,11 +19100,12 @@ tarbh-boidhre
 tarbh-chù
 tarbh-coille
 tarbh-dallaig
+tarbh-losgann
 tarbh-mhadadh
 tarbh-nathrach
 tarbh-oighre
 tarbh-ruagadh
-tarbh-réidh
+tarbh-rèidh
 tarbh-shìolag
 tarbh-tàna
 tarbh-uisge
@@ -18928,6 +19167,7 @@ teaghlaich
 teaghlaichean
 teagmhach
 teagmhachd
+teallach
 teallùiriam
 teampall
 teanais
@@ -18941,6 +19181,7 @@ teangair
 teangan
 teangannan
 teann
+teannadh
 teannaich
 teannta
 teanntachd
@@ -18961,7 +19202,9 @@ teasachaidhean
 teasadair
 teasadairean
 teasaich
+teasairg
 teasg
+teasraig
 teatha
 teich
 teicneolais
@@ -19019,6 +19262,7 @@ teàrnadh
 teàrnaidh
 teàrnaidhean
 teàrr
+teò-chridheach
 teòclaid
 teòma
 tha
@@ -19027,6 +19271,7 @@ tha an Fheachd a bhith còmhla riut
 tha an t-àm aig
 tha ceist agam
 tha currac air a' bheinn siud an t-uisge a tighinn
+tha fhios
 tha fios aig an luch nach eil an cat a-staigh
 tha gaol agam oirbh
 tha gaol agam ort
@@ -19056,6 +19301,7 @@ thairis air
 thairis-san
 thairte
 thairtese
+thalamh
 thall
 thall 's a-bhos
 thall thairis
@@ -19102,6 +19348,7 @@ thig gu ìre
 thig suas air
 thig suas ri
 thig tarsainn air
+thigeas
 thighe
 thilg
 thill
@@ -19111,13 +19358,16 @@ thiugh
 thog
 thogadh
 thoir
+thoir aire air do ghnothach fhèin
 thoir aran
+thoir bho
 thoir breith
 thoir comas do
 thoir comhairle air
 thoir comhairle air/do
 thoir comhairle do
 thoir cothrom do
+thoir dhan mhòinteach
 thoir do chasan leat
 thoir do chasan leat!
 thoir eich a dh'Innse Gall
@@ -19125,6 +19375,7 @@ thoir fiodhrach do Loch Abar
 thoir geàrr-chunntas air
 thoir ionnsaigh
 thoir ort
+thoir seachad
 thoir seachad air mhàl
 thoir suas
 thoir taing do
@@ -19180,6 +19431,7 @@ thèid
 thèid dùthchas an aghaidh nan creag
 théid capall don choille ach brisidh aon uallach a chridhe
 thìochdaisean
+thòin
 thòisich
 thòn
 tiamhaidh
@@ -19245,6 +19497,7 @@ tionnsgainean
 tionnsgalach
 tiops
 tioram
+tiorc
 tiotail
 tiotal
 tiotalan
@@ -19259,10 +19512,8 @@ tlachd
 tlachdan
 tlachdmhor
 tlàth
-to half-boil
 to more than one person
 to one person
-to stew
 tobair
 tobar
 tobhta
@@ -19306,6 +19557,9 @@ toinnte
 toir
 toirds
 toirmeachan-dé
+toirsgeir
+toirsgian
+toirsgian (Wester Ross, Lochalsh)
 toirt
 toirt fa-near
 toirt suas
@@ -19405,12 +19659,23 @@ trasgan
 trasna
 trasta
 tre
+treabh
+treabhach
+treabhachail
+treabhachas
+treabhachd
+treabhadair
 treabhadh
+treabhagan
+treabhaiche
+treabhaidh
+treabhair
 treamsgal
 treas
 treas pearsa
 treasa
 treasamh
+treidhsgeir
 treise
 treubh
 treubha
@@ -19438,6 +19703,8 @@ tricead
 tricead dàimheach
 tricead dàimheach fad-ùine
 triceid
+trilleachain
+trilleachan
 trioblaid
 trioblaide
 trioblaidean
@@ -19521,6 +19788,7 @@ trus
 trusadh
 trusaidh
 trusaidhean
+trusgan
 trustar
 tràgha
 tràghad
@@ -19601,6 +19869,7 @@ tuagh
 tuaghan
 tuaighe
 tuaigheadh
+tuairgneadh
 tuairisgeil
 tuairisgeul
 tuairisgeulan
@@ -19849,6 +20118,7 @@ tùirse
 tùirseach-mhòr
 tùis
 tùr
+tùrsach
 tùs
 tùs dàrnach
 tùs-ainm
@@ -20116,6 +20386,7 @@ uncail
 uncailean
 unnsa
 unnsachan
+unnta
 ur
 ur beatha
 urN
@@ -20152,13 +20423,11 @@ uèirean
 uèirean biorach
 uèirichean
 vanaidiam
-well-done
+watchaig
 wok
 xeanon
 yen
 yer ma
-{{t|1=gd|2=gar}}
-À
 Àdhamh
 Àird Rosain
 Àireamh
@@ -20166,8 +20435,6 @@ yer ma
 Àisianach
 Àrd-seansalair nam Morairean
 Àth nan Damh
-Á á É é Ó ó
-È
 Èipheiteach
 Èireann
 Èireannach
@@ -20188,14 +20455,12 @@ yer ma
 Ìosa Crìosd
 Ìosa Crìost
 Ìosag
-Ò
 Òban
 Ògmh
 Ògmhios
 Ògmhiosa
 Ògmhìos
 Òigh
-Ù
 Ùisdean
 Ùna
 Ùranas
@@ -20331,6 +20596,7 @@ yer ma
 àrd-chathair
 àrd-chiallach
 àrd-chuan
+àrd-doras
 àrd-eaglais
 àrd-easbaig
 àrd-fhear-nimh
@@ -20350,6 +20616,7 @@ yer ma
 àrd-thìr
 àrd-thìreach
 àrd-uaisle
+àrd-ìre
 àrd-ùghdarras
 àrd-ùrlair
 àrd-ùrlar
@@ -20402,7 +20669,6 @@ yer ma
 àtha
 àthan
 àthannan
-è
 èalaidh
 èasgaidh
 èibhinn
@@ -20466,7 +20732,6 @@ yer ma
 éist
 éisteachd
 éisteachdan
-ì
 ìce
 ìghne
 ìghne airson ìghne
@@ -20504,7 +20769,6 @@ yer ma
 ìseal
 ìsle
 ìsle-mhara
-ò
 òb
 òban
 òboidh
@@ -20555,6 +20819,7 @@ yer ma
 òran
 òran nan car
 òran tàlaidh
+òran-bleoghainn
 òran-buachaill
 òran-càraid
 òran-luadhaidh
@@ -20600,7 +20865,6 @@ yer ma
 òstaireachd-lìn
 òstaireachdan
 òstairean
-ù
 ùbhail
 ùbhal
 ùbhlan
@@ -20647,4 +20911,3 @@ yer ma
 ⁊
 ⁊c
 ⁊c.
-◌̀

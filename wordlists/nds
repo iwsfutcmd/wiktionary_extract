@@ -18,6 +18,7 @@
 -in
 -ismus
 -logie
+-nisse
 -s
 -sche
 -schop
@@ -41,6 +42,7 @@ Aanten
 Abchaasch
 Achtersteven
 Adder
+Advent
 Adventssönndaagen
 Adventstied
 Adventstiet
@@ -74,6 +76,7 @@ Anwoot (Datteln)
 Anword (Königssteele)
 Appel
 Appelsien
+Aragoneesch
 Arend
 Argentinien
 Aristoteles
@@ -379,7 +382,7 @@ Fink
 Fisch
 Fischaadler
 Fischarend
-Fisk
+Fisk (Ravensberg)
 Flaag
 Flach
 Flachen
@@ -405,7 +408,6 @@ Foortkamen
 Foot
 Forell
 Forschen
-Foß
 Frankrich
 Frankriek
 Franzöösch
@@ -439,7 +441,6 @@ Fründin
 Fründschop
 Fuhr
 Furcht
-Fuust
 Färöer
 Föhl
 Föhlen
@@ -502,6 +503,7 @@ Goäd
 Graat
 Granaatappel
 Gras
+Graukoppgoos
 Griepswold
 Grip
 Großmudder
@@ -598,20 +600,25 @@ Hiärt
 Hiärte
 Hiätt
 Hochduitsch
+Hochdütsch
 Hochdütschspräken
 Hochteyt
+Hochtid
 Hochtidsfest
 Hochtied
 Hochtiet
 Hochtiit
 Hochtyd
 Hochtyt
+Hochtîd
+Hogdütsch
 Hohn
 Holtduuv
 Holtduven
 Holthacker
 Hongkong
 Honnig
+Hoochdütsch
 Hoochdüütsch
 Hoof
 Hoor
@@ -654,8 +661,14 @@ Insel
 Insel Grootbritannien
 Inselbagen
 Inselbahn
-InselbeseukerInselbeseukerinInselbeseukerschInselbeseukersche
-InselbesökerInselbesökerinInselbesökerschInselbesökersche
+Inselbeseuker
+Inselbeseukerin
+Inselbeseukersch
+Inselbeseukersche
+Inselbesöker
+Inselbesökerin
+Inselbesökersch
+Inselbesökersche
 Inselbogen
 Inselbohn
 Inselbult
@@ -681,7 +694,6 @@ Inselsteed
 Inselwelt
 Inselöörd
 Intritt
-Irland
 Isel
 It
 Januwar
@@ -790,6 +802,7 @@ Krüüzfohrtschipp
 Krüüzteken
 Krüüzwoortradels
 Kundschop
+Kunkelmei (Holsteinisch)
 Kunst
 Kupp
 Kurp
@@ -846,6 +859,7 @@ Literatur
 Liäser
 Liäwen
 Losmann
+Low Saxon/Low German: moi
 Lung
 Luxemburg
 Lächeln
@@ -871,8 +885,6 @@ Mann
 Mannel
 Mannschop
 Mannslüüd
-Markt
-Markt-
 Maschien
 Mathematik
 Matten
@@ -1018,18 +1030,17 @@ Ogenbru
 Ogenhöhl
 Ogenlid
 Ohr
-Oldsassisch
-Ollsassisch
 Oodlers
 Oog
 Ool
+Ooldsassisch
 Oolsch
 Ooltfranzöösch
 Oolthoochdüütsch
+Ooltsassisch
 Oont
 Oordeel
 Oostfreesland
-Oostfräisland
 Oostseeinsel
 Opdrag
 Opgaav
@@ -1088,7 +1099,6 @@ Plattdütschen
 Plattdüütsch
 Plattfäut
 Plattspräken
-Plautdietsch Schien
 Plicht
 Ploogschoor
 Pluum
@@ -1473,7 +1483,6 @@ Verwunnern
 Visk
 Vogel
 Voss
-Voß
 Vuegel
 Vulkan
 Vörgaav
@@ -1580,11 +1589,13 @@ Winter
 Wintertiet
 Wischnu
 Wittböök
+Wittenstein
 Wittruss'sch
 Wittrussland
 Wolfgang
 Woold
 Woonsdaag
+Woord
 Woordenbook
 Woort
 Woorten
@@ -1603,7 +1614,6 @@ Wöörlist
 Wöörlisten
 Wööst
 Wülp
-Würrelkheid
 Węrwulf
 Zeeg
 Zegenbuck
@@ -1625,8 +1635,6 @@ achtergangen
 achtergüng
 achtig
 achtig tachentig
-achtkâant
-achttainkâant
 achtteihn
 achttig
 achtunachtig achtuntachentig
@@ -1744,8 +1752,6 @@ breet
 breken
 bringen
 bruken
-bräigenfat
-bräigenkâast
 bugen
 buten
 butenwarts
@@ -1755,8 +1761,6 @@ böös
 daags
 daagsöver
 daalwarts
-daartainkâant
-daartiğkâant
 dags
 dal
 dallig
@@ -1799,6 +1803,7 @@ dorv
 dorvt
 dow
 downloaden
+draimen
 drake
 drapen
 dree
@@ -1813,7 +1818,6 @@ dreeuntwintig
 dreeunveertig
 dregen
 drei
-dreikâant
 dreimol
 drepen
 drieten
@@ -1844,6 +1848,7 @@ duster
 duun
 duusend
 dwingen
+däirn
 döpen
 dörchstahn
 dören
@@ -1882,7 +1887,6 @@ eenuntwintig
 eenunveertig
 eer
 eerachtiğkaid
-eerpel (Borkum)
 eerst
 egen
 ehr
@@ -1896,7 +1900,6 @@ ek
 elektriseren
 elektronik
 elf
-elfkâant
 elk
 elker
 elven
@@ -1931,8 +1934,6 @@ fiefunsöventig
 fiefuntwintig
 fiefunveertig
 fiev
-fiifkâant
-fiiftainkâant
 finnen
 fladdern
 flegen
@@ -1955,10 +1956,6 @@ froren
 fröher oder later
 frömd
 fröög
-färkantiğ
-färkâant
-färtainkâant
-färtiğkâant
 fîf
 föffteihn
 föfftig
@@ -1978,6 +1975,7 @@ galstrig
 gammelig
 gan
 gau
+ge(n)dag
 geböhren
 geel
 geföhllos
@@ -1999,6 +1997,7 @@ glöven
 gniedeln
 gniegeln
 god
+gode(n) dag
 gootachten
 gootdünken
 graag
@@ -2022,7 +2021,9 @@ güllig
 güng
 güng ünner
 gęl
+hai
 halen
+hallo
 handballen
 handbreet
 handfast
@@ -2040,6 +2041,7 @@ haugdütsk
 haugdüütsk
 he
 hebben
+hee
 heel
 heftig
 helium
@@ -2049,6 +2051,7 @@ hevig
 hielal
 hochdütsch
 hochdüütsch
+hoi
 holden
 holen
 hollen
@@ -2061,8 +2064,8 @@ hungerig
 hungrig
 hunnerd
 hunnert
-hunnertkâant
 huoppen
+huus n)
 hängen
 höllsch
 hölpen
@@ -2088,12 +2091,9 @@ insluten
 insmölten
 interesseren
 intrecken
-ippel (Baltrum)
 jede
 jichtenswann
 jo
-jorhunnert
-jortâajnt
 jug
 jung
 jöögdfree
@@ -2102,6 +2102,7 @@ kamen
 kark
 karne
 karwel
+kaupen
 keem
 keene
 keirl
@@ -2115,8 +2116,6 @@ klöven
 klöör
 klüftig
 knudeln
-knîin
-kofje
 kohlenstoff
 koken
 koolt
@@ -2138,7 +2137,6 @@ kunnt
 kuole
 könen
 köpen
-köylskap
 küern
 künnen
 laat
@@ -2200,6 +2198,7 @@ min
 minn
 mit leddige Hännen
 mitkamen
+moin
 morgen
 morgens
 morr'n
@@ -2237,8 +2236,6 @@ natuur
 nedderlandsch
 nedderslaan
 nee
-neegenkâant
-neegentainkâant
 negen
 negenteihn
 negentig
@@ -2255,7 +2252,6 @@ neon
 nesten
 nich
 nich een
-niecht
 niks
 nix
 nix för ungod
@@ -2268,7 +2264,6 @@ noordwarts
 null
 nägen
 nägenteihn
-nêev
 nödig hebben
 nössen
 nümig
@@ -2278,10 +2273,7 @@ oldhochdütsch
 oolt
 oordelen
 oordig
-oorholt
-ooroes
 oorsóóek
-oorwald
 op de Welt kamen
 opboen
 open
@@ -2305,9 +2297,7 @@ ossig
 ostfälsch
 ostfälsch (Eastphalian)
 ostfälsch Platt (Eastphalian)
-paarske (Emden)
 passeren
-peerske
 platdüütsch spraak
 plattdütsch
 plattdütsch Spraak
@@ -2315,6 +2305,7 @@ plattdütsch Sprak
 plattdütsch Sprake
 plattdütsch Sproak
 plattdütsch Sprok
+plattdütsch Sproke
 plattdütsch Sprook
 plattdütschet
 plattdütsk
@@ -2324,7 +2315,6 @@ plattdüütsch Sprok
 plattdüütsch Sprook
 plattmaakt
 plietsch
-plâat
 quinkeleren
 quinkeln
 rause
@@ -2387,9 +2377,7 @@ sehn
 sei
 seihen
 sennt
-seskâant
 sess
-sestainkâant
 seß
 shoshone
 sick
@@ -2399,7 +2387,6 @@ silizium
 sin
 singen
 sitten
-skeedel
 slaan
 slackern
 slapen
@@ -2502,11 +2489,7 @@ sövenunsöventig
 sövenuntwintig
 sövenunveertig
 söß
-söömkâant
-söömtainkâant
-süsteem
 tachentig
-tainkâant
 tau
 teemlich
 tehn
@@ -2515,7 +2498,6 @@ tein
 teken
 tellen
 temmen
-temóóet
 terling
 tied
 tien
@@ -2542,9 +2524,7 @@ tostannkriegen
 toswellen
 trecken
 troen
-tuffel
 tunnenwies
-twalfkâant
 twee
 tweeunachtig tweeuntachentig
 tweeundörtig
@@ -2555,9 +2535,7 @@ tweeunsöventig
 tweeuntwintig
 tweeunveertig
 twei
-tweiuntwintiğkâant
 twintig
-twintiğkâant
 twolf
 twölf
 twüschenkamen
@@ -2572,7 +2550,6 @@ unbannig
 undsağ
 ungüllig
 unmööglich
-unnerskriiven
 uns
 uns'
 unstüür
@@ -2603,6 +2580,7 @@ vechten
 veehtüch
 veel
 veer
+veerbeent
 veerteihn
 veertig
 veerunachtig veeruntachentig
@@ -2748,7 +2726,6 @@ wüllen
 wünschen
 wünsken
 zentral
-zjungel
 Ätik
 Äx
 Ääks
@@ -2777,8 +2754,6 @@ zjungel
 Ünnerscheden
 Ünnerstütten
 äiner
-äinuntwintiğkâant
-äiw
 ännern
 äänla
 æ̊wer

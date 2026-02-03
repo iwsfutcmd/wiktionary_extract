@@ -108,6 +108,7 @@
 5@Chest-PalmBack 8@NearChest-PalmBack
 5@Chest-PalmBack FlatO@NearChest-PalmBack
 5@Chest-ThumbBack Wiggle
+5@Chin-FingerAcross Twist
 5@Chin-FingerUp RoundMidline 5@FromChin-FingerUp
 5@Chin-PalmBack Wiggle
 5@Chin-ThumbBack Contact
@@ -159,6 +160,7 @@
 9@InFingerThumb-FingerThumbAcross-9@CenterChesthigh-FingerThumbAcross TwistSidetoside-TwistSidetoside 9@FromFingerThumb-FingerThumbAcross-9@InsideChesthigh-FingerThumbAcross
 9@InsideNeckhigh-PalmDown 9@SideNeckhigh-PalmUp
 9@NearCenterChesthigh-PalmUp CirclesHoriz
+9@Nose-PalmForward-Twist-Twist
 9@RadialHand-PalmForward-9@CenterChesthigh-PalmForward RoundHoriz-RoundHoriz 9@UlnarHand-PalmBack-9@CenterChesthigh-PalmBack
 9@Side-PalmBack CirclesHoriz
 9@Side-PalmForward 9@Side-PalmBack
@@ -300,6 +302,7 @@ I@FromRadialFinger-FingerAcross-I@CenterChesthigh-FingerAcross
 I@Sfhead-PalmBack CirclesMidline I@NearSfhead-PalmBack
 I@Sfhead-PalmBack I@NearSfhead-PalmBack
 I@Sfhead-PalmBack RoundMidline I@NearSfhead-PalmBack
+ILY
 ILY@Side-PalmForward
 In some contexts where English would use the word water
 K@CenterChesthigh-PalmAcross Nod

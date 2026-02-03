@@ -1,6 +1,3 @@
-" |
--
-- [edit]
 -a
 -a Kihawai
 -a Kijerumaniki
@@ -10,23 +7,13 @@
 -a abunusi
 -a baridi sana
 -a binadamu wa ajabu
--a bluu
--a bluu mwangaza
--a dhahabu
 -a elektroniki
--a hudhurungi
--a kahawia
 -a kale
 -a kibengali
 -a kibepari
--a kibichi
 -a kidesturi
 -a kihekaya
--a kijani
 -a kijiografia
--a kijivu
--a kijivujivu
--a kimanjano
 -a kimashamba
 -a kimungu
 -a kiuchumi
@@ -34,22 +21,14 @@
 -a kubuniwa
 -a kuume
 -a kwanza
--a machungwa
--a manjani giza
--a manjani mwangaza
 -a manjano
 -a milele
 -a miongo
 -a moyo
 -a ngozi
--a njano
--a pinki
 -a pyuta
 -a rangi ya abunusi
--a samawati
 -a sumaku
--a urujuani
--a waridi
 -a zambarau
 -a-
 -a-1
@@ -62,7 +41,9 @@
 -achiana
 -achika
 -achilia
+-achiliwa
 -achisha
+-achishwa
 -achwa
 -adhibika
 -adhibiwa
@@ -89,6 +70,10 @@
 -agizwa
 -agwa
 -ahidi
+-ahidia
+-ahidiana
+-ahidika
+-ahidiwa
 -ahirika
 -ahirisha
 -ahirishwa
@@ -120,6 +105,7 @@
 -amilisha
 -amini
 -aminia
+-aminiana
 -aminifu
 -aminika
 -aminisha
@@ -153,6 +139,8 @@
 -angamika
 -angamilia
 -angamiza
+-angazia
+-angazika
 -angu
 -anguka
 -angukia
@@ -160,6 +148,7 @@
 -anza
 -anzia
 -anzisha
+-anzishwa
 -anzwa
 -ao
 -ao-ake
@@ -168,6 +157,7 @@
 -apia
 -apika
 -apisha
+-apishwa
 -apiza
 -aridhia
 -aridhiana
@@ -180,6 +170,7 @@
 -ashiriwa
 -asilisha
 -athiri
+-athirika
 -athiriwa
 -atibia
 -atibiana
@@ -192,15 +183,21 @@
 -avya
 -avya mimba
 -azimia
+-azimisha
 -azimu
+-azimwa
 -badilia
 -badiliana
 -badilika
 -badilisha
 -badilishana
+-badilishwa
 -badiliwa
 -baguliwa
+-bahatika
 -bahatisha
+-baidika
+-baidisha
 -bainia
 -bainiana
 -bainika
@@ -209,11 +206,15 @@
 -baka
 -bakia
 -bakisha
+-bakiza
 -bakua
 -bakwa
+-banisha
+-banwa
 -bariki
 -batilika
 -batilisha
+-batilishwa
 -batiza
 -batizwa
 -baya
@@ -230,9 +231,11 @@
 -binafsisha
 -binafsishwa
 -bishana
+-bishania
 -bivu
 -bomolewa
 -boresha
+-boreshwa
 -bughudhi
 -bunia
 -buniana
@@ -243,6 +246,7 @@
 -burudisha
 -busiana
 -busu
+-busurika
 -bwagana
 -bwagia
 -bwagika
@@ -282,15 +286,19 @@
 -chapia
 -chapisha
 -chapishwa
+-chapuka
+-chapusha
 -chapwa
 -chaunua
 -chea
+-chekacheka
 -chekana
 -chekea
 -chekeka
 -chekesha
 -chekwa
 -chelewesha
+-cheleweshwa
 -chemsha
 -chemshwa
 -chesha
@@ -304,6 +312,7 @@
 -chezewa
 -chezwa
 -chimbika
+-chimbuka
 -chipuka
 -chipulia
 -chipuza
@@ -319,9 +328,11 @@
 -chokolea
 -chokoleka
 -chomachoma
+-chomea
 -chomeka
 -chomwa
 -chongea
+-chongwa
 -chorwa
 -chosha
 -chuana
@@ -363,13 +374,25 @@
 -darana
 -dhalilika
 -dhalilisha
+-dhalilishwa
 -dhamini
+-dhania
+-dhaniana
+-dhanika
+-dhanisha
+-dharaulia
+-dharaulika
+-dharaulisha
+-dharauliwa
 -dhibitiwa
 -dhihaki
 -dhihakisha
 -dhihakiwa
 -dhihiri
+-dhihirika
 -dhihirisha
+-dhihirishwa
+-dhikisha
 -dhilia
 -dhiliana
 -dhilika
@@ -381,6 +404,9 @@
 -dhukuria
 -dhukurika
 -dhukurisha
+-dhulumika
+-dhulumisha
+-dhulumiwa
 -dhulumu
 -dhuria
 -dhuriana
@@ -419,8 +445,10 @@
 -elezwa
 -elimika
 -elimisha
+-elimishwa
 -ema
 -embamba
+-enda haja
 -enda miayo
 -enda mrama
 -endea
@@ -437,6 +465,8 @@
 -endesheka
 -endeshesha
 -endeshwa
+-eneza
+-enguliwa
 -enu
 -enye kwato
 -enye mabawa
@@ -447,12 +477,18 @@
 -etu
 -euliwa
 -eupe
+-eupe pe pe pe
 -eusi
+-eusi ti ti ti
 -ewa
 -eza
 -fa
+-fa ganzi
 -fadhaika
 -fadhaisha
+-fadhiliana
+-fadhilisha
+-fadhiliwa
 -fagia
 -fagiwa
 -fahamiana
@@ -464,6 +500,9 @@
 -faidika
 -faidisha
 -faidiwa
+-fanania
+-fananisha
+-fananishwa
 -fanikishwa
 -fanikiwa
 -fanya kazi
@@ -482,8 +521,12 @@
 -faridhisha
 -faridhiwa
 -fariji
+-farijika
+-farijisha
 -fasiri
+-fatiishwa
 -fedhehesha
+-fedheheshwa
 -fedhehi
 -fia
 -fichamia
@@ -507,6 +550,9 @@
 -fikirisha
 -fikisha
 -fikishwa
+-filisika
+-filisisha
+-filisiwa
 -fira
 -firana
 -firia
@@ -522,7 +568,10 @@
 -fuatia
 -fuatilia
 -fuatwa
+-fufuka
 -fufulia
+-fukarika
+-fukarisha
 -fukuzana
 -fukuzia
 -fukuzika
@@ -562,11 +611,14 @@
 -fungulia
 -funguliwa
 -fungwa
+-funzwa
 -fupi
 -fupisha
+-fupishwa
 -furahi
 -furahia
 -furahisha
+-furahiwa
 -futa
 -futana
 -futia
@@ -578,10 +630,12 @@
 -futuria
 -futurisha
 -futwa
+-fyatuana
 -gaiwa
 -gandia
 -gandika
 -gandisha
+-gandishwa
 -ganga
 -gawa
 -gawana
@@ -597,6 +651,7 @@
 -gawiwa
 -geni
 -geuka
+-geukia
 -geuza
 -gharimia
 -gharimiwa
@@ -616,6 +671,9 @@
 -gongana
 -gongwa
 -gonjwa
+-gubikana
+-gubikisha
+-gubikwa
 -gumu
 -gundulia
 -gundulisha
@@ -631,6 +689,7 @@
 -hakiki
 -hakikia
 -hakikisha
+-hakikishia
 -halalika
 -halalisha
 -halisia
@@ -643,17 +702,30 @@
 -hamasisha
 -hamia
 -hamisha
+-hamishia
+-hamishika
 -hamishwa
+-hangaishwa
 -harakika
 -harakisha
 -haribika
 -haribiwa
 -haribu
 -harisha
+-hasiwa
 -hatarika
 -hatarisha
 -hawilisha
+-hesabia
+-hesabiana
+-hesabika
+-hesabiwa
+-heshimia
+-heshimiana
+-heshimika
+-heshimiwa
 -heshimu
+-hifadhia
 -hifadhiwa
 -hiji
 -himilia
@@ -666,6 +738,7 @@
 -hitimia
 -hitimika
 -hitimisha
+-hitimishwa
 -hofia
 -hofiana
 -hofisha
@@ -678,6 +751,15 @@
 -hojiwa
 -honga
 -hongwa
+-hubiria
+-hubiriana
+-hubirisha
+-hubiriwa
+-hudumia
+-hudumika
+-hudumisha
+-hudumishwa
+-hudumiwa
 -huia
 -huiana
 -huika
@@ -688,6 +770,7 @@
 -huishwa
 -huiwa
 -hukumu
+-hurisha
 -hurumia
 -husia
 -husiana
@@ -695,6 +778,9 @@
 -husisha
 -husishwa
 -husudu
+-hutubia
+-hutubiana
+-hutubiwa
 -hutubu
 -huzunia
 -huzunika
@@ -703,6 +789,7 @@
 -i-
 -ia
 -ibia
+-ibuliwa
 -ibwa
 -idhinika
 -idhinisha
@@ -712,11 +799,14 @@
 -idhinishwa
 -igia
 -igiza
+-igizwa
+-igwa
 -ika
 -ikana
 -ilia
 -imarika
 -imarisha
+-imarishwa
 -ingereza
 -ingi
 -ingili
@@ -741,6 +831,7 @@
 -itana
 -itia
 -itika
+-itikia
 -itisha
 -itwa
 -ivisha
@@ -772,6 +863,10 @@
 -jazisha
 -jazwa
 -je
+-jenga
+-jengea
+-jengeka
+-jengua
 -jengwa
 -jeruhi
 -jeruhia
@@ -797,8 +892,10 @@
 -julikana
 -julisha
 -juliwa
+-jumlisha
 -jumuika
 -jumuisha
+-jumuishwa
 -juza
 -ka
 -ka-
@@ -809,6 +906,8 @@
 -kabidhiwa
 -kabiliana
 -kabiliwa
+-kadhibisha
+-kadhibiwa
 -kadiria
 -kadirika
 -kadiriwa
@@ -825,7 +924,11 @@
 -kamatika
 -kamatisha
 -kamatwa
+-kamilika
 -kamilisha
+-kamilishwa
+-kandamizana
+-kandamizwa
 -kanusha
 -kanyagana
 -kanyagia
@@ -841,6 +944,7 @@
 -karidhisha
 -karidhiwa
 -kariri
+-kaririwa
 -kashifia
 -kashifiana
 -kashifika
@@ -852,6 +956,7 @@
 -kasirika
 -kasirikia
 -kasirisha
+-kasirishwa
 -kasiriwa
 -kata choo
 -kata rufaa
@@ -864,6 +969,8 @@
 -kataza
 -katika
 -katisha
+-katishwa
+-katiza
 -katwa
 -kausha
 -kaushwa
@@ -888,6 +995,7 @@
 -kimbilia
 -kimbiliana
 -kimbiza
+-kimbizwa
 -kinaika
 -kinaisha
 -kinaiwa
@@ -899,7 +1007,9 @@
 -kirisha
 -kiriwa
 -kisha-
+-kisia
 -kitamaduni
+-kiukwa
 -kiwamo
 -ko
 -ko-
@@ -908,22 +1018,27 @@
 -kodia
 -kodika
 -kodisha
+-kodishwa
 -kodiwa
 -kodolea
 -kohoa
 -kojoa
+-kolewa
+-koleza
 -komboa
 -komea
 -komeka
 -komesha
 -kondesha
 -kongojea
+-kopana
 -kopesha
 -kopesha riba
 -kopia
 -kopiana
 -kopika
 -kopiwa
+-korofisha
 -koromea
 -koromesha
 -kosana
@@ -931,6 +1046,10 @@
 -koseka
 -kosekana
 -kosesha
+-kosoana
+-kosolea
+-kosoleka
+-kosolewa
 -ku-
 -ku-1
 -kubalia
@@ -940,6 +1059,7 @@
 -kubaliwa
 -kubwa
 -kumbana
+-kumbatiana
 -kumbatiwa
 -kumbia
 -kumbika
@@ -952,9 +1072,11 @@
 -kumbushia
 -kumbushika
 -kumbushwa
+-kumbwa
 -kunja jamvi
 -kunja uso
 -kunjua
+-kunjua uso
 -kunjufu
 -kunjuka
 -kusanyika
@@ -972,7 +1094,9 @@
 -kuukuu
 -kuza
 -kw-
+-kwamisha
 -kwaruzana
+-kwaza
 -kwepua
 -la
 -la chumvi nyingi
@@ -982,11 +1106,15 @@
 -la rushwa
 -la yamini
 -laani
+-laanika
+-laanisha
+-laaniwa
 -lainisha
 -lala
 -lala na
 -lalamia
 -lalamika
+-lalamikia
 -lalamisha
 -lalia
 -lambana
@@ -998,6 +1126,7 @@
 -lazimika
 -lazimisha
 -lazimu
+-lazwa
 -le
 -lea
 -legeza
@@ -1007,6 +1136,7 @@
 -lelewa
 -lemaza
 -lemazwa
+-lengwa
 -lesha
 -letea
 -letwa
@@ -1014,6 +1144,7 @@
 -lewa
 -li-
 -lia
+-lialia
 -liana
 -lika
 -likana
@@ -1026,10 +1157,12 @@
 -lindisha
 -lindwa
 -lingana
+-linganishwa
 -lipana
 -lipia
 -lipika
 -lipisha
+-lipiwa
 -lipiza
 -lipuka
 -lipwa
@@ -1044,6 +1177,7 @@
 -lowea
 -loweka
 -lowesha
+-lumbana
 -lundikana
 -m-
 -maanisha
@@ -1058,9 +1192,15 @@
 -malizisha
 -malizwa
 -marekani
+-maskinika
+-maskinisha
 -me-
+-menyana
 -menyeka
+-menyesha
+-menywa
 -mesha-
+-milikisha
 -mkalia mtu kitako
 -mo
 -mo-
@@ -1072,9 +1212,11 @@
 -momonyolewa
 -mu-
 -mw-
+-mwaga damu
 -mwagana
 -mwagia
 -mwagika
+-mwagilia
 -mwagisha
 -mwagwa
 -na-
@@ -1089,6 +1231,7 @@
 -nakshiwa
 -nane
 -nasihi
+-nasua
 -nawa
 -nenepesha
 -ng'alisha
@@ -1124,6 +1267,7 @@
 -nyamazisha
 -nyambulisha
 -nyang'anywa
+-nyanyaswa
 -nyea
 -nyeka
 -nyesha
@@ -1131,6 +1275,7 @@
 -nyofu
 -nyolewa
 -nyongeka
+-nyongwa
 -nyonyana
 -nyonyea
 -nyonyeka
@@ -1159,17 +1304,21 @@
 -okoleka
 -okolewa
 -olewa
+-ombea
 -omboleza
 -onana
 -ondoana
+-ondokesha
 -ondolea
 -ondoleka
 -ondolewa
 -ondosha
+-ondoshwa
 -ondoza
 -onea
 -onekana
 -onesha
+-oneshwa
 -ongea
 -ongelea
 -ongezeka
@@ -1189,8 +1338,12 @@
 -onya
 -onyana
 -onyesha
+-onyeshwa
+-orodhesha
+-orodheshwa
 -ororo
 -osha
+-oshwa
 -ota
 -ote
 -oza
@@ -1213,7 +1366,9 @@
 -pandana
 -pandia
 -pandika
+-pandikiza
 -pandisha
+-pandishwa
 -pandwa
 -pangana
 -panganyana
@@ -1226,7 +1381,10 @@
 -pangilia
 -pangisha
 -pangiwa
+-pangua
 -pangwa
+-panulia
+-panuliwa
 -papia
 -pasha
 -pasisha
@@ -1238,6 +1396,7 @@
 -patania
 -patanika
 -patanisha
+-patanishwa
 -patia
 -patika
 -patikana
@@ -1268,6 +1427,7 @@
 -pendwa
 -pewa
 -pi
+-piga chuku
 -piga hodi
 -piga kura
 -piga maji
@@ -1276,6 +1436,8 @@
 -piga ngumi
 -piga simu
 -pigana
+-pigania
+-piganwa
 -pigia
 -pigiana
 -pigilia
@@ -1288,6 +1450,8 @@
 -pikika
 -pikisha
 -pikwa
+-pimia
+-pimika
 -pimisha
 -pimwa
 -pindana
@@ -1302,6 +1466,7 @@
 -pitiana
 -pitika
 -pitisha
+-pitishwa
 -pitiwa
 -po
 -po-
@@ -1311,6 +1476,8 @@
 -podoleka
 -podolewa
 -poesha
+-pofukia
+-pofushwa
 -pokeana
 -pokelea
 -pokeleana
@@ -1318,6 +1485,8 @@
 -pokelewa
 -pokeza
 -pokezana
+-pokonyana
+-pokonywa
 -polea
 -poleka
 -pondeka
@@ -1327,12 +1496,16 @@
 -poneka
 -ponesha
 -ponwa
+-poresha
+-porwa
 -potana
 -potea
 -poteka
+-potelea
 -potesha
 -potewa
 -poteza
+-potezwa
 -potosha
 -poza
 -puliza
@@ -1342,6 +1515,9 @@
 -pumua
 -pungua
 -punguza
+-punguzana
+-punguzia
+-punguziana
 -punguzika
 -punguzwa
 -pungwa
@@ -1354,11 +1530,18 @@
 -rahisia
 -rahisika
 -rahisisha
+-raiwa
 -rajamisha
 -rambana
 -rambisha
 -rambwa
+-rasimisha
+-ratibia
+-ratibika
+-ratibisha
+-ratibiwa
 -refu
+-refuka
 -refusha
 -refushana
 -refushia
@@ -1382,6 +1565,7 @@
 -ridhika
 -ridhisha
 -ridhishana
+-ridhishwa
 -ridhiwa
 -rindimia
 -rindimisha
@@ -1394,6 +1578,7 @@
 -ritadisha
 -rithi
 -rithisha
+-rithiwa
 -rogoa
 -rogwa
 -rudiana
@@ -1409,17 +1594,24 @@
 -rukwa
 -rukwa na akili
 -rundikana
+-rushana
+-rushia
 -rushwa
 -rutubika
 -rutubisha
+-rutubishwa
 -sababika
 -sababisha
+-sababishwa
 -safika
 -safiri
 -safiria
 -safirika
 -safisha
 -safishwa
+-sagana
+-sagisha
+-sagwa
 -sahau
 -sahaulia
 -sahaulika
@@ -1429,7 +1621,12 @@
 -saidia
 -saidiana
 -saidiwa
+-sainisha
+-sainiwa
+-sajilisha
+-sajiliwa
 -sakata
+-sakwa
 -salia
 -salimia
 -salimiana
@@ -1438,9 +1635,14 @@
 -salimiwa
 -salimu roho
 -salisha
+-salitiana
+-salitika
+-salitisha
+-salitiwa
 -sambalia
 -sambalika
 -sambaza
+-sambazwa
 -samehe
 -samehea
 -sameheana
@@ -1467,12 +1669,17 @@
 -shangalia
 -shangaliwa
 -shangaza
+-shangazwa
 -sharabika
 -sharabiwa
 -shauria
 -shauriana
 -shaurika
 -shauriwa
+-shawishia
+-shawishiana
+-shawishika
+-shawishiwa
 -sheheni
 -shereheka
 -sherehekea
@@ -1502,13 +1709,19 @@
 -shirikia
 -shirikiana
 -shirikisha
+-shirikishwa
 -shirikiwa
+-shitakia
+-shitakiana
+-shitakika
+-shitakiwa
 -shtaki
 -shtakia
 -shtakiana
 -shtakika
 -shtakiwa
 -shtuka
+-shtukiza
 -shtulia
 -shtusha
 -shughulika
@@ -1564,6 +1777,7 @@
 -sikilizwa
 -sikitikia
 -sikitisha
+-sikitishwa
 -sikiwa
 -silimia
 -silimika
@@ -1572,6 +1786,8 @@
 -simamika
 -simamisha
 -simamishwa
+-simbua
+-simbuliwa
 -simikwa
 -sindikizana
 -sindikizia
@@ -1581,6 +1797,7 @@
 -singali-
 -singe-
 -sipo-
+-sisimka
 -sitawi
 -sitawisha
 -sitiri
@@ -1592,14 +1809,25 @@
 -somea
 -someka
 -somesha
+-someshwa
 -somwa
 -songa mbele
+-songana
 -sononea
 -sononeka
 -sononesha
+-staafisha
+-staajabia
+-staajabika
+-staajabisha
 -staarabika
 -staarabisha
 -staarabu
+-stahi
+-stahika
+-stahisha
+-stareheka
+-starehesha
 -stawisha
 -subiria
 -subiriana
@@ -1616,6 +1844,10 @@
 -sukasuka
 -sukia
 -sukua
+-sukumana
+-sukumia
+-sukumika
+-sukumwa
 -sukwa
 -sulubia
 -sulubiana
@@ -1642,12 +1874,20 @@
 -tabikia
 -tabikika
 -tabikisha
+-tabiriwa
 -tafakari
+-tafsiria
+-tafsirika
+-tafsirisha
+-tafsiriwa
 -tafunana
 -tafunia
 -tafunika
 -tafunisha
 -tafunwa
+-tafutia
+-tafutisha
+-tafutwa
 -tahadharisha
 -tahayari
 -tahayaria
@@ -1664,7 +1904,13 @@
 -taifishia
 -taifishika
 -taifishwa
+-tajana
+-tajia
+-tajika
 -tajirika
+-tajirisha
+-tajisha
+-tajwa
 -taka-
 -takabalika
 -takabaliwa
@@ -1678,8 +1924,11 @@
 -talikiwa
 -tamanika
 -tamanisha
+-tamatika
+-tamatisha
 -tambua
 -tambulisha
+-tambuliwa
 -tamu sana
 -tandama
 -tandaza
@@ -1699,6 +1948,7 @@
 -tangika
 -tangisha
 -tanguka
+-tanisha
 -tano
 -tapika
 -tapikia
@@ -1716,6 +1966,7 @@
 -tathminika
 -tathminisha
 -tathminiwa
+-tatizika
 -tatu
 -tatua
 -tawalia
@@ -1729,6 +1980,7 @@
 -tawanywa
 -tayarika
 -tayarisha
+-tayarishwa
 -tazamia
 -tazamika
 -tazamisha
@@ -1741,10 +1993,13 @@
 -tegemeza
 -tegua
 -teka nyara
+-tekea
 -tekelezwa
 -teketeza
+-tekwa
 -telekea
 -tembelea
+-tembeleana
 -tembeza
 -temea
 -temeka
@@ -1756,29 +2011,38 @@
 -tendwa
 -tengana
 -tenganisha
+-tenganishwa
 -tengenezwa
 -tengwa
 -teremsha
 -teseka
+-teswa
 -tetana
 -tetea
 -teteleza
 -tetemeka
+-tetemesha
 -teuana
 -teulia
 -teulika
 -teulisha
 -teuliwa
 -thamini
+-thaminiwa
 -thibitika
 -thibitisha
+-thibitishia
+-thibitishwa
 -thubutu
 -tia mimba
 -tia nguvu
 -tibu
+-tiisha
+-tikisika
 -tilia
 -tilisha
 -tiliwa
+-tiliza
 -timilia
 -timilika
 -timiliwa
@@ -1803,6 +2067,7 @@
 -tokea
 -tokeka
 -tokesha
+-tokeza
 -tokwa
 -tolea
 -toleana
@@ -1834,6 +2099,7 @@
 -tukukisha
 -tulia
 -tuliza
+-tulizwa
 -tumainisha
 -tumainiwa
 -tumbuizana
@@ -1847,6 +2113,7 @@
 -tumiwa
 -tumwa
 -tunga mimba
+-tungisha
 -tunukia
 -tunza
 -tunzana
@@ -1861,10 +2128,12 @@
 -tupwa
 -u-
 -ua
+-uana
 -uawa
 -udhika
 -uguza
 -uliwa
+-ulizwa
 -uma
 -umana
 -umbia
@@ -1884,6 +2153,7 @@
 -unga mkono
 -ungana
 -unganisha
+-unganishwa
 -ungia
 -ungika
 -ungisha
@@ -1918,6 +2188,7 @@
 -vumbua
 -vumika
 -vumilia
+-vumiliana
 -vumisha
 -vunia
 -vunika
@@ -1929,6 +2200,7 @@
 -vunjwa
 -vunwa
 -vurugika
+-vurugwa
 -vutana
 -vutia
 -vutiwa
@@ -1945,6 +2217,7 @@
 -wafikisha
 -wahiwa
 -wajibika
+-wajibisha
 -wajihia
 -wajihika
 -wajihisha
@@ -1958,8 +2231,10 @@
 -wasilia
 -wasilika
 -wasilisha
+-wasilishwa
 -wasiliwa
 -wazia
+-wazisha
 -wekana
 -wekea
 -wekeka
@@ -1989,6 +2264,8 @@
 -yeyushwa
 -yo
 -yo-
+-yumbika
+-yumbisha
 -z
 -za
 -zalia
@@ -1997,18 +2274,25 @@
 -zaliwa
 -zamisha
 -zawa
+-zeeka
+-zeesha
 -zi
 -zi-
 -zibua
 -zidi
+-zidisha
 -zikwa
 -zima
 -zimia
 -zimika
 -zimisha
 -zimwa
+-zindia
 -zindika
+-zindisha
 -zindua
+-zingatiwa
+-zini
 -zito
 -zo
 -zo-
@@ -2022,6 +2306,7 @@
 -zolewa
 -zozana
 -zuana
+-zubaza
 -zuiana
 -zuilia
 -zuilika
@@ -2030,6 +2315,7 @@
 -zungukia
 -zungukisha
 -zungukwa
+-zungumzia
 -zungumzwa
 -zuri
 -zusha
@@ -2065,94 +2351,6 @@ Akarabu
 Aktiki
 Aleksandria
 Algeria
-Algeria Afrika Kusini Aljeria
-Algeria Algeria Aljeria
-Algeria Aljeria Aljeria
-Algeria Angola Aljeria
-Algeria Benin Aljeria
-Algeria Botswana Aljeria
-Algeria Bukini Aljeria
-Algeria Burkina Faso Aljeria
-Algeria Burundi Aljeria
-Algeria Cabo Verde Aljeria
-Algeria Cameroon Aljeria
-Algeria Chad Aljeria
-Algeria Chadi Aljeria
-Algeria Cote d'Ivoire Aljeria
-Algeria Djibouti Aljeria
-Algeria Eritrea Aljeria
-Algeria Eswatini Aljeria
-Algeria Ethiopia Aljeria
-Algeria Gabon Aljeria
-Algeria Gambia Aljeria
-Algeria Ghana Aljeria
-Algeria Gine Aljeria
-Algeria Ginebisau Aljeria
-Algeria Ginekweta Aljeria
-Algeria Gini Aljeria
-Algeria Guinea Aljeria
-Algeria Guinea Bisau Aljeria
-Algeria Guinea ya Ikweta Aljeria
-Algeria Guinea-Bisau Aljeria
-Algeria Habeshi Aljeria
-Algeria Jamhuri ya Afrika ya Kati Aljeria
-Algeria Jamhuri ya Kenya Aljeria
-Algeria Jamhuri ya Kidemokrasia ya Kongo Aljeria
-Algeria Jamhuri ya Kongo Aljeria
-Algeria Jamhuri ya Muungano wa Tanzania Aljeria
-Algeria Jibuti Aljeria
-Algeria Kamerun Aljeria
-Algeria Kameruni Aljeria
-Algeria Kenya Aljeria
-Algeria Kodivaa Aljeria
-Algeria Komori Aljeria
-Algeria Kongo-Brazzaville Aljeria
-Algeria Kongo-Kinshasa Aljeria
-Algeria Lesotho Aljeria
-Algeria Liberia Aljeria
-Algeria Libya Aljeria
-Algeria Madagaska Aljeria
-Algeria Malawi Aljeria
-Algeria Mali Aljeria
-Algeria Maroko Aljeria
-Algeria Mauritania Aljeria
-Algeria Misri Aljeria
-Algeria Morisi Aljeria
-Algeria Moroko Aljeria
-Algeria Mozambik Aljeria
-Algeria Msumbiji Aljeria
-Algeria Mtakatifu Helena Aljeria
-Algeria Naijeria Aljeria
-Algeria Namibia Aljeria
-Algeria Niger Aljeria
-Algeria Nigeria Aljeria
-Algeria Nijeri Aljeria
-Algeria Nijeria Aljeria
-Algeria Ruanda Aljeria
-Algeria Rwanda Aljeria
-Algeria Réunion Aljeria
-Algeria Sahara ya Magharibi Aljeria
-Algeria Sao Tome na Principe Aljeria
-Algeria Senegal Aljeria
-Algeria Senegali Aljeria
-Algeria Shelisheli Aljeria
-Algeria Sierra Leone Aljeria
-Algeria Somalia Aljeria
-Algeria Sudan Aljeria
-Algeria Sudan Kusini Aljeria
-Algeria Swaziland Aljeria
-Algeria Tanzania Aljeria
-Algeria Togo Aljeria
-Algeria Tunisia Aljeria
-Algeria Uganda Aljeria
-Algeria Uhabeshi Aljeria
-Algeria Umisri Aljeria
-Algeria Unyasa Aljeria
-Algeria Ushelisheli Aljeria
-Algeria Uswazi Aljeria
-Algeria Visiwa vya Ngazija Aljeria
-Algeria Zambia Aljeria
-Algeria Zimbabwe Aljeria
 Alh
 Alhamisi
 Ali
@@ -2167,24 +2365,13 @@ Amerika ya Kaskazini
 Amerika ya Kati
 Amerika ya Kilatini
 Amerika ya Kusini
-AmerikaAmerika ya KaskaziniAmerika ya Kusini
+Amerika ya Latini
 Amosi
 Amri Kumi
 Andorra
 Andromeda
 Angola
 Antaktika
-Antaktika Afrika Antaktiki
-Antaktika Amerika Antaktiki
-Antaktika Amerika ya Kaskazini Antaktiki
-Antaktika Amerika ya Kusini Antaktiki
-Antaktika Antaktika Antaktiki
-Antaktika Antaktiki Antaktiki
-Antaktika Asia Antaktiki
-Antaktika Australia Antaktiki
-Antaktika Ulaya Antaktiki
-Antaktika Uropa Antaktiki
-Antaktika bara Antaktiki
 Antaktiki
 Antigua na Barbuda
 Apolo
@@ -2224,8 +2411,11 @@ BAKWATA
 BK
 BK (baada ya Kristo)
 Baba
+Baba Mtakatifu
 Baba Yetu
 Baba yetu
+Babiloni
+Babiloni Mkubwa
 Bahama
 Bahari Hindi
 Bahari Nyeusi
@@ -2234,7 +2424,7 @@ Bahari ya Hindi
 Bahari ya Japani
 Bahari ya Kati
 Bahari ya Kusini
-Bahari ya Mediteranea
+Bahari ya Mediterania
 Bahari ya Okhotsk
 Bahari ya Rum
 Bahari ya Shamu
@@ -2281,6 +2471,7 @@ Blanchi
 Bolivia
 Bonaventura
 Bonde la Ufa la Afrika ya Mashariki
+Bongo
 Bosnia na Herzegovina
 Bosporus
 Botswana
@@ -2290,107 +2481,20 @@ Brussels
 Bukini
 Bulgaria
 Bungala
+Bunge la Ulaya
 Burkina Faso
 Burundi
 Butani
 Bw.
 Bwana
 CCM
+CHADEMA
 CHAKITA
 COSOTA
 Cabo Verde
-Camelidae: ngamia na jamaa
 Cameroon
 Ceres
 Chad
-Chad Afrika Kusini Chadi
-Chad Algeria Chadi
-Chad Aljeria Chadi
-Chad Angola Chadi
-Chad Benin Chadi
-Chad Botswana Chadi
-Chad Bukini Chadi
-Chad Burkina Faso Chadi
-Chad Burundi Chadi
-Chad Cabo Verde Chadi
-Chad Cameroon Chadi
-Chad Chad Chadi
-Chad Chadi Chadi
-Chad Cote d'Ivoire Chadi
-Chad Djibouti Chadi
-Chad Eritrea Chadi
-Chad Eswatini Chadi
-Chad Ethiopia Chadi
-Chad Gabon Chadi
-Chad Gambia Chadi
-Chad Ghana Chadi
-Chad Gine Chadi
-Chad Ginebisau Chadi
-Chad Ginekweta Chadi
-Chad Gini Chadi
-Chad Guinea Bisau Chadi
-Chad Guinea Chadi
-Chad Guinea ya Ikweta Chadi
-Chad Guinea-Bisau Chadi
-Chad Habeshi Chadi
-Chad Jamhuri ya Afrika ya Kati Chadi
-Chad Jamhuri ya Kenya Chadi
-Chad Jamhuri ya Kidemokrasia ya Kongo Chadi
-Chad Jamhuri ya Kongo Chadi
-Chad Jamhuri ya Muungano wa Tanzania Chadi
-Chad Jibuti Chadi
-Chad Kamerun Chadi
-Chad Kameruni Chadi
-Chad Kenya Chadi
-Chad Kodivaa Chadi
-Chad Komori Chadi
-Chad Kongo-Brazzaville Chadi
-Chad Kongo-Kinshasa Chadi
-Chad Lesotho Chadi
-Chad Liberia Chadi
-Chad Libya Chadi
-Chad Madagaska Chadi
-Chad Malawi Chadi
-Chad Mali Chadi
-Chad Maroko Chadi
-Chad Mauritania Chadi
-Chad Misri Chadi
-Chad Morisi Chadi
-Chad Moroko Chadi
-Chad Mozambik Chadi
-Chad Msumbiji Chadi
-Chad Mtakatifu Helena Chadi
-Chad Naijeria Chadi
-Chad Namibia Chadi
-Chad Niger Chadi
-Chad Nigeria Chadi
-Chad Nijeri Chadi
-Chad Nijeria Chadi
-Chad Ruanda Chadi
-Chad Rwanda Chadi
-Chad Réunion Chadi
-Chad Sahara ya Magharibi Chadi
-Chad Sao Tome na Principe Chadi
-Chad Senegal Chadi
-Chad Senegali Chadi
-Chad Shelisheli Chadi
-Chad Sierra Leone Chadi
-Chad Somalia Chadi
-Chad Sudan Chadi
-Chad Sudan Kusini Chadi
-Chad Swaziland Chadi
-Chad Tanzania Chadi
-Chad Togo Chadi
-Chad Tunisia Chadi
-Chad Uganda Chadi
-Chad Uhabeshi Chadi
-Chad Umisri Chadi
-Chad Unyasa Chadi
-Chad Ushelisheli Chadi
-Chad Uswazi Chadi
-Chad Visiwa vya Ngazija Chadi
-Chad Zambia Chadi
-Chad Zimbabwe Chadi
 Chadema
 Chadi
 Championi Ligi
@@ -2400,94 +2504,6 @@ Chemnitz
 Chile
 China
 Cote d'Ivoire
-Cote d'Ivoire Afrika Kusini Kodivaa
-Cote d'Ivoire Algeria Kodivaa
-Cote d'Ivoire Aljeria Kodivaa
-Cote d'Ivoire Angola Kodivaa
-Cote d'Ivoire Benin Kodivaa
-Cote d'Ivoire Botswana Kodivaa
-Cote d'Ivoire Bukini Kodivaa
-Cote d'Ivoire Burkina Faso Kodivaa
-Cote d'Ivoire Burundi Kodivaa
-Cote d'Ivoire Cabo Verde Kodivaa
-Cote d'Ivoire Cameroon Kodivaa
-Cote d'Ivoire Chad Kodivaa
-Cote d'Ivoire Chadi Kodivaa
-Cote d'Ivoire Cote d'Ivoire Kodivaa
-Cote d'Ivoire Djibouti Kodivaa
-Cote d'Ivoire Eritrea Kodivaa
-Cote d'Ivoire Eswatini Kodivaa
-Cote d'Ivoire Ethiopia Kodivaa
-Cote d'Ivoire Gabon Kodivaa
-Cote d'Ivoire Gambia Kodivaa
-Cote d'Ivoire Ghana Kodivaa
-Cote d'Ivoire Gine Kodivaa
-Cote d'Ivoire Ginebisau Kodivaa
-Cote d'Ivoire Ginekweta Kodivaa
-Cote d'Ivoire Gini Kodivaa
-Cote d'Ivoire Guinea Bisau Kodivaa
-Cote d'Ivoire Guinea Kodivaa
-Cote d'Ivoire Guinea ya Ikweta Kodivaa
-Cote d'Ivoire Guinea-Bisau Kodivaa
-Cote d'Ivoire Habeshi Kodivaa
-Cote d'Ivoire Jamhuri ya Afrika ya Kati Kodivaa
-Cote d'Ivoire Jamhuri ya Kenya Kodivaa
-Cote d'Ivoire Jamhuri ya Kidemokrasia ya Kongo Kodivaa
-Cote d'Ivoire Jamhuri ya Kongo Kodivaa
-Cote d'Ivoire Jamhuri ya Muungano wa Tanzania Kodivaa
-Cote d'Ivoire Jibuti Kodivaa
-Cote d'Ivoire Kamerun Kodivaa
-Cote d'Ivoire Kameruni Kodivaa
-Cote d'Ivoire Kenya Kodivaa
-Cote d'Ivoire Kodivaa Kodivaa
-Cote d'Ivoire Komori Kodivaa
-Cote d'Ivoire Kongo-Brazzaville Kodivaa
-Cote d'Ivoire Kongo-Kinshasa Kodivaa
-Cote d'Ivoire Lesotho Kodivaa
-Cote d'Ivoire Liberia Kodivaa
-Cote d'Ivoire Libya Kodivaa
-Cote d'Ivoire Madagaska Kodivaa
-Cote d'Ivoire Malawi Kodivaa
-Cote d'Ivoire Mali Kodivaa
-Cote d'Ivoire Maroko Kodivaa
-Cote d'Ivoire Mauritania Kodivaa
-Cote d'Ivoire Misri Kodivaa
-Cote d'Ivoire Morisi Kodivaa
-Cote d'Ivoire Moroko Kodivaa
-Cote d'Ivoire Mozambik Kodivaa
-Cote d'Ivoire Msumbiji Kodivaa
-Cote d'Ivoire Mtakatifu Helena Kodivaa
-Cote d'Ivoire Naijeria Kodivaa
-Cote d'Ivoire Namibia Kodivaa
-Cote d'Ivoire Niger Kodivaa
-Cote d'Ivoire Nigeria Kodivaa
-Cote d'Ivoire Nijeri Kodivaa
-Cote d'Ivoire Nijeria Kodivaa
-Cote d'Ivoire Ruanda Kodivaa
-Cote d'Ivoire Rwanda Kodivaa
-Cote d'Ivoire Réunion Kodivaa
-Cote d'Ivoire Sahara ya Magharibi Kodivaa
-Cote d'Ivoire Sao Tome na Principe Kodivaa
-Cote d'Ivoire Senegal Kodivaa
-Cote d'Ivoire Senegali Kodivaa
-Cote d'Ivoire Shelisheli Kodivaa
-Cote d'Ivoire Sierra Leone Kodivaa
-Cote d'Ivoire Somalia Kodivaa
-Cote d'Ivoire Sudan Kodivaa
-Cote d'Ivoire Sudan Kusini Kodivaa
-Cote d'Ivoire Swaziland Kodivaa
-Cote d'Ivoire Tanzania Kodivaa
-Cote d'Ivoire Togo Kodivaa
-Cote d'Ivoire Tunisia Kodivaa
-Cote d'Ivoire Uganda Kodivaa
-Cote d'Ivoire Uhabeshi Kodivaa
-Cote d'Ivoire Umisri Kodivaa
-Cote d'Ivoire Unyasa Kodivaa
-Cote d'Ivoire Ushelisheli Kodivaa
-Cote d'Ivoire Uswazi Kodivaa
-Cote d'Ivoire Visiwa vya Ngazija Kodivaa
-Cote d'Ivoire Zambia Kodivaa
-Cote d'Ivoire Zimbabwe Kodivaa
 Covid-19
 Cuba
 DLDB
@@ -2533,7 +2549,6 @@ El Salvador
 Elisi
 Eliud
 Epifania
-Eris
 Erisi
 Eritrea
 Erosi
@@ -2555,7 +2570,7 @@ Feb
 Februari
 Fiji
 Filemoni
-For a full table including other classes
+Final
 Frati
 Furati
 Furkani
@@ -2581,273 +2596,9 @@ Grenada
 Grinlandi
 Guatemala
 Guinea
-Guinea Afrika Kusini Gine Afrika Kusini Gini
-Guinea Algeria Gine Algeria Gini
-Guinea Aljeria Gine Aljeria Gini
-Guinea Angola Gine Angola Gini
-Guinea Benin Gine Benin Gini
 Guinea Bisau
-Guinea Bisau Afrika Kusini Guinea-Bisau Afrika Kusini Ginebisau
-Guinea Bisau Algeria Guinea-Bisau Algeria Ginebisau
-Guinea Bisau Aljeria Guinea-Bisau Aljeria Ginebisau
-Guinea Bisau Angola Guinea-Bisau Angola Ginebisau
-Guinea Bisau Benin Guinea-Bisau Benin Ginebisau
-Guinea Bisau Botswana Guinea-Bisau Botswana Ginebisau
-Guinea Bisau Bukini Guinea-Bisau Bukini Ginebisau
-Guinea Bisau Burkina Faso Guinea-Bisau Burkina Faso Ginebisau
-Guinea Bisau Burundi Guinea-Bisau Burundi Ginebisau
-Guinea Bisau Cabo Verde Guinea-Bisau Cabo Verde Ginebisau
-Guinea Bisau Cameroon Guinea-Bisau Cameroon Ginebisau
-Guinea Bisau Chad Guinea-Bisau Chad Ginebisau
-Guinea Bisau Chadi Guinea-Bisau Chadi Ginebisau
-Guinea Bisau Cote d'Ivoire Guinea-Bisau Cote d'Ivoire Ginebisau
-Guinea Bisau Djibouti Guinea-Bisau Djibouti Ginebisau
-Guinea Bisau Eritrea Guinea-Bisau Eritrea Ginebisau
-Guinea Bisau Eswatini Guinea-Bisau Eswatini Ginebisau
-Guinea Bisau Ethiopia Guinea-Bisau Ethiopia Ginebisau
-Guinea Bisau Gabon Guinea-Bisau Gabon Ginebisau
-Guinea Bisau Gambia Guinea-Bisau Gambia Ginebisau
-Guinea Bisau Ghana Guinea-Bisau Ghana Ginebisau
-Guinea Bisau Gine Guinea-Bisau Gine Ginebisau
-Guinea Bisau Ginebisau Guinea-Bisau Ginebisau Ginebisau
-Guinea Bisau Ginekweta Guinea-Bisau Ginekweta Ginebisau
-Guinea Bisau Gini Guinea-Bisau Gini Ginebisau
-Guinea Bisau Guinea Bisau Guinea-Bisau Guinea Bisau Ginebisau
-Guinea Bisau Guinea Guinea-Bisau Guinea Ginebisau
-Guinea Bisau Guinea ya Ikweta Guinea-Bisau Guinea ya Ikweta Ginebisau
-Guinea Bisau Guinea-Bisau Guinea-Bisau Guinea-Bisau Ginebisau
-Guinea Bisau Habeshi Guinea-Bisau Habeshi Ginebisau
-Guinea Bisau Jamhuri ya Afrika ya Kati Guinea-Bisau Jamhuri ya Afrika ya Kati Ginebisau
-Guinea Bisau Jamhuri ya Kenya Guinea-Bisau Jamhuri ya Kenya Ginebisau
-Guinea Bisau Jamhuri ya Kidemokrasia ya Kongo Guinea-Bisau Jamhuri ya Kidemokrasia ya Kongo Ginebisau
-Guinea Bisau Jamhuri ya Kongo Guinea-Bisau Jamhuri ya Kongo Ginebisau
-Guinea Bisau Jamhuri ya Muungano wa Tanzania Guinea-Bisau Jamhuri ya Muungano wa Tanzania Ginebisau
-Guinea Bisau Jibuti Guinea-Bisau Jibuti Ginebisau
-Guinea Bisau Kamerun Guinea-Bisau Kamerun Ginebisau
-Guinea Bisau Kameruni Guinea-Bisau Kameruni Ginebisau
-Guinea Bisau Kenya Guinea-Bisau Kenya Ginebisau
-Guinea Bisau Kodivaa Guinea-Bisau Kodivaa Ginebisau
-Guinea Bisau Komori Guinea-Bisau Komori Ginebisau
-Guinea Bisau Kongo-Brazzaville Guinea-Bisau Kongo-Brazzaville Ginebisau
-Guinea Bisau Kongo-Kinshasa Guinea-Bisau Kongo-Kinshasa Ginebisau
-Guinea Bisau Lesotho Guinea-Bisau Lesotho Ginebisau
-Guinea Bisau Liberia Guinea-Bisau Liberia Ginebisau
-Guinea Bisau Libya Guinea-Bisau Libya Ginebisau
-Guinea Bisau Madagaska Guinea-Bisau Madagaska Ginebisau
-Guinea Bisau Malawi Guinea-Bisau Malawi Ginebisau
-Guinea Bisau Mali Guinea-Bisau Mali Ginebisau
-Guinea Bisau Maroko Guinea-Bisau Maroko Ginebisau
-Guinea Bisau Mauritania Guinea-Bisau Mauritania Ginebisau
-Guinea Bisau Misri Guinea-Bisau Misri Ginebisau
-Guinea Bisau Morisi Guinea-Bisau Morisi Ginebisau
-Guinea Bisau Moroko Guinea-Bisau Moroko Ginebisau
-Guinea Bisau Mozambik Guinea-Bisau Mozambik Ginebisau
-Guinea Bisau Msumbiji Guinea-Bisau Msumbiji Ginebisau
-Guinea Bisau Mtakatifu Helena Guinea-Bisau Mtakatifu Helena Ginebisau
-Guinea Bisau Naijeria Guinea-Bisau Naijeria Ginebisau
-Guinea Bisau Namibia Guinea-Bisau Namibia Ginebisau
-Guinea Bisau Niger Guinea-Bisau Niger Ginebisau
-Guinea Bisau Nigeria Guinea-Bisau Nigeria Ginebisau
-Guinea Bisau Nijeri Guinea-Bisau Nijeri Ginebisau
-Guinea Bisau Nijeria Guinea-Bisau Nijeria Ginebisau
-Guinea Bisau Ruanda Guinea-Bisau Ruanda Ginebisau
-Guinea Bisau Rwanda Guinea-Bisau Rwanda Ginebisau
-Guinea Bisau Réunion Guinea-Bisau Réunion Ginebisau
-Guinea Bisau Sahara ya Magharibi Guinea-Bisau Sahara ya Magharibi Ginebisau
-Guinea Bisau Sao Tome na Principe Guinea-Bisau Sao Tome na Principe Ginebisau
-Guinea Bisau Senegal Guinea-Bisau Senegal Ginebisau
-Guinea Bisau Senegali Guinea-Bisau Senegali Ginebisau
-Guinea Bisau Shelisheli Guinea-Bisau Shelisheli Ginebisau
-Guinea Bisau Sierra Leone Guinea-Bisau Sierra Leone Ginebisau
-Guinea Bisau Somalia Guinea-Bisau Somalia Ginebisau
-Guinea Bisau Sudan Guinea-Bisau Sudan Ginebisau
-Guinea Bisau Sudan Kusini Guinea-Bisau Sudan Kusini Ginebisau
-Guinea Bisau Swaziland Guinea-Bisau Swaziland Ginebisau
-Guinea Bisau Tanzania Guinea-Bisau Tanzania Ginebisau
-Guinea Bisau Togo Guinea-Bisau Togo Ginebisau
-Guinea Bisau Tunisia Guinea-Bisau Tunisia Ginebisau
-Guinea Bisau Uganda Guinea-Bisau Uganda Ginebisau
-Guinea Bisau Uhabeshi Guinea-Bisau Uhabeshi Ginebisau
-Guinea Bisau Umisri Guinea-Bisau Umisri Ginebisau
-Guinea Bisau Unyasa Guinea-Bisau Unyasa Ginebisau
-Guinea Bisau Ushelisheli Guinea-Bisau Ushelisheli Ginebisau
-Guinea Bisau Uswazi Guinea-Bisau Uswazi Ginebisau
-Guinea Bisau Visiwa vya Ngazija Guinea-Bisau Visiwa vya Ngazija Ginebisau
-Guinea Bisau Zambia Guinea-Bisau Zambia Ginebisau
-Guinea Bisau Zimbabwe Guinea-Bisau Zimbabwe Ginebisau
-Guinea Botswana Gine Botswana Gini
-Guinea Bukini Gine Bukini Gini
-Guinea Burkina Faso Gine Burkina Faso Gini
-Guinea Burundi Gine Burundi Gini
-Guinea Cabo Verde Gine Cabo Verde Gini
-Guinea Cameroon Gine Cameroon Gini
-Guinea Chad Gine Chad Gini
-Guinea Chadi Gine Chadi Gini
-Guinea Cote d'Ivoire Gine Cote d'Ivoire Gini
-Guinea Djibouti Gine Djibouti Gini
-Guinea Eritrea Gine Eritrea Gini
-Guinea Eswatini Gine Eswatini Gini
-Guinea Ethiopia Gine Ethiopia Gini
-Guinea Gabon Gine Gabon Gini
-Guinea Gambia Gine Gambia Gini
-Guinea Ghana Gine Ghana Gini
-Guinea Gine Gine Gine Gini
-Guinea Ginebisau Gine Ginebisau Gini
-Guinea Ginekweta Gine Ginekweta Gini
-Guinea Gini Gine Gini Gini
-Guinea Guinea Bisau Gine Guinea Bisau Gini
-Guinea Guinea Gine Guinea Gini
-Guinea Guinea ya Ikweta Gine Guinea ya Ikweta Gini
-Guinea Guinea-Bisau Gine Guinea-Bisau Gini
-Guinea Habeshi Gine Habeshi Gini
-Guinea Jamhuri ya Afrika ya Kati Gine Jamhuri ya Afrika ya Kati Gini
-Guinea Jamhuri ya Kenya Gine Jamhuri ya Kenya Gini
-Guinea Jamhuri ya Kidemokrasia ya Kongo Gine Jamhuri ya Kidemokrasia ya Kongo Gini
-Guinea Jamhuri ya Kongo Gine Jamhuri ya Kongo Gini
-Guinea Jamhuri ya Muungano wa Tanzania Gine Jamhuri ya Muungano wa Tanzania Gini
-Guinea Jibuti Gine Jibuti Gini
-Guinea Kamerun Gine Kamerun Gini
-Guinea Kameruni Gine Kameruni Gini
-Guinea Kenya Gine Kenya Gini
-Guinea Kodivaa Gine Kodivaa Gini
-Guinea Komori Gine Komori Gini
-Guinea Kongo-Brazzaville Gine Kongo-Brazzaville Gini
-Guinea Kongo-Kinshasa Gine Kongo-Kinshasa Gini
-Guinea Lesotho Gine Lesotho Gini
-Guinea Liberia Gine Liberia Gini
-Guinea Libya Gine Libya Gini
-Guinea Madagaska Gine Madagaska Gini
-Guinea Malawi Gine Malawi Gini
-Guinea Mali Gine Mali Gini
-Guinea Maroko Gine Maroko Gini
-Guinea Mauritania Gine Mauritania Gini
-Guinea Misri Gine Misri Gini
-Guinea Morisi Gine Morisi Gini
-Guinea Moroko Gine Moroko Gini
-Guinea Mozambik Gine Mozambik Gini
 Guinea Mpya
-Guinea Msumbiji Gine Msumbiji Gini
-Guinea Mtakatifu Helena Gine Mtakatifu Helena Gini
-Guinea Naijeria Gine Naijeria Gini
-Guinea Namibia Gine Namibia Gini
-Guinea Niger Gine Niger Gini
-Guinea Nigeria Gine Nigeria Gini
-Guinea Nijeri Gine Nijeri Gini
-Guinea Nijeria Gine Nijeria Gini
-Guinea Ruanda Gine Ruanda Gini
-Guinea Rwanda Gine Rwanda Gini
-Guinea Réunion Gine Réunion Gini
-Guinea Sahara ya Magharibi Gine Sahara ya Magharibi Gini
-Guinea Sao Tome na Principe Gine Sao Tome na Principe Gini
-Guinea Senegal Gine Senegal Gini
-Guinea Senegali Gine Senegali Gini
-Guinea Shelisheli Gine Shelisheli Gini
-Guinea Sierra Leone Gine Sierra Leone Gini
-Guinea Somalia Gine Somalia Gini
-Guinea Sudan Gine Sudan Gini
-Guinea Sudan Kusini Gine Sudan Kusini Gini
-Guinea Swaziland Gine Swaziland Gini
-Guinea Tanzania Gine Tanzania Gini
-Guinea Togo Gine Togo Gini
-Guinea Tunisia Gine Tunisia Gini
-Guinea Uganda Gine Uganda Gini
-Guinea Uhabeshi Gine Uhabeshi Gini
-Guinea Umisri Gine Umisri Gini
-Guinea Unyasa Gine Unyasa Gini
-Guinea Ushelisheli Gine Ushelisheli Gini
-Guinea Uswazi Gine Uswazi Gini
-Guinea Visiwa vya Ngazija Gine Visiwa vya Ngazija Gini
-Guinea Zambia Gine Zambia Gini
-Guinea Zimbabwe Gine Zimbabwe Gini
 Guinea ya Ikweta
-Guinea ya Ikweta Afrika Kusini Ginekweta
-Guinea ya Ikweta Algeria Ginekweta
-Guinea ya Ikweta Aljeria Ginekweta
-Guinea ya Ikweta Angola Ginekweta
-Guinea ya Ikweta Benin Ginekweta
-Guinea ya Ikweta Botswana Ginekweta
-Guinea ya Ikweta Bukini Ginekweta
-Guinea ya Ikweta Burkina Faso Ginekweta
-Guinea ya Ikweta Burundi Ginekweta
-Guinea ya Ikweta Cabo Verde Ginekweta
-Guinea ya Ikweta Cameroon Ginekweta
-Guinea ya Ikweta Chad Ginekweta
-Guinea ya Ikweta Chadi Ginekweta
-Guinea ya Ikweta Cote d'Ivoire Ginekweta
-Guinea ya Ikweta Djibouti Ginekweta
-Guinea ya Ikweta Eritrea Ginekweta
-Guinea ya Ikweta Eswatini Ginekweta
-Guinea ya Ikweta Ethiopia Ginekweta
-Guinea ya Ikweta Gabon Ginekweta
-Guinea ya Ikweta Gambia Ginekweta
-Guinea ya Ikweta Ghana Ginekweta
-Guinea ya Ikweta Gine Ginekweta
-Guinea ya Ikweta Ginebisau Ginekweta
-Guinea ya Ikweta Ginekweta Ginekweta
-Guinea ya Ikweta Gini Ginekweta
-Guinea ya Ikweta Guinea Bisau Ginekweta
-Guinea ya Ikweta Guinea Ginekweta
-Guinea ya Ikweta Guinea ya Ikweta Ginekweta
-Guinea ya Ikweta Guinea-Bisau Ginekweta
-Guinea ya Ikweta Habeshi Ginekweta
-Guinea ya Ikweta Jamhuri ya Afrika ya Kati Ginekweta
-Guinea ya Ikweta Jamhuri ya Kenya Ginekweta
-Guinea ya Ikweta Jamhuri ya Kidemokrasia ya Kongo Ginekweta
-Guinea ya Ikweta Jamhuri ya Kongo Ginekweta
-Guinea ya Ikweta Jamhuri ya Muungano wa Tanzania Ginekweta
-Guinea ya Ikweta Jibuti Ginekweta
-Guinea ya Ikweta Kamerun Ginekweta
-Guinea ya Ikweta Kameruni Ginekweta
-Guinea ya Ikweta Kenya Ginekweta
-Guinea ya Ikweta Kodivaa Ginekweta
-Guinea ya Ikweta Komori Ginekweta
-Guinea ya Ikweta Kongo-Brazzaville Ginekweta
-Guinea ya Ikweta Kongo-Kinshasa Ginekweta
-Guinea ya Ikweta Lesotho Ginekweta
-Guinea ya Ikweta Liberia Ginekweta
-Guinea ya Ikweta Libya Ginekweta
-Guinea ya Ikweta Madagaska Ginekweta
-Guinea ya Ikweta Malawi Ginekweta
-Guinea ya Ikweta Mali Ginekweta
-Guinea ya Ikweta Maroko Ginekweta
-Guinea ya Ikweta Mauritania Ginekweta
-Guinea ya Ikweta Misri Ginekweta
-Guinea ya Ikweta Morisi Ginekweta
-Guinea ya Ikweta Moroko Ginekweta
-Guinea ya Ikweta Mozambik Ginekweta
-Guinea ya Ikweta Msumbiji Ginekweta
-Guinea ya Ikweta Mtakatifu Helena Ginekweta
-Guinea ya Ikweta Naijeria Ginekweta
-Guinea ya Ikweta Namibia Ginekweta
-Guinea ya Ikweta Niger Ginekweta
-Guinea ya Ikweta Nigeria Ginekweta
-Guinea ya Ikweta Nijeri Ginekweta
-Guinea ya Ikweta Nijeria Ginekweta
-Guinea ya Ikweta Ruanda Ginekweta
-Guinea ya Ikweta Rwanda Ginekweta
-Guinea ya Ikweta Réunion Ginekweta
-Guinea ya Ikweta Sahara ya Magharibi Ginekweta
-Guinea ya Ikweta Sao Tome na Principe Ginekweta
-Guinea ya Ikweta Senegal Ginekweta
-Guinea ya Ikweta Senegali Ginekweta
-Guinea ya Ikweta Shelisheli Ginekweta
-Guinea ya Ikweta Sierra Leone Ginekweta
-Guinea ya Ikweta Somalia Ginekweta
-Guinea ya Ikweta Sudan Ginekweta
-Guinea ya Ikweta Sudan Kusini Ginekweta
-Guinea ya Ikweta Swaziland Ginekweta
-Guinea ya Ikweta Tanzania Ginekweta
-Guinea ya Ikweta Togo Ginekweta
-Guinea ya Ikweta Tunisia Ginekweta
-Guinea ya Ikweta Uganda Ginekweta
-Guinea ya Ikweta Uhabeshi Ginekweta
-Guinea ya Ikweta Umisri Ginekweta
-Guinea ya Ikweta Unyasa Ginekweta
-Guinea ya Ikweta Ushelisheli Ginekweta
-Guinea ya Ikweta Uswazi Ginekweta
-Guinea ya Ikweta Visiwa vya Ngazija Ginekweta
-Guinea ya Ikweta Zambia Ginekweta
-Guinea ya Ikweta Zimbabwe Ginekweta
 Guinea-Bisau
 Guyana
 Habakuki
@@ -2892,15 +2643,20 @@ Idd el Fitr
 Idd el Hajj
 Ijumaa
 Ijumaa Kuu
+Ikulu ya Marekani
 Imani
 India
 Indianapolis
 Indonesia
+Infix position negative subject concord
+Infix position positive subject concord
+Initial
 Irak
 Isa
 Isaya
 Israeli
 Italia
+JWTZ
 Jabari
 Jadi
 Jalali
@@ -2937,94 +2693,6 @@ Jauza
 Je
 Jengo la Empire State
 Jibuti
-Jibuti Afrika Kusini Djibouti
-Jibuti Algeria Djibouti
-Jibuti Aljeria Djibouti
-Jibuti Angola Djibouti
-Jibuti Benin Djibouti
-Jibuti Botswana Djibouti
-Jibuti Bukini Djibouti
-Jibuti Burkina Faso Djibouti
-Jibuti Burundi Djibouti
-Jibuti Cabo Verde Djibouti
-Jibuti Cameroon Djibouti
-Jibuti Chad Djibouti
-Jibuti Chadi Djibouti
-Jibuti Cote d'Ivoire Djibouti
-Jibuti Djibouti Djibouti
-Jibuti Eritrea Djibouti
-Jibuti Eswatini Djibouti
-Jibuti Ethiopia Djibouti
-Jibuti Gabon Djibouti
-Jibuti Gambia Djibouti
-Jibuti Ghana Djibouti
-Jibuti Gine Djibouti
-Jibuti Ginebisau Djibouti
-Jibuti Ginekweta Djibouti
-Jibuti Gini Djibouti
-Jibuti Guinea Bisau Djibouti
-Jibuti Guinea Djibouti
-Jibuti Guinea ya Ikweta Djibouti
-Jibuti Guinea-Bisau Djibouti
-Jibuti Habeshi Djibouti
-Jibuti Jamhuri ya Afrika ya Kati Djibouti
-Jibuti Jamhuri ya Kenya Djibouti
-Jibuti Jamhuri ya Kidemokrasia ya Kongo Djibouti
-Jibuti Jamhuri ya Kongo Djibouti
-Jibuti Jamhuri ya Muungano wa Tanzania Djibouti
-Jibuti Jibuti Djibouti
-Jibuti Kamerun Djibouti
-Jibuti Kameruni Djibouti
-Jibuti Kenya Djibouti
-Jibuti Kodivaa Djibouti
-Jibuti Komori Djibouti
-Jibuti Kongo-Brazzaville Djibouti
-Jibuti Kongo-Kinshasa Djibouti
-Jibuti Lesotho Djibouti
-Jibuti Liberia Djibouti
-Jibuti Libya Djibouti
-Jibuti Madagaska Djibouti
-Jibuti Malawi Djibouti
-Jibuti Mali Djibouti
-Jibuti Maroko Djibouti
-Jibuti Mauritania Djibouti
-Jibuti Misri Djibouti
-Jibuti Morisi Djibouti
-Jibuti Moroko Djibouti
-Jibuti Mozambik Djibouti
-Jibuti Msumbiji Djibouti
-Jibuti Mtakatifu Helena Djibouti
-Jibuti Naijeria Djibouti
-Jibuti Namibia Djibouti
-Jibuti Niger Djibouti
-Jibuti Nigeria Djibouti
-Jibuti Nijeri Djibouti
-Jibuti Nijeria Djibouti
-Jibuti Ruanda Djibouti
-Jibuti Rwanda Djibouti
-Jibuti Réunion Djibouti
-Jibuti Sahara ya Magharibi Djibouti
-Jibuti Sao Tome na Principe Djibouti
-Jibuti Senegal Djibouti
-Jibuti Senegali Djibouti
-Jibuti Shelisheli Djibouti
-Jibuti Sierra Leone Djibouti
-Jibuti Somalia Djibouti
-Jibuti Sudan Djibouti
-Jibuti Sudan Kusini Djibouti
-Jibuti Swaziland Djibouti
-Jibuti Tanzania Djibouti
-Jibuti Togo Djibouti
-Jibuti Tunisia Djibouti
-Jibuti Uganda Djibouti
-Jibuti Uhabeshi Djibouti
-Jibuti Umisri Djibouti
-Jibuti Unyasa Djibouti
-Jibuti Ushelisheli Djibouti
-Jibuti Uswazi Djibouti
-Jibuti Visiwa vya Ngazija Djibouti
-Jibuti Zambia Djibouti
-Jibuti Zimbabwe Djibouti
 Jnn
 Johari
 Jojia
@@ -3055,6 +2723,7 @@ Jupita
 KIU
 KK
 KK (kabla ya Kristo)
+KRA
 Kaa
 Kaaba
 Kaburu
@@ -3062,97 +2731,10 @@ Kadzo
 Kaini
 Kairo
 Kalasinga
+Kalenda ya Kiislamu
 Kamau
 Kamboja
 Kamerun
-Kamerun Afrika Kusini Cameroon Afrika Kusini Kameruni
-Kamerun Algeria Cameroon Algeria Kameruni
-Kamerun Aljeria Cameroon Aljeria Kameruni
-Kamerun Angola Cameroon Angola Kameruni
-Kamerun Benin Cameroon Benin Kameruni
-Kamerun Botswana Cameroon Botswana Kameruni
-Kamerun Bukini Cameroon Bukini Kameruni
-Kamerun Burkina Faso Cameroon Burkina Faso Kameruni
-Kamerun Burundi Cameroon Burundi Kameruni
-Kamerun Cabo Verde Cameroon Cabo Verde Kameruni
-Kamerun Cameroon Cameroon Cameroon Kameruni
-Kamerun Chad Cameroon Chad Kameruni
-Kamerun Chadi Cameroon Chadi Kameruni
-Kamerun Cote d'Ivoire Cameroon Cote d'Ivoire Kameruni
-Kamerun Djibouti Cameroon Djibouti Kameruni
-Kamerun Eritrea Cameroon Eritrea Kameruni
-Kamerun Eswatini Cameroon Eswatini Kameruni
-Kamerun Ethiopia Cameroon Ethiopia Kameruni
-Kamerun Gabon Cameroon Gabon Kameruni
-Kamerun Gambia Cameroon Gambia Kameruni
-Kamerun Ghana Cameroon Ghana Kameruni
-Kamerun Gine Cameroon Gine Kameruni
-Kamerun Ginebisau Cameroon Ginebisau Kameruni
-Kamerun Ginekweta Cameroon Ginekweta Kameruni
-Kamerun Gini Cameroon Gini Kameruni
-Kamerun Guinea Bisau Cameroon Guinea Bisau Kameruni
-Kamerun Guinea Cameroon Guinea Kameruni
-Kamerun Guinea ya Ikweta Cameroon Guinea ya Ikweta Kameruni
-Kamerun Guinea-Bisau Cameroon Guinea-Bisau Kameruni
-Kamerun Habeshi Cameroon Habeshi Kameruni
-Kamerun Jamhuri ya Afrika ya Kati Cameroon Jamhuri ya Afrika ya Kati Kameruni
-Kamerun Jamhuri ya Kenya Cameroon Jamhuri ya Kenya Kameruni
-Kamerun Jamhuri ya Kidemokrasia ya Kongo Cameroon Jamhuri ya Kidemokrasia ya Kongo Kameruni
-Kamerun Jamhuri ya Kongo Cameroon Jamhuri ya Kongo Kameruni
-Kamerun Jamhuri ya Muungano wa Tanzania Cameroon Jamhuri ya Muungano wa Tanzania Kameruni
-Kamerun Jibuti Cameroon Jibuti Kameruni
-Kamerun Kamerun Cameroon Kamerun Kameruni
-Kamerun Kameruni Cameroon Kameruni Kameruni
-Kamerun Kenya Cameroon Kenya Kameruni
-Kamerun Kodivaa Cameroon Kodivaa Kameruni
-Kamerun Komori Cameroon Komori Kameruni
-Kamerun Kongo-Brazzaville Cameroon Kongo-Brazzaville Kameruni
-Kamerun Kongo-Kinshasa Cameroon Kongo-Kinshasa Kameruni
-Kamerun Lesotho Cameroon Lesotho Kameruni
-Kamerun Liberia Cameroon Liberia Kameruni
-Kamerun Libya Cameroon Libya Kameruni
-Kamerun Madagaska Cameroon Madagaska Kameruni
-Kamerun Malawi Cameroon Malawi Kameruni
-Kamerun Mali Cameroon Mali Kameruni
-Kamerun Maroko Cameroon Maroko Kameruni
-Kamerun Mauritania Cameroon Mauritania Kameruni
-Kamerun Misri Cameroon Misri Kameruni
-Kamerun Morisi Cameroon Morisi Kameruni
-Kamerun Moroko Cameroon Moroko Kameruni
-Kamerun Mozambik Cameroon Mozambik Kameruni
-Kamerun Msumbiji Cameroon Msumbiji Kameruni
-Kamerun Mtakatifu Helena Cameroon Mtakatifu Helena Kameruni
-Kamerun Naijeria Cameroon Naijeria Kameruni
-Kamerun Namibia Cameroon Namibia Kameruni
-Kamerun Niger Cameroon Niger Kameruni
-Kamerun Nigeria Cameroon Nigeria Kameruni
-Kamerun Nijeri Cameroon Nijeri Kameruni
-Kamerun Nijeria Cameroon Nijeria Kameruni
-Kamerun Ruanda Cameroon Ruanda Kameruni
-Kamerun Rwanda Cameroon Rwanda Kameruni
-Kamerun Réunion Cameroon Réunion Kameruni
-Kamerun Sahara ya Magharibi Cameroon Sahara ya Magharibi Kameruni
-Kamerun Sao Tome na Principe Cameroon Sao Tome na Principe Kameruni
-Kamerun Senegal Cameroon Senegal Kameruni
-Kamerun Senegali Cameroon Senegali Kameruni
-Kamerun Shelisheli Cameroon Shelisheli Kameruni
-Kamerun Sierra Leone Cameroon Sierra Leone Kameruni
-Kamerun Somalia Cameroon Somalia Kameruni
-Kamerun Sudan Cameroon Sudan Kameruni
-Kamerun Sudan Kusini Cameroon Sudan Kusini Kameruni
-Kamerun Swaziland Cameroon Swaziland Kameruni
-Kamerun Tanzania Cameroon Tanzania Kameruni
-Kamerun Togo Cameroon Togo Kameruni
-Kamerun Tunisia Cameroon Tunisia Kameruni
-Kamerun Uganda Cameroon Uganda Kameruni
-Kamerun Uhabeshi Cameroon Uhabeshi Kameruni
-Kamerun Umisri Cameroon Umisri Kameruni
-Kamerun Unyasa Cameroon Unyasa Kameruni
-Kamerun Ushelisheli Cameroon Ushelisheli Kameruni
-Kamerun Uswazi Cameroon Uswazi Kameruni
-Kamerun Visiwa vya Ngazija Cameroon Visiwa vya Ngazija Kameruni
-Kamerun Zambia Cameroon Zambia Kameruni
-Kamerun Zimbabwe Cameroon Zimbabwe Kameruni
 Kameruni
 Kamisheni ya Ulaya
 Kanaani
@@ -3175,6 +2757,7 @@ Khadija
 Kharibdi
 Khartoum
 Khorezmia
+Ki-
 Kiacholi
 Kiadele
 Kiafrika Kusini
@@ -3193,6 +2776,7 @@ Kiantigua
 Kiarabu
 Kiaramu
 Kiarmenia
+Kiawa
 Kiazabaijani
 Kiazeri
 Kiazteki
@@ -3204,6 +2788,7 @@ Kibantu
 Kibelarus
 Kibelize
 Kibelorusia
+Kibemba
 Kibengali
 Kibolivia
 Kibrazili
@@ -3219,14 +2804,17 @@ Kichile
 Kichina
 Kidachi
 Kidahalo
+Kidegema
 Kideni
 Kidenishi
 Kidigo
 Kidominika
 Kiebrania
+Kiedo
 Kiekwado
 Kielsavado
 Kieritrea
+Kiesan
 Kieskimo
 Kiesperanto
 Kifaransa
@@ -3235,6 +2823,7 @@ Kifilipino
 Kifini
 Kifinishi
 Kigaboni
+Kigalicia
 Kiganda
 Kige'ez
 Kighana
@@ -3251,6 +2840,7 @@ Kihadza
 Kihaiti
 Kihausa
 Kihawai
+Kihazaragi
 Kihindi
 Kihispania
 Kiholanzi
@@ -3267,6 +2857,8 @@ Kiingereza cha Uingereza
 Kiingria
 Kiiraki
 Kiiraqw
+Kiislamu
+Kiisoko
 Kiitalia
 Kiitaliano
 Kijaluo
@@ -3303,6 +2895,8 @@ Kiliberi
 Kilibya
 Kilimanjaro
 Kilimia
+Kilomwe
+Kilomwe cha Malawi
 Kilutheri
 Kimakonde
 Kimalagasi
@@ -3326,9 +2920,11 @@ Kimoroko
 Kimsumbiji
 Kimvita
 Kimwani class VII
+Kimwera
 Kinahuatl
 Kinauru
 Kinavaho
+Kindendeule
 Kingala
 Kingazija
 Kingereza
@@ -3339,6 +2935,7 @@ Kinorsi
 Kinyanja
 Kinyarwanda
 Kinyonga
+Kinyungwe
 Kiositani
 Kipanama
 Kipanjabi
@@ -3388,25 +2985,32 @@ Kitaiwani
 Kitajiki
 Kithai
 Kithailand
+Kitikar
 Kitindiga
 Kitogo
+Kitooro
 Kitswana
+Kitumbuka
 Kitunisi
 Kiturkana
 Kituruki
 Kiturukimeni
 Kityap
+Kiukraini
 Kiunguja
 Kiurdu
+Kiurhobo
 Kivenezuela
 Kivieti
 Kivietinamu
 Kiwolofu
 Kixhosa
 Kiyahudi
+Kiyao
 Kiyordani
 Kiyoruba
 Kizambia
+Kizayuni
 Kizibeki
 Kizimbabwe
 Kizulu
@@ -3427,6 +3031,7 @@ Korea ya Kaskazini
 Korea ya Kusini
 Kosovo
 Kostarika
+Krisimasi
 Krismasi
 Krismasi njema
 Kristo
@@ -3469,6 +3074,10 @@ London
 Luka
 Lutu
 Lyon
+M-PESA
+M-Pesa
+M-WEKEZA
+M-Wekeza
 MAKISATU
 MB
 Maazi
@@ -3506,6 +3115,7 @@ Mara
 Maradhi ya virusi ya ebola
 Marekani
 Marekani Kwanza
+Marekeni
 Maria Magdalena
 Mariamu
 Marko
@@ -3564,6 +3174,7 @@ Mdahalo
 Mdeni
 Mdigo
 Mdominika
+Mediterania
 Medusa
 Mei
 Mei Mosi
@@ -3579,6 +3190,15 @@ Mfilisti
 Mfini
 Mfinlendi
 Mfunguo
+Mfunguo Mosi
+Mfunguo Nane
+Mfunguo Nne
+Mfunguo Pili
+Mfunguo Saba
+Mfunguo Sita
+Mfunguo Tano
+Mfunguo Tatu
+Mfunguo Tisa
 Mgaboni
 Mganda
 Mghana
@@ -3607,7 +3227,6 @@ Michezo ya Olimpiki
 Mifunguo
 Mika
 Mirihi
-MirihiMurihiMeriki
 Misko
 Misri
 Misri ya Kale
@@ -3690,98 +3309,11 @@ Mongolia
 Morisi
 Moritania
 Moroko
-Moroko Afrika Kusini Maroko
-Moroko Algeria Maroko
-Moroko Aljeria Maroko
-Moroko Angola Maroko
-Moroko Benin Maroko
-Moroko Botswana Maroko
-Moroko Bukini Maroko
-Moroko Burkina Faso Maroko
-Moroko Burundi Maroko
-Moroko Cabo Verde Maroko
-Moroko Cameroon Maroko
-Moroko Chad Maroko
-Moroko Chadi Maroko
-Moroko Cote d'Ivoire Maroko
-Moroko Djibouti Maroko
-Moroko Eritrea Maroko
-Moroko Eswatini Maroko
-Moroko Ethiopia Maroko
-Moroko Gabon Maroko
-Moroko Gambia Maroko
-Moroko Ghana Maroko
-Moroko Gine Maroko
-Moroko Ginebisau Maroko
-Moroko Ginekweta Maroko
-Moroko Gini Maroko
-Moroko Guinea Bisau Maroko
-Moroko Guinea Maroko
-Moroko Guinea ya Ikweta Maroko
-Moroko Guinea-Bisau Maroko
-Moroko Habeshi Maroko
-Moroko Jamhuri ya Afrika ya Kati Maroko
-Moroko Jamhuri ya Kenya Maroko
-Moroko Jamhuri ya Kidemokrasia ya Kongo Maroko
-Moroko Jamhuri ya Kongo Maroko
-Moroko Jamhuri ya Muungano wa Tanzania Maroko
-Moroko Jibuti Maroko
-Moroko Kamerun Maroko
-Moroko Kameruni Maroko
-Moroko Kenya Maroko
-Moroko Kodivaa Maroko
-Moroko Komori Maroko
-Moroko Kongo-Brazzaville Maroko
-Moroko Kongo-Kinshasa Maroko
-Moroko Lesotho Maroko
-Moroko Liberia Maroko
-Moroko Libya Maroko
-Moroko Madagaska Maroko
-Moroko Malawi Maroko
-Moroko Mali Maroko
-Moroko Maroko Maroko
-Moroko Mauritania Maroko
-Moroko Misri Maroko
-Moroko Morisi Maroko
-Moroko Moroko Maroko
-Moroko Mozambik Maroko
-Moroko Msumbiji Maroko
-Moroko Mtakatifu Helena Maroko
-Moroko Naijeria Maroko
-Moroko Namibia Maroko
-Moroko Niger Maroko
-Moroko Nigeria Maroko
-Moroko Nijeri Maroko
-Moroko Nijeria Maroko
-Moroko Ruanda Maroko
-Moroko Rwanda Maroko
-Moroko Réunion Maroko
-Moroko Sahara ya Magharibi Maroko
-Moroko Sao Tome na Principe Maroko
-Moroko Senegal Maroko
-Moroko Senegali Maroko
-Moroko Shelisheli Maroko
-Moroko Sierra Leone Maroko
-Moroko Somalia Maroko
-Moroko Sudan Kusini Maroko
-Moroko Sudan Maroko
-Moroko Swaziland Maroko
-Moroko Tanzania Maroko
-Moroko Togo Maroko
-Moroko Tunisia Maroko
-Moroko Uganda Maroko
-Moroko Uhabeshi Maroko
-Moroko Umisri Maroko
-Moroko Unyasa Maroko
-Moroko Ushelisheli Maroko
-Moroko Uswazi Maroko
-Moroko Visiwa vya Ngazija Maroko
-Moroko Zambia Maroko
-Moroko Zimbabwe Maroko
 Moscow
 Mose
 Mosi
 Mozambik
+Mpakistani
 Mpalestina
 Mpanama
 Mpangwa
@@ -3791,6 +3323,7 @@ Mperuu
 Mpokomo
 Mpoli
 Mprotestanti
+Mqatari
 Mreno
 Mromania
 Mrugwai
@@ -3833,9 +3366,11 @@ Mtanzania
 Mtaturu
 Mthai
 Mtindiga
+Mto Ngalamu
 Mtogo
 Mtrinidadi
 Mtswana
+Mtumbuka
 Mtunisi
 Mturkana
 Mturuki
@@ -3845,7 +3380,9 @@ Muarabu
 Muargentina
 Muhammad
 Muingereza
+Muiran
 Muislamu
+Muitaliano
 Mumsumbiji
 Mungu
 Mungu akipenda
@@ -3905,10 +3442,12 @@ Mwolofu
 Mxhosa
 Myahudi
 Myama
+Myao
 Myordani
 Myoruba
 Myunani
 Mzambia
+Mzayuni
 Mzibeki
 Mzimbabwe
 Mzulu
@@ -3920,8 +3459,10 @@ Nairobbery
 Nairobi
 Nairuzi
 Najari
+Nakiri
 Namibia
 Nanenane
+Nashoni
 Natalia
 Nauru
 Ndege wa Peponi
@@ -3942,183 +3483,7 @@ Ngazija
 Nge
 Nia
 Niger
-Niger Afrika Kusini Nijeri
-Niger Algeria Nijeri
-Niger Aljeria Nijeri
-Niger Angola Nijeri
-Niger Benin Nijeri
-Niger Botswana Nijeri
-Niger Bukini Nijeri
-Niger Burkina Faso Nijeri
-Niger Burundi Nijeri
-Niger Cabo Verde Nijeri
-Niger Cameroon Nijeri
-Niger Chad Nijeri
-Niger Chadi Nijeri
-Niger Cote d'Ivoire Nijeri
-Niger Djibouti Nijeri
-Niger Eritrea Nijeri
-Niger Eswatini Nijeri
-Niger Ethiopia Nijeri
-Niger Gabon Nijeri
-Niger Gambia Nijeri
-Niger Ghana Nijeri
-Niger Gine Nijeri
-Niger Ginebisau Nijeri
-Niger Ginekweta Nijeri
-Niger Gini Nijeri
-Niger Guinea Bisau Nijeri
-Niger Guinea Nijeri
-Niger Guinea ya Ikweta Nijeri
-Niger Guinea-Bisau Nijeri
-Niger Habeshi Nijeri
-Niger Jamhuri ya Afrika ya Kati Nijeri
-Niger Jamhuri ya Kenya Nijeri
-Niger Jamhuri ya Kidemokrasia ya Kongo Nijeri
-Niger Jamhuri ya Kongo Nijeri
-Niger Jamhuri ya Muungano wa Tanzania Nijeri
-Niger Jibuti Nijeri
-Niger Kamerun Nijeri
-Niger Kameruni Nijeri
-Niger Kenya Nijeri
-Niger Kodivaa Nijeri
-Niger Komori Nijeri
-Niger Kongo-Brazzaville Nijeri
-Niger Kongo-Kinshasa Nijeri
-Niger Lesotho Nijeri
-Niger Liberia Nijeri
-Niger Libya Nijeri
-Niger Madagaska Nijeri
-Niger Malawi Nijeri
-Niger Mali Nijeri
-Niger Maroko Nijeri
-Niger Mauritania Nijeri
-Niger Misri Nijeri
-Niger Morisi Nijeri
-Niger Moroko Nijeri
-Niger Mozambik Nijeri
-Niger Msumbiji Nijeri
-Niger Mtakatifu Helena Nijeri
-Niger Naijeria Nijeri
-Niger Namibia Nijeri
-Niger Niger Nijeri
-Niger Nigeria Nijeri
-Niger Nijeri Nijeri
-Niger Nijeria Nijeri
-Niger Ruanda Nijeri
-Niger Rwanda Nijeri
-Niger Réunion Nijeri
-Niger Sahara ya Magharibi Nijeri
-Niger Sao Tome na Principe Nijeri
-Niger Senegal Nijeri
-Niger Senegali Nijeri
-Niger Shelisheli Nijeri
-Niger Sierra Leone Nijeri
-Niger Somalia Nijeri
-Niger Sudan Kusini Nijeri
-Niger Sudan Nijeri
-Niger Swaziland Nijeri
-Niger Tanzania Nijeri
-Niger Togo Nijeri
-Niger Tunisia Nijeri
-Niger Uganda Nijeri
-Niger Uhabeshi Nijeri
-Niger Umisri Nijeri
-Niger Unyasa Nijeri
-Niger Ushelisheli Nijeri
-Niger Uswazi Nijeri
-Niger Visiwa vya Ngazija Nijeri
-Niger Zambia Nijeri
-Niger Zimbabwe Nijeri
 Nigeria
-Nigeria Afrika Kusini Nijeria Afrika Kusini Naijeria
-Nigeria Algeria Nijeria Algeria Naijeria
-Nigeria Aljeria Nijeria Aljeria Naijeria
-Nigeria Angola Nijeria Angola Naijeria
-Nigeria Benin Nijeria Benin Naijeria
-Nigeria Botswana Nijeria Botswana Naijeria
-Nigeria Bukini Nijeria Bukini Naijeria
-Nigeria Burkina Faso Nijeria Burkina Faso Naijeria
-Nigeria Burundi Nijeria Burundi Naijeria
-Nigeria Cabo Verde Nijeria Cabo Verde Naijeria
-Nigeria Cameroon Nijeria Cameroon Naijeria
-Nigeria Chad Nijeria Chad Naijeria
-Nigeria Chadi Nijeria Chadi Naijeria
-Nigeria Cote d'Ivoire Nijeria Cote d'Ivoire Naijeria
-Nigeria Djibouti Nijeria Djibouti Naijeria
-Nigeria Eritrea Nijeria Eritrea Naijeria
-Nigeria Eswatini Nijeria Eswatini Naijeria
-Nigeria Ethiopia Nijeria Ethiopia Naijeria
-Nigeria Gabon Nijeria Gabon Naijeria
-Nigeria Gambia Nijeria Gambia Naijeria
-Nigeria Ghana Nijeria Ghana Naijeria
-Nigeria Gine Nijeria Gine Naijeria
-Nigeria Ginebisau Nijeria Ginebisau Naijeria
-Nigeria Ginekweta Nijeria Ginekweta Naijeria
-Nigeria Gini Nijeria Gini Naijeria
-Nigeria Guinea Bisau Nijeria Guinea Bisau Naijeria
-Nigeria Guinea Nijeria Guinea Naijeria
-Nigeria Guinea ya Ikweta Nijeria Guinea ya Ikweta Naijeria
-Nigeria Guinea-Bisau Nijeria Guinea-Bisau Naijeria
-Nigeria Habeshi Nijeria Habeshi Naijeria
-Nigeria Jamhuri ya Afrika ya Kati Nijeria Jamhuri ya Afrika ya Kati Naijeria
-Nigeria Jamhuri ya Kenya Nijeria Jamhuri ya Kenya Naijeria
-Nigeria Jamhuri ya Kidemokrasia ya Kongo Nijeria Jamhuri ya Kidemokrasia ya Kongo Naijeria
-Nigeria Jamhuri ya Kongo Nijeria Jamhuri ya Kongo Naijeria
-Nigeria Jamhuri ya Muungano wa Tanzania Nijeria Jamhuri ya Muungano wa Tanzania Naijeria
-Nigeria Jibuti Nijeria Jibuti Naijeria
-Nigeria Kamerun Nijeria Kamerun Naijeria
-Nigeria Kameruni Nijeria Kameruni Naijeria
-Nigeria Kenya Nijeria Kenya Naijeria
-Nigeria Kodivaa Nijeria Kodivaa Naijeria
-Nigeria Komori Nijeria Komori Naijeria
-Nigeria Kongo-Brazzaville Nijeria Kongo-Brazzaville Naijeria
-Nigeria Kongo-Kinshasa Nijeria Kongo-Kinshasa Naijeria
-Nigeria Lesotho Nijeria Lesotho Naijeria
-Nigeria Liberia Nijeria Liberia Naijeria
-Nigeria Libya Nijeria Libya Naijeria
-Nigeria Madagaska Nijeria Madagaska Naijeria
-Nigeria Malawi Nijeria Malawi Naijeria
-Nigeria Mali Nijeria Mali Naijeria
-Nigeria Maroko Nijeria Maroko Naijeria
-Nigeria Mauritania Nijeria Mauritania Naijeria
-Nigeria Misri Nijeria Misri Naijeria
-Nigeria Morisi Nijeria Morisi Naijeria
-Nigeria Moroko Nijeria Moroko Naijeria
-Nigeria Mozambik Nijeria Mozambik Naijeria
-Nigeria Msumbiji Nijeria Msumbiji Naijeria
-Nigeria Mtakatifu Helena Nijeria Mtakatifu Helena Naijeria
-Nigeria Naijeria Nijeria Naijeria Naijeria
-Nigeria Namibia Nijeria Namibia Naijeria
-Nigeria Niger Nijeria Niger Naijeria
-Nigeria Nigeria Nijeria Nigeria Naijeria
-Nigeria Nijeri Nijeria Nijeri Naijeria
-Nigeria Nijeria Nijeria Nijeria Naijeria
-Nigeria Ruanda Nijeria Ruanda Naijeria
-Nigeria Rwanda Nijeria Rwanda Naijeria
-Nigeria Réunion Nijeria Réunion Naijeria
-Nigeria Sahara ya Magharibi Nijeria Sahara ya Magharibi Naijeria
-Nigeria Sao Tome na Principe Nijeria Sao Tome na Principe Naijeria
-Nigeria Senegal Nijeria Senegal Naijeria
-Nigeria Senegali Nijeria Senegali Naijeria
-Nigeria Shelisheli Nijeria Shelisheli Naijeria
-Nigeria Sierra Leone Nijeria Sierra Leone Naijeria
-Nigeria Somalia Nijeria Somalia Naijeria
-Nigeria Sudan Kusini Nijeria Sudan Kusini Naijeria
-Nigeria Sudan Nijeria Sudan Naijeria
-Nigeria Swaziland Nijeria Swaziland Naijeria
-Nigeria Tanzania Nijeria Tanzania Naijeria
-Nigeria Togo Nijeria Togo Naijeria
-Nigeria Tunisia Nijeria Tunisia Naijeria
-Nigeria Uganda Nijeria Uganda Naijeria
-Nigeria Uhabeshi Nijeria Uhabeshi Naijeria
-Nigeria Umisri Nijeria Umisri Naijeria
-Nigeria Unyasa Nijeria Unyasa Naijeria
-Nigeria Ushelisheli Nijeria Ushelisheli Naijeria
-Nigeria Uswazi Nijeria Uswazi Naijeria
-Nigeria Visiwa vya Ngazija Nijeria Visiwa vya Ngazija Naijeria
-Nigeria Zambia Nijeria Zambia Naijeria
-Nigeria Zimbabwe Nijeria Zimbabwe Naijeria
 Nijeri
 Nijeria
 Nikaragwa
@@ -4134,7 +3499,6 @@ Nusuoda ya popo wakubwa
 Nyavu
 Nyiragongo
 Nyoka Maji
-Nyumba Nyeupe
 Nyuzilandi
 Nywele za Berenike
 Nzi
@@ -4164,6 +3528,7 @@ Pasaka
 Pasifiki
 Patasi
 Paulo
+Pemba
 Pembe ya Afrika
 Pembemoja Asiyeonekana wa Pinki
 Pembemraba
@@ -4197,6 +3562,7 @@ Rasi ya Tumaini Jema
 Rasi ya Uarabuni
 Rea
 Rehema
+Relative
 Roho Mtakatifu
 Roma
 Romania
@@ -4206,97 +3572,10 @@ Rum
 Ruth
 Ruthu
 Rwanda
-Rwanda Afrika Kusini Ruanda
-Rwanda Algeria Ruanda
-Rwanda Aljeria Ruanda
-Rwanda Angola Ruanda
-Rwanda Benin Ruanda
-Rwanda Botswana Ruanda
-Rwanda Bukini Ruanda
-Rwanda Burkina Faso Ruanda
-Rwanda Burundi Ruanda
-Rwanda Cabo Verde Ruanda
-Rwanda Cameroon Ruanda
-Rwanda Chad Ruanda
-Rwanda Chadi Ruanda
-Rwanda Cote d'Ivoire Ruanda
-Rwanda Djibouti Ruanda
-Rwanda Eritrea Ruanda
-Rwanda Eswatini Ruanda
-Rwanda Ethiopia Ruanda
-Rwanda Gabon Ruanda
-Rwanda Gambia Ruanda
-Rwanda Ghana Ruanda
-Rwanda Gine Ruanda
-Rwanda Ginebisau Ruanda
-Rwanda Ginekweta Ruanda
-Rwanda Gini Ruanda
-Rwanda Guinea Bisau Ruanda
-Rwanda Guinea Ruanda
-Rwanda Guinea ya Ikweta Ruanda
-Rwanda Guinea-Bisau Ruanda
-Rwanda Habeshi Ruanda
-Rwanda Jamhuri ya Afrika ya Kati Ruanda
-Rwanda Jamhuri ya Kenya Ruanda
-Rwanda Jamhuri ya Kidemokrasia ya Kongo Ruanda
-Rwanda Jamhuri ya Kongo Ruanda
-Rwanda Jamhuri ya Muungano wa Tanzania Ruanda
-Rwanda Jibuti Ruanda
-Rwanda Kamerun Ruanda
-Rwanda Kameruni Ruanda
-Rwanda Kenya Ruanda
-Rwanda Kodivaa Ruanda
-Rwanda Komori Ruanda
-Rwanda Kongo-Brazzaville Ruanda
-Rwanda Kongo-Kinshasa Ruanda
-Rwanda Lesotho Ruanda
-Rwanda Liberia Ruanda
-Rwanda Libya Ruanda
-Rwanda Madagaska Ruanda
-Rwanda Malawi Ruanda
-Rwanda Mali Ruanda
-Rwanda Maroko Ruanda
-Rwanda Mauritania Ruanda
-Rwanda Misri Ruanda
-Rwanda Morisi Ruanda
-Rwanda Moroko Ruanda
-Rwanda Mozambik Ruanda
-Rwanda Msumbiji Ruanda
-Rwanda Mtakatifu Helena Ruanda
-Rwanda Naijeria Ruanda
-Rwanda Namibia Ruanda
-Rwanda Niger Ruanda
-Rwanda Nigeria Ruanda
-Rwanda Nijeri Ruanda
-Rwanda Nijeria Ruanda
-Rwanda Ruanda Ruanda
-Rwanda Rwanda Ruanda
-Rwanda Réunion Ruanda
-Rwanda Sahara ya Magharibi Ruanda
-Rwanda Sao Tome na Principe Ruanda
-Rwanda Senegal Ruanda
-Rwanda Senegali Ruanda
-Rwanda Shelisheli Ruanda
-Rwanda Sierra Leone Ruanda
-Rwanda Somalia Ruanda
-Rwanda Sudan Kusini Ruanda
-Rwanda Sudan Ruanda
-Rwanda Swaziland Ruanda
-Rwanda Tanzania Ruanda
-Rwanda Togo Ruanda
-Rwanda Tunisia Ruanda
-Rwanda Uganda Ruanda
-Rwanda Uhabeshi Ruanda
-Rwanda Umisri Ruanda
-Rwanda Unyasa Ruanda
-Rwanda Ushelisheli Ruanda
-Rwanda Uswazi Ruanda
-Rwanda Visiwa vya Ngazija Ruanda
-Rwanda Zambia Ruanda
-Rwanda Zimbabwe Ruanda
 Réunion
 SLP
 Saa
+Sabasaba
 Safiya
 Sagita
 Sahara
@@ -4320,94 +3599,6 @@ Saudia
 Sefania
 Selsiasi
 Senegal
-Senegal Afrika Kusini Senegali
-Senegal Algeria Senegali
-Senegal Aljeria Senegali
-Senegal Angola Senegali
-Senegal Benin Senegali
-Senegal Botswana Senegali
-Senegal Bukini Senegali
-Senegal Burkina Faso Senegali
-Senegal Burundi Senegali
-Senegal Cabo Verde Senegali
-Senegal Cameroon Senegali
-Senegal Chad Senegali
-Senegal Chadi Senegali
-Senegal Cote d'Ivoire Senegali
-Senegal Djibouti Senegali
-Senegal Eritrea Senegali
-Senegal Eswatini Senegali
-Senegal Ethiopia Senegali
-Senegal Gabon Senegali
-Senegal Gambia Senegali
-Senegal Ghana Senegali
-Senegal Gine Senegali
-Senegal Ginebisau Senegali
-Senegal Ginekweta Senegali
-Senegal Gini Senegali
-Senegal Guinea Bisau Senegali
-Senegal Guinea Senegali
-Senegal Guinea ya Ikweta Senegali
-Senegal Guinea-Bisau Senegali
-Senegal Habeshi Senegali
-Senegal Jamhuri ya Afrika ya Kati Senegali
-Senegal Jamhuri ya Kenya Senegali
-Senegal Jamhuri ya Kidemokrasia ya Kongo Senegali
-Senegal Jamhuri ya Kongo Senegali
-Senegal Jamhuri ya Muungano wa Tanzania Senegali
-Senegal Jibuti Senegali
-Senegal Kamerun Senegali
-Senegal Kameruni Senegali
-Senegal Kenya Senegali
-Senegal Kodivaa Senegali
-Senegal Komori Senegali
-Senegal Kongo-Brazzaville Senegali
-Senegal Kongo-Kinshasa Senegali
-Senegal Lesotho Senegali
-Senegal Liberia Senegali
-Senegal Libya Senegali
-Senegal Madagaska Senegali
-Senegal Malawi Senegali
-Senegal Mali Senegali
-Senegal Maroko Senegali
-Senegal Mauritania Senegali
-Senegal Misri Senegali
-Senegal Morisi Senegali
-Senegal Moroko Senegali
-Senegal Mozambik Senegali
-Senegal Msumbiji Senegali
-Senegal Mtakatifu Helena Senegali
-Senegal Naijeria Senegali
-Senegal Namibia Senegali
-Senegal Niger Senegali
-Senegal Nigeria Senegali
-Senegal Nijeri Senegali
-Senegal Nijeria Senegali
-Senegal Ruanda Senegali
-Senegal Rwanda Senegali
-Senegal Réunion Senegali
-Senegal Sahara ya Magharibi Senegali
-Senegal Sao Tome na Principe Senegali
-Senegal Senegal Senegali
-Senegal Senegali Senegali
-Senegal Shelisheli Senegali
-Senegal Sierra Leone Senegali
-Senegal Somalia Senegali
-Senegal Sudan Kusini Senegali
-Senegal Sudan Senegali
-Senegal Swaziland Senegali
-Senegal Tanzania Senegali
-Senegal Togo Senegali
-Senegal Tunisia Senegali
-Senegal Uganda Senegali
-Senegal Uhabeshi Senegali
-Senegal Umisri Senegali
-Senegal Unyasa Senegali
-Senegal Ushelisheli Senegali
-Senegal Uswazi Senegali
-Senegal Visiwa vya Ngazija Senegali
-Senegal Zambia Senegali
-Senegal Zimbabwe Senegali
 Senegali
 Sep
 Septemba
@@ -4418,10 +3609,12 @@ Shaabani
 Shabani
 Shaliaki
 Shamu
+Shawali
 Shelisheli
 Sheng
 Shetani
 Shetri
+Shira
 Shirika la Afya Duniani
 Shirika la Fedha Duniani
 Shirika la Fedha la Kimataifa
@@ -4438,6 +3631,7 @@ Siera Leoni
 Sierra Leone
 Siku ya Bwana
 Siku ya Dunia
+Siku ya Mama
 Siku ya Mashujaa
 Siku ya Pi
 Siku ya Uhuru
@@ -4478,7 +3672,6 @@ Swahili stative verbs
 Swaziland
 Syracuse
 TATAKI
-TCRA
 TEHAMA
 TUKI
 Taganrog
@@ -4497,6 +3690,7 @@ Tauri
 Tausi
 Tbilisi
 Tchaikovsky
+Tegucigalpa
 Tehran
 Tembo
 Thauri
@@ -4539,9 +3733,12 @@ Ucheko-Slovaki
 Uchekoslovaki
 Uchina
 Uchina Bara
+Uchina Halisi
+Uchina ya Kiasili
 Udachi
 Udeni
 Ufalme wa Byzantini
+Ufalme wa Eawatini
 Ufalme wa Muungano
 Ufaransa
 Ufilipino
@@ -4552,94 +3749,6 @@ Ufunuo
 Uganda
 Ugiriki
 Uhabeshi
-Uhabeshi Afrika Kusini Habeshi
-Uhabeshi Algeria Habeshi
-Uhabeshi Aljeria Habeshi
-Uhabeshi Angola Habeshi
-Uhabeshi Benin Habeshi
-Uhabeshi Botswana Habeshi
-Uhabeshi Bukini Habeshi
-Uhabeshi Burkina Faso Habeshi
-Uhabeshi Burundi Habeshi
-Uhabeshi Cabo Verde Habeshi
-Uhabeshi Cameroon Habeshi
-Uhabeshi Chad Habeshi
-Uhabeshi Chadi Habeshi
-Uhabeshi Cote d'Ivoire Habeshi
-Uhabeshi Djibouti Habeshi
-Uhabeshi Eritrea Habeshi
-Uhabeshi Eswatini Habeshi
-Uhabeshi Ethiopia Habeshi
-Uhabeshi Gabon Habeshi
-Uhabeshi Gambia Habeshi
-Uhabeshi Ghana Habeshi
-Uhabeshi Gine Habeshi
-Uhabeshi Ginebisau Habeshi
-Uhabeshi Ginekweta Habeshi
-Uhabeshi Gini Habeshi
-Uhabeshi Guinea Bisau Habeshi
-Uhabeshi Guinea Habeshi
-Uhabeshi Guinea ya Ikweta Habeshi
-Uhabeshi Guinea-Bisau Habeshi
-Uhabeshi Habeshi Habeshi
-Uhabeshi Jamhuri ya Afrika ya Kati Habeshi
-Uhabeshi Jamhuri ya Kenya Habeshi
-Uhabeshi Jamhuri ya Kidemokrasia ya Kongo Habeshi
-Uhabeshi Jamhuri ya Kongo Habeshi
-Uhabeshi Jamhuri ya Muungano wa Tanzania Habeshi
-Uhabeshi Jibuti Habeshi
-Uhabeshi Kamerun Habeshi
-Uhabeshi Kameruni Habeshi
-Uhabeshi Kenya Habeshi
-Uhabeshi Kodivaa Habeshi
-Uhabeshi Komori Habeshi
-Uhabeshi Kongo-Brazzaville Habeshi
-Uhabeshi Kongo-Kinshasa Habeshi
-Uhabeshi Lesotho Habeshi
-Uhabeshi Liberia Habeshi
-Uhabeshi Libya Habeshi
-Uhabeshi Madagaska Habeshi
-Uhabeshi Malawi Habeshi
-Uhabeshi Mali Habeshi
-Uhabeshi Maroko Habeshi
-Uhabeshi Mauritania Habeshi
-Uhabeshi Misri Habeshi
-Uhabeshi Morisi Habeshi
-Uhabeshi Moroko Habeshi
-Uhabeshi Mozambik Habeshi
-Uhabeshi Msumbiji Habeshi
-Uhabeshi Mtakatifu Helena Habeshi
-Uhabeshi Naijeria Habeshi
-Uhabeshi Namibia Habeshi
-Uhabeshi Niger Habeshi
-Uhabeshi Nigeria Habeshi
-Uhabeshi Nijeri Habeshi
-Uhabeshi Nijeria Habeshi
-Uhabeshi Ruanda Habeshi
-Uhabeshi Rwanda Habeshi
-Uhabeshi Réunion Habeshi
-Uhabeshi Sahara ya Magharibi Habeshi
-Uhabeshi Sao Tome na Principe Habeshi
-Uhabeshi Senegal Habeshi
-Uhabeshi Senegali Habeshi
-Uhabeshi Shelisheli Habeshi
-Uhabeshi Sierra Leone Habeshi
-Uhabeshi Somalia Habeshi
-Uhabeshi Sudan Habeshi
-Uhabeshi Sudan Kusini Habeshi
-Uhabeshi Swaziland Habeshi
-Uhabeshi Tanzania Habeshi
-Uhabeshi Togo Habeshi
-Uhabeshi Tunisia Habeshi
-Uhabeshi Uganda Habeshi
-Uhabeshi Uhabeshi Habeshi
-Uhabeshi Umisri Habeshi
-Uhabeshi Unyasa Habeshi
-Uhabeshi Ushelisheli Habeshi
-Uhabeshi Uswazi Habeshi
-Uhabeshi Visiwa vya Ngazija Habeshi
-Uhabeshi Zambia Habeshi
-Uhabeshi Zimbabwe Habeshi
 Uhindi
 Uhindu
 Uhispania
@@ -4647,6 +3756,7 @@ Uholanzi
 Uingereza
 Uislamu
 Uitali
+Ujahilia
 Ujapani
 Ujerumani
 Ujerumani Magharibi
@@ -4663,6 +3773,8 @@ Ukiritimba
 Ukraine
 Ukraini
 Ukristo
+Ukristo wa Magharibi
+Ukristo wa Mashariki
 Ukulu mtakatifu
 Ukuta Mkubwa wa China
 Ukuta wa China
@@ -4694,6 +3806,7 @@ Uranus
 Uranusi
 Urasia
 Ureno
+Urithi wa Dunia
 Urojava class U/U
 Uropa
 Urugwai
@@ -4709,10 +3822,10 @@ Usomali
 Uswazi
 Uswidi
 Uswisi
+Uswizi
 Utaliana
 Utao
 Utaridi
-UtaridiZebaki
 Utatu Mtakatifu
 Uthai
 Uturuki
@@ -4721,6 +3834,7 @@ Uvieti
 Uviko-19
 Uyahudi
 Uyunani
+Uzayuni
 Uzeri
 Uzibeki
 Uzibekistani
@@ -4733,6 +3847,9 @@ Venusi
 Veracruz
 Vesta
 Vietinamu
+Vietnam
+Vietnam Kaskazini
+Vietnam Kusini
 Visiwa vya Cook
 Visiwa vya Faroe
 Visiwa vya Kanari
@@ -4786,10 +3903,12 @@ Wahispania
 Waholanzi
 Wahutu
 Waingereza
+Wairan
 Wairaqw
 Waislamu
 Waisraeli
 Waitalia
+Waitaliano
 Wajaluo
 Wajapani
 Wajerumani
@@ -4826,6 +3945,7 @@ Wanaigeria
 Wanaijeria
 Wanandi
 Wanavaho
+Wangoni
 Wanigeria
 Wanjiku
 Wanorsi
@@ -4835,12 +3955,14 @@ Wanyama wenye kwato shufwa
 Wanyama wenye kwato witiri
 Wanyamwezi
 Wanyarwanda
+Wapakistani
 Wapalestina
 Wapangwa
 Wapate
 Wapokomo
 Wapoli
 Waprotestanti
+Waqatari
 Wareno
 Waridi
 Waroma
@@ -4880,9 +4002,11 @@ Waturkana
 Waturuki
 Watutsi
 Wayahudi
+Wayao
 Wayoruba
 Wayunani
 Wazambia
+Wazayuni
 Wazimbabwe
 Wazulu
 Welisi
@@ -4940,16 +4064,14 @@ Zeu
 Zimbabwe
 Ziwa Victoria
 Zohali
-ZohaliZuhali
 Zohari
 Zoraki
 Zuberi
 Zuhali
 Zuhura
-ZuhuraNg'andu
 Zuri
-a
 a-
+a/languages M to Z
 aali
 aambuaye nyayo safari ameianza
 aamiaye kunde ndiye mla kunde
@@ -4978,7 +4100,9 @@ achia
 achiana
 achika
 achilia
+achiliwa
 achisha
+achishwa
 achwa
 ada
 adabu
@@ -5026,6 +4150,7 @@ afisa
 afisa wa polisi
 afisa wa usalama
 afisi
+afisini
 afriti
 afu
 afua
@@ -5053,11 +4178,16 @@ agua
 aguzi
 agwa
 ahadi
+ahadi ni deni
 ahali
 ahamaru
 ahera
 aheri
 ahidi
+ahidia
+ahidiana
+ahidika
+ahidiwa
 ahiri
 ahirika
 ahirisha
@@ -5110,10 +4240,12 @@ akhiyari
 akiba
 akida
 akidi
+akika
 akiki
 akili
 akili bandia
 akili mnemba
+akilini
 akina
 akiolojia
 akionyesha
@@ -5126,6 +4258,7 @@ ako
 akraba
 akrabu
 akrama
+akronimi
 akronimu
 akthari
 akunti
@@ -5136,7 +4269,12 @@ alafu
 alama
 alama ya barabarani
 alama ya kidole
+alama ya kosa
+alama ya kugawanya
+alama ya kujumlisha
 alama ya kunukuu
+alama ya kutoa
+alama ya kuzidisha
 alama ya mkato
 alama ya mkato, koma
 alama ya mkwaju
@@ -5148,9 +4286,16 @@ alama ya nyota
 alama ya reli
 alama ya swali
 alama ya uakifishaji
+alama ya vema
+alama ya vyema
 alama ya wimbi
 alama za barabarani
+alama za kosa
+alama za kugawanya
+alama za kujumlisha
 alama za kunukuu
+alama za kutoa
+alama za kuzidisha
 alama za mkato
 alama za mkwaju
 alama za mshangao
@@ -5161,8 +4306,9 @@ alama za nyota
 alama za reli
 alama za swali
 alama za uakifishaji
-alama za unajimu wa Kichina
+alama za vema
 alama za vidole
+alama za vyema
 alama za wimbi
 alamsiki
 alasiri
@@ -5170,6 +4316,7 @@ albamu
 albino
 aleluya
 alfabeti
+alfafa
 alfajiri
 alfeni
 alhaji
@@ -5196,6 +4343,7 @@ alkemi
 alkoholi
 alleluia
 almari
+almaria
 almasi
 aloi
 alpaka
@@ -5210,6 +4358,7 @@ amana
 amani
 amani duniani
 amara
+amari
 amba
 ambacho
 ambae
@@ -5250,9 +4399,11 @@ amiba
 amikto
 amili
 amilisha
+amin
 amina
 amini
 aminia
+aminiana
 aminifu
 aminika
 aminisha
@@ -5357,6 +4508,8 @@ angamiza
 angani
 angavu
 angaza
+angazia
+angazika
 angika
 angina
 angu
@@ -5368,6 +4521,7 @@ angusha
 angushwa
 ania
 anika
+anjali
 ankara
 ankara kifani
 ankra
@@ -5383,6 +4537,7 @@ anwani
 anza
 anzia
 anzisha
+anzishwa
 anzwa
 ao
 aondoka
@@ -5392,6 +4547,7 @@ apana
 apia
 apika
 apisha
+apishwa
 apiza
 apostrofi
 aprikoti
@@ -5432,6 +4588,7 @@ arufu
 arusi
 asaiberi
 asali
+asali class IX
 asante
 asante sana
 asanteni
@@ -5448,8 +4605,10 @@ ashu
 asi
 asidi
 asidi ya amino
+asidi ya foliki
 asidi ya pantotheni
 asidi za amino
+asidi za foliki
 asili
 asilia
 asilimia
@@ -5460,6 +4619,7 @@ askari
 askari polisi
 askofu
 askofu mkuu
+aslimia
 aspirini
 asprini
 astashahada
@@ -5478,6 +4638,7 @@ athari
 athari ya sauti
 athira
 athiri
+athirika
 athiriwa
 atibia
 atibiana
@@ -5495,6 +4656,7 @@ auladi
 auliwa
 aunsi
 ausha
+aushi
 auza
 avata
 avya
@@ -5512,8 +4674,10 @@ azima
 azimia
 azimio
 azimio la mwaka mpya
+azimisha
 azimo
 azimu
+azimwa
 azizi
 azma
 ba
@@ -5549,6 +4713,7 @@ badiliko
 badilisha
 badilishana
 badilishano
+badilishwa
 badiliwa
 badiri
 bado
@@ -5556,6 +4721,7 @@ bado kidogo
 bafa
 bafe
 bafu
+baghairi
 baghala
 bagpipes
 bagua
@@ -5567,13 +4733,22 @@ bahasha
 bahashishi
 bahati
 bahati nasibu
+bahatika
 bahatisha
+bahatisho
 bahili
 baibai
+baidi
+baidika
+baidisha
 bailojia
 baina
 baini
+bainia
+bainiana
+bainika
 bainisha
+bainiwa
 baiolojia
 baisani
 baisani wa Marekani
@@ -5589,6 +4764,8 @@ bakari
 baki
 bakia
 bakisha
+bakiza
+bakoli
 bakora
 bakshishi
 bakteria
@@ -5600,7 +4777,9 @@ balaghamu
 balalaika
 balbu
 balehe
+balestiki
 bali
+balistiki
 balozi
 balungi
 baluni
@@ -5624,8 +4803,11 @@ bangili
 bangiri
 bango
 baniani
+banika
+banisha
 banjo
 bano
+banwa
 banyani
 bao
 baobonye
@@ -5642,9 +4824,12 @@ baragumu ya kiingereza
 baraka
 barakinya
 barakoa
+barani
+barasi
 baraza
 barazahi
 baridi
+baridi ti ti ti
 bariki
 barikiwa
 barua
@@ -5653,8 +4838,10 @@ barua pepe
 barua ya mapendekezo
 barua ya ndege
 barua ya rejesta
+barua ya wito
 barua za mapendekezo
 barua za rejesta
+barua za wito
 baruti
 barzakhi
 basha
@@ -5666,6 +4853,7 @@ basi!
 basilika
 baskeli
 bastola
+basua
 basuni
 bata
 bata bukini
@@ -5673,35 +4861,43 @@ bata mzinga
 bata-maji
 batalioni
 batamzinga
+batela
 bati
 batiki
 batili
 batilifu
 batilika
 batilisha
+batilishwa
 batini
 batiza
 batizwa
+batuli
 baunsa
 bawa
 bawaba
 bawabu
+bawasiri
 baya
 bayana
 bayani
 bayolojia
+bayometria
 beba
 bebana
 beberu
+beberu class V
 bebwa
 bechi
 bedeni
 bedui
 bee
 bega
+begani
 begi
 behewa
 bei
+bei gani
 bei rafi
 beji
 beki
@@ -5727,7 +4923,9 @@ benki ya uwekezaji
 benki za uwekezaji
 benzini
 bepari
+beramu
 bereti
+bereu
 beri
 beri ya buluu
 beri ya mreteni
@@ -5787,6 +4985,7 @@ bingwa
 binti
 binti mfalme
 binuru
+binya
 binzari
 biogesi
 biokemia
@@ -5797,6 +4996,8 @@ biringani
 bisbisi
 bisha
 bishana
+bishania
+bishara
 bisi
 bisibisi
 biskuti
@@ -5809,9 +5010,12 @@ blangeti
 blanketi
 blausi
 blauzi
+blogi
 blogu
 bluu
 bluu mwangaza
+bobari
+bobea
 boda boda
 bodaboda
 bodi
@@ -5833,6 +5037,7 @@ bomoa
 bomolewa
 bomu
 bomu la ardhini
+bomu la nyuklia
 bonasi
 bonde
 bonde la ufa
@@ -5846,6 +5051,7 @@ bopa
 bora
 boresha
 boresho
+boreshwa
 boriti
 boroni
 bosi
@@ -5890,6 +5096,7 @@ bunduki
 bunduki kubwa
 bunge
 bungeni
+bungo mpenda-giza
 buni
 bunia
 buniana
@@ -5911,6 +5118,8 @@ burudika
 burudisha
 buruhahi
 buruji
+burura
+buruta
 busara
 bushashi
 bushti
@@ -5921,6 +5130,8 @@ bustani ya Edeni
 bustani ya wanyama
 bustani za wanyama
 busu
+busuri
+busurika
 butani
 buti
 butwaa
@@ -5946,8 +5157,8 @@ bweha
 bweka
 bwekesha
 bweni
+bweta
 cactus
-canids: mbwa na jamaa: mbwa · mbwa mwitu · mbweha~bweha [edit]
 ch-
 cha
 cha-
@@ -5992,9 +5203,10 @@ chakula cha baharini
 chakula cha haraka
 chakula cha kichina
 chakula cha kununua
+chakura
 chama
 chama cha kisiasa
-chamba
+chamani
 chambo
 chambua
 championi
@@ -6047,19 +5259,25 @@ chapati
 chapeli
 chapeo
 chapisha
+chapisho
 chapishwa
 chapua
+chapuka
+chapusha
 charaza
 chati
 chatu
+chauchau
 chavua
 chawa
+chaza
 chazo
 chea
 checha
 cheche
 chechevu
 cheka
+chekacheka
 chekana
 chekea
 chekeka
@@ -6069,6 +5287,7 @@ chekundu
 chekwa
 chelewa
 chelewesha
+cheleweshwa
 chelo
 chema
 chembe
@@ -6085,6 +5304,7 @@ chemshwa
 chenga
 chengine
 chenji
+chenjua
 chenu
 chenyewe
 chenza
@@ -6096,6 +5316,7 @@ cherehe
 cheri
 chesha
 chesi
+chetezo
 cheti
 cheti cha kuzaliwa
 chetu
@@ -6110,12 +5331,15 @@ chezesha
 chezewa
 chezwa
 chichago
+chichiri
 chifu
 chikichi
 chilumbo
 chimba
 chimbika
 chimbo
+chimbua
+chimbuka
 chimbuko
 chingamu
 chini
@@ -6131,6 +5355,7 @@ chipukizi
 chipulia
 chipuza
 chiriku
+chirwa
 chitali
 chizi
 chocha
@@ -6156,13 +5381,16 @@ chombo
 chombo cha habari
 chombo cha majini
 chombo cha usafiri
+chomea
 chomeka
+chomeo
 chomoza
 chomwa
 chonga
 chonge
 chongea
 chongoa
+chongwa
 chonjo
 choo
 choo kiko wapi?
@@ -6190,7 +5418,6 @@ chuchungi
 chudere
 chui
 chui milia
-chui milia or babara
 chui-mawingu
 chui-milia wa Bungala
 chuja
@@ -6201,6 +5428,7 @@ chujwa
 chuki
 chukia
 chukiza
+chuku
 chukua
 chukuana
 chukulia
@@ -6217,6 +5445,8 @@ chumba cha kulala
 chumba cha kulia
 chumba cha maiti
 chumba cha mazoezi
+chumba class VII
+chumbani
 chumbia
 chumbiana
 chumbisha
@@ -6229,7 +5459,11 @@ chungi
 chungu
 chungua
 chunguza
+chunguzana
 chunguzi
+chunguzi za maoni
+chunguzia
+chunguzwa
 chungwa
 chunusi
 chuo
@@ -6241,6 +5475,9 @@ chupa ombwe
 chupi
 chupio
 chura
+churura
+chururu
+churuza
 chusa
 chuuza
 chwa
@@ -6265,6 +5502,7 @@ dadangu
 dadisi
 dadu
 dafina
+dafrau
 daftari
 dafu
 dagaa
@@ -6311,6 +5549,8 @@ dania
 dansi
 dara
 daraba
+darabi
+darahani
 daraja
 daraja la kwanza
 daraja la pili
@@ -6330,10 +5570,13 @@ dasturi
 data
 dau
 dawa
+dawa baridi
 dawa ya chanjo
 dawa ya famasia
+dawa ya ganzi
 dawa ya jiko
 dawa ya kienyeji
+dawa ya kikwapa
 dawa ya kufubaza virusi
 dawa ya kulevya
 dawa ya kupanga uzazi
@@ -6347,6 +5590,7 @@ dawa ya viatu
 dawa ya wadudu
 dawa za chanjo
 dawa za famasia
+dawa za ganzi
 dawa za kienyeji
 dawa za kufubaza virusi
 dawa za kulevya
@@ -6358,10 +5602,10 @@ dawa za wadudu
 dawamu
 dawati
 dayosisi
-days of the week: siku za juma: Jumatatu · Jumanne · Jumatano · Alhamisi · Ijumaa · Jumamosi · Jumapili [edit]
 dazani
 dazeni
 debe
+debi
 debwedebwe
 dege
 degedege
@@ -6372,6 +5616,7 @@ dekeza
 deki
 dele
 delta
+dema
 demani
 demo-
 demokrasi
@@ -6400,6 +5645,7 @@ dhakari
 dhalili
 dhalilika
 dhalilisha
+dhalilishwa
 dhalimu
 dhamana
 dhambi
@@ -6412,8 +5658,15 @@ dhana
 dhana potofu
 dhani
 dhania
+dhaniana
+dhanika
+dhanisha
 dhara
 dharau
+dharaulia
+dharaulika
+dharaulisha
+dharauliwa
 dharuba
 dharula
 dharura
@@ -6430,11 +5683,15 @@ dhihaki
 dhihakisha
 dhihakiwa
 dhihiri
+dhihirika
 dhihirisha
 dhihirishe
+dhihirishwa
 dhii
 dhiki
 dhikiri
+dhikisha
+dhila
 dhili
 dhilia
 dhiliana
@@ -6456,6 +5713,10 @@ dhukuru
 dhuli
 dhulma
 dhuluma
+dhulumati
+dhulumika
+dhulumisha
+dhulumiwa
 dhulumu
 dhuria
 dhuriana
@@ -6494,7 +5755,9 @@ diplomasia
 dipu
 dira
 dirhamu
+diriki
 dirisha
+dirishani
 diseli
 dishi
 diskaunti
@@ -6515,6 +5778,7 @@ dodosa
 dodoso
 doea
 dogo
+dogo dogo
 dohani
 dokeza
 dokezo
@@ -6545,6 +5809,7 @@ drafti
 dragoni
 drama
 dreva
+dripu
 droni
 droo
 dua
@@ -6555,12 +5820,14 @@ dubu barafu
 dudu
 duka
 duka la dawa
+duka la dawa baridi
 duka la dawa muhimu
 duka la madawa
 duka la manunuzi
 duka la nguo
 duka la pombe
 duka la vitabu
+dukani
 dukua
 dukuduku
 dukuliwa
@@ -6601,12 +5868,14 @@ ekseli
 eksirei
 ekumeni
 ekundu
+elastini
 elea
 eleka
 elekea
 elekeza
 elekezwa
 elektrodi
+elektroliti
 elektroni
 elektroniki
 elementi
@@ -6635,12 +5904,14 @@ elfu tatu
 elfu tisa
 elimika
 elimisha
+elimishwa
 elimu
 elimu msingi
 elimu ya rubani
 elimumime
 elimumsingi
 elimunafsia
+elimuuzazi
 elimuviumbe
 elki
 ema
@@ -6648,6 +5919,7 @@ embamba
 embe
 emoji
 enda
+enda haja
 enda miayo
 enda mrama
 enda zake
@@ -6669,6 +5941,8 @@ eneo
 eneza
 enga
 engaenga
+engua
+enguliwa
 ensaiklopedia
 ensaiklopidia
 enu
@@ -6687,15 +5961,19 @@ erevu
 eropleni
 eropleni ya jeti
 erosoli
+estrojeni
 eti
 etimolojia
 etu
 eua
 eupe
+eupe pe pe pe
 eusi
+eusi ti ti ti
 ewaa
 ezeka
 fa
+fa ganzi
 fa maji
 fa moyo
 faa
@@ -6704,6 +5982,9 @@ fadhaika
 fadhaisha
 fadhila
 fadhili
+fadhiliana
+fadhilisha
+fadhiliwa
 fafanua
 fagia
 fagio
@@ -6735,6 +6016,7 @@ faksi
 fala
 falahi
 falaki
+falaula
 fali
 falisi
 falka
@@ -6757,6 +6039,10 @@ fana
 fanaka
 fanana
 fanani
+fanania
+fananisha
+fananishwa
+fangasi
 fani
 fanicha
 fanikia
@@ -6779,10 +6065,12 @@ fanywa
 fara
 faradhi
 faragha
+faraghani
 faraja
 faraka
 farakana
 farakano
+faranga
 farangi
 farao
 farasi
@@ -6794,6 +6082,8 @@ faridhika
 faridhisha
 faridhiwa
 fariji
+farijika
+farijisha
 fariki
 fariki dunia
 farisayo
@@ -6810,6 +6100,8 @@ fasili
 fasiri
 fataki
 fatiha
+fatiisha
+fatiishwa
 fauli
 faulu
 fedha
@@ -6818,6 +6110,7 @@ fedha ya kigeni
 fedha za kigeni
 fedheha
 fedhehesha
+fedheheshwa
 fedhehi
 feijoa
 feki
@@ -6853,6 +6146,7 @@ fifia
 fifika
 fifisha
 figa
+figau
 figili
 figo
 fika
@@ -6874,6 +6168,9 @@ file
 filimbi
 filimbi ndogo
 filisi
+filisika
+filisisha
+filisiwa
 filolojia
 fimbo
 fimbo ya kifalme
@@ -6928,6 +6225,7 @@ fonolojia
 fonti
 fora
 forodha
+foromali
 foronya
 forosadi
 forosadi nyeusi
@@ -6946,6 +6244,7 @@ fu
 fua
 fua bongo
 fua dafu
+fuadi
 fuasa
 fuata
 fuata nyayo
@@ -6956,10 +6255,13 @@ fuatwa
 fuawe
 fueli
 fufua
+fufuka
 fuga
 fuja
 fujo
 fukara
+fukarika
+fukarisha
 fuko
 fukua
 fukuo
@@ -7027,23 +6329,32 @@ funua
 funza
 funza class ji/ma
 funzo
+funzwa
 fuo
 fupi
 fupisha
+fupishwa
 fura
 furaha
 furahi
 furahia
 furahifu
 furahisha
+furahiwa
 furika
 furiko
 fursa
 furufu
+furungu
+furusha
 furushi
+fusa
+fusahi
 fusi
+fuska
 fususi
 futa
+futahi
 futana
 futari
 futi
@@ -7065,6 +6376,8 @@ fuvu la kichwa
 fuwele
 fuzu
 fyata
+fyatua
+fyatuana
 fyeka
 fyekeo
 fyonza
@@ -7084,6 +6397,7 @@ gali
 galliamu
 galoni
 gamba
+gamba la ubongo
 gambusi
 gambusi ndogo
 gameti
@@ -7094,12 +6408,14 @@ gandama
 gandia
 gandika
 gandisha
+gandishwa
 ganeti
 ganga
 gangrini
 gani
 ganja
 ganuni
+ganzi
 gari
 gari la dharura
 gari la moshi
@@ -7112,6 +6428,7 @@ garimoshi
 gasketi
 gastronomia
 gati
+gati class V/VI
 gatini
 gatuzi
 gatuzi ndogo
@@ -7152,6 +6469,7 @@ geti
 getini
 geua
 geuka
+geukia
 geuko
 geuza
 geuzi
@@ -7159,9 +6477,11 @@ geza
 gezo
 ghadhabu
 ghafi
+ghafilika
 ghafla
 ghafula
 ghaibu
+ghaidhi
 ghairi
 ghala
 ghalati
@@ -7196,6 +6516,7 @@ ghorofa za kwanza
 ghuba
 ghubari
 ghulamu
+ghulamu class V
 ghuma
 ghuna
 ghuri
@@ -7216,6 +6537,7 @@ ginko
 girisi
 gitaa
 giza
+giza totoro
 gizani
 glakoma
 glasi
@@ -7254,13 +6576,21 @@ grafiti
 gramafoni
 gramu
 graviti
+greda
 gredi
 gridi
+gridi ya umeme
+gridi za umeme
 grifoni
 grisi
 gruneti
 gubeti
 gubigubi
+gubika
+gubikana
+gubikisha
+gubiko
+gubikwa
 gudulia
 gugu
 gugumiza
@@ -7285,6 +6615,7 @@ gusa
 gusa moyo
 gusana
 gushu
+gusia
 guswa
 gutua
 guu
@@ -7325,7 +6656,10 @@ hadhira
 hadhiri
 hadhirina
 hadi
+hadi sasa
 hadidi
+hadidu
+hadidu za rejea
 hadithi
 hadithi fupi
 hadithi ya vichimbakazi
@@ -7333,6 +6667,7 @@ hadithi za kale
 hadithia
 hadubini
 hafidhi
+hafifisha
 hafifu
 hafla
 hafula
@@ -7347,20 +6682,26 @@ haigromita
 haina
 haini
 haja
+haja kubwa
+haja ndogo
 haji
+haji class IX
 hajibu
 hajiri
 haki
 haki ya binadamu
 haki ya kibinadamu
+haki ya kikatiba
 haki ya watoto
 haki za binadamu
 haki za kibinadamu
+haki za kikatiba
 haki za watoto
 haki-
 hakika
 hakiki
 hakikisha
+hakikishia
 hakikisho
 hakimbii
 hakimiliki
@@ -7417,6 +6758,8 @@ hamia
 hamira
 hamirojo
 hamisha
+hamishia
+hamishika
 hamishwa
 hamjambo
 hamkimbii
@@ -7451,7 +6794,9 @@ hanali
 hanchifu
 handaki
 hangaika
+hangaiko
 hangaisha
+hangaishwa
 hanithi
 hanjamu
 hanywi
@@ -7481,14 +6826,17 @@ hari
 haribika
 haribiwa
 haribu
+harija
 harimu
 harimuni
 hariri
 harisha
+harubu
 harufu
 harusi
 hasa
 hasada
+hasanati
 hasara
 hasha
 hashishi
@@ -7499,6 +6847,8 @@ hasimu
 hasira
 hasira ya mkizi furaha ya mvuvi
 hasiri
+hasiwa
+hasua
 hata
 hata hivyo
 hata kidogo
@@ -7511,7 +6861,12 @@ hatarisha
 hatazaliwa
 hati
 hati ya kusafiria
+hati ya kusafiria ya dharura
+hati ya makubaliano
+hati ya utambulisho
 hati za kusafiria
+hati za makubaliano
+hati za utambulisho
 hatia
 hatihati
 hatima
@@ -7562,11 +6917,13 @@ heba
 hebu
 hedhi
 hedikota
+hekaheka
 hekalu
 hekaya
 hekima
 heko
 hekta
+hektari
 hela
 heli
 heliamu
@@ -7581,11 +6938,19 @@ heri
 heri ya Krismasi
 heri ya Mwaka Mpya
 heri ya siku ya kuzaliwa
+heria
 heroe
 heroini
 herufi
+hesabia
+hesabiana
+hesabika
+hesabiwa
 hesabu
 heshima
+heshimia
+heshimiana
+heshimika
 heshimiwa
 heshimu
 hewa
@@ -7601,6 +6966,8 @@ hidaya
 hidi
 hidrojeni
 hifadhi
+hifadhia
+hifadhidata
 hifadhiwa
 hii
 hija
@@ -7644,6 +7011,7 @@ hitimia
 hitimika
 hitimisha
 hitimisho
+hitimishwa
 hitimu
 hivi
 hivyo
@@ -7659,6 +7027,10 @@ hobi
 hodari
 hodhi
 hodi
+hofia
+hofiana
+hofisha
+hofiwa
 hofu
 hoi
 hoja
@@ -7688,9 +7060,11 @@ hongereni
 hongo
 hongwa
 hongwe
+honi
 hori
 hormoni
 hospitali
+hospitali class IX
 hospitalini
 hosteli
 hoteli
@@ -7702,14 +7076,23 @@ hua
 huadhibu
 huba
 hubiri
+hubiria
+hubiriana
+hubirisha
+hubiriwa
 hudhuria
 hudhurio
 hudhurungi
 hudihudi
+hududi
 huduma
 huduma ya kwanza
 huduma ya wateja
 hudumia
+hudumika
+hudumisha
+hudumishwa
+hudumiwa
 hudumu
 huenda
 huhitaji
@@ -7748,6 +7131,7 @@ huo
 huohuo
 hupiki
 hupokei
+hurisha
 huru
 hurudi
 huruma
@@ -7769,6 +7153,9 @@ hutafungamana
 hutapenda
 hutazaliwa
 hutuba
+hutubia
+hutubiana
+hutubiwa
 hutubu
 huu
 huwa
@@ -7788,6 +7175,7 @@ ibilisi
 ibra
 ibua
 ibuka
+ibuliwa
 ibwa
 idadi
 idadi mkuu
@@ -7813,6 +7201,8 @@ iga
 igia
 igiza
 igizo
+igizwa
+igwa
 ijapokuwahata hivyo
 ijara
 ijayo
@@ -7841,6 +7231,7 @@ imani
 imara
 imarika
 imarisha
+imarishwa
 imba
 imekuwa
 imla
@@ -7923,6 +7314,7 @@ isotopu
 istiara
 istiari
 istilahi
+istiskaa
 istiwai
 ita
 italiki
@@ -7932,6 +7324,7 @@ itibari
 itifaki
 itika
 itikadi
+itikia
 itisha
 itwa
 iva
@@ -7948,6 +7341,7 @@ jabari
 jadi
 jadili
 jadiliana
+jadiliwa
 jagi
 jagwa
 jahanamu
@@ -7995,8 +7389,10 @@ jaribia
 jaribio
 jaribisha
 jaribiwa
+jaribosi
 jaribu
 jarida
+jarife
 jasho
 jasiri
 jasiria
@@ -8018,6 +7414,7 @@ jazo
 jazwa
 je
 je unanikamata
+jedhamu
 jedwali
 jedwali la elementi
 jefule
@@ -8036,8 +7433,11 @@ jenetiki
 jenetikia
 jeneza
 jenga
+jengea
+jengeka
 jengo
 jengo la forodha
+jengua
 jengwa
 jeni
 jeraha
@@ -8047,6 +7447,9 @@ jeruhi
 jeruhiwa
 jesha
 jeshi
+jeshi la wanamaji
+jeshini
+jethamu
 jeti
 jeupe
 jeuri
@@ -8083,6 +7486,8 @@ jimbo
 jina
 jina bandia
 jina kamili
+jina la kwanza
+jina la msimbo
 jina la steji
 jina la ukoo
 jina la usanii
@@ -8099,6 +7504,8 @@ jingi
 jingine
 jini
 jino
+jino bandia
+jino la bandia
 jinsi
 jinsia
 jinsia moja
@@ -8108,6 +7515,8 @@ jiometri
 jiometria
 jioni
 jioni ya leo
+jiosayansi
+jiostratejia
 jipenda
 jipu
 jipya
@@ -8140,7 +7549,6 @@ jizia
 jo
 jodari
 jogoo
-jogoo or jimbi
 jografia
 johari
 joho
@@ -8178,10 +7586,13 @@ jumbe
 jumbe fupi
 jumla
 jumla ya pato la taifa
+jumlisha
+jumlisho
 jumuia
 jumuika
 jumuisha
 jumuisho
+jumuishwa
 jumuiya
 juruma
 jusi
@@ -8189,6 +7600,7 @@ juta
 juto
 juu
 juu ya
+juya
 juzi
 juzijuzi
 ka
@@ -8245,6 +7657,10 @@ kadhaa
 kadhalika
 kadhi
 kadhia
+kadhibisha
+kadhibiwa
+kadhibu
+kadhongo
 kadi
 kadi karadha
 kadi kazi
@@ -8267,11 +7683,13 @@ kadiria
 kadirika
 kadirio
 kadiriwa
+kadiwia
 kadogo
 kadri
 kafara
 kafeini
 kafeni
+kafi
 kafila
 kafini
 kafiri
@@ -8317,6 +7735,7 @@ kalunguyeye
 kama
 kama ifuatavyo
 kamanda
+kamandi
 kamari
 kamasi
 kamata
@@ -8330,11 +7749,14 @@ kambamti
 kambarau
 kambare
 kambi
+kambini
 kambo
 kamera
 kamili
 kamilifu
+kamilika
 kamilisha
+kamilishwa
 kamisaa
 kamishena
 kamisheni
@@ -8352,14 +7774,18 @@ kamusi
 kamusi elezo
 kamwe
 kana
+kanadi
 kanali
 kanchiri
 kanda
 kandamiza
+kandamizana
+kandamizwa
 kandanda
 kandarasi
 kande
 kandili
+kandirinya
 kando
 kando ya
 kanga
@@ -8373,6 +7799,7 @@ kaniki
 kanisa
 kanisa kuu
 kanisa kuu la dayosisi
+kanisani
 kanji
 kanju
 kanola
@@ -8382,6 +7809,7 @@ kansa ya damu
 kansa ya ini
 kansa ya kibofu
 kansa ya kongosho
+kansa ya korodani
 kansa ya mapafu
 kansa ya matiti
 kansa ya mfupa
@@ -8421,6 +7849,7 @@ kanzu
 kao
 kapa
 kapera
+kapi
 kapilari
 kapplöpningsbana
 kapsuli
@@ -8452,7 +7881,9 @@ karatasi
 karatasi ya chooni
 karatasi za chooni
 karate
+karati
 kardinali
+karia
 karibia
 karibisha
 karibishwa
@@ -8472,6 +7903,8 @@ karimu
 karipia
 karipio
 kariri
+kaririwa
+karisaji
 karisi
 karkomu
 karmeli
@@ -8504,6 +7937,7 @@ kasiriana
 kasirika
 kasirikia
 kasirisha
+kasirishwa
 kasiriwa
 kasisi
 kaskazi
@@ -8557,6 +7991,9 @@ katika wakati uliopita
 katikati
 katili
 katisha
+katishwa
+katiza
+katizo
 katlesi
 katoliki
 katoni
@@ -8585,9 +8022,11 @@ kayamba
 kaza
 kazana
 kazi
+kazi ndogo ndogo
 kazi ni kazi
 kazi ya ziada
 kazia
+kazini
 kazwa
 ke
 kebehi
@@ -8615,6 +8054,7 @@ kentauro
 kepguzbari
 kera
 kerana
+keratini
 kerea
 kereka
 keresha
@@ -8632,6 +8072,10 @@ kesho
 kesho kutwa
 kesho usiku
 kesi
+kesi ya jinai
+kesi ya madai
+kesi za jinai
+kesi za madai
 kete
 kete kuu
 kete ya sataranji
@@ -8644,6 +8088,9 @@ khamsa wa ishirini
 khanga
 khatari
 kheri
+kheri ya Krismasi
+kheri ya Mwaka Mpya
+kheri ya siku ya kuzaliwa
 khofu
 khuendelea
 ki
@@ -8654,6 +8101,7 @@ kiaga
 kiali
 kiambajengo
 kiambatisho
+kiambato
 kiambaza
 kiambishi
 kiambishi awali
@@ -8687,9 +8135,13 @@ kibadala
 kibadilishaumbo
 kibago
 kibahaluli
+kibailojia
+kibaiolojia
 kibaka
 kibakuli cha choo
 kibali
+kibali cha kazi
+kibali cha makazi
 kibambo
 kibanda
 kibanda cha simu
@@ -8704,6 +8156,8 @@ kibare
 kibarua
 kibatari
 kibaya
+kibayolojia
+kibayometria
 kibepari
 kiberenge
 kiberiti
@@ -8717,6 +8171,7 @@ kibibimlima
 kibichi
 kibinadamu
 kibinafsi
+kibiolojia
 kibirikizi
 kibiriti
 kibiriti ngoma
@@ -8736,6 +8191,7 @@ kibwengo
 kichaa
 kichaka
 kichakata matini
+kichapo
 kichapuzi
 kichapuzi chembe
 kicheba
@@ -8779,6 +8235,7 @@ kidingapopo
 kidini
 kidiplomasia
 kidogo
+kidogo kidogo
 kidokezo
 kidole
 kidole cha kati
@@ -8795,8 +8252,10 @@ kidube
 kidubini
 kidudu-dubu
 kidusia
+kielektroniki
 kielelezo
 kielezi
+kielezo
 kiendeshi diski kuu
 kienyeji
 kifa
@@ -8804,6 +8263,7 @@ kifaa
 kifaduro
 kifafa
 kifalme
+kifamilia
 kifani
 kifaranga
 kifarasi
@@ -8818,6 +8278,7 @@ kifo cha ghafla
 kifu
 kifua
 kifua kikuu
+kifuani
 kifuko
 kifuli
 kifundo
@@ -8856,9 +8317,11 @@ kigumu
 kiguso
 kiguu
 kiguzo
+kihafidhina
 kihalifu
 kiharara
 kiharusi
+kiharusi cha muda mfupi
 kiherehere
 kihisishi
 kihistoria
@@ -8882,6 +8345,7 @@ kiji-
 kijibwanyika
 kijicho
 kijidudu
+kijihadi
 kijiji
 kijijini
 kijikabati
@@ -8890,6 +8354,7 @@ kijiko cha chai
 kijiko cha supu
 kijinga
 kijino
+kijinsia
 kijio
 kijiografia
 kijitabu
@@ -8902,6 +8367,7 @@ kijivujivu
 kijiwe
 kijiwe cha kahawa
 kijumba
+kijumbamshale
 kijusi
 kikaango
 kikabila
@@ -8909,6 +8375,7 @@ kikali
 kikao
 kikapu
 kikaramba
+kikatiba
 kikatoliki
 kike
 kiki
@@ -8921,8 +8388,10 @@ kikoi
 kikokoto
 kikokotoo
 kikokotozi
+kikoloni
 kikombe
 kikomo
+kikomunisti
 kikongwe
 kikono
 kikope
@@ -8934,20 +8403,24 @@ kikuku
 kikumi
 kikunawingu
 kikundi
+kikundu
 kikunjo
 kikuti
 kikuu
+kikwapa
 kikwazo
 kikwi
 kila
 kila la heri
 kila la kheri
 kila mahali
+kila nyani na starehe zake
 kila siku
 kilabu
 kilango
 kile
 kilele
+kileleni
 kilema
 kilemba
 kilembwe
@@ -8967,6 +8440,7 @@ kilo
 kiloaka
 kilobaiti
 kilogramu
+kilokalori
 kilometa
 kilometa ya mraba
 kilomita
@@ -8975,40 +8449,52 @@ kilomita za mraba
 kilowati
 kiluwiluwi
 kima
+kimaadili
 kimacho
 kimada
+kimaendeleo
 kimaji
 kimanda
 kimanjano
+kimapenzi
+kimarekani
 kimataifa
+kimatibabu
 kimatu
 kimau
 kimazingira
+kimba
 kimbaka
 kimbia
 kimbilia
 kimbiliana
 kimbilio
 kimbiza
+kimbizwa
 kimbunga
 kimelea
 kimemeshi
 kimeng'enya
+kimenomeno
 kimeta
 kimetameta
 kimeza
+kimia
 kimkakati
 kimo
 kimoja
 kimojawapo
 kimondo
+kimsingi
 kimu
 kimulimuli
 kimvuli
 kimwana
 kimya
 kina
+kinaa
 kinai
+kinaifu
 kinaika
 kinaisha
 kinaiwa
@@ -9025,6 +8511,7 @@ kinasasauti
 kinaya
 kinda
 kinembe
+king'amuzi
 king'ora
 kinga
 kinga ya kifuani
@@ -9072,6 +8559,7 @@ kionyeshi
 kioo
 kioski
 kiota
+kiotomatiki
 kiotomotela
 kiowevu
 kioza
@@ -9094,6 +8582,7 @@ kipawa
 kipaza
 kipaza sauti
 kipazasauti
+kipele
 kipenga
 kipengele
 kipenyo
@@ -9123,6 +8612,7 @@ kipini
 kiplefti
 kipochi
 kipodozi
+kipodozi class VII
 kipofu
 kipole
 kiporo
@@ -9130,6 +8620,7 @@ kipukusa
 kipuli
 kipungu
 kipupwe
+kipusa
 kipya
 kirago
 kirai
@@ -9147,11 +8638,16 @@ kirimba
 kirimu
 kiritimba
 kiroboto
+kiroho
 kiroto
 kirudufu
 kirukanjia
 kirutubishi
+kirutubishi kidogo
+kirutubishi kikuu
 kirutubisho
+kirutubisho kidogo
+kirutubisho kikuu
 kisa
 kisaa
 kisababishi
@@ -9171,18 +8667,23 @@ kisengere nyuma
 kiserbia
 kiserikali
 kisha
+kishamba
 kishawishi
 kishazi
+kisheria
 kishikio
 kishkwambi
 kishoroba
 kisi
 kisia
 kisiagi
+kisiasa
 kisifa
 kisigino
 kisiki
+kisikizi
 kisima
+kisimbuzi
 kisimi
 kisingizio
 kisio
@@ -9200,6 +8701,7 @@ kisukuku
 kisusuli
 kisutu
 kita
+kitaaluma
 kitabu
 kitabu cha elektroniki
 kitabu cha hundi
@@ -9210,6 +8712,7 @@ kitafunio
 kitaifa
 kitakataka
 kitako
+kitalii
 kitalu
 kitamaduni
 kitamba
@@ -9217,7 +8720,9 @@ kitambaa
 kitambi
 kitambo
 kitambulisho
+kitambulisho cha taifa
 kitamu
+kitamutamu
 kitana
 kitanda
 kitani
@@ -9229,6 +8734,7 @@ kitara
 kitawaramba
 kitega uchumi
 kitegauchumi
+kiteknolojia
 kitelepathia
 kitendawili
 kitendo
@@ -9239,6 +8745,7 @@ kitenzi
 kitenzi jina
 kitenzi kisababishi
 kiteuzi
+kitheolojia
 kithiri
 kiti
 kiti cha enzi
@@ -9261,6 +8768,7 @@ kitoto
 kitotoa
 kitovu
 kitoweo
+kitropiki
 kitu
 kitu kidogo
 kitubio
@@ -9273,6 +8781,7 @@ kitunguu saumu
 kituo
 kituo cha basi
 kituo cha garimoshi
+kituo cha kupigia kura
 kituo cha mafuta
 kituo cha metorolojia
 kituo cha petroli
@@ -9283,12 +8792,15 @@ kiu
 kiuavijasumu
 kiuchumi
 kiuka
+kiukwa
 kiumbe
 kiumbehai
 kiume
 kiunga
+kiungani
 kiunganishi
 kiungo
+kiungo bandia
 kiungo cha uzazi
 kiungulia
 kiuno
@@ -9312,10 +8824,17 @@ kivutio cha watalii
 kiwakilishi
 kiwakilishi cha nafsi
 kiwakilishi nafsi
+kiwambo
 kiwanda
 kiwango
+kiwango cha maisha
 kiwango cha mchemko
+kiwango cha riba
 kiwango cha ubadilishaji
+kiwango cha ukuaji
+kiwango cha uwezekano
+kiwango cha uzazi
+kiwango cha vifo
 kiwanja
 kiwanja cha michezo
 kiwanja cha ndege
@@ -9342,11 +8861,13 @@ kizibuo
 kizima
 kizima moto
 kizimwi
+kizinda
 kizingiti
 kiziwi
 kizuizi
 kizuizini
 kizuizini nyumbani
+kizuizui
 kizuka
 kizunguzungu
 kizuri
@@ -9367,6 +8888,7 @@ ko
 koala
 kobalti
 kobe
+kobe class I/IX
 kobole
 kocha
 kochi
@@ -9383,7 +8905,9 @@ kodia
 kodiani
 kodika
 kodisha
+kodishwa
 kodiwa
+kodo
 kodoa
 kodolea
 kofi
@@ -9399,13 +8923,18 @@ koka
 kokaini
 kokeni
 koko
+kokoliko
 kokota
 kokote
 kokoto
 kokotoa
 kola
 kolabo
+kolajeni
+kolea
 koleo
+kolewa
+koleza
 kolibri
 koliflawa
 koloni
@@ -9413,6 +8942,8 @@ koma
 koma hedhi
 komaa
 komamanga
+komanda
+komando
 komandoo
 komba
 komba mkubwa
@@ -9423,6 +8954,7 @@ kombeo
 kombo
 komboa
 kombora
+kombora la balistiki
 komea
 komeka
 komesha
@@ -9462,7 +8994,9 @@ konventi
 konya
 konyeza
 koo
+kooni
 kopa
+kopana
 kope
 kopesha
 kopesha riba
@@ -9477,6 +9011,9 @@ korido
 korija
 koroboi
 korodani
+korofi
+korofindo
+korofisha
 koroga
 korokoroni
 koroma
@@ -9496,6 +9033,10 @@ kosesha
 kosha
 kosi
 kosoa
+kosoana
+kosolea
+kosoleka
+kosolewa
 kote
 koti
 kotmiri
@@ -9527,7 +9068,9 @@ kuachia
 kuachiana
 kuachika
 kuachilia
+kuachiliwa
 kuachisha
+kuachishwa
 kuachwa
 kuadhibika
 kuadhibiwa
@@ -9557,6 +9100,10 @@ kuagizwa
 kuagua
 kuagwa
 kuahidi
+kuahidia
+kuahidiana
+kuahidika
+kuahidiwa
 kuahiri
 kuahirika
 kuahirisha
@@ -9595,6 +9142,7 @@ kuamili
 kuamilisha
 kuamini
 kuaminia
+kuaminiana
 kuaminika
 kuaminisha
 kuaminiwa
@@ -9636,6 +9184,8 @@ kuangaliana
 kuangamia
 kuangamiza
 kuangaza
+kuangazia
+kuangazika
 kuangika
 kuangua
 kuanguka
@@ -9643,15 +9193,18 @@ kuangukia
 kuangusha
 kuangushwa
 kuania
+kuanika
 kuanza
 kuanzia
 kuanzisha
+kuanzishwa
 kuanzwa
 kuapa
 kuapana
 kuapia
 kuapika
 kuapisha
+kuapishwa
 kuapiza
 kuaridhi
 kuaridhia
@@ -9668,6 +9221,7 @@ kuasi
 kuasilisha
 kuasisi
 kuathiri
+kuathirika
 kuathiriwa
 kuatibia
 kuatibiana
@@ -9681,7 +9235,9 @@ kuausha
 kuauza
 kuavya
 kuazima
+kuazimisha
 kuazimu
+kuazimwa
 kuba
 kubaathi
 kubadhiri
@@ -9691,16 +9247,25 @@ kubadiliana
 kubadilika
 kubadilisha
 kubadilishana
+kubadilishwa
 kubadiliwa
 kubagua
 kubaguliwa
+kubahatika
 kubahatisha
+kubaidika
+kubaidisha
 kubaini
+kubainia
+kubainiana
+kubainika
 kubainisha
+kubainiwa
 kubaka
 kubaki
 kubakia
 kubakisha
+kubakiza
 kubakwa
 kubalehe
 kubali
@@ -9715,12 +9280,16 @@ kubamiza
 kubana
 kubandika
 kubandua
+kubanika
+kubanisha
+kubanwa
 kubariki
 kubarikiwa
 kubashiri
 kubatili
 kubatilika
 kubatilisha
+kubatilishwa
 kubatiza
 kubatizwa
 kubeba
@@ -9740,14 +9309,18 @@ kubidhaisha
 kubidi
 kubinafsisha
 kubinafsishwa
+kubinya
 kubisha
 kubishana
+kubishania
+kubobea
 kubofya
 kubomoa
 kubomolewa
 kubonyeza
 kubopa
 kuboresha
+kuboreshwa
 kubughudhi
 kubukua
 kubuni
@@ -9759,9 +9332,12 @@ kubuniwa
 kuburudi
 kuburudika
 kuburudisha
+kuburura
 kuburuta
 kubusiana
 kubusu
+kubusuri
+kubusurika
 kubwa
 kubwaga
 kubwagana
@@ -9785,6 +9361,7 @@ kuchaji
 kuchakaa
 kuchakachua
 kuchakata
+kuchakura
 kuchambua
 kuchana
 kuchanga
@@ -9817,10 +9394,13 @@ kuchapa
 kuchapisha
 kuchapishwa
 kuchapua
+kuchapuka
+kuchapusha
 kucharaza
 kuchea
 kuchecha
 kucheka
+kuchekacheka
 kuchekana
 kuchekea
 kuchekeka
@@ -9829,11 +9409,13 @@ kucheki
 kuchekwa
 kuchelewa
 kuchelewesha
+kucheleweshwa
 kuchemka
 kuchemsha
 kuchemshwa
 kuchenga
 kuchenji
+kuchenjua
 kuchesha
 kuchewa
 kucheza
@@ -9845,6 +9427,8 @@ kuchezewa
 kuchezwa
 kuchimba
 kuchimbika
+kuchimbua
+kuchimbuka
 kuchinja
 kuchipua
 kuchipuka
@@ -9863,10 +9447,12 @@ kuchokoleka
 kuchokoza
 kuchoma
 kuchomachoma
+kuchomea
 kuchomeka
 kuchomwa
 kuchonga
 kuchongea
+kuchongwa
 kuchopoa
 kuchora
 kuchorwa
@@ -9898,6 +9484,11 @@ kuchuna
 kuchunga
 kuchungua
 kuchunguza
+kuchunguzana
+kuchunguzia
+kuchunguzwa
+kuchurura
+kuchuruza
 kuchuuza
 kuchwa
 kuchwea
@@ -9926,23 +9517,36 @@ kudarana
 kudata
 kudeheni
 kudeki
+kudema
 kudhabihu
 kudhalilika
 kudhalilisha
+kudhalilishwa
 kudhamini
 kudhamiria
 kudhani
 kudhania
+kudhaniana
+kudhanika
+kudhanisha
 kudharau
+kudharaulia
+kudharaulika
+kudharaulisha
+kudharauliwa
 kudhibiti
 kudhibitiwa
 kudhihaki
 kudhihakisha
 kudhihakiwa
 kudhihiri
+kudhihirika
 kudhihirisha
+kudhihirishwa
 kudhii
+kudhiki
 kudhikiri
+kudhikisha
 kudhili
 kudhilia
 kudhiliana
@@ -9957,6 +9561,9 @@ kudhukuria
 kudhukurika
 kudhukurisha
 kudhukuru
+kudhulumika
+kudhulumisha
+kudhulumiwa
 kudhulumu
 kudhuria
 kudhuriana
@@ -9966,6 +9573,7 @@ kudhuriwa
 kudhuru
 kudidimia
 kudinda
+kudiriki
 kudodosa
 kudoea
 kudokeza
@@ -10001,6 +9609,7 @@ kuelezeka
 kuelezwa
 kuelimika
 kuelimisha
+kuelimishwa
 kuenda
 kuendea
 kuendelea
@@ -10014,6 +9623,8 @@ kuendeshesha
 kuendeshwa
 kuenea
 kueneza
+kuengua
+kuenguliwa
 kuenzi
 kuenzika
 kuepa
@@ -10026,6 +9637,9 @@ kufaa
 kufadhaika
 kufadhaisha
 kufadhili
+kufadhiliana
+kufadhilisha
+kufadhiliwa
 kufafanua
 kufagia
 kufagia usiku kunakimbiza baraka
@@ -10045,6 +9659,9 @@ kufaini
 kufalisi
 kufana
 kufanana
+kufanania
+kufananisha
+kufananishwa
 kufanikia
 kufanikisha
 kufanikishwa
@@ -10065,11 +9682,16 @@ kufaridhika
 kufaridhisha
 kufaridhiwa
 kufariji
+kufarijika
+kufarijisha
 kufariki
 kufasili
 kufasiri
+kufatiisha
+kufatiishwa
 kufaulu
 kufedhehesha
+kufedheheshwa
 kufedhehi
 kufeleti
 kufeli
@@ -10103,6 +9725,9 @@ kufikisha
 kufikishwa
 kufile
 kufilisi
+kufilisika
+kufilisisha
+kufilisiwa
 kufinya
 kufinyanga
 kufira
@@ -10123,8 +9748,11 @@ kufuatia
 kufuatilia
 kufuatwa
 kufufua
+kufufuka
 kufuga
 kufuja
+kufukarika
+kufukarisha
 kufukua
 kufukuza
 kufukuzwa
@@ -10173,19 +9801,27 @@ kufunika
 kufunua
 kufunulia
 kufunza
+kufunzwa
 kufupisha
+kufupishwa
 kufupishwa maziwa
 kufura
 kufurahi
 kufurahia
 kufurahisha
+kufurahiwa
 kufurika
 kufuru
+kufurusha
+kufusa
+kufusahi
 kufuta
+kufutahi
 kufutana
 kufutia
 kufutiana
 kufutika
+kufutilia
 kufutisha
 kufutiwa
 kufuturia
@@ -10194,6 +9830,8 @@ kufuturu
 kufutwa
 kufuzu
 kufyata
+kufyatua
+kufyatuana
 kufyeka
 kufyonza
 kugaia
@@ -10203,6 +9841,7 @@ kugandama
 kugandia
 kugandika
 kugandisha
+kugandishwa
 kuganga
 kugawa
 kugawadia
@@ -10219,8 +9858,10 @@ kugawisha
 kugawiwa
 kugeua
 kugeuka
+kugeukia
 kugeuza
 kugeza
+kughafilika
 kughairi
 kughani
 kugharimia
@@ -10240,6 +9881,10 @@ kugonga
 kugongagonga
 kugongana
 kugongwa
+kugubika
+kugubikana
+kugubikisha
+kugubikwa
 kugugumiza
 kugumu
 kuguna
@@ -10250,6 +9895,7 @@ kugunduliwa
 kugura
 kugusa
 kugusana
+kugusia
 kuguswa
 kugutua
 kuhabarisha
@@ -10257,10 +9903,12 @@ kuhadaa
 kuhadhiri
 kuhadithi
 kuhadithia
+kuhafifisha
 kuhaini
 kuhajiri
 kuhakiki
 kuhakikisha
+kuhakikishia
 kuhakiri
 kuhalalika
 kuhalalisha
@@ -10280,8 +9928,12 @@ kuhamazisha
 kuhami
 kuhamia
 kuhamisha
+kuhamishia
+kuhamishika
 kuhamishwa
 kuhangaika
+kuhangaisha
+kuhangaishwa
 kuhani
 kuhani mkuu
 kuhara
@@ -10297,16 +9949,27 @@ kuharisha
 kuhasi
 kuhasimu
 kuhasiri
+kuhasiwa
 kuhatarika
 kuhatarisha
 kuhawili
 kuhawilisha
 kuhepa
+kuheria
+kuhesabia
+kuhesabiana
+kuhesabika
+kuhesabiwa
 kuhesabu
+kuheshimia
+kuheshimiana
+kuheshimika
+kuheshimiwa
 kuheshimu
 kuhiari
 kuhidi
 kuhifadhi
+kuhifadhia
 kuhifadhiwa
 kuhiji
 kuhimidi
@@ -10323,9 +9986,14 @@ kuhitilafu
 kuhitimia
 kuhitimika
 kuhitimisha
+kuhitimishwa
 kuhitimu
 kuhizi
 kuhodhi
+kuhofia
+kuhofiana
+kuhofisha
+kuhofiwa
 kuhofu
 kuhoji
 kuhojia
@@ -10335,7 +10003,16 @@ kuhojiwa
 kuhonga
 kuhongwa
 kuhubiri
+kuhubiria
+kuhubiriana
+kuhubirisha
+kuhubiriwa
 kuhudhuria
+kuhudumia
+kuhudumika
+kuhudumisha
+kuhudumishwa
+kuhudumiwa
 kuhudumu
 kuhui
 kuhuia
@@ -10350,6 +10027,7 @@ kuhuiwa
 kuhujumu
 kuhukumu
 kuhulu
+kuhurisha
 kuhurumia
 kuhusiana
 kuhusika
@@ -10358,6 +10036,9 @@ kuhusishwa
 kuhusu
 kuhusudu
 kuhusuru
+kuhutubia
+kuhutubiana
+kuhutubiwa
 kuhutubu
 kuhuzunia
 kuhuzunika
@@ -10366,6 +10047,7 @@ kuiba
 kuibia
 kuibua
 kuibuka
+kuibuliwa
 kuibwa
 kuidhinika
 kuidhinisha
@@ -10376,8 +10058,11 @@ kuidhinishwa
 kuiga
 kuigia
 kuigiza
+kuigizwa
+kuigwa
 kuimarika
 kuimarisha
+kuimarishwa
 kuimba
 kuinama
 kuingia
@@ -10402,6 +10087,7 @@ kuishia
 kuita
 kuitana
 kuitika
+kuitikia
 kuitisha
 kuitwa
 kuiva
@@ -10411,6 +10097,7 @@ kuja
 kujaa
 kujadili
 kujadiliana
+kujadiliwa
 kujali
 kujalia
 kujalisha
@@ -10435,6 +10122,9 @@ kujazika
 kujazisha
 kujazwa
 kujenga
+kujengea
+kujengeka
+kujengua
 kujengwa
 kujeruhi
 kujeruhiwa
@@ -10468,8 +10158,10 @@ kujulia
 kujulika
 kujulikana
 kujulisha
+kujumlisha
 kujumuika
 kujumuisha
+kujumuishwa
 kujuta
 kukaa
 kukaa kitako
@@ -10482,6 +10174,9 @@ kukabidhiwa
 kukabili
 kukabiliana
 kukabiliwa
+kukadhibisha
+kukadhibiwa
+kukadhibu
 kukadiri
 kukadiria
 kukadirika
@@ -10498,11 +10193,15 @@ kukaliwa
 kukama
 kukamata
 kukamatwa
+kukamilika
 kukamilisha
+kukamilishwa
 kukamua
 kukana
 kukanda
 kukandamiza
+kukandamizana
+kukandamizwa
 kukanganya
 kukanusha
 kukanyaga
@@ -10521,6 +10220,7 @@ kukaridhisha
 kukaridhiwa
 kukaripia
 kukariri
+kukaririwa
 kukashifia
 kukashifisha
 kukashifiwa
@@ -10532,6 +10232,7 @@ kukasiriana
 kukasirika
 kukasirikia
 kukasirisha
+kukasirishwa
 kukasiriwa
 kukata
 kukata tamaa
@@ -10543,6 +10244,8 @@ kukataliwa
 kukataza
 kukatika
 kukatisha
+kukatishwa
+kukatiza
 kukatwa
 kukauka
 kukausha
@@ -10578,6 +10281,7 @@ kukimbia
 kukimbilia
 kukimbiliana
 kukimbiza
+kukimbizwa
 kukimu
 kukinai
 kukinaika
@@ -10592,13 +10296,16 @@ kukirihi
 kukirimu
 kukiritimba
 kukisi
+kukisia
 kukita
 kukithiri
 kukiuka
+kukiukwa
 kukodi
 kukodia
 kukodika
 kukodisha
+kukodishwa
 kukodiwa
 kukodoa
 kukodolea
@@ -10608,6 +10315,9 @@ kukojoa
 kukoka
 kukokota
 kukokotoa
+kukolea
+kukolewa
+kukoleza
 kukoma
 kukomaa
 kukomba
@@ -10622,12 +10332,14 @@ kukongoa
 kukonya
 kukonyeza
 kukopa
+kukopana
 kukopesha
 kukopi
 kukopia
 kukopiana
 kukopika
 kukopiwa
+kukorofisha
 kukoroga
 kukoroma
 kukoromea
@@ -10640,6 +10352,10 @@ kukosekana
 kukosesha
 kukosha
 kukosoa
+kukosoana
+kukosolea
+kukosoleka
+kukosolewa
 kuku
 kuku wa kukaanga
 kukua
@@ -10653,16 +10369,20 @@ kukufuru
 kukumba
 kukumbana
 kukumbatia
+kukumbatiana
 kukumbatiwa
 kukumbia
 kukumbika
 kukumbisha
 kukumbuka
+kukumbukia
+kukumbukwa
 kukumbusha
 kukumbushana
 kukumbushia
 kukumbushika
 kukumbushwa
+kukumbwa
 kukuna
 kukung'uta
 kukunja
@@ -10687,13 +10407,18 @@ kukuu
 kukuza
 kukwaa
 kukwama
+kukwamisha
 kukwaruza
 kukwaruzana
+kukwaza
 kukwea
 kukwepa
 kula
 kula gizani ni kula na shetani
 kulaani
+kulaanika
+kulaanisha
+kulaaniwa
 kulabu
 kulaghai
 kulainisha
@@ -10703,6 +10428,7 @@ kulalaika
 kulalama
 kulalamia
 kulalamika
+kulalamikia
 kulalamisha
 kulalia
 kulamba
@@ -10718,6 +10444,7 @@ kulaza
 kulazimika
 kulazimisha
 kulazimu
+kulazwa
 kule
 kule kule
 kulea
@@ -10733,6 +10460,7 @@ kulemaa
 kulemaza
 kulemazwa
 kulenga
+kulengwa
 kuleta
 kuletea
 kuletwa
@@ -10740,8 +10468,10 @@ kulevya
 kulewa
 kuli
 kulia
+kulialia
 kuliana
 kulika
+kulikiza
 kuliko
 kulilia
 kulilika
@@ -10752,8 +10482,12 @@ kulindwa
 kulinga
 kulingana
 kulinganisha
+kulinganishwa
 kulipa
 kulipia
+kulipisha
+kulipiwa
+kulipiza
 kulipua
 kulipuka
 kulipwa
@@ -10768,6 +10502,8 @@ kulowana
 kulowea
 kuloweka
 kulowesha
+kulumba
+kulumbana
 kulundika
 kulundikana
 kulungu
@@ -10788,9 +10524,12 @@ kumalizika
 kumalizisha
 kumalizwa
 kumamake
+kumaskinika
+kumaskinisha
 kumba
 kumbana
 kumbatia
+kumbatiana
 kumbatiwa
 kumbe
 kumbi
@@ -10798,17 +10537,23 @@ kumbia
 kumbika
 kumbisha
 kumbuka
+kumbukia
 kumbukumbu
 kumbukumbu za mkutano
+kumbukwa
 kumbusha
 kumbushana
 kumbushia
 kumbushika
 kumbushwa
+kumbwa
 kumea
 kumeng'enya
 kumenya
+kumenyana
 kumenyeka
+kumenyesha
+kumenywa
 kumeza
 kumi
 kumi na mbili
@@ -10821,6 +10566,7 @@ kumi na tano
 kumi na tatu
 kumi na tisa
 kumiliki
+kumilikisha
 kumimina
 kumliko
 kumoja
@@ -10856,6 +10602,7 @@ kunakshiwa
 kunama
 kunasa
 kunasihi
+kunasua
 kunata
 kunawa
 kunde
@@ -10898,6 +10645,7 @@ kunja sura
 kunja uso
 kunjo
 kunjua
+kunjua uso
 kunjufu
 kunjuka
 kunoa
@@ -10936,6 +10684,8 @@ kunyambulisha
 kunyang'anya
 kunyang'anywa
 kunyanyasa
+kunyanyaswa
+kunyanyua
 kunyapa
 kunyara
 kunyenga
@@ -10946,6 +10696,7 @@ kunyoa
 kunyolewa
 kunyonga
 kunyongeka
+kunyongwa
 kunyonya
 kunyonyana
 kunyonyea
@@ -10980,6 +10731,7 @@ kuokolewa
 kuokota
 kuolewa
 kuomba
+kuombea
 kuomboleza
 kuombolezea
 kuomoka
@@ -10989,14 +10741,17 @@ kuondoa
 kuondoa harufu
 kuondoana
 kuondoka
+kuondokesha
 kuondolea
 kuondoleka
 kuondolewa
 kuondosha
+kuondoshwa
 kuondoza
 kuonea
 kuonekana
 kuonesha
+kuoneshwa
 kuongea
 kuongelea
 kuongeza
@@ -11019,10 +10774,14 @@ kuonwa
 kuonya
 kuonyana
 kuonyesha
+kuonyeshwa
 kuorodesha
 kuorodhesha
+kuorodheshwa
 kuosha
+kuoshwa
 kuota
+kuotea
 kuoza
 kuozea
 kuozeka
@@ -11050,8 +10809,10 @@ kupanda
 kupandana
 kupandia
 kupandika
+kupandikiza
 kupandisha
 kupandisha cheo
+kupandishwa
 kupandwa
 kupanga
 kupangana
@@ -11066,9 +10827,12 @@ kupangika
 kupangilia
 kupangisha
 kupangiwa
+kupangua
 kupangusa
 kupangwa
 kupanua
+kupanulia
+kupanuliwa
 kupapa
 kupapasa
 kuparamia
@@ -11087,6 +10851,7 @@ kupatana
 kupatania
 kupatanika
 kupatanisha
+kupatanishwa
 kupatia
 kupatika
 kupatikana
@@ -11103,6 +10868,7 @@ kupea
 kupeana
 kupekua
 kupeleka
+kupelekea
 kupelekwa
 kupeleleza
 kupemba
@@ -11141,6 +10907,8 @@ kupiga risasi
 kupiga simu
 kupiga yowe
 kupigana
+kupigania
+kupiganwa
 kupigia
 kupigiana
 kupigilia
@@ -11153,6 +10921,8 @@ kupikika
 kupikisha
 kupikwa
 kupima
+kupimia
+kupimika
 kupimisha
 kupimwa
 kupinda
@@ -11172,6 +10942,7 @@ kupitia
 kupitiana
 kupitika
 kupitisha
+kupitishwa
 kupitiwa
 kupoa
 kupodoa
@@ -11179,6 +10950,11 @@ kupodolea
 kupodoleka
 kupodolewa
 kupoesha
+kupofuka
+kupofukia
+kupofusha
+kupofushwa
+kupogoa
 kupokea
 kupokeana
 kupokelea
@@ -11188,6 +10964,8 @@ kupokelewa
 kupokeza
 kupokezana
 kupokonya
+kupokonyana
+kupokonywa
 kupolea
 kupoleka
 kupona
@@ -11203,16 +10981,20 @@ kuponyoka
 kupooza
 kupooza kwa ubongo
 kupora
+kuporesha
 kuporomoka
+kuporwa
 kuposa
 kuposti
 kupota
 kupotana
 kupotea
 kupoteka
+kupotelea
 kupotesha
 kupotewa
 kupoteza
+kupotezwa
 kupotoa
 kupotosha
 kupoza
@@ -11228,6 +11010,9 @@ kupuna
 kupunga
 kupungua
 kupunguza
+kupunguzana
+kupunguzia
+kupunguziana
 kupunguzika
 kupunguzwa
 kupungwa
@@ -11249,10 +11034,12 @@ kurahisia
 kurahisika
 kurahisisha
 kurai
+kuraiwa
 kurajamisha
 kurakibu
 kuramba
 kurambana
+kurambaza
 kurambisha
 kurambwa
 kuranda
@@ -11260,7 +11047,14 @@ kurandaranda
 kurarua
 kurasa
 kurasha
+kurasimisha
+kuratibia
+kuratibika
+kuratibisha
+kuratibiwa
 kuratibu
+kurea
+kurefuka
 kurefusha
 kurefushana
 kurefushia
@@ -11290,6 +11084,7 @@ kuridhiana
 kuridhika
 kuridhisha
 kuridhishana
+kuridhishwa
 kuridhiwa
 kurikodi
 kurindima
@@ -11300,15 +11095,18 @@ kuripotiana
 kuripotika
 kuripotisha
 kuripotiwa
+kurishai
 kuritadi
 kuritadia
 kuritadisha
 kurithi
 kurithisha
+kurithiwa
 kuro
 kuroga
 kurogoa
 kurogwa
+kuropoka
 kurubuni
 kurudi
 kurudia
@@ -11316,9 +11114,11 @@ kurudiana
 kurudisha
 kurudishwa
 kurudufu
+kurufai
 kurugenzi
 kuruhusiwa
 kuruhusu
+kurujumu
 kuruka
 kurukia
 kurukwa
@@ -11326,14 +11126,20 @@ kurundika
 kurundikana
 kurunzi
 kurusha
+kurushana
+kurushia
 kurushwa
 kuruta
 kurutu
 kurutubika
 kurutubisha
+kurutubishwa
 kuruzu
 kusababika
 kusababisha
+kusababishwa
+kusabidi
+kusabiki
 kusadifu
 kusadiki
 kusafihi
@@ -11345,6 +11151,9 @@ kusafirisha
 kusafisha
 kusafishwa
 kusaga
+kusagana
+kusagisha
+kusagwa
 kusahau
 kusahaulia
 kusahaulika
@@ -11358,24 +11167,35 @@ kusaidiana
 kusaidiwa
 kusaili
 kusaini
+kusainisha
+kusainiwa
 kusajili
+kusajilisha
+kusajiliwa
 kusaka
 kusakata
 kusakimu
 kusakini
+kusakwa
 kusali
 kusalia
 kusalimia
 kusalimiana
 kusalimika
+kusalimisha
 kusalimu
 kusalisha
 kusaliti
+kusalitiana
+kusalitika
+kusalitisha
+kusalitiwa
 kusambaa
 kusambalia
 kusambalika
 kusambaratisha
 kusambaza
+kusambazwa
 kusamehe
 kusamehea
 kusameheana
@@ -11420,6 +11240,7 @@ kushangaa
 kushangalia
 kushangaliwa
 kushangaza
+kushangazwa
 kushangilia
 kusharabika
 kusharabiwa
@@ -11431,6 +11252,10 @@ kushauriana
 kushaurika
 kushauriwa
 kushawishi
+kushawishia
+kushawishiana
+kushawishika
+kushawishiwa
 kusheheni
 kushereheka
 kusherehekea
@@ -11461,15 +11286,24 @@ kushiriki
 kushirikia
 kushirikiana
 kushirikisha
+kushirikishwa
 kushirikiwa
 kushitaki
+kushitakia
+kushitakiana
+kushitakika
+kushitakiwa
 kushitariki
 kushona
 kushoto
 kushtaki
+kushtakia
+kushtakiana
+kushtakika
 kushtakiwa
 kushtua
 kushtuka
+kushtukiza
 kushtulia
 kushtumu
 kushtusha
@@ -11526,6 +11360,7 @@ kusikilizwa
 kusikitika
 kusikitikia
 kusikitisha
+kusikitishwa
 kusikiwa
 kusikiza
 kusilimia
@@ -11537,6 +11372,9 @@ kusimamia
 kusimamika
 kusimamisha
 kusimamishwa
+kusimba
+kusimbua
+kusimbuliwa
 kusimika
 kusimikwa
 kusimulia
@@ -11552,6 +11390,8 @@ kusini
 kusini-magharibi
 kusini-mashariki
 kusinzia
+kusiri
+kusisimka
 kusisimua
 kusisitiza
 kusita
@@ -11569,17 +11409,23 @@ kusoma
 kusomea
 kusomeka
 kusomesha
+kusomeshwa
 kusomwa
 kusona
 kusonga
 kusongamana
+kusongana
 kusonona
 kusononea
 kusononeka
 kusononesha
 kusonya
 kusorora
+kustaafisha
 kustaafu
+kustaajabia
+kustaajabika
+kustaajabisha
 kustaajabu
 kustaarabika
 kustaarabisha
@@ -11588,13 +11434,19 @@ kustabani
 kustaftahi
 kustahabu
 kustahamili
+kustahi
+kustahika
 kustahiki
 kustahili
 kustahimili
+kustahisha
 kustakabadhi
 kustarehe
+kustareheka
+kustarehesha
 kustawi
 kustawisha
+kustihizai
 kusua
 kusubiri
 kusubiria
@@ -11620,6 +11472,10 @@ kusuka
 kusukasuka
 kusukua
 kusukuma
+kusukumana
+kusukumia
+kusukumika
+kusukumwa
 kusukwa
 kusulubia
 kusulubiana
@@ -11629,6 +11485,10 @@ kusulubiwa
 kusulubu
 kusuluhika
 kusuluhisha
+kusuluhishana
+kusuluhishia
+kusuluhishika
+kusuluhishwa
 kusumbua
 kusumbuliwa
 kusuria
@@ -11651,19 +11511,28 @@ kutabahari
 kutabaradi
 kutabaruku
 kutabasamu
+kutabasuri
 kutabawali
 kutabiki
 kutabikia
 kutabikika
 kutabikisha
 kutabiri
+kutabiriwa
 kutafakari
 kutafiti
 kutafsiri
+kutafsiria
+kutafsirika
+kutafsirisha
+kutafsiriwa
 kutafuna
 kutafunia
 kutafunwa
 kutafuta
+kutafutia
+kutafutisha
+kutafutwa
 kutaga
 kutagaa
 kutahadhari
@@ -11685,7 +11554,13 @@ kutaifishia
 kutaifishika
 kutaifishwa
 kutaja
+kutajana
+kutajia
+kutajika
 kutajirika
+kutajirisha
+kutajisha
+kutajwa
 kutaka
 kutakabali
 kutakabalika
@@ -11705,10 +11580,13 @@ kutamalaki
 kutamani
 kutamanika
 kutamanisha
+kutamatika
+kutamatisha
 kutambaa
 kutambika
 kutambua
 kutambulisha
+kutambuliwa
 kutamka
 kutamu
 kutana
@@ -11724,6 +11602,10 @@ kutanga
 kutangamana
 kutangatanga
 kutangaza
+kutangazana
+kutangazia
+kutangazika
+kutangazisha
 kutangazwa
 kutangia
 kutangika
@@ -11732,6 +11614,8 @@ kutangua
 kutanguka
 kutangulia
 kutania
+kutanisha
+kutanua
 kutapa
 kutapatapa
 kutapika
@@ -11760,6 +11644,7 @@ kutathminika
 kutathminisha
 kutathminiwa
 kutatiza
+kutatizika
 kutatua
 kutawadha
 kutawala
@@ -11773,8 +11658,10 @@ kutawanyia
 kutawanyika
 kutawanyisha
 kutawanywa
+kutaya
 kutayarika
 kutayarisha
+kutayarishwa
 kutazama
 kutazamia
 kutazamika
@@ -11786,16 +11673,20 @@ kutegemea
 kutegemeana
 kutegua
 kuteka
+kutekea
 kutekeleza
 kutekelezwa
 kuteketea
 kuteketeza
+kutekwa
 kuteleka
 kutelekea
 kuteleza
 kutema
 kutembea
+kutembea usingizini
 kutembelea
+kutembeleana
 kutembeza
 kutemea
 kutemeka
@@ -11808,6 +11699,7 @@ kutendwa
 kutenga
 kutengana
 kutenganisha
+kutenganishwa
 kutengeneza
 kutengeneza nyumbani
 kutengenezwa
@@ -11818,18 +11710,23 @@ kuteremka
 kuteremsha
 kutesa
 kuteseka
+kuteswa
 kuteta
 kutetana
 kutetea
 kuteteleza
 kutetema
 kutetemeka
+kutetemesha
 kutetereka
 kuteua
 kuthamini
+kuthaminiwa
 kuthibiti
 kuthibitika
 kuthibitisha
+kuthibitishia
+kuthibitishwa
 kuthubutu
 kuti
 kutia
@@ -11837,10 +11734,13 @@ kutia najisi
 kutibu
 kutibua
 kutii
+kutiisha
 kutikisa
+kutikisika
 kutilia
 kutilisha
 kutiliwa
+kutiliza
 kutimia
 kutimilia
 kutimilika
@@ -11875,6 +11775,7 @@ kutokana
 kutokea
 kutokeka
 kutokesha
+kutokeza
 kutokota
 kutokwa
 kutolea
@@ -11912,6 +11813,7 @@ kutukukisha
 kutukuza
 kutulia
 kutuliza
+kutulizwa
 kutuma
 kutumai
 kutumaini
@@ -11931,6 +11833,7 @@ kutumisha
 kutumiwa
 kutumwa
 kutunga
+kutungisha
 kutunukia
 kutunuku
 kutunza
@@ -11943,6 +11846,7 @@ kutupa
 kutupwa
 kutusi
 kutuza
+kutuzua
 kutwa
 kutwaa
 kutweka matanga
@@ -11951,6 +11855,7 @@ kutweza
 kuu
 kuua
 kuuaga
+kuuana
 kuuawa
 kuudhi
 kuudhika
@@ -11959,6 +11864,7 @@ kuuguza
 kuukuu
 kuuliwa
 kuuliza
+kuulizwa
 kuuma
 kuumba
 kuumbua
@@ -11976,10 +11882,15 @@ kuunga
 kuungama
 kuungana
 kuunganisha
+kuunganishwa
+kuungia
+kuungika
+kuungisha
 kuungua
 kuungulia
 kuungulika
 kuunguza
+kuungwa
 kuuza
 kuuzia
 kuuzulu
@@ -12015,6 +11926,7 @@ kuvumbika
 kuvumbua
 kuvumika
 kuvumilia
+kuvumiliana
 kuvumisha
 kuvuna
 kuvunda
@@ -12026,6 +11938,7 @@ kuvunjisha
 kuvunjwa
 kuvuruga
 kuvurugika
+kuvurugwa
 kuvuruta
 kuvuta
 kuvutana
@@ -12047,6 +11960,7 @@ kuwafikisha
 kuwahi
 kuwahiwa
 kuwajibika
+kuwajibisha
 kuwajihi
 kuwajihia
 kuwajihika
@@ -12064,9 +11978,11 @@ kuwasilia
 kuwasiliana
 kuwasilika
 kuwasilisha
+kuwasilishwa
 kuwasiliwa
 kuwaza
 kuwazia
+kuwazisha
 kuweka
 kuweka huru
 kuwekana
@@ -12104,6 +12020,8 @@ kuyeyusha
 kuyeyushwa
 kuyu
 kuyumba
+kuyumbika
+kuyumbisha
 kuza
 kuzaa
 kuzabuni
@@ -12117,11 +12035,13 @@ kuzatiti
 kuzawa
 kuzawadia
 kuzeeka
+kuzeesha
 kuzembea
 kuzia
 kuziba
 kuzibua
 kuzidi
+kuzidisha
 kuzika
 kuzikwa
 kuzima
@@ -12132,11 +12052,17 @@ kuzimisha
 kuzimu
 kuzimwa
 kuzinda
+kuzindia
+kuzindika
+kuzindisha
 kuzindua
 kuzinga
 kuzingatia
+kuzingatiwa
 kuzingira
+kuzini
 kuzira
+kuzirai
 kuzoa
 kuzoea
 kuzoeana
@@ -12153,12 +12079,15 @@ kuzoza
 kuzozana
 kuzua
 kuzuana
+kuzubaa
+kuzubaza
 kuzuia
 kuzuiwa
 kuzuka
 kuzunguka
 kuzungukwa
 kuzungumza
+kuzungumzia
 kuzungumzwa
 kuzuri
 kuzuru
@@ -12202,6 +12131,7 @@ kwakweli
 kwale
 kwama
 kwamba
+kwamisha
 kwanga
 kwangu
 kwani
@@ -12220,6 +12150,7 @@ kwata
 kwato
 kwatsi
 kwaya
+kwaza
 kwazo
 kwea
 kwekwe
@@ -12251,6 +12182,10 @@ la jasho
 la-
 laana
 laani
+laanifu
+laanika
+laanisha
+laaniwa
 labda
 labeka
 lablabu
@@ -12270,6 +12205,7 @@ lake
 lakhi
 laki
 lakini
+lakiri
 lako
 laktosi
 lala
@@ -12280,6 +12216,7 @@ lalaika
 lalama
 lalamia
 lalamika
+lalamikia
 lalamiko
 lalamisha
 lalia
@@ -12309,6 +12246,7 @@ lazima
 lazimika
 lazimisha
 lazimu
+lazwa
 le
 lea
 leba
@@ -12338,6 +12276,7 @@ lengo
 lengwa
 lensi
 lenu
+lenye
 lenyewe
 lenzi
 leo
@@ -12347,6 +12286,8 @@ leo mchana
 leo usiku
 lepe
 leseni
+leseni ya udereva
+leseni za udereva
 leso
 leta
 lete
@@ -12358,17 +12299,21 @@ letwa
 levya
 lewa
 lewa chakari
+leza
 li
 li-
 lia
+lialia
 liana
 liberali
 libido
 licha
 licha ya
 lifti
+liga
 ligi
 lika
+likiza
 likizo
 likizo ya kunoa ubongo
 liko
@@ -12388,11 +12333,15 @@ lindwa
 linga
 lingana
 linganisha
+linganishwa
 lingine
 lini
 linksi
 lipa
 lipia
+lipisha
+lipiwa
+lipiza
 lipu
 lipua
 lipuka
@@ -12435,6 +12384,7 @@ lugha
 lugha asilia
 lugha mama
 lugha rasmi
+lugha ya alama
 lugha ya asili
 lugha ya ishara
 lugha ya kompyuta
@@ -12442,6 +12392,7 @@ lugha ya kuundwa
 lugha ya kwanza
 lugha ya mama
 lugha ya upendo
+lugha za alama
 lugha za asili
 lugha za ishara
 lugha za kompyuta
@@ -12449,6 +12400,8 @@ lugha za kwanza
 lugha za mama
 lugha za upendo
 lulu
+lumba
+lumbana
 lumbwi
 lundika
 lundikana
@@ -12482,6 +12435,7 @@ maafisa wa polisi
 maafisa wa usalama
 maagano
 maagizo
+maaguzi
 maajabu
 maajenti
 maakida
@@ -12525,6 +12479,7 @@ maasumu
 maazimio
 maazimio ya mwaka mpya
 mabaa
+mababu
 mabadili
 mabadiliko
 mabadiliko ya chembe za urithi
@@ -12595,6 +12550,7 @@ mabingwa
 mabinti
 mabirika
 mabiringani
+mabishano
 mabodi
 mabofu
 maboga
@@ -12604,6 +12560,7 @@ mabomba
 mabombwe
 mabomu
 mabomu ya ardhini
+mabomu ya nyuklia
 mabonde
 mabondia
 mabonge
@@ -12637,11 +12594,15 @@ mabwawa
 mabwawa ya kuogelea
 mabwege
 mabweni
+mabweta
+machache
+machafu
 machafuko
 machaguo
 machaka
 machampioni
 machangudoa
+machapisho
 machatu
 macheche
 machela
@@ -12656,12 +12617,15 @@ machimbuko
 machipukizi
 machizi
 macho
+machomeo
+machoni
 machorombozi
 machotara
 machozi
 machudere
 machugachuga
 machukio
+machungu
 machungwa
 machweo
 mada
@@ -12694,6 +12658,7 @@ madawati
 madebe
 madege
 madekani
+madema
 mademu
 madeni
 madereva
@@ -12721,6 +12686,7 @@ madoa
 madobi
 madodo
 madodoso
+madogo
 madohani
 madokezo
 madola
@@ -12746,6 +12712,7 @@ madungu
 maduriani
 maegemeo
 maegesho
+maelekezo
 maelewano
 maelezo
 maelfu
@@ -12766,6 +12733,7 @@ mafarao
 mafashisti
 mafenesi
 maficho
+mafichoni
 mafidhuli
 mafiga
 mafigo
@@ -12780,6 +12748,7 @@ maforosadi
 mafu
 mafua
 mafua ya kawaida
+mafua ya ndege
 mafukara
 mafuko
 mafumbo
@@ -12795,6 +12764,7 @@ mafunzo
 mafuo
 mafupi
 mafuriko
+mafurungu
 mafurushi
 mafuta
 mafuta ghafi
@@ -12802,6 +12772,7 @@ mafuta ya kanola
 mafuta ya mizeituni
 mafuta ya nazi
 mafuta ya ufuta
+mafuta ya zaituni
 mafuta ya zeituni
 mafuu
 mafuvu
@@ -12810,6 +12781,7 @@ magae
 magaidi
 magalaksi
 magamba
+magamba ya ubongo
 maganda
 magari
 magari moshi
@@ -12832,6 +12804,7 @@ magendo
 magenge
 mageni
 magereza
+magerezani
 mageti
 mageuko
 mageuzi
@@ -12860,7 +12833,9 @@ magome
 magomvi
 magongo
 magonjwa
+magonjwa ya kitropiki
 magonjwa ya kuambukiza
+magonjwa ya tropiki
 magonjwa ya zinaa
 magoti
 magovi
@@ -12884,10 +12859,13 @@ mahabusi
 mahabusu
 mahadhi
 mahafali
+mahaini
 mahaji
 mahakama
 mahakama kuu
+mahakama ya kikatiba
 mahakama ya rufani
+mahakama za kikatiba
 mahakama za rufani
 mahakamani
 mahakimu
@@ -12946,6 +12924,7 @@ maisha
 maisha marefu
 maisha ya mapenzi
 maisha ya usiku
+maishani
 maiti
 maizi
 majaa
@@ -12971,6 +12950,7 @@ majani
 majani makavu
 majaribio
 majarida
+majarife
 majasusi
 majawabu
 majazo
@@ -12985,8 +12965,10 @@ majeraha
 majerikeni
 majeruhi
 majeshi
+majeshi ya wanamaji
 maji
 maji makuu
+maji matakatifu
 maji matamu
 maji taka
 maji ya chumvi
@@ -13015,6 +12997,8 @@ majimbi
 majimbo
 majina
 majina kamili
+majina ya kwanza
+majina ya msimbo
 majina ya steji
 majina ya usanii
 majina ya utani
@@ -13030,6 +13014,7 @@ majira ya mvua
 majira ya pukutiko
 majirani
 majiranukta
+majisifu
 majitaka
 majito
 majitu
@@ -13052,10 +13037,12 @@ majukwaa
 majum
 majuma
 majumba
+majumbani
 majumbe
 majuni
 majusi
 majuto
+majuya
 majuzi
 maka
 makaa
@@ -13064,8 +13051,10 @@ makaazi
 makabaila
 makabati
 makabila
+makabiliano
 makabrasha
 makaburi
+makaburini
 makabuti
 makabwela
 makachero
@@ -13088,6 +13077,7 @@ makamera
 makamishena
 makamishna
 makamishna wakuu
+makamo
 makamu
 makamu kansela
 makamu rais
@@ -13104,6 +13094,8 @@ makanyagio
 makao
 makao makuu
 makapera
+makapi
+makapimlo
 makapteni
 makapu
 makaputi
@@ -13123,6 +13115,7 @@ makatazo
 makatekista
 makatibu
 makatibu wakuu
+makatizo
 makavazi
 makawa
 makayamba
@@ -13132,6 +13125,7 @@ makemboi
 makende
 makhalifa
 maki
+makimba
 makimbilio
 makinda
 makini
@@ -13141,18 +13135,21 @@ makiwa
 makobe
 makocha
 makochi
+makodo
 makofi
 makoko
 makokoto
 makoleo
 makoloni
 makomamanga
+makomanda
 makomandoo
 makombamwiko
 makombe
 makombeo
 makombo
 makombora
+makombora ya balistiki
 makonda
 makondakta
 makonde
@@ -13164,6 +13161,7 @@ makoo
 makopa
 makoplo
 makopo
+makorofi
 makoroma
 makoromeo
 makorongo
@@ -13234,6 +13232,7 @@ malkia wa urembo
 malofa
 malori
 malozi
+malumbano
 malundo
 maluteni
 maluteni jenerali
@@ -13262,7 +13261,9 @@ mamaye
 mamba
 mambo
 mambo vipi
+mambo ya kigeni
 mambo ya nchi za nje
+mambo za kigeni
 mamboleo
 mambumbumbu
 mameja
@@ -13275,6 +13276,7 @@ mamilionea
 mamilioni
 mamillioni
 mamlaka
+mamlakani
 mamluki
 mamna
 mamufti
@@ -13294,6 +13296,7 @@ manemane
 maneno
 maneno ya msingi
 maneno ya mtaani
+manenosiri
 maneva
 manganisi
 manganizi
@@ -13312,6 +13315,7 @@ manne
 manoari
 manowari
 mantiki
+mantiki class IX
 manufaa
 manukato
 manusura
@@ -13325,6 +13329,8 @@ manyunyu
 manza
 manzili
 maofisa
+maofisi
+maofisini
 maombi
 maombolezo
 maonesho
@@ -13339,12 +13345,15 @@ maonyo
 maovaroli
 mapaa
 mapacha
+mapacha wanne
+mapacha watatu
 mapadiri
 mapadre
 mapadri
 mapafu
 mapafu ya chuma
 mapaja
+mapajani
 mapaji
 mapambajio
 mapambano
@@ -13362,6 +13371,7 @@ mapato
 mapato halisi
 mapato ya taifa
 mapazia
+mapeasi
 mapema
 mapendekezo
 mapendo
@@ -13377,13 +13387,16 @@ mapesa
 mapesheni
 mapigano
 mapigo
+mapigo ya kifo
 mapigo ya moyo
 mapikipiki
 mapindo
 mapinduzi
+mapinduzi ya serikali
 mapingamizi
 mapipa
 mapishi
+mapitio
 mapito
 mapokeo
 mapokezi
@@ -13429,9 +13442,11 @@ marejeo
 marekebisho
 marembo
 marhamu
+marhamu class IX
 maridadi
 maridhawa
 maridhiano
+marijali
 marijani
 marika
 marimba
@@ -13459,6 +13474,7 @@ masaibu
 masaidi
 masajenti
 masajini
+masala
 masalio
 masalkheri
 masamaha
@@ -13478,7 +13494,9 @@ mashahidi
 mashaibu
 mashairi
 mashaka
+mashakani
 mashamba
+mashambani
 mashambiro
 mashambulio
 mashambulio ya kimtandao
@@ -13495,6 +13513,7 @@ mashati
 mashauri
 mashauriano
 mashavu
+masheha
 mashehe
 masheik
 masheikh
@@ -13539,6 +13558,7 @@ masihara
 masika
 masikini
 masikio
+masikioni
 masikitiko
 masikizano
 masimulizi
@@ -13549,7 +13569,10 @@ masizi
 masjala
 maskani
 maskauti
+maski
 maskini
+maskinika
+maskinisha
 maslahi
 masoko
 masoko ya nje
@@ -13581,6 +13604,7 @@ mataifa
 matairi
 mataji
 matajiri
+matakatifu
 matakia
 matako
 matakwa
@@ -13629,8 +13653,10 @@ matetemeko ya mwezi
 matezi
 matezo
 mathalani
+mathibitisho
 mathree
 matibabu
+matibabu ya watoto
 matikiti
 matikiti maji
 matikitimaji
@@ -13667,6 +13693,7 @@ matumizi
 matunda
 matundu
 matungi
+matunzo
 matusi
 matuta ya mchanga
 maua
@@ -13725,6 +13752,7 @@ mayatima
 mayaya
 mayowe
 mayunifomu
+mayuto
 mazao
 mazeruzeru
 mazigazi
@@ -13736,6 +13764,7 @@ mazingara
 mazingatio
 mazingira
 mazishi
+mazito
 maziwa
 maziwa lala
 maziwa ya mgando
@@ -13771,6 +13800,7 @@ mbari
 mbashiri
 mbata
 mbatata
+mbatizaji
 mbavu
 mbawa
 mbawala
@@ -13799,13 +13829,17 @@ mbili
 mbilikimo
 mbilingani
 mbingu
+mbinguni
+mbini
 mbinu
 mbio
 mbio ya kupokezana
 mbio za kupokezana
 mbio za nyika
+mbioni
 mbiringani
 mbizi
+mbobezi
 mbochi
 mboga
 mboga kabisa
@@ -13815,7 +13849,10 @@ mbogo
 mboji
 mbolea
 mboleya
+mbomoaji
 mbona
+mbongo
+mbongo kabisa
 mboni
 mboo
 mbovu
@@ -13835,6 +13872,7 @@ mbuni wikamusi
 mbunifu
 mbura
 mburudishaji
+mbururo
 mbuyu
 mbuzi
 mbuzi mawe
@@ -13867,6 +13905,7 @@ mchapa
 mchapa kazi
 mchapaji
 mchapakazi
+mchapishaji
 mchapuko
 mchawi
 mche
@@ -13901,6 +13940,7 @@ mchoro
 mchoroko
 mchoyo
 mchuano
+mchujo
 mchukuzi
 mchumba
 mchumbururu
@@ -13908,6 +13948,7 @@ mchumi
 mchumia juani hulia kivulini
 mchungaji
 mchunguzi
+mchunguzi wa vifo
 mchungwa
 mchuuzi
 mchuzi
@@ -13916,19 +13957,23 @@ mda
 mdadisi
 mdahalo
 mdai
+mdaiwa
 mdakizi
 mdaku
 mdalasini
 mdanganyifu
 mdau
 mdeni
+mdhalilishaji
 mdhalimu
 mdhamini
 mdhibiti
 mdimu
 mdodoki
 mdogo
+mdogo mdogo
 mdomo
+mdomoni
 mdudu
 mdukuzi
 mdundiko
@@ -13938,6 +13983,7 @@ me-
 mea
 mechi
 medali
+medani
 megabaiti
 megawati
 meja
@@ -13957,9 +14003,14 @@ meng'enya
 mengi
 mengine
 meno
+meno bandia
+meno ya bandia
 menya
+menyana
 menyeka
+menyesha
 menyu
+menywa
 merikebu
 mesenja
 meta
@@ -13981,6 +14032,7 @@ mfagiaji
 mfaji
 mfalme
 mfamasia
+mfanano
 mfano
 mfano wa inzi
 mfanya
@@ -13999,6 +14051,8 @@ mfaume
 mfeministi
 mfenesi
 mfereji
+mfereji wa haja kubwa
+mfereji wa uzazi
 mfiadini
 mfikiriaji
 mfilisi
@@ -14019,20 +14073,29 @@ mfuafedha
 mfuasi
 mfuatano
 mfuatiliaji
+mfuga nyuki
 mfugaji
+mfugaji nyuki
 mfugo
 mfuko
 mfululizo
 mfumaji
+mfumbaji
 mfumbi
 mfumbua
+mfumbuaji
+mfumikolojia
 mfumko
 mfumko wa bei
 mfumo
 mfumo radidia
+mfumo wa ikolojia
 mfumo wa jua
 mfumo wa kinga
+mfumo wa mmeng'enyo wa chakula
 mfumo wa neva
+mfumo wa uendeshaji
+mfumo wa uzazi
 mfumuko
 mfumuko wa bei
 mfune
@@ -14046,6 +14109,7 @@ mfuniko
 mfupa
 mfupanyangumi
 mfupi
+mfurungu
 mfyulisi
 mgahawa
 mgahawa wa intaneti
@@ -14082,6 +14146,7 @@ mgongano wa maslahi
 mgongo
 mgongoni
 mgonjwa
+mgonjwa wa ukoma
 mgono
 mgu
 mgulabi
@@ -14090,6 +14155,7 @@ mgumu
 mgunduzi
 mgusano
 mguu
+mguuni
 mgwizi
 mhadarati
 mhadasi
@@ -14097,6 +14163,7 @@ mhadhara
 mhadhiri
 mhadhiri mwandamizi
 mhafidhina
+mhaini
 mhajiri
 mhakiki
 mhalifu
@@ -14118,9 +14185,11 @@ mhazigi
 mhazili
 mhenga
 mheshimiwa
+mhifadhi
 mhimili
 mhindi
 mhisani
+mhitaji
 mhitimu
 mhodhi
 mhoji
@@ -14129,6 +14198,7 @@ mhubiri
 mhudumu
 mhuni
 mhunzi
+mhuri
 mhusika
 mhusika mkuu
 mhutasari
@@ -14168,6 +14238,8 @@ mianzo
 miaprikoti
 miaranda
 miaridi
+miarobaini
+miarubaini
 miateini
 miavuli
 miayo
@@ -14181,6 +14253,8 @@ mibiringani
 miboo
 mibuni
 mibuyu
+michache
+michafu
 michai
 michakato
 michanga
@@ -14194,25 +14268,30 @@ micheduara
 michele
 michezo
 michi
+michicha
 michikichi
 michirizo
 michomo
 michoro
 michuano
 michubuko
+michujo
 michumbururu
 michungwa
 michuzi
 midahalo
 midalasini
 midimu
+midogo
 midomo
+midomoni
 midundo
 miduriani
 mie
 mieleka
 mielekeo
 miembe
+miendelezo
 miendo
 mienendo
 mienge
@@ -14221,9 +14300,11 @@ miereka
 miezi
 miezi miandamo
 mifadhaiko
+mifanano
 mifano
 mifenesi
 mifereji
+mifereji ya uzazi
 mifiwi
 miforosadi
 miforsadi
@@ -14232,12 +14313,16 @@ mifuatano
 mifugo
 mifuko
 mifululizo
+mifumikolojia
 mifumko
 mifumko ya bei
 mifumo
+mifumo ya ikolojia
 mifumo ya jua
 mifumo ya kinga
 mifumo ya neva
+mifumo ya uendeshaji
+mifumo ya uzazi
 mifumuko
 mifumuko ya bei
 mifuniko
@@ -14255,6 +14340,7 @@ migawo ya faida
 migeni
 migiligilani
 migodi
+migodini
 migogoro
 migomba
 migomo
@@ -14319,6 +14405,7 @@ mikeka
 mikia
 mikindu
 mikinga
+mikingamo
 mikizi
 mikoa
 mikoani
@@ -14328,9 +14415,11 @@ mikoko
 mikokoteni
 mikoma
 mikomamanga
+mikombo
 mikondo
 mikongojo
 mikono
+mikononi
 mikopo
 mikorogo
 mikoromo
@@ -14366,8 +14455,10 @@ milenia
 milezi
 milia
 miliki
+milikisha
 mililita
 milima
+milimani
 milimau
 milimeta
 milimita
@@ -14402,8 +14493,11 @@ mimomonyoko
 minada
 minanasi
 minara
+minara ya kengele
+minara ya taa
 minazi
 mingapi
+minghairi
 mingi
 mingurumo
 mini basi
@@ -14425,8 +14519,12 @@ miosho
 mioto
 mioyo
 mipaka
+mipakani
+mipalilio
+mipana
 mipangilio
 mipango
+mipango ya biashara
 mipapai
 mipasuko
 mipera
@@ -14434,9 +14532,11 @@ mipilipili
 mipingo
 mipini
 mipira
+mipito
 mipole
 mipopoo
 mipunga
+mipya
 miraa
 miraba
 mirabaha
@@ -14447,6 +14547,7 @@ mirengo
 mirengo ya kulia
 mirengo ya kushoto
 mirija
+mirija ya mkojo
 miripuko
 mironge
 miruba
@@ -14456,7 +14557,9 @@ misa
 misaada
 misafa
 misafara
+misafara ya mazishi
 misahafu
+misaji
 misako
 misala
 misalaba
@@ -14485,6 +14588,7 @@ mishkaki
 mishokishoki
 mishtuko
 mishtuko ya moyo
+mishtuko ya ubongo
 mishubiri
 mishumaa
 misiba
@@ -14495,6 +14599,7 @@ misimu
 misimu ya mvua
 misingi
 misioni
+misisimko
 misisitizo
 misitu
 miski
@@ -14510,6 +14615,7 @@ misukumo
 misuli
 misumari
 misumeno
+misumeno ya mnyororo
 misururu
 miswada
 miswaki
@@ -14523,11 +14629,14 @@ mitaani
 mitafaruku
 mitagusano
 mitaji
+mitakatifu
 mitama
 mitambo
 mitamu
 mitandao
 mitandao ya kijamii
+mitandao ya ndani
+mitandaoni
 mitandio
 mitangawizi
 mitango
@@ -14543,6 +14652,7 @@ mitende
 mitepe
 miteremko
 mitetemeko
+mithaki
 mithali
 mithili
 mitholojia
@@ -14551,6 +14661,8 @@ miti ya matunda
 mitihani
 mitihani ya macho
 mitihani ya mwigo
+mitikisiko
+mitikiso
 mitikiti
 mitima
 mitindi
@@ -14570,6 +14682,7 @@ mitumba
 mitumbwi
 mitume
 mitungi
+mitupu
 miuda
 miuda bora
 miujiza
@@ -14610,6 +14723,7 @@ mizimu
 mizinga
 mizingo
 mizio
+mizito
 mizizi
 mizoga
 mizozo
@@ -14644,6 +14758,7 @@ mjozi
 mjuba
 mjukuu
 mjumbe
+mjumbe class I
 mjusi
 mjusi kafiri
 mkaa
@@ -14667,6 +14782,8 @@ mkana-mungu
 mkanamungu
 mkanda
 mkanda wa jeshi
+mkandamizaji
+mkandamizwaji
 mkandarasi
 mkangaga
 mkanganyiko
@@ -14702,16 +14819,19 @@ mkesha
 mkewe
 mkia
 mkia wa nyangumi
+mkiani
 mkimbiaji
 mkimbizi
 mkindu
 mkinga
+mkingamo
 mkinzani
 mkiritimba
 mkiukaji
 mkizi
 mko
 mkoa
+mkoani
 mkoba
 mkojo
 mkoko
@@ -14721,6 +14841,7 @@ mkoliflawa
 mkoloni
 mkoma
 mkomamanga
+mkombo
 mkombozi
 mkoministi
 mkomunisti
@@ -14736,6 +14857,7 @@ mkopaji
 mkopeshaji
 mkopo
 mkora
+mkorofi
 mkorogo
 mkoromo
 mkorosho
@@ -14755,6 +14877,7 @@ mkunga
 mkungu
 mkungumanga
 mkunjo
+mkunjufu
 mkurufunzi
 mkurugenzi
 mkusanya
@@ -14763,6 +14886,7 @@ mkusanyo
 mkutano
 mkutano mkuu wa mwaka
 mkutano mkuu wa pamoja wa mwaka
+mkutanoni
 mkutubi
 mkuu
 mkuu wa dola
@@ -14794,21 +14918,26 @@ mlango wa kizazi
 mlango wa uzazi
 mlangoni
 mlanguzi
+mlariba
 mlawiti
 mle
 mlegevu
 mlei
 mlemavu
+mlengaji
+mlengwa
 mlevi
 mlezi
 mlezi wa muda
 mlia
 mlibua
+mlifi
 mlikuwa
 mlima
 mlima Evarest
 mlima wa Mizeituni
 mlimaji
+mlimani
 mlimau
 mlimwengu
 mlinda lango
@@ -14817,7 +14946,10 @@ mlinganyo
 mlingoti
 mlinzi
 mlio
+mlipa
+mlipa kodi
 mlipaji
+mlipaji kodi
 mlipuko
 mlisha
 mlisho
@@ -14829,16 +14961,19 @@ mlonge
 mlongo
 mlowezi
 mlozi
+mlumbaji
 mlundikano
 mlungula
 mluzi
 mmarekani
 mmea
 mmeng'enyo
+mmeng'enyo wa chakula
 mmenyuko
 mmiliki
 mmishenari
 mmishionari
+mmishonari
 mmisionari
 mmo
 mmoja
@@ -14885,6 +15020,9 @@ mnaosha
 mnapanda
 mnapika
 mnara
+mnara class III
+mnara wa kengele
+mnara wa taa
 mnarudi
 mnasisa
 mnataka
@@ -14909,8 +15047,9 @@ mnururisho
 mnyama
 mnyama mwenye kwato
 mnyama wa nyumbani
-mnyama wa porini
+mnyamapori
 mnyang'anyi
+mnyang'anyi class I/II
 mnyanya
 mnyanyasaji
 mnyapara
@@ -14929,6 +15068,7 @@ mochwari
 modeli
 modemu
 modereta
+moduleringi
 moduli
 mofimu
 mofolojia
@@ -14969,38 +15109,51 @@ mpaji
 mpaka
 mpakani
 mpakizi
+mpalilio
 mpambanaji
 mpana
+mpandaji
+mpandaji mlima
 mpangaji
 mpangapanga
 mpangilio
 mpangilio wa alfabeti
 mpango
+mpango wa biashara
 mpango wa kando
 mpanzi
 mpapai
 mparachichi
 mpasuaji
 mpasuko
+mpatanishaji
 mpatanishi
 mpekani
 mpelelezi
 mpendwa
 mpenzi
+mpenzi wa pembeni
 mpepea
 mpera
 mpevu
 mpichi
 mpiga
+mpiga debe
 mpiga gitaa
 mpiga kura
+mpiga ngoma
 mpiga picha
+mpigaji
+mpigaji gitaa
+mpigaji kura
+mpigaji picha
 mpigakura
 mpiganaji
 mpigapicha
 mpikaji
 mpilipili
 mpinduzi
+mpingaji
 mpingo
 mpini
 mpinzani
@@ -15016,11 +15169,13 @@ mpishi
 mpishi mkuu
 mpitaji
 mpitiaji
+mpito
 mplamu
 mpo
 mpokeaji
 mpokezi
 mpole
+mponyaji
 mpopi
 mpopla
 mpopoo
@@ -15051,12 +15206,14 @@ mrengo wa kulia
 mrengo wa kushoto
 mreteni
 mrija
+mrija wa mkojo
 mripuko
 mrithi
 mrithisha
 mrithishi
 mrogi
 mronge
+mropokaji
 mruba
 mrujuani
 mrukaji
@@ -15065,16 +15222,20 @@ mruzi
 msaada
 msafa
 msafara
+msafara wa mazishi
 msafiri
+msafirishaji
 msafsafi
 msagaji
 msahafu
 msahau
 msaidizi
+msaji
 msajili
 msako
 msala
 msalaba
+msalaba class III
 msalabani
 msalani
 msalihina
@@ -15141,7 +15302,9 @@ mshirika
 mshiriki
 mshirikina
 mshita
+mshitaki
 mshitakiwa
+mshitiri
 mshituko
 mshituko wa moyo
 mshokishoki
@@ -15149,8 +15312,10 @@ mshonaji
 mshoni
 mshtaki
 mshtakiwa
+mshtukizo
 mshtuko
 mshtuko wa moyo
+mshtuko wa ubongo
 mshubiri
 mshukiwa
 mshumaa
@@ -15171,6 +15336,7 @@ msimuliaji
 msimulizi
 msingi
 msiri
+msisimko
 msisimuko
 msisitizo
 msitari
@@ -15184,6 +15350,7 @@ msondani
 msongamano
 msongo
 msonobari
+msonyo
 msoto
 msprusi
 mstaafu
@@ -15207,6 +15374,7 @@ msuli
 msuluhishi
 msumari
 msumeno
+msumeno wa mnyororo
 msungo
 msururu
 msusi
@@ -15224,6 +15392,7 @@ mtabiri
 mtafaruku
 mtafiti
 mtafsiri
+mtafutaji
 mtagusano
 mtahini
 mtahiniwa
@@ -15232,6 +15401,8 @@ mtajiri
 mtaka
 mtaka cha mvunguni sharti ainame
 mtakatifu
+mtakwimu
+mtakwimu bima
 mtalaka
 mtali
 mtalii
@@ -15243,6 +15414,7 @@ mtamu
 mtanashati
 mtandao
 mtandao wa kijamii
+mtandao wa ndani
 mtandaoni
 mtandikaji
 mtandio
@@ -15250,6 +15422,7 @@ mtangawizi
 mtangazaji
 mtango
 mtangulizi
+mtani
 mtanziko
 mtapo
 mtapta
@@ -15280,16 +15453,23 @@ mtengenezaji
 mtenzi
 mtepe
 mteremko
+mtesaji
 mteta
 mtetea
 mtetemeko
 mtetezi
+mteule
 mti
 mti safi
 mti wa matunda
+mtiaji
 mtihani
 mtihani wa macho
 mtihani wa mwigo
+mtii
+mtiifu
+mtikisiko
+mtikiso
 mtikiti
 mtima
 mtindi
@@ -15306,10 +15486,12 @@ mtombo
 mtondo
 mtondo goo
 mtondogoo
+mtoni
 mtopetope
 mtori
 mtoro
 mtoto
+mtoto class I
 mtoto mchanga
 mtoto wa jicho
 mtoto wa kike wa mfalme
@@ -15325,6 +15507,7 @@ mtribu
 mtu
 mtu mzee
 mtu mzima
+mtu wa bara
 mtu wa kuhamahama
 mtu-dubu
 mtu-mbwa
@@ -15337,6 +15520,7 @@ mtulivu
 mtumba
 mtumbako
 mtumbaku
+mtumbaku class III
 mtumbwi
 mtume
 mtumi
@@ -15357,7 +15541,10 @@ mtunza
 mtunza bustani
 mtunza muda
 mtunza wanyama
+mtunzaji
 mtunzi
+mtupu
+mtwaaji
 mu-
 mua
 muafaka
@@ -15367,6 +15554,9 @@ muamala
 muamana
 muamko
 muangaza
+muarobaini
+muarubaini
+muasisi
 mubaba
 mubabaz
 mubashara
@@ -15418,11 +15608,13 @@ mungapi
 mungu
 mungu baba
 munkari
+munyu
 muogeleaji
 muokaji
 muonekano
 muongo
 muongozo
+mupya
 muru
 murua
 mustakabali
@@ -15435,6 +15627,7 @@ muuguzi
 muujiza
 muumbaji
 muumini
+muundaji
 muundi
 muundo
 muundo mbinu
@@ -15491,9 +15684,11 @@ mwaarabu
 mwaasi
 mwadhama
 mwadhini
+mwadhini class I
 mwadilifu
 mwafaka
 mwaga
+mwaga damu
 mwagana
 mwagia
 mwagika
@@ -15528,19 +15723,26 @@ mwana-CCM
 mwanaakiolojia
 mwanaanga
 mwanaanga class I
+mwanaanthropolojia
 mwanabenki
 mwanabiashara
+mwanabiolojia
+mwanablogi
 mwanablogu
 mwanachama
 mwanachuo
 mwanachuoni
 mwanadamu
+mwanademokrasia
+mwanademokrasia wa jamii
 mwanadensi
 mwanadiplomasia
 mwanadondi
 mwanaekolojia
 mwanaepidemiolojia
+mwanafalaki
 mwanafalsafa
+mwanafamilia
 mwanafarasi
 mwanafizikia
 mwanafunzi
@@ -15556,13 +15758,17 @@ mwanaikolojia
 mwanaisimu
 mwanajenetiki
 mwanajeshi
+mwanajihadi
 mwanajinakolojia
 mwanajiografia
+mwanajiolojia
+mwanajiosayansi
 mwanajumuia
 mwanajumuiya
 mwanakandarasi
 mwanakemia
 mwanakijiji
+mwanakiolojia
 mwanakondoo
 mwanakriketi
 mwanakwaya
@@ -15586,6 +15792,7 @@ mwananchi
 mwanandoa
 mwanangu
 mwanapaleontolojia
+mwanaprimatolojia
 mwanapunda
 mwanariadha
 mwanasaikolojia
@@ -15597,7 +15804,10 @@ mwanasesere
 mwanasheria
 mwanasiasa
 mwanasoka
+mwanasoshalisti
 mwanaspoti
+mwanatheolojia
+mwanauchumi
 mwanaume
 mwanawe
 mwanazuoni
@@ -15634,11 +15844,14 @@ mwari
 mwariadha
 mwaridi
 mwarobaini
+mwarubaini
 mwasaiberi
 mwasherati
 mwashi
 mwasi
 mwasisi
+mwathiriwa
+mwavi
 mwavuli
 mwayo
 mwazimo
@@ -15661,12 +15874,15 @@ mwelekezi wa filamu
 mwelimisha
 mwelimishaji
 mwema
+mwembamba
 mwembe
 mwenda
 mwenda wazimu
 mwendambize
 mwendapole
 mwendawazimu
+mwendelezaji
+mwendelezo
 mwendesha mashtaka
 mwendeshaji
 mwendo
@@ -15708,6 +15924,7 @@ mwezeshaji
 mwezi
 mwezi mpevu
 mwezi mwandamo
+mwezini
 mwia
 mwiba
 mwigaji
@@ -15731,20 +15948,24 @@ mwinuko
 mwisho
 mwishoni
 mwishowe
+mwitiko
 mwito
 mwitu
 mwituni
 mwivi
 mwiwa
 mwizi
+mwizi class I
 mwoga
 mwokaji
 mwokozi
 mwombaji
 mwombolezaji
 mwomwote
+mwonekano
 mwongo
 mwongofu
+mwongozaji
 mwongozo
 mwonzi
 mwosha
@@ -15752,7 +15973,6 @@ mwosha huoshwa
 mwosho
 mwote
 mwovu
-mwsada
 mwuaji
 mwuguzi
 mwujiza
@@ -15793,6 +16013,7 @@ mzimu
 mzimuni
 mzinga
 mzingo
+mzinifu
 mzinzi
 mzio
 mzito
@@ -15800,12 +16021,14 @@ mziwanda
 mzizi
 mzoga
 mzozo
+mzubao
 mzuka
 mzunga
 mzungu
 mzungu wa nne
 mzungu wa pili
 mzungu wa tatu
+mzungu wa tatu class I
 mzunguko
 mzunguko wa chakula
 mzungumzaji
@@ -15826,6 +16049,7 @@ na yeye
 na-
 naam
 nabii
+nachi
 nacho
 nadhari
 nadharia
@@ -15857,6 +16081,7 @@ najisi
 nakala
 nakala mango
 nakala tete
+nakidi
 nakili
 nakimbia
 nakishi
@@ -15908,6 +16133,7 @@ nasibu
 nasiha
 nasihi
 nasisa
+nasua
 nasuri
 nata
 nataka kwenda msalani
@@ -15979,6 +16205,8 @@ ndoana
 ndoano
 ndofu
 ndogo
+ndogo ndogo
+ndogondogo
 ndogoro
 ndondi
 ndoo
@@ -16011,6 +16239,7 @@ nenepa
 nenepesha
 neno
 neno la msingi
+nenosiri
 neoni
 nepi
 nereidi
@@ -16030,6 +16259,7 @@ ng'ara
 ng'arisha
 ng'ata
 ng'atwa
+ng'o
 ng'oa
 ng'ombe
 ng'ong'ona
@@ -16040,9 +16270,7 @@ ngagu
 ngalawa
 ngali
 ngamia
-ngamia or jamali
 ngano
-ngano [edit]
 ngano nyekundu
 ngao
 ngao ya nishati
@@ -16082,7 +16310,6 @@ nguruma
 ngurumo
 ngurunguru
 nguruwe
-nguruwe [edit]
 nguta
 nguva
 nguvu
@@ -16108,6 +16335,7 @@ nidhamu
 nijifunzi
 nikafungua
 nikaha
+nikahi
 nikanunua
 nikazaa
 nikeli
@@ -16164,6 +16392,7 @@ ninaweza
 ninawinda
 ninazima
 ninazoea
+ninga
 nini
 ninyi
 nipo
@@ -16189,11 +16418,14 @@ njemba
 njia
 njia mbili zilimshinda fisi
 njia panda
+njia ya haja kubwa
 njia ya kukata
 njia ya miguu
+njia ya mkojo
 njia ya mtandao
 njia za kukata
 njia za miguu
+njia za mkojo
 njiani
 njiwa
 njoni
@@ -16218,6 +16450,7 @@ nta
 nta za sikio
 nufaika
 nufaisha
+nuhusi
 nuia
 nuiwa
 nuiza
@@ -16225,6 +16458,7 @@ nuka
 nukato
 nukia
 nukilia
+nuksani
 nuksi
 nukta
 nukta mbili
@@ -16310,6 +16544,8 @@ nyanja za vita
 nyansi
 nyanya
 nyanyasa
+nyanyaswa
+nyanyua
 nyapa
 nyara
 nyara ya serikali
@@ -16330,6 +16566,7 @@ nyembe
 nyenga
 nyenje
 nyenzo
+nyepesi
 nyesha
 nyeti
 nyeupe
@@ -16341,6 +16578,7 @@ nyimwa
 nyingi
 nyingine
 nyinyi
+nyiradi
 nyoa
 nyofu
 nyoka
@@ -16351,6 +16589,7 @@ nyonge
 nyongeka
 nyongeza
 nyongo
+nyongwa
 nyonya
 nyonyana
 nyonyea
@@ -16358,6 +16597,7 @@ nyonyeka
 nyonyesha
 nyonyo
 nyonywa
+nyoo
 nyooka
 nyota
 nyota wa filamu
@@ -16425,6 +16665,7 @@ oda
 ofa
 ofisa
 ofisi
+ofisini
 oga
 ogani
 ogelea
@@ -16450,6 +16691,7 @@ oktilioni
 olewa
 omba
 ombaomba
+ombea
 ombi
 omboleza
 ombwe
@@ -16461,11 +16703,13 @@ ondo
 ondoa
 ondoana
 ondoka
+ondokesha
 ondolea
 ondoleka
 ondoleo
 ondolewa
 ondosha
+ondoshwa
 ondoza
 one
 onea
@@ -16473,6 +16717,8 @@ onekana
 oneo
 onesha
 onesho
+oneshwa
+onevu
 ongea
 ongelea
 ongeza
@@ -16501,6 +16747,7 @@ onyana
 onyesha
 onyesho
 onyesho la vitabu
+onyeshwa
 onyo
 oparesheni
 opera
@@ -16513,11 +16760,14 @@ orodha ya maswali ya uchunguzi
 orodha ya vyakula
 orodha za vyakula
 orodhesha
+orodheshwa
 orofa
 ororo
 osha
+oshwa
 ota
 ote
+otea
 othografia
 oti
 otografia
@@ -16554,6 +16804,7 @@ painti
 paipu
 paja
 paja la kuku
+pajani
 paji
 paji la uso
 paka
@@ -16584,6 +16835,7 @@ pale
 paleontolojia
 palia
 palilia
+palizi
 pamamba
 pamba
 pambaja
@@ -16606,9 +16858,11 @@ pande
 pandemia
 pandia
 pandika
+pandikiza
 pandikizi la gesi
 pandikizi la mtu
 pandisha
+pandishwa
 pandu
 pandwa
 panga
@@ -16628,10 +16882,13 @@ pangisha
 pangiwa
 pango
 pangu
+pangua
 pangusa
 pangwa
 pantoni
 panua
+panulia
+panuliwa
 panya
 panzi
 pao
@@ -16681,6 +16938,7 @@ patana
 patania
 patanika
 patanisha
+patanishwa
 patano
 patasi
 patatu
@@ -16704,13 +16962,16 @@ pazisha
 pazuri
 pea
 peana
+peasi
 pedeli
 pedi
 pekani
 peke
 pekee
 pekua
+pekupeku
 peleka
+pelekea
 pelekwa
 pelele
 peleleza
@@ -16759,6 +17020,7 @@ pensheni
 penu
 penya
 penye
+penye kuku wengi usimwage mtama
 penye nia pana njia
 penyewe
 penzi
@@ -16778,11 +17040,13 @@ peremende
 perform
 peruzi
 pesa
+pesa ngapi
 pesheni
 peta
 petali
 pete
 petroli
+petrolojia
 petu
 peupe
 peusi
@@ -16802,7 +17066,9 @@ piga busu
 piga chafya
 piga chapa
 piga chenga
+piga chuku
 piga dansi
+piga debe
 piga deki
 piga doria
 piga gitaa
@@ -16840,12 +17106,15 @@ piga stori
 piga teke
 piga vita
 pigana
+pigania
 pigano
+piganwa
 pigia
 pigiana
 pigilia
 pigisha
 pigo
+pigo la kifo
 pigo la moyo
 pigwa
 pigwa na butwaa
@@ -16867,6 +17136,8 @@ pilipili manga
 pilo
 pima
 pimbi
+pimia
+pimika
 pimisha
 pimwa
 pinda
@@ -16896,11 +17167,14 @@ pishi
 pisi
 pisi kali
 pita
+pita kiasi
 pitapita
 pitia
 pitiana
 pitika
+pitio
 pitisha
+pitishwa
 pitiwa
 piza
 plagi
@@ -16914,6 +17188,7 @@ po
 poa
 pochi
 poda
+podikasti
 podo
 podoa
 podolea
@@ -16921,7 +17196,13 @@ podoleka
 podolewa
 poesha
 pofu
+pofuka
+pofukia
+pofusha
+pofushwa
+pogoa
 pointi
+pojo
 pokea
 pokeana
 pokelea
@@ -16930,7 +17211,10 @@ pokeleka
 pokelewa
 pokeza
 pokezana
+poko
 pokonya
+pokonyana
+pokonywa
 pole
 pole pole
 polea
@@ -16956,9 +17240,11 @@ pongezi
 pongezi kwa siku ya kuzaliwa
 pongo
 pongono
+poni
 ponografia
 ponwa
 ponya
+ponyoka
 pooza
 popo
 popo mkubwa
@@ -16967,10 +17253,12 @@ popoo
 poposi
 popote
 pora
+poresha
 pori
 porini
 poromoka
 poromoko
+porwa
 posa
 posferi
 posho
@@ -16983,9 +17271,12 @@ potasiamu
 pote
 potea
 poteka
+potelea
+potelea mbali
 potesha
 potewa
 poteza
+potezwa
 potoa
 potosha
 povu
@@ -16993,6 +17284,7 @@ poza
 present: -mesha-
 presha
 pretseli
+primatolojia
 printa
 profesa
 programu
@@ -17037,6 +17329,9 @@ punga
 pungua
 pungufu
 punguza
+punguzana
+punguzia
+punguziana
 punguzika
 punguzo
 punguzwa
@@ -17053,12 +17348,12 @@ puza
 pwa
 pwaa
 pwani
+pwani class XVI
 pweke
 pweza
 pweza mkubwa
 pya
 pyuta
-përzi
 raba
 rabi
 rada
@@ -17095,6 +17390,7 @@ raia
 raia mwandamizi
 rais
 raisi
+raiwa
 rajamisha
 rajamu
 rakaa
@@ -17106,6 +17402,7 @@ rakibu
 ramani
 ramba
 rambana
+rambaza
 rambirambi
 rambisha
 rambwa
@@ -17147,13 +17444,19 @@ rasharasha
 rasi
 rasiberi
 rasilimali
+rasilimali class IX
 rasilmali
+rasimisha
 rasimu
 raslimali
 rasmi
 rasta
 rasuli
 ratiba
+ratibia
+ratibika
+ratibisha
+ratibiwa
 ratibu
 ratili
 ratli
@@ -17167,6 +17470,7 @@ ree
 refa
 refari
 refu
+refuka
 refusha
 refushana
 refushia
@@ -17218,7 +17522,9 @@ ridhika
 ridhimu
 ridhisha
 ridhishana
+ridhishwa
 ridhiwa
+rijali
 rika
 rikabu
 rikodi
@@ -17235,6 +17541,7 @@ ripotisha
 ripotiwa
 risala
 risasi
+rishai
 risiti
 ritadi
 ritadia
@@ -17245,6 +17552,7 @@ ritani ya kodi ya mapato
 ritani za kodi
 rithi
 rithisha
+rithiwa
 ritifaa
 riwaya
 riziki
@@ -17259,6 +17567,7 @@ rogoa
 rogwa
 roho
 roketi
+ropoka
 roshani
 rubani
 rubuni
@@ -17269,11 +17578,13 @@ rudisha
 rudishwa
 rudufu
 rufaa
+rufai
 rufani
 ruhusa
 ruhusa ya kuingia
 ruhusiwa
 ruhusu
+rujumu
 ruka
 rukhusa
 rukia
@@ -17293,12 +17604,15 @@ runinga
 rununu
 rupia
 rusha
+rushana
+rushia
 rushwa
 rusu
 ruti
 rutuba
 rutubika
 rutubisha
+rutubishwa
 ruwaza
 ruya
 ruzu
@@ -17311,10 +17625,15 @@ saa ya mkono
 saba
 sababika
 sababisha
+sababishwa
 sababu
 sabalkheri
+sabasi
 sabatashara
 sabato
+sabidi
+sabiki
+sabili
 sabini
 sabini na mbili
 sabini na moja
@@ -17337,6 +17656,7 @@ sadiki
 safa
 safari
 safari njema
+safarini
 safi
 safihi
 safika
@@ -17354,6 +17674,9 @@ safura
 saga
 sagai
 sagamba
+sagana
+sagisha
+sagwa
 sahaba
 sahani
 sahani ya santuri
@@ -17379,11 +17702,15 @@ saikloni
 saikolojia
 saili
 saini
+sainisha
+sainiwa
 saisi
 saivi
 saizi
 sajenti
 sajili
+sajilisha
+sajiliwa
 sajini
 saka
 sakafu
@@ -17391,29 +17718,39 @@ sakafu ya bahari
 sakafu ya mbao
 sakafu za bahari
 sakafu za mbao
+sakafuni
 sakata
 sakimu
 sakini
 sakramentari
 sakramenti
 saksafoni
+sakwa
 sala
 salaam
 saladi
+saladi class IX
 saladi ya matunda
 saladi za matunda
 salama
+salama salimini
 salamu
 salfa
 sali
 salia
 salimia
 salimiana
+salimini
+salimisha
 salimu
 salimu roho
 salio
 salisha
 saliti
+salitiana
+salitika
+salitisha
+salitiwa
 saliyo
 saluni
 saluti
@@ -17423,6 +17760,7 @@ samahani rudia
 samaki
 samaki mkunje angali mbichi
 samaki mkunje yungali mbichi
+samakigamba
 samani
 samawati
 sambaa
@@ -17431,6 +17769,7 @@ sambalika
 sambamba
 sambaratisha
 sambaza
+sambazwa
 sambusa
 samehe
 samehea
@@ -17471,6 +17810,7 @@ saratani ya damu
 saratani ya ini
 saratani ya kibofu
 saratani ya kongosho
+saratani ya korodani
 saratani ya mapafu
 saratani ya matiti
 saratani ya mfupa
@@ -17534,9 +17874,11 @@ saza
 sazo
 sebeha
 sebule
+sebuleni
 sefu
 sefule
 sehemu
+sehemu ya haja kubwa
 sehemu ya siri
 sehemu za siri
 sekeneko
@@ -17591,7 +17933,14 @@ senturi
 sepetu
 septilioni
 sera
+sera ya faragha
+sera ya fedha
+sera ya kigeni
+sera ya upanuzi
+sera za faragha
+sera za fedha
 sera za kigeni
+sera za upanuzi
 serekali
 seremala
 serikali
@@ -17602,11 +17951,13 @@ serikali za mseto
 serikalini
 serkali
 serotonini
+setalaiti
 setelaiti
 seti
 setilaiti
 setiri
 setla
+setlaiti
 shaba
 shababi
 shabaha
@@ -17655,14 +18006,17 @@ shambulizi la kimtandao
 shamiri
 shampeni
 shampuu
+shamrashamra
 shanga
 shangaa
 shangalia
 shangaliwa
 shangaza
 shangazi
+shangazwa
 shangilia
 shangingi
+shangwe
 shani
 shanta
 sharabika
@@ -17678,6 +18032,7 @@ sharubu
 shashi
 shashimamishi
 shati
+shati class V
 shauku
 shauri
 shauri yako
@@ -17686,13 +18041,18 @@ shauriana
 shaurika
 shauriwa
 shavu
-shawali
 shawishi
+shawishia
+shawishiana
+shawishika
+shawishiwa
 shayiri
 shedhi
+sheha
 shehe
 shehena
 sheheni
+shehia
 sheik
 sheikh
 shekh
@@ -17710,11 +18070,16 @@ sherehekea
 sherehesha
 sherekea
 sheria
+sheria ya familia
 sheria ya jamaa
+sheria ya kikatiba
 sheria ya kodi
+sheria za familia
+sheria za kikatiba
 sheria za kodi
 sherisi
 shetani
+shetri
 shiba
 shibiri
 shibli
@@ -17739,6 +18104,7 @@ shikilia
 shikisha
 shikwa
 shilingi
+shilingi ngapi
 shimizi
 shimo
 shimo jeusi
@@ -17752,6 +18118,7 @@ shindika
 shindikana
 shindilia
 shindwa
+shingapi
 shingo
 shingoni
 shinikiza
@@ -17759,6 +18126,7 @@ shinikizo
 shinikizo la damu
 shinikizo la juu la damu
 shira
+shiraa
 shirika
 shirika lisilo la kiserikali
 shiriki
@@ -17766,10 +18134,16 @@ shirikia
 shirikiana
 shirikisha
 shirikisho
+shirikisho class V
+shirikishwa
 shirikiwa
 shisha
 shitaka
 shitaki
+shitakia
+shitakiana
+shitakika
+shitakiwa
 shitariki
 shoga
 shoka
@@ -17783,9 +18157,13 @@ shoo
 shoti
 shtaka
 shtaki
+shtakia
+shtakiana
+shtakika
 shtakiwa
 shtua
 shtuka
+shtukiza
 shtulia
 shtumu
 shtusha
@@ -17823,6 +18201,7 @@ shukurani
 shukuru
 shukwa
 shule
+shule class IX
 shule nyeti
 shule ya Jumapili
 shule ya bweni
@@ -17880,6 +18259,8 @@ siagi
 siagi ya karanga
 siandiki
 siasa
+siasa ya kijiografia
+siasa za kijiografia
 sibu
 sibunilizi
 sichezi
@@ -17921,6 +18302,7 @@ sikitika
 sikitikia
 sikitiko
 sikitisha
+sikitishwa
 sikiwa
 sikiza
 siklopsi
@@ -17929,10 +18311,12 @@ siku
 siku hizi
 siku kuu
 siku njema
+siku ya kuzaliwa
 siku ya mwaka
 siku ya uhuru
 siku ya uzalishi
 siku ya wapendanao
+siku za kuzaliwa
 siku za mwaka
 siku za uhuru
 siku za usoni
@@ -17972,6 +18356,8 @@ simba jike
 simba mangu
 simba marara
 simba wa bahari
+simbua
+simbuliwa
 simi
 simika
 simikwa
@@ -18022,12 +18408,14 @@ sio
 sipiki
 sipo
 siraji
+sirati
 siri
 sirinji
 sisemi Kiingereza.
 sisi
 sisimisi
 sisimizi
+sisimka
 sisimua
 sisitiza
 sista
@@ -18062,9 +18450,11 @@ siwi
 siye
 siyo
 sizo
+skana
 skandi
 skati
 skauti
+skeli
 sketi
 skimu
 skizofrenia
@@ -18072,6 +18462,7 @@ skonzi
 skrini
 skrini ya kugusa
 skrini za kugusa
+skripti
 skrubu
 skule
 skuli
@@ -18115,6 +18506,7 @@ sombe
 somea
 someka
 somesha
+someshwa
 somo
 somo la biashara
 somu
@@ -18124,6 +18516,7 @@ sonara
 songa
 songa mbele
 songamana
+songana
 songeza
 songwe class 9/10 animate
 soni
@@ -18155,7 +18548,11 @@ spishi
 sponji
 spoti
 staa
+staafisha
 staafu
+staajabia
+staajabika
+staajabisha
 staajabu
 staarabika
 staarabisha
@@ -18168,10 +18565,13 @@ staha
 stahabu
 stahamili
 stahamilivu
+stahi
+stahika
 stahiki
 stahili
 stahimili
 stahimilivu
+stahisha
 staili
 staili ya mapenzi
 staili za mapenzi
@@ -18180,6 +18580,8 @@ stampu
 stani
 stara
 starehe
+stareheka
+starehesha
 stashahada
 stawi
 stawisha
@@ -18187,9 +18589,12 @@ steji
 steki
 stempu
 stendi
+stendi ya mabasi
 stendi ya teksi
+stendi za mabasi
 stesheni
 stesheni ya treni
+stihizai
 stika
 stima
 stimu
@@ -18198,6 +18603,7 @@ stori
 stormkällare
 stovu
 straika
+stratejia
 stroberi
 strouberi
 stua
@@ -18246,7 +18652,11 @@ suke
 sukua
 sukuma
 sukuma wiki
+sukumana
 sukumawiki
+sukumia
+sukumika
+sukumwa
 sukurubu
 sukwa
 sulfuri
@@ -18260,7 +18670,11 @@ sulubiwa
 sulubu
 suluhika
 suluhisha
+suluhishana
+suluhishia
+suluhishika
 suluhisho
+suluhishwa
 suluhu
 sumaku
 sumbua
@@ -18273,6 +18687,7 @@ sumukuvu
 sunagogi
 sungara
 sungura
+sungura mjanja
 sungusungu
 sunobari
 supamaketi
@@ -18332,6 +18747,7 @@ tabamu
 tabaradi
 tabaruku
 tabasamu
+tabasuri
 tabawali
 tabia
 tabia nchi
@@ -18342,7 +18758,9 @@ tabikia
 tabikika
 tabikisha
 tabiri
+tabiriwa
 tabu
+taburu
 tafadhali
 tafadhali keti
 tafadhali naomba unipishe
@@ -18356,11 +18774,18 @@ tafrija
 tafsida
 tafsiri
 tafsiri sisisi
+tafsiria
+tafsirika
+tafsirisha
+tafsiriwa
 taftishi
 tafuna
 tafunia
 tafunwa
 tafuta
+tafutia
+tafutisha
+tafutwa
 taga
 tagaa
 tageta
@@ -18399,15 +18824,24 @@ taipureta
 tairi
 taja
 tajamala
+tajana
 taji
 taji la maua
 taji la mbei
+tajia
+tajika
 tajiri
 tajiriba
 tajirika
+tajirisha
+tajisha
 tajriba
+tajuwidi
+tajwa
 taka
+taka ya kielektroniki
 taka ya nyuklia
+taka za kielektroniki
 taka za nyuklia
 takabali
 takabalika
@@ -18453,6 +18887,8 @@ tamathali
 tamathali ya usemi
 tamathali za usemi
 tamati
+tamatika
+tamatisha
 tamba
 tambaa
 tambalale
@@ -18464,6 +18900,7 @@ tambo
 tambua
 tambulisha
 tambulisho
+tambuliwa
 tambuu
 tambuzi
 tamka
@@ -18482,6 +18919,10 @@ tanbihi
 tanda
 tandabui
 tandala
+tandala mdogo
+tandala mkubwa
+tandala wadogo
+tandala wakubwa
 tandatu
 tandawala
 tandawala mkubwa
@@ -18501,6 +18942,10 @@ tangamano
 tangatanga
 tangawizi
 tangaza
+tangazana
+tangazia
+tangazika
+tangazisha
 tangazo
 tangazwa
 tangi
@@ -18517,8 +18962,10 @@ tangulia
 tani
 tania
 taniboi
+tanisha
 tanki
 tano
+tanua
 tanuri
 tanuri ya miale
 tanzanaiti
@@ -18556,6 +19003,8 @@ tarawehi
 tarbia
 tarbushi
 tarehe
+tarehe ya kuzaliwa
+tarehe za kuzaliwa
 tari
 tarihi
 tarijama
@@ -18595,6 +19044,7 @@ tathminika
 tathminisha
 tathminiwa
 tatiza
+tatizika
 tatizo
 tatu
 tatua
@@ -18625,6 +19075,7 @@ taya
 tayari
 tayarika
 tayarisha
+tayarishwa
 tazama
 tazama pia
 tazamia
@@ -18649,6 +19100,7 @@ tegua
 teka
 teka nyara
 teke
+tekea
 tekeleza
 tekelezwa
 teketea
@@ -18663,6 +19115,7 @@ teknolojia ya habari na mawasiliano
 teknolojia za habari
 teknolojia za habari na mawasiliano
 teksi
+tekwa
 tela
 tele
 telegramu
@@ -18675,7 +19128,9 @@ teleza
 tema
 tembe
 tembea
+tembea usingizini
 tembelea
+tembeleana
 tembeza
 tembo
 tembo wa bahari
@@ -18696,6 +19151,7 @@ tendwa
 tenga
 tengana
 tenganisha
+tenganishwa
 tengeneza
 tengenezwa
 tengua
@@ -18714,6 +19170,8 @@ teremka
 teremsha
 tesa
 teseka
+testosteroni
+teswa
 teta
 tetana
 tetanasi
@@ -18727,19 +19185,23 @@ tetemeka
 tetemeko
 tetemeko la ardhi
 tetemeko la mwezi
+tetemesha
 tetereka
 tetesi
 tetewanga
 teua
 teule
 tezi
+tezi dume
 tezo
 thabiti
+thakili
 thalabu
 thamana
 thamani
 thamani halisi
 thamini
+thaminiwa
 thao
 thaura
 thawabu
@@ -18773,7 +19235,9 @@ thiata
 thibiti
 thibitika
 thibitisha
+thibitishia
 thibitisho
+thibitishwa
 thieta
 thiolojia
 thubutu
@@ -18783,7 +19247,12 @@ thumu
 thumuni
 thurea
 tia
+tia adabu
+tia baridi
+tia chumvi
+tia mbaroni
 tia mimba
+tia sahihi
 tia saini
 tiara
 tiba
@@ -18794,20 +19263,24 @@ tibamaungo
 tibaredio
 tibu
 tibua
+tifu
 tii
 tiifu
+tiisha
 tija
 tiketi
 tiki
 tikisa
 tikisa kusi
 tikisa-mlima
+tikisika
 tikiti
 tikiti maji
 tikitimaji
 tilia
 tilisha
 tiliwa
+tiliza
 timamu
 timia
 timilia
@@ -18819,7 +19292,9 @@ timu
 timua
 timuana
 timuliwa
+tindi
 tindiga
+tindikali
 tinga
 tingatinga
 tini
@@ -18883,6 +19358,7 @@ tokea sasa
 tokeka
 tokeo
 tokesha
+tokeza
 tokota
 tokwa
 tola
@@ -18970,6 +19446,7 @@ tuliadhibu
 tulivu
 tuliza
 tulizaliwa
+tulizwa
 tululu
 tuma
 tumai
@@ -18979,9 +19456,11 @@ tumainiwa
 tumba
 tumbako
 tumbaku
+tumbaku class IX
 tumbawe
 tumbili
 tumbo
+tumbo la nyuma
 tumboni
 tumbua
 tumbuiza
@@ -19043,11 +19522,13 @@ tunda bukini jeupe
 tunda bukini jeusi
 tundu
 tundu la pua
+tundu ya pua
 tunga
 tunga mimba
 tungalifungamana
 tungamo
 tungi
+tungisha
 tungo
 tuni
 tunu
@@ -19064,6 +19545,10 @@ tupa
 tupa wavu
 tupo
 tupu
+tupu ya mbele
+tupu ya nyuma
+tupu za mbele
+tupu za nyuma
 tupwa
 turufu
 tusi
@@ -19078,6 +19563,7 @@ tuza
 tuzo
 tuzo ya Nobel
 tuzo za Nobel
+tuzua
 twa-
 twaa
 twaliadhibu
@@ -19094,11 +19580,14 @@ ua
 ua la jua
 uabudiwaji
 uadhilifu
+uadhimishaji
 uadilifu
 uadimu
 uadui
 uagizaji
+uaguaji
 uaguzi
+uahirishaji
 uainishaji
 uainisho
 uajiri
@@ -19117,17 +19606,25 @@ uana
 uanachama
 uanachuoni
 uanagenzi
+uanahabari
+uanaharakati
 uanahewa
+uanamitindo
+uananchi
+uanaume
 uanazuoni
 uandaaji
 uandamaji
+uandamanaji
 uandazi
 uandikaji
 uandikishaji
 uandishi
+uangaliaji
 uangalifu
 uangalizi
 uanzishaji
+uanzishwaji
 uapepo
 uasherati
 uasi
@@ -19149,6 +19646,7 @@ ubaguzi wa mashoga
 ubaguzi wa rangi
 ubainifu
 ubakaji
+ubakizaji
 ubalozi
 ubani
 ubantuishaji
@@ -19163,8 +19661,10 @@ ubatizo
 ubavu
 ubawa
 ubaya
+ubayana
 ubebaji
 ubeberu
+ubeberu class XI
 ubeleko
 ubepari
 ubeti
@@ -19172,6 +19672,7 @@ ubia
 ubichi
 ubidhaishaji
 ubikira
+ubinadamu
 ubinafsi
 ubinafsishaji
 ubingwa
@@ -19188,6 +19689,7 @@ ubunifu
 ubuyu
 uchache
 uchache wa
+uchachushaji
 uchafu
 uchafuzi
 uchaguzi
@@ -19197,6 +19699,7 @@ uchakataji
 uchakavu
 uchambuzi
 uchanganuzi
+uchanganyaji
 uchangiaji
 uchangiaji damu
 uchangishaji
@@ -19206,6 +19709,7 @@ uchapishaji
 uchapishaji skrini
 uchawi
 uchekeshaji
+uchenjuaji
 uchepechepe
 ucheshi
 uchezaji
@@ -19216,6 +19720,7 @@ uchinjaji
 uchochezi
 uchochoro
 uchokozi
+uchomaji
 uchongaji
 uchoraji
 uchovu
@@ -19229,6 +19734,7 @@ uchumi wa buluu
 uchungu
 uchunguzi
 uchunguzi wa maiti
+uchunguzi wa maoni
 uchuuzi
 udadisi
 udago
@@ -19243,10 +19749,14 @@ udanganyifu
 udereva
 udevu
 udhahania
+udhaifu
+udhalili
 udhalilishaji
 udhalilishaji wa kingono
 udhalilishaji wa watoto
+udhalilishwaji
 udhalimu
+udhalimu class XI
 udhamini
 udhanifu
 udhi
@@ -19280,6 +19790,7 @@ uelimishaji
 uendaji
 uendelezaji
 uendeshaji
+uenezaji
 uenezi
 uenyekiti
 ufa
@@ -19291,13 +19802,17 @@ ufagizi
 ufahamu
 ufalme
 ufamasia
+ufanano
 ufanifu
 ufanisi
+ufarisi
 ufasaha
 ufashisti
+ufasiki
 ufasiri
 ufaume
 ufeministi
+ufichaji
 ufikiaji
 ufilisi
 ufinyanzi
@@ -19306,27 +19821,36 @@ ufisadi
 ufito
 ufizi
 ufu
+ufuasi
 ufuatiliaji
+ufufuko
 ufufuo
 ufugaji
 ufujaji
 ufukara
 ufuko
+ufuko class XI
 ufukwe
 ufukweni
 ufumaji
 ufundi
 ufundi bomba
 ufundishaji
+ufungashaji
 ufungu
 ufunguo
 ufunguzi
+ufunuaji
 ufunuo
 ufuo
 ufupi
 ufupisho
+ufurushaji
+ufuska
 ufuta
 ufutaji
+ufyatuaji
+ufyonzaji
 uga
 uga sumaku
 uga wa sumaku
@@ -19340,16 +19864,20 @@ ugatuzi
 ugavana
 ugavi
 ugawaji
+ugawanyaji
 ugeni
 ugenini
+ughaibuni
 ugoigoi
 ugomaji
 ugomvi
 ugonjwa
 ugonjwa wa asperger
 ugonjwa wa kichomi
+ugonjwa wa kitropiki
 ugonjwa wa kuambukiza
 ugonjwa wa kupooza
+ugonjwa wa tropiki
 ugonjwa wa zinaa
 ugozi
 ugua
@@ -19358,6 +19886,7 @@ ugumu
 ugunduzi
 uguza
 uhaba
+uhafifu
 uhai
 uhaini
 uhaishaji
@@ -19378,8 +19907,10 @@ uhamasishaji
 uhamiaji
 uhamishaji
 uhamisho
+uhamishoni
 uhandisi
 uhandisi jeni
+uhanithi
 uharaka
 uharamia
 uharamu
@@ -19395,6 +19926,7 @@ uhatarishi
 uhaulishaji
 uhawilishaji
 uhawilishaji wa teknolojia
+uhifadhi
 uhitaji
 uhodari
 uhodhi
@@ -19411,6 +19943,7 @@ uigizaji
 uimara
 uimarishaji
 uimbaji
+uingiliaji
 uingizaji
 uinjilishaji
 uja
@@ -19443,9 +19976,13 @@ ujuba
 ujumbe
 ujumbe mfupi
 ujumla
+ujumlishaji
+ujumuishaji
+ujusi
 ujuzi
 ujuzi wa kidijitali
 ukabaila
+ukabaji
 ukabila
 ukafungua
 ukaguzi
@@ -19453,6 +19990,7 @@ ukaguzi wa macho
 ukaguzi wa ndani
 ukaguzi wa nje
 ukahaba
+ukaidi
 ukakasi
 ukale
 ukali
@@ -19463,13 +20001,18 @@ ukame
 ukamili
 ukamilifu
 ukamilishaji
+ukanaji
 ukanda
 ukandamizaji
 ukansela
+ukanushaji
+ukanushi
 ukao
 ukapera
 ukapteni
 ukarabati
+ukarani
+ukaribu
 ukarimu
 ukasi
 ukasisi
@@ -19478,11 +20021,14 @@ ukataji
 ukatekumeni
 ukatibu
 ukatili
+ukatizaji
 ukavu
+ukaya
 uke
 ukeketaji
 uketo
 uki
+ukimbizi
 ukimwi
 ukimya
 ukingo
@@ -19499,6 +20045,7 @@ ukoko
 ukoko mkwavu
 ukokotoaji
 ukoloni
+ukoloni class XI
 ukoloni mamboleo
 ukoma
 ukomavu
@@ -19506,11 +20053,14 @@ ukombozi
 ukomeshaji
 ukoministi
 ukomo
+ukomo wa hedhi
 ukomunisti
 ukonyezo
 ukoo
 ukopaji
 ukope
+ukopeshaji
+ukorofi
 ukosefu
 ukosi
 ukosoaji
@@ -19532,6 +20082,8 @@ ukunjufu
 ukurasa
 ukurasa wa mtandao
 ukurasa wa nyumbani
+ukurugenzi
+ukurutu
 ukusanyaji
 ukuta
 ukuta wa Berlin
@@ -19557,6 +20109,7 @@ ule
 uledi
 ulegezaji
 ulemavu
+ulemavu wa kimaendeleo
 ulemavu wa kusikia
 ulemavu wa ngozi
 ulevi
@@ -19578,16 +20131,21 @@ ulishaji
 uliwa
 uliza
 ulizaliwa
+ulizwa
 ulozi
+ulumbaji
 uma
 umaarufu
 umahiri
 umakamu
 umakamu wa rais
+umakanika
+umakini
 umalaya
 umalizaji
 umama
 umande
+umaridadi
 umasikini
 umaskini
 umati
@@ -19617,9 +20175,11 @@ umiliki
 umilisi
 umilisi wa kimsingi
 umio
+umio wa chakula
 umishenari
 umisheni
 umishionari
+umishonari
 umisionari
 umiza
 umiza moyo
@@ -19634,7 +20194,7 @@ umwa
 umwagaji
 umwagaji damu
 umwagaji wa damu
-umwagliaji
+umwagiliaji
 una
 unaanza
 unabii
@@ -19707,11 +20267,16 @@ ungama
 ungamo
 ungana
 unganisha
+unganishwa
+ungia
+ungika
+ungisha
 ungo
 ungua
 ungulia
 ungulika
 unguza
+ungwa
 uniti
 unono
 ununuzi
@@ -19731,6 +20296,7 @@ unyevu
 unyevuanga
 unyonga
 unyonyaji
+unyonyeshaji
 unyoofu
 unyoya
 unyumba
@@ -19741,12 +20307,16 @@ uogeleaji
 uokaji
 uokoaji
 uokozi
+uombaji
 uondoaji
 uongo
 uongozaji
 uongozi
+uongozini
+uoteaji
 uoto
 uovu
+uozi
 upadiri
 upadre
 upadri
@@ -19757,21 +20327,28 @@ upakuaji
 upamba
 upana
 upandaji
+upandaji miti
 upande
+upandikizaji
 upandishaji
 upanga
+upanga class XI
 upanga mpana
 upanga mrefu
 upangaji
 upangaji uzazi
+upanuzi
 upara
 upasuaji
 upasuaji wa kujifungua
 upasuaji wa maiti
+upasuaji wa urembo
+upatanishi
 upatanisho
 upatikanaji
 upatu
 upawa
+upekuzi
 upelaji
 upele
 upelelezi
@@ -19781,6 +20358,7 @@ upendezi
 upendo
 upenzi
 upeo
+upepeo
 upepo
 upepo wa bahari
 upepo wa kaskazini
@@ -19795,6 +20373,7 @@ upikaji
 upimaji
 upinde
 upinde wa mvua
+upingaji
 upinzani
 upishi
 upitiaji
@@ -19802,13 +20381,18 @@ upo
 upofu
 upofu wa mto
 upofu wa mtoni
+upogoaji
 upokeaji
 upokezi
+upokonyaji
 upole
 upolitheisti
+uponaji
+uponyaji
 uporaji
 uporo
 uposaji
+upotezaji
 upotoshaji
 upotoshaji wa haki
 upumbavu
@@ -19816,10 +20400,12 @@ upumuaji
 upungufu
 upungufu wa kinga mwilini
 upungufu wa maji mwilini
+upunguzaji
 upuuzi
 upwa
 upweke
 upya
+uradi
 uradidi
 urafiki
 urahisi
@@ -19829,18 +20415,24 @@ uraibu
 uraibu wa dawa za kulevya
 urais
 urajamishaji
+urambazaji
 urani
+uraniamu
 urari
 urari wa hesabu
 urasimu
 uraya
 urefu
+urefushaji
+urejeshaji
 urejesho
 urekebishaji
 urembo
+urijali
 urithi
 urogi
 uroho
+uropokaji
 uru
 urubani
 urudiaji
@@ -19848,6 +20440,7 @@ urujuani
 urujuanimno
 urukaji
 urushaji
+urutubishaji
 usafi
 usafidi
 usafiri
@@ -19858,6 +20451,7 @@ usafirishaji wa silaha
 usafishaji
 usagaji
 usaha
+usahaulifu
 usahibu
 usahihi
 usaidizi
@@ -19888,10 +20482,12 @@ ushaibu
 ushairi
 ushajiishaji
 ushakii
+ushambuliaji
 ushanga
 usharika
 ushauri
 ushawishi
+usheha
 ushehe
 ushemasi
 ushenzi
@@ -19906,6 +20502,7 @@ ushirikiano
 ushirikina
 ushirikishaji
 ushirikishi
+ushirikishwaji
 ushoga
 ushoroba
 ushuhuda
@@ -19922,7 +20519,9 @@ ushuru wa kibanda
 ushuru wa stampu
 ushuru wa stempu
 ushuzi
+usia
 usifungishe
+usikilizaji
 usiku
 usiku kucha
 usiku mwema
@@ -19932,20 +20531,25 @@ usimamizi
 usimbaji
 usimbaji fiche
 usimbishaji
+usimbuaji
 usindikaji
 usinga
 usingizi
+usingizini
 usipoziba ufa utajenga ukuta
+usiri
 usita
 usitawi
 usitishaji
 usitishaji mapigano
 usitishaji vita
 usitishaji wa muda
+usitishwaji
 uso
 usodai
 usokotaji
 usomaji
+usoni
 usonji
 usono
 usoro
@@ -19966,6 +20570,7 @@ usugu
 usugu wa dawa
 usuhuba
 usukani
+usuli
 usultani
 usuluhishi
 usumaku
@@ -20000,6 +20605,7 @@ utambulisho
 utambuzi
 utamkaji
 utamu
+utanashati
 utandawazi
 utando
 utangamano
@@ -20027,6 +20633,7 @@ utegemezi
 utegili
 utekaji
 utekaji nyara
+utekeaji
 utekelezaji
 utelezi
 utemaji
@@ -20043,20 +20650,29 @@ uterasi
 uteremkaji
 utesaji
 utese
+utetezi
 uteuzi
+uthabiti
+uthibitishaji
 uthibitisho
 uthubutu
 uti
 uti wa mgongo
+utiaji
+utiaji baridi
 utiaji saini
 utibabu
 utii
 utiifu
 utimilifu
+utimizaji
 utingo
+utiririkaji
 utitiri
 utoaji
 utoaji mimba
+utoboaji
+utofauti
 utohoaji
 utohozi
 utomvu
@@ -20064,11 +20680,16 @@ utomwili
 utongozaji
 utosi
 utoto
+utotoni
 utovu
+utozaji
 utu
 utukufu
 utulivu
 utumbo
+utumbo mpana
+utumbo mwembamba
+utumboni
 utumbuizaji
 utume
 utumiaji
@@ -20076,6 +20697,7 @@ utumishi
 utumishi wa umma
 utumwa
 utundu
+utungisho
 utungo
 utunzaji
 utupaji
@@ -20087,9 +20709,14 @@ uuguzi
 uumbaji
 uume
 uundaji
+uundwaji
 uungaji
 uungaji mkono
+uunganishaji
+uunganisho
+uunganishwaji
 uungu
+uungwaji
 uungwana
 uuzaji
 uvaaji
@@ -20105,11 +20732,15 @@ uvumbuzi
 uvumi
 uvumilivu
 uvundo
+uvunjaji
+uvunjaji wa mkataba
 uvunjifu
 uvutaji
 uvutaji sigara
 uvutano
 uvuvi
+uvuvi wa burudani
+uvuvi wa michezo
 uwajibikaji
 uwakilishi
 uwanda
@@ -20117,6 +20748,7 @@ uwanja
 uwanja wa ndege
 uwanja wa umma
 uwanja wa vita
+uwanjani
 uwasilishaji
 uwatu
 uwazi
@@ -20126,6 +20758,7 @@ uwe
 uwekaji
 uwekaji hesabu
 uwekezaji
+uwekezaji wa kigeni
 uwele
 uwepo
 uweza
@@ -20155,9 +20788,11 @@ uzani atomia
 uzao
 uzazi
 uzee
+uzeeni
 uzembe
 uzi
 uzia
+uzidishaji
 uzima
 uzinduzi
 uzinzi
@@ -20166,6 +20801,7 @@ uzito
 uzito pungufu
 uzito uliozidi
 uzoefu
+uzorotaji
 uzuiaji
 uzuio
 uzulu
@@ -20197,6 +20833,7 @@ vi-
 viaga
 viambajengo
 viambatisho
+viambato
 viambaza
 viambishi
 viambishi awali
@@ -20223,6 +20860,8 @@ vibago
 vibahaluli
 vibaka
 vibali
+vibali vya kazi
+vibali vya makazi
 vibanda
 vibanda vya simu
 vibanio
@@ -20256,7 +20895,9 @@ vibuyu
 vibuzi
 vibwagizo
 vichaa
+vichache
 vichaka
+vichapo
 vichapuzi
 vichapuzi chembe
 vicheche
@@ -20275,6 +20916,7 @@ vichupa
 vichwa
 vichwamaji
 vichwangomba
+vichwani
 vidadisi
 vidahizo
 vidani
@@ -20299,6 +20941,7 @@ vidosho
 vidubini
 vielelezo
 vielezi
+vielezo
 vifa
 vifaa
 vifafa
@@ -20341,6 +20984,7 @@ viguzo
 viherehere
 vihisishi
 vihusishi
+viimbo
 viingizi
 viini
 viini vya yai
@@ -20361,6 +21005,7 @@ vijito
 vijiwe
 vijiwe vya kahawa
 vijumba
+vijumbamshale
 vijusi
 vikaango
 vikali
@@ -20383,8 +21028,10 @@ vikuku
 vikumi
 vikunawingu
 vikundi
+vikundu
 vikunjo
 vikuu
+vikwapa
 vikwazo
 vilabu
 vilaha
@@ -20425,6 +21072,7 @@ vimeng'enya
 vimeta
 vimetameta
 vimeza
+vimia
 vimo
 vimondo
 vimulimuli
@@ -20440,6 +21088,7 @@ vinasa sauti
 vinasaba
 vinasasauti
 vinembe
+ving'amuzi
 ving'ora
 vinga
 vingapi
@@ -20495,6 +21144,7 @@ vipawa
 vipaza
 vipaza sauti
 vipazasauti
+vipele
 vipenga
 vipengele
 vipenyo
@@ -20521,6 +21171,7 @@ viporo
 vipukusa
 vipuli
 vipungu
+vipusa
 vipya
 virago
 virai
@@ -20546,7 +21197,11 @@ virusi ya korona
 virusi za corona
 virusi za korona
 virutubishi
+virutubishi kidogo
+virutubishi kikuu
 virutubisho
+virutubisho kidogo
+virutubisho kikuu
 visa
 visababishi
 visahani
@@ -20568,10 +21223,13 @@ vishoroba
 vishwa
 visigino
 visiki
+visikizi
 visima
+visimbuzi
 visimi
 visingizio
 visiwa
+visiwani
 visogo
 vistari
 vistariungio
@@ -20583,6 +21241,7 @@ visutu
 vita
 vita baridi
 vita vya msituni
+vita vya nyuklia
 vita vya wenyewe kwa wenyewe
 vitabu
 vitabu vya elektroniki
@@ -20599,6 +21258,7 @@ vitambaa
 vitambi
 vitambo
 vitambulisho
+vitambulisho vya taifa
 vitamini
 vitamini A
 vitamini B1
@@ -20618,6 +21278,7 @@ vitamini D
 vitamini E
 vitamini K
 vitamu
+vitamutamu
 vitanda
 vitani
 vitano
@@ -20666,15 +21327,20 @@ vitunguu saumu
 vituo
 vituo vya basi
 vituo vya garimoshi
+vituo vya kupigia kura
 vituo vya mafuta
 vituo vya redio
 vituo vya reli
+vituoni
 viuavijasumu
 viumbe
 viumbehai
 viume
+viunga
+viungani
 viunganishi
 viungo
+viungo bandia
 viungo vya uzazi
 viuno
 viunzi
@@ -20694,8 +21360,13 @@ viwakilishi nafsi
 viwakilishi vya nafsi
 viwanda
 viwango
+viwango vya maisha
 viwango vya mchemko
+viwango vya riba
 viwango vya ubadilishaji
+viwango vya ukuaji
+viwango vya uzazi
+viwango vya vifo
 viwanja
 viwanja vya michezo
 viwanja vya ndege
@@ -20710,6 +21381,8 @@ viyeyusho
 viyoga
 viyoyozi
 viza
+viza ya utalii
+viza za utalii
 vizaazaa
 vizazi
 vizibao
@@ -20717,10 +21390,12 @@ vizibo
 vizibuo
 vizima
 vizima moto
+vizinda
 vizingiti
 viziwi
 vizuizi
 vizuizini
+vizuizui
 vizuka
 vizunguzungu
 vizuri
@@ -20731,6 +21406,7 @@ voliboli
 volkano
 volkeno
 vua
+vuguvugu
 vuja
 vuka
 vuli
@@ -20741,6 +21417,7 @@ vumbika
 vumbua
 vumika
 vumilia
+vumiliana
 vumilivu
 vumisha
 vuna
@@ -20755,6 +21432,7 @@ vunjwa
 vuruga
 vurugika
 vurugu
+vurugwa
 vuruta
 vuta
 vuta sigara
@@ -20773,7 +21451,6 @@ vyakula
 vyakula vya asubuhi
 vyakula vya baharini
 vyama
-vyamba
 vyambo
 vyanda
 vyandarua
@@ -20790,6 +21467,7 @@ vyeo
 vyepeo
 vyerehani
 vyerehe
+vyetezo
 vyeti
 vyetu
 vyeupe
@@ -20810,6 +21488,7 @@ vyumba vya mazoezi
 vyungu
 vyuo
 vyuo vikuu
+vyuoni
 vyura
 w-
 wa
@@ -20820,6 +21499,7 @@ waadhi
 waadhini
 waadilifu
 waalimu
+waaminifu
 waandamanaji
 waandamizi
 waandishi
@@ -20828,6 +21508,7 @@ waanzilishi wenza
 waashi
 waasi
 waasisi
+waathiriwa
 waba
 wababa
 wababaz
@@ -20836,11 +21517,16 @@ wabadhiri
 wabadhirifu
 wabakaji
 wabashiri
+wabatizaji
 wabaya
 wabebaji
 wabia
 wabilikimo
 wabinadamu
+wabini
+wabomoaji
+wabongo
+wabongo kabisa
 wabunge
 wabuni
 wabunifu
@@ -20856,6 +21542,7 @@ wachapa
 wachapa kazi
 wachapaji
 wachapakazi
+wachapishaji
 wachawi
 wachekeshaji
 wacheshi
@@ -20874,13 +21561,17 @@ wachumba
 wachumi
 wachungaji
 wachunguzi
+wachunguzi wa vifo
 wachuuzi
 wadadisi
 wadai
+wadaiwa
 wadakizi
 wadaku
 wadanganyifu
 wadau
+wadeni
+wadhalilishaji
 wadhalimu
 wadhamini
 wadhibiti
@@ -20895,6 +21586,7 @@ waelekezi
 waelekezi wa filamu
 waelimisha
 waelimishaji
+waendelezaji
 waendesha mashtaka
 waezeshaji
 wafadhili
@@ -20920,6 +21612,7 @@ wafikiana
 wafikika
 wafikiriaji
 wafikisha
+wafilisi
 wafinyanzi
 wafiraji
 wafiwa
@@ -20931,7 +21624,9 @@ wafua fedha
 wafuafedha
 wafuasi
 wafuatiliaji
+wafuga nyuki
 wafugaji
+wafugaji nyuki
 wafumaji
 wafunga
 wafungaji
@@ -20950,11 +21645,13 @@ wagombea
 wagombeaji
 wagomvi
 wagonjwa
+wagonjwa wa ukoma
 wagumba
 wagumu
 wahadhiri
 wahadhiri waandamizi
 wahafidhina
+wahaini
 wahajiri
 wahakiki
 wahalifu
@@ -20973,6 +21670,7 @@ wahenga
 waheshimiwa
 wahi
 wahisani
+wahitaji
 wahitimu
 wahiwa
 wahodhi
@@ -20999,6 +21697,7 @@ wajengaji
 wajenzi
 wajenzi wa mwili
 wajibika
+wajibisha
 wajibu
 wajifunzi
 wajihi
@@ -21021,6 +21720,8 @@ wakaidi
 wakala
 wakale
 wakalimani
+wakandamizaji
+wakandamizwaji
 wakandarasi
 wakatekumeni
 wakati
@@ -21040,12 +21741,14 @@ wakiritimba
 wakiukaji
 wako
 wakoloni
+wakoma
 wakombozi
 wakomunisti
 wakongwe
 wakopaji
 wakopeshaji
 wakora
+wakorofi
 wakosaji
 wakosefu
 wakosoaji
@@ -21054,6 +21757,7 @@ wakufunzi
 wakulia
 wakulima
 wakunga
+wakunjufu
 wakurufunzi
 wakurugenzi
 wakutubi
@@ -21075,14 +21779,17 @@ walalamikiwa
 walalamishi
 walanguzi
 walarasi
+walariba
 walawiti
 wale
 walei
 walemavu
+walengwa
 walevi
 walezi
 wali
 waliadhibu
+walifi
 walikuwa
 walimaji
 walimu
@@ -21091,7 +21798,10 @@ walinda lango
 walindaji
 walinzi
 walio
+walipa
+walipa kodi
 walipaji
+walipaji kodi
 walisha
 walizaliwa
 walizi
@@ -21105,6 +21815,7 @@ wambata
 wamiliki
 wamishenari
 wamishionari
+wamishonari
 wamisionari
 wamlambe
 wamnyonye
@@ -21114,12 +21825,19 @@ wana
 wana-CCM
 wanaakiolojia
 wanaanga
+wanaanthropolojia
 wanaanza
 wanabenki
 wanabiashara
+wanabiolojia
+wanablogi
+wanablogu
 wanachama
+wanachuo
 wanachuoni
 wanadamu
+wanademokrasia
+wanademokrasia wa jamii
 wanadensi
 wanadiplomasia
 wanadondi
@@ -21127,7 +21845,9 @@ wanaekolojia
 wanaenda
 wanaendesha
 wanaepidemiolojia
+wanafalaki
 wanafalsafa
+wanafamilia
 wanafanya
 wanafarasi
 wanafika
@@ -21154,8 +21874,11 @@ wanajaribu
 wanajenga
 wanajeshi
 wanajibu
+wanajihadi
 wanajimu
 wanajinakolojia
+wanajiolojia
+wanajiosayansi
 wanajumuia
 wanajumuiya
 wanakaa
@@ -21163,6 +21886,7 @@ wanakandarasi
 wanakemia
 wanakijiji
 wanakimbia
+wanakiolojia
 wanakondoo
 wanakriketi
 wanakula
@@ -21196,6 +21920,7 @@ wanaosha
 wanapaleontolojia
 wanapanda
 wanapika
+wanaprimatolojia
 wanapunda
 wanariadha
 wanasaikolojia
@@ -21207,11 +21932,14 @@ wanasesere
 wanasheria
 wanasiasa
 wanasoka
+wanasoshalisti
 wanaspoti
 wanataka
 wanatembelea
+wanatheolojia
 wanatuma
 wanatunza
+wanauchumi
 wanaume
 wanawake
 wanawali
@@ -21243,6 +21971,7 @@ wanunuzi
 wanyama
 wanyama wa nyumbani
 wanyama wenye miguu-mapezi
+wanyamapori
 wanyang'anyi
 wanyanyasaji
 wanyapara
@@ -21259,39 +21988,56 @@ waokozi
 waombaji
 waombolezaji
 waongo
+waongozaji
 waovu
 wapagani
 wapagazi
 wapaji
 wapakizi
+wapandaji
+wapandaji mlima
 wapangaji
 wapanzi
 wapasuaji
+wapatanishaji
 wapatanishi
+wapelelezi
 wapendwa
 wapenzi
+wapenzi wa pembeni
 wapi
 wapiga
+wapiga debe
 wapiga gitaa
 wapiga kura
+wapiga ngoma
 wapiga picha
+wapigaji
+wapigaji gitaa
+wapigaji kura
+wapigaji picha
+wapigakura
 wapiganaji
 wapigapicha
 wapikaji
 wapinduzi
+wapingaji
 wapinzani
 wapishi
 wapishi wakuu
+wapitiaji
 wapo
 wapokeaji
 wapokezi
 wapole
+waponyaji
 waporaji
 waposaji
 wapotovu
 wapumbavu
 wapuuzi
 wapwa
+wapya
 waraibu
 waraka
 waranti
@@ -21308,6 +22054,7 @@ warsha
 warukaji
 wasaa
 wasafiri
+wasafirishaji
 wasagaji
 wasaidizi
 wasajili
@@ -21349,7 +22096,9 @@ washindwa
 washirika
 washiriki
 washirikina
+washitaki
 washitakiwa
+washitiri
 washonaji
 washoni
 washtaki
@@ -21358,6 +22107,8 @@ washukiwa
 wasia
 wasichana
 wasifu
+wasifu kazi
+wasifukazi
 wasii
 wasikilizaji
 wasili
@@ -21365,6 +22116,7 @@ wasilia
 wasiliana
 wasilika
 wasilisha
+wasilishwa
 wasiliwa
 wasimamizi
 wasimuliaji
@@ -21398,6 +22150,8 @@ watajiri
 wataka
 watakatifu
 watakuwa
+watakwimu
+watakwimu bima
 watalaka
 watalii
 watambaji
@@ -21407,6 +22161,7 @@ watanashati
 watandikaji
 watangazaji
 watangulizi
+watani
 watano
 watapta
 watarijumani
@@ -21430,9 +22185,13 @@ watemi
 watendaji
 watengenezaji
 watenzi
+watesaji
 watetea
 watetezi
+wateule
 wati
+watii
+watiifu
 watohara
 watoro
 watoto
@@ -21444,6 +22203,7 @@ watoza
 watoza ushuru
 watribu
 watu
+watu wa bara
 watu wa kuhamahama
 watu wazee
 watu wazima
@@ -21464,16 +22224,19 @@ watunza bustani
 watunza muda
 watunza wanyama
 watunzi
+watupu
 wauaji
 wauguzi
 waumbaji
 waume
 waumini
+waundaji
 waunganishaji
 waungwana
 waustralia
 wauzaji
 wavamizi
+wavivu
 wavu
 wavulana
 wavuli
@@ -21507,11 +22270,14 @@ wazia
 wazima
 wazimamoto
 wazimu
+wazinifu
 wazinzi
 waziri
 waziri mkuu
+wazisha
 wazito
 waziwanda
+waziwazi
 wazo
 wazungu
 wazungu wa nne
@@ -21588,7 +22354,6 @@ wezekana
 wezesha
 wezi
 wezwa
-white-space: nowrap
 wiana
 wibari
 wifi
@@ -21621,6 +22386,7 @@ wivu
 wizani
 wizara
 wizara class IX
+wizarani
 wizi
 wizu
 wodi
@@ -21669,6 +22435,7 @@ yakuti samawi
 yale
 yaleyale
 yaliyomo
+yambo
 yamini
 yamkini
 yana
@@ -21705,12 +22472,15 @@ yui
 yuko
 yule
 yumba
+yumbika
+yumbisha
 yumo
 yungali
 yungiyungi
 yungiyungi la kimisri
 yunifomu
 yupo
+yuto
 za
 za-
 zaa
@@ -21753,6 +22523,7 @@ zawaridi
 zebaki
 zee
 zeeka
+zeesha
 zege
 zeituni
 zembe
@@ -21773,6 +22544,7 @@ ziarani
 ziba
 zibua
 zidi
+zidisha
 zigizaga
 zijazo
 zika
@@ -21793,13 +22565,20 @@ zimwi
 zina
 zinaa
 zinda
+zindia
+zindika
+zindisha
 zindua
 zinga
 zingatia
 zingatio
+zingatiwa
 zingira
+zini
+zinifu
 zinki
 zira
+zirai
 ziro
 zito
 ziwa
@@ -21830,6 +22609,8 @@ zozana
 zozote
 zua
 zuana
+zubaa
+zubaza
 zubu
 zuia
 zuiwa
@@ -21840,14 +22621,16 @@ zumaridi
 zunguka
 zungukwa
 zungumza
+zungumzia
 zungumzwa
+zuo
+zuoni
 zuri
 zuru
 zurura
 zusha
 zushia
 zuzu
-| style="width: 7.1%
 اَبَيُ
 اَـ
 اَوُ
@@ -21856,6 +22639,8 @@ zuzu
 اِدَ
 اِدَا
 اِغَ
+اِـ
+اِلاَّ
 اِيْـ
 بَحَرِ
 جُوَ
@@ -21866,11 +22651,13 @@ zuzu
 رَكِيْبُ
 زَـ
 سِ
+شَقَوَا
 ضِهِرِشِ
 غُرُرِ
 غُرِ
 غُمْبِ
 ـسِـ
+ـكَـ
 ـكُـ
 ـلُ
 ـنِ
@@ -21896,10 +22683,12 @@ zuzu
 مَتُبَوِ
 مَغِ
 مَلِمِغُ
+مَيُتُ
 مُوَاغَزَ
 مُيُ
 مُيُوْنِ
 مِيَاغَ
+مْـ
 نَ
 نَـ
 نَمِ
@@ -21908,11 +22697,14 @@ zuzu
 هُـ
 هُنُ
 هِيْلَ
+وَ
 وَاغُ
 وَـ
 وَقَتِ
 وُفُبِ
+يَبُ
 يَغُ
+يَـ
 يُوَ
 يُوِ
 پَتِ

@@ -1,5 +1,6 @@
 -ah
 -c
+-ca
 -can
 -chan
 -choh
@@ -22,6 +23,8 @@
 -lotl
 -lān
 -meh
+-māc
+-mācpa
 -nahuac
 -ni
 -oa
@@ -57,11 +60,14 @@
 -tzin
 -tōn
 -xoh
+-ya
 -yoh
 -yotl
 -yō
+-z
 -zoh
 -zotl
+-zquiya
 -īxco
 Acalco
 Acapolco
@@ -113,7 +119,6 @@ Caxtillan tlaolli
 Caxtillan tlaxcalli
 Caxtillan totolin
 Caxtillan tzaucxochitl
-Caxtillan xochitl
 Caxtillan yaoacalli
 Caxtīllan cactli
 Caxtīllan camohtli
@@ -163,13 +168,11 @@ Chapoltzinco
 Chiauhtlah
 Cholollan
 Chīchīmēcâ
-Cihuacoatl
+Cihuacōātl
 Citlaltepetl
 Coacalco
 Coatepec
 Coatlicue
-Coatlinchan
-Coatzin
 Colhuah
 Colhuahcan
 Comalcalco
@@ -190,7 +193,11 @@ Cuetlaxcoapan
 Cuextecapan
 Cāxtīllān tōtolin
 Cōzcatlān
+Cōācalco
+Cōātepec
+Cōātlinchan
 Cōātlīcue
+Cōātzin
 Dios
 Dios Spiritu Santo
 Dios Tepiltzin
@@ -220,6 +227,7 @@ Itzcoatzin
 Itzcuinapan
 Itzcuincuitlapilco
 Itzcuintlah
+Itzcōātl
 Itzmiquilpan
 Itzmīquilpan
 Iztac tepetl
@@ -250,6 +258,7 @@ Mictlanteuctli
 Mictlāntēuctli
 Mixtecapan
 Mixtlan
+Mixtlān
 Moteuczoma
 Motēuczōma
 Nahuatl
@@ -324,7 +333,6 @@ Tzapotlan
 Tzinacantlan
 Tzompanco
 Tēteoh īnnān
-Tōllān
 Vitzilubuchtli
 Xabon
 Xalixco
@@ -332,6 +340,7 @@ Xallah
 Xaltepec
 Xapon
 Xipe totec
+Xiquipilco
 Xochimilco
 Xochitepec
 Xochitlan
@@ -560,6 +569,7 @@ amacal
 amachcocol
 amachcocolhuan
 amaitl
+amamox
 amanamacac
 amantecatl
 amapatolli
@@ -569,6 +579,7 @@ amatlahcuilolli
 amatzin
 amauh
 amaxayacatl
+amaxca
 amech-
 amehhuan
 amehhuantin
@@ -595,14 +606,17 @@ amo
 amo-
 amocal
 amochan
+amochcauh
 amochichihuan
 amochichiuh
 amochil
 amochimal
+amocih
 amocihhuan
 amocuexcoch
 amocuitl
 amolli
+amomacehualhuan
 amomach
 amomachhuan
 amomazahuan
@@ -644,11 +658,39 @@ amuxtli
 amēch-
 an-
 anantli
+anchocacah
+anchocah
+anchocahtin
+anchocanih
+anchocaqueh
+anchocayah
+anchocazqueh
+ancholoah
+ancholoanih
+ancholoayah
+ancholohcah
+ancholohqueh
+ancholozqueh
 aneneztli
 angelomeh
+annemih
 anqui
 anqui chichi
 anqui itzcuintli
+antemocah
+antemoh
+antemohtin
+antemonih
+antemoqueh
+antemoyah
+antemozqueh
+anyolcah
+anyolih
+anyolinih
+anyoliyah
+anyolizqueh
+anyolqueh
+anyoltin
 aocmo hueyi tlahcahtli
 aocmo hueyi tonatiuh
 aocmo huēyi cemilhuitl
@@ -744,6 +786,7 @@ auecho
 auechtli
 auillatolli
 axayacatl
+axcaitl
 axcan
 axcancayotl
 axictli
@@ -791,6 +834,7 @@ ayotl
 ayotli
 ayotochin
 ayotochtli
+ayotōchtli
 ayutl
 ayutli
 ayāc
@@ -963,6 +1007,10 @@ caxtolli onnahui
 caxtolpa
 caxtolpa onnappa
 caxtolpohualli
+caxtoltzompa
+caxtoltzontli
+caxtolxiquipilli
+caxtolxiquipilpa
 caxtuli
 caxtuli once
 caxtulli
@@ -973,6 +1021,7 @@ caxtulli onnaui
 caxtulliomey
 caxtullionce
 caxtīllān tlalcacahuatl
+caxtōlcān
 caxtōlli
 caxtōlli omēyi
 caxtōlli omōme
@@ -981,8 +1030,10 @@ caxtōlli onnāhui
 caxtōlpa
 caxtōlpōhualli
 caxtōlpōhualpa
+caxtōltzompa
 caxtōltzontli
 caxtōlxiquipilli
+caxtōlxiquipilpa
 ce
 cecec
 cecemilhuitlacuilolli
@@ -996,14 +1047,17 @@ cecuiztli
 ceehecatl
 ceehēcatl
 cehcen
+cehcē
 cehualli
 celia
+cemacuahuitl
 cemanahuac
 cemanahuactli
 cemanahuactli imachiyo
 cemanahuatl
 cemanauac
 cemanauatl
+cemanāhuatl
 cemicac
 cemicac yoliliztli
 cemihcac
@@ -1012,11 +1066,19 @@ cemihcac yoliliztli
 cemihcac yōliliztli
 cemihcacayolihuayan
 cemihcacayoliztli
+cemihcan
 cemilhuitl
 cemithualtin
+cemitta
+cemixcolli
 cemiztetl
 cemiztitl
+cemmana
+cemmani
+cemmati
 cemmecatl
+cemmāctiā
+cemmātl
 cemolotontli
 cempantli
 cempoal ilhuitl
@@ -1066,7 +1128,9 @@ cempohualpa
 cempohualpa ommahtlacpa
 cempohualtiyanquiztli
 cempohualxihuitl
+cempohualxiquipilli
 cempohualxochitl
+cempopolli
 cempoualli
 cempoualli omei
 cempoualli omey
@@ -1094,6 +1158,7 @@ cempoualli onchiquace
 cempouallionce
 cempoualpa
 cempoualtianquiztli
+cempōhualcān
 cempōhualli
 cempōhualli ommahtlāctli
 cempōhualli ommahtlāctli omēyi
@@ -1112,18 +1177,31 @@ cempōhualli onchicuēyi
 cempōhualli onchicōme
 cempōhualli onchiucnāhui
 cempōhualli oncē
+cempōhualpa
 cempōhualtiyānquiztli
+cempōhualxiquipilli
 cempōhualxōchitl
+cemānāhuac
 cemānāhuactli īmachiyo
+cemōlōtl
+cencah
+cencāhua
+cencān
 cenocuilin
 centeconetl
 centetl
 centlachipiniltontli
 centlacolmetztli
+centlahcol
+centlamantli
+centlapactli
 centlapal
+centlecō
 centli
+centlāliā
 centzommayeh
 centzommāyeh
+centzoncān
 centzonmaxtlatl
 centzontecomatl
 centzontlahtoleh
@@ -1131,6 +1209,9 @@ centzontlahtōleh
 centzontli
 centzummaye
 cenxiquipilli
+cenxiquipilli īpan mācuīltzontli
+cenyohual
+cenyā
 cepayahui
 cepayahuitl
 ceppa
@@ -1199,6 +1280,7 @@ chichioalmecapalli
 chichiquiliztzahtzi
 chichiquilli
 chichiquiltopilli
+chichiquiltōpīlli
 chichitl
 chichito
 chichiton
@@ -1214,6 +1296,7 @@ chicoppa
 chicoxxihuitl
 chictzapotl
 chicuace
+chicuaceccān
 chicuacemilhuitl
 chicuacempōhualli
 chicuacentzontli
@@ -1235,10 +1318,12 @@ chicunaui
 chicuppa
 chicuēpōhualli
 chicuētzontli
+chicuēxcān
 chicuēxiquipili
 chicuēxpa
 chicuēyi
 chicuēyilhuitl
+chicōccān
 chicōme
 chicōmilhuitl
 chicōmpōhualli
@@ -1317,6 +1402,7 @@ chiucnauhmictlan
 chiucnauhtiyanquiztli
 chiucnāhui
 chiucnāppa
+chiucnāuhcān
 chiucnāuhmictlān
 chiucnāuhpōhualli
 chiucnāuhtiyānquiztli
@@ -1338,11 +1424,35 @@ chiyancaca
 chiyāhuac
 chiyāhuizzoh
 choca
+chocac
+chocaca
+chocacah
+chocacan
+chocah
+chocahtin
 chocani
+chocanih
+chocaqueh
+chocaya
+chocayah
+chocaz
+chocazqueh
 chocolanamacac
 chocolatl
 cholli
+cholo
 choloa
+choloah
+choloani
+choloanih
+choloaya
+choloayah
+choloh
+cholohca
+cholohcah
+cholohqueh
+choloz
+cholozqueh
 choquiztzahtzi
 choquizzoh
 choquiço
@@ -1406,6 +1516,7 @@ cihuatl
 cihuatlacamichin
 cihuatlacohtli
 cihuatlahtoani
+cihuatlahtoāni
 cihuatlamacazqui
 cihuatontli
 cihuatotolin
@@ -1414,16 +1525,23 @@ cihuayotl
 cihuāhuah
 cihuāichcatl
 cihuāmicqui
+cihuāmiztli
 cihuāoquichtli
 cihuāpilli
 cihuāpiltzintli
 cihuātepitōn
+cihuāteteo
+cihuātetēo
 cihuātl
+cihuātlahtoāni
+cihuātlamacazqui
 cihuātlācamichin
 cihuātlāmpa ehēcatl
 cihuātēuctli
 cihuātōntli
 cihuātōtolin
+cihuātōtolīn
+cihuātōtolīxpopoyōtl
 cihuāyōtl
 cihuāāyōtl
 cihyotl
@@ -1527,7 +1645,7 @@ cocoxqui
 cocoya
 cocoyameh
 cocoyoh
-cocoyonenemi
+cocoyonehnemi
 cocōlli
 cohuatl
 cohuīxin
@@ -1564,6 +1682,7 @@ conētzintli
 conētōntli
 copalcuahuitl
 copalli
+copalxiquipilli
 copichahui
 copichoa
 copichtic
@@ -1605,6 +1724,7 @@ coyolli
 coyolxōchitl
 coyolācatl
 coyomeh
+coyonehnemi
 coyonenemi
 coyoni
 coyopil
@@ -1612,11 +1732,13 @@ coyotl
 coyotontli
 coyulacatl
 coyulli
+coyōnehnemi
 coyōpīl
 coyōtōntli
 cozahtli
 cozamalotl
 cozamatl
+cozauhqui
 cozcacuauhtli
 cozcaquauhtli
 cozcatl
@@ -1624,8 +1746,10 @@ cozehuatl
 coztic
 coztic teocuitlatl
 coztic teocuitlatomin
+coztic teōcuitlatl
 cozticteocuitlaoztotl
 cozticteocuitlaquixtiloyan
+cozticteōcuitlaōztōtl
 coçamalotl
 cua
 cuachcalli
@@ -1640,6 +1764,8 @@ cuacuauhtin
 cuacuauhxolotl
 cuahcuauhtlah
 cuahuitl
+cuahuiztetl
+cuahuiztitl
 cuaitl
 cualani
 cualantli
@@ -1665,6 +1791,8 @@ cuappatolli
 cuappatōlli
 cuappānahuāztōntli
 cuatatapah
+cuatopilli
+cuatōpīlli
 cuauhahtlapalli
 cuauhcalli
 cuauhcaltepiton
@@ -1720,7 +1848,7 @@ cuauhtla
 cuauhtlah
 cuauhtlahcuilōlli
 cuauhtlahnanacatl
-cuauhtlahtoani
+cuauhtlahtoāni
 cuauhtlapanmeh
 cuauhtlapantli
 cuauhtlatilli
@@ -1728,12 +1856,15 @@ cuauhtlaza
 cuauhtli
 cuauhtlohtli
 cuauhtontli
+cuauhtopilli
 cuauhtotolin
 cuauhtotolmeh
 cuauhtzālantli
 cuauhtzātlantli
 cuauhtōntli
+cuauhtōpīlli
 cuauhtōtolin
+cuauhxicalli
 cuauhyotl
 cuauhēhuatl
 cuauhōcotl
@@ -1752,12 +1883,13 @@ cuepa
 cuepcayotl
 cueponi
 cuepōncāyoh
-cuetlachcoyotl
 cuetlachtli
 cuetlauhqui
 cuetlaxmecatl
 cuetlaxochitl
 cuetlaxtli
+cuetlāchconētl
+cuetlāchcoyōtl
 cuetlāchtli
 cuetzpalin
 cuexcochtechīmalli
@@ -1805,7 +1937,6 @@ cuilonyotl
 cuilonyōtl
 cuitaocuilin
 cuitlacalli
-cuitlachcoyotl
 cuitlacochin
 cuitlacochtōtōtl
 cuitlacomitl
@@ -1842,20 +1973,28 @@ cuāchicpalli
 cuāchocuilin
 cuāchpehpechtōntli
 cuāchpāmitl
+cuāhuiztexōchitl
 cuāitl
 cuāuhconētl
+cuāuhtēntetl
+cuāuhxīcalli
 cuāxīcalli
 cuēloā
 cuīcanitōtōtl
 cuīcuītzcatl
 cān
+cē
 cēcemilhuitlahcuilōlli
 cēhualcalli
 cēhualli
 cēhualloh
 cēhuallōtl
+cēl
+cēlti
+cēmeh
 cēmpōhua
 cēntzontli
+cēpan
 cītlalli
 cōcohtli
 cōcohtōn
@@ -1868,15 +2007,18 @@ cōzcacuāuhtli
 cōzcamecatl
 cōztic teōcuitlatl
 cōztic teōcuitlatomīn
-cōzticteōcuitlaōztōtl
+cōāehuatl
+cōāiztlactli
+cōāmichin
+cōātetl
 cōātl
 cōātl īcue
 cōātlantli
+cōātōpīlli
 cōāēhuatl
 diezmo
 discipulo
 discipulomeh
-día
 ecamecatl
 ecapaquauhtla
 ecapatli
@@ -1953,7 +2095,6 @@ epyollotli
 epyōllohtli
 epāhuaxmōlli
 epāhuaxtli
-espada
 español
 etamalli
 etextli
@@ -1968,6 +2109,7 @@ etzapotl
 etzatl
 eua amatl
 evangelistameh
+excan
 exotl
 expa
 exōtl
@@ -1976,6 +2118,7 @@ eyilhuitl
 eyluitl
 ezcohtli
 ezhuia
+ezhuiā
 ezohtli
 eztli
 eztli tlapalli
@@ -1986,17 +2129,20 @@ eço
 firma
 fīrma
 gadana
+gicamas
 granadaxocotl
 ha ha ha
 hamoli
 he
 hecamecatl
 hi hi hi
+hicamas
 hicox
 hicoxcuahuitl
 hicoxcuauhtlah
 hicoxquauhtla
 hicoxquauitl
+hincamas
 hitacatl
 hitetl
 hititl
@@ -2101,6 +2247,7 @@ huitzilli
 huitzilopochcah
 huitzilopochtli
 huitzitzilepyollohtli
+huitzitzilepyōllohtli
 huitzitzilin
 huitzitzilnahualeh
 huitzitzilnahualli
@@ -2160,7 +2307,10 @@ huīlōconētl
 huīlōpīltōntli
 huītz
 huītzilōpōchcah
+huītzitzilnāhualli
 huītōliuhqui
+hícamas
+híncamas
 hīcox huācqui
 hīcox huātzalli
 hīcox tetzōlli
@@ -2169,8 +2319,12 @@ hīcox xoxoctetl
 hīcoxcuahuitl
 hīcoxcuauhtlah
 i
+i-
+iacal
 iahhuayo
+iamox
 iautl
+iaxca
 ic ce
 ic ce metztli in cexihuitl
 ic ce mētztli in cexihuitl
@@ -2217,6 +2371,7 @@ ichcapixqui
 ichcatilmahtli
 ichcatilmatli
 ichcatl
+ichcauh
 ichcayōtl
 ichcaēhuatl
 ichcueitl
@@ -2261,6 +2416,8 @@ ichtequiliztli
 ichtequini
 ichtli
 ici
+icih
+icihhuan
 icihuahuahtzin
 icihuahuan
 icihuauh
@@ -2300,6 +2457,7 @@ icnōtlācayōtl
 icnōyōtl
 icoauh
 icocouh
+icon
 iconeuh
 icox
 icoxcuahuitl
@@ -2415,8 +2573,10 @@ ilnamiqui
 iloti
 ilpia
 ilpiliztli
+im-
 ima
 imacal
+imacehualhuan
 imach
 imachcocol
 imachcocolhuan
@@ -2424,13 +2584,17 @@ imachhuan
 imachiyo
 imamox
 imatzin
+imaxca
 imaxtli
 imazahuan
 imeuh
 imezzo
+imichcauh
 imichhuan
 imilpan
 imiquiz
+imiuh
+immacehualhuan
 immach
 immachhuan
 immazahuan
@@ -2458,6 +2622,8 @@ inchichiuh
 inchihchimal
 inchil
 inchimal
+incih
+incihhuan
 incocohuan
 incocouh
 incuexcoch
@@ -2495,17 +2661,20 @@ inyolloh
 ioc
 ipalnemohuani
 ipan
+ipetl
 ipillohuan
 ipiltzin
 ipotoctli
 ipuñalton
 iquac
+iquauh
 iquillo
 itacatl
 itecon
 itecpanchan
 itecuiyo
 itehuilotca
+itenan
 iteohuan
 iteouh
 itepehuan
@@ -2535,6 +2704,7 @@ itualli
 itzcuauhtli
 itzcuinconetl
 itzcuincoyotl
+itzcuincoyōtl
 itzcuintepolli
 itzcuintin
 itzcuintli
@@ -2572,7 +2742,9 @@ ixehqueh nacacehqueh
 ixhui
 ixhuiuhtli
 ixili
+ixiptlahtli
 ixnotza
+ixoch
 ixocoyouh
 ixoculin
 ixpopoyotl
@@ -2647,6 +2819,7 @@ iztlactli
 iztāc octli
 iztāc teōcuitlatl
 iztāc teōcuitlatomīn
+jimaca
 jlvicac
 jua
 juan
@@ -2657,7 +2830,7 @@ judioquichtli
 judiotlacatl
 judioyotl
 juã
-jícama
+jíncamas
 ketsaltototl
 latin tlahtoliztli
 latin tlahtolli
@@ -2673,6 +2846,7 @@ macahuitl
 macal
 maccuahuitl
 maccuauhtopilli
+macehua
 macehualli
 macehuallotl
 macehualtin
@@ -2694,13 +2868,16 @@ macpalyollohtli
 macpalyollotli
 macuahuimeh
 macuahuitl
+macuauhtopilli
 macuilli
 macuilpa
 macuilpohualli
 macuiltianquiztli
 macuiltiyanquiztli
+macuiltzontli
 macuilxochitl
 mah-
+mahcēhualli
 mahomacalli
 mahomatlatlatlauhtilizcalli
 mahpilchicuace
@@ -2709,6 +2886,7 @@ mahpilli
 mahpiltontli
 mahpiltōntli
 mahpilxocoyotl
+mahpilxōcoyōtl
 mahpilxōcōyotl
 mahtlacpa
 mahtlacpohualli
@@ -2718,15 +2896,21 @@ mahtlactli omeyi
 mahtlactli omome
 mahtlactli once
 mahtlactli onnahui
+mahtlactzontli
 mahtli
+mahtlāccān
 mahtlācpa
 mahtlācpōhualcān
 mahtlācpōhualli
 mahtlācpōhualpa
+mahtlāctli
 mahtlāctli omēyi
 mahtlāctli omōme
+mahtlāctli omōnxiquipilli īpan mahtlāctzontli
 mahtlāctli oncē
 mahtlāctli onnāhui
+mahtlāctzompa
+mahtlāctzoncān
 mahtlāctzontli
 mahtlācxiquipilli
 mahui
@@ -2826,6 +3010,7 @@ maxactli
 maxalli
 maxatl
 maxauhtinemi
+maxca
 maxtlatl
 maxtli
 maxáuhtinemi
@@ -2865,6 +3050,7 @@ mazayotl
 mazāatemitl
 mazācalli
 mazācocolizzoh
+mazācōātl
 mazāmamachtiliztli
 mazāmecatl
 mazāmōlli
@@ -2918,6 +3104,7 @@ menecutli
 meneuctli
 meoctli
 meocuilin
+mepahuax
 mequiyotl
 mequiyōtl
 metl
@@ -3076,6 +3263,9 @@ mitl
 mitl chimalli
 mitz-
 mix
+mixcoatl
+mixcōāc
+mixcōātl
 mixincayotl
 mixoneuatl
 mixtecatl
@@ -3114,12 +3304,14 @@ mo-
 mocal
 mochahuanan
 mochan
+mochcauh
 mochi
 mochichihuan
 mochichiuh
 mochil
 mochimal
 mocih
+mocihhuan
 mocihuahuan
 mocihuauh
 mocnomacehual
@@ -3134,6 +3326,7 @@ molcaxitl
 molli
 moloni
 molotl
+momacehualhuan
 momach
 momachhuan
 momazahuan
@@ -3184,18 +3377,39 @@ moyotl
 mozoma
 moztla
 muztla
+māc-
+mācacapatza
+mācacapānia
+mācapānia
 māccuahuitl
+māccuauhtōpīlli
+mācocototztic
+mācocoxqui
+mācopichoa
+mācopilli
+mācotoctic
+mācotōna
+mācpa
 mācpalco
 mācpalcomōlli
 mācpalli
+mācpalxōchitl
 mācpalyōllohco
 mācpalyōllohtli
+mācpanitl
+mācuaciuhqui
+mācuauhtōpīlli
 mācuililhuitl
 mācuiltzontli
 mācuilxiquipilli
+mācuīlcān
+mācuīlli
 mācuīlpa
 mācuīlpōhualli
 mācuīltiyānquiztli
+mācuīltzompa
+mācuīltzoncān
+mācuīltzontli
 mānāmictli
 māolōlli
 māpohpōhua
@@ -3212,8 +3426,11 @@ mātlatzālantli
 mātlatōntli
 mātlaxiquipilli
 mātlayahualoa
+mātlequiquiztli
+mātlequiquiztlāzqui
 mātlālli
 mātlālzahuatl
+mātzōtzopāztli
 mātōntli
 māyechiquihuitl
 māyēccāntli
@@ -3231,10 +3448,12 @@ mēxah tlapachiuhcāyōtōntli
 mēxihcatl
 mēxihcopa
 mēxihcopahuīc
+mīlcālatl
 mīlehcātōntli
 mīllahcatl
 mīllahtlācatl
 mīllàcatl
+mīlpan
 mīlpanēcatl
 mīltepitōn
 mīltōntli
@@ -3287,10 +3506,12 @@ nahuatlato
 nahuatlatolli
 nahui
 nahuilhuitl
+namictia
 namictli
 namique
 namiqueh
 namiquehqueh
+namiqui
 namox
 nanacatl
 nanahualtin
@@ -3321,6 +3542,7 @@ nauhpohualli
 nauhxihuitl
 naui
 nauilhuitl
+naxca
 nealtilatl
 nealtiloyan
 nech-
@@ -3339,7 +3561,9 @@ necuāmetl
 necuātēquilizteahpaztli
 necuātēquīlōyān
 necuātōlli
+neh
 nehhuatl
+nehnemi
 nehoatl
 nehuatl
 nehuayo
@@ -3358,6 +3582,7 @@ nematcatlāhuānqui
 nemauhtiliztli
 nemekatilistli
 nemi
+nemih
 nemiliztlahcuilōlli
 nemiliztli
 nemini
@@ -3398,14 +3623,43 @@ ni-
 nican
 nican tlacatl
 nicca
+nichoca
+nichocac
+nichocaca
+nichocah
+nichocani
+nichocaya
+nichocaz
+nicholo
+nicholoa
+nicholoani
+nicholoaya
+nicholoh
+nicholohca
+nicholoz
 nicān
 niltze
+ninemi
+nitemo
+nitemoc
+nitemoca
+nitemoh
+nitemoni
+nitemoya
+nitemoz
 nix
+niyol
+niyolca
+niyoli
+niyolini
+niyoliya
+niyoliz
 no-
 nocal
 nocenteconetzin
 nochahuanan
 nochan
+nochcauh
 nochehuatl
 nocheuatl
 nocheztli
@@ -3419,6 +3673,7 @@ nochoctli
 nochpoch
 nochtli
 nocih
+nocihhuan
 nocihuahuan
 nocihuauh
 nococohuan
@@ -3432,9 +3687,12 @@ nohnotza
 nohpalli
 nohuehxolohuan
 nohuehxolouh
+nohuic
+nomacehualhuan
 nomach
 nomachhuan
 nomazahuan
+nomil
 nomilpan
 nomiquiz
 nomiuh
@@ -3446,6 +3704,7 @@ nonan
 nonoch
 nonotza
 nopalli
+nopan
 nopil
 nopiltzin
 noquichcho
@@ -3478,6 +3737,7 @@ nāhuallōtl
 nāhuatlahtoa
 nāhuatlahtoh
 nāhuatlahtōlli
+nāhui
 nāhuilhuitl
 nāmictiā
 nāmictli
@@ -3488,9 +3748,10 @@ nāntōntli
 nānyōtl
 nāppa
 nāppāntli
+nāppōhualli
 nāppōhualpa
+nāuhcān
 nāuhmētztli
-nāuhpōhualli
 nāuhtetl
 nāuhtlamantli
 nāuhtzontli
@@ -3500,6 +3761,7 @@ nāuhōlōtl
 nēch-
 nōcheztli
 nōchnohpalli
+nōchtli
 nōchēhuatl
 oactli
 obispo
@@ -3578,6 +3840,7 @@ ocōcentli
 ocōcenyōllohtli
 ocōcuahuitl
 ocōcuauhtlah
+ocōtōchtli
 ocōzacatl
 ohcalli
 ohmitl
@@ -3611,6 +3874,7 @@ olotl
 oloxochitl
 olīnini
 olōltic nābox
+om-
 ome
 omicalli
 omicaxitl
@@ -3674,6 +3938,8 @@ oncān
 oncē
 ono
 ontlapal
+ontzontli
+ontzontli ipan mahtlacpohualli
 onxihuitl
 oocelo
 ooceloh
@@ -3867,6 +4133,7 @@ pitzotl
 pitzāhuac ehēcatl
 pixahui
 pixca
+piyali
 piyāciuhtoc ehēcatl
 poccuauhtli
 pochocuauhtitech
@@ -3909,11 +4176,13 @@ poxahuac
 poyahua
 poyomicqui
 poyomiqui
+poyōmiqui
 pozolatl
 pozolli
 pozolātl
 pozonallotl
 pozoni
+pozonia
 poztequi
 pozōlli
 pozōnalloh
@@ -4088,17 +4357,20 @@ santo Domingo teōpixqui
 santo padre
 santo padre ytitlan
 semana
-sengkuang
 señora
-singkamas
+sincama
+sincamas
 suchitl
 sushi
+síncama
+síncamas
 tacal
 tacayo
 tacel
 tachcocol
 tachcocolhuan
 tacualli
+tahmol
 tahtin
 tahtli
 tahyotl
@@ -4138,6 +4410,7 @@ tatapatli
 tatapàtli
 tatli
 tatzin
+taxca
 tayo
 te
 te-
@@ -4145,6 +4418,7 @@ teacal
 teachcocol
 teachcocolhuan
 teahpaztli
+teamox
 teca
 tecactli
 tecal
@@ -4158,6 +4432,8 @@ techichi
 techinamitl
 techināmitl
 teci
+tecih
+tecihhuan
 tecihuauh
 tecihui
 tecihuitl
@@ -4252,6 +4528,19 @@ temictli
 temiqui
 temiquiliztli
 temo
+temoc
+temoca
+temocah
+temocan
+temoh
+temohtin
+temoni
+temonih
+temoqueh
+temoya
+temoyah
+temoz
+temozqueh
 temāzcalli
 temō
 temōliztli
@@ -4262,6 +4551,7 @@ tenameh altepetl
 tenamic
 tenamitl
 tenanacatl
+tenantli
 tenantzin
 tenexcalli
 tenexhuia
@@ -4272,6 +4562,7 @@ tenextli
 tenexzalōlōni
 tenihza
 tenitl
+tennamiqui
 tenohpallah
 tenohpalli
 tenotzaliztli
@@ -4284,6 +4575,7 @@ tenzacatl
 tenāmitl
 tenōlli
 teoamoxtli
+teoatl tlahchinolli
 teoaztatl
 teocalcuitlapilli
 teocalli
@@ -4403,23 +4695,28 @@ tepozcactia
 tepozcactli
 tepozcolōlli
 tepozcuacalalahtli
+tepozcuācalalahtli
 tepozhuitztli
 tepozmaccuahuitl
 tepozmaccuahuitl yacapitzahuac
 tepozmaccuauhtepiton
 tepozmaccuauhtontli
+tepozmacuahuitl
 tepozmahquahuitl
 tepozmecatl
 tepozmitl
 tepozmāccuahuitl
+tepozmāccuahuitl yacapitzāhuac
 tepozmāccuauhtepitōn
 tepozmāccuauhtōntli
 tepozmītl
 tepoztlateconi
+tepoztlatecōni
 tepoztli
 tepoztopilli
 tepoztopiltontli
 tepoztzotzopaztli
+tepoztzōtzopāztli
 tepoztēihxilihuānitōn
 tepoztēihxiliuāni
 tepoztōpīlli
@@ -4472,6 +4769,7 @@ tetech ahci
 tetecoloh
 tetecuica ehēcatl
 tetemaloyan
+tetennamiquiliztli
 teteo
 teteoh
 teteoh innan
@@ -4554,7 +4852,15 @@ teōcalco
 teōcalcuitlapilli
 teōcalli
 teōcaltōntli
+teōchichimecatl
+teōchihua
+teōcocoliztli
+teōcuitlacuāuhtēntetl
+teōcuitlacōzcatl
+teōcuitlamāquīztli
+teōcuitlatl
 teōcuitlatlālli
+teōcuitlatēntetl
 teōcuitlaxālli
 teōmicqui
 teōpam māhuizzōcan
@@ -4567,10 +4873,16 @@ teōpixcācalli
 teōpixcāchāntli
 teōpixcānemiliztli
 teōpixcāyōtl
+teōpixqui
+teōtetl
 teōtlachtli
+teōtlalli
+teōxihuitl
 teōyoh
 teōyōtica
+teōyōtl
 teōāmoxtli misal
+teōātl
 theopixqui
 theotl
 ti-
@@ -4578,6 +4890,33 @@ tialli
 tiamicacalli
 tiamiqui
 tianquiztli
+tichoca
+tichocac
+tichocaca
+tichocacah
+tichocacan
+tichocah
+tichocahtin
+tichocani
+tichocanih
+tichocaqueh
+tichocaya
+tichocayah
+tichocaz
+tichocazqueh
+ticholoa
+ticholoah
+ticholoani
+ticholoanih
+ticholoaya
+ticholoayah
+ticholocan
+ticholoh
+ticholohca
+ticholohcah
+ticholohqueh
+ticholoz
+ticholozqueh
 ticiotl
 ticitl
 ticiyotl
@@ -4588,6 +4927,22 @@ tilmahtlahcuilōlli
 tilmahtli
 tilmaocuilin
 tilmatli
+tinemi
+tinemih
+titemo
+titemoc
+titemoca
+titemocah
+titemocan
+titemoh
+titemohtin
+titemoni
+titemonih
+titemoqueh
+titemoya
+titemoyah
+titemoz
+titemozqueh
 titicih
 tititza
 titlantli
@@ -4597,6 +4952,20 @@ titītza
 tix
 tiyamicacalli
 tiyanquiztli
+tiyol
+tiyolca
+tiyolcah
+tiyoli
+tiyolican
+tiyolih
+tiyolini
+tiyolinih
+tiyoliya
+tiyoliyah
+tiyoliz
+tiyolizqueh
+tiyolqueh
+tiyoltin
 tiyāmictli
 tiyāmiquiztli
 tiyānquizco
@@ -4662,6 +5031,7 @@ tlacayeliztli
 tlacayotl
 tlacazolchichihualeh
 tlacaçolchichiuale
+tlacempanahuiā
 tlachcayotl
 tlachialoyan
 tlachihualiztli
@@ -4689,6 +5059,7 @@ tlacotli
 tlacotontli
 tlacpatahtli
 tlactli
+tlacua
 tlacuachin
 tlacuahuac
 tlacuahuac tecpatl
@@ -4741,6 +5112,7 @@ tlahtohcān
 tlahtohcāpillōtl
 tlahtohcātepitōn
 tlahtohcātōntli
+tlahtohcāyōtl
 tlahtohqueh
 tlahtolli
 tlahtolmatiliztli
@@ -4759,6 +5131,7 @@ tlahuilli
 tlahuilloh
 tlahuiztli
 tlahuēlli
+tlahxilli
 tlahyelli
 tlahyelloh
 tlahyelpaquiliztli
@@ -4822,6 +5195,7 @@ tlamāhuizōltica
 tlamātzohualcaxitl
 tlanchoa
 tlancuaitl
+tlancuā
 tlanequiliztli
 tlanextli
 tlani
@@ -4849,6 +5223,7 @@ tlapancalli
 tlapanco
 tlapanmeh
 tlapantli
+tlapaquiyahui
 tlapayahui
 tlapechtli
 tlapetlani
@@ -5020,6 +5395,7 @@ tlequiquiztlalli
 tlequiquiztlaltema
 tlequiquiztlalxoquiyac
 tlequiquiztli
+tlequiquiztlālli
 tletepiton
 tletepitōn
 tletl
@@ -5087,6 +5463,9 @@ tlālāxin
 tlāpcopa ehēcatl
 tlāqueh
 tlāuhcopa ehēcatl
+tlīlcōātl
+tlīlli tlapalli
+tlīltic
 tlīltzapotl
 tlīlxōchchoh
 tlīlxōchihuia
@@ -5101,28 +5480,24 @@ tocatl
 tocatzahualli
 tocatzaoalli
 tocayoh
-tochacahuia
 tochahuanahuan
 tochahuanan
 tochan
-tochanqui
 tochcalli
+tochcauh
 tochconetl
-tochcuitlapilli
 tochichihuan
 tochichiuh
 tochil
 tochimal
 tochin
-tochnacatl
 tochohmitl
 tochomitl
-tochtapazolli
 tochtepiton
-tochtilia
 tochtli
 tochtomahuactlacopahtli
 tocih
+tocihhuan
 tocihuahuan
 tococohuan
 tococouh
@@ -5138,6 +5513,7 @@ toltecah
 toltecatl
 toltecatontli
 toltecayotl
+tomacehualhuan
 tomach
 tomachhuan
 tomacpōl
@@ -5169,7 +5545,6 @@ tonallan
 tonalli
 tonalmio
 tonalmiqui
-tonalmiquiliztli
 tonalmitl
 tonalpohua
 tonalpohualiztli
@@ -5311,6 +5686,7 @@ tzicuini
 tziktli
 tzilacayohtli
 tzilacayutli
+tzilacāyohtli
 tzimmicqui
 tzinacan
 tzinacantli
@@ -5354,6 +5730,7 @@ tzāhualli
 tzīcatepētl
 tzīntamalli
 tzīnti
+tzīntlantli
 tzīntli
 tçoaztli
 tānahtli
@@ -5374,6 +5751,8 @@ tēcuilhuitōntli
 tēcuāmpiltōntli
 tēcuānconētl
 tēcuāncōāconētl
+tēcuāncōātl
+tēcuāni
 tēcuātēquiliztli
 tēcuātēquīlōyān
 tēicnōcāhualiztli
@@ -5399,41 +5778,60 @@ tēmictli
 tēmpactli
 tēnemilizihcuiloāni
 tēnhuitztli
+tēnnāmiqui
+tēntetl
 tēntli
 tēntzontli
+tēnyōtl
+tēnzacatl
 tēnāmic
 tēnāntīliztli
 tēoquichhui
 tēpahtiāni
 tēpōhualāmatl
 tēteoh īnnān
+tētēnnāmiquiliztli
 tēuctlacōzauhcōāconētl
+tēuctlacōzauhqui
 tēuctli
+tēīxcuepani
 tīcitl
 tīciyōtl
 tītlanōni
 tīzatlālli
+tōchanqui
 tōchcalli
 tōchconētl
+tōchcuitlapilli
+tōchin
+tōchnacatlt
 tōchohmitl
 tōchtapazōlli
 tōchtepitōn
+tōchtilia
 tōchtomāhuactlacōpahtli
+tōchācahuia
 tōcāyoh
 tōlicpalli
+tōnalchichicaquilitl
 tōnalco
 tōnalehēcatl
 tōnalli
 tōnallān
+tōnalmiqui
+tōnalmiquiliztli
 tōnalmītl
 tōnalpōhua
 tōnalpōhualiztli
 tōnalpōhualli
 tōnalpōhualoni
 tōnalpōuhqui
+tōnalāmatl
 tōnameyōtl
+tōnatiuh
 tōnatiuh īaquiyampa ehēcatl
 tōnatiuhyoh
+tōpīleh
 tōtoca ehēcatl
 tōtolcalli
 tōtolconētl
@@ -5442,6 +5840,7 @@ tōtolmōlli
 tōtoltemōlli
 tōtoltepancalli
 tōtoltepōhua
+tōtoltetl
 tōtoltetl īcōztica
 tōtoltetl ītehuilotca
 tōtoltetl īyiztāca
@@ -5581,6 +5980,14 @@ xicalli
 xicaltecomatl
 xicama
 xicamatl
+xichoca
+xichocacan
+xichocani
+xichocanih
+xicholo
+xicholoani
+xicholoanih
+xicholocan
 xicmecayotl
 xicocuitla ocotl
 xicocuitlaocochiuhqui
@@ -5612,14 +6019,27 @@ xinachyotl
 xinola
 xipe totec
 xipintontli
+xippohualli
+xippōhualli
 xiquipilli
+xiquipilnāmacac
+xiquipilquetza
+xiquipilquēntia
 xiquipiltontli
+xiquipiltēma
+xiquipiltōlōtl
+xiquipiltōntli
+xitemo
+xitemocan
+xitemoni
+xitemonih
 xitetecuica ehēcatl
 xitini
 xitomacihuiztli
 xitomatl
 xiuhcactli
 xiuhhuitzolli
+xiuhpohualli
 xiuhtlacuilo
 xiuhtlahcuiloh
 xiuhtlahcuilohqueh
@@ -5628,16 +6048,20 @@ xiuhtotonacocheh
 xiuhtotonacochtli
 xiuhtototic
 xiuhtototl
+xiuhtōtōtl
 xiuhuiztli
 xiuitl
 xixicuin
+xiyoli
+xiyolican
+xiyolini
+xiyolinih
 xochatl
 xochichinancalli
-xochicoatl
+xochicōātl
 xochihcualcuahuitl
 xochihcualcuauhtlah
 xochihcualli
-xochihtli
 xochihua
 xochimanque
 xochimanqueh
@@ -5648,11 +6072,7 @@ xochimiztli
 xochincuahuitl
 xochinquauitl
 xochio
-xochipalaquia
-xochipalcacahuatl
-xochipalhuia
 xochipalli
-xochipalpa
 xochipaltic
 xochiqualquauhtla
 xochiqualquauitl
@@ -5691,6 +6111,7 @@ xonacatl
 xopan
 xopantlah
 xopilchicuace
+xopilchicuacē
 xopilli
 xoquechtli
 xotl
@@ -5732,11 +6153,19 @@ xīpēmeh
 xōchichināncalli
 xōchihcualcuahuitl
 xōchihcualcuauhtlah
+xōchihcualli
 xōchihcualloh
+xōchihtli
 xōchimicqui
 xōchinanacatl
 xōchincuīcatl
 xōchioculin
+xōchipalaquia
+xōchipalcacahuatl
+xōchipalhuia
+xōchipalli
+xōchipalpa
+xōchipaltic
 xōchiātl
 xōchtic
 xōchāhuātl
@@ -5790,6 +6219,7 @@ yaotl
 yaotlatquichihchihua
 yaotlatquichihchiuhqui
 yaotlatquitl
+yaotēnco
 yaoyotl
 yaoyutl
 yauh
@@ -5840,9 +6270,11 @@ yei
 yei teopixcatlatoani
 yeliztli
 yepohualli
+yepohualli ommahtlactli
 yequihtoa
 yetl
 yey
+yeyi
 yhiyutl
 yhuitl
 yhyyotl
@@ -5876,21 +6308,33 @@ yohualtototl
 yohualtētzāhuitl
 yohuatzinco
 yol
+yolca
+yolcah
 yolcame
 yolcameh
 yolcatl
 yolcatlaxcalli
 yoli
+yolican
+yolih
 yolilizatl
 yoliliztlaxcalli
 yoliliztli
+yolini
+yolinih
+yoliya
+yoliyah
+yoliz
+yolizqueh
 yollohtli
 yollohxochitl
 yollotl
 yollotli
 yolloxochitl
 yolpaqui
+yolqueh
 yolqui
+yoltin
 youac
 youac moteittitia
 youalauachtli
@@ -5935,9 +6379,11 @@ yztatl
 yztlacatemictli
 yztlacatlacuilo
 yāōcalli
+yāōmiqui
 yāōtlatquichihchīhua
 yāōtlatquichihchīuhqui
 yāōtlatquitl
+yāōtēnhuah
 yāōtētzāhuitl
 yāōyōtl
 yēcātl
@@ -5964,6 +6410,7 @@ zacacuēitl
 zacamecatl
 zacamilli
 zacamiztli
+zacamīlli
 zacananacatl
 zacanochtli
 zacaocuilin
@@ -5983,6 +6430,7 @@ zahui
 zahzacatlah
 zan
 zanahoria
+zancē
 zapalotl
 zayolin
 zazaliuhyantli
@@ -5993,6 +6441,7 @@ zohuatl
 zohuatōntli
 zolcanauhtli
 zolcoatl
+zolcōātl
 zolin
 zolnacatl
 zoltetl
@@ -6077,9 +6526,12 @@ zōyātānahtōntli
 çã
 ìquāc
 āc
+ācachapolin
 ācachiquihuitl
+ācacoyōtl
 ācacpalli
 ācah
+ācaicpalli
 ācalcuexcochtli
 ācalli
 ācaltica nemini
@@ -6087,6 +6539,8 @@ zōyātānahtōntli
 ācalyacatl
 ācatl
 ācatlah
+ācatlan
+ācayotl
 ācayōtl
 ācelloh
 āchcōcōlli
@@ -6095,9 +6549,12 @@ zōyātānahtōntli
 ācpatl
 ācuetzpalin
 ācuezcomatl
+ācōātl
 āehēcatl
 āhuacacuahuitl
+āhuacamīlli
 āhuacamōlli
+āhuacaxōchitl
 āhuacuahuitl
 āhuacuauhtlah
 āhuacuauhtomatl
@@ -6132,12 +6589,14 @@ zōyātānahtōntli
 āmatlahcuilōlli
 āmatzcalli
 āmictlān
+āmiqui
 āmiquiliztli
 āmiquini
 āmopōuhqui
 āmoxcalli
 āmoxihcuiloh
 āmoxmachiyōtl
+āmoxnamacac
 āmoxpōhua
 āmoxpōhualiztli
 āmoxpōhuani
@@ -6146,12 +6605,14 @@ zōyātānahtōntli
 āmoxtlahcuiloh
 āmoxtli
 āmoxtōntli
+āmāc
 āmāitl
 āmēyalco
 āmēyallah
 āmēyalli
 āmēyaltōntli
 āmēyalātl
+āmīlli
 āmīlpampa ehēcatl
 āna
 ānepantlah
@@ -6159,9 +6620,11 @@ zōyātānahtōntli
 ānālco
 ānāntli
 āpachtli
+āpan
 āpopozōquillōtl
 āpozōnalli
 āpozōnallōtl
+āpīzmiqui
 āpīzmiquiliztli
 āpīzmiquini
 āpōctli
@@ -6184,6 +6647,7 @@ zōyātānahtōntli
 ātōlli
 ātōnalittalōni
 ātōnalmachiyōtl
+ātōtolin
 ātōyāpitzactli
 ātōyāpitzactōntli
 ātōyātetl
@@ -6219,12 +6683,15 @@ zōyātānahtōntli
 āyōneuctli
 āyōtapalcatl
 āyōtl
+āzacani
+āzcacoyōtl
 āzcahtlapalli
 āzcamōlli
 āzcapōtzalli
 āzcaxālli
 āzcayōhua
 āōztōc
+Ēxcān Tlahtōlōyān
 ēhua
 ēhuahuahuāna
 ēhuahuia
@@ -6256,6 +6723,7 @@ zōyātānahtōntli
 ētetl
 ētlamantli
 ēxcāmpa nacaceh machiyōtl
+ēxcān
 ēxpa
 ēyi
 ēyilhuitl
@@ -6270,8 +6738,11 @@ zōyātānahtōntli
 īncinteōhuān
 ītztic ehēcatl
 īxcuahmōlli
+īxcuepa
 īxeh
 īxeh nacaceh
+īxiptlahti 'to be a representative'
+īxiptlahti 'to represent'
 īxocuilin
 īxpochīnqui tilmahtli
 īxtelolohtli
@@ -6283,6 +6754,7 @@ zōyātānahtōntli
 īxāyōyoh
 īyeliz in Dios
 īyeliztzin in Dios
+ōccān
 ōctli
 ōhuālmoman mētztli
 ōhuēyix mētztli
@@ -6293,6 +6765,7 @@ zōyātānahtōntli
 ōlli
 ōlloh
 ōlōxōchitl
+ōme
 ōmilhuitl
 ōmpa
 ōmpāntli
@@ -6301,9 +6774,19 @@ zōyātānahtōntli
 ōntetl
 ōntlamantli
 ōntzontli
+ōntzontli īpan caxtōlpōhualli
+ōntzontli īpan mahtlācpōhualli
 ōnxihuitl
 ōppa
 ōpōchehēcatl
 ōyahualiuh mētztli
 ōztōmēcatl
+→ Cebuano: singkamas
+→ English: jicama
+→ English: singkamas
+→ Spanish: jícama
 → Spanish: temazate
+→ Tagalog: hikama
+→ Tagalog: singkamas
+→ Yogad: singkamas
+→? Malay: sengkuang

@@ -5,11 +5,10 @@
 (a)ki kardot fog/ránt/ragad, kard által vész
 (afrikai) törpepapagáj
 (agriculturalist) mezőgazdász
-(also figuratively)[megdönt
+(also figuratively)megdönt
 (annyi …) amennyi
 (anyagi/pénzügyi/gazdasági) érdek/érdekeltség
 (approx.) fánk
-(approx.) púp a hátán
 (apró/aprólékos) részletek
 (arány- és) szögtartó
 (asztali) kiadványszerkesztés
@@ -79,7 +78,6 @@
 (gépi) lóerő
 (hagyományos) kínai gyógyászat
 (haladási) irány
-(halvány) fogalmam/sejtelmem/gőzöm sincs
 (helyette, más helyett) megír
 (hirtelen) szívmegállás/szívleállás
 (hivatali) munkaidő
@@ -141,7 +139,6 @@
 (mély) együttérzést tanúsít
 (nagy / talpas / földön álló) ingaóra
 (nagy) macsó
-(nagy) nyugati egyházszakadás
 (nagy) súlyt fektet/helyez
 (nagy) vízforraló
 (nagyon/igazán) megköszönném
@@ -164,7 +161,6 @@
 (recidivous) visszaeső
 (relocate, resettle) kitelepít
 (roundaboutness) kerülő-
-(rácsos) gyerekágy
 (régi) brit mértékrendszer szerinti
 (saját/szabad) belátása/megítélése szerinti
 (smallholder) gazdálkodó
@@ -180,6 +176,7 @@
 (számlaképes) vállalkozó
 (szárazföldi) ászka
 (szíves) engedelmével/engedelmeddel
+(szó nélkül/nyomtalanul) ghostingol
 (szó)összetétel elő- vagy utótagjaként élő alak
 (szülői) felügyeleti jog
 (súlyos) bűncselekmény
@@ -237,7 +234,6 @@
 -adal
 -adalom
 -adik
--adikon
 -adikus
 -adozik
 -adzik
@@ -263,6 +259,7 @@
 -alakú
 -algia
 -alkatú
+-alkodik
 -alkotás
 -all
 -allik
@@ -416,7 +413,6 @@
 -edelem
 -edezik
 -edik
--ediken
 -edzik
 -edék
 -eg
@@ -439,6 +435,7 @@
 -el
 -elek
 -elem
+-elkedik
 -ell
 -ellenes
 -ellenesség
@@ -840,8 +837,6 @@
 -oda
 -odalom
 -odik
--odik/-adik/-edik/-ödik hatványon
--odikon
 -og
 -ogat
 -oid
@@ -1139,6 +1134,7 @@
 -ér
 -éria
 -ért
+-ért cserébe
 -és
 -ész
 -észet
@@ -1164,12 +1160,12 @@
 -öd
 -öde
 -ödik
--ödiken
 -ödzik
 -ög
 -öget
 -ök
 -öl
+-ölködik
 -ölt
 -ölés
 -ölő
@@ -1240,10 +1236,13 @@
 100-as
 100.
 1000
+1000 méter
 1000-es
+10000 méter
 11-kor
 11thMUSE
 12-kor
+1500 méter
 17.
 1970-es
 1980-as
@@ -1272,11 +1271,13 @@
 4-kor
 4.
 40-es
+400 méter
 5-kor
 5-ös
 5.
 50-es
 500-as
+5000 méter
 5000-es
 5’ irányban
 6-kor
@@ -1290,6 +1291,7 @@
 8-as
 8-kor
 80-as
+800 méter
 9-es
 9-kor
 90-es
@@ -1433,16 +1435,27 @@ Almási
 Almáskamarás
 Alpok
 Alsó-Ausztria
+Alsó-Egyiptom
 Alsó-Guinea
 Alsó-Kalifornia
+Alsó-Normandia
 Alsó-Szilézia
 Alsó-Szászország
+Alsóberecki
+Alsódobsza
+Alsógagy
+Alsómatucsina
+Alsómocsolád
 Alsónémedi
 Alsópetény
 Alsópáhok
+Alsóregmec
 Alsószenterzsébet
 Alsószentiván
 Alsószentmárton
+Alsószuha
+Alsótelekes
+Alsóvadász
 Alsózsolca
 Alsóörs
 Alsóújlak
@@ -1457,7 +1470,6 @@ Ambrózfalva
 Amerika
 Amerika-ellenes
 Amerika-ellenesség
-AmerikaDél-AmerikaÉszak-Amerika
 Amerikai Egyesült Államok
 Amerikai Szamoa
 Amerikai Virgin-szigetek
@@ -1536,6 +1548,7 @@ Annus
 Annácska
 Ansan
 Antal
+Antalfalu
 Antananarivo
 Antarktika
 Antarktisz
@@ -1555,6 +1568,7 @@ Apolló-lepke
 Apollón
 Apollónia
 Apollóniusz-kör
+Apostille tanusítvány
 Apostoli Szentszék
 Appenninek
 Appennini-félsziget
@@ -1661,6 +1675,7 @@ BHT
 BKV
 BMW
 BMW-s
+Babics
 Babilon
 Babilónia
 Babits
@@ -1786,7 +1801,9 @@ Banglades
 Bangladesi Népi Köztársaság
 Baracska
 Baranya
+Baranyabán
 Baranyaszentgyörgy
+Baranyaszentistván
 Baranyi
 Barbados
 Barbara
@@ -1845,6 +1862,7 @@ Belgrád
 Belize
 Bella
 Bellingshausen-tenger
+Bellye
 Beloiannisz
 Belovár
 Belső-Hebridák
@@ -2041,6 +2059,7 @@ Bornemisza
 Borneó
 Boros
 Boroszló
+Borosznó
 Borsfa
 Borsod-Abaúj-Zemplén
 Borsodbóta
@@ -2195,6 +2214,7 @@ Béci
 Bécs
 Bécsben
 Bécsújhely
+Béda
 Békés
 Békéscsaba
 Békésszentandrás
@@ -2389,6 +2409,7 @@ Csengele
 Csenger
 Csengtu
 Csepel
+Csepin
 Csepreg
 Cserba
 Cserhátszentiván
@@ -2508,6 +2529,7 @@ Darwin
 Darwin-díj
 Darwin-nandu
 Darwin-pinty
+Darázs
 Davao régió
 David
 Davy-lámpa
@@ -2558,6 +2580,7 @@ Diósjenő
 Dnyeper
 Dnyeszter
 Dnyeszter-mellék
+Dnyeszterfehérvár
 Dnyipro
 Dobos
 Doboz
@@ -2598,6 +2621,7 @@ Doveri-szoros
 Down-szindróma
 Dr.
 Drakula
+Drenye
 Drezda
 Drinápoly
 Dráva
@@ -2638,6 +2662,7 @@ Duna–Tisza köze
 Dunába
 Dunán
 Dunántúl
+Dunát
 Dunát lehetne rekeszteni
 Durrës
 Duránc
@@ -2657,6 +2682,7 @@ Dzsibuti Köztársaság
 Dzsidda
 Dzsingisz kán
 Dzsudzsák
+Dzsungária
 Dzsálandhár
 Dán Királyság
 Dánia
@@ -2664,6 +2690,8 @@ Dánia-Norvégia
 Dániel
 Dánszentmiklós
 Dárajavaus
+Dárda
+Dárdai
 Dávid
 Dávid-csillag
 Dâmbovița
@@ -2707,6 +2735,7 @@ Dömötör
 Döröske
 Dötk
 Dúzs
+D’Alembert-elv
 E
 E-dúr
 E-vitamin
@@ -2817,6 +2846,7 @@ Enns
 Enyedi
 Enying
 Enéh
+Enúma elis
 Eperjes
 Epheszosz
 Epimétheusz
@@ -2843,6 +2873,7 @@ Erk
 Erkel
 Erlenmeyer-lombik
 Ernő
+Ernőháza
 Ervin
 Erzse
 Erzsi
@@ -2987,6 +3018,7 @@ Ferenc
 Ferenc József-föld
 Ferenc-rend
 Ferenc-rendi
+Ferencfalva
 Ferencke
 Ferencszállás
 Ferencváros
@@ -3016,6 +3048,7 @@ Filemon
 Filippínó-tenger
 Filippínó-árok
 Finn Köztársaság
+Finn Nagyhercegség
 Finn-öböl
 Finnország
 Firenze
@@ -3134,6 +3167,7 @@ Gangesz-part
 Gangtok
 Gantt-diagram
 Gantt-féle folyamatábra
+Gara
 Garabonc
 Gascogne
 Gauss-eloszlás
@@ -3205,12 +3239,13 @@ Gorsti
 Gotfrid
 Grand Canyon
 Graz
-Gregorian calendar monthseditjanuárfebruármárciusáprilismájusjúniusjúliusaugusztusszeptemberoktóbernovemberdecember
+Gregorian calendar monthsedit
 Grenada
 Grenadine-szigetek
 Grenadine-szigeteki
 Griffendél
 Grigorij
+Grobosinc
 Groznij
 Groznijt
 Grábóc
@@ -3255,6 +3290,7 @@ Gyula
 Gyulafehérvár
 Gyulai
 Gyulavári
+Gyurgyenovác
 Gyurgyevó
 Gyuri
 Gyurkovics
@@ -3273,6 +3309,7 @@ Gyöngyösi
 Gyöngyöspata
 Gyönk
 Györe
+Györfi
 György
 Györgyi
 Györki
@@ -3314,9 +3351,11 @@ Görög Köztársaság
 Görög ortodox egyház
 Görögország
 Göteborg
+Gúnya
 H
 H-dúr
 HIV-pozitív
+HPV
 HTML
 HTML5
 HTTP-süti
@@ -3406,6 +3445,7 @@ Hawaii
 Hawaii-szigetek
 Hawaii-szigeteki
 Hebridák
+Hecron
 Hedvig
 Hegedűs
 Hegyhátszentjakab
@@ -3420,6 +3460,7 @@ Hekaté
 Hektór
 Helené
 Helga
+Hellészpontosz
 Helsinki
 Helvécia
 Helyiérdekű Vasút
@@ -3433,6 +3474,7 @@ Herceg-Bosznia
 Herceghalom
 Hercegovina
 Hercegszántó
+Hercegszöllős
 Hercules
 Herend
 Herkules
@@ -3552,6 +3594,7 @@ Huron-tói
 Huszt
 Huszti
 Huszváros
+Huygens-elv
 Hvidovre
 Hydra
 Hyundai
@@ -3619,7 +3662,9 @@ Ibrail
 Ibrány
 Ibus
 Ibuska
+Ibéria
 Ibériai-félsziget
+Ica
 Icskeria
 Ida
 Idaho
@@ -3654,6 +3699,7 @@ Ilma
 Ilona
 Ilonka
 Ilosva
+Ilyvó
 Imi
 Immánuel
 Imola
@@ -3733,6 +3779,8 @@ Isztimér
 Isztria
 Iszán
 Itália
+Ivankiv
+Ivankivi járás
 Ivano-Frankivszk
 Ivanovics
 Ivett
@@ -3783,7 +3831,6 @@ Japán-árok
 Japánban
 Java
 Jeges-tenger
-Jeges-tenger · Indiai-óceán [edit]
 Jehova
 Jehova Tanúi
 Jekatyerinburg
@@ -3834,6 +3881,7 @@ Julinka
 Juliska
 Juliánna
 Juneau
+Junin-vöcsök
 Jupiter
 Jusztinosz
 Jutka
@@ -4100,9 +4148,11 @@ Kettős-Körös
 Kevermes
 Kharón
 Kharübdisz
+Kheopsz
 Kijev
 Kijevi Rusz
 Kijiv
+Kilgore
 Kilikia
 Kilimandzsáró
 Kimmeridgei
@@ -4160,6 +4210,7 @@ Klementin
 Klementina
 Kleopátra
 Kljazma
+Klotild
 Klára
 Klárafalva
 Knudsen-áramlás
@@ -4183,6 +4234,7 @@ Kolumbiai Köztársaság
 Kolumbusz Kristóf
 Komi Köztársaság
 Komiföld
+Komintern
 Komló
 Komlósd
 Komlósi
@@ -4223,6 +4275,7 @@ Korán
 Korónisz
 Kos
 Kos (csillagkép)
+Koska
 Kossuth
 Kossuth-díj
 Koszovó
@@ -4245,6 +4298,7 @@ Krajna
 Krajova
 Krakkó
 Krassó-Szörény
+Krasznahorkai
 Krasznaja Jaruga
 Krasznaja Jaruga-i járás
 Krasznodari határterület
@@ -4309,6 +4363,8 @@ Kuvaitváros
 Kyusakamoto
 KÜNY
 Kába
+Kácsfalu
+Kádas
 Kádár
 Káli
 Kálmán
@@ -4406,6 +4462,7 @@ Közép-szibériai-fennsík
 Közép-Ázsia
 Középfölde
 Közös Piac
+Kúla
 Kübekháza
 Kübelé
 Kükládok
@@ -4427,6 +4484,7 @@ LC
 LE
 LED
 LMBT
+LMBTQ+ LMTBQ+
 LMP
 LMP-beli
 LMP-s
@@ -4436,6 +4494,7 @@ LSD-zik
 La Manche
 La Pérouse-szoros
 LaVey-i sátánizmus
+Laca
 Laci
 Lacid
 Lacika
@@ -4470,6 +4529,7 @@ Lappföld
 Laptyev-tenger
 Laputa
 Lars Christensen-föld
+Laskafalu
 Lasztonya
 Latabár
 Latabárék
@@ -4478,6 +4538,8 @@ Laura
 Lausitz
 Lavrov
 Lazio
+Le Chatelier-elv
+Le Chatelier–Braun-elv
 Leandrosz
 Lee
 Lego
@@ -4486,6 +4548,7 @@ Lehár-operett
 Leiden
 Leila
 Lejla
+Lemberg
 Lengyel
 Lengyel Köztársaság
 Lengyelország
@@ -4567,6 +4630,7 @@ Louisiana
 Lovas
 Lovászi
 Lublóvár
+Luca
 Lucanus
 Lucifer
 Luciusz
@@ -4629,6 +4693,7 @@ MTI
 MTK
 MVJK
 Maas
+Maca
 Macedónia
 Macedónia Volt Jugoszláv Köztársaság
 Madagaszkár
@@ -4749,6 +4814,7 @@ Maris
 Mariska
 Marit
 Mariupol
+Mariánc
 Markov-lánc
 Marokkó
 Maros
@@ -4986,6 +5052,8 @@ Moncsi
 Mongólia
 Monopoly
 Monor
+Monoszló
+Monroe-elv
 Mont Blanc
 Montenegró
 Montserrat
@@ -4994,6 +5062,7 @@ More about goulash in Encyclopedia of Jewish Food by Gil Marks
 Mormon
 Morpheusz
 Morva
+Morvai
 Morvaország
 Mosoni-Duna
 Mosonmagyaróvár
@@ -5016,6 +5085,7 @@ Munkácsy
 Munkácsyak
 Munkácsyk
 Munténia
+Muracsány
 Murakeresztúr
 Muriel
 Murmanszk
@@ -5065,6 +5135,7 @@ Mátraballa
 Mátraderecske
 Mátrafüred
 Mátraháza
+Mátrai
 Mátramindszent
 Mátranovák
 Mátraszele
@@ -5103,6 +5174,7 @@ Mózes negyedik könyve
 Mózes ötödik könyve
 Mózes-tábla
 Möbius-szalag
+Mönchengladbach
 Múlt Karácsonyok Szelleme
 Múzsa
 Mükéné
@@ -5191,6 +5263,8 @@ Nagyvázsony
 Nagyék
 Nagyér
 Nahodka
+Nakba
+Namur
 Namíbia
 Namíbiai Köztársaság
 Nancsang
@@ -5232,11 +5306,13 @@ Nemzetiszocialista Német Munkáspárt
 Nemzetközi Bíróság
 Nemzetközi Olimpiai Bizottság
 Nemzetközi Valutaalap
+Nemzetközi Űrállomás
 Nepjida
 Neptunusz
 Nepál
 Nepáli Szövetségi Demokratikus Köztársaság
 Neumann
+Neumann-elv
 Nevis
 New York
 New York-i
@@ -5257,6 +5333,7 @@ Nikol
 Nikolett
 Nikoletta
 Nikolettocska
+Nikápoly
 Niké
 Nimród
 Nina
@@ -5375,6 +5452,7 @@ Németországi Szövetségi Köztársaság
 Népliget
 Népszava
 Népszövetség
+Névna
 Nílus
 Nógrád
 Nógrádkövesd
@@ -5416,6 +5494,8 @@ Olaszország
 Olaszországban
 Olenyoki
 Oleski
+Oli
+Olika
 Olivér
 Olomouci kerület
 Olt
@@ -5520,6 +5600,7 @@ Palau
 Palaui Köztársaság
 Palcsó
 Palcsóék
+Palearktisz
 Palesztin Autonóm Területek
 Palesztin Autonómia
 Palesztin Állam
@@ -5565,6 +5646,7 @@ Pankasz
 Panna
 Pannon-tenger
 Pannonhalma
+Panyit
 Paocsi
 Paoting
 Paotou
@@ -5583,6 +5665,7 @@ Pascal-féle csigagörbe
 Past 3rd sg
 Past1st p. sg.
 Patagónia
+Patai
 Patak
 Pataki
 Patapoklosi
@@ -5591,6 +5674,7 @@ Patrik
 Patroklosz
 Patrícia
 Patyomkin-falu
+Pauli-elv
 Pegazus
 Peking
 Peloponnészosz
@@ -5628,6 +5712,7 @@ Petropavlovszk-Kamcsatszkij
 Petrovics
 Petrozavodszk
 Petrozsény
+Petróc
 Petya
 Petőfi
 Petőfibánya
@@ -5669,6 +5754,7 @@ Pirike
 Pirit
 Piroska
 Piroska és a farkas
+Pisa
 Pisont
 Pista
 Pisti
@@ -5693,9 +5779,11 @@ Plótinos
 Plótinosz
 Plútó
 Pnüx
+Pocsai
 Podgorica
 Podhale
 Podólia
+Pogorács
 Pogányszentpéter
 Pohaj-tenger
 Poisson-eloszlás
@@ -5708,6 +5796,7 @@ Polyákék
 Polühümnia
 Pomáz
 Pongrác
+Pongó
 Pontosz
 Pornóapáti
 Poroszország
@@ -5771,11 +5860,13 @@ Pál
 Pál első levele a korinthosziakhoz
 Pál levele az epheszosziakhoz
 Pál második levele a korinthosziakhoz
+Pálffy
 Pálfi
 Pálfi-fakó
 Pálfiszeg
 Pálháza
 Pálma
+Pálmai
 Pált
 Pán
 Pán Péter szindróma
@@ -5792,6 +5883,7 @@ Páskán
 Pásztó
 Pázmánd
 Pázmány
+Páznán
 Pécel
 Pécs
 Pécsen
@@ -5800,6 +5892,7 @@ Pécsi
 Pécsvárad
 Pégaszosz
 Pék
+Pélmonostor
 Péntek
 Pér
 Péter
@@ -5866,6 +5959,7 @@ Reykjavík
 Reynolds-féle szám
 Rezi
 Rezső
+Rhode Island
 Rhuddani
 Rhône
 Richter-skála
@@ -5892,6 +5986,7 @@ Roland
 Rolandka
 Rolcsi
 Roli
+Rolland-vöcsök
 Rolle-féle gyöktétel
 Romanov
 Romhány
@@ -5965,6 +6060,7 @@ Rétság
 Révai
 Révfülöp
 Révleányvár
+Rézmál
 Róbert
 Róbertke
 Rókus
@@ -6002,10 +6098,14 @@ SMS-ben
 SMS-ezik
 SMS-t
 SNI
+SUP-ozás
 SZDSZ
+SZKP
 SZSZK
 SZSZKSZ
 Sacher-torta
+Saci
+Sacika
 Saint Kitts és Nevis
 Saint Kitts és Nevis-i
 Saint Lucia
@@ -6060,7 +6160,9 @@ Santoni
 Santou
 Santung
 Sanyi
+Sapir–Whorf-hipotézis
 Sargasso-tenger
+Sari
 Sarkad
 Sarkadkeresztúr
 Sarkcsillag
@@ -6174,6 +6276,7 @@ Spanyol-Amerika
 Spanyolország
 Spartacus
 Spelling of nyomozóiroda at e-nyelv.hu
+Spock
 Spárta
 Srí Lanka
 Srí Lanka-i
@@ -6188,7 +6291,9 @@ Stefánia-vagdalt
 Steller-oroszlánfóka
 Stockholm
 Storojineti
+Stralsund
 Strelicz
+Stridóvár
 Stájerlakanina
 Stájerország
 Sukoró
@@ -6261,6 +6366,7 @@ Szatmár
 Szatmárcseke
 Szatmári
 Szatmárnémeti
+Szatnica
 Szatta
 Szaturnusz
 Szatymaz
@@ -6279,6 +6385,7 @@ Szegvár
 Szekeres
 Szekszárd
 Szeleste
+Szemelce
 Szemere
 Szendehely
 Szendrő
@@ -6353,6 +6460,7 @@ Szentpéterfölde
 Szentpéterszeg
 Szentpétervár
 Szentpéterúr
+Szentszék
 Szentvit
 Szentírás
 Szentírás-beli
@@ -6361,7 +6469,6 @@ Szerb Köztársaság
 Szerbia
 Szerbia és Montenegró
 Szerencs
-Szerencsekerék
 Szeret
 Szergej
 Szergiusz
@@ -6428,6 +6535,7 @@ Szojuz
 Szolnok
 Szolyva
 Szombathely
+Szomolány
 Szomália
 Szomáliai Szövetségi Köztársaság
 Szondi-teszt
@@ -6442,6 +6550,7 @@ Szt.
 Sztroganov-bélszín
 Sztyerlitamak
 Sztálin
+Sztálin-orgona
 Sztára
 Sztüx
 Szucsien
@@ -6546,6 +6655,7 @@ Szűz
 Szűz Mária
 Szűz Máriá-s
 Szűz tornya
+Szűz-torony
 Szűzanya
 Ságvár
 Sámson
@@ -6669,6 +6779,7 @@ Teleszforosz
 Teleszphorosz
 Telkes
 Telychi
+Temes
 Temesvár
 Temesvárott
 Template:list:Latin script letters
@@ -6860,6 +6971,7 @@ Tripoli
 Tripura
 Trockij
 Tromsø
+Truman-elv
 Trák-tenger
 Trója
 Tucson
@@ -6984,6 +7096,7 @@ VAGY
 VAGY-művelet
 VHS
 VHS-es
+Vadnyugat
 Vaduz
 Vadász
 Vadászebek
@@ -7056,6 +7169,7 @@ Viktória
 Viktória-föld
 Viktória-tó
 Vili
+Villyó
 Villány
 Vilmos
 Vilnius
@@ -7065,6 +7179,7 @@ Vince
 Vindornyalak
 Viola
 Visegrád
+Viskolc
 Visnu
 Visznek
 Visztula
@@ -7122,6 +7237,7 @@ Végh
 Vénusz
 Vénusz-felszín
 Vép
+Vérbánya
 Vértes
 Vértessomló
 Vértest
@@ -7183,7 +7299,6 @@ Wilson-fülemülerigó
 Wilson-lile
 Wilson-tétel
 Windhoek
-With ‑(o
 Wolff-cső
 Wolfgang
 Worcestershire-mártás
@@ -7323,6 +7438,7 @@ Zánka
 Zétény
 Zöld-foki Köztársaság
 Zöld-foki-szigetek
+Zöldmál
 Zürich
 [1-2] együttérzés
 [4] rokonszenv
@@ -7345,6 +7461,7 @@ a cappella
 a cipész maradjon a kaptafánál
 a csapból is folyik
 a csudába
+a császár új ruhája
 a csömörig
 a csúcs
 a cég állja/fizeti (a számlát/cechet)
@@ -7352,6 +7469,7 @@ a cél szentesíti az eszközt
 a dzsungel törvénye
 a falnak is füle van
 a fasorban sincs
+a fasz
 a faszomat
 a fedélzeten
 a fegyveres erők tagja
@@ -7360,11 +7478,15 @@ a fejét teszi rá
 a fejünk felett
 a felesége/neje családjával lakik/él (együtt)
 a felvilágosodás
+a fene
 a fene egye meg
 a fenébe
+a fenéket
+a franc
 a franc essen bele
 a francba
 a francokat
+a frászt
 a félelem, hogy kimaradunk/kimaradsz valamiből
 a föld felé tartó/közeledő/haladó/irányuló
 a földdel tesz egyenlővé
@@ -7375,14 +7497,12 @@ a fülén ül
 a fürdővízzel együtt a gyereket is kiönti
 a gatyája is rámegy
 a gyakorlatban
-a gyors barna róka átugrik a lusta kutyán
 a géntől 3’ irányban
 a hallgatás beleegyezés
 a halál megszemélyesített formája
 a harag rossz tanácsadó
 a határ a csillagos ég
 a hazug embert hamarabb utolérik, mint a sánta kutyát
-a helyzet az, hogy…
 a helyzet magaslatán áll
 a hetedik mennyország
 a hill of volcanic origin in Miskolc
@@ -7471,9 +7591,11 @@ a mai nap
 a mai éjszaka
 a manóba
 a megelőző napon
+a mi kutyánk kölyke
 a minap
 a mindenit
 a mindenit!
+a mindenkori hatalom/rendszer (fennálló)
 a mindenségit
 a mindenségit!
 a modern kor vívmányai
@@ -7501,6 +7623,7 @@ a nyomában
 a négy fal között
 a név kötelez
 a parancs az parancs
+a picsa
 a pillanat hevében
 a pohár fenekére néz
 a pokol tornáca
@@ -7594,10 +7717,12 @@ a vércsoportom ...
 a vérében
 a vérében van
 a zavarosban halászik
+a(z) …-odik/-adik/-edik/-ödik hatványon
+a(z) …-odikon/-adikon/-ediken/-ödiken
 a-
 a-moll
 a. m.
-aa
+a/languages A to L
 aacheni
 aba
 aba nem posztó
@@ -7710,6 +7835,7 @@ abiogenezis
 abiogén
 abiotikus
 abiotikusan
+abirateron
 abisszikus
 abisszikus síkság
 abisszikus öv
@@ -8242,6 +8368,7 @@ adhatsz
 adiabatikus
 adiabatikusan
 adiabatikusság
+adieu
 adipinsav
 adipokin
 adj
@@ -8509,6 +8636,7 @@ adventi kalendárium
 adventi koszorú
 adventi naptár
 adventista
+adventizmus
 adventív
 adverbs
 adys
@@ -8519,6 +8647,8 @@ adása
 adási
 adásidő
 adások
+adásszerkesztő
+adásszerkesztők
 adásszünet
 adásvétel
 adászárás
@@ -8657,6 +8787,7 @@ aeronautika
 aeroszol
 aeroszolipar
 aerotechnika
+afantázia
 afelett
 afelé
 afelől
@@ -8798,6 +8929,7 @@ agitáció
 agitációk
 agitál
 agitálás
+agnosztikus
 agnosztikus vagyok
 agorafóbia
 agrammatizmus
@@ -8814,6 +8946,7 @@ agresszívabb
 agresszívan
 agresszívebb
 agresszíven
+agrikultúra
 agrobiológia
 agronómus
 agronómusok
@@ -8983,7 +9116,6 @@ agyvérzések
 agyzsibbasztó
 agyzsilip
 agyára
-agyára megy
 agyát
 agyérgörcs
 agyú
@@ -9064,6 +9196,7 @@ ahányan
 ahányfajta
 ahányféle
 ahányszor
+aibófóbia
 aigisz
 aikidó
 aikidók
@@ -9094,7 +9227,6 @@ ajakréses
 ajakrésessé válás
 ajakrúzs
 ajakrúzsok
-ajaktalan
 ajaktámasz
 ajakír
 ajatollah
@@ -9111,7 +9243,6 @@ ajkaink
 ajkaitok
 ajkak
 ajkam
-ajkatlan
 ajkatok
 ajkuk
 ajkunk
@@ -9298,6 +9429,8 @@ ajánlatú
 ajánld
 ajánlhat
 ajánlható
+ajánlhatóan
+ajánlhatóság
 ajánlj
 ajánljuk
 ajánllak
@@ -9790,6 +9923,7 @@ akutfázis-fehérje
 akutfázis-protein
 akutság
 akvadukt
+akvakultúra
 akvalung
 akvamanile
 akvamarin
@@ -10059,6 +10193,7 @@ alakzatú
 alakért
 alakít
 alakítani
+alakítgat
 alakítható
 alakíthatóan
 alakíthatóbb
@@ -10345,6 +10480,7 @@ alapértelmezett értéket kap
 alapértelmezett értéket vesz fel
 alapértelmezés
 alapít
+alapítgat
 alapíthat
 alapítható
 alapítok
@@ -10366,6 +10502,7 @@ alapú
 alarmreakció
 alarmíroz
 alaszkai malamut
+alaszkai tőkehal
 alatt
 alatta
 alatta marad (…az elvárásoknak)
@@ -10491,6 +10628,7 @@ alhat
 alhéj
 alias
 alibi
+alibizik
 alifás
 alifásan
 alig
@@ -11028,6 +11166,7 @@ almamenta
 almanach
 almanachi
 almanachok
+almapálinka
 almapüré
 almasav
 almaszüret
@@ -11102,6 +11241,7 @@ almázik
 alműfaj
 alműfaji
 alműfajú
+alnemzetség
 alnémet
 alom
 alomba
@@ -11151,7 +11291,6 @@ alrendszer
 alrendű
 also known as védjegy
 also used for days of months when supplemented with a possessive suffix
-also: disznópásztor
 alszer
 alszik
 alszik rá egyet
@@ -11648,6 +11787,7 @@ amerikai vagyok
 amerikai vándorhering
 amerikai vándorrigó
 amerikai ámbrafa
+amerikai ökörbéka
 amerikaiak
 amerikaimogyoró
 amerikanista
@@ -11753,6 +11893,7 @@ amivel
 amivé
 amiért
 amióta
+amlodipin
 ammonita
 ammonitesz
 ammáni
@@ -11892,6 +12033,7 @@ andocsi
 andokbeli
 andoki
 andoki flamingó
+andoki küllő
 andorrai
 andragógia
 andragógiák
@@ -11959,6 +12101,7 @@ angolszász
 angolszász jogrendszer
 angolszászok
 angolság
+angolsági
 angolságok
 angolságú
 angoltapasz
@@ -11967,6 +12110,7 @@ angolul beszélő
 angyal
 angyalarcú
 angyalbefektető
+angyalbőr
 angyalcsináló
 angyalcápa
 angyalhaj
@@ -11976,6 +12120,7 @@ angyalka
 angyalkák
 angyalok
 angyalokkal
+angyalos
 angyalsereg
 angyalseregek
 angórafonal
@@ -12032,6 +12177,7 @@ annyira-amennyire
 annyiról
 annyiszor
 annyit
+annyit eszik, mint egy madár
 annyitól
 annyival
 annyiért
@@ -12090,6 +12236,7 @@ antihomeopátia
 antiinflammatorikus
 antik
 antikabb
+antiklerikalizmus
 antiklimax
 antikommunizmus
 antikrisztus
@@ -12136,6 +12283,7 @@ antiporter
 antiprizma
 antipátia
 antipátiák
+antirevizionista
 antirészecske
 antiszemita
 antiszemitizmus
@@ -12376,6 +12524,11 @@ apatikusság
 apatit
 apatárs
 apaállat
+apaállat-vizsgálat
+apaállat-vizsgáló
+apaállatgondozó
+apaállattartás
+apaállattartó
 apci
 apellativizáció
 apellál
@@ -12547,6 +12700,7 @@ apátság
 apátságba
 apátsági
 apátságok
+apátságú
 apától
 apával
 apává
@@ -12573,6 +12727,7 @@ arachnofóbia
 arachnoidea
 aradi
 aragonit
+aragóniai
 aranka
 arany
 arany here
@@ -12635,6 +12790,7 @@ aranykeretek
 aranykezű
 aranykor
 aranykori
+aranyküllő
 aranylakodalmak
 aranylakodalom
 aranylakodalom (50th anniv.)
@@ -12650,6 +12806,7 @@ aranymetszés
 aranymetszések
 aranymező
 aranymezős
+aranymálinkó
 aranyműves
 aranyos
 aranyos bábrabló
@@ -12918,6 +13075,8 @@ argonotok
 argonunk
 argumentum
 argumentum ad hominem
+argumentáció
+argumentál
 argyasi
 argó
 argók
@@ -13069,6 +13228,7 @@ arátok
 aréna
 arénák
 as well as átirányítás
+askenázi
 aspektualitás
 aspektus
 aspektusok
@@ -13107,6 +13267,8 @@ asszonyom
 asszonyos
 asszonyosabb
 asszonyság
+asszonysági
+asszonyságú
 asszonyt
 asszonyt visz a házhoz
 asszonytalan
@@ -13351,9 +13513,11 @@ atka
 atkaölő
 atkák
 atlanti
+atlanti tőkehal
 atlanti-óceáni
 atlantiszi
 atlasz
+atlaszcédrus
 atlaszok
 atletikus
 atletikusabb
@@ -13479,6 +13643,7 @@ atyaúristenkedik
 atyaúristenség
 atyja
 atyjafia
+atyus
 atyus → atyuska
 atyák
 atyám
@@ -13684,6 +13849,7 @@ autópályán
 autóriasztó
 autóriksa
 autórádió
+autórádiók
 autós
 autós üldözés
 autósbolt
@@ -13781,9 +13947,8 @@ axoneredési domb
 axonok
 axoszomatikus
 az
-az (t)
 az Erő legyen veled
-az a helyzet, hogy…
+az a helyzet, hogy
 az ablakon szórja ki a pénzt
 az alfa és az ómega
 az alábbiak
@@ -13795,7 +13960,6 @@ az asszony hordja a kalapot
 az asszony hordja a nadrágot
 az asztal alá iszik
 az az igazság, hogy
-az az igazság, hogy…
 az az érzése van
 az a…, az az…)
 az biztos
@@ -13827,7 +13991,6 @@ az igaz
 az igazak álma
 az igazak álmát alussza
 az igazat megvallva
-az igazság az, hogy…
 az igazság kedvéért
 az imaórák liturgiája
 az innenső oldalon/oldalán
@@ -13849,7 +14012,6 @@ az utolsókat
 az utolsókat rúgja
 az utóbbi időben
 az vagy, amit megeszel
-az van, hogy…
 az viszont/persze igaz, hogy
 az állatok jogai
 az általánosság elvesztése nélkül
@@ -13875,6 +14037,7 @@ az óramutató járásával ellenkezően
 az óramutató járásával ellentétes
 az óramutató járásával ellentétesen
 az óramutató járásával megegyező
+az ördög
 az ördög a részletekben rejlik
 az ördög nem alszik
 az ördög ügyvédje
@@ -14006,7 +14169,6 @@ azért is
 azért, hogy
 azóta
 azúr
-azúr(kék)
 azúrboltozat
 azúrfelleg
 azúrfény
@@ -14338,7 +14500,9 @@ baki
 bakid
 bakik
 bakin
+bakiparádé
 bakit
+bakizik
 bakkecske
 bakker
 baklava
@@ -14363,6 +14527,7 @@ baksis
 baksisok
 bakszakáll
 baktalórántházi
+bakter
 baktericid
 bakteriofág
 bakteriológia
@@ -14467,12 +14632,11 @@ balett-társulat
 balettcipő
 balettcipők
 balettek
-balettes
+balettes balett balettos
 baletti
 balettiskola
 balettista
 balettművész
-balettos
 balettszám
 balettvezető
 balettzene
@@ -14799,6 +14963,7 @@ barkácsoló
 barkácsszerszám
 barkácsáru
 barkák
+barkán
 barkó
 barkóca
 barkócaberkenye
@@ -14842,6 +15007,7 @@ barnamedve
 barnamellű hantmadár
 barnaszén
 barnul
+barnulgat
 barnább
 barnák
 barnállik
@@ -14872,6 +15038,7 @@ baromfik
 baromfiketrec
 baromfitenyésztés
 baromfitenyésztések
+baromfitenyésztési
 baromfiudvar
 baromi
 baromira
@@ -14981,6 +15148,7 @@ barázda
 barázdabillegető
 barázdák
 barázdás méregfog
+barázdásbálna
 baró
 basa
 baseball
@@ -15066,6 +15234,7 @@ bazsalikomszósz
 bazsalygás
 bazsalyog
 bazsalyog a bajsza alatt
+bazsalyít
 bazsarózsa
 bazsarózsák
 bazális
@@ -15113,6 +15282,7 @@ beavatási rítus
 beavatási szertartás
 beazonosít
 beballag
+bebarnít
 bebasz
 bebaszik
 bebeszél
@@ -15477,7 +15647,6 @@ begyöpösödött/begyepesedett alak
 begyújt
 begyúl
 begyülekezik
-begyű
 begyűjt
 begyűjtés
 begyűlik
@@ -15488,6 +15657,7 @@ begónia
 begór
 begöndörít
 begöndörödik
+begöngyöltszélű cölöpgomba
 begörbít
 begörbül
 begörget
@@ -15520,6 +15690,7 @@ behatol
 behatol a birtokára
 behatolás
 behatárol
+behatárolta
 behatás
 beható
 behaviorizmus
@@ -15546,6 +15717,7 @@ behénsav
 behí
 behív
 behívat
+behívogat
 behízeleg
 behódol
 behódolás
@@ -15659,10 +15831,13 @@ bekap
 bekapar
 bekapcsol
 bekapcsolható
+bekapcsolhatóan
+bekapcsolhatóság
 bekapcsolva
 bekapcsolás
 bekapcsolása
 bekapcsolódik
+bekapál
 bekarikáz
 bekategorizál
 bekattan
@@ -15915,6 +16090,7 @@ belekalkulál
 belekap
 belekapar
 belekapaszkodik
+belekapál
 belekarol
 belekattan
 belekattint
@@ -15936,6 +16112,7 @@ belekortyol
 belekotor
 belekotyog
 belekotyvaszt
+belekukucskál
 belekényszerít
 belekényszerül
 beleképzel
@@ -16081,7 +16258,6 @@ beletelik
 beletemet
 beleterel
 beletesz
-beletlen
 beletol
 beletorkollik
 beletotyog
@@ -16234,6 +16410,7 @@ belső szorzat
 belső szög
 belső telefon/-hálózat
 belső udvar
+belső váz
 belső védő
 belső égésű motor
 belső ékcsont
@@ -16250,6 +16427,7 @@ beltenyésztés
 belterjes
 belterület
 beltéri
+beludzs
 beluga
 belvillongás
 belvilág
@@ -16269,6 +16447,9 @@ beláthatatlan
 beláthatatlanabb
 beláthatatlanság
 belátható
+beláthatóan
+beláthatóbb
+beláthatóság
 belátszik
 belátszódik
 belátás
@@ -16434,6 +16615,7 @@ benne vagyok
 benne van
 benne van a korban
 benne van a kulimászban
+benne van a pakliban
 benned
 bennem
 bennetek
@@ -16600,6 +16782,7 @@ beraknád
 berakás
 berakási
 berakások
+berbécs
 berceli
 beregdaróci
 bereggelizik
@@ -16726,6 +16909,7 @@ besszarábiai
 besszre játszó tőzsdéző
 bestia
 bestialitás
+bestiaság
 bestiális
 bestiálisabb
 bestiálisan
@@ -16973,6 +17157,7 @@ betegellátás
 beteges
 beteges hajlam
 betegesebb
+betegeskedik
 beteget
 beteghordó
 beteglap
@@ -16994,6 +17179,8 @@ betegségek
 betegséget
 betegséget színlel
 betegséghordozó
+betegségi
+betegségű
 betegágy
 betegápoló
 betegít → megbetegít
@@ -17032,7 +17219,11 @@ betevő
 betilt
 betipeg
 betlehem
+betlehemes
 betlehemes játék
+betlehemez
+betlehemezés
+betlehemezési
 betlehemi
 betlehemjárás
 betli
@@ -17385,10 +17576,14 @@ beállás
 beállít
 beállítani
 beállítható
+beállíthatóan
+beállíthatóbb
+beállíthatóság
 beállított
 beállítottság
 beállítás
 beállításaid
+beállításjegyzék
 beállítások
 beállításokat
 beállítójel
@@ -17699,18 +17894,21 @@ bioakusztika
 bioakusztikai
 biodiverzitás
 biodíszlet
+biodízel
 biofilm
 biofizika
 biofizikus
 biofizikusi
 biofizikusok
 biogazdálkodás
+biogeográfia
 biográfia
 biográfiák
 biográfus
 biográfusok
 biogáz
 biogén
+bioinformatika
 bioklimatológia
 biokémia
 biokémiai
@@ -17742,6 +17940,7 @@ birkahajcsár
 birkahús
 birkapaprikás
 birkapörkölt
+birkatenyésztés
 birkák
 birkózik
 birkózok
@@ -17985,6 +18184,7 @@ bivalyok
 bivalypásztor
 bivalyszekér
 bivalyökör
+biz
 biza
 bizakodik
 bizakodó
@@ -18127,6 +18327,7 @@ biztonsági
 biztonsági ellenőrzés
 biztonsági fólia
 biztonsági gyermekülés
+biztonsági háló
 biztonsági mentés
 biztonsági másolat
 biztonsági szelep
@@ -18242,6 +18443,7 @@ blöffök
 blöfföl
 blöffölés
 blúz
+blúza
 blúzok
 blúzos
 blúzt
@@ -18379,6 +18581,7 @@ bodza
 bodzabél
 bodzafa
 bodzai
+bodzaszörp
 bodzavásári
 bodzák
 bog
@@ -18390,6 +18593,7 @@ boglya
 boglyák
 boglárka
 boglárkavirágúak
+boglárkás
 bognár
 bognárinas
 bognáriparos
@@ -18675,7 +18879,6 @@ bolház
 bolivári
 bolognai
 bolond
-bolond ember
 bolond lyukból bolond szél fúj
 bolondabb
 bolondgomba
@@ -18701,6 +18904,7 @@ bolondító beléndek
 bolsevik
 bolsevizmus
 bolsevizmusok
+bolsevizál
 bolt
 boltba
 boltban
@@ -18953,7 +19157,6 @@ borkereskedő
 borkiállítás
 borkán
 borkészítés
-borkóstolás
 borkóstoló
 borközi
 borkősav
@@ -18968,6 +19171,7 @@ bornemissza
 borneói
 borneói nagyorrúmajom
 bornit
+bornírt
 borod
 borogat
 borogatás
@@ -19036,6 +19240,7 @@ borpincék
 borpárlat
 borra
 borravaló
+borravalót ad
 borrend
 borrá
 bors
@@ -19120,7 +19325,6 @@ borzadás
 borzag
 borzalmak
 borzalmas
-borzalmas(an)
 borzalmasabb
 borzalmasan
 borzalmasság
@@ -19130,7 +19334,6 @@ borzalomkeltő
 borzas
 borzaszt
 borzasztó
-borzasztó(an)
 borzasztó(an) jól szórakozik/mulat
 borzasztóan
 borzasztóbb
@@ -19168,6 +19371,7 @@ borítólap
 borítólemez
 borítóléc
 boróka
+borókabogyó
 borókacinege
 borókák
 ború
@@ -19290,6 +19494,7 @@ bozótú
 bp.-i
 bradikardia
 brakk
+brama kuvik
 brassói
 bravó
 bravúr
@@ -19487,6 +19692,8 @@ bugris
 bugyborékol
 bugyborékolva
 bugyborékolás
+bugyelláris
+bugyellárisú
 bugyi
 bugyik
 bugyog
@@ -19513,8 +19720,13 @@ buján
 bukaresti
 bukdácsol
 bukfenc
+bukfencel
+bukfences
+bukfencet hány
 bukfencet vet
 bukfencezik
+bukfenchányás
+bukfenchányó
 bukhat
 buki
 bukik
@@ -19589,8 +19801,6 @@ bundák
 bundás
 bundás kenyér
 bundás virsli/hot dog
-bundátlan
-bundáz
 bundázik
 bungaló
 bungalók
@@ -19706,6 +19916,7 @@ burundi
 burzsoá
 burzsoázia
 busa
+busafutóforma
 busalepke
 busidó
 busszal
@@ -19763,6 +19974,9 @@ butykoskancsó
 butább
 butácska
 bután
+butángáz
+butános
+butánsav
 butáskodik
 butít
 buzdít
@@ -20087,6 +20301,7 @@ bármiféle
 bármik
 bármiket
 bármikor
+bármiképp
 bármiképpen
 bármily
 bármilyen
@@ -20189,6 +20404,10 @@ bátorsági
 bátorságod
 bátorságok
 bátorságom
+bátorságot
+bátorságot merít
+bátorságot vesz
+bátorságot önt
 bátorságotok
 bátorságpróba
 bátorságuk
@@ -20203,6 +20422,7 @@ bátortalanít
 bátortalanít → elbátortalanít
 bátortalanítás
 bátorít
+bátorítgat
 bátorítás
 bátorítások
 bátorító
@@ -20255,6 +20475,7 @@ béka-egér harc
 békacomb
 békaember
 békaevő
+békaharcsa
 békakonty
 békakuruttyolás
 békalencse
@@ -20389,7 +20610,6 @@ bélszín
 bélszínszelet
 bélszínérme
 bélsár
-béltelen
 béltisztító
 béltükrözés
 béltől
@@ -20549,7 +20769,6 @@ bíbicek
 bíbor
 bíbor galóca
 bíbor here
-bíbor(sz.)
 bíborajkú
 bíborban
 bíborban született
@@ -21099,6 +21318,7 @@ büdzsék
 büdzsés
 büdzsévita
 büdös
+büdös poloska
 büdösen
 büdöske
 büdöskés
@@ -21212,10 +21432,12 @@ büszkeséggel
 büszkeségére
 büszkébb
 büszkébben
+büszkécske
 büszkék
 büszkélkedik
 büszkélkedés
 büszkén
+büszkés
 bütyke
 bütykös
 bütykös császárgalamb
@@ -21238,6 +21460,7 @@ bütüz
 bütüzd
 bütüzz
 bő
+bő lére ereszt
 bőbeszédű
 bőbeszédűbb
 bőbeszédűen
@@ -21324,7 +21547,6 @@ bőrszakáll
 bőrszín
 bőrt
 bőrtalp
-bőrtelen
 bőrtüsző
 bőrzik
 bőrápolás
@@ -21404,6 +21626,7 @@ bűn
 bűnbak
 bűnbakok
 bűnbakot csinálnak belőle
+bűnbanda
 bűnbe esik
 bűnbeesés
 bűnbeesés előtti
@@ -21541,6 +21764,7 @@ casco
 cash
 category
 catering
+ccsige
 cecelégy
 cech
 cedilla
@@ -21572,6 +21796,7 @@ cellux
 cellájú
 cellás
 celofán
+celózia
 cemende
 cement
 cementgyár
@@ -21945,6 +22170,7 @@ cimbora
 cimboraság
 cimborák
 cimborál
+cimet
 cimofán
 cimpa
 cimpák
@@ -22084,6 +22310,7 @@ cirkuszok
 cirkuszol
 cirkuszvölgy
 cirkáló
+cirkálóhajó
 cirkálósúly
 cirkálósúlyú
 cirkónium
@@ -22126,6 +22353,7 @@ citológia
 citológiai
 citológus
 citológusok
+citomegalovírus
 citoplazma
 citosztatikum
 citosztatikus
@@ -22172,7 +22400,6 @@ citromsárga nedűgomba
 citromsárgás
 citromsármány
 citromsármányok
-citromzöld
 citromízű
 citrusféle gyümölcs
 citrusgyümölcs
@@ -22228,7 +22455,6 @@ combocska
 combok
 combos
 combra
-combtalan
 combtörés
 combtő
 combú
@@ -22417,6 +22643,7 @@ családfáink
 családfáitok
 családfája
 családfájuk
+családfájú
 családfák
 családfákat
 családfákba
@@ -22441,6 +22668,7 @@ családfánk
 családfánál
 családfára
 családfáról
+családfás
 családfát
 családfátok
 családfától
@@ -22539,7 +22767,6 @@ csapadékmérő
 csapadékok
 csapadékszegény
 csapat
-csapat and sereg
 csapata
 csapatarany
 csapatbajnokság
@@ -22795,6 +23022,7 @@ csehhel
 csehhé
 csehnek
 csehországi
+csehosítás
 csehovi
 csehovibb
 csehre
@@ -23263,6 +23491,7 @@ csigát
 csigáz
 csihi-puhi
 csihol
+csihány
 csikizd
 csikk
 csikkszedés
@@ -23387,6 +23616,7 @@ csillárok
 csilpcsalp
 csilpcsalpfüzike
 csimbe
+csimborasszó
 csimpaszkodó
 csimpánz
 csimpánzok
@@ -23590,10 +23820,10 @@ csodaország
 csodaországok
 csodapók
 csodaszer
+csodaszámba
 csodaszép
-csodatevő
+csodatevő tevő csodatévő
 csodatétel
-csodatévő
 csodavárás
 csodája
 csodájára jár
@@ -23670,6 +23900,7 @@ csomagjaik
 csomagjaim
 csomagjaink
 csomagjaitok
+csomagjegyzék
 csomagjuk
 csomagkezelő
 csomagod
@@ -23741,7 +23972,6 @@ csontok
 csontos
 csontos medence
 csontosabb
-csontoz
 csontozat
 csontozott
 csontrendszer
@@ -23755,10 +23985,10 @@ csontszínű
 csontszövet
 csontszövetek
 csontszú
-csonttalan
 csonttan
 csonttani
 csonttollú
+csonttörés
 csontvelő
 csontvelőgyulladás
 csontvelők
@@ -23775,6 +24005,7 @@ csoportdinamika
 csoportelmélet
 csoportelméletek
 csoportfőnök
+csoportfőnökség
 csoportgondolkodás
 csoporthoz
 csoportja
@@ -23818,7 +24049,6 @@ csordul
 csordultig
 csordultig telt
 csordák
-csordás
 csordít
 csorgat
 csorgatja a nyálát
@@ -23864,6 +24094,7 @@ csuklyák
 csuklyás bukó
 csuklyás hantmadár
 csuklás
+csuklási
 csukló
 csuklóba
 csuklóban
@@ -23934,6 +24165,7 @@ csuprocska
 csupros
 csupán
 csupáncsak
+csurdé
 csurgó
 csurgói
 csurkai
@@ -24017,6 +24249,7 @@ császármadár
 császármetszés
 császármetszések
 császármorzsa
+császármorzsás
 császárné
 császárnék
 császárnő
@@ -24174,7 +24407,6 @@ csípősebb
 csípősen
 csípősség
 csípőszoknya
-csípőtlen
 csípővas
 csípőárok
 csípőízület
@@ -24230,6 +24462,7 @@ csórhat
 csóri
 csórikám
 csórj
+csóré
 csóró
 csóróbb
 csótány
@@ -24480,7 +24713,6 @@ csüngj
 csüngsz
 csüngő
 csürhe
-csürhés
 csütörtök
 csütörtöki
 csütörtökök
@@ -24535,11 +24767,8 @@ csőnadrág
 csőposta
 csőr
 csőre
-csőrtelen
 csőrök
 csőrös
-csőröz
-csőrözik
 csőrű
 csőstül
 csőstül jön a baj
@@ -24671,7 +24900,6 @@ cvikker
 cvikkeres
 cvíder
 cvíderebb
-cz
 cáfol
 cáfolat
 cáfolata
@@ -24746,6 +24974,7 @@ cédrusfával
 cédrusfává
 cédrusfáért
 cédrusok
+cédrusolaj
 cédula
 cédulka
 cédulácska
@@ -24813,7 +25042,9 @@ cégvezető
 cégé
 cégér
 cégére
+cégérek
 cégéres
+cégéresebb
 cégért
 cégük
 cégünk
@@ -25261,6 +25492,7 @@ dalia
 dalig
 daliák
 daliás
+dalköltészet
 dallam
 dallammenet
 dallamok
@@ -25333,6 +25565,7 @@ dalszövegektől
 dalszövegekért
 dalszövegem
 dalszövegen
+dalszöveges
 dalszöveget
 dalszövegetek
 dalszöveggel
@@ -25346,8 +25579,10 @@ dalszövegre
 dalszövegről
 dalszövegtől
 dalszövegért
+dalszövegíró
 dalszövegük
 dalszövegünk
+dalszövegű
 dalt
 dalton
 daltonizmus
@@ -25498,11 +25733,11 @@ datál
 datálás
 datálódik
 dauer
-days of the week: hét: hétfő · kedd · szerda · csütörtök · péntek · szombat · vasárnap [edit]
 db
 de
 de (igen)
 de gyönyörű nap van ma
+de hát
 de igen
 de jó dolga van valakinek
 de jól megy valakinek
@@ -25510,6 +25745,7 @@ de ki számolja?
 de kár
 de még mennyire
 de-
+de.
 deaktivál
 deaktiválás
 debilis
@@ -25533,15 +25769,23 @@ decentralizációs
 decentralizál
 deci-
 decibel
+decibeles
+decibelnyi
 decigramm
+decigrammnyi
 decigrammok
+decigrammos
 deciliter
 deciliterek
+deciliteres
+deciliternyi
 decilliárd
 decillió
 decima
 deciméter
 deciméterek
+deciméteres
+deciméternyi
 deciszekundum
 dedikáció
 dedikációk
@@ -25558,6 +25802,8 @@ defektes
 defektus
 defenzivitás
 defenzív
+defetista
+defetizmus
 defibrillátor
 deficit
 defilíroz
@@ -25655,7 +25901,7 @@ dekagrammok
 dekagrammos
 dekaliter
 dekantál
-dekanátus
+dekanátus dékán dékánátus
 dekapíroz
 dekaéder
 deklaráció
@@ -25878,7 +26124,6 @@ derékszögmérő
 derékszögű
 derékszögű háromszög
 derékség
-deréktalan
 deréktájt
 derékzsába
 derít
@@ -25924,6 +26169,7 @@ desz
 desz-moll
 deszantegység
 deszka
+deszkaburkolat
 deszkabódé
 deszkafal
 deszkakerítés
@@ -26100,6 +26346,7 @@ diakritikus jel
 diakrón
 diakép
 diakónus
+dialectal variant preserved in toponyms and compounds
 dialectally also fektő
 dialektikus materializmus
 dialektikus viselkedésterápia
@@ -26115,6 +26362,7 @@ dialízis
 dialógus
 dialógusok
 dianéző
+diapauza
 diapozitív
 diarchia
 diaszpóra
@@ -26241,6 +26489,7 @@ digitalizáció
 digitalizál
 digitalizálás
 digitális
+digitális aláírás
 digitális lábnyom
 digitális számítógép
 diglosszia
@@ -26294,12 +26543,14 @@ dinamikai
 dinamikai rendszer
 dinamikus
 dinamikusabb
+dinamikusabban
 dinamikusan
 dinamikusság
 dinamit
 dinamitok
 dinamizmus
 dinamó
+dinamóelv
 dinamógép
 dinamók
 dinamólemez
@@ -26471,6 +26722,7 @@ disznódelfin
 disznófejű
 disznófősajt
 disznóhajcsár
+disznóhal
 disznóhús
 disznóhúsok
 disznók
@@ -26698,7 +26950,6 @@ dióverés
 dk.
 dkg
 dkg-os
-dl
 dny
 dob
 dob egy hátast (tőle)
@@ -26858,6 +27109,7 @@ dogmatizmus
 dogmák
 doh
 dohog
+dohogás
 dohok
 dohos
 dohosabb
@@ -26875,6 +27127,7 @@ dohánymonopólium
 dohánymonopóliumok
 dohányok
 dohányos
+dohányozhatok?
 dohányozni tilos
 dohányozz
 dohánytermelő
@@ -26924,6 +27177,9 @@ dokumentál
 dokumentálhatatlan
 dokumentálhatatlanság
 dokumentálható
+dokumentálhatóan
+dokumentálhatóbb
+dokumentálhatóság
 dokumentált
 dokumentálta
 dokumentálás
@@ -27132,6 +27388,7 @@ dominánsan
 dominánsok
 dominó
 dominóeffektus
+dominóelv
 dominóhatás
 dominók
 domonkos
@@ -27183,6 +27440,7 @@ doyen
 dozíroz
 dozírozás
 dr.
+drabális
 dragomán
 dragonyos
 dragonyosok
@@ -27281,9 +27539,9 @@ drótszőrű foxi
 drótszőrű foxterrier
 dróttal összekötött/összefogott
 drúz
-ds
 du.
 dualizmus
+dubaji csokoládé
 dublett
 dublon
 dublé
@@ -27341,6 +27599,8 @@ dugó
 dugódíj
 dugóhúzó
 dugók
+dukál
+dukáló
 dukát
 dulakodik
 dulakodás
@@ -27458,6 +27718,7 @@ dzsekis
 dzseládapávián
 dzsem
 dzsembori
+dzsembé
 dzsemek
 dzsemes
 dzsender
@@ -27520,6 +27781,7 @@ dzsungelos
 dzsungeltörténet
 dzsungeltörvény
 dzsungelvágó
+dzsungár
 dzsunka
 dzsunkák
 dzsámi
@@ -27617,7 +27879,6 @@ dédős
 dékán
 dékáni
 dékánság
-dékánátus
 dél
 dél felé
 dél-afrikai
@@ -27651,6 +27912,7 @@ déli
 déli elefántfóka
 déli fény
 déli hantmadár
+déli kék tőkehal
 déli kéneslepke
 déli sarkkör
 déli-sarki
@@ -27697,6 +27959,7 @@ démonikus
 démonizál
 démonok
 démonológus
+démonűzés
 dér
 dércsípte
 dérre
@@ -27879,6 +28142,7 @@ dízelmozdony
 dízelolaj
 dó
 dóci
+dódzsinsi
 dódzsó
 dóm
 dómok
@@ -27897,6 +28161,7 @@ döbbenet
 döbbenetes
 döbbent
 döbbenés
+döblec
 döbörhegyi
 döccen
 döccent
@@ -28230,6 +28495,7 @@ ebcsont beforr
 ebe
 ebed
 ebek
+ebek harmincadjára jut
 ebem
 eben
 ebet
@@ -28433,7 +28699,6 @@ egy kicsivel
 egy kis
 egy kis türelmet kérek
 egy kis …
-egy kissé
 egy követ fúj
 egy lyukas garast sem ér
 egy mindenkiért, és mindenki egyért
@@ -28464,6 +28729,7 @@ egy óra
 egy órakor
 egy-egy
 egy-két
+egy-két dolog
 egy-más
 egy/azonos hullámhosszon
 egyaknás
@@ -28562,6 +28828,7 @@ egydimenziós
 egydimenziósan
 egye
 egye fene
+egye meg a szart
 egyebek
 egyebet
 egyebet nem kívánok mondani/hozzátenni/hozzáfűzni
@@ -28790,6 +29057,7 @@ egyféleség
 egyhamar
 egyhangú
 egyhangúan
+egyhangúbb
 egyhangúbban
 egyhangúlag
 egyhangúság
@@ -29179,6 +29447,7 @@ együttélési nyilatkozat
 együttérez
 együttérzés
 együttérző
+egzakt
 egzecíroz
 egzisztencia
 egzisztencialista
@@ -29520,6 +29789,7 @@ elbandukol
 elbarbárosodik
 elbarikádoz
 elbarikádozás
+elbarnít
 elbassza az időt
 elbasz
 elbaszik
@@ -30010,6 +30280,7 @@ elfogadható
 elfogadhatóan
 elfogadhatóbb
 elfogadhatóság
+elfogadhatósági
 elfogadják
 elfogadnak hitelkártyát?
 elfogadni
@@ -30108,6 +30379,7 @@ elgitározik
 elgondol
 elgondolhatatlan
 elgondolkodik
+elgondolkodtat
 elgondolkodtató
 elgondolkozik
 elgondolás
@@ -30144,6 +30416,8 @@ elhagyatottan
 elhagyatottság
 elhagyhatatlan
 elhagyható
+elhagyhatóan
+elhagyhatóság
 elhagyja
 elhagyja magát
 elhagyni
@@ -30163,6 +30437,7 @@ elhalad (mellette)
 elhalad mellette
 elhaladás
 elhalaszt
+elhalasztgat
 elhalasztás
 elhalasztódik
 elhalasztódás
@@ -30200,6 +30475,8 @@ elhantol
 elhanyagol
 elhanyagolhatatlan
 elhanyagolható
+elhanyagolhatóan
+elhanyagolhatóság
 elhanyagolja magát
 elhanyagolt
 elhanyagoltabb
@@ -30284,6 +30561,7 @@ elhígul
 elhíresztel
 elhív
 elhívat
+elhívogat
 elhízik
 elhízott
 elhízottabb
@@ -30419,6 +30697,7 @@ elkapar
 elkapcsol
 elkapkod
 elkapkodják
+elkapál
 elkapás
 elkapó
 elkapó játékos
@@ -30428,7 +30707,6 @@ elkavar
 elkecmereg
 elkedvetlenedik
 elkedvetlenít
-elkedvetlenítő
 elkel
 elkel néha egy jól irányzott pofon
 elkelne
@@ -30458,7 +30736,6 @@ elkerülő út
 elkeseredett
 elkeseredettség
 elkeserít
-elkeserítő
 elkeskenyedik
 elketyeg
 elkever
@@ -30524,7 +30801,6 @@ elképzelhetetlenség
 elképzelhető
 elképzelni
 elképzeltem
-elképzelten
 elképzelés
 elképzelései
 elképzelések
@@ -30993,6 +31269,8 @@ elmozdíthatatlanabb
 elmozdíthatatlanság
 elmozdíthatatlanul
 elmozdítható
+elmozdíthatóan
+elmozdíthatóság
 elmozdítás
 elmozgat
 elmulaszt
@@ -31054,6 +31332,7 @@ elmélkedő
 elmélyed
 elmélyedés
 elmélyeszt
+elmélyít
 elméláz
 elmér
 elmérgesedik
@@ -31132,6 +31411,7 @@ elnézőbb
 elnök
 elnök-
 elnöke
+elnökhelyettes
 elnöki
 elnökjelölt
 elnökjelöltség
@@ -31230,9 +31510,9 @@ elrajzik
 elrak
 elraktároz
 elrejt
-elrejtett
 elrejtés
 elrejtőzik
+elrekeszt
 elrendel
 elrendelés
 elrendez
@@ -31697,6 +31977,7 @@ elvarázsolás
 elvasal
 elvastagodik
 elvastagszik
+elvbarát
 elvben
 elve
 elved
@@ -31772,8 +32053,10 @@ elvetés
 elvezet
 elvezető
 elvezényel
+elvhű → elvhűség
 elvi
 elvi kérdést csinál
+elvi → elvileg
 elviccel
 elviekben
 elvigyorog
@@ -31830,6 +32113,7 @@ elvonási tünetek
 elvonások
 elvonókúra
 elvszerű
+elvtelen
 elvtárs
 elvtársak
 elvtársi
@@ -31869,6 +32153,9 @@ elvándorol
 elvár
 elvárható
 elvárható/megfelelő/kellő gondosság
+elvárhatóan
+elvárhatóbb
+elvárhatóság
 elvárosiasodás
 elvárt
 elvárta
@@ -31903,6 +32190,7 @@ elvétve
 elvörösödik
 elvük
 elvünk
+elvű
 elzarándokol
 elzavar
 elzeng
@@ -32236,6 +32524,7 @@ előhí
 előhírnök
 előhív
 előhívat
+előhívogat
 előhívás
 előhívó
 előhúz
@@ -32380,6 +32669,7 @@ előrebillen
 előrebocsájt
 előrebocsát
 előreborul
+előrebukfenc
 előrebámul
 előrecsuklik
 előredől
@@ -32731,6 +33021,7 @@ emberré
 emberről
 emberszabású majom
 emberszerű
+emberszámba
 emberszámba vesz
 emberség
 emberség → emberséges
@@ -32980,6 +33271,9 @@ eméssz
 emészd
 emészt
 emészthetetlen
+emészthetetlenebb
+emészthetetlenség
+emészthetetlenül
 emészthető
 emésztés
 emésztési
@@ -33056,6 +33350,7 @@ energiahatékony
 energiahordozó
 energiaigény
 energiaipar
+energiaminimum-elv
 energiarendszer-technika
 energiaszint
 energiaszolgáltatás
@@ -33306,6 +33601,7 @@ epifánia
 epigenetika
 epigon
 epigramma
+epigrammaköltészet
 epika
 epikus
 epilepszia
@@ -33358,6 +33654,7 @@ erdei fülesbagoly
 erdei gyopár
 erdei here
 erdei kutyatej
+erdei kuvik
 erdei mormota
 erdei pacsirta
 erdei pinty
@@ -33498,12 +33795,12 @@ eretnekebb
 eretnekek
 eretnekség
 eretnekségek
-erez
 erezet
 erezett
 erg
 ergativus
 ergonómia
+ergotamin
 erika
 eritreai
 eritrit
@@ -33729,6 +34026,7 @@ erősödés
 erősödő
 erősül
 erőt
+erőt gyűjt
 erőt vesz
 erőt vesz magán
 erőt vesz rajta
@@ -34068,7 +34366,6 @@ eszmék
 eszmél
 eszmélet
 eszméletlen
-eszméletlen(ül)
 eszméletlenebb
 eszméletlenre ver
 eszméletlenség
@@ -34095,6 +34392,7 @@ esztek
 esztelen
 esztelenebb
 esztelenség
+esztena
 esztendei
 esztendejű
 esztendő
@@ -34118,7 +34416,6 @@ esztergák
 esztergál
 esztergályos
 esztergályosok
-eszterág
 esztrádműsor
 esztéta
 esztétika
@@ -34188,6 +34485,7 @@ etakrinsav
 etalon
 etamin
 etanol
+etatizmus
 etc.
 etc. of them: egyikük
 etc. of us: egyikünk
@@ -34259,6 +34557,7 @@ etnográfia
 etnográfiai
 etnográfus
 etnokulturális
+etnolektus
 etnolektus etc
 etnológia
 etnológiai
@@ -34394,10 +34693,13 @@ evidensebb
 evilági
 evolucionista
 evolucionizmus
+evoluta
+evolvens
 evolúció
 evolúcióbiológia
 evolúciók
 evolúciós
+evolúciós pszichológia
 evvel
 evé
 evégett
@@ -34416,7 +34718,6 @@ evőkészlet
 evőpálcika
 evőpálcikák
 evőt
-ew
 ex
 ex-
 exa-
@@ -34683,6 +34984,7 @@ ezüstróka
 ezüstszínű
 ezüstszürke
 ezüsttárgy
+ezüstvöcsök
 ezüstérem
 ezüstérme
 ezüstérmek
@@ -34693,8 +34995,6 @@ ezüstös
 ezüstösebb
 ezüstösen
 ezüstösség
-eé
-eö
 f
 f-moll
 f-szám
@@ -35344,6 +35644,7 @@ falevelet
 faleveletek
 falevelük
 falevelünk
+falevelű
 falevél
 falevélbe
 falevélben
@@ -35401,6 +35702,7 @@ falják
 faljál
 faljátok
 falka
+falkapocs
 falkiugrás
 falkák
 falként
@@ -35412,6 +35714,7 @@ fallal
 fallibilizmus
 fallikus
 fallosz
+falloszkagyló
 falloszok
 fallá
 falmelléki
@@ -35523,12 +35826,14 @@ fanatlan
 fancsont
 fanemesítés
 fanerozoikum
+fanfár
 fangli
 fanos
 fanosodik
 fanosodás
 fanszőr
 fanszőrzet
+fantasy
 fantasztikus
 fantasztikusabb
 fantasztikusan
@@ -35600,12 +35905,12 @@ farfekvés
 farfekvéses szülés
 farhám
 farhámszíj
+farhát
 faridegzsába
 farigcsál
 farizeus
 farizom
 farka
-farkal
 farkas
 farkas kutyatej
 farkasa
@@ -35618,6 +35923,7 @@ farkascseresznye
 farkascsorda
 farkasember
 farkasemberek
+farkasembert
 farkasfalka
 farkasfene
 farkashere
@@ -35637,6 +35943,7 @@ farkasszem
 farkasszőlő
 farkassügér
 farkast
+farkast kiált
 farkastorok
 farkastörvény
 farkasvacsora
@@ -35809,6 +36116,7 @@ fatelítés
 fatemplom
 fatest
 fatetű
+fatikus
 fatornyos
 fattyak
 fattyú
@@ -35928,6 +36236,7 @@ fecsegő
 fecske
 fecskefark
 fecskefarok
+fecskefű
 fecskemadár
 fecskendez
 fecskendő
@@ -36168,6 +36477,7 @@ fehér kenyér
 fehér kála
 fehér könyv
 fehér köpeny
+fehér kőris
 fehér liszt
 fehér nárcisz
 fehér tölcsérvirág
@@ -36218,6 +36528,7 @@ fehérjetartalom
 fehérjék
 fehérjét
 fehérlepke
+fehérlik
 fehérnemű
 fehérneműk
 fehérneműs
@@ -36246,6 +36557,7 @@ fehértarkójú cinege
 fehérterror
 fehértorkú feketerigó
 fehértorkú fülemüle
+fehéruszonyú szirtcápa
 fehérvárcsurgói
 fehérvérsejt
 fehérvérsejtek
@@ -36500,6 +36812,7 @@ fejszenyél
 fejszámolás
 fejszámoló
 fejszék
+fejsérülés
 fejt
 fejte
 fejted
@@ -36660,8 +36973,10 @@ fekete rigó
 fekete szeder
 fekete sügér
 fekete tea
+fekete tetra
 fekete törpeharcsa
 fekete tücsök
+fekete tőkehal
 fekete áfonya
 fekete üröm
 fekete-erdői
@@ -36679,6 +36994,7 @@ feketeföld
 feketegazdaság
 feketegyökér
 feketehalmi
+feketehangya
 feketekereskedelem
 feketekávé
 feketekávék
@@ -36686,13 +37002,16 @@ feketekávézik
 feketeleves
 feketemellű cinege
 feketenyakú hattyú
+feketenyakú vöcsök
 feketepiac
 feketepiaci
 feketepont
 feketeribizli
+feketeribizli-szörp
 feketerigó
 feketeszárnyú goda
 feketeszőlő
+feketeség
 feketetorkú
 feketetorkú apácapinty
 feketetorkú aranytrogon
@@ -36750,6 +37069,7 @@ feketésvörös
 feketészöld
 feketézik
 feketít
+feketül
 fekhely
 fekhet
 fekszem
@@ -37117,6 +37437,7 @@ feleselget
 feleselés
 feleselő
 felesik
+felesket
 felesküdik
 felesküszik
 felesleg
@@ -37328,7 +37649,9 @@ felhasogat
 felhasznál
 felhasználatlan
 felhasználható
+felhasználhatóan
 felhasználhatóbb
+felhasználhatóság
 felhasználja az alkalmat
 felhasználni
 felhasználok
@@ -37435,6 +37758,7 @@ felhívja
 felhívja a figyelmet
 felhívja magára a figyelmet
 felhívni
+felhívogat
 felhívás
 felhízik
 felhólyagosodás
@@ -37568,6 +37892,7 @@ felkapcsol
 felkapja a vizet
 felkapott
 felkapottabb
+felkapál
 felkar
 felkarcsont
 felkarcsontok
@@ -37645,6 +37970,7 @@ felkönyököl
 felkönyörög
 felköszönt
 felköt
+felköti
 felköti a gatyát
 felköti a nadrágszíjat
 felkúr
@@ -38053,6 +38379,7 @@ felsőcomb
 felsőcső
 felsőfok
 felsőfokjel
+felsőfokok
 felsőfokú
 felsőház
 felsőház tagja
@@ -38236,6 +38563,7 @@ felver
 felvergődik
 felvesz
 felvesz videóra
+felveszi a fátylat
 felveszi a tempót
 felveszik az egyetemre
 felveszünk
@@ -38461,7 +38789,6 @@ felületsimaság-vizsgáló
 felületén
 felületű
 felülfoglalás
-felülhitelesítés
 felüli
 felüljáró
 felülkerekedik
@@ -38489,6 +38816,7 @@ felülígér
 felülír
 felülírandó
 felüt
+felüti a fejét
 felütés
 felüvölt
 felől
@@ -38521,7 +38849,6 @@ fenek
 feneke
 fenekedik
 fenekek
-fenekel
 fenekel → elfenekel
 fenekes
 fenekestül
@@ -38567,8 +38894,10 @@ fenntarthatatlan
 fenntarthatatlanság
 fenntartható
 fenntartható fejlődés
+fenntarthatóan
 fenntarthatóbb
 fenntarthatóság
+fenntarthatósági
 fenntartja a látszatot
 fenntartok
 fenntartott
@@ -39157,6 +39486,7 @@ filmfelvétel
 filmfesztivál
 filmfesztiválok
 filmfesztiválon
+filmforgatás
 filmgyár
 filmgyártás
 filmhez
@@ -39496,6 +39826,7 @@ flexibilitás
 flexibilitások
 flexitáriánus
 flexiós
+flint
 flipper
 flippergolyó
 flitter
@@ -39583,11 +39914,11 @@ fodrásztanuló
 fodrászverseny
 fodrászüzlet
 fodrászüzletek
+fodrászüzleti
 fog
 fog az esze, mint a borotva
 foga
 fogad
-fogad, hogy X nem mer
 fogadalmak
 fogadalmi
 fogadalom
@@ -39599,6 +39930,7 @@ fogadhoz
 fogadj
 fogadj isten!
 fogadja
+fogadja részvétemet
 fogadjisten
 fogadják
 fogadkozik
@@ -39693,6 +40025,7 @@ fogamzásgátló (tabletta)
 fogamzásgátlók
 fogamzások
 fogamzóképes
+foganatosít
 fogantatás
 fogantyú
 fogantyúbetét
@@ -39717,7 +40050,6 @@ fogatlanság
 fogatni
 fogatok
 fogatokhoz
-fogaz
 fogazatmérő
 fogban
 fogbeültetés
@@ -39871,7 +40203,6 @@ fogszú
 fogság
 fogságba esett
 fogta
-fogtalan
 fogtam
 fogtok
 fogtömés
@@ -40377,6 +40708,7 @@ font
 font sterling
 fonta
 fontnyi
+fontok
 fontol
 fontolgat
 fontolóra vesz
@@ -40428,6 +40760,7 @@ fonyódi
 fonák
 fonáki
 fonál
+fonál cérna fonal
 fonálféreg
 fonás
 fonéma
@@ -40460,12 +40793,15 @@ fordít
 fordítani
 fordíthat
 fordítható
+fordíthatóan
+fordíthatóság
 fordítja
 fordítok
 fordított
 fordított csónak
 fordított félidézőjel
 fordított kalap
+fordított szem
 fordított törtvonal
 fordította
 fordítottan
@@ -40665,7 +41001,11 @@ formál
 formálatlan
 formálgat
 formálható
+formálhatóan
+formálhatóbb
+formálhatóság
 formális
+formális nyelv
 formális nyelvtan
 formált
 formálta
@@ -40847,6 +41187,7 @@ fotobiológiai
 fotocella
 fotocsúcs
 fotodinámiás terápia
+fotoeffektus
 fotoelektromos
 fotografál
 fotogram
@@ -40898,6 +41239,7 @@ foxtrottok
 foxtrottozik
 fradis
 fradista
+frakcionalizmus
 frakció
 frakciók
 frakcióvezető
@@ -40914,8 +41256,10 @@ francia ablak
 francia divat
 francia forradalmi naptár
 francia férfi
+francia hagymaleves
 francia köztársasági naptár
 francia nő
+francia tőkehal
 franciabarát
 franciabugyi
 franciakrémes
@@ -41074,6 +41418,8 @@ fullánk
 fulminsav
 fulminát
 fulánk
+fumigál
+fumigálás
 fundamentalista
 fundamentalizmus
 fundamentális
@@ -41311,6 +41657,7 @@ fácska
 fácán
 fácánleves
 fácánok
+fácános
 fád
 fádan
 fádság
@@ -41418,6 +41765,7 @@ fáradhatatlanok
 fáradhatatlanság
 fáradhatatlant
 fáradhatatlanul
+fáradjon
 fáradozik
 fáradozás
 fáradság
@@ -41932,6 +42280,7 @@ félévében
 félóra → félórás
 félórás
 félút
+félúton
 félő
 félőrült
 félős
@@ -42955,7 +43304,6 @@ füleskuvik
 fület
 fületek
 fületeknek
-fületlen
 fülgyulladás
 fülgyógyászat
 fülgyógyászatok
@@ -42993,7 +43341,6 @@ fülszerű
 fülszöveg
 fültanú
 fültanúk
-fültelen
 fültisztító
 fültisztító pálcika
 fültornác
@@ -43071,6 +43418,7 @@ fürj
 fürjek
 fürjész
 fürkész
+fürkészholyvaforma
 fürt
 fürtök
 fürtös
@@ -43160,6 +43508,7 @@ fütyi
 fütykös
 fütyül
 fütyülés
+fütyülő
 fütyülő réce
 füvek
 füves
@@ -43196,6 +43545,7 @@ főbenjáró
 főbiztos
 főbüntetés
 főbűn
+főcsoportfőnök
 főcím
 főcímdal
 főcímlista
@@ -43214,6 +43564,7 @@ főfelügyelő
 főfogalom
 főfogás
 főgimnázium
+főgyökér
 főhadiszállás
 főhadnagy
 főhangsúly
@@ -43330,6 +43681,7 @@ fős
 fősodor
 fősodorbeli
 fősodratú
+főstrázsamester
 fősz
 főszak
 főszakács
@@ -43350,6 +43702,7 @@ főt
 főtag
 főtefa
 főtengely
+főtengernagy
 főtere
 főterén
 főtitkár
@@ -43453,6 +43806,7 @@ fű
 fű-fa
 fűbe harap
 fűcsomó
+fűkasza
 fűköröm
 fűlik
 fűlés
@@ -43554,6 +43908,7 @@ fűződik
 fűződő
 fűzőgép
 fűzők
+fűzőkarika
 g
 g-húr
 g-moll
@@ -43574,6 +43929,7 @@ gabonaüszög
 gaboni
 gabonák
 gadolínium
+gadóchal
 gael
 gaelek
 gaelül
@@ -43785,9 +44141,12 @@ gatyamadzag
 gatyaszár
 gatyába
 gatyába ráz
+gatyája
 gatyák
 gatyás ölyv
 gatyás → gatyásodik → legatyásodik → legatyásodott
+gatyáskuvik
+gatyát
 gatyázik
 gavallér
 gaz
@@ -43863,6 +44222,7 @@ gazok
 gazométer
 gazon
 gazos
+gazsulál
 gazság
 gazt
 gaztett
@@ -43893,6 +44253,7 @@ genderqueer
 genealógia
 genealógiai
 genealógus
+generalisszimusz
 generalizál
 generatív
 generatív nyelvtan
@@ -43907,6 +44268,7 @@ generális
 generálisabb
 generálisok
 generálkivitelező
+generálmajor
 generáloz
 generálta
 generátor
@@ -43915,7 +44277,9 @@ generózus
 genetika
 genetika → genetikai → genetikailag
 genetikai
+genetikai betegség
 genetikai kód
+genetikai rendellenesség
 genetikailag
 genetikus
 genetikus algoritmus
@@ -43965,6 +44329,7 @@ genotípus
 genovai
 gens
 gentamicin-szulfát
+genyó
 geo-
 geocentrikus
 geodéta
@@ -43972,6 +44337,7 @@ geodézia
 geodéziák
 geofizika
 geofizikai
+geofizikus
 geoglifa
 geográfia
 geográfus
@@ -44028,6 +44394,7 @@ gerilla
 gerillaharc
 gerillaháború
 gerinc
+gerinc-
 gerinccsapolás
 gerinccsatorna
 gerincek
@@ -44096,13 +44463,13 @@ gesztáció
 gettó
 gettók
 ghibellin
-ghostingol
 ghostol
 ghrelin
 ghánai
 ghánai köztársasági
 ghánaiak
 gibbon
+gibli
 gibraltári
 giccs
 giccsek
@@ -44199,6 +44566,7 @@ globális
 globális felmelegedés
 globális helymeghatározó rendszer
 globális túlfogyasztás napja
+glokalizáció
 glosszárium
 glosszátor
 glottális hang
@@ -44258,6 +44626,7 @@ golgotavirág
 golyva
 golyvás
 golyó
+golyóbis
 golyócska
 golyófogó
 golyók
@@ -44564,6 +44933,7 @@ gondom
 gondon
 gondos
 gondosabb
+gondosabban
 gondosan
 gondosan összeválogatott
 gondoskodik
@@ -44745,6 +45115,7 @@ gruppenszex
 gruppíroz
 grábóci
 gráciák
+grádics
 grádus
 grádusok
 gráf
@@ -44791,6 +45162,7 @@ grönlandi
 grönlandi bálna
 grönlandi fóka
 grönlandi nyelv
+grönlandi tőkehal
 grúz
 grúziai
 grúzok
@@ -45038,6 +45410,7 @@ gyalogátkelőhelyek
 gyalogösvény
 gyalogösvények
 gyalogút
+gyalomháló
 gyalu
 gyaluforgács
 gyalugép
@@ -45078,6 +45451,7 @@ gyantám
 gyantánk
 gyantásciprus
 gyantátok
+gyantáz
 gyantázógép
 gyanánt
 gyanít
@@ -45110,6 +45484,7 @@ gyapjas bőr
 gyapjas mamut
 gyapjas tintagomba
 gyapjasabb
+gyapjasfejű keselyű
 gyapjú
 gyapjúfonal
 gyapjúipar
@@ -45235,6 +45610,7 @@ gyerekjáték eltalálni
 gyerekjátékok
 gyerekkel
 gyerekkor
+gyerekkora óta
 gyerekkori
 gyerekmese
 gyerekműsor
@@ -45245,10 +45621,12 @@ gyereknyelv
 gyereknyelvek
 gyereknyelven
 gyereknyelvi
+gyerekpizsama
 gyerekre
 gyerekre vigyáz
 gyerekszoba
 gyerekszobák
+gyerekszámba
 gyerekszék
 gyereksírás
 gyerektalicska
@@ -45428,6 +45806,7 @@ gyomraik
 gyomraim
 gyomraink
 gyomraitok
+gyomrocska
 gyomrod
 gyomrok
 gyomrokat
@@ -45628,6 +46007,7 @@ gyász
 gyászba borul
 gyászbeszéd
 gyászbogár
+gyászbogárféle
 gyászcincér
 gyászdal
 gyászeset
@@ -45735,6 +46115,7 @@ gyógyhatású
 gyógyhely
 gyógyintézet
 gyógykezel
+gyógykezelt
 gyógykezelés
 gyógykezelési
 gyógymód
@@ -45814,6 +46195,7 @@ gyógyíthatatlanabb
 gyógyíthatatlanság
 gyógyíthatatlanul
 gyógyítható
+gyógyíthatóan
 gyógyíthatóbb
 gyógyíthatóság
 gyógyítok
@@ -45843,7 +46225,6 @@ gyökerestül
 gyökerestül kiirt
 gyökeret ver
 gyökeret ver/ereszt/hajt
-gyökeretlen
 gyökerezik
 gyökerezés
 gyökerű
@@ -45852,6 +46233,7 @@ gyökszó
 gyöktétel
 gyöktörzs
 gyökvonás
+gyökvonásos
 gyökér
 gyökércikória
 gyökérgubacsképző fonálféreg
@@ -45878,6 +46260,8 @@ gyömbér
 gyömbér gyöktörzse
 gyömbérek
 gyömbérsör
+gyömbérsört
+gyömbérsörök
 gyömbérvirágúak
 gyömrői
 gyömöszöl
@@ -45990,6 +46374,7 @@ gyúrói
 gyülekezet
 gyülekezetek
 gyülekezeti
+gyülekezetnek
 gyülekezik
 gyülekezés
 gyülekezési szabadság
@@ -46025,6 +46410,7 @@ gyümölcslégy
 gyümölcsnektár
 gyümölcspiac
 gyümölcsszirup
+gyümölcsszörp
 gyümölcsszüret
 gyümölcstea
 gyümölcstelen
@@ -46201,6 +46587,7 @@ gyűrűs tuskógomba
 gyűrűs vízipiton
 gyűrűs ózon
 gyűrűscsőrű szárcsa
+gyűrűscsőrű vöcsök
 gyűrűsen
 gyűrűsfarkú maki
 gyűrűsféreg
@@ -46238,6 +46625,7 @@ gálya
 gályarab
 gályarabok
 gályák
+gáláns
 gálát
 gáncs
 gáncsol → elgáncsol
@@ -46864,6 +47252,7 @@ ha eljön az ideje
 ha esik, ha fúj
 ha hiszed, ha nem
 ha minden kötél szakad
+ha nagyon muszáj
 ha nem adsz, lesz kapsz
 ha nem tetszik, fel is út, le is út
 ha nem tévedek
@@ -46981,6 +47370,7 @@ hadisarc
 hadisten
 hadiszer
 haditechnika
+haditengerész
 haditengerészet
 haditengerészetek
 haditengerészeti
@@ -47260,7 +47650,9 @@ hajdanában
 hajdanában → hajdanában-danában
 hajdanán
 hajdina
+hajdinakása
 hajdinaliszt
+hajdinaszalma
 hajdísz
 hajdíszek
 hajdú
@@ -47382,7 +47774,9 @@ hajléktalanul
 hajlít
 hajlíthatatlan
 hajlítható
+hajlíthatóan
 hajlíthatóbb
+hajlíthatóság
 hajlítás
 hajlító
 hajlítóizmok
@@ -47728,6 +48122,8 @@ hallgatagabb
 hallgatagság
 hallgathat
 hallgathatatlan
+hallgathatatlanság
+hallgathatatlanul
 hallgatható
 hallgatja
 hallgatni
@@ -47749,7 +48145,9 @@ hallgatózás
 hallhat
 hallhatatlan
 hallható
+hallhatóan
 hallhatóbb
+hallhatóság
 hallik
 hallj
 hallja
@@ -47924,6 +48322,7 @@ halottkémek
 halottnak tetteti magát
 halottrablás
 halottvivő
+halotán
 halovány
 halovín
 halpaprikás
@@ -47969,6 +48368,7 @@ halványbarna
 halványfehér
 halványkék
 halványlila
+halványlila gőze sincs
 halványodik
 halványpiros
 halványszürke
@@ -48177,6 +48577,7 @@ hanga
 hangadás
 hangadó
 hangaföld
+hangagyökér pipa
 hangalak
 hangalámondás
 hanganyag
@@ -48455,6 +48856,7 @@ hangyasav
 hangyasavak
 hangyák
 hangyányi
+hangyányit
 hangyás
 hangyász
 hangyászgébics
@@ -48670,6 +49072,7 @@ harmadik
 harmadik kerék
 harmadik osztály
 harmadik személy
+harmadik világ
 harmadik világháború
 harmadik/kívülálló fél
 harmadika
@@ -48705,7 +49108,6 @@ harmincadika
 harmincadikai
 harmincadiki
 harmincadnyi
-harmincak
 harmincas
 harmincas (éveiben járó)
 harmincas évek
@@ -48789,7 +49191,6 @@ hasak
 hasal
 hasas
 hasat
-hasatlan
 hasbeszélés
 hasbeszélő
 hasbeszélők
@@ -48833,6 +49234,8 @@ hasonlít
 hasonlítgat
 hasonlíthatatlan
 hasonlítható
+hasonlíthatóan
+hasonlíthatóság
 hasonlítás
 hasonlító határozó
 hasonló
@@ -48948,6 +49351,7 @@ használhatóan
 használhatóbb
 használhatók
 használhatóság
+használhatósági
 használja
 használjuk
 használják
@@ -49319,7 +49723,6 @@ hatásokat
 hatásokkal
 hatásos
 hatásosabb
-hatásosan
 hatásosság
 hatással
 hatással van
@@ -49341,6 +49744,7 @@ hatékonyabban
 hatékonyan
 hatékonyság
 hatékonysága
+hatékonyságelv
 hatékonyságát
 hatéves
 ható
@@ -49367,6 +49771,7 @@ havasabb
 havasalföldi
 havasan
 havasi aranyeső
+havasi cincér
 havasi cirbolyafenyő
 havasi csóka
 havasi fülespacsirta
@@ -49438,6 +49843,7 @@ hazahoz
 hazahí
 hazahív
 hazahívat
+hazahívogat
 hazai
 hazai pálya
 hazaiak
@@ -49558,6 +49964,9 @@ hebehurgya
 hecc
 hecckampány
 hecclap
+hecsedli
+hecsedlis
+hecserli
 hedonista
 hedonizmus
 hefti
@@ -49767,6 +50176,7 @@ heliocentrikus
 heliocentrizmus
 heliofóbia
 heliport
+hellenista
 hellenisztikus
 hellenizmus
 hellyel
@@ -49816,6 +50226,7 @@ helyen
 helyenként
 helyenkénti
 helyes
+helyes/hibátlan/kifogástalan angolság
 helyesbít
 helyesbíthető
 helyesbíttet
@@ -50224,6 +50635,7 @@ herétől
 herével
 herévé
 heréért
+herót
 herőce
 hess
 hesseget
@@ -50273,7 +50685,6 @@ heterofóbia
 heterogenitás
 heterogyűrű
 heterogén
-heteronacionalizmus
 heteronima
 heteropatriarchátus
 heteroszexualitás
@@ -50301,11 +50712,13 @@ hetvenedik
 hetvenedik születésnapját betöltött
 hetvenegy
 hetvenegyedik
-hetvenek
 hetvenes
 hetvenes (éveiben járó)
 hetvenes évek
+hetvenharmadik
 hetvenhat
+hetvenhatodik
+hetvenhetedik
 hetvenhárom
 hetvenhét
 hetvenkedik
@@ -50313,11 +50726,14 @@ hetvenkedés
 hetvenkettedik
 hetvenkettő
 hetvenkilenc
+hetvenkilencedik
 hetvennegyedik
 hetvennyolc
+hetvennyolcadik
 hetvennégy
 hetvenvalahány éves
 hetvenöt
+hetvenötödik
 hetyke
 hetykeség
 hetykébb
@@ -50363,6 +50779,7 @@ hexán
 hexánok
 hexánsav
 hexánsavak
+hexén
 hezitál
 hezitálás
 hfn (hangosan felnevet)
@@ -50569,6 +50986,7 @@ higgyünk
 higiénia
 higiénikus
 higiénikusan
+higiénikusság
 higiéniák
 higroszkópos
 higroszkóposság
@@ -50585,6 +51003,7 @@ hihetően
 hihetőleg
 hihetőség
 hiltonbeli
+himalájai cédrus
 himalájai földirigó
 himbilimbi
 himbálózik
@@ -50684,8 +51103,11 @@ hipnózis
 hipnózisok
 hipoaciditás
 hipobromit
+hipochonder
 hipochondria
+hipochondriás
 hipociklois
+hipofoszforossav
 hipofízis
 hipoglikémia
 hipoklorit
@@ -51085,6 +51507,9 @@ hogy kell ezt a szót kiejteni?
 hogy kell írni ezt a szót?
 hogy kikapcsolod a tv-t?
 hogy merészel
+hogy merészelnek
+hogy merészelsz
+hogy merészeltek
 hogy mindjárt visszajön.
 hogy mondják angolul azt, hogy …?
 hogy ne mondjam
@@ -51223,7 +51648,6 @@ holland (férfi)
 holland nő
 hollandiai
 hollandok
-hollandus
 hollét
 holló
 holló a hollónak nem vájja ki a szemét
@@ -51358,7 +51782,6 @@ homlokrakodó
 homlokráncolás
 homlokról
 homlokszíj
-homloktalan
 homloktér
 homloktól
 homlokuk
@@ -51545,6 +51968,8 @@ horderő
 horderők
 hordhat
 hordható
+hordhatóan
+hordhatóság
 hordj
 hordja
 hordok
@@ -51555,6 +51980,8 @@ hordozható
 hordozható magnó/hifi (sztereó)
 hordozható számítógép
 hordozható töltő
+hordozhatóan
+hordozhatóság
 hordozta
 hordoztat
 hordozás
@@ -51582,6 +52009,7 @@ hordók
 hordóm
 hordószerű
 hordóz
+hordóérlelt
 horga
 horgany
 horganylemez
@@ -51715,11 +52143,13 @@ hosszán
 hosszát
 hosszátmérő
 hosszú
+hosszú bors
 hosszú csont
 hosszú hétvége
 hosszú lélegzetű
 hosszú menetelés
 hosszú táv(ú) → hosszútáv
+hosszú távon
 hosszú élet
 hosszúcsőrű lile
 hosszúfarkú billegető
@@ -52119,6 +52549,7 @@ humorérzéke
 humorérzékek
 humusz
 humán
+humán papillomavírus
 humán tárgyak
 humánerőforrás
 humánerőforrás-fejlesztés
@@ -52274,6 +52705,7 @@ huzatosság
 huzatú
 huzavona
 hv
+hypochondrium
 há
 háborgat
 háborgás
@@ -52331,6 +52763,7 @@ hájfej
 hájfejű
 hájjal
 hájon
+hájp
 hájpacni
 hájra
 háját
@@ -52556,6 +52989,7 @@ hármak
 hármam
 hárman
 hármas
+hármas befutó
 hármas kötés
 hármashangzat
 hármashangzó
@@ -52701,6 +53135,7 @@ hátfal
 hátgerinc
 hátgerincferdülés
 hátgerincsorvadás
+hátgerincsérülés
 hátgerinctörés
 hátha
 háti
@@ -52713,6 +53148,7 @@ hátlap
 hátoldal
 háton
 háton/hátán/hanyatt fekvő
+hátonúszó poloska
 hátra
 hátra arc
 hátra-
@@ -52723,6 +53159,7 @@ hátrabillen
 hátrabocsájt
 hátrabocsát
 hátraborul
+hátrabukfenc
 hátrabukik
 hátrabámul
 hátracsap
@@ -52744,6 +53181,7 @@ hátrafú
 hátrafúj
 hátragurul
 hátrahagy
+hátrahagy maga után
 hátrahat
 hátraható hasonulás
 hátrahordoz
@@ -52856,7 +53294,6 @@ hátsó szándék
 hátsó ülés
 hátsóbb
 hátsók
-háttalan
 háttere
 hátterek
 hátterekbe
@@ -53218,6 +53655,7 @@ házvétel
 házzal
 házzá
 házában
+házánál
 házát
 házé
 házéi
@@ -53266,7 +53704,6 @@ hétfelé
 hétfogás
 hétfő
 hétfői
-hétfői · keddi · szerdai · csütörtöki · pénteki · szombati · vasárnapi [edit]
 hétfők
 hétfőn
 hétfőnként
@@ -53372,9 +53809,11 @@ hím héja/sólyom
 hím vadászgörény
 hím vörösbegy
 hímek
+hímes
 hímestojás
 hímez
 hímez-hámoz
+hímezget
 hímezte
 hímivarsejt
 hímivarú
@@ -53499,6 +53938,9 @@ hívnak
 hívni
 hívnia
 hívod
+hívogat
+hívogatott
+hívogatás
 hívok
 hívom
 hívom a rendőrséget
@@ -53601,6 +54043,7 @@ hóhér
 hóhérkötél
 hóhérok
 hók
+hóka
 hókristály
 hókupac
 hókuszpókusz
@@ -53635,6 +54078,7 @@ hónaljak
 hónap
 hónapban
 hónapforduló
+hónapi
 hónapig
 hónapja
 hónapjában
@@ -53664,6 +54108,7 @@ hópárducok
 hóra
 hórihorgas
 hórukk
+hóstát
 hószám
 hósármány
 hótakaró
@@ -53819,7 +54264,6 @@ húsvétot
 húsvétvasárnap
 húsz
 húszad
-húszak
 húszan
 húszas
 húszas éveiben járó
@@ -53884,6 +54328,7 @@ húztátok
 húzunk
 húzz
 húzz a picsába
+húzz el
 húzza
 húzza a lóbőrt
 húzza az időt
@@ -53908,11 +54353,13 @@ húzódsz
 húzódzkodás
 húzódás
 húzódó
+húzóháló
 húzók
 húzókötél
 húzópróba
 húzós
 húzószilárdság
+húzózsinór
 húzózár
 hübrisz
 hücpe
@@ -53989,6 +54436,7 @@ hőingás
 hője
 hők
 hőkapacitás
+hőkezelt
 hőkezelés
 hőköl → hátrahőköl
 hőkölés
@@ -54155,7 +54603,6 @@ iatrokémikus
 ibizai kopó
 iblisz
 ibolya
-ibolya(sz.)
 ibolyacsokor
 ibolyaillat
 ibolyakék
@@ -54247,7 +54694,6 @@ idegcsoport
 idegdúc
 idegeire megy
 idegek
-idegel
 idegen
 idegen nyelv
 idegen nyelveken tudó ember (jól)
@@ -54378,6 +54824,7 @@ idekinn
 idekint
 idekiált
 idekoncentrál
+idekukucskál
 idekéret
 idekínlódik
 idekölcsönöz
@@ -54826,6 +55273,7 @@ igazgatótanács
 igazgatótanácsok
 igazhitű
 igazi
+igazi pamparóka
 igazibb
 igazmondó
 igazodik
@@ -55081,6 +55529,9 @@ ijedtsége
 ijedtségek
 ijedtében
 ijedős
+ijedősebb
+ijedősen
+ijedősség
 ijessz
 ijeszt
 ijeszt → megijeszt
@@ -55097,6 +55548,7 @@ ikerablakok
 ikercsöves
 ikergyerek
 ikerház egyik fele
+ikerion
 ikerkaszat
 ikerlependék
 ikerszó
@@ -55108,6 +55560,7 @@ ikon
 ikonográfia
 ikonográfiai
 ikonok
+ikonoklaszta
 ikonosztáz
 ikozaéder
 ikozaéderek
@@ -55131,6 +55584,7 @@ iktatható
 iktattat
 iktatás
 iktató
+iktatókönyv
 iktatószám
 ildomos
 ilinyi
@@ -55254,6 +55708,7 @@ illúziókba ringat
 illúziókeltő
 illő
 illőbb
+ilmenit
 ily
 ily módon
 ilyen
@@ -55386,6 +55841,8 @@ implikáció
 implikációk
 implikációs
 implikál
+imponál
+imponáló
 import
 importcikk
 importál
@@ -55399,6 +55856,8 @@ impozánsan
 impregnál
 impresszionista
 impresszionizmus
+impresszionál
+impresszió
 impresszum
 impresszumok
 impresszárió
@@ -55508,7 +55967,6 @@ indifferens
 indifferensebb
 indignált
 indigó
-indigó(sz.)
 indigók
 indigómásolat
 indikció
@@ -55945,6 +56403,7 @@ intelligenciahányados
 intelligenciák
 intelligens
 intelligens tervezés
+intelligensen
 intelme
 intenció
 intenciók
@@ -56018,6 +56477,7 @@ interpretációk
 interpretációs
 interpretál
 interpretálás
+interszekcionalitás
 interszex
 interszexualitás
 interszexuális
@@ -56101,6 +56561,8 @@ intézés
 intézési
 intézésű
 intéző
+intéző bizottság
+intézőbizottság
 intő
 intő példa
 intőbb
@@ -56118,6 +56580,8 @@ invertcukor
 invertál
 invertálható
 invertálható mátrix
+invertálhatóan
+invertálhatóság
 inverz
 inverz függvény
 inverz merevség
@@ -56294,7 +56758,6 @@ irdatlanul
 irgalmas
 irgalmasság
 irgalmatlan
-irgalmatlan(ul)
 irgalmatlanul
 irgalmaz
 irgalmú
@@ -56441,7 +56904,6 @@ irtók
 irtószer
 irtózat
 irtózatos
-irtózatos(an)
 irtózatosabb
 irtózatosan
 irtózatosság
@@ -56506,6 +56968,9 @@ irányítani
 irányítatlan gráf
 irányíthatatlan
 irányítható
+irányíthatóan
+irányíthatóbb
+irányíthatóság
 irányítja
 irányított
 irányított gráf
@@ -56843,6 +57308,8 @@ istent
 istentagadó
 istentan
 istentelen
+istentelenség
+istentelenül
 istentisztelet
 istentiszteletek
 istentiszteleten vesz részt
@@ -56878,6 +57345,7 @@ iszalag
 iszap
 iszapbirkózás
 iszapgyopár
+iszapkagyló
 iszapkő
 iszapok
 iszapos
@@ -56907,19 +57375,18 @@ iszom
 iszony
 iszonyat
 iszonyatos
-iszonyatos(an)
 iszonyatosan
 iszonyodik
 iszonyodás
 iszonyok
 iszonyú
-iszonyú(an)
 iszonyúan
 isztambuli
 isztiméri
 isztok
 isztroromán
 iszunk
+iszák
 iszákos
 ital
 ital → italos
@@ -57128,7 +57595,6 @@ izmos
 izmosabb
 izmot
 izmotok
-izmoz
 izmozik
 izmuk
 izmunk
@@ -57197,7 +57663,6 @@ izomsejt
 izomsejtek
 izomsorvadás
 izomszalag
-izomtalan
 izomtan
 izomtól
 izomtónus
@@ -57209,6 +57674,7 @@ izoperimetrikus
 izoprén
 izosztázia
 izotróp
+izotrópia
 izotóniás
 izotóp
 izotópok
@@ -57300,7 +57766,6 @@ jamsz
 jamszgyökér
 jamszgyökérvirágúak
 jan.
-jan. febr. márc. ápr. máj. jún. júl. aug. szept. okt. nov. dec.
 jancsibankó
 jancsiszeg
 jancsiszög
@@ -57455,6 +57920,7 @@ jegenyefenyő
 jeges
 jeges búvár
 jeges tea
+jeges tőkehal
 jeges zápor
 jeges-tengeri
 jegescukor
@@ -58137,6 +58603,7 @@ juhra
 juhról
 juhsajt
 juhtej
+juhtenyésztés
 juhtól
 juhtúró
 juhtúrós
@@ -58438,6 +58905,9 @@ játszanék
 játszd
 játszhat
 játszható
+játszhatóan
+játszhatóbb
+játszhatóság
 játszi
 játszik
 játszik vele, mint macska az egérrel
@@ -58644,6 +59114,7 @@ jó hogy
 jó hír
 jó idő
 jó kifogás sose rossz
+jó kilátást nyújtó pont
 jó képességű
 jó képet vág hozzá
 jó megfigyelő
@@ -59075,6 +59546,7 @@ kabalababa
 kabalafigura
 kabalák
 kabalát
+kabanna
 kabaré
 kabaréelem
 kabaréműsor
@@ -59155,6 +59627,7 @@ kadét
 kadéta
 kadétiskola
 kafa
+kafferbivaly
 kafkai
 kaftán
 kaftánok
@@ -59451,6 +59924,7 @@ kalmárkodik
 kalmárlelkű
 kalmárszellem
 kalmárszellemű
+kalmük
 kalocsai
 kalorimetria
 kaloriméter
@@ -59685,6 +60159,7 @@ kandela
 kandeláber
 kandeláberek
 kandi
+kandi kamera
 kandilla
 kandiscukor
 kandzsi
@@ -59714,6 +60189,7 @@ kanos
 kant
 kantele
 kantfal
+kantikum
 kantin
 kantinok
 kantiánus
@@ -59819,6 +60295,8 @@ kapcsolatát
 kapcsolatú
 kapcsolgat
 kapcsolható
+kapcsolhatóan
+kapcsolhatóság
 kapcsolni
 kapcsolok
 kapcsolt
@@ -59849,8 +60327,10 @@ kapd be
 kapdos
 kaphat
 kapható
+kaphatóan
 kaphatóbb
 kaphatók
+kaphatóság
 kapibara
 kapilláraktív
 kapilláris
@@ -59858,6 +60338,7 @@ kapillárisok
 kapiskál
 kapiskálás
 kapitalista
+kapitalista utas
 kapitalizmus
 kapituláció
 kapitulál
@@ -60115,6 +60596,7 @@ kapzsiságinfláció
 kapák
 kapál
 kapáló ember
+kapálódzik
 kapálógép
 kapálózik
 kapás
@@ -60178,6 +60660,8 @@ karalábéleves
 karalábés
 karambol
 karambolok
+karamboloz
+karambolozik
 karamell
 karamellek
 karamellen
@@ -60412,7 +60896,6 @@ karszt
 karsztfelszín
 karszék
 kart
-kartalan
 karthauzi
 karthauzi kolostor
 kartográfia
@@ -60495,13 +60978,17 @@ karél
 karénekes
 karó
 karóba húz
+karóbab
 karód
+karógyökér
 karók
 karóm
 karóra
 karórák
 karórépa
+karós
 karósbab
+karóz
 karú
 karúszó
 kas
@@ -60545,6 +61032,7 @@ kaszba
 kaszbák
 kaszinó
 kaszinók
+kaszinótojás
 kaszkadőr
 kaszt
 kasztanyetta
@@ -60655,6 +61143,7 @@ katonai rangjelzés
 katonai szolgálat
 katonai ügyész
 katonai ügyészség
+katonai-ipari komplexum
 katonaidő
 katonaiskola
 katonajegy
@@ -60733,6 +61222,7 @@ katódsugár
 katódsugárcsövek
 katódsugárcső
 kaució
+kauciót fizet
 kaucsuk
 kaucsukbaba
 kaucsukfa
@@ -60865,6 +61355,7 @@ kedved
 kedvedet
 kedvek
 kedvel
+kedvelhető
 kedvelt
 kedveltebb
 kedveltek
@@ -60877,7 +61368,9 @@ kedvenc tartózkodási hely
 kedvence
 kedvencebb
 kedvencek
+kedvencek közé felvesz/ment
 kedvencekhez
+kedvencekhez hozzáad/felvesz
 kedvencem
 kedves
 kedves ember
@@ -60997,7 +61490,6 @@ kegyesrend
 kegyesrendi
 kegyesség
 kegyetlen
-kegyetlen(ül)
 kegyetlenebb
 kegyetlenkedik
 kegyetlenség
@@ -61371,6 +61863,7 @@ kenhető
 keni
 kenj
 kenne
+kennek
 kenotáfium
 kensz
 kent
@@ -61418,6 +61911,7 @@ kenyérszöveg
 kenyértartó
 kenyértészta
 kenyértörésre viszi a dolgot
+kenyérzsák
 kenyérért
 kenés
 kenéz
@@ -61463,6 +61957,7 @@ kerekítés
 kerekítési
 kerekű
 kerengő
+kerengő dervis
 kerengő dervisek
 kerepesi
 kereplő
@@ -61710,12 +62205,14 @@ keresési
 kereséssel
 keresünk
 kereső
+keresőcsapat
 keresőgép
 keresők
 keresőképtelen
 keresőlámpa
 keresőlámpák
 keresőmotor
+keresőosztag
 keret
 keretbe foglal
 kerete
@@ -62001,6 +62498,7 @@ kerítésen
 kerítésléc
 kerítést
 kerítő
+kerítőháló
 kerítőnő
 kerül
 kerülendő
@@ -62217,6 +62715,9 @@ kevesen
 keveset
 kevlár
 kevély
+kevélyebb
+kevélykedik
+kevélység
 kevés
 kevés zsíron, hirtelen kisüt
 kevés/minimális csomaggal/poggyásszal utazik
@@ -62348,6 +62849,7 @@ kezelhető
 kezelik
 kezelni
 kezelsz
+kezelt
 kezelés
 kezelésbe vesz
 kezelésbevétel
@@ -62395,7 +62897,6 @@ kezet ráz
 kezet szorít
 kezetek
 kezeteket
-kezetlen
 kezez
 kezezés
 kezicsókolom
@@ -62424,6 +62925,7 @@ kft.
 kft.-k
 kg
 kg-os
+khaki
 khariszok
 khi
 khmer
@@ -62676,6 +63178,8 @@ kicsapódás
 kicsatol
 kicsattan
 kicsavar
+kicsavargat
+kicsavarodik
 kicsekkol
 kicselez
 kicsempész
@@ -62712,6 +63216,7 @@ kicsinek
 kicsinosít
 kicsiny
 kicsiny (e)
+kicsinyel
 kicsinyel → lekicsinyel
 kicsinyell
 kicsinyeskedik
@@ -62929,6 +63434,7 @@ kifaggat
 kifagy
 kifagyaszt
 kifakad
+kifakadás
 kifakaszt
 kifakul
 kifakult
@@ -63207,9 +63713,11 @@ kihányat
 kihátrál
 kiházasít
 kihí
+kihímez
 kihíresztel
 kihív
 kihívat
+kihívogat
 kihívás
 kihívások
 kihívásokat
@@ -63260,6 +63768,7 @@ kiirthatatlanul
 kiirtogat
 kiirtódik
 kiismer
+kiismeri magát
 kiiszik
 kiizzad
 kiizzaszt
@@ -63325,11 +63834,15 @@ kikalkulál
 kikanyarodik
 kikap
 kikapar
+kikapargat
+kikaparás
+kikaparó
 kikapaszkodik
 kikapcsol
 kikapcsolás
 kikapcsolódik
 kikapcsolódás
+kikapál
 kikapás
 kikarikíroz
 kikattan
@@ -63401,6 +63914,7 @@ kikre
 kikről
 kiktől
 kikuju
+kikukucskál
 kikutat
 kiké
 kikél
@@ -63583,6 +64097,7 @@ kilátástalan
 kilátástalan/megoldhatatlan helyzet
 kilátó
 kilátóhely
+kilátópont
 kilátótornyos
 kilátótorony
 kilégzés
@@ -63662,8 +64177,10 @@ kimenő/elküldendő levelek
 kimenőegység
 kimenőjel
 kimer
+kimer vízet
 kimered
 kimereget
+kimerez
 kimerés
 kimerít
 kimerített
@@ -63683,6 +64200,7 @@ kimondhatatlan
 kimondhatatlanabb
 kimondhatatlanság
 kimondhatatlanul
+kimondott
 kimondottan
 kimondás
 kimondó
@@ -63702,6 +64220,8 @@ kimutat
 kimutathatatlan
 kimutatható
 kimutathatóan
+kimutathatóbb
+kimutathatóság
 kimutatja
 kimutatja a foga fehérjét
 kimutatkozik
@@ -63781,6 +64301,8 @@ kintről
 kinyal
 kinyer
 kinyerés
+kinyiffan
+kinyiffant
 kinyilatkoztat
 kinyilatkoztatás
 kinyilvánít
@@ -63975,6 +64497,7 @@ kirágcsál
 királlyá
 király
 királya
+királyabb
 királyalbatrosz
 királydinnye
 királydráma
@@ -63993,6 +64516,7 @@ királykisasszony
 királykobra
 királykodik
 királykék
+királylazac
 királylepke
 királylepkék
 királyleány
@@ -64068,12 +64592,14 @@ kis lilik
 kis mell
 kis meténg
 kis mustárlepke
+kis olasz agár
 kis oroszlánkutya
 kis prérityúk
 kis póling
 kis sirály
 kis szeméremajkak
 kis szoba
+kis sólyom
 kis tarkalepke
 kis trapézcsont
 kis tágulat
@@ -64180,6 +64706,7 @@ kisgyerek
 kisgyermek
 kisgép
 kishitű
+kishitűség
 kishúg
 kisiet
 kisiklasztás
@@ -64288,6 +64815,7 @@ kisvirágú hunyor
 kisvárdai
 kisváros
 kisvártatva
+kisvérkör
 kiszab
 kiszabadul
 kiszabadulás
@@ -64297,6 +64825,7 @@ kiszagol
 kiszakad
 kiszakaszt
 kiszakít
+kiszakítgat
 kiszalad
 kiszalajt
 kiszar
@@ -64358,6 +64887,9 @@ kiszámíthatatlanabb
 kiszámíthatatlanság
 kiszámíthatatlanul
 kiszámítható
+kiszámíthatóan
+kiszámíthatóbb
+kiszámíthatóság
 kiszámítás
 kiszánt
 kiszárad
@@ -64385,7 +64917,6 @@ kiszökik
 kiszökés
 kiszúr
 kiszürcsöl
-kiszürkít
 kiszőkít
 kiszűr
 kiságy
@@ -64489,6 +65020,7 @@ kitermelés
 kitermeszt
 kitervel
 kiterít
+kitessékel
 kitesz
 kitesz (-t)
 kitesz magáért
@@ -64540,6 +65072,7 @@ kitár
 kitárgyal
 kitárt
 kitárul
+kitáráz
 kitát
 kitép
 kitépked
@@ -64776,6 +65309,7 @@ kivételesebben
 kivételesen
 kivételesség
 kivételezett
+kivételezett (személy)
 kivételezés
 kivételével
 kivétet
@@ -64826,6 +65360,7 @@ kiábrándulások
 kiábrándít
 kiábrándítás
 kiábrándító
+kiábrándítóbb
 kiácsol
 kiád
 kiágazik
@@ -65331,6 +65866,7 @@ koldusbotra
 koldusból királyfi
 koldusok
 koldusszegény
+koldustarisznya
 kolecalciferol
 kolera
 kolerabacilus
@@ -65441,6 +65977,7 @@ komikum
 komikus
 komisszár
 komisszárius
+komična opera
 komló
 komlóbükk
 komlógyertyán
@@ -65468,6 +66005,7 @@ kommunikál
 kommunikálnak
 kommunikálnák
 kommunista
+kommunista párt
 kommunisták
 kommunizmus
 kommunizmusok
@@ -65622,9 +66160,11 @@ komédiák
 komédián
 komédiás
 komód
+komódos
 komót
 komótos
 komótosan
+komótosság
 koncentrikus
 koncentráció
 koncentrációk
@@ -65716,6 +66256,7 @@ konfidenciaintervallum
 konfiguráció
 konfigurációk
 konfigurációs
+konfirmandus
 konfirmáció
 konfirmál
 konfirmálás
@@ -65809,6 +66350,7 @@ konokul
 konspiráció
 konspirációk
 konspirációs
+konspirációs teória
 konspirál
 konspirátor
 konspirátorok
@@ -65834,6 +66376,7 @@ konszenzus
 konszenzusok
 konszenzusos
 konszern
+konszignáció
 konszolidáció
 konszolidációk
 konszolidációs
@@ -65859,6 +66402,7 @@ kontaktóra
 kontamináció
 kontextus
 kontextusok
+konteó
 kontinens
 kontinensek
 kontinensen
@@ -65953,6 +66497,7 @@ konvertibilis
 konvertál
 konvertálás
 konverzió
+konverziós terápia
 konverziós zavar
 konverzációelemzés
 konvex
@@ -66166,6 +66711,9 @@ kopásálló
 kopású
 kopíroz
 kopó
+kopócsaholás
+kopófalka
+kopós
 kor
 kora
 korabeli
@@ -66177,6 +66725,7 @@ koraibb
 koraidenevér
 korall
 korall-
+korallfa
 korallgomba
 korallsziget
 korallszín
@@ -66318,6 +66867,7 @@ korinthoszi
 korinthoszi oszloprend
 koripálya
 korizik
+korizmus
 korják
 korkedvezmény
 korkép
@@ -66439,6 +66989,7 @@ koromban
 koromfekete
 koromfogó
 korommentes
+koromsötét
 koron
 korona
 korona-
@@ -66602,6 +67153,12 @@ korszerűtlen
 korszerűtlenebb
 korszerűtlenség
 korsó
+korsócsecs
+korsófül
+korsókészítő
+korsónyak
+korsónyi
+korsós
 kort
 kortalan
 korteskedik
@@ -66656,6 +67213,7 @@ kosaras
 kosarat ad
 kosarat kap
 kosarazik
+kosbor
 kosok
 kossuthi
 kosszarvú
@@ -66881,10 +67439,12 @@ kriminál-
 kriminális
 krinolin
 krinolinok
+kriogenika
 kripli
 kripta
 kripto-
 kriptográfia
+kriptográfiai
 kripton
 kriptonok
 kriptonon
@@ -66993,7 +67553,6 @@ krákogás
 kráter
 krédó
 krém
-krém-
 krémek
 krémes
 krémesebb
@@ -67025,6 +67584,7 @@ krómoz
 krónika
 krónikaíró
 krónikus
+krónikus fáradtság szindróma
 krónikák
 krónikás
 kszi
@@ -67086,6 +67646,7 @@ kukacuk
 kukacunk
 kuki
 kukkantás
+kukkendáré
 kukker
 kukorica
 kukoricacsipsz
@@ -67133,6 +67694,7 @@ kukta
 kukucs
 kukucskál
 kukucskáló
+kukuj
 kukurikú
 kukák
 kukás
@@ -67197,6 +67759,7 @@ kulturálatlanabb
 kulturálatlanság
 kulturálatlanul
 kulturális
+kulturális antropológia
 kulturális forradalom
 kulturális imperializmus
 kulturális marxizmus
@@ -67297,6 +67860,7 @@ kuncsaft
 kuncsorog
 kung fu
 kunhegyesi
+kunkor
 kunkorodó
 kunkorodó idézőjel
 kunnak
@@ -67384,6 +67948,7 @@ kuruliszi
 kurultáj
 kuruttyol
 kuruttyolás
+kuruzslás
 kuruzsló
 kurva
 kurva anyád
@@ -67508,6 +68073,7 @@ kuvasz
 kuvaszok
 kuver
 kuvik
+kuvikol
 kvadratúra amplitúdómoduláció
 kvadrilliárd
 kvadrillió
@@ -67530,6 +68096,7 @@ kvantum-összefonódás
 kvantumelmélet
 kvantumelméletek
 kvantumfizika
+kvantumkémia
 kvantummechanika
 kvantummechanikai
 kvantumszám
@@ -67564,6 +68131,7 @@ kvirt
 kvirtmínusz
 kvázi
 kvíz
+kvízek
 kvízmester
 kvízműsor
 kvóta
@@ -67777,7 +68345,7 @@ károkozás
 károlyvárosi
 károm
 káromkodik
-káromkodik, mint egy teherautós
+káromkodik, mint a kocsis
 káromkodás
 káros
 káros hatással van
@@ -67851,6 +68419,7 @@ kártékonyabb
 kártérítés
 kártérítési
 kártétel
+kártó
 kárveszély
 kárvölgy
 kárál
@@ -67981,6 +68550,7 @@ kék fülemüle
 kék galamb
 kék hajnalka
 kék halál
+kék puha tőkehal
 kék szajkó
 kék szemű
 kék szuperóriás
@@ -67994,7 +68564,6 @@ kékes
 kékesebb
 kékesen
 kékesfekete
-kékeslila
 kékesszürke
 kékesség
 kékeszöld
@@ -68251,6 +68820,8 @@ képmutatás
 képmutató
 képmutatók
 képmás
+képmérnök
+képmérnökök
 képnek
 képnyelv
 képnyomtatás
@@ -68329,6 +68900,7 @@ képzeljelek
 képzelni
 képzelnélek
 képzelt
+képzelt beteg
 képzelte
 képzeltelek
 képzelő
@@ -68561,6 +69133,9 @@ kérlek, mondjátok utánam
 kérlek, segíts
 kérlel
 kérlelhetetlen
+kérlelhetetlenebb
+kérlelhetetlenség
+kérlelhetetlenül
 kérlelés
 kérne
 kérned
@@ -68668,13 +69243,12 @@ késtünk
 késve
 kész
 kész helyzet
-kész van
+kész van van készen van
 kész(en van) a vacsora
 készakarva
 készebb
 készek
 készen
-készen van
 készen áll
 készenlét
 készenlétbe
@@ -69700,9 +70274,11 @@ költsön
 költés
 költészet
 költészetek
+költészetellenes
 költészetet
 költészeti
 költészettan
+költészettani
 költözik
 költözködik
 költözködés
@@ -70209,6 +70785,7 @@ körökbe
 körökben
 köröket
 köröm
+körömbőr
 körömcipő
 körömfeketényi
 körömfájás
@@ -70224,6 +70801,7 @@ körömpörkölt
 körömreszelő
 körömrágós
 körömszakadtáig
+körömszálka
 körömvirág
 körömágy
 körömágyak
@@ -70251,6 +70829,7 @@ körözvény
 körözvények
 körözés
 körözés alatt álló
+körözési
 körözött
 körözőlevél
 körút
@@ -70285,6 +70864,7 @@ körülhízeleg
 körüli
 körüljár
 körüljárat
+körülkapál
 körülkarol
 körülkerget
 körülkerít
@@ -70420,8 +71000,12 @@ köszönőszó
 köszönőviszony
 köszörül
 köszörüli a torkát
+köszörű
+köszörűgép
 köszörűgép → dörzsköszörűgép
+köszörűkerék
 köszörűkő
+köszörűs
 kösöntyű
 köt
 kötbér
@@ -70544,6 +71128,7 @@ kötények
 kötés
 kötések
 kötési
+kötésminta
 kötésszög
 kötésű
 kötöde
@@ -70729,6 +71314,7 @@ kövicsík
 kövidinka
 kövirigó
 kövirózsa
+kövirózsacserje
 kövér
 kövér ember
 kövérebb
@@ -71117,12 +71703,14 @@ közép-ázsiai
 középangol
 középbirodalom
 középbirtok
+középdélután
 középen
 középfalu
 középfelnémet
 középfinom
 középfok
 középfokjel
+középfokok
 középfokú
 középfül
 középfülek
@@ -71131,6 +71719,9 @@ középfülgyulladások
 középgörög
 középgörög nyelv
 középhad
+középhatalmi
+középhatalmú
+középhatalom
 középhegység
 középidő
 középiskola
@@ -71417,7 +72008,6 @@ küldöz
 küldő
 külföld
 külföldi
-külföldi irat felülhitelesítése
 külföldiek
 külföldit
 külföldre
@@ -71720,6 +72310,7 @@ kőkemény
 kőkonzol
 kőkorszak
 kőkorszakbeli
+kőkorsó
 kőlap
 kőműves
 kőművesek
@@ -71837,6 +72428,8 @@ labdaszedő fiú
 labdaszedő lány
 labdavezetés
 labdaátvétel
+labdába
+labdába rúg
 labdák
 labdás
 labdát
@@ -71882,6 +72475,7 @@ lajhárok
 lajka
 lajoskomáromi
 lajosmizsei
+lajstromozás
 lajt
 lajtos kocsi
 lak
@@ -71921,6 +72515,7 @@ lakhatási
 lakhatású
 lakható
 lakhatóan
+lakhatóbb
 lakhatóság
 lakhely
 lakhelyek
@@ -72412,6 +73007,7 @@ leballag
 lebarnul
 lebarnult
 lebarnulás
+lebarnít
 lebasz
 lebbencsleves
 lebbencstészta
@@ -72488,6 +73084,7 @@ leckéztet
 leckéztet → megleckéztet
 lecsal
 lecsap
+lecsapja a magas labdát
 lecsapol
 lecsapolás
 lecsapódik
@@ -72655,6 +73252,8 @@ lefordíthatatlanabb
 lefordíthatatlanság
 lefordíthatatlanul
 lefordítható
+lefordíthatóan
+lefordíthatóság
 leforgat
 leforgácsol
 leforgás
@@ -72832,6 +73431,7 @@ legbelseje
 legbelső
 legbelsőbb
 legbeláthatatlanabb
+legbeláthatóbb
 legbelül
 legbensőbb
 legbensőségesebb
@@ -72841,6 +73441,7 @@ legbetegebb
 legbetegesebb
 legbetyárosabb
 legbeváltabb
+legbeállíthatóbb
 legbeérkezettebb
 legbizalmasabb
 legbizalmatlanabb
@@ -72958,6 +73559,7 @@ legcukibb
 legcukrosabb
 legcvíderebb
 legcégesebb
+legcégéresebb
 legcélravezetőbb
 legcélszerűbb
 legcélszerűtlenebb
@@ -72988,6 +73590,7 @@ legdicsőségesebben
 legdiktatórikusabb
 legdilinósabb
 legdinamikusabb
+legdinamikusabban
 legdiplomatikusabb
 legdiszkrétebb
 legdiszkrétebben
@@ -72998,6 +73601,7 @@ legdiósabb
 legdobogóbb
 legdogmatikusabb
 legdohosabb
+legdokumentálhatóbb
 legdominánsabb
 legdrasztikusabb
 legdrágább
@@ -73028,6 +73632,7 @@ legegyenesebben
 legegyenletesebb
 legegyetemesebb
 legegyetemlegesebb
+legegyhangúbb
 legegyhangúbban
 legegyszerűbb
 legegyszerűbben
@@ -73097,6 +73702,7 @@ legelvetemültebb
 legelviselhetetlenebb
 legelvontabb
 legelválaszthatatlanabb
+legelvárhatóbb
 legelégedetlenebb
 legelégedettebb
 legelégtelenebb
@@ -73119,6 +73725,7 @@ legembertelenebb
 legemelkedettebb
 legemelkedőbb
 legemlékezetesebb
+legemészthetetlenebb
 legen
 legenda
 legendabeli
@@ -73766,6 +74373,7 @@ legfolyékonyabban
 legfolyósabb
 legfontosabb
 legforgalmasabb
+legformálhatóbb
 legformátlanabb
 legforradalmibb
 legforróbb
@@ -73838,6 +74446,7 @@ leggiccsesebb
 leggigászibb
 leggondatlanabb
 leggondosabb
+leggondosabban
 leggondozatlanabb
 leggondozottabb
 leggondtalanabb
@@ -74030,6 +74639,7 @@ legigénytelenebb
 legihatatlanabb
 legihatóbb
 legijedtebb
+legijedősebb
 legijesztőbb
 legillatosabb
 legilletlenebb
@@ -74058,11 +74668,13 @@ legintrovertáltabb
 legintőbb
 legionizálóbb
 legionárius
+legionáriusbetegség
 legionáriusok
 legirigyebb
 legirigykedőbb
 legironikusabb
 legirtózatosabb
+legirányíthatóbb
 legismeretlenebb
 legismertebb
 legismertetőbb
@@ -74110,6 +74722,7 @@ legjoviálisabb
 legjárhatatlanabb
 legjárhatóbb
 legjártasabb
+legjátszhatóbb
 legjátékosabb
 legjéghidegebb
 legjókedvűbb
@@ -74163,6 +74776,7 @@ legkeserűbb
 legkeskenyebb
 legkesztyűsebb
 legkevesebb
+legkevélyebb
 legkevésbé
 legkezdeményezőbb
 legkezdete
@@ -74187,13 +74801,16 @@ legkihaltabb
 legkimagaslóbb
 legkimerítőbb
 legkimondhatatlanabb
+legkimutathatóbb
 legkiolthatatlanabb
+legkirályabb
 legkirályibb
 legkisebb
 legkisebb közös nevező
 legkisebb közös többszörös
 legkisebben
 legkiszámíthatatlanabb
+legkiszámíthatóbb
 legkitartóbb
 legkiterjedtebb
 legkiterjedőbb
@@ -74202,6 +74819,7 @@ legkiválóbb
 legkivételesebb
 legkivételesebben
 legkizsákmányolóbb
+legkiábrándítóbb
 legklasszabb
 legklasszicistább
 legkleptomániásabb
@@ -74278,6 +74896,7 @@ legképtelenebb
 legképzettebb
 legkérdésesebb
 legkéretlenebb
+legkérlelhetetlenebb
 legkérészéletűbb
 legkészebb
 legkésőbb
@@ -74341,6 +74960,7 @@ legkülönösebb
 legkülönösebben
 leglagymatagabb
 leglakhatatlanabb
+leglakhatóbb
 leglangyosabb
 leglaposabb
 leglassabb
@@ -74384,6 +75004,7 @@ leglágyabban
 leglányosabb
 legláthatatlanabb
 legláthatóbb
+leglátogathatóbb
 leglátszólagosabb
 leglátványosabb
 leglázadóbb
@@ -74398,6 +75019,7 @@ legmagasabb
 legmagasröptűbb
 legmagasztosabb
 legmagyarosabb
+legmagyarázhatóbb
 legmagányosabb
 legmagátólértetődőbb
 legmakacsabb
@@ -74475,6 +75097,7 @@ legmonumentálisabb
 legmorálisabb
 legmorálisabban
 legmosatlanabb
+legmoshatóbb
 legmosolytalanabb
 legmostohább
 legmozdulatlanabb
@@ -74493,6 +75116,7 @@ legméltóbb
 legméltóságteljesebb
 legmélye
 legmélyebb
+legmélyebben
 legméregtelenebb
 legmérgesebb
 legmérgezettebb
@@ -74502,6 +75126,7 @@ legmérhetőbb
 legmérsékeltebb
 legmérsékeltebben
 legmértékletesebb
+legmértéktelenebb
 legmézesebb
 legmódosabb
 legmódszeresebb
@@ -74516,6 +75141,7 @@ legnagyobb
 legnagyobb közös osztó
 legnagyobbik
 legnagyszerűbb
+legnagyíthatóbb
 legnarancsosabb
 legnarancsszínűbb
 legnedvdúsabb
@@ -74882,8 +75508,10 @@ legszínesebb
 legszínpompásabb
 legszíntelenebb
 legszínvonalasabb
+legszívderítőbb
 legszívesebb
 legszívesebben
+legszívmelengetőbb
 legszívtelenebb
 legszívélyesebb
 legszívélyesebben
@@ -75124,6 +75752,7 @@ legválságosabb
 legváltakozóbb
 legváltozatlanabb
 legváltozatosabb
+legváltoztathatóbb
 legváltozóbb
 legváratlanabb
 legváratlanabbul
@@ -75268,6 +75897,7 @@ legáthidalhatatlanabb
 legáthághatatlanabb
 legátkozottabb
 legátlagosabb
+legátláthatóbb
 legátlátszóbb
 legáttekinthetetlenebb
 legáttekinthetőbb
@@ -75523,6 +76153,7 @@ lehány
 lehí
 lehív
 lehívat
+lehívogat
 lehúz
 lehúzat
 lehúzkod
@@ -75948,6 +76579,7 @@ lemágnesezés
 lemásol
 lemászik
 lemélyeszt
+lemélyít
 lemér
 leméret
 lemérés
@@ -76053,6 +76685,7 @@ lenyugtat
 lenyugvás
 lenyugvó
 lenyír
+lenyúl
 lenyúlik
 lenyúló
 lenyúló szár
@@ -76135,6 +76768,7 @@ leple
 leplek
 leplet
 leplez
+leplezett
 leplezhetetlen
 leplezhető
 leplezés
@@ -76283,7 +76917,6 @@ leszar
 leszavaz
 leszbia
 leszbikus
-leszbikusság
 leszboszi
 leszed
 leszedi
@@ -76554,7 +77187,6 @@ levehető
 levek
 levele
 leveledzik
-leveledzik → levelezés
 levelek
 levelekben
 leveleket
@@ -76573,6 +77205,7 @@ levelestár
 levelet
 levelet hoz/hajt
 levelez
+levelez levél levelezik levél leveledzik → levelezés
 levelezik
 levelezés
 levelezése
@@ -76780,6 +77413,7 @@ lezavar
 lezg
 lezongorázik
 lezser
+lezserség
 lezuhan
 lezuhanás
 lezuhog
@@ -76908,6 +77542,7 @@ libabőr
 libacomb
 libamáj
 libanoni
+libanoni cédrus
 libanoni köztársasági
 libanoniak
 libaparéj
@@ -77122,6 +77757,7 @@ linóleumszőnyeg
 lipcsei
 lipecki
 lipid
+lipinka
 lipofil
 lipofilitás
 lipogramma
@@ -77258,7 +77894,6 @@ logaritmusrendszer
 logaritmustábla
 logaritmustáblázat
 logaritmusú
-logaritmálás
 logarléc
 loggia
 loggiás
@@ -77329,6 +77964,7 @@ lombtalanság
 lombtalanít
 lombú
 lomha
+lomhafutóforma
 lomhább
 lomi
 lomi → lomis
@@ -77344,6 +77980,7 @@ lomtalanít
 lomtalanít → lomtalanítás
 lomtalanítás
 lomtár
+lom‚ kacat
 lonc
 londoni
 londoni Tower
@@ -77514,6 +78151,7 @@ lufi
 luftballon
 lugas
 lugasok
+lugubriózus
 luk
 luka
 lukacska
@@ -77527,6 +78165,7 @@ lumpenproletariátus
 lumpok
 lumpol
 lunda
+lunguj
 lupe
 lurkó
 lurkók
@@ -77689,7 +78328,6 @@ lábnyi
 lábnyom
 lábnyomok
 lábnál
-lábol
 lábon
 lábon elhord
 lábon hord ki
@@ -77708,7 +78346,7 @@ lábszárhús
 lábszármelegítő
 lábszárvédő
 lábszőnyeg
-lábtalan
+lábsérülés
 lábtartó
 lábtartók
 lábtenisz
@@ -77748,6 +78386,7 @@ lábé
 lábért
 lábú
 láda
+ládalista
 ládika
 ládikó
 ládikók
@@ -77925,6 +78564,7 @@ lássanak
 lássatok
 lásson
 lássuk
+lássuk a medvét
 lássuk csak
 lássunk
 lássák
@@ -77952,6 +78592,7 @@ láthatóan
 láthatóbb
 láthatók
 láthatóság
+láthatósági
 látja
 látjuk
 látják
@@ -77985,6 +78626,9 @@ látnék
 látod
 látogat
 látogatható
+látogathatóan
+látogathatóbb
+látogathatóság
 látogatok
 látogatta
 látogatták
@@ -78420,6 +79064,7 @@ légvonat
 légvonat → légvonatos
 légvár
 légvárakat épít
+légvédelem
 légvédelem → légvédelmi
 légvédelmi sziréna
 légy
@@ -78640,6 +79285,8 @@ lépésű
 lépünk
 lépő
 léssz
+lésza
+lészás
 lét
 lét (ezés)
 létalap
@@ -78801,10 +79448,10 @@ lókötő
 lólengés
 lómenta
 lónak
+lónyál
 lópatkó
 lópióca
 lópokróc
-lópásztor
 lóra
 lóri
 lóss
@@ -78817,6 +79464,7 @@ lót
 lót-fut
 lótakaró
 lótartó
+lótenyésztés
 lótetű
 lóti-futi
 lótolvaj
@@ -78842,6 +79490,7 @@ lóvá tesz
 lóvátétel
 lóvé
 lóvék
+lózung
 lóápolás
 lóöszvér
 lóöszvérek
@@ -78973,6 +79622,7 @@ m-es
 m-re
 m.
 m. v.
+m.-es
 m.-os
 mRNS
 ma
@@ -79129,6 +79779,7 @@ madártan
 madártani
 madártanilag
 madártej
+madártenyésztés
 madártávlat
 madártávlatok
 maffia
@@ -79321,6 +79972,8 @@ mageleség
 magerő
 magfehérje
 magfizika
+magfizikai
+magfizikus
 magfúzió
 maghasadás
 magház
@@ -79537,6 +80190,7 @@ magyarosodik
 magyarosodás
 magyarosít
 magyarosítás
+magyarparéj
 magyarra
 magyarral
 magyarrá
@@ -79559,6 +80213,9 @@ magyarázatokat
 magyarázatot
 magyarázattal szolgál
 magyarázható
+magyarázhatóan
+magyarázhatóbb
+magyarázhatóság
 magyarázkodik
 magyarázni
 magyarázok
@@ -79862,6 +80519,7 @@ majrézik
 majsi
 majszol
 majuszkula
+majó
 makacs
 makacsabb
 makacsabbul
@@ -79871,6 +80529,7 @@ makacsul
 makadám
 makadámdió
 makadámút
+makai
 makaróni
 makaróniwestern
 makaói
@@ -79903,6 +80562,7 @@ makromolekula
 makron
 makroobjektív
 makroszint
+makroszkopikus
 makroökonómia
 makroökonómiák
 makréla
@@ -80027,6 +80687,7 @@ mandátumok
 manga
 mangalica
 mangosztán
+mangrove
 manguszta
 mangán
 mangán(II)-karbonát
@@ -80276,6 +80937,7 @@ marxista
 marxista–leninista
 marxizmus
 marxizmus–leninizmus
+marxizmus–leninizmus–maoizmus
 marzs
 marás
 marási
@@ -80610,6 +81272,8 @@ megaszonta
 megawatt
 megbabonáz
 megbabrál
+megbarnul
+megbarnít
 megbarátkozik
 megbasz
 megbecstelenít
@@ -80950,6 +81614,7 @@ megfelelően
 megfelelőség
 megfelelőségi nyilatkozat
 megfelez
+megfeleződik
 megfellebbez
 megfellebbezhetetlen
 megfellebbezhető
@@ -81253,6 +81918,7 @@ meghipnotizál
 meghirdet
 meghisz
 meghitt
+meghittség
 meghizlal
 meghiúsul
 meghiúsulás
@@ -81294,6 +81960,7 @@ meghív
 meghívat
 meghívhatlak egy italra?
 meghívhatom egy italra?
+meghívogat
 meghívok
 meghívott/megbízott előadó/oktató
 meghívás
@@ -81378,6 +82045,7 @@ megismerések
 megismeréstudomány
 megismétel
 megismételhető
+megismételhetőség
 megismételt vizsga
 megismétlés
 megismétlődik
@@ -81447,6 +82115,7 @@ megkaparint
 megkapaszkodik
 megkapaszkodás
 megkaptam
+megkapál
 megkapás
 megkarcol
 megkarmol
@@ -81524,6 +82193,7 @@ megkéret
 megkéri
 megkéri a kezét
 megkéri az árát
+megkérlel
 megkérés
 megkésel
 megkésett
@@ -81929,6 +82599,7 @@ megreformál
 megreformálás
 megreggelizik
 megreked
+megrekeszt
 megremeg
 megremegtet
 megremegés
@@ -82131,6 +82802,7 @@ megszoktat
 megszokás
 megszolgál
 megszomorít
+megszop
 megszoroz
 megszorul
 megszorultság
@@ -82396,7 +83068,6 @@ megtéved
 megtéveszt
 megtévesztés
 megtévesztő
-megtévesztő megnevezés/elnevezés/név
 megtévesztőbb
 megtízszerez
 megtízszereződik
@@ -82423,6 +83094,7 @@ megugat
 megugorja a lécet
 megugrat
 megugrik
+megujjaz
 megun
 megundorít
 megunás
@@ -82491,6 +83163,7 @@ megvesztegethetetlen
 megvesztegethető
 megvesztegetés
 megvet
+megvetemedett
 megvetemedik
 megvetendő
 megvetet
@@ -82545,6 +83218,8 @@ megválasztás
 megválasztása
 megválik
 megválogat
+megválogatja
+megválogatja a szavait
 megvált
 megváltozik
 megváltozott munkaképesség
@@ -82827,6 +83502,7 @@ melankolikus
 melankolikusan
 melankolikusság
 melankólia
+melanocita
 melanóma
 melasz
 melatonin
@@ -82870,6 +83546,7 @@ melegít
 melegítés
 melegítési
 melegítő
+melegítőalsó
 melegítőfelső
 melegítőnadrág
 melegítőruha
@@ -82897,7 +83574,6 @@ mellesleg
 mellet
 melletek
 melleteket
-melletlen
 mellett
 mellett → melletti
 mellett(e) áll
@@ -82923,7 +83599,6 @@ mellhártyák
 mellkas
 mellkasi
 mellkasok
-mellkastalan
 mellkasú
 mellkendő
 mellkép
@@ -82940,7 +83615,6 @@ mellső láb
 melltartó
 melltartóbetét
 melltartók
-melltelen
 melltű
 mellverés
 mellvezeték
@@ -83156,6 +83830,7 @@ meló
 melódia
 melódiák
 melók
+melón
 melós
 melót
 melózik
@@ -83261,6 +83936,7 @@ menhelyi
 menhír
 menik
 menj
+menj a faszba
 menj a faszomba
 menj a picsába
 menj a pokolba
@@ -83375,7 +84051,6 @@ ment → mentegető(d)zik
 menta
 mentalitás
 mentalitású
-mentazöld
 mente
 menteget
 mentegetőző
@@ -83570,6 +84245,7 @@ merrefelé
 merről
 mersz
 mert
+mert bőr az egér
 mert ha nem
 merte
 merted
@@ -83722,6 +84398,7 @@ mesterképzés
 mesterlevél
 mesterlövész
 mesterlövészi
+mesterlövészpuska
 mesterlövészség
 mestermű
 mesterművek
@@ -83782,6 +84459,7 @@ metanol
 metanyelv
 metanyelvek
 metanyelvi
+metaplazmus
 metaplázia
 metaszint
 metasztatizál
@@ -83792,6 +84470,7 @@ meteorológia
 meteorológiai
 meteorológus
 meteorzápor
+metformin
 metil-alkohol
 metil-bromid
 metil-izocianát
@@ -83867,6 +84546,7 @@ mezei gyöngyköles
 mezei hörcsög
 mezei juhar
 mezei katáng
+mezei küllő
 mezei mari
 mezei menta
 mezei nyúl
@@ -84134,8 +84814,10 @@ mikrométercsavar
 mikrométeres
 mikrométernyi
 mikrométerskála
+mikroműanyag
 mikronéziai
 mikroorganizmus
+mikroplasztik
 mikroprocesszor
 mikroprocesszorok
 mikrorajon
@@ -84144,6 +84826,7 @@ mikroszekundum
 mikroszkopikus
 mikroszkóp
 mikroszkópok
+mikroszolgáltatás
 mikroszámítógép
 mikrosörfőzde
 mikrotubulus
@@ -84153,6 +84836,8 @@ mikről
 mikszáthi
 mikszáthos
 miktől
+mikulásvirág
+mikve
 mikádó
 mikádók
 miként
@@ -84345,6 +85030,7 @@ minden lében kanál
 minden más
 minden második
 minden nap egy alma az orvost távol tartja
+minden pofon jó helyre megy
 minden rosszban van valami jó
 minden további nélkül
 minden tőle telhetőt megtesz
@@ -84598,6 +85284,7 @@ mint elefánt a porcelánüzletben
 mint ember
 mint hal a vízben
 mint halottnak a csók
+mint már említettük
 mint olyan
 mint égen a csillag
 mint/ahogy bárki/mindenki más
@@ -84608,6 +85295,7 @@ mintabolt
 mintacseléd
 mintacsomag
 mintadarab
+mintaepizód
 mintafeleség
 mintaférj
 mintagazda
@@ -84737,6 +85425,7 @@ mirha
 mirhák
 mirigy
 mirigybetegség
+mirigybántalom
 mirigyek
 mirigyes
 mirigygyulladás
@@ -84923,6 +85612,7 @@ mocsári
 mocsári aszat
 mocsári gólyahír
 mocsári hamvas szeder
+mocsári kocsord
 mocsári nőszirom
 mocsári tarkalepke
 mocsári tücsök
@@ -85242,6 +85932,7 @@ monoton módon
 monotonon
 monotonság
 monotonul
+monotónia
 monoxid
 monstrum
 monszun
@@ -85355,6 +86046,7 @@ moshat
 moshatatlan
 mosható
 moshatóan
+moshatóbb
 moshatóság
 moskotér
 moslak
@@ -85451,6 +86143,7 @@ most ugrik a majom a vízbe
 most vagy soha
 most éppen
 most érkezett hír (ek)
+most, hogy
 mosta
 mostad
 mostak
@@ -85523,6 +86216,7 @@ mosókád
 mosómedve
 mosómedveféle
 mosómedvék
+mosómedvés
 mosómunkás
 mosónő
 mosónők
@@ -86133,6 +86827,7 @@ mutatkozás
 mutatni
 mutatok
 mutatom
+mutatta
 mutattatok
 mutattuk
 mutattunk
@@ -86154,6 +86849,7 @@ mutatóujj
 mutex
 muti
 mutizmus
+mutuj
 mutyi
 mutáció
 mutációk
@@ -86162,6 +86858,7 @@ mutál
 mutálódik
 mutáns
 mutánsok
+muzeológus
 muzeális
 muzsik
 muzsika
@@ -86277,6 +86974,7 @@ máktea
 máktól
 mákvirág
 mákért
+mál
 máleó
 málha
 málhacsomó
@@ -86294,6 +86992,7 @@ mállik
 mállás
 málna
 málnabokor
+málnaszörp
 málnák
 máltai
 máltai köztársasági
@@ -86719,6 +87418,7 @@ média
 médiabirodalom
 médiacézár
 médiaelemzés
+médiafelhajtás
 médiaháború
 médiakritikus
 médiapiac
@@ -86902,6 +87602,7 @@ mélyén
 mélyépítés
 mélyít
 mélyített
+mélyítget
 mélyút
 mélyül
 mém
@@ -87045,6 +87746,7 @@ mérkőzésvezető
 mérleg
 mérlegek
 mérlegel
+mérlegelv
 mérlegelés
 mérleghinta
 mérleghinták
@@ -87133,7 +87835,9 @@ mértéktartás
 mértéktartó
 mértéktelen
 mértéktelen evészavar
+mértéktelenebb
 mértéktelenség
+mértéktelenül
 mértékviszony
 mértékvétel
 mértékül vétel
@@ -87206,6 +87910,7 @@ mésztej
 mésztől
 mészvakolat
 mészvakolás
+mészvíz
 mészárlás
 mészárol
 mészáros
@@ -87590,6 +88295,7 @@ működésével
 működésű
 működő
 működőképes
+műköltészet
 műkönny
 műköröm
 műkő
@@ -87714,12 +88420,15 @@ műveket
 művel
 művelet
 műveletek
+műveleti
 műveleti jel
+műveleti sorrend
 műveletkutatás
 műveletlen
 műveletlenebb
 műveletlenség
 művelettan
+műveletű
 művelget
 művelhető
 művelhetőbb
@@ -87832,6 +88541,7 @@ na látja
 na látod
 na mindegy
 na ne
+na ne mondd!
 na tessék
 na és
 na és aztán
@@ -87904,6 +88614,7 @@ nagy mellű
 nagy meténg
 nagy méretű
 nagy nyelvi modell
+nagy nyugati egyházszakadás
 nagy néha
 nagy port kavaró
 nagy port ver fel
@@ -88073,6 +88784,7 @@ nagylábú
 nagylátószögű
 nagylélegzetű
 nagylózsi
+nagymacska
 nagymama
 nagymamai
 nagymamaság
@@ -88231,6 +88943,7 @@ nagyváros
 nagyvárosi
 nagyvárosi terület
 nagyvázsonyi
+nagyvérkör
 nagyzol
 nagyzolás
 nagyzoló/nagyképű alak/fráter
@@ -88244,6 +88957,7 @@ nagyíthatatlan
 nagyíthatatlanság
 nagyítható
 nagyíthatóan
+nagyíthatóbb
 nagyíthatóság
 nagyítok
 nagyítsd
@@ -88515,6 +89229,7 @@ naturalizmusok
 naturalizál
 naurui
 navab
+navahó
 navigáció
 navigációk
 navigációs
@@ -88609,6 +89324,7 @@ negyedrendű
 negyedsorban
 negyedszer
 negyedszerre
+negyedvér
 negyedéles
 negyedév
 negyedévben
@@ -88624,7 +89340,6 @@ negyvenedik
 negyvenedik születésnapját betöltött
 negyvenegy
 negyvenegyedik
-negyvenek
 negyvenes
 negyvenes (éveiben járó)
 negyvenes évek
@@ -88857,6 +89572,7 @@ nem fog hiányozni
 nem fogadott hívás
 nem fogod elhinni
 nem fogunk könnyeket hullatni érte
+nem fontos
 nem fér a bőrébe(n)
 nem fér a fejébe
 nem gond
@@ -88880,6 +89596,7 @@ nem ismer pardont
 nem izgatja
 nem jelentéktelen
 nem jogosult
+nem jut szóhoz
 nem jár sikerrel
 nem jól illik össze
 nem jöhet szóba/jöhet számításba
@@ -89137,10 +89854,12 @@ nemnegatív
 nemnek
 nemnemesfém
 nemnewtoni
+nemnulla
 nemnumerikus
 nemnél
 nemparaméteres
 nempoláris
+nempélda
 nemre
 nemritkán
 nemrég
@@ -89254,6 +89973,7 @@ neonreklámok
 neonvilágítás
 neonáci
 neonácizmus
+neoplaszticizmus
 neoplatonizmus
 neorealizmus
 neorealizmusok
@@ -89301,6 +90021,7 @@ neurológusok
 neuron
 neurontan
 neuropatológus
+neuropszichológia
 neuropátia
 neuropátiás fájdalom
 neurotikus
@@ -89638,11 +90359,14 @@ nominálisan
 nominálszint
 nomád
 nomádok
+non plus ultra
 nonilliárd
 nonillió
 nonkonformista
 nono
 nonprofit
+nonsalansz
+nonsalant
 nonstop
 nonszensz
 nonverbális
@@ -89677,6 +90401,7 @@ normálisan
 normálosztó
 norvég
 norvég menyhal
+norvég tőkehal
 norvég-tengeri
 norvégiai
 norvégok
@@ -89721,6 +90446,7 @@ novoszibirszki
 novícius
 noxa
 noxák
+nozokomiális
 nudista
 nudizmus
 nudizmusok
@@ -89809,7 +90535,6 @@ nyakat
 nyakatekert
 nyakatekertebb
 nyakatekertség
-nyakatlan
 nyakatok
 nyakaz
 nyakba
@@ -89870,7 +90595,6 @@ nyakszirtlebeny
 nyakszirtlebenyek
 nyaksál
 nyaksálak
-nyaktalan
 nyaktekercs
 nyaktekercsek
 nyaktiló
@@ -89903,7 +90627,6 @@ nyakörvű
 nyakú
 nyal
 nyal-fal
-nyal-fal (often nyalják-falják egymást)
 nyalakodik
 nyald
 nyaldos
@@ -89930,6 +90653,7 @@ nyalókák
 nyam
 nyam-nyam
 nyami
+nyamvadt
 nyanya
 nyara
 nyarak
@@ -90031,7 +90755,6 @@ nyelvesztétika
 nyelvet
 nyelvetek
 nyelveteket
-nyelvetlen
 nyelvezet
 nyelvfejlődés
 nyelvfelfogás
@@ -90346,6 +91069,7 @@ nyilvántartásból
 nyilvántartási
 nyilvántartások
 nyilvántartó
+nyilvántartó (hivatal/iroda)
 nyilvánul
 nyilvánvaló
 nyilvánvaló/egyértelmű/triviális/magától értetődő dolgot mond (ki)
@@ -90468,16 +91192,21 @@ nyolcvanegy
 nyolcvanegyedik
 nyolcvanharmadik
 nyolcvanhat
+nyolcvanhatodik
+nyolcvanhetedik
 nyolcvanhárom
 nyolcvanhét
 nyolcvankettedik
 nyolcvankettő
 nyolcvankilenc
+nyolcvankilencedik
 nyolcvannegyedik
 nyolcvannyolc
+nyolcvannyolcadik
 nyolcvannégy
 nyolcvanvalahány éves
 nyolcvanöt
+nyolcvanötödik
 nyolcéves
 nyolcórás
 nyom
@@ -90695,6 +91424,7 @@ nyomószilárdság
 nyomósító szó
 nyomósítószó
 nyomóvezeték
+nyosziszony
 nyoszolya
 nyoszolyácska
 nyoszolyák
@@ -90827,6 +91557,8 @@ nyuszikák
 nyuszit
 nyuszt
 nyusztok
+nyuvad
+nyuvaszt
 nyáj
 nyájak
 nyájas
@@ -91063,8 +91795,10 @@ nyúlvány
 nyúlványok
 nyúlás
 nyúló
+nyúlósság
 nyúlüreg
 nyúz
+nyúzó
 nyüszít
 nyüzsög
 nyű
@@ -91119,6 +91853,7 @@ nádszál
 nádudvari
 nágocsi
 nála
+nála pattog a labda
 nálad
 nálam
 nálatok
@@ -91279,6 +92014,7 @@ négyzetcentiméter
 négyzetcentiméteres
 négyzetdeciméter
 négyzetek
+négyzetek különbsége
 négyzetes
 négyzetes közép
 négyzetgyök
@@ -91407,6 +92143,7 @@ népbetegség
 népbiztos
 népbiztosság
 népbíróság
+népcsalás
 népcsoport
 népdal
 népdalfeldolgozás
@@ -91417,6 +92154,8 @@ népe
 népegészségügy
 népek
 népeket
+népellenes
+népellenség
 népeposz
 népes
 népesebb
@@ -91427,6 +92166,8 @@ népességnövekedések
 népességrobbanás
 népet
 népetimológia
+népetimológiai
+népetimológiájú
 népfelkelés
 népgazdaság
 népgyűlés
@@ -91881,7 +92622,6 @@ obszidián
 obsztákulum
 oceanográfia
 oceanográfus
-oceans: óceán: Atlanti-óceán · Csendes-óceán · Déli-óceán · Északi-sarki-óceán
 oceanárium
 ocelot
 ocelotbunda
@@ -91998,6 +92738,7 @@ odahoz
 odahí
 odahív
 odahívat
+odahívogat
 odaidéz
 odaigazgat
 odaigyekezik
@@ -92024,6 +92765,7 @@ odakiált
 odakoccint
 odakombinál
 odakoncentrál
+odakukucskál
 odakényszerít
 odaképzel
 odakéredzkedik
@@ -92224,7 +92966,6 @@ odébb/arrébb húzódik/csúszik
 odébbáll
 odú
 odúk
-oe
 offenzíva
 offenzívák
 ofszet
@@ -92241,6 +92982,7 @@ ogur-török
 oh
 ok
 ok-okozati viszony
+ok-okozatiság
 oka
 oka-foka
 okafogyott
@@ -92453,6 +93195,7 @@ olajvállalat
 olajválság
 olajár-emelkedés
 olasz
+olasz agár
 olasz köztársasági
 olasz éger
 olaszbástya
@@ -92890,6 +93633,7 @@ olümpiai
 olümpiai játékok
 olümposzi
 ombudsman
+omertà
 omikron
 ominózus
 ominózusabb
@@ -92923,6 +93667,7 @@ ondóvezeték
 ondóvezető
 ondózsinór
 ongai
+onko-
 onkogén
 onkológia
 onkológiai
@@ -93196,6 +93941,7 @@ oroszlányi
 oroszok
 oroszországi
 oroszpárti
+oroszul
 oroszul beszélő/tudó
 oroz
 oroz → eloroz
@@ -93207,7 +93953,6 @@ orr-rész
 orra
 orra alá dörgöl
 orra bukik
-orratlan
 orrcimpa
 orrcimpák
 orrcsiptető
@@ -93260,7 +94005,6 @@ orrsövény
 orrsövények
 orrsövényferdülés
 orrsövényferdülések
-orrtalan
 orrtúrás
 orruk
 orrunk
@@ -93745,12 +94489,22 @@ oxidálószer
 oxidáns
 oxigén
 oxigénatom
+oxigénatom → oxigénatomos
 oxigénatomos
+oxigénbefúvás
+oxigénbelégzés
 oxigének
+oxigénes
+oxigénez
 oxigénfelvétel
+oxigéngyár
+oxigénközvetítés
+oxigénmentes
 oxigénmolekula
 oxigénpalack
+oxigénpalack → oxigénpalackos
 oxigénszint
+oxigénszállítás
 oxigénsátor
 oxiklorid
 oxikodon
@@ -93772,7 +94526,6 @@ oázik
 oázis
 oázisok
 oázás
-oó
 p
 p.
 paca
@@ -93805,6 +94558,7 @@ pacába
 pacák
 pacán
 pacára
+pacás
 pacát
 pacáz
 pad
@@ -93932,6 +94686,7 @@ padunk
 paginál
 paginálás
 pagoda
+pagodakarfiol
 pagodák
 pagodás
 pagony
@@ -93944,6 +94699,7 @@ pajeszos
 pajkos
 pajkosan
 pajkosság
+pajor
 pajszer
 pajta
 pajti
@@ -93992,6 +94748,7 @@ pakompart
 paksi
 paktum
 paktumok
+pakulár
 pakura
 pakurák
 pala
@@ -94020,11 +94777,14 @@ palakék
 palalemez
 palaszínű billegető
 palaszürke
+palatalizáció
+palatalizálás
 palatábla
 palatáblás
 palaui
 palavessző
 palavesszős
+palearktikus
 paleográfia
 paleolitikum
 paleontológia
@@ -94121,11 +94881,14 @@ paláver
 palócleves
 pamat
 pamlag
+pampaszarvas
+pampaszinyúl
 pamut
 pamutfonal
 pamutgatya
 pamutipar
 pamutok
+pamutpizsama
 panama
 panamai
 panamakalap
@@ -94175,9 +94938,11 @@ panaszkönyvekről
 panaszkönyvektől
 panaszkönyvekért
 panaszkönyvem
+panaszkönyves
 panaszkönyvet
 panaszkönyvetek
 panaszkönyvhöz
+panaszkönyvi
 panaszkönyvig
 panaszkönyvként
 panaszkönyvnek
@@ -94252,6 +95017,7 @@ papagájkór
 papagájok
 papaja
 papaják
+papaverin
 papi
 papi uralom
 papik
@@ -94280,6 +95046,7 @@ papok
 papol
 papolás
 papon
+papondekli
 papos
 papot
 pappá
@@ -94353,6 +95120,7 @@ papucsuk
 papucsunk
 papucsért
 papula
+papundekli
 papája
 papál
 papán
@@ -94475,9 +95243,12 @@ parancsol
 parancsolat
 parancsolatok
 parancsolgat
-parancsolgatás
 parancsolgató
 parancsolgatóbb
+parancsolj
+parancsoljanak
+parancsoljatok
+parancsoljon
 parancsolnak
 parancsolás
 parancsoló
@@ -94806,6 +95577,7 @@ patikaszer
 patikus
 patikusok
 patikák
+patina
 patinás
 patisszon
 patisszonpörkölt
@@ -94843,6 +95615,7 @@ patriarchálisan
 patriarchátus
 patriotizmus
 patriotizmusok
+patrióta
 patron
 patronima
 patronimák
@@ -94879,7 +95652,6 @@ patália
 patán
 patás
 patát
-patátlan
 paulikiánus
 pauszpapír
 pavane
@@ -95250,6 +96022,7 @@ perköltség
 perled
 perlekedik
 perm
+permanenciaelv
 permeabilitás
 permet
 permetez
@@ -95450,6 +96223,7 @@ piactéri
 piacvezető
 piacvédelem
 piacán
+piacáról
 piacépítés
 pianínó
 piarista
@@ -95459,7 +96233,10 @@ picik
 picit
 pick-up
 picsa
+picsog
+picsogás
 picsába
+piedesztál
 pietizmus
 piezoelektromos effektus
 pigment
@@ -95596,6 +96373,7 @@ piláfok
 piláfos
 pilóta
 pilóta nélküli repülőgép
+pilótafilm
 pilótafülke
 pilótafülkék
 pilóták
@@ -95628,6 +96406,7 @@ pincében
 pincéjű
 pincék
 pincér
+pincére
 pincérek
 pincéreket
 pincérként
@@ -95785,7 +96564,6 @@ pirítás
 pirítós
 pirítósok
 pirítóst
-pisa
 pisai ferde torony
 pisi
 pisil
@@ -95874,8 +96652,15 @@ piték
 pités
 pixel
 pizsama
+pizsamaalsó
+pizsamafelső
+pizsamakabát
+pizsamanadrág
 pizsamaparti
+pizsamájú
 pizsamák
+pizsamás
+pizsamástul
 pizse
 pizsi
 pizza
@@ -95889,8 +96674,11 @@ piócát rak
 piócával kezel
 pl.
 placc
+placebo
 placebohatás
+placebokezelés
 placebokontrollált
+placeboszerű
 plafon
 plafonok
 plafonventilátor
@@ -96012,6 +96800,7 @@ pocakosabb
 pocakosan
 pocakosság
 pocakot ereszt
+pocegér
 poci
 pocka
 pocok
@@ -96052,7 +96841,6 @@ pofára esés
 pofás
 pofátlan
 pofátlanság
-pofáz
 pofázik
 pofázmány
 poggyász
@@ -96085,6 +96873,7 @@ pohos
 pohosan
 pohosodik
 pohosság
+pohánka
 pohár
 poháralátét
 poháralátétek
@@ -96109,7 +96898,6 @@ pokolban
 pokolgép
 pokolgépes
 pokoli
-pokoli(an)
 pokolian
 pokolian/hihetetlenül/őrült vicces
 pokolibb
@@ -96144,6 +96932,7 @@ polgári jog
 polgári személy
 polgári társadalom
 polgári törvénykönyv
+polgári védelem
 polgárista
 polgárjog
 polgárjogi
@@ -96804,6 +97593,7 @@ prelátus
 prelúdium
 prelúdiumok
 prelűd
+premetró
 premier
 premieren
 premontrei
@@ -96832,6 +97622,7 @@ prezentációjú
 prezentációk
 prezentációs
 prezentál
+prezídium
 priapizmus
 pribék
 pribékek
@@ -97130,6 +97921,7 @@ proponál
 proponálta
 propriocepció
 propán
+propán-bután
 propán-bután gáz
 propén
 propénsav
@@ -97145,6 +97937,7 @@ prostituáltabb
 prostituáltság
 prostitúció
 prostitúciók
+prosztaglandin
 prosztata
 prosztatagyulladás
 prosztatarák
@@ -97443,7 +98236,11 @@ pulya
 pulyka
 pulyka tyúkja
 pulykakeselyű
+pulykaméreg
+pulykatojás
+pulykatoll
 pulykák
+pulykás
 pulyább
 pulyák
 pulzoximetria
@@ -97495,6 +98292,8 @@ pupillájú
 pupillák
 puplin
 puplinok
+purc
+purdé
 purgatórium
 purgál
 purgálás
@@ -97714,6 +98513,7 @@ páncéltorony
 páncéltörő
 páncélvonat
 páncélzat
+páncélököl
 páncélöltözet
 páneurópai
 pánfóbia
@@ -97753,6 +98553,7 @@ pápa
 pápai
 pápapárti
 pápaszem
+pápaszemes
 pápaszemes medve
 pápaság
 pápaságok
@@ -97961,6 +98762,7 @@ pásztorgyerek
 pásztorgém
 pásztori
 pásztorkodik
+pásztorköltészet
 pásztorlegény
 pásztorlevél
 pásztormejnó
@@ -98406,6 +99208,7 @@ pú
 púder
 púderdoboz
 púp
+púp a hátán
 púpok
 púpos
 púpossá/görbévé tesz
@@ -98799,6 +99602,7 @@ rakodórámpa
 rakodótér
 rakodóállomás
 rakomány
+rakományjegyzék
 rakományok
 rakoncátlan
 rakott
@@ -98835,6 +99639,7 @@ rakásnyi
 rakású
 rakéta
 rakétabomba
+rakétaelv
 rakétahajtómű
 rakétaindító
 rakétaindító állvány
@@ -98892,6 +99697,7 @@ rangú
 ranét
 rap
 rapli
+raplis
 raplizik
 raponc
 raponcok
@@ -98907,6 +99713,7 @@ raszta
 raszta haj
 raszterpont
 ratifikál
+raumizmus
 ravasz
 ravasz, mint a róka
 ravaszabb
@@ -99012,6 +99819,7 @@ reflexe
 reflexed
 reflexei
 reflexek
+reflexelv
 reflexen
 reflexkalapács
 reflexmozdulat
@@ -99032,6 +99840,8 @@ refrakció
 refrakter
 refraktométer
 refrén
+refrénes
+refrénű
 refusenik
 reg
 rege
@@ -99193,6 +100003,7 @@ rekeszizom
 rekesznyi
 rekeszsérv
 rekeszt
+rekeszteni
 rekeszzár
 rekeszzátony
 rekeszérték
@@ -99535,8 +100346,11 @@ rendjel
 rendjén
 rendjén való
 rendjén: rendjén van
+rendjének
+rendjénél
 rendjéről
 rendjét
+rendjével
 rendkívül
 rendkívül sikeres mű
 rendkívül → rendkívüli
@@ -99568,6 +100382,7 @@ rendszereknél
 rendszerekre
 rendszerekről
 rendszerektől
+rendszerelemző
 rendszerellenes
 rendszerelmélet
 rendszeren
@@ -99579,9 +100394,11 @@ rendszeresebb
 rendszeresebben
 rendszeresen
 rendszeresség
+rendszerességi
 rendszeretet
 rendszerető
 rendszerez
+rendszerezetlen
 rendszerezés
 rendszerfejlesztés
 rendszergazda
@@ -99590,6 +100407,7 @@ rendszerindítás
 rendszerint
 rendszerkritikus
 rendszerkényszer
+rendszerleíró adatbázis
 rendszermag
 rendszermagok
 rendszermérnökség
@@ -99709,6 +100527,7 @@ renyheség
 renyhül
 reorganizál
 rep-
+reparatív terápia
 reparál
 reparálás
 repatriál
@@ -99915,7 +100734,6 @@ rettenet
 rettenet → rettenetes → rettenetesen
 rettenetek
 rettenetes
-rettenetes(en)
 rettenetesebb
 rettenetesen
 rettenetesség
@@ -99926,7 +100744,6 @@ rettentés
 rettentő
 rettentő nagy
 rettentő → rettentően
-rettentő(en)
 rettentően
 retusál
 retyerutya
@@ -99936,6 +100753,7 @@ reuma
 reumatoid artritisz
 revansizmus
 reveláció
+rever
 reverenda
 reverendájú
 reverendák
@@ -99986,6 +100804,7 @@ rezisztencia
 rezisztenciájú
 rezisztenciák
 rezisztenciás
+reznek
 rezonancia
 rezonanciájú
 rezonanciák
@@ -100131,6 +100950,7 @@ ritka, mint a fehér holló
 ritkaföldfém
 ritkaság
 ritkaságok
+ritkaságszámba
 ritkul
 ritkább
 ritkábban
@@ -100301,6 +101121,7 @@ rohamozó
 rohamrendőrség
 rohamsisak
 rohan
+rohan az idő
 rohangál
 rohanj
 rohanni
@@ -100460,6 +101281,7 @@ rooibos
 rootol
 rop
 rophat
+ropi
 ropog
 ropogás
 ropogós
@@ -100618,6 +101440,9 @@ rovátkoló díszítés
 rovó
 rovópálca
 royal flush
+rozetta
+rozettájú
+rozettás
 rozmaring
 rozmaringok
 rozmár
@@ -100901,6 +101726,7 @@ rácsodálkozik
 rácsok
 rácsorog
 rácsos
+rácsos gyerekágy
 rácsot tesz
 rácsozat
 rácsszerkezet
@@ -100917,6 +101743,7 @@ rád
 rádium
 rádió
 rádióadó
+rádióamatőr
 rádióban
 rádióbeli
 rádiócsillagászat
@@ -100927,6 +101754,7 @@ rádióirányítás
 rádiójel
 rádiójáték
 rádiók
+rádiókörözés
 rádiólokátor
 rádióműsor
 rádióműsorok
@@ -101088,6 +101916,7 @@ ráhullat
 ráhullik
 ráhány
 ráhárít
+ráhímez
 ráhív
 ráhúz
 ráhúzat
@@ -101102,6 +101931,8 @@ ráijeszt
 ráilleszt
 ráillik
 ráimádkozik
+ráindul
+ráindít
 ráirányít
 ráismer
 rája
@@ -101215,6 +102046,8 @@ ráncok
 ráncol
 ráncolgat
 ráncolható
+ráncolja a homlokát
+ráncolja a szemöldökét
 ráncolt
 ráncoltat
 ráncolás
@@ -101320,6 +102153,7 @@ rászokik
 rászoktat
 rászolgál
 rászorul
+rászoruló
 rászorít
 rászáll
 rászámol
@@ -101761,6 +102595,7 @@ részvételét
 részvételével
 részvétlen
 részvétnyilatkozat
+részvétét kifejezi
 részébe
 részében
 részéből
@@ -101803,6 +102638,7 @@ réteslisztek
 réteslisztes
 rétestészta
 réti
+réti boglárka
 réti csiperke
 réti here
 réti tarkalepke
@@ -101855,6 +102691,7 @@ rézműves
 réznek
 réznél
 rézre
+rézrozsda
 rézről
 rézselőfűrész
 rézszínű
@@ -102042,6 +102879,7 @@ rögzíteni
 rögzítette
 rögzíti
 rögzítési pont
+rögzítésvezető
 rögzítő
 rögzítőkötél
 rögzítőszer
@@ -102199,6 +103037,7 @@ rúdarany
 rúdelem
 rúdfa
 rúdgyakorlat
+rúdkörző
 rúdtánc
 rúdtáncos
 rúdugrás
@@ -102208,6 +103047,7 @@ rúg
 rúg (-ra/-re)
 rúgj
 rúgja a port
+rúgkapál
 rúgsz
 rúgva
 rúgás
@@ -102525,6 +103365,7 @@ salátabár
 salátacikória
 salátakatáng
 salátaleves
+salátatörvény
 salátaöntet
 saláták
 salátás
@@ -102607,7 +103448,6 @@ sarkantyúsan
 sarkantyútaraj
 sarkantyúz
 sarkat
-sarkatlan
 sarkatok
 sarkatokra
 sarkcsillag
@@ -102617,6 +103457,7 @@ sarki fény
 sarki hófajd
 sarki nyúl
 sarki róka
+sarki tőkehal
 sarkin
 sarkit
 sarkkutató
@@ -102642,6 +103483,7 @@ sarkúak
 sarlatán
 sarló
 sarló és kalapács
+sarló-kalapács
 sarlók
 sarlós
 sarlós partfutó
@@ -102669,7 +103511,6 @@ sarokkötés
 sarokkő
 sarokpont
 sarokszám
-saroktalan
 saroktétel
 sarokvas
 saroképület
@@ -102855,6 +103696,7 @@ segge
 seggen
 segget nyal
 seggfej
+seggfejség
 segglyuk
 seggnyaló
 segéd
@@ -103064,8 +103906,11 @@ selyemgomba
 selyemgubó
 selyemgyár
 selyemhernyó
+selyemhernyós
+selyemhernyózik
 selyemmajom
 selyempapír
+selyempizsama
 selyemszál
 selyemút
 selyma
@@ -103351,6 +104196,7 @@ siklat
 siklik
 siklás
 sikló
+siklóangolna
 siklóernyő
 siklóernyős
 siklóernyőzés
@@ -103455,6 +104301,7 @@ sirályok
 sirám
 siránkozik
 siránkozás
+siránkozó
 sisak
 sisakbokréta
 sisakellenző
@@ -103524,6 +104371,7 @@ skarlát
 skarlátpiros
 skarlátvörös
 skatulya
+skatulyaelv
 skatulyácska
 skatulyák
 skatulyás
@@ -103532,6 +104380,7 @@ skicc
 skinhead
 skizofrén
 skizofrénia
+skizoid
 skizoid személyiségzavar
 skontó
 skorbut
@@ -103900,6 +104749,8 @@ soremelő
 sorfa
 sorfal
 sorfalu
+sorhajóhadnagy
+sorhajókapitány
 sorház
 sorjában
 sorjázógép
@@ -103977,6 +104828,7 @@ sorrendet
 sorrendet megállapít
 sorrendi
 sorrendiség
+sorrendű
 sorrím
 sors
 sorsa
@@ -104363,6 +105215,14 @@ srácok
 srácot
 srég
 srégen
+sróf
+srófhúzó
+srófol → srófolás
+srófolgat
+srófolható
+srófolt
+srófoltat
+srófoló
 stabil
 stabilabb
 stabilan
@@ -104408,6 +105268,7 @@ statisztikák
 statiszták
 statisztál
 statisztéria
+status quo
 statuál
 statárium
 statáriumi
@@ -104502,6 +105363,7 @@ stratégia
 stratégiai
 stratégiajáték
 stratégiák
+strekk
 streptococcus
 stressz
 stressz-szerű
@@ -104518,6 +105380,8 @@ strichel
 strichelés
 strici
 stricik
+striduláció
+strimfli
 string
 stroboszkóp
 stroke
@@ -104553,6 +105417,8 @@ stréber
 strófa
 strófák
 stróman
+strómankodik
+strómanság
 strúma
 stuccol
 studíroz
@@ -104695,6 +105561,7 @@ sunetta
 sunyi
 sunyibb
 superessivus
+surc
 suriken
 suriname-i
 surran
@@ -105037,6 +105904,7 @@ szaggat
 szaggatott
 szaggatta
 szaghoz
+szagitta
 szaglik
 szaglás
 szaglászik
@@ -105346,6 +106214,7 @@ szakóca
 szaküzlet
 szal
 szalad
+szalad az idő
 szaladgál
 szaladj
 szaladás
@@ -105419,6 +106288,7 @@ szalmasúly
 szalmasúlyú
 szalmaözvegy
 szalmaözvegyek
+szalmaözvegység
 szalmiák
 szalmiáksó
 szalmonella
@@ -105452,6 +106322,7 @@ szalonképes
 szalonképesebb
 szalonképesség
 szalonképtelen
+szalonköltészet
 szalonna
 szalonnasütés
 szalonnák
@@ -105465,6 +106336,7 @@ szalonzene
 szalonzenekar
 szalonzenekarok
 szalonzenék
+szalpa
 szaltó
 szaltózik
 szalutál
@@ -105648,6 +106520,7 @@ szarházi
 szarig
 szarik
 szarj
+szarj a fejedre
 szarka
 szarkaláb
 szarkalábas
@@ -105717,7 +106590,6 @@ szarvaim
 szarvaink
 szarvaitok
 szarvak
-szarval
 szarvam
 szarvas
 szarvas csörgőkígyó
@@ -105777,10 +106649,7 @@ szarvastehenek
 szarvastehén
 szarvasuk
 szarvasunk
-szarvatlan
 szarvatok
-szarvaz
-szarvtalan
 szarvuk
 szarvunk
 szarvú
@@ -105841,11 +106710,17 @@ szavahihetőség
 szavahihetőségek
 szavai
 szavaid
+szavaidat
 szavaik
+szavaikat
 szavaim
+szavaimat
+szavain
 szavaink
+szavainkat
 szavait
 szavaitok
+szavaitokat
 szavaival
 szavajárás
 szavak
@@ -105940,6 +106815,7 @@ szavát adja
 szavú
 szaxofon
 szaxofonok
+szaxofonos
 szaúd-arábiai
 szcientológia
 szcientológiáról
@@ -106002,6 +106878,7 @@ szegedi
 szegel
 szegez
 szegfogó
+szegfûbors
 szegfű
 szegfűbors
 szegfűgomba
@@ -106060,6 +106937,7 @@ szegénysor
 szegénység
 szegénységek
 szegénységi
+szegénységi küszöb
 szegényít
 szegényügy
 szegényül
@@ -106071,6 +106949,7 @@ szeizmikus
 szeizmográf
 szeizmográfok
 szeizmológia
+szeizmológiai
 szejm
 szejtán
 szekció
@@ -106407,7 +107286,6 @@ szemeteskosár
 szemetesláda
 szemetesvödör
 szemetet
-szemetlen
 szemetül
 szemez
 szemezget
@@ -106470,6 +107348,7 @@ szemléltetésképp
 szemléltetésképpen
 szemléltető
 szemlélő
+szemmagasság
 szemmel
 szemmel láthatóan
 szemmel tart
@@ -106497,6 +107376,7 @@ szempontjai
 szempontjából
 szempontok
 szempontokat
+szempontú
 szemre
 szemrebbenés nélkül
 szemrehány → szemrehányás
@@ -106513,6 +107393,7 @@ szemről
 szemszín
 szemszög
 szemszöge
+szemszögű
 szemtanú
 szemtanúja
 szemtanúk
@@ -106612,6 +107493,7 @@ személyzeti lift
 személyzettel
 személyügy → személyügyi
 személyű
+szeméma
 szemén
 szemének
 szeménél
@@ -106870,6 +107752,7 @@ szenvtelen
 szenvtelenebb
 szenvtelenség
 szenvtelenül
+szenya
 szenzitizál
 szenzitív
 szenzitívebb
@@ -106877,6 +107760,7 @@ szenzualista
 szenzáció
 szenzációhajhász
 szenzációk
+szenzációkeltés
 szenzációként tálal
 szenzációs
 szenátor
@@ -106935,6 +107819,7 @@ szerecsendió
 szerecsendió-virág
 szerecsendiófa
 szerecsendiók
+szerecsendióval
 szerecsenek
 szerecsenmosdatás
 szerecsent mosdat
@@ -107655,6 +108540,7 @@ szikh
 szikhek
 szikhizmus
 sziki here
+sziki kocsord
 szikkad
 szikkadás
 szikkaszt
@@ -107673,7 +108559,6 @@ sziklarigó
 sziklaszirt
 sziklaterasz
 sziklaugró antilop
-sziklevelű
 sziklevél
 sziklák
 sziklás
@@ -108044,8 +108929,10 @@ szkizoaffektív zavar
 szkizofreniform zavar
 szkizofrén
 szkizofrénia
+szkizoid
 szklerózis
 szkopjei
+szkopolamin
 szkájpol
 szkíta
 szkítaság
@@ -108067,6 +108954,7 @@ szlovák kuvasz
 szlovák köztársasági
 szlovákiai
 szlovákok
+szlovákosítás
 szlovén
 szlovén köztársasági
 szlovének
@@ -108099,6 +108987,7 @@ szobahőmérséklet
 szobai tigrislevél
 szobainas
 szobakerékpár
+szobaköltészet
 szobalány
 szobalányok
 szobanövény
@@ -108136,6 +109025,7 @@ szobába
 szobában
 szobácska
 szobája
+szobájában
 szobák
 szobákban
 szobán
@@ -108422,9 +109312,12 @@ szonáták
 szonátás
 szonátázik
 szop
+szopat
 szophat
 szopik
 szopizik
+szopj le
+szopkod
 szopogat
 szopogás
 szopornyica
@@ -108768,7 +109661,6 @@ szájak
 szájal
 szájas
 szájaskodik
-szájatlan
 szájba
 szájba dug/basz/kúr
 szájba rág
@@ -109194,6 +110086,7 @@ számítógéppel
 számítógéppel segített tervezés
 számítógépre
 számítógépvírus
+számítózik
 számú
 száműz
 száműz → száműzés
@@ -109371,7 +110264,6 @@ szárnyra kel
 szárnysegéd
 szárnysuhogás
 szárnyszélesség
-szárnytalan
 szárnytoll
 szárnytávolság
 szárnyvasút
@@ -109384,7 +110276,6 @@ szárogat
 szárra
 szárról
 szártag
-szártalan
 szártalanít
 szárzeller
 szárától megfoszt
@@ -109424,7 +110315,6 @@ százados
 századosok
 századtól
 századvégi
-százak
 százalék
 százaléka
 százalékban
@@ -110258,7 +111148,6 @@ színpadi
 színpadi gyakorlat
 színpadi mesterség
 színpadias
-színpadiasan
 színpadiasság
 színpadilag
 színpadkép
@@ -110384,7 +111273,9 @@ szívből köszönöm
 szívdarab
 szívderítő
 szívderítő látvány
+szívderítőbb
 szívdobbanás
+szívdobogás
 szívdöglesztő
 szíve
 szíve csücske
@@ -110465,6 +111356,7 @@ szívlel → megszívlel
 szívlevelű nadálytő
 szívmegállás
 szívmelengető
+szívmelengetőbb
 szívműtét
 szívműtétek
 szívnak
@@ -110682,6 +111574,8 @@ szókincstár
 szóként
 szókép
 szóképzés
+szóképzési
+szóképzésű
 szóképző
 szókészlet
 szókígyó
@@ -110911,6 +111805,8 @@ szóírás
 szóösszerántás
 szóösszetétel
 szóösszevonás
+szóösszevonási
+szóösszevonásos
 szóözön
 szóújítás
 szöcske
@@ -111013,11 +111909,11 @@ szörnyszülött
 szörnyülködik
 szörnyülködés
 szörnyű
-szörnyű(en)
 szörnyűbb
 szörnyűség
 szörnyűségek
 szörp
+szörpkészítés
 szörpök
 szörényvári
 szösz
@@ -111331,6 +112227,7 @@ szülői nyilatkozat
 szülői túlposztolás (from túl- and posztol)
 szülők
 szülőkkel együtt lakó/élő vő
+szülőképes
 szülőnyelv
 szülőotthon
 szülőszoba
@@ -111377,6 +112274,7 @@ szürke varjú
 szürke zsezse
 szürkearcú fülemülerigó
 szürkebegy
+szürkefejű lúd
 szürkenyakú koronásdaru
 szürkeség
 szürkeségek
@@ -111599,6 +112497,7 @@ szűrők
 szűrőkád
 szűrővizsgálatot végez
 szűz
+szűzen
 szűzföld
 szűzhártya
 szűzhártyák
@@ -111737,8 +112636,6 @@ sárgásfehér kígyógomba
 sárgásvörös
 sárgászöld
 sárgít
-sárgíttat
-sárgítás
 sárhányó
 sárkány
 sárkányfa
@@ -111821,6 +112718,7 @@ sávoly
 sávolyok
 sávos
 sávos here
+sávos tőkehal
 sávszélesség
 sávszélességek
 sávval
@@ -111878,14 +112776,18 @@ sérülékenység
 sérülés
 sérülések
 sérüléseket
+sérüléses
+sérülésmentes
 sérülést
 sérülésveszély
+sérülésű
 séta
 sétabot
 sétabotok
 sétahangverseny
 sétapálca
 sétapálcák
+sétaszimulátor
 sétatér
 sétaút
 séták
@@ -111973,6 +112875,7 @@ sínpálya
 sínyli
 sínylik
 sínylődik
+sínágyú
 síoktató
 síoktatók
 síp
@@ -112172,6 +113075,7 @@ sörfőzdék
 sörfőző
 sörgyefa
 sörgyár
+sörhab
 sörhas
 sörhasak
 sörhasú
@@ -112199,9 +113103,13 @@ söröshordó
 söröskancsó
 söröskocsi
 söröskorsó
+söröskorsónyi
+söröskorsós
 söröskupak
 söröspohár
 sörösüveg
+sörösüveges
+sörösüvegnyi
 sörötök
 söröz
 sörözöl
@@ -112238,7 +113146,6 @@ sötétvörös
 sötétzöld
 sötétít
 sötétít → elsötétít
-sötétíttet
 sötétül
 sötétül → elsötétül
 sövény
@@ -112411,6 +113318,7 @@ sült burgonya
 sült gesztenye
 sült kolbász
 sült krumpli
+sült rizs
 sült tészta
 sültebb
 sültek
@@ -112776,6 +113684,7 @@ talizmán
 talizmánok
 talián
 taliándörögdi
+talióelv
 talk show
 talkshow
 tallinni
@@ -112832,7 +113741,6 @@ talpra állít
 talpraesett
 talpraesettebb
 talpraesettség
-talptalan
 talpára esik, mint a macska
 talpú
 talál
@@ -112956,6 +113864,7 @@ talányosan
 talányosság
 talár
 talárok
+tam-tam
 tamarind
 tamarindusz
 tamariska
@@ -113822,12 +114731,21 @@ tarifaszerződés
 tarifatáblázat
 tarifájú
 tarifás
+tarisznya
+tarisznyaforma
+tarisznyamadzag
 tarisznyarák
+tarisznyaszíj
+tarisznyájú
+tarisznyás
+tarisznyáz
+tarisznyázik
 tarja
 tarjáni
 tarka
 tarka cinege
 tarka cirok
+tarka halkapó
 tarka kárókatona
 tarkabab
 tarkabarka
@@ -113958,6 +114876,7 @@ tartották
 tartottál
 tartottátok
 tartozik
+tartozik (with -nak/-nek)
 tartozik oldal
 tartoznak
 tartozz
@@ -114512,6 +115431,7 @@ tekintse megoldottnak
 tekintve
 tekintély
 tekintélyek
+tekintélyelv
 tekintélyelvű
 tekintélyes
 tekintélyesebb
@@ -114536,6 +115456,7 @@ tel.-ok
 tele
 tele vagyok
 tele van
+tele van a gatyája
 tele van a hócipője
 tele-
 telecsorog
@@ -114974,6 +115895,7 @@ tengeri utazás
 tengeribeteg
 tengeribetegség
 tengeribetegségek
+tengeridisznó
 tengerimalac
 tengerimalacok
 tengerirózsa
@@ -115007,6 +115929,7 @@ tengerpartom
 tengerparton
 tengerpartotok
 tengerpartunk
+tengerpartú
 tengerrel nem határos
 tengerszem
 tengerszint
@@ -115125,7 +116048,6 @@ tenyérre
 tenyérrel
 tenyérré
 tenyérről
-tenyértelen
 tenyértől
 tenyérért
 tenyésszen
@@ -115139,6 +116061,8 @@ tenyészreaktor
 tenyészt
 tenyésztest
 tenyésztés
+tenyésztési
+tenyésztésű
 tenyésztő
 tenyészállat
 tenziós fejfájás
@@ -115680,6 +116604,7 @@ terád
 terápia
 terápiák
 terápiás
+terápiásan
 terén
 terézvárosi
 terít
@@ -115835,7 +116760,6 @@ testtartás
 testtartási
 testtartású
 testtel
-testtelen
 testté
 testtömeg → testtömegindex
 testtömegindex
@@ -115853,6 +116777,7 @@ testvériség
 testvérnyelv
 testvérnéne
 testvérváros
+testvérági
 testvéröcs
 testál
 testápolás
@@ -116146,7 +117071,6 @@ teéretted
 teérted
 tfilin
 tfilint
-th
 thai
 thai boksz
 thaiba
@@ -116225,6 +117149,7 @@ tigris
 tigrisaloé
 tigrisbe
 tigrisben
+tigrisbukfenc
 tigrisből
 tigrisbőr
 tigriscápa
@@ -116377,6 +117302,7 @@ tiramisu
 tiranai
 tireátok
 tirozin
+tirzepatid
 tiráda
 tirátok
 tirólatok
@@ -116486,6 +117412,7 @@ tisztul
 tisztviselő
 tisztviselők
 tisztviselőnő
+tisztába
 tisztába tesz
 tisztában
 tisztában van
@@ -116639,7 +117566,6 @@ tizenhatodik
 tizenhatodika
 tizenhatodikai
 tizenhatodiki
-tizenhatok
 tizenhatos
 tizenhatszög
 tizenheted
@@ -116647,8 +117573,6 @@ tizenhetedik
 tizenhetedike
 tizenhetedikei
 tizenhetediki
-tizenhetek
-tizenhármak
 tizenhárom
 tizenháromszög
 tizenhét
@@ -116661,7 +117585,6 @@ tizenkettedikei
 tizenkettedikes
 tizenkettediki
 tizenkettedrendű
-tizenkettek
 tizenkettes
 tizenkettő
 tizenkettő egy tucat
@@ -116672,7 +117595,6 @@ tizenkilencedik
 tizenkilencedike
 tizenkilencedikei
 tizenkilencediki
-tizenkilencek
 tizenkilences
 tizenkilencszög
 tizenkét
@@ -116689,10 +117611,8 @@ tizennyolcadik
 tizennyolcadika
 tizennyolcadikai
 tizennyolcadiki
-tizennyolcak
 tizennyolcszög
 tizennégy
-tizennégyek
 tizennégyszög
 tizenvalahány
 tizenéves
@@ -116704,7 +117624,6 @@ tizenötödik
 tizenötödike
 tizenötödikei
 tizenötödiki
-tizenötök
 tiáltalatok
 tiéd
 tiéid
@@ -116978,7 +117897,6 @@ torkig van
 torkocska
 torkod
 torkok
-torkol
 torkol → letorkol
 torkolat
 torkolati
@@ -116992,7 +117910,6 @@ torkon ragad
 torkos
 torkosság
 torkotok
-torkoz
 torkuk
 torkunk
 torkában dobog a szíve
@@ -117238,6 +118155,7 @@ traktus
 traktál
 tram-train
 trambulin
+tramontana
 trampli
 trance
 translativus
@@ -117382,6 +118300,7 @@ triviálisabb
 triviálisan
 triász
 triázs
+trió
 trióda
 triószonáta
 trochaikus
@@ -117533,7 +118452,6 @@ trükkök
 trükkös
 trükkös doboz
 trükközik
-ts
 tsak
 tsz
 ttokpokki
@@ -117848,6 +118766,8 @@ turzás
 turáni
 tus
 tusa
+tusakodik
+tusakodás
 tusfürdő
 tusfürdők
 tuskihúzó
@@ -118026,6 +118946,8 @@ tájszólások
 tájszótár
 tájt
 tájvers
+tájék
+tájéki
 tájékozatlan
 tájékozott
 tájékoztat
@@ -118223,6 +119145,7 @@ tánczenék
 táncírás
 táncóra
 tángál
+tánti
 tántorgó
 tántorodik
 tántorog
@@ -118249,6 +119172,10 @@ táperő
 tápióka
 tápiókaliszt
 tápiószelei
+tápkábel
+tápkábelek
+tápkábeleket
+tápkábelt
 táplál
 táplálkozik
 táplálkozás
@@ -118428,7 +119355,9 @@ társadalmi
 társadalmi munka
 társadalmi nem
 társadalmi szervezet
+társadalmi szerződés
 társadalmi tulajdonba vétel
+társadalmi tőke
 társadalmi/szociális szerep
 társadalmibb
 társadalom
@@ -118454,6 +119383,7 @@ társalgási
 társalgási zsebkönyv
 társalgások
 társalgó
+társalkodik
 társalog
 társas
 társas hajlam
@@ -118525,6 +119455,7 @@ tárulj
 tárulkozik
 tárva-nyitva
 tárát
+táráz
 táró
 táróboltozat
 táróhajtás
@@ -118902,7 +119833,7 @@ térdreflexek
 térdszalag
 térdszalagok
 térdszalagrend
-térdtelen
+térdszalagsérülés
 térdvédő
 térdzokni
 térdzoknik
@@ -119102,6 +120033,7 @@ tételes
 tételes → háromtételes
 tételez
 tételeződik
+tételjegyzék
 tételkarakter
 tételmondat
 tételpár
@@ -119429,7 +120361,6 @@ többől
 tök
 tök jó
 töke
-töketlen
 tökfej
 tökfejű
 tökfilkó
@@ -119501,9 +120432,11 @@ töltsd
 töltsek
 töltény
 töltények
+töltényes
 töltényhüvely
 tölténytartó
 tölténytár
+töltényű
 töltés
 töltéscsatolt eszköz
 töltése
@@ -119632,6 +120565,7 @@ tömött
 tömő
 tömőfa
 tömőgép
+töndzsang
 tönk
 tönkre
 tönkrehervaszt
@@ -119706,6 +120640,7 @@ törjetek
 törjél
 törjön
 törjünk
+törköly
 törlessz
 törleszkedik
 törleszt
@@ -119749,6 +120684,7 @@ törpe erszényesmókus
 törpe pusztaiszajkó
 törpe simabálna
 törpe szferoidális galaxis
+törpe tőkehal
 törpe víziló
 törpebirtok
 törpebirtokos
@@ -119768,8 +120704,10 @@ törpemandarin
 törpemaréna
 törpepók
 törpespicc
+törpeszúnyog
 törpesármány
 törpetirannusz
+törpevöcsök
 törpeállam
 törpébb
 törpék
@@ -119947,6 +120885,7 @@ törzshajlítás
 törzshang
 törzshangsor
 törzshely
+törzsi
 törzskanca
 törzskar
 törzskönyv → törzskönyvez
@@ -119962,7 +120901,6 @@ törzsszám
 törzsszámok
 törzsszövetség
 törzstag
-törzstelen
 törzstenyészet
 törzstiszt
 törzstényező
@@ -120054,6 +120992,7 @@ túl
 túl drága
 túl hosszú, nem olvastam el
 túl kevés munkaerővel/személyzettel rendelkezik
+túl nagy fába vágja a fejszéjét
 túl sok
 túl sok mindent oszt meg
 túl sok szakács elsózza a levest
@@ -120374,7 +121313,6 @@ tüdőspecialista
 tüdőszanatórium
 tüdőszín
 tüdőszűrés
-tüdőtlen
 tüdőtágulás
 tüdőtályog
 tüdőverőér
@@ -120385,7 +121323,6 @@ tüdővénák
 tüdővérzés
 tüdővész
 tüdővészes
-tüdőz
 tüdőáttét
 tüdőér
 tükre
@@ -120424,6 +121361,7 @@ tülekedő
 tülekszik
 tülke
 tülkös → tülkösszarvúak
+tülkösszarvúak
 tülök
 tünde
 tündér
@@ -120685,6 +121623,7 @@ tőzikét
 tőzsde
 tőzsdei
 tőzsdei bevezetés
+tőzsdeindex
 tőzsdeképes
 tőzsdeügynök
 tőzsdék
@@ -120741,7 +121680,6 @@ tűzcsap
 tűzcsapok
 tűzcsapás
 tűzcsoport
-tűzcsoport < raj < szakasz < század < zászlóalj < ezred < dandár < hadosztály < hadtest < hadsereg < hadseregcsoport < front
 tűzcsóva
 tűzcső
 tűzd
@@ -120773,6 +121711,7 @@ tűzgyorsaság
 tűzgyújtó
 tűzgátló ajtó
 tűzgömb
+tűzhal
 tűzhalál
 tűzharc
 tűzhely
@@ -120783,6 +121722,7 @@ tűzi
 tűzi → tűzifa etc
 tűzifa
 tűzifecskendő
+tűzifás
 tűzijáték
 tűzijáték-rakéta
 tűzijátékok
@@ -121202,6 +122142,7 @@ unikornisok
 unikális
 uniszex
 unitárius univerzalizmus
+unitárius állam
 univerbáció
 univerbálódás
 univerzum
@@ -121514,6 +122455,7 @@ utolsó előtti
 utolsó kenet
 utolsó negyed
 utolsó rendelés/kör
+utolsó szó
 utolsó vacsora
 utolsó ítélet
 utolsóbb
@@ -121853,6 +122795,7 @@ vadmalac
 vadmák
 vadméz
 vadnyom
+vadnyugat
 vadnyúl
 vadon
 vadonatúj
@@ -121977,6 +122920,7 @@ vagyonelem
 vagyonelkobzás
 vagyonfelügyelő
 vagyoni
+vagyonkezelt
 vagyonkezelés
 vagyonkezelő
 vagyonleltár
@@ -122112,6 +123056,7 @@ vakondok
 vakondokok
 vakondom
 vakondotok
+vakondtúrás
 vakondunk
 vakpadló
 vakriasztás
@@ -122214,6 +123159,7 @@ valamibe
 valamiben
 valamiből
 valamicske
+valamicsoda
 valamifajta
 valamiféle
 valamihez
@@ -122332,6 +123278,7 @@ valutaüzér
 valutájú
 valutás
 valutázik
+valvula
 valváltozó
 valál
 valának
@@ -123869,6 +124816,7 @@ vezérelte
 vezérelv
 vezérelve
 vezérevezős
+vezérezredes
 vezérfonal
 vezérgép
 vezérhang
@@ -123880,6 +124828,7 @@ vezérigazgatója
 vezérigazgatók
 vezérigazgatóság
 vezérkar
+vezérkari főnök
 vezérkönyv
 vezérlet
 vezérlés
@@ -123899,6 +124848,7 @@ vezérszurkolás
 vezérszurkoló
 vezérszurkolóskodás
 vezérszó
+vezérőrnagy
 vezír
 vezírek
 viadal
@@ -123948,10 +124898,12 @@ viccel
 viccelés
 viccelődik
 vicces
+vicces ember
 viccesebb
 viccet
 vicclap
 viccnek
+viceóbester
 vicsorgás
 vicsorog
 vicsorít
@@ -123959,11 +124911,13 @@ vicsorítás
 vidd
 video-
 videofelvétel
+videohívás
 videojel
 videojáték
 videojáték-konzol
 videokazetta
 videoklip
+videokonferencia
 videokártya
 videokölcsönzés
 videolemez
@@ -123986,6 +124940,7 @@ videójáték-műfaj
 videójátékok
 videójátékos
 videók
+videókamera
 videókazetta
 videóklip
 videókészülék
@@ -124004,11 +124959,11 @@ videótelefonok
 videózik
 vidra
 vidrafű
+vidramenyét
 vidrapók
 vidrák
 vidrát
 vidám
-vidám fickó
 vidámabb
 vidámabban
 vidáman
@@ -124525,6 +125480,7 @@ vincseszter
 vincseszterek
 vincsi
 vindikál
+vinetta
 vinil
 vinil-alkohol
 vinil-cianid
@@ -124580,6 +125536,7 @@ virtus
 virtuskodás
 virtuális
 virtuális billentyűzet
+virtuális magánhálózat
 virtuális valóság
 virtuálisan
 virtuóz
@@ -124626,16 +125583,13 @@ virágporelemzés
 virágszál
 virágszőnyeg
 virágtakaró
-virágtalan
 virágtartó
 virágvasárnap
 virágvasárnapok
 virágváza
 virágzat
 virágzatok
-virágzatú
 virágzik
-virágzik. With ‑(o
 virágzás
 virágzó
 virágzóbb
@@ -124845,6 +125799,7 @@ visszahátrál
 visszahí
 visszahív
 visszahívat
+visszahívogat
 visszahívás
 visszahízik
 visszahódít
@@ -124950,6 +125905,7 @@ visszamegy
 visszamellékel
 visszamenőleg
 visszamenőleg → visszamenőleges → visszamenőlegesen
+visszamenőleges
 visszamenőleges hatály
 visszamenőlegesen
 visszamer
@@ -125204,6 +126160,7 @@ visszhangoz
 visszhangzik
 visszhangzás
 visszordít
+visszutasítás
 visszáru
 visszás
 visszásság
@@ -125226,6 +126183,7 @@ viszi a szót
 viszik
 viszik, mint a cukrot
 viszitek
+viszkacsa
 viszket
 viszketeg
 viszketés
@@ -125352,6 +126310,7 @@ vitel
 viteldíj
 viteljegy
 vitelű
+vitesse
 vitet
 vitetik
 vitiligo
@@ -125443,6 +126402,7 @@ vizesdézsa
 vizesebb
 vizesen
 vizeskancsó
+vizeskorsó
 vizespohár
 vizespóló verseny
 vizesárok
@@ -125842,6 +126802,7 @@ vonít
 vonítás
 vonó
 vonóerő
+vonóháló
 vonók
 vonókötél
 vonós
@@ -125856,6 +126817,7 @@ vouvoyer
 voálá
 vráncsai
 vs.
+vudvardija
 vuhani
 vulgáris
 vulgáris latin
@@ -125924,7 +126886,9 @@ vághat
 vághatatlan
 vághatatlanabb
 vágható
+vághatóan
 vághatóbb
+vághatóság
 vágj
 vágja
 vágja a centit
@@ -126016,6 +126980,7 @@ váladékos
 váladékozik
 váladékú
 válassz
+válassza
 válasz
 válasz-levelezőlap
 válasza
@@ -126045,6 +127010,8 @@ választanák
 választhat
 választható
 választható/bekapcsolható felirat
+választhatóan
+választhatóság
 választják
 választmány
 választmányi
@@ -126140,8 +127107,6 @@ vállasít
 vállat
 vállat rándít
 vállat von
-vállatlan
-vállaz
 vállfa
 vállfák
 vállfűző
@@ -126283,6 +127248,9 @@ változott
 változtat
 változtathat
 változtatható
+változtathatóan
+változtathatóbb
+változtathatóság
 változtatni
 változtatás
 változtatások
@@ -126438,6 +127406,7 @@ vándorszínész
 vándorszó
 vándorsólymok
 vándorsólyom
+vándortarisznya
 vándorvágy
 vándorének
 vándorénekes
@@ -126488,6 +127457,7 @@ várható
 várható élettartam
 várhatóan
 várhatóbb
+várhatólag
 várhatóság
 várhegy
 várháború
@@ -126668,6 +127638,7 @@ vászon
 vászoncipő
 vászonernyő
 vászongatya
+vászonkorsó
 vászonkötés
 vászontető
 vásár
@@ -127182,6 +128153,7 @@ végrehajtások
 végrehajtására
 végrehajtását
 végrehajtó
+végrehajtó bizottság
 végrehajtó hatalom
 végrendelet
 végrendeletek
@@ -127195,11 +128167,13 @@ végstádiumban
 végstádiumban lévő
 végstádiumú
 végszó
+végszükség esetén
 végső
 végső esetben
 végső formába önt
 végső nyughely
 végső soron
+végső/döntő szó
 végső/legvégső eszköz/megoldás/mentsvár
 végtag
 végtagok
@@ -127432,7 +128406,6 @@ véreskezű
 véresszájú
 véretek
 véretekben
-vérez
 vérfagyasztó
 vérfagyasztóbb
 vérfagyás
@@ -127519,7 +128492,6 @@ vértanúk
 vértanúság
 vérted
 vértek
-vértelen
 vértelítettség
 vértem
 vértes
@@ -127935,6 +128907,7 @@ vödröt
 vödrű
 vödör
 völgy
+völgycsillag
 völgyek
 völgyel
 völgyes
@@ -127963,6 +128936,7 @@ vörhenyes fülemülerigó
 vörhenyeshasú kokabura
 vörhenyestorkú nyaktekercs
 vörös
+vörös csillag
 vörös dagály
 vörös farkas
 vörös fogoly
@@ -127982,6 +128956,7 @@ vörös róka
 vörös szuperóriás
 vörös szőnyeg
 vörös törpe
+vörös tűzhal
 vörös vesebab
 vörös vércse
 vörös zászló
@@ -128248,6 +129223,7 @@ wikiszótárak
 williamsi
 wilsoni
 win-win
+winchester
 windowsos
 wishes
 witherit
@@ -128391,6 +129367,7 @@ zabföld
 zabhegyezés
 zabigyerek
 zabkása
+zabkása (oat gruel)
 zabla
 zablakarika
 zabliszt
@@ -128403,6 +129380,7 @@ zabos
 zabpehely
 zabtej
 zabál
+zabáld a szart
 zabálás
 zacc
 zaci
@@ -129087,6 +130065,7 @@ zsebbe
 zsebbel
 zsebben
 zsebbé
+zsebcirkáló
 zsebeim
 zsebek
 zsebel
@@ -129559,6 +130538,8 @@ zárgondnok
 zárhang
 zárhat
 zárható
+zárhatóan
+zárhatóság
 zárhúzás
 záridő
 zárj
@@ -129747,6 +130728,7 @@ zászlóról
 zászlórúd
 zászlós
 zászlóshajó
+zászlóstiszt
 zászlósúr
 zászlót
 zászlótan
@@ -129957,10 +130939,11 @@ zűrök
 {{U:hu:num-odik}}
 {{t+|1=hu|2=féregtelenít}}
 {{t+|1=hu|2=kúszik}}
-{{t+|1=hu|2=megnyílik}}
-{{t+|1=hu|2=melegszik}}
-{{t+|1=hu|2=melegít}}
-{{t+|1=hu|2=oldódik}}
+{{t+|1=hu|2=lopakodik}}
+{{t+|1=hu|2=oson}}
+{{t+|1=hu|2=settenkedik}}
+{{t+|1=hu|2=surran}}
+{{t|1=hu|2=kiszürkít}}
 ~let
 ~szennyezettség
 ~ség
@@ -130282,8 +131265,6 @@ zűrök
 ágaskodik
 ágastul
 ágat
-ágatlan
-ágaz
 ágazat
 ágazati
 ágazatok
@@ -130296,6 +131277,9 @@ zűrök
 ágensek
 ágensprogram
 ágfa
+ági
+ági öröklés
+ági örökösödés
 ágon
 ágostoni
 ágra
@@ -130375,6 +131359,7 @@ zűrök
 ágyútöltelékek
 ágyútűz
 ágyúval lő verébre
+ágyúval verébre
 ágyúz
 ágyúzhat
 ágyúzás
@@ -130563,6 +131548,7 @@ zűrök
 állampolgárságok
 állampolgárságot ad
 állampolgárságú
+állampártiság
 állampénztár
 államregény
 államrend
@@ -130584,6 +131570,7 @@ zűrök
 államügy
 államügyész
 állandó
+állandó bizottság
 állandó határozó
 állandó lakhely
 állandó lakos
@@ -130609,9 +131596,11 @@ zűrök
 állapotban
 állapoteset
 állapothatározó
+állapotnak
 állapotok
 állapotokat
 állapotokban
+állapotoknak
 állapotos
 állapotot
 állapotromlás
@@ -130626,7 +131615,9 @@ zűrök
 állat-
 állata
 állatalak
+állatanatómia
 állatbarát
+állatboncolás
 állategészségügy
 állateposz
 állatgyógyászat
@@ -130648,7 +131639,6 @@ zűrök
 állatkínzás
 állatkórház
 állatkórházak
-állatlan
 állatmenhely
 állatmese
 állatnevek
@@ -130702,6 +131692,7 @@ zűrök
 állhoz
 állig
 állj
+állj le
 állja
 állja a sarat
 állja a szavát
@@ -130851,6 +131842,8 @@ zűrök
 állíthat
 állítható
 állítható csavarkulcs
+állíthatóan
+állíthatóság
 állítja
 állítják
 állítmány
@@ -130940,6 +131933,7 @@ zűrök
 álmosak
 álmosan
 álmoskönyv
+álmosmadár
 álmosság
 álmot
 álmotok
@@ -131646,6 +132640,7 @@ zűrök
 átalányösszeg
 átautózik
 átbandukol
+átbarnít
 átbasz
 átberreg
 átbeszélget
@@ -131818,6 +132813,7 @@ zűrök
 áthí
 áthív
 áthívat
+áthívogat
 áthúz
 áthúzat
 áthúzás
@@ -131862,6 +132858,7 @@ zűrök
 átkapcsol
 átkapcsolás
 átkapcsolódik
+átkapál
 átkarol
 átkategorizál
 átkattan
@@ -131892,12 +132889,12 @@ zűrök
 átkozmetikáz
 átkozni
 átkozott
-átkozott(ul)
 átkozottabb
 átkozottan
 átkozottság
 átkozottul
 átkozódik
+átkukucskál
 átkutat
 átkél
 átkényszerít
@@ -131978,7 +132975,10 @@ zűrök
 átlát
 átlát a szitán
 átlátható
+átláthatóan
+átláthatóbb
 átláthatóság
+átláthatósági
 átláthatósági nyilatkozat
 átlátszatlan
 átlátszik
@@ -132366,7 +133366,6 @@ zűrök
 ázz
 ázás
 ázó
-ä
 ångström
 é
 ében
@@ -132452,6 +133451,7 @@ zűrök
 édesvízi
 édesít
 édesít → édesítőszer
+édesítetlen
 édesíthető
 édesítőszer
 édesül
@@ -132550,6 +133550,7 @@ zűrök
 égről
 égsz
 égszínkék
+égszínkék boglárka
 égtek
 égtem
 égtetek
@@ -132797,10 +133798,15 @@ zűrök
 élen/élén áll
 élenjáró
 éleny
+élenydús
+élenytartalom
+élenyít
+élenyül
 éles
 éles elméjű
 éles eszű
 éles hegyű
+éles lőszer
 éles nyelvű
 éles szemű
 éles vonalú/rajzú/rajzolatú
@@ -132823,6 +133829,7 @@ zűrök
 élesztőgomba
 élesztők
 élesztőmentes
+élesztőpehely
 élesít
 élesítő
 élet
@@ -132871,6 +133878,7 @@ zűrök
 életelem
 életelixír
 életelixírek
+életelv
 életem
 életemben
 életemet
@@ -132899,6 +133907,7 @@ zűrök
 élethű
 élethűség
 életig
+életigenlő
 életigény
 életjel
 életjáradék
@@ -133363,6 +134372,7 @@ zűrök
 éppúgy
 éppúgy…
 épség
+épségizmus
 épít
 építeni
 épített
@@ -133487,6 +134497,7 @@ zűrök
 érd
 érdek
 érdekazonosság
+érdekbarát
 érdekcsoport
 érdeke
 érdekei
@@ -133511,6 +134522,7 @@ zűrök
 érdekesebb
 érdekesek
 érdekesen
+érdekessé tesz
 érdekesség
 érdekessége
 érdekességek
@@ -133730,6 +134742,7 @@ zűrök
 érlel
 érlelget
 érlelhető
+érlelt
 érlelés
 érlelődik
 érleszorító
@@ -134111,6 +135124,7 @@ zűrök
 érzelmi
 érzelmi intelligencia
 érzelmi változás/jelenség
+érzelmileg
 érzelmiség
 érzelmű
 érzem
@@ -134179,6 +135193,7 @@ zűrök
 érzéstelenítő
 érzéstelenítő szer
 érzésű
+érzó
 érzület
 érző
 érződik
@@ -134186,7 +135201,6 @@ zűrök
 érünk
 érő
 és
-és a többi
 és akkor
 és akkor mi van?
 és akkor?
@@ -134201,7 +135215,6 @@ zűrök
 és kész
 és lőn
 és tsai.
-és így tovább
 éspedig
 ésszel
 ésszerű
@@ -134234,6 +135247,7 @@ zűrök
 északi medvefóka
 északi szajkó
 északi számi
+északi szél
 északi-sarki
 északi-sarki-óceáni
 északi-tengeri
@@ -134331,6 +135345,7 @@ zűrök
 ételdíszítés
 ételecet
 ételek
+ételes
 ételfelvonó
 ételfesték
 ételfutár
@@ -134551,6 +135566,7 @@ zűrök
 ígérgetések
 ígéri
 ígérkezik
+ígérte
 ígérvény
 íj
 íj és nyíl
@@ -134927,6 +135943,7 @@ zűrök
 óbb
 óbester
 óbesterek
+óbesterlajtinánt
 óbirodalom
 óbolgár
 óbor
@@ -134985,6 +136002,7 @@ zűrök
 óhaj
 óhajok
 óhajt
+óhajtasz
 óhajtja
 óhajtsz
 óhajtó
@@ -135137,6 +136155,7 @@ zűrök
 óriásszárcsa
 óriásteknős
 óriásvidra
+óriásvöcsök
 órában
 órái
 óráid
@@ -135191,6 +136210,7 @@ zűrök
 óva int
 óvadék
 óvadéklevél
+óvadékot fizet
 óvakodik
 óvatos
 óvatos duhaj
@@ -135247,8 +136267,6 @@ zűrök
 óévi
 óír
 ö
-ö)l: agyal
-ö)z(ik): belez
 ö-zik
 öble
 öblít
@@ -135310,6 +136328,7 @@ zűrök
 ökölvívó
 ökölvívók
 ökör
+ökörbéka
 ökörfark
 ökörhajcsár
 ökörködik
@@ -135567,6 +136586,7 @@ zűrök
 öngúny
 önhasonló
 önhatalmú
+önhatalmúlag
 önhiba
 önhipnózis
 önhitt
@@ -135841,6 +136861,7 @@ zűrök
 ördöglakat
 ördögnyelv
 ördögszekér
+ördögszekér-laskagomba
 ördögök
 ördögöknek
 ördögöt űz
@@ -135878,7 +136899,9 @@ zűrök
 öregségi
 öregtészta
 öregujj
+öregít
 öregúr
+öribari
 örkényi
 örmény
 örmény köztársasági
@@ -135886,11 +136909,13 @@ zűrök
 örménygyökér
 örménykúti
 örményországi
+örményül
 örv
 örve
 örvend
 örvendek
 örvendek a szerencsének
+örvendem
 örvendetes
 örvendezik
 örvendj
@@ -136244,6 +137269,7 @@ zűrök
 összehí
 összehív
 összehívat
+összehívogat
 összehívás
 összehúz
 összehúzat
@@ -136428,6 +137454,7 @@ zűrök
 összeszedeget
 összeszedettség
 összeszedi
+összeszedi a bátorságát
 összeszedi magát
 összeszedés
 összeszegecsel
@@ -136768,7 +137795,6 @@ zűrök
 ötvenedik születésnapját betöltött
 ötvenegy
 ötvenegyedik
-ötvenek
 ötvenes
 ötvenes (éveiben járó)
 ötvenes évek
@@ -136919,6 +137945,7 @@ zűrök
 úgy éljek
 úgy értem
 úgy érzi, bátran…
+úgy, ahogy
 úgy, ahogy van
 úgy-
 úgy-ahogy
@@ -136995,6 +138022,7 @@ zűrök
 újdondászok
 újdonság
 újdonságok
+újdonságszámba
 újdonsült
 újdruidizmus
 újesztendő
@@ -137475,6 +138503,7 @@ zűrök
 üdvrivalgás
 üdvtan
 üdvös
+üdvöske
 üdvösség
 üdvössége
 üdvösségére
@@ -137818,6 +138847,7 @@ zűrök
 üregek
 üreges
 üregesebb
+üregteknős
 üres
 üres halmaz
 üres szorzat
@@ -137883,7 +138913,6 @@ zűrök
 üstökös
 üstökösgém
 üstökösök
-üstökű
 üszke
 üszkös
 üszkösödés
@@ -138055,6 +139084,7 @@ zűrök
 üvegolvasztó
 üvegpalack
 üvegpalota
+üvegplafon
 üvegpohár
 üvegszem
 üvegszemek
@@ -138162,6 +139192,8 @@ zűrök
 üzleti angyal
 üzleti főiskola
 üzleti könyv/főkönyv
+üzleti terv
+üzleti év
 üzletkör
 üzletkötő
 üzletközpont
@@ -138178,7 +139210,6 @@ zűrök
 üzletátadás
 üzér
 üzérkedik
-ÿ
 ča nyelvjárás
 đồng
 İzmir
@@ -138402,10 +139433,8 @@ zűrök
 őrületek
 őrületes
 őrült
-őrült ember
 őrült tudós
 őrült → őrültség
-őrült(en)
 őrültebb
 őrültebben
 őrültek
@@ -138457,6 +139486,7 @@ zűrök
 ősi → ősiség
 ősibb
 ősidő
+ősidők óta
 ősiség
 ősjogász
 őskeresztény
@@ -138760,3 +139790,4 @@ zűrök
 ◌̋
 達 suffix in Japanese
 𐲀
+𐳚𐳉𐳖𐳮 (𐳚𐳉𐳖𐳮)

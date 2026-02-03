@@ -349,6 +349,7 @@ Lamerikänapük
 Lamerikänik
 Landorän
 Larabän
+Laragonänapük
 Largäntän
 Largäntänan
 Largäntänans
@@ -843,6 +844,7 @@ Yapänik
 Yapänön
 Yerevan
 Yisraelän
+Yisraelänan
 Yordän
 Yudän
 Yudänik
@@ -862,6 +864,7 @@ a
 a del
 a düp
 a tel
+a/languages M to Z
 ab
 abgüä
 abi
@@ -1078,9 +1081,11 @@ balsul
 baltum
 balug
 balugik
+balugiko
 balugäl
 balugälik
 balugöf
+balugön
 balugükön
 balul
 balul (1st month
@@ -1089,7 +1094,12 @@ baluls
 balyelanim
 balyim
 baläd
+balädam
+balädik
 balädikam
+balädikön
+balädön
+balädü
 balädükam
 balädükön
 baläl
@@ -1116,6 +1126,7 @@ banoremik
 banoremiko
 banoremo
 banorems
+bans
 banön
 banöp
 baol
@@ -1421,7 +1432,6 @@ bibliograf
 bibliografan
 bibliografik
 bid
-bid\
 bidanem
 bidik
 biduy
@@ -1476,6 +1486,7 @@ bienem
 bienik
 bienil
 bienils e bödils
+biens
 bienäl
 bienön
 bienöp
@@ -1527,6 +1538,10 @@ bil
 bilaston
 bilavesid
 biliarastaf
+biliet
+biliet geik
+biliet moik
+bilietabür
 bilik
 bim
 bima
@@ -1562,6 +1577,7 @@ bimülem
 bimülik
 bimüliplanam
 binob
+binob ...
 binob hikritan
 binob jikritan
 binob katulan
@@ -1572,9 +1588,11 @@ binob yudan
 binobs
 binof
 binol
+binol-li selibik
 binom
 binon
 binons
+binor-li selibik
 binos
 binädön
 binön
@@ -1692,6 +1710,7 @@ bludasolidot
 bludasosit
 blude
 bludiped
+bluds
 bludön
 blufamabagold
 blufodön
@@ -1763,6 +1782,7 @@ blöf
 blöfön
 blönik
 blöt
+blötakev
 blötakevik
 blötatät
 blöted
@@ -1853,6 +1873,7 @@ boned
 bonedabuk
 bonedazöt
 bonik
+bons
 borag
 boragaplan
 boragaplans
@@ -1860,6 +1881,7 @@ borin
 bos
 bosi
 boskotan
+bosniänan
 boso
 bot
 botur
@@ -1867,6 +1889,7 @@ boturs
 boum
 boumön
 bov
+bovilavacin
 bovälabim
 bovül
 boyadagläv
@@ -2214,6 +2237,7 @@ bötön
 böväd
 bü
 büakanitanacal
+bücödön
 büd
 büd ad fanäbükam
 büdön
@@ -2343,6 +2367,9 @@ cen
 cenavam
 cenavamaf
 cenavamik
+cepacin
+cepan
+cepön
 ciel
 ciela
 ciele
@@ -2567,7 +2594,6 @@ davälahireg
 davälajireg
 davälaplin
 davälareg
-days of the week: vigdel: mudel · tudel · vedel · dödel · fridel · zädel · sudel [edit]
 daülan
 daülanibluned
 daülatim
@@ -2975,6 +3001,7 @@ dratitiridan
 dratitiridian
 dratitiridön
 dred
+dredabik
 dredahijiedan
 dredajiedan
 dredajijiedan
@@ -3099,6 +3126,7 @@ dünäd
 düp
 düp kinid binos-li?
 düpa
+düpakoun
 düpalaf
 düpas
 düpe
@@ -3211,10 +3239,19 @@ farinamuskul
 farinik
 farisetan
 farm
+farma
 farmadog
 farmadom
 farmadom feilanik
 farman
+farmas
+farme
+farmes
+farmi
+farmis
+farms
+farmu
+farmus
 fasan
 fasanablötot
 fasanapijun
@@ -3366,6 +3403,8 @@ ferin
 ferismeitafil
 fermin
 ferod
+ferodarutaveg
+ferodarutavegastajon
 festun
 fesül
 fesülaplan
@@ -3901,6 +3940,7 @@ folümipläyan
 fom
 fomät zänodagretik
 fomülabuk
+foned
 fonetik
 fop
 fopik
@@ -3933,6 +3973,7 @@ fragaplan
 frakatasosit
 frakatasositil
 frambod
+frambodarubud
 fransin
 fransiskan blägik
 fraseod
@@ -4106,6 +4147,7 @@ fümo
 fümöfik
 füsiolekälan
 füsüdav
+füsüdav kvantik
 fütür
 fütüratim
 fütüratim finik
@@ -4207,6 +4249,7 @@ garads
 garadu
 garadus
 gard
+gared
 garid
 garidabid
 gased
@@ -4269,6 +4312,7 @@ genom
 genäm
 genämalebavet
 genäms
+geomet
 geracal
 gerafeilaläned
 gerahireg
@@ -4289,6 +4333,7 @@ gerum
 gerumaplan
 gerädovik
 gerön
+gesag
 gespikön
 gespikön eki ad spikam oma
 getäv
@@ -4328,6 +4373,7 @@ gils
 gilyoten
 gilyotenön
 gingif
+gingifaflamat
 gingifik
 giraf
 giran
@@ -4586,6 +4632,7 @@ gotan
 gotik
 graf
 grafän
+grahan
 grainön
 gralataböd
 gram
@@ -5236,7 +5283,7 @@ hiluflen
 hilugan
 hilugem
 hilujevod
-hilujukel}
+hilujukel
 hilulautan
 hilup
 hilupal
@@ -5638,6 +5685,7 @@ hüpogonik
 hüster
 hüsters
 i
+idelo
 if
 in
 in valem
@@ -5721,6 +5769,7 @@ jedot
 jedön
 jeifadel
 jeifan
+jeiföm
 jeifön
 jeiföp
 jeikareig
@@ -6235,7 +6284,7 @@ jiluflen
 jilugan
 jilugem
 jilujevod
-jilujukel}
+jilujukel
 jilulautan
 jilup
 jilupal
@@ -6669,6 +6718,7 @@ juleles
 juleli
 julelis
 julels
+julilüv
 juüp
 jäd
 jäf
@@ -6829,6 +6879,7 @@ kapiten
 kapitens
 karab
 karaf
+karam
 karbin
 kardum
 kardumafluk
@@ -6948,9 +6999,11 @@ kevöfik
 kibit
 kid
 kidas
+kidolöd obi
 kidön
 kiemav
 kien
+kif
 kik
 kikahog
 kikodo
@@ -7016,6 +7069,7 @@ kirfatakölik
 kirfatep
 kis
 kisi
+kisi dunol-li
 kitimo?
 kiöpio tävol-li
 kiöpo
@@ -7398,6 +7452,7 @@ krigakäladog
 krigakälaflitöm
 krigaluvokäd
 krigamebabuk
+krigav
 krigavokäd
 krigavöded
 krigisag
@@ -7420,7 +7475,11 @@ kritanefavol
 kritanik
 kritavol
 kritid
+kritidabim
+kritidadel
+kritidalegivot
 kritidalid
+kritidasoar
 kritidazäl
 kritidizel
 kritik
@@ -7489,7 +7548,7 @@ kujöraviko
 kujöravo
 kujörik
 kujörs
-kujörön vt
+kujörön
 kuklit
 kukuk
 kukuks
@@ -7534,6 +7593,8 @@ kuskut
 kvaaduk
 kvad
 kvadamilmet
+kvant
+kvantik
 kvasiataköp
 kveator
 kvil
@@ -7635,6 +7696,7 @@ kümam
 kümamüp
 kümön
 küpädolöd vödis oba!
+küpädö
 küpön
 l
 labiataplan
@@ -7692,6 +7754,7 @@ laigajuk
 laigaküir
 lailif
 lailifön
+lain
 lainaskin
 lak
 laktinin
@@ -7706,6 +7769,8 @@ laliad
 lalkim
 lalkiman
 lalkohol
+lalkoholiäl
+lalkoholiälan
 lalpajep
 lalumin
 laläf
@@ -7726,12 +7791,15 @@ lampöraposdaut
 lampöraposson
 lampörason
 lampörän
+lan
+lanamaläd
 lanarölet
 lanaröletan
 lanaröletik
 lanav
 lanilabim
 lanivestig
+lanivestigan
 lantanin
 lanulamuskul
 lanälik
@@ -7818,6 +7886,7 @@ lautel
 lautels
 lav
 lavaböväd
+lavacin
 lavaran
 lavarik
 lavat
@@ -8046,6 +8115,8 @@ lelöfahigod
 lelöfajigod
 lelöfapened
 lelöfapoedot
+lelöfül
+lelöfülön
 lem
 lemafib
 lemaket
@@ -8142,9 +8213,7 @@ lesiöramotedik
 leskiman
 leskimanapük
 leskimanapükik
-leskimanef
 leskimanik
-leskimans
 leskin
 leskinik
 lesmitan
@@ -8599,6 +8668,7 @@ lupöpapük
 lupüd
 lupükot
 lupül
+luran
 luranin
 lurduv
 luredajevod
@@ -8714,9 +8784,7 @@ lärnüp
 läskioman
 läskiomanapük
 läskiomanapükik
-läskiomanef
 läskiomanik
-läskiomans
 läten
 lätik
 lätikün
@@ -8726,6 +8794,7 @@ lödons
 lödön
 löf
 löfik
+löfil
 löfilön
 löfob
 löfob oli
@@ -8737,11 +8806,13 @@ löfülavöd
 löfülön
 lög
 lögul
+löik
 lök
 lökismit
 lökismitan
 lökismitöp
 lölik
+löliko
 lölikvo
 lömib
 lömin
@@ -8769,6 +8840,7 @@ lü-
 lüblinön
 lüdaut
 lüfat
+lüg
 lügabim
 lügadramat
 lügasalig
@@ -8788,7 +8860,9 @@ lümotiko
 lümoto
 lümotül
 lümät
+lün
 lünk
+lünät
 lüodaman
 lür
 lüson
@@ -8872,6 +8946,7 @@ makrokosmodik
 mal
 malapenät
 malapterur
+malar
 malarafif aldelik
 malet
 maletadomil
@@ -8904,6 +8979,7 @@ maltosin
 maltön
 maläd
 malädanabuk
+malädanöp
 malädik
 malädikön
 malädob
@@ -8968,6 +9044,7 @@ maofil
 maralefil
 maralefilasmok
 maren
+marenik
 marihilefilükan
 marijilefilükan
 marilefilükam
@@ -9020,6 +9097,7 @@ matirajan
 matirajanan
 matiteil
 matol
+matol-li
 matrad
 matön
 matön vi
@@ -9050,6 +9128,7 @@ medinavu
 medinavus
 medinel
 meditön
+mediüt
 medul
 medü
 meed
@@ -9250,6 +9329,7 @@ minumik
 minut
 miotakef
 miotik
+miotükam
 miov
 miovön
 mipenet
@@ -9260,6 +9340,7 @@ mipugan
 mipugön
 miserab
 miserabalif
+miserabik
 miserabs
 mismelaglan
 mistomanufül
@@ -9429,6 +9510,7 @@ mulus
 mulür goldakölik
 mulür goldik
 mun
+munagrahan
 mundel
 mundelo
 mungud
@@ -9501,6 +9583,7 @@ mäpüdavödan
 mär
 märalän
 märgut
+märkur
 märkurin
 märlan
 mäsiatik
@@ -9746,6 +9829,7 @@ nifadom
 nifadom läskiomik
 nifagan
 nifagok
+nifakum
 nifaliev
 nifalül
 nifatim
@@ -9838,6 +9922,8 @@ ninädalised
 ninädian
 ninälön
 ninäm
+ninäm gretik
+ninäm smalik
 ninämik
 niobin
 nisul
@@ -9882,10 +9968,11 @@ niveris
 nivers
 niveru
 niverus
-no
 no lugebolöd vödatelsinifis!
 no nog
+no nolob
 no pebeletävöl
+no sevob
 no spikob Linglänapüki
 no suemob
 noam
@@ -9991,6 +10078,7 @@ nulädik
 nulälik
 num
 numat
+numat goldik
 numavöd
 numavöd voik
 numbril
@@ -10003,6 +10091,7 @@ nutimaliterat
 nutimik
 nutimo
 nä
+nädäg
 näedabanum
 näedam
 näedamamalül
@@ -10021,6 +10110,7 @@ näilienahiröletan
 näilienajiröletan
 näilienarölet
 näilienaröletan
+näinemön
 näisüt
 näitab
 näm
@@ -10036,6 +10126,7 @@ nämätapösod
 nämöfavöd
 nänöfabim
 nänöfafalok
+näptun
 näst
 nästil
 nästs
@@ -10049,6 +10140,8 @@ näsäkavik
 näsäkifidaf
 näsäks
 näsäktar
+nätäpretan
+nö
 nög
 nögajal
 nögajals
@@ -10075,6 +10168,7 @@ nünodem
 nünods
 nünöm
 nünömaprogram
+nünömaprogramel (compter-programmer)
 nünömapükik
 nünömaresod
 nünömaskrin
@@ -10125,6 +10219,7 @@ ok
 okanobs
 oki
 okis
+oklifajenäd
 oklifibepenam
 oksasen
 ol
@@ -10175,6 +10270,7 @@ otul
 ovedom
 ovisitob
 oy
+oyelo
 p
 pa-
 pab
@@ -10252,6 +10348,7 @@ panemol
 panemom
 panemön
 pankreat
+pankreataflamat
 pankreatik
 panosükön dub fil
 panosükön dub smök
@@ -10299,6 +10396,7 @@ pardön
 parud
 paruds
 pas
+pasatazäl
 pasetatim
 pasetatimik
 pasetofütüratim
@@ -10535,6 +10633,7 @@ plekeds
 plidob
 plidof
 plidön
+plim
 plimob
 plimön
 plin
@@ -10621,6 +10720,7 @@ poldacalalabür
 poldacalalam
 poldan
 poldanef
+polen
 polonin
 polüglot
 polüp
@@ -10711,6 +10811,7 @@ priman
 primul
 primulaplan
 primön
+prinsip
 prismat
 privatalif
 pro
@@ -10749,6 +10850,8 @@ prostat
 prostatik
 prostitan
 protaktinin
+protein
+protest
 provin
 provinik
 provinim
@@ -10878,6 +10981,7 @@ pök
 pök linega
 pöks
 pökön
+pöl
 pölagad
 pölalekred
 pölaspikön
@@ -10952,6 +11056,7 @@ pük mekavik
 pükasotül
 pükav
 pükavan
+pükavans
 pükavik
 pükaviko
 pükavs
@@ -10998,6 +11103,7 @@ rabanög
 rabaplüm
 rabarbaplan
 rabarbaplanavul
+rabiät
 rabs
 rabül
 rabüls
@@ -11210,6 +11316,7 @@ risataläned
 risataplan
 riskod
 riskodik
+riskäd
 ritöfik
 rivön pötatimo treni
 rob
@@ -11223,7 +11330,6 @@ roinagrüd
 roinaston
 roine
 roinik
-rojan
 rojanik
 rojat
 rojats
@@ -11333,6 +11439,7 @@ rätöf
 räyastrals
 räyöf
 räyöm
+rölastul
 rölet
 röletagred
 röletan
@@ -11536,7 +11643,7 @@ saludik
 saludikam
 saludikan
 saludiko
-saludikön vi
+saludikön
 saludiviod
 saludiviodam
 saludiviodöl
@@ -11545,16 +11652,14 @@ saludot
 saludotaramar
 saludotem
 saludäd
-saludädön vt
-saludön vi
+saludädön
+saludön
 saludöp
 saludük
 saludükam
 saludükan
 saludükön
 saludükön jabati
-saludükön jabati vt
-saludükön vt
 salöfik
 samarin
 samo
@@ -11590,6 +11695,7 @@ saseniälik
 sasenö!
 sasenön
 satir
+saturn
 saun
 saunik
 saxikol
@@ -11601,7 +11707,6 @@ seadöpihijonan
 seadöpijijonan
 seadöpijonan
 sean
-seasons: säsun: florüp · hitüp · fluküp · nifüp [edit]
 seblinön
 sebrad
 sebrads
@@ -11787,6 +11892,7 @@ skil
 skilik
 skin
 skinadefälot
+skinaflamat
 skinafron
 skinahogül
 skinajüd
@@ -11999,6 +12105,7 @@ sogön oki lä
 sol
 solaglok
 solagloks
+solagrahan
 solajelöm
 solamodonikam
 solasit
@@ -12210,6 +12317,7 @@ stelus
 steläd
 stelön
 stelül
+stenografik
 stenöfakonid
 stiam
 stib
@@ -12225,6 +12333,7 @@ stimacal
 stinadrat
 stinamusigöm
 stiragöb
+stiraluib
 stitabüsid
 stofedön tabi
 stog
@@ -12279,6 +12388,7 @@ studön gitis
 stul
 stunidof
 stunidön
+stunik
 stunükön
 stup
 stupan
@@ -12452,9 +12562,8 @@ särpentum
 särvig
 säsaludükam
 säsaludükan
+säsaludükön
 säsaludükön jabati
-säsaludükön jabati vt
-säsaludükön vt
 säskinam
 säskinamaneif
 säskinamasep
@@ -13003,6 +13112,7 @@ tradutovik
 tradutön
 travärön
 tren
+trenaveg
 tribüt
 tribüta
 tribütabim
@@ -13109,6 +13219,7 @@ tänad
 täno
 tärmit
 tärmomet
+tästig
 tätan
 täv
 täva
@@ -13173,10 +13284,12 @@ tävu
 tävus
 tävöm
 tävön
+tävön ini
 tävön ini Jveizän
 tävön isio
 tävön lomio
 tävön love mel
+tävön lü
 tävön lü Jveizän
 tävön melo
 tävön pöfio
@@ -13347,6 +13460,7 @@ venom
 ventür
 ventüran
 ventürik
+venud
 veot
 ver
 verat
@@ -13460,7 +13574,6 @@ vinigafladül
 vinis
 vins
 viodön jabati
-violät
 violätik
 vior
 vioracan
@@ -13598,6 +13711,8 @@ vomöfik
 vomül
 vomülik
 vomüliko
+votageniälan
+votageniälik
 votastid
 votastidön
 votik
@@ -14128,6 +14243,7 @@ zütävön
 äsä
 ätimo
 ävigo
+äyelo
 ömgok
 ömjeval
 ömsvin

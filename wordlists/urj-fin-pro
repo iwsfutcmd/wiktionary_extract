@@ -50,6 +50,7 @@
 -lën
 -ma
 -mak
+-mat'oin
 -mi
 -minën
 -mpi
@@ -60,6 +61,7 @@
 -ndak
 -ni
 -nka
+-nnak
 -nsa
 -nsak
 -nta
@@ -84,7 +86,6 @@
 -skëldak
 -ssa
 -sta
--stak
 -stik
 -sën
 -t
@@ -114,15 +115,18 @@
 ? *-nut
 ? *-ttu
 ? *eksüdäk
-? *ektago
 ? *hauk'ait'ak
+? *hülgeh
+? *itikka
 ? *kanki
 ? *kankëda
 ? *karhu
 ? *kulli
 ? *küüttoi
+? *laugas
 ? *matala
 ? *mato
+? *mattadak
 ? *meccoi
 ? *piikivi
 ? *rabait'ak
@@ -131,16 +135,20 @@
 ? *terveh
 ? *tërho
 ? *vaikëda
+? *veikko
 ? *vihakka
-Estonian põletama
+Finnish otin
+Finnish valtoin
 Ilmari
 Janne Saarikivi
+Livonian e’žmi and Võro edimäne
 Livonian palātõ
 Livonian tierōda
+Livonian tundtõb
 Ludian kiudug
 Petri Kallio (2021)
 Veps küudug
-Votic põlõttaa
+Võro: halutama
 abittadak
 abuttadak
 ahava
@@ -148,14 +156,17 @@ ahjo
 ahku
 ahma
 ahmidak
+ahmoi
 ahnas
 ahnëh
 aho
 ahtas
+ahtistadak
 ahtëra
 ahvën
 aigasta-aika
 aika
+aikoidak
 ailas
 aimat'ak
 aina
@@ -165,10 +176,13 @@ airu-
 aisa
 aita
 aitta
+aivan
 aivas
 aivastadak
 aivo
 ajadak
+ajaja
+ajo
 akana
 akja
 akka
@@ -188,6 +202,7 @@ alla
 alovëh
 alto
 alus
+alustadak
 ambudak
 ammu-
 ammëh
@@ -202,7 +217,9 @@ anoppi
 ansa
 ansas
 antadak
+antaja
 anti
+antura
 apaja
 apara
 api
@@ -214,6 +231,7 @@ apu
 arina
 arka
 arki
+arkku
 armahtadak
 armas
 armastadak
@@ -227,8 +245,10 @@ arvat'ak
 arvo
 asja
 askël
+astak
 astija
 astudak
+asu
 asudak
 asëk
 asëttadak
@@ -244,9 +264,14 @@ avanto
 avara
 avoi
 avoin
+a’ltõ
 by haplology from *terä + *rauta ()
 cankëda
+ciidek
+ciidek Reconstruction:Proto-Finnic
 ciika
+ciitädäk
+ciitädäk *ciit'ek
 ciivo
 ciivot'ak
 cika
@@ -256,7 +281,7 @@ cinä
 cirkka
 cirkku
 cirppi
-citkedä
+citkëda
 colistak
 colkki
 coma
@@ -273,7 +298,6 @@ cööstäk
 cüvä
 cüvüc
 e-
-eccidäk
 eci
 editors
 ehkä
@@ -283,19 +307,29 @@ eineh
 eklen
 eklinen
 eksüdäk
-ektago
+eksüttädäk
 ektä
 elo
+eläbä
 elädäk
+eläjä
 elämä
 elättädäk
+emintimä
 emä
+emäkko
 emäntä
 enci
 encimeinen
 endustadak
+endättädäk
+ennatada
+ennatama
+ennettää
+ennättää
 enoi
 entinen
+entädäk
 enä
 enämpi
 erei
@@ -309,11 +343,14 @@ etu
 etä
 evä
 eväs
+formed separately
+formed similarly but from *eci instead of *enci
 haamoi
 haapa
 haara
 haasja
 haava
+habas
 habukka
 habën
 hagastadak
@@ -331,6 +368,7 @@ haju
 hakci
 hako
 hakëdak
+hala-
 haldit'ak
 halgët'ak
 haljas
@@ -342,6 +380,10 @@ halpa
 halt'at'ak
 haltijas
 haltta
+halu
+halutaq
+haluttaa
+haluttadak
 halëda
 hamara
 hambas
@@ -355,7 +397,9 @@ hap'at'ak
 hap'oin
 hapci
 hapras
+hara
 harakka
+harava
 hardas
 harja
 harjat'ak
@@ -363,6 +407,7 @@ harjus
 harmaga
 hartija
 harva
+hauk'ahtadak
 hauk'ait'ak
 hauki
 haukkudak
@@ -403,7 +448,6 @@ hiki
 hikinen
 hilja
 hiljainën
-hiljaisëdus
 hiljan
 hilpu
 himo
@@ -458,6 +502,7 @@ hurma
 hurmat'ak
 hurskas
 hurtta
+hutja
 hutra
 huu
 huudëh
@@ -481,6 +526,7 @@ härkä
 härmä
 hätä
 hävit'äk
+hävittädäk
 häätädäk
 hëhku
 hëiludak
@@ -495,6 +541,7 @@ hërahtadak
 hërkku
 hërudak
 hërëda
+hëëno
 hëërodak
 hëëta
 höö
@@ -502,9 +549,10 @@ hüdistäk
 hühmä
 hülgeh
 hülgäit'äk
+hüllüdäk
 hümistäk
 hüp'äit'äk
-hüppidäk
+hüppeidäk
 hüvä
 hüvüc
 hüü
@@ -514,14 +562,19 @@ hüüpüdäk
 hüütädäk
 hüütüdäk
 icek
+icintimä
 icra
 icä
 icäntä
 igen
 iges
+igäk'äs
 iho
+iki
+ikuinen
 ikä
 ikäbä
+ikähinen
 ilbes
 iljen
 ilka
@@ -546,8 +599,9 @@ iskedäk
 iso
 istudak
 istuttadak
-itkedäk
 itku
+itkëdak
+itkëja
 itu
 itä
 itädäk
@@ -569,6 +623,7 @@ jano
 jarvi
 jata
 jatkadak
+jatkudak
 jauhadak
 jauhattadak
 jauho
@@ -599,6 +654,7 @@ joukko
 joulu
 jousi
 joutadak
+joutudak
 juka
 juko
 jukta
@@ -610,15 +666,18 @@ jutta
 juttadak
 juttu
 juuri
+juurtadak
 juusto
 juuttudak
 jähtüdäk
+jäinen
 jäkälä
 jälki
 jämedä
 jändek
 jänis
 järedä
+järistäk
 järittädäk
 järki
 järvi
@@ -652,10 +711,12 @@ kacku
 kackëra
 kadikka
 kadot'ak
+kadottadak
 kadëh
 kahina
 kahistak
 kahja
+kahma
 kahmat'ak
 kahva
 kaibait'ak
@@ -671,7 +732,16 @@ kaisila
 kaita
 kaivadak
 kaivo
+kaja
 kajaga
+kajahtadak
+kajait'ak
+kajaita
+kajastaa
+kajastada
+kajastadak
+kajastama
+kajata
 kakara
 kakci
 kakci kümmentä
@@ -682,6 +752,7 @@ kakla
 kaklus
 kakra
 kaktëksa
+kaktëksa kümmentä
 kaktëksa toicta kümmentä
 kaktëksanci
 kala
@@ -696,6 +767,7 @@ kallis
 kalma
 kalmisto
 kalsu
+kalu
 kalvadak
 kalvo
 kalëda
@@ -707,6 +779,8 @@ kampsu
 kana
 kanarba
 kanci
+kandattadak
+kandikka
 kandus
 kandël
 kangas
@@ -715,6 +789,7 @@ kankëda
 kansa
 kanta
 kantadak
+kantaja
 kanto
 kap'ërtadak
 kapalo
@@ -722,9 +797,12 @@ kapalëh
 kapijo
 kapina
 kapja
+kapja *sorkka
 kaplas
+kappa
 kapris
 kapëda
+karbas
 karbëk
 karci
 karcidak
@@ -740,6 +818,7 @@ karja
 karjudak
 karku
 karkëda
+karmëda
 karnëh
 karpa-
 karsa
@@ -748,6 +827,7 @@ karta
 kartano
 karttadak
 karva
+karvainën
 karvas
 kasi
 kasinën
@@ -759,6 +839,7 @@ kastëk
 kasvadak
 kasvattadak
 kasvo
+kat'os
 kat'us
 kat'ëk
 kataga
@@ -769,17 +850,24 @@ katodak
 kattadak
 kattila
 katto
+kauci
 kauha
 kauka-
 kaukalo
 kaunis
 kauppa
 kausta
+kauta
+kautta
+kava-
 kavala
+kavaltadak
 kecci
 keci
 kecrä
 kecrät'äk
+keedäk
+keedäk *keittädäk
 keehudak
 keeli
 keeltädäk
@@ -792,6 +880,7 @@ keertüdäk
 keerä
 keerädäk
 keettädäk
+keettädäk Reconstruction:Proto-Finnic
 kehkedä
 kehkerä
 kehnä
@@ -799,6 +888,7 @@ kehä
 kekri
 kekäleh
 keli
+kellä
 kelmeh
 ken
 kenkidäk
@@ -815,6 +905,7 @@ kerä
 kerägä
 kerät'äk
 keski
+kestädäk
 kesä
 kevät
 keüci
@@ -828,6 +919,7 @@ kiheldäk
 kihistäk
 kihka
 kihla
+kiho
 kiides
 kiikkudak
 kiili
@@ -839,18 +931,23 @@ kiiski
 kiit'os
 kiittädäk
 kikkerä
+kiledä
 kiljudak
+killittädäk
 kilpi
 kimalainën
 kimppu
 kindas
 kinder
 kindik
+kindittädäk
 kintedä
+kinttu
 kip'at'ak
-kipedä
 kipeneh
+kiperä
 kipu
+kipëda
 kirbot'ak
 kirci
 kiredä
@@ -861,6 +958,7 @@ kirjoittadak
 kirk'as
 kirki
 kirkudak
+kirnu
 kiro
 kirot'ak
 kirppu
@@ -881,6 +979,7 @@ kohina
 kohma
 kohot'ak
 kohottadak
+kohëlo
 koi
 koinidak
 koipa
@@ -889,9 +988,11 @@ koiras
 koittadak
 koivu
 kokka
+kokkoi
 koko
 kokri
 kokta
+koktat'ak
 koktu
 kokëdak
 kolistak
@@ -899,16 +1000,19 @@ koljoi
 kolkka
 kolmanci
 kolmi
+kolmi kümmentä
 kolmi toicta kümmentä
 kolmikkoi
 kolo
 kolëda
+kombëh
 kompidak
 konk'at'ak
 konna
 konsa
 kontidak
 kontija
+kontti
 konëh
 koohidak
 koohit'ak
@@ -918,8 +1022,10 @@ koola
 kooldak
 koollut
 koolëba
+koolëja
 koolëk
 koolëma
+koolëttadak
 koono
 koopidak
 kooppa
@@ -941,6 +1047,7 @@ korja
 korjat'ak
 korkëda
 korkëduc
+koroi
 korpi
 kort'ëh
 korva
@@ -960,6 +1067,7 @@ kotëi
 koukku
 kova
 kovëra
+kovët'ak
 ku
 kubëh
 kuccudak
@@ -987,6 +1095,7 @@ kulma
 kulo
 kulppi
 kulta
+kultainën
 kulu
 kuludak
 kuluttadak
@@ -994,6 +1103,7 @@ kuma
 kumait'ak
 kumara
 kumartadak
+kumbut'ak
 kumistak
 kumma
 kumpi
@@ -1001,9 +1111,11 @@ kumpu
 kundëh
 kundëldak
 kuningas
+kunnija
 kunta
 kupla
 kupo
+kupsu
 kupu
 kura
 kuras
@@ -1021,17 +1133,20 @@ kusa-
 kusi
 kustak
 kustudak
+kutkë-
 kutodak
 kutsu
 kutu
 kutëdak
 kuu
 kuuci
+kuuci kümmentä
 kuuci toicta kümmentä
 kuucikkoi
 kuudënci
 kuuldak
 kuuludak
+kuuluttadak
 kuuma
 kuumëntadak
 kuumët'ak
@@ -1056,22 +1171,30 @@ käntädäk
 käpedä
 käppä
 käpsä
+käpä
 käpälä
 käpü
+kärbäs
 kärcidäk
+käredä
+kärhä
+käristäk
 kärki
 kärmeh
 kärmäs
 kärnä
 kärppä
 kärpä
+kärpähinen
 kärsä
 kärtä
 käskedäk
+käskejä
 käskü
 käsnä
 kätkedäk
 kätküt
+kävejä
 käveldäk
 kääppä
 kääridäk
@@ -1083,10 +1206,10 @@ këikkudak
 këko
 këla
 këlbat'ak
-këllo
 këlo
 këlta
 këltainën
+kënkka
 këplas
 kërdat'ak
 kërnas
@@ -1122,16 +1245,19 @@ küsüdäk
 kütedäk
 kütkedäk
 kütküt
+küttädäk
 kütü
 küü
 küünel
 küünärä
 küüttoi
 laaka
+laama
 lagas
 lagittadak
 lagot'ak
 lahja
+lahmat'ak
 lahna
 laho
 lahto
@@ -1176,18 +1302,26 @@ lapida
 lapido
 lappa
 lappadak
+lasku
 laskëdak
+lasta
 lastu
 lat'ikka
 lato
 latoidak
+latta-
 lattija
 latva
 laugëldak
+laugët'ak
 lauha
 lauhtudak
+lauka
 laukka
+laukki
+laukëda
 lauladak
+laulaja
 laulattadak
 laulu
 launi
@@ -1219,6 +1353,7 @@ lentädäk
 leppä
 leppüdäk
 leski
+lestäk
 levedä
 levittädäk
 leühüdäk
@@ -1233,10 +1368,12 @@ lihodak
 liik'ahtadak
 liik'uttadak
 liika
+liikkijo
 liikkudak
 liina
 liiva
 liki
+likkadak
 liko
 lima
 limp'at'ak
@@ -1255,9 +1392,13 @@ liukudak
 liuta
 lobistak
 lohi
+lohkait'ak
+lohkët'ak
 loiccëdak
+loima
 loimi
 loistadak
+loita
 lojo
 lolli
 loma
@@ -1265,6 +1406,7 @@ lonk'at'ak
 loo-
 loodak
 loodëh
+lookka
 looko
 looma
 loomi
@@ -1288,6 +1430,7 @@ luja
 lukko
 luku
 lukëdak
+lukëja
 lumbëh
 lumi
 luminën
@@ -1297,13 +1440,17 @@ lunastadak
 lupa
 lurjus
 lustëh
+luta
 luu
 luuldak
 luuta
+läbet'äk
 lähe-
 läikküdäk
 läktedäk
 läktek
+läktemä
+läktettädäk
 läkä
 lämbin
 lämbittädäk
@@ -1329,6 +1476,7 @@ lëëska
 lëëskat'ak
 lökä
 löödäk
+lühentädäk
 lühüt
 lük'äit'äk
 lülü
@@ -1339,6 +1487,8 @@ maailma
 madëh
 magat'ak
 magistadak
+maguk'as
+magut'oin
 maha
 mahi
 mahla
@@ -1347,6 +1497,7 @@ mahtadak
 mahtudak
 maima
 mainit'ak
+mainën
 maito
 maja
 majaga
@@ -1365,12 +1516,14 @@ malcca
 maldas
 malja
 malttadak
+manat'ak
 mancikka
 mandër
 manta
 mardas
 marhaminta
 marja
+markka
 masëda
 matadak
 matala
@@ -1386,6 +1539,7 @@ meelebä
 meelehinen
 meelet'oin
 meeli
+meeltüdäk
 mees
 mehi
 mehiläinen
@@ -1403,7 +1557,7 @@ moisa
 moittidak
 mojodak
 mokka
-molëmpi
+molëmbat
 moni
 moni *monigas
 monik'as Reconstruction:Proto-Finnic
@@ -1411,6 +1565,7 @@ mooto
 morcijan
 moskëdak
 muccoi
+muha-
 muhka
 muhëda
 muikëda
@@ -1426,11 +1581,12 @@ mulistak
 mulkku
 mullikka
 multa
+mumistak
 muna
 munëidak
 mura-
 muristak
-murjoidak
+murjat'ak
 murkina
 murtadak
 murto
@@ -1447,6 +1603,7 @@ mustudak
 mustët'ak
 muta
 mutka
+mutti-
 muu
 muurahainën
 muuttadak
@@ -1459,6 +1616,7 @@ mäki
 mäkrä
 mäkärä
 mälvi
+mämmi
 mänkidäk
 mäntä
 mäntü
@@ -1479,6 +1637,7 @@ mëëtto
 mökistäk
 mökä
 möllü
+möristäk
 möö
 möö-
 möödäk
@@ -1491,6 +1650,7 @@ müristäk
 mürkkü
 mürtüdäk
 müüdäk
+müüjä
 müükidäk
 müümi
 naa
@@ -1500,10 +1660,13 @@ nahka
 naidak
 nainën
 naittadak
+nak'at'ak
 nakla
 nakradak
 nakris
+nakru
 nalja
+nana
 napa
 napsadak
 nasta
@@ -1513,15 +1676,16 @@ nauha
 nauta
 nauttidak
 neeldäk
+neelu
 neemi
 neetädäk
 neiti
 nek
 neljikkoi
 neljä
+neljä kümmentä
 neljä toicta kümmentä
 neljänci
-nenä
 nepsä
 niici
 niini
@@ -1536,6 +1700,7 @@ niittü Reconstruction:Proto-Finnic
 nikka
 nila
 nilpa
+nimet'oin
 nimi
 nimi *nimettädäk
 nimittädäk
@@ -1572,6 +1737,7 @@ noppidak
 nopëda
 nostadak
 noustak
+nousu
 noutadak
 nuha
 nuhistak
@@ -1590,9 +1756,12 @@ nurkka
 nurmi
 nussidak
 nuti
+nuuskat'ak
+nuuskidak
 nägüttädäk
 näic'üt
 näitoi
+näkejä
 näko
 näktäk
 näküdäk
@@ -1624,6 +1793,7 @@ nüküden
 nülkedäk
 nürhi
 nürkke-
+occidak
 ocra
 odot'ëldak
 odottadak
@@ -1655,6 +1825,7 @@ omëna
 oncca
 onci
 onki
+onkë-
 onni
 onnët'oin
 onëh
@@ -1673,13 +1844,16 @@ orpoi
 osa
 osait'ak
 ostadak
+ostaja
 osudak
 ota
 otava
 outo
 ovi
+paaci
 paakku
 paasto
+paattudak
 pac'as
 padëh
 pagacca-
@@ -1687,8 +1861,11 @@ pages 157-173
 pagistak
 pagët'ak
 paha
+pahainën
 pahka
+pahla
 pahna
+pahtadak
 paija
 paijat'ak
 paik'at'ak
@@ -1711,6 +1888,7 @@ paittilas
 paja
 paju
 pak'ahtadak
+pakana
 pakina
 pakkainën
 pakki
@@ -1734,13 +1912,16 @@ palvat'ak
 palvodak
 pandak
 panka
+panos
 panu
 papa-
+pappi
 papu
 parantadak
 paras
 parat'ak
 parci
+pardak'as
 pardas
 parha
 parma
@@ -1763,6 +1944,7 @@ peelus
 peeni
 peentara
 peerdäk
+peeru
 pehmedä
 peijeh
 peikälo
@@ -1781,10 +1963,12 @@ persegus
 persek
 perä
 pestäk
+pesu
 pesä
 pet'os
 petkel
 pettädäk
+pettüdäk
 petägä
 peütä
 picin
@@ -1805,6 +1989,7 @@ piildäk
 piimä
 piira
 piiri
+piirtädäk
 piiska
 piitta
 pika
@@ -1816,6 +2001,7 @@ pilvinen
 pilvët'oin
 pimedä
 pinistäk
+pinka
 pino
 pinta
 pirkalëh
@@ -1823,15 +2009,19 @@ pisara
 pistek
 pistädäk
 pistü
+pisüdäk
 pitkä
 pito
 pitädäk
+pitäjä
 pivo
 pocka
+pockëidak
 pohja
 pohjainën
 pohjimainën
 pohtadak
+poigintima
 poika
 poikainën
 poikidak
@@ -1844,11 +2034,13 @@ polvi
 pomistak
 ponci
 poo
+poodak
 poola
 pooli
+pora
+porat'ak
 porcas
 pordas
-poro
 porëk
 poski
 potku
@@ -1859,6 +2051,8 @@ povi
 pucki
 pudistadak
 pudot'ak
+pugëttadak
+puhaltadak
 puhkadak
 puhkët'ak
 puhtas
@@ -1869,6 +2063,7 @@ puinën
 puittadak
 pujo
 puktëk
+pukëdak
 pulkka
 pullas
 pullo
@@ -1889,17 +2084,22 @@ purku
 purnu
 pursudak
 pursuttadak
+puru
 puskëdak
 pusërtadak
 putro
 puu
 puuska
+puuttadak
+puuttudak
 puutudak
 pä(ä)städäk
 päcci
 päckä
 pähkä
+pähnä
 päic'et
+päin
 päivä
 päkijä
 päkkä
@@ -1907,10 +2107,12 @@ pälk'ähtädäk
 pälvi
 pärek
 pärkä
+pärmeh
 pärnä
 pästädäk
 pästäk
 pää
+päällikkoi
 pääskü
 pëhko
 pëhku
@@ -1920,9 +2122,11 @@ pëlto
 pëlu
 pënsas
 përgat'ak
+përku
 përmanto
 përna
 pëtra
+pëëna
 põrgu
 põtk
 pööridäk
@@ -1933,15 +2137,18 @@ pöörä
 pühittädäk
 pühkidäk
 pühä
+pükädäk
 pükälä
 pürkidäk
-püsüdäk
 püvi
 püü
 püütädäk
 raaka
+raastadak
 raato
 raavas
+rabait'ak
+rabistak
 rac'as
 rac'astadak
 raccu
@@ -1958,6 +2165,7 @@ raidis
 raika
 rainis
 raippa
+raiska
 raiskat'ak
 raita
 raitti
@@ -1966,6 +2174,7 @@ raivo
 raja
 raju
 rak'as
+rak'ëntadak
 rakja
 rakjoidak
 rakko
@@ -1981,6 +2190,7 @@ rasi
 raskas
 rastas
 rasva
+rasvainën
 rasëda
 rat'as
 rata
@@ -2006,17 +2216,23 @@ riideldäk
 riihi
 riista
 riita
+riitta
 rik'as
 rikedä
 rikkodak
+rindek
 rindus
 rinta
 rip'oittadak
 rippudak
 ripsi
+risti
+risu
 rita
+ritva
 riuku
 riutta
+rivo
 robistak
 robëh
 rohka
@@ -2026,10 +2242,12 @@ rohtin
 rohto
 roiska
 roivas
+roju
 rokka
 rokko
 ronkka
 roocci
+roodëh
 rooho
 rooja
 rooka
@@ -2043,10 +2261,12 @@ roostudak
 roostëk
 roota
 rouhidak
+roukka
 routa
 rubët'ak
 rugis
 ruho
+ruhtinas
 ruja
 ruka
 rukka
@@ -2061,6 +2281,7 @@ rutto
 ruuhi
 ruumis
 ruumën
+rähmidäk
 rähmä
 räivä
 räkä
@@ -2068,8 +2289,15 @@ räntä
 räppänä
 räpäleh
 rätti
+räuktõ
+räykyttää
+rääkidäk
 rääp'üs
+rääpidäk
+räük'üttädäk
+räükküdäk
 räüstäs
+räütüdäk
 rëhto
 rëhu
 rëngas
@@ -2127,6 +2355,7 @@ sampi
 sampudak
 sana
 sanka
+sanko
 sanoidak
 sapa
 sapilas
@@ -2134,6 +2363,7 @@ sappi
 sapra
 sara
 sarana
+sarja
 sarka
 sarna
 sarni
@@ -2166,6 +2396,7 @@ sicka-
 sicä
 sidek
 sigit'äk
+sigittädäk
 sii
 siihvilä
 siika
@@ -2176,23 +2407,30 @@ siirtädäk
 sija
 sikedä
 siledä
+silittädäk
 silmu
 silmä
 silmät'oin
 silmät'äk
+sima
 sini
 sininen
 sirkëda
 sisalikko
+sisoi
 sitodak
 sitta
 sittudak
+sogët'ak
 soidak
 soimat'ak
 soittadak
+soka
 sokëda
 solki
 solmi
+solmëidak
+solva
 somëra
 sonni
 sonsar
@@ -2206,7 +2444,7 @@ soolat'ak
 sooli
 soomalainën
 soomi
-soomu
+soomë-
 sooni
 soori
 soota
@@ -2214,6 +2452,7 @@ soova
 sopa
 sopidak
 sorka
+sorka Reconstruction:Proto-Finnic
 sormi
 sormus
 sorsa
@@ -2232,6 +2471,7 @@ sukka
 suksi
 suku
 sukulainën
+sukëidak
 sula
 suladak
 sulattadak
@@ -2242,6 +2482,7 @@ sulkëdak
 sumpa
 sumu
 sumëda
+suntija
 surdak
 surku
 surma
@@ -2259,6 +2500,7 @@ suuttudak
 suvi
 sädek
 säic'en
+säic'en kümmentä
 säic'en toicta kümmentä
 säiccemenci
 säigeh
@@ -2271,6 +2513,7 @@ sälüttädäk
 sänki
 särkedäk
 särki
+särmä
 säski
 säsü
 sää
@@ -2285,6 +2528,7 @@ sësar
 sëstar
 sëëra-
 söödäk
+sööjä
 sööttädäk
 süci
 südän
@@ -2297,6 +2541,7 @@ sündüttädäk
 süntü
 süntüdäk
 süntümä
+sürjä
 süt'üttädäk
 süttädäk
 süttüdäk
@@ -2308,6 +2553,7 @@ tabat'ak
 tadëh
 tahko
 tahma
+tahtadak
 tahtas
 tahto
 tahtoidak
@@ -2320,7 +2566,9 @@ taitadak
 taito
 taivas
 taka
+takaicin
 takijas
+takja
 takka
 takku
 takla
@@ -2344,6 +2592,7 @@ tap'ëldak
 tapa
 tapahtudak
 tappadak
+tappaja
 tappo
 tappura
 tarbis
@@ -2370,6 +2619,7 @@ teedustadak
 teeto
 teetädäk
 teetäjä
+teetämät'oin
 tek
 tekejä
 teko
@@ -2391,6 +2641,7 @@ tija-
 tik'uttadak
 tikka
 tikëda
+tila
 tilkka
 tilkkudak
 tina
@@ -2408,6 +2659,7 @@ toimi
 toinën
 toipudak
 toittadak
+toivo
 toivodak
 toivottadak
 tok'ërtadak
@@ -2425,9 +2677,11 @@ topi
 tora
 torjudak
 toro
+torudak
 torvi
 totki
 totku
+tottudak
 touk'at'ak
 toukka
 touko
@@ -2446,51 +2700,67 @@ tuisku *tuiskut'ak
 tuju
 tuki
 tukka
+tukku
+tukto
 tukëba
 tukëdak
 tuldak
 tuli
 tulinën
+tulo
+tulppa
 tulus
 tulva
+tulëja
 tuma
 tumëda
 tunkijo
 tunkëdak
-tunttaba
 tuntudak
 tuntëdak
+tuntëmat'oin
 tup'as
 tup'ëhtudak
 tupa
 tuppi
+turbas
 turbot'ak
-turbëh
 turja
 turkki
 turpa
 turpëda
 tursas
 turska
+tursudak
 turta
 turtudak
 turva
 tussu
+tutka
+tutkain
+tuttaba
 tutu
 tutu *tuutudak
 tutu Reconstruction:Proto-Finnic
 tutudak
 tutudak *tuutu
 tutudak Reconstruction:Proto-Finnic
+tuulas
+tuulastadak
 tuuldak
 tuuli
+tuulicpää
 tuulinën
+tuultadak
+tuultudak
 tuumën
 tuura
 tähkä
 tähti
+tähtüstädäk
 täi
 täkteh
+täkäläinen
 tämä
 täplä
 täpärä
@@ -2518,9 +2788,12 @@ tülccä
 tülk'äs
 tülppä
 tülü
+tümedä
 tümä
 tünkä
+tüppidäk
 türä
+tüssät'äk
 tüt'är
 tüttoi
 tüven
@@ -2547,6 +2820,7 @@ unohtadak
 up'ot'ak
 up'ottadak
 upa
+ura
 urgët'ak
 uristak
 urka
@@ -2576,15 +2850,17 @@ vaha
 vahinko
 vahtëra
 vahva
+vahvoi
 vai
 vaidëldak
-vaihtadak
 vaikka
 vaikko
 vaikëda
 vaimo
+vaina
 vainaga
 vainijo
+vaino
 vaippa
 vaipudak
 vaiva
@@ -2592,6 +2868,7 @@ vaivat'ak
 vajaga
 vajot'ak
 vajëh
+vajëhtadak
 vajëltadak
 vaka
 vakja
@@ -2627,7 +2904,7 @@ vandëh
 vanha
 vanhuc
 vanhus
-vanhëmbat
+vanhëmpi
 vanhët'ak
 vankkuri
 vanko
@@ -2641,18 +2918,25 @@ vapsa-
 vara
 varahainën
 varait'ak
+varak'as
 varas
 varbas
 varbëh
 varci
+vardas
 vargas
 vargastadak
 varhoi
 varis
+varistadak
+varistak
 varjat'ak
 varjo
 varma
 varna
+varpa
+varpu
+varpu-
 varsa
 vartija
 vartodak
@@ -2698,6 +2982,7 @@ veneh
 venäläinen
 venät
 venüdäk
+venüttädäk
 vepci
 vepcidäk
 verdek
@@ -2724,6 +3009,7 @@ vihta
 vihvilä
 viiccidäk
 viici
+viici kümmentä
 viici toicta kümmentä
 viicikkoi
 viidenci
@@ -2737,8 +3023,11 @@ viip'at'ak
 viipüdäk
 viiru
 viisas
+viitta
 vik'at'ëh
 vika
+vila
+vilahtadak
 vilja
 vilk'as
 vilkkadak
@@ -2746,11 +3035,14 @@ villa
 villainën
 viltto
 vilu
+vimma
 vimpa
 vingërtadak
+vinistäk
 vinka
 vinkudak
 vino
+vipu
 vircca
 virci
 virdat'ak
@@ -2766,6 +3058,7 @@ virta
 viruttadak
 visa
 viskait'ak
+viskoidak
 vitodak
 viühti
 voi
@@ -2791,7 +3084,9 @@ vootadak
 vootna
 vot'in
 vottadak
+vottaja
 votto
+vägittädäk
 vägët'oin
 vähä
 väicci
@@ -2802,6 +3097,7 @@ väkebä
 väki
 väkä
 väledä
+väljä
 välkedä
 välkküdäk
 väntädäk
@@ -2812,10 +3108,12 @@ väsüttädäk
 vävü
 väärä
 vëhka
+vëhmas
 vëlho
 vëlka
 vërka
 vërkko
+vërso
 vërsodak
 vësa
 vësodak
@@ -2839,14 +3137,18 @@ vöörüttädäk
 ääni
 ääri
 ëhva
+ëktago
+ëktago?
 öö
 öök'ät'äk
 üdin
 ükci
 ükci toicta kümmentä
 ükteksä
+ükteksä kümmentä
 ükteksä toicta kümmentä
 ükteksänci
+üles
 üli
 ülkä
 ülpedä

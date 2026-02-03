@@ -12,14 +12,16 @@
 -ğar
 -ğur
 ? töngük
-Garamañ
 Gudus
+Gökhdengiz
+Göxdeñiz
 Palçıx kiş
+Qaramañ
 Salır
 Tiut
 Tüvit
 Tüyit
-Ulağıl
+Ullağıl
 aba
 aba-ica
 acı
@@ -28,33 +30,50 @@ ad
 adı
 adım
 agelgüsi
-aggur
-aggurlağusı
+agu
+alaci
+alaguş
 altun
 altı
 altımış
+alğusı
 ama
+ama-bala
 ana
 anacüyin
 analar
+anaş
 anigi
-aq
 aq quş
-aq tırna
-aqdarğusı
 aqla
 aqmuş
+aqqur
+aqqurlağusı
 aqun
 aqunbo
-aqğusı
+aran
 ardı
 arfa
 arqa
-arı sili
+aruq
+aruqlandırğusı
+aruqlanğusı
+aruqlağusı
+aruqlı
+arı
+arı-sili
+arıldırğusı
+arıttırğusı
 arıtğusı
+arıçuq
 asan
 aslan
 aslan tiş
+asıralğusı
+asıratğusı
+asırağuci
+asırağusı
+asıraşğusı
 at
 ata-bovu
 ate
@@ -64,14 +83,22 @@ attuqlanğusı
 attğusı
 atğusı
 atıq
+ax
+ax tırna
+axdal
+axdarğusı
 axun
+axvaş
+axğusı
 ay
 ayaq
 ayaq ardı
 ayaq burmaq
 ayaq soñı
+ayi
 aylağusı
 aze
+azuq
 azı
 azıt
 açıq
@@ -82,15 +109,23 @@ añki
 añnatğusı
 añnağusı
 añnaşğusı
+ağarğusı
 ağaş
+ağaşci
+ağine
 ağu
-ağzını yıqağusı
+ağzını yıxağusı
 ağıl
 ağır
+ağırçıq
 ağız
 aş
-aş gazan
+aş qazan
+aşaq
+aşaq vaqğusı
+aşaqlanğusı
 aşağı
+aşgara
 aşğusı
 baba
 baca
@@ -99,11 +134,14 @@ badegüsi
 bal
 bala
 balalar
+balcüyin
 baluq
 baluq incik
 baluqci
 balçüyin
+balğun
 baqe
+bar
 bas
 batur
 bazar
@@ -127,7 +165,11 @@ bele
 belegüsi
 beligi
 beliği
+bellengüsi
+belte
+beygaraq
 beynianqan
+bezgek
 beş
 bicin
 bikgüsi
@@ -140,6 +182,9 @@ bilitgüsi
 bir
 bir ucı un
 birge
+birçük
+biyaguş
+bo
 bolğusı
 bori
 borsuq
@@ -148,6 +193,7 @@ boy
 boyaq
 boyaqcı
 boyağusı
+boynaq
 boyun
 boğas
 boğdaq
@@ -164,6 +210,10 @@ bugün
 bugüngi
 bulut
 burmaq
+buruş
+burğaq
+buyağır
+buyı
 buzola
 buzı
 buzıla
@@ -177,18 +227,28 @@ camba
 can
 cañganaq
 cañnağusı
+cağağusı
 cağcaq
 cicek
+cillağusı
+ciyanğusı
+ciyaq
+ciyaq yigüsi
+ciyağusı
+coğ
 cumçuq
 cücük
+cüy
 cüyin
 dache
 dada
 dadığusı
 dal
-dal goq
+dal qox
 damaq
 damaq öy
+damba
+damnağusı
 damır
 dana
 danru
@@ -211,25 +271,39 @@ daş
 daş dermen
 daşı
 daşığusı
+deggüsi
 degüsi
 delli
 dene
 dengiz
+derilgen
+derilgüsi
 dermen
 dezek
 deşük
+dig
+dig yoqdıq
+diginegüsi
+diginetdirgüsi
+diginetgüsi
+digineşgüsi
+diginik
+diginiş
 dil
 dimer
+dincir
 dizek
+diñnegüsi
 dodaq
 dodaq çatğusı
 dodır
 dodırci
 dolı
 dombaq
-doqsan
 doqus
 dor
+dorağuci
+dorağusı
 dova
 dovan
 dovaq
@@ -237,19 +311,28 @@ dovar
 dovu etgüsi
 dovşan
 dovşan geme
+doxağusı
+doxsan
 dozaq
 doñıs
+doğram
+doğrağusı
+du
 duman
-dumqın
+dumnanğusı
+dumnaq
 dumğusı
+durı
 duz
 duzaq
 duzlıq
-döt
 dött
 döve
 dövü
 düge
+düggüsi
+düglegüsi
+dügme
 dügü
 dürgüsi
 düssek
@@ -257,6 +340,9 @@ düz
 düzegüsi
 düzel
 dırnaq
+dıñnağusı
+edigüsi
+ege
 ehte
 ekgüsi
 el
@@ -271,19 +357,19 @@ elli yiğirmi
 em
 emcük
 emes
-emmek
-emmekçük
 endergüsi
 engüsi
 er
 er-geş
 ergi
 erkik
-eski
+esgi
 et
 ete
 etesi
 etgüsi
+etmek
+etmekçük
 ette
 ez
 eçik
@@ -298,38 +384,21 @@ eñgeklik
 eñlik
 eñse
 eşek
+eşgü
 fañvu
 fürdirgüsi
 fürgen saş
 fürgüsi
 fürüm
 fürüşgüsi
-gabaq
-gacağusı
 gacca
-gadın
-gadınkiş
 gaga
+gaga-ini
 galağusı
-gan
-gan yağla
-ganat
-ganağusı
-gancıq
-gar
-gara
 garamuş
-garğa
-garğa-guzğun
 garın
-garındaş
-gayda
-gaz
-gazan
-gazan baş
+garışğusı
 gañli
-gaş
-gaşğusı
 gece
 gecegi
 gecelük
@@ -344,39 +413,23 @@ gindik
 gindiklegüsi
 girgu tırna
 giru
+giya
+giyalı
 go
+god
 godaq
-goduq
-goduqla
 gohu
 goklagusı
-gol
-golqap
-gonaq
 gonaq güygüsi
-goq
-goqga
+goppa
+goppa etgüsi
 gorı kegelek
 gorı kegelik
-goy
-goñırçıq
-goş
-goşgur
 goşluq
-goşğur
-gulaq
-gulaş
+gulu
 gum
 gumuş
-gumısgan
-gurlanğusı
-guruq
-gurı
-gurım
-gut
 guz
-guzğun
-guzı
 gäz
 gögergüsi
 gögesgoçur
@@ -384,7 +437,11 @@ gök
 göl
 gölek
 gölekür
+gömen
+gömgüsi
+gömilgüsi
 gömür
+gön
 göre
 görgesgüsi
 götti
@@ -407,15 +464,9 @@ güntiz
 gürgüncük
 gütgüsi
 güy
+güye
 güygüsi
-güzgüzinde ()
-gılış
-gırıq
-gız
-gızıl
 gızılmuş
-gış
-gışgışında ()
 gışın
 heli
 hemme
@@ -428,7 +479,7 @@ idd
 iddegüsi
 ider
 iggi
-igir
+igirgüsi
 ihinci
 ik
 ikin
@@ -444,6 +495,8 @@ inci
 incik
 inek
 ini
+iren
+irük
 isgengüsi
 issi
 itük
@@ -453,8 +506,10 @@ izi
 iş
 iş köygüsi
 işci
+işgen
 işgüsi
-işi
+işmek
+kala
 kalayi
 kaması
 kamağı
@@ -466,14 +521,15 @@ kem
 kema
 keması
 kemağı
-kemmen
 kendilik
+ketmen
 kine
+kiriş
 kitab
 kiyik
 kiyne
-kiyne al
-kiyne vol
+kiyne alğusı
+kiyne volğusı
 kiçi
 kiçi çira
 kiş
@@ -483,10 +539,12 @@ kozgo
 koñura
 kumuş
 kumır
-köferik
+kuğu
+ködergüsi
 kömür
 köp
 kös
+kötgüsi
 köydürgüsi
 köygüsi
 köyik
@@ -494,10 +552,18 @@ köyüngüsi
 köyüşgüsi
 kük
 kül
+küligüsi
 kürek
 kürlük
 küş
+lab
+lab vurğusı
+labci
+labcıq
 lalıq
+lappa
+lappalanğusı
+leşgi
 lokda
 loñxa
 ma
@@ -508,10 +574,13 @@ manğusı
 maña
 men
 mett
+meçit
 meñzi
+mingüsi
 minigi
 miñ
 mişaq
+mokın
 moñıs qulaqdın qıddı, sağal kürlükdın uzan
 moğolcüyin
 munda
@@ -525,13 +594,17 @@ müşük
 nañ
 nañur
 necce
-nemme
+nene
+netme
+nisnas
+nöhür
 ocüyin
 ocıla
 odağusı
 odın
 ohol
 olanğusı
+olaq
 omaş
 on
 onduq
@@ -540,9 +613,12 @@ oq
 oraq
 ornaşğusı
 ornı
+orqarı
+orğusı
 ot
 otaq
 otağusı
+otkañ
 otluq
 ott
 otta
@@ -554,67 +630,149 @@ otğusı
 oxağuci
 oxağusı
 oxuş
+oxşatğusı
+oxşağusı
+oxşaş
 oynağusı
 oçaq
 oççaq
 oña
+oñarğusı
+oñırçıq
 oğlan
+oğrağusı
 oğrı
+oğrı-moğrı
+oğrılıq
+oğrından
 oğıl
 paba
+palmañ
 palçıq
+pancir
 paqqırğusı
 pidd
 piddigüci
 piddigüsi
 piddik
 piddirgüsi
+pigür
 piser
 pisirnigi
 piñ
 pişirdergüsi
 pişirgüsi
 pola
+poq
 poqcüyin
+poqluq
 poñ
 puldır
 purnı
 purun
 pıçaq
-qab
+qabaq
+qacağusı
+qadın
+qadınkiş
+qalağusı
 qamuş
-qantar
-qarsı
+qan
+qan yağlağusı
+qanat
+qanağusı
+qancıq
+qar
+qara
+qaralanğusı
+qaraluq
+qarangu
+qarğa
+qarğa-quzğun
 qarğaş
 qarın
+qarındaş
+qarış
+qarışdırğusı
+qarışğuci
+qarışğusı
 qat
+qayda
+qaynaq
+qaynatdırğusı
+qaynatğusı
+qaynağusı
+qaynaşğusı
 qayçañ
-qoltuq
+qaz
+qazan
+qazan baş
+qazuq
+qazğuci
+qaş
+qaşuq
+qaşğusı
+qoduq
+qoduqla
+qol
 qolu
-qona
-qorğağusı
-qovar
+qolxap
+qonaq
+qox
+qoxga
 qoy
-qoğun
+qoylağusı
+qoylaşğusı
+qoz
+qozı
+qozılatğusı
+qozılağusı
+qoñırçıq
+qoş
+qoşluq
 qoşmaq
-qusaq
-qusğusı
-quçaq
+qoşğur
+qoşğusı
+qulaq
+qulaş
+qumğusı
+qumısgan
+qurlanğusı
+quruq
+qurğusı
+qurı
+qurım
+qurıtğusı
+qut
+quzğun
 quş
 quşmaq
 qılçıq
-qısga
+qılış
+qın
+qırıq
 qısıraq
-qığırdaq
+qız
+qızıl
+qış
 rallanğusı
+ritaq vurğusı
+ritaqci
 sal kürek
+saluq
 samsaq
 sanduq
+sap
+saplağusı
+sappa
 saqsıq
 sarı
 sarıcüyin
+sarıguş
 sat
 satquçi
+satğusı
+satıq
 satıqçi
 saxıt
 saçaq
@@ -633,12 +791,13 @@ semiz
 sen
 sengüsi
 serek
-sereq
 simus
 sinek
 sinigi
 sinik
 sipse
+sirge
+sirge daraq
 siçirağusı
 siñgüsi
 siñil
@@ -646,8 +805,8 @@ siñni
 solaq
 solaq alğusı
 solaq gelingüsi
-solaq çıqarğusı
-solaq çıqğusı
+solaq çıxarğusı
+solaq çıxğusı
 solağusı
 sompa
 soq
@@ -663,10 +822,15 @@ su kürlük
 sudan
 sugulcın
 sumurlağusı
+sundurğusı
+sundırğusı
+sunuq
+sunğusı
 sutğusı
 suvalağusı
 suvağuci
 suvağusı
+suvsağusı
 söge
 söginegüsi
 söklen
@@ -681,16 +845,20 @@ süret dattğusı
 sürgüsi
 sütgüsi
 sütni
-sıq
-sıq yanı
-sıqsağan
-sıqğusı
+sıqlanğusı
+sıqlağusı
 sıqır
 sırnaq
 sırğa
+sıx
+sıx yanı
+sıxlıq
+sıxsağan
+sıxğusı
 sıxır
 sıŋ
 tadağusı
+tallar
 tam
 tarı
 tata
@@ -700,6 +868,9 @@ te
 temur
 temurji
 ter
+terci
+tiga
+tiga-tiga etgüsi
 tikgüsi
 tiri
 tiş
@@ -707,6 +878,10 @@ toraq
 torma
 tormu
 torı
+tosaq
+tosdırğusı
+tosğusı
+tosışğusı
 tox
 toña
 turma
@@ -721,66 +896,112 @@ tülügü
 türı
 tüturğan
 tütülüq
-tıqta
 tırna
+tıxda
 u
 uc
 uda
 udağusı
 ular
 ularnigi
-ulı
+ullı
+ulğatğusı
+ulğağusı
+ulılıq
 umıt dattğusı
 un
-uqlağusı
-uqğusı
 urqan
+urqarı
 uruq
+usgu
 uslağusı
 uvğusı
 uxasğan
 uxasğusı
+uxlağusı
+uxu
+uxucin
+uxğusı
 uyalğusı
+uyat
 uyınğusı
+uzaq
 uzın
 uğutğusı
 uşaq
 uşaq-muşaq
-vaqğusı
 var
 vara-vara
 varğusı
+vaxğusı
+vergüsi
 volğusı
 vunxua
-vār
+vurğusı
+xaluñ
+xantar
+xap
+xarsı
 xat
+xaşuq
+xodarğusı
+xoltuq
+xona
+xorğağusı
+xovarğusı
+xoy
+xoz
+xoğun
+xoşmaq
+xurlağusı
+xusaq
+xusğusı
+xuçaq
+xuçaqlatğusı
+xuçaqlağusı
+xuçaqlaşğusı
+xuñnatğusı
+xuñnağusı
+xuñnaşğusı
+xılçıq
+xısga
+xısıraq
+xığırdaq
+yaba
+yadatğusı
+yadağusı
 yafraq
 yahçuq
-yalañ adaq
+yalañ-adaq
+yalañ-aş
+yaltaci
 yalğan
 yalğan çatğusı
 yalğuz
 yaman
 yanğusı
-yaqğusı
-yaqşi
 yarasan
 yarmaq
 yarmaqlı
 yaruq
+yarvalğusı
+yarı
 yarıqçı
 yasmuq
 yasuq
+yattañ
 yattuq
 yaxa
+yaxğusı
 yaxılğusı
 yaxın
 yaxışğusı
+yaxşi
 yaz
 yazlanğusı
 yazlaq
-yazyazında ()
 yazğusı
+yazı
 yaççuq
 yañaq
 yañi
@@ -798,78 +1019,103 @@ yağırnı
 yaş
 yaşağusı
 yaşil
+yaşinçük
+yaşınçuq
+yaşınğusı
 yaşırğusı
 yehlegüsi
 yekşembe
 yel
 yelinküt
+yelpügüsi
+yelpük
 yetigen
 yi
 yide
 yidemiş
+yidigen
 yigine
 yigirme
 yigit
 yigüsi
 yil
 yilağusı
-yilem
 yilen
 yiligüci
 yiligüsi
 yiligüş
+yilim
+yimaq
 yimiş
 yip
 yipek
 yir
 yiraq
 yirik
+yiriñ
+yiriñlağusı
+yirtaq
+yirtaqci
+yirtaqlağusı
 yitli
 yiy
 yiyin
 yiyinde
 yiylaq
-yiyyiyinde ()
 yiñ
+yogo
 yol
 yol görgesgüsi
-yoq
+yolaq
+yoppa
 yoqba
 yorğan
 yova
-yoñ
+yox
 yoğan
 yul
 yulduz
+yumaq
 yumnaq
 yumul
 yumutta
-yuqğusı
+yumutta axı
+yuxğusı
+yuñ
 yuğurdaq
 yuğurğusı
 yörgegüsi
 yügüsi
+yükkürgüsi
+yüküngüsi
 yül
+yür
 yürgüsi
+yürlağusı
 yüz
 yüze eñlik vurğusı
 yıldırcañ
 yıldırcañ çatğusı
-yıqalağusı
-yıqağusı
+yıxalağusı
+yıxağusı
 yıyğusı
 yığğusı
+zassañ
+zassañ qurğusı
 zenle
+zoraq
+zoğzığusı
 ça
 çadır
 çalağusı
 çalğusı
 çalınğusı
 çalışğusı
-çaqmaq
-çaqmaq daş
-çaqmaq yandırğusı
 çatğusı
+çaxmaq
+çaxmaq daş
+çaxmaq yandırğusı
+çeden
 çel
 çenegüsi
 çikgüsi
@@ -881,20 +1127,38 @@ zenle
 çiyik
 çiçek
 çiñgirik
+çiş çöygüsi
+çişgüsi
+çodar
+çoldoñ
+çollağusı
+çubuğan
 çulur
 çur
+çuxraq
+çuxrağusı
+çuxur
+çökgüsi
+çömgüsi
+çömnegüsi
 çöp
+çöp-çaruq
 çör
+çöxüşgüsi
+çöydürgüsi
+çöygüsi
+çöyin
+çügü
 çüp
 çüregüci
 çüregüsi
 çürgüsi
 çürük
 çüven
-çıqarğusı
-çıqrağusı
-çıqğusı
 çıxarğusı
+çıxrağusı
+çıxsu
+çıxğusı
 öd
 öhregüsi
 öhreşgüsi
@@ -910,6 +1174,7 @@ zenle
 öy
 öyle
 öylelük
+öyşi
 özen
 özengü
 ügen
@@ -921,11 +1186,15 @@ zenle
 üküt
 ükütgüsi
 üldürgüsi
+ün
+üngülük
 ütürgü
-ütürük
+üçiregüsi
 üçiretgüsi
 üçireşgüsi
+üçür
 üçürguş
+üçürgü
 üş
 üşdergüsi
 üşgüci
@@ -933,8 +1202,13 @@ zenle
 üşirgüsi
 üşiş
 üşişgüsi
+şabaq
+şaraq
+şaraqlağusı
 şañ
 şili
+şinağa
+şinağa baluq
 şitgüsi
 şizi
 şo

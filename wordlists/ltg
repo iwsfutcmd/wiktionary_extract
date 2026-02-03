@@ -1,6 +1,7 @@
 (bike) braukt
 (paint-) tepeklis
 -ams
+-ceja
 -eiba
 -eigs
 -eite
@@ -17,70 +18,53 @@ Albaneja
 Aleksandra
 Amerikys Saškiertuos Vaļsteibys
 Antoneis
-B
 Boltkrīveja
-C
-D
 Daneja
+Daugovpiļs
 Daugpiļs
 Dīvs
-E
 Eireja
 Eiropys Savīneiba
-F
-G
 Grekeja
-H
 Horvateja
-I
 Igauneja
 Iraks
 Irans
-J
 Japoneja
+Jelgova
 Jezus
 Jākubmīsts
 Jākubpiļs
-K
 Keneja
 Kopenhaga
 Krīveja
 Kuba
-L
 Latgaļu
 Latgola
 Latveja
 Leldīne
 Londons
 Lītova
-M
 Mažeiki
+Meitova
 Meksika
 Monaks
 Moskova
-N
 Naha
 Namibeja
 Nigereja
-O
 Ontons
-P
 Puoleja
-R
 Reiga
-S
+Rēzne
 Suomeja
-T
 Template:list:Latin script letters
 Teļši
-U
-V
 Vengreja
 Vikipedeja
 Vuoceja
-Y
-Z
 a
+a/languages A to L
 aba
 absurds
 acis
@@ -143,7 +127,6 @@ azarsola
 aļteņš
 aļņs
 ašķi
-b
 baba
 babeņa
 babrys
@@ -223,7 +206,6 @@ būrauka
 būre
 būreit
 būrs
-c
 calms
 catūrtdale
 catūrts
@@ -267,14 +249,12 @@ cīst
 cītdiskys
 cīts
 cīši
-d
 da
 dabasi
 dabuot
 dadziļs
 daguts
 daine
-dale
 daleit
 dalns
 darbeņš
@@ -287,6 +267,7 @@ dativēt
 dators
 daudz
 daudzi
+daļa
 debeseits
 debess
 debesteņš
@@ -305,6 +286,7 @@ diveji
 divejis
 divi
 divpadsmit
+doba
 docātuojs
 dodzs
 dorbs
@@ -392,7 +374,6 @@ dūmuot
 dūrt
 dūrtīs
 dūt
-e
 ecieža
 egle
 eikss
@@ -414,9 +395,7 @@ eļksnis
 eļne
 eļsinēt
 eņterolits
-f
 futbols
-g
 gabaleņš
 gaideit
 gaisma
@@ -491,7 +470,6 @@ gīdrs
 gūdojams
 gūds
 gūvs
-h
 hokejs
 humors
 i
@@ -522,7 +500,6 @@ izplateiba
 izplateit
 izpuordavums
 izpuordūšona
-j
 jam
 jauceit
 jaukt
@@ -554,7 +531,6 @@ jī
 jūceigs
 jūkains
 jūsta
-k
 ka
 kab skaista dīna!
 kab tev breineiga dīna!
@@ -718,7 +694,6 @@ kūrmuļs
 kūrslys
 kūst
 kūzuls
-l
 labi
 labieds
 lads
@@ -741,8 +716,12 @@ laupeit
 laydinuot
 leigačys
 leigons
-leins
+leit(i)
+leitains
+leitasorgs
+leitovas
 leits
+leiņs
 lels
 leluoks
 lieni
@@ -762,6 +741,7 @@ lomuot
 lopa
 lopsa
 lopā
+lozda
 ltg
 luocs
 luodēt
@@ -779,11 +759,11 @@ lēkt
 līkt
 līpa
 līsme
+līt(i)
 lūgs
 lūks
 lūne
 lūņuot
-m
 mads
 maiseit
 maize
@@ -873,7 +853,6 @@ mīrs
 mīsa
 mīži
 mūksts
-n
 nabašnīks
 nadajiukts
 nagudrais
@@ -929,7 +908,6 @@ nūsiesšona
 nūsist
 nūsādplīkšni
 nūīt
-o
 obors
 ocu
 odota
@@ -959,7 +937,6 @@ ostoita
 ostoits
 ostoni
 ostonis
-p
 pabeigys
 padūms
 paegle
@@ -1115,7 +1092,6 @@ pūrs
 pūsts
 pūstumdzīsna
 pūstumi
-r
 radeit
 radeja
 radeņš
@@ -1184,7 +1160,6 @@ rūbežs
 rūja
 rūka
 rūst
-s
 sadli
 saime
 saimineica
@@ -1442,7 +1417,6 @@ sīva
 sīveņa
 sīvīte
 sūļs
-t
 taca
 tacynuot
 tagad
@@ -1501,7 +1475,9 @@ trešais
 trešs
 trešuo
 troks
+trons
 trosks
+trums
 trupēt
 truss
 trāps
@@ -1545,7 +1521,6 @@ tī
 tīsa
 tīvs
 tūlaik
-u
 unuce
 unuks
 uobeļneica
@@ -1566,7 +1541,6 @@ upsola
 usne
 ustabeņa
 ustoba
-v
 vabale
 vaca
 vace
@@ -1675,6 +1649,7 @@ vysmoz
 vysta
 vādars
 vāls
+vātra
 vāza
 vēkšt
 vērtīs
@@ -1689,9 +1664,9 @@ vīns
 vīnumeiguot
 vīss
 vīšne
+vīšņa
 vūrbt
 y
-z
 zagt
 zalts
 zam
@@ -1742,11 +1717,7 @@ zyvāda
 zīds
 zīma
 zūbyns
-Ā
-ā
 ābece
-Č
-č
 čajs
 čapasluot
 čapāslys
@@ -1760,14 +1731,9 @@ zūbyns
 čāguons
 čīviste
 čūrkste
-Ē
-ē
 ērce
-Ģ
 ģ
-Ī
 Īslandeja
-ī
 īguoda
 īkors
 īnaidnīks
@@ -1784,26 +1750,19 @@ zūbyns
 īveikt
 īviertiejums
 īvērtēt
-Ķ
+Ķīna
 ķ
-Ļ
-ļ
 ļauds
 ļauns
 ļaut
 ļovs
 ļuste
-Ņ
-ņ
 ņau
 ņuotre
 ņurruot
-Ō
 ō
-Š
 Šauli
 Švedeja
-š
 šaurs
 šautra
 šaļteņa
@@ -1828,6 +1787,7 @@ zūbyns
 škāps
 škārsteiklys
 škīda
+šmakovka
 špetneiba
 špetnys
 špļaut
@@ -1841,7 +1801,6 @@ zūbyns
 šyut
 šī
 šņucs
-Ū
 ū
 ūds
 ūga
@@ -1857,8 +1816,6 @@ zūbyns
 ūzuls
 ūļs
 ūža
-Ž
-ž
 žeigurs
 žeivots
 ževers

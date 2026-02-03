@@ -1,7 +1,7 @@
-" |
 'Edhow
 'Edhowes
 'bar'
+'ga
 'gaA
 'gan
 'gas
@@ -11,12 +11,9 @@
 'th
 'thM
 (mis) Ebrel
-*
-* lanthanide
-**
-** actinide
 -a
 -adow
+-an
 -ans
 -as
 -asow
@@ -26,165 +23,57 @@
 -edh
 -ek
 -el
+-ell
+-en
+-er
 -es
 -flek
 -he
+-i
 -ieth
 -ik
 -iv
+-onieth
 -onydh
 -ov
 -ow
 -plek
+-us
 -va
 -ves
 -weyth
 -ya
+-yas
+-ydh
 -yon
 -yow
-1 Hhidrojen
-10 Neneon
-100 Fmfermiom
-101 Mdmendeleviom
-102 Nonobeliom
-103 Lrlawrenciom
-104 Rfrutherfordiom
-105 Dbdubniom
-106 Sgseaborgiom
-107 Bhbohriom
-108 Hshassiom
-109 Mtmeitneriom
+-ys
 10ves
-11 Nasodiom
-110 Dsdarmstadtiom
-111 Rgroentgeniom
-112 Cnkoperniciom
-113 Nhnihoniom
-114 Flfleroviom
-115 Mcmoskoviom
-116 Lvlivermoriom
-117 Tstenessin
-118 Ogoganesson
 11ves
-12 Mgmagnesiom
 12ves
-13 Alaluminiom
 13ves
-14 Sisilikon
 14ves
-15 Pfosforos
 15ves
-16 Ssulfur
 16ves
-17 Clklorin
 17ves
-18 Arargon
 18ves
-19 Kpotassiom
 19ves
 1a
-2 Heheliom
-20 Cakalciom
 20ves
-21 Scskandiom
-22 Tititaniom
-23 Vvanadiom
-24 Crkromiom
-25 Mnmanganes
-26 Fehorn
-27 Cokobalt
-28 Ninikel
-29 Cukober
 2a
-3 Lilithiom
-30 Znzynk
-31 Gagalliom
-32 Gegermaniom
-33 Asarsenik
-34 Seseleniom
-35 Brbromin
-36 Krkrypton
-37 Rbrubidiom
-38 Srstrontiom
-39 Yytriom
 3a
-4 Beberylliom
-40 Zrzirkoniom
-41 Nbniobiom
-42 Momolybdenom
-43 Tcteknetiom
-44 Rurutheniom
-45 Rhrodiom
-46 Pdpaladiom
-47 Agarghans
-48 Cdkadmiom
-49 Inindiom
 4a
-5 Bboron
-50 Snsten
-51 Sbantimoni
-52 Teteloriom
-53 Iiodin
-54 Xeksenon
-55 Cscesiom
-56 Babariom
-57 Lalanthanom
-58 Ceceriom
-59 Prpraseodymium
 5es
-6 Ckarbon
-60 Ndneodymium
-61 Pmpromethiom
-62 Smsamariom
-63 Eueuropiom
-64 Gdgadoliniom
-65 Tbterbiom
-66 Dydysprosiom
-67 Hoholmiom
-68 Ererbiom
-69 Tmthuliom
 6ves
-7 Nnitrojen
-70 Ybyterbiom
-71 Lulutetiom
-72 Hfhafniom
-73 Tatantalom
-74 Wtungsten
-75 Rereniom
-76 Ososmiom
-77 Iriridiom
-78 Ptplatinom
-79 Auowr
 7ves
-8 Ooksyjen
-80 Hgmerkuri
-81 Tlthaliom
-82 Pbplobm
-83 Bibismuth
-84 Popoloniom
-85 Atastatin
-86 Rnradon
-87 Frfrankiom
-88 Raradiom
-89 Acaktiniom
 8ves
-9 Ffluorin
-90 Ththoriom
-91 Paproaktiniom
-92 Uuraniom
-93 Npneptuniom
-94 Puplutoniom
-95 Amamerikiom
-96 Cmkuriom
-97 Bkberkeliom
-98 Cfkaliforniom
-99 Eseinsteiniom
 9ves
 A
-Aberfal
+Aberfala
 Aberplymm
 Accra
 Adam
+Afganistan
 Afghanistan
 Afrika
 Afrika Dyghow
@@ -205,12 +94,19 @@ Alpys
 Alys
 Amerika
 An Enys Las
+An Gov
 Andorra
 Androw
 Ankow
 Antarktika
 Anton
 Apuli
+Arab
+Arabek
+Arabes
+Arabi
+Arabi an Saud
+Aragonek
 Arberth
 Arghantina
 Arghas Europek rag Displegyans Ranndiryel
@@ -219,15 +115,19 @@ Arlodhes Frankedh
 Armeni
 Arthur Gernow
 Arwednak
+Arwynnek
 Asi
+Asian
+Asianes
 Asvens
 Atlantek
-Australya
 Austrya
 Azerbayjan
 Azerek
 B
+Baghreyn
 Baner an Unyans
+Bangladesh
 Bask
 Baskek
 Baskes
@@ -238,7 +138,7 @@ Belarussianes
 Belg
 Belges
 Bermuda
-Bethalem
+Bethlehem
 Beybel
 Bibel
 Blewowrek
@@ -251,6 +151,7 @@ Bosskawen
 Bosvena
 Bouddydh
 Bouddydhes
+Boutan
 Bras Polter-Gonn
 Breten
 Breten Veur
@@ -258,6 +159,7 @@ Breten Vyghan
 Breton
 Bretonek
 Bretones
+Brunei
 Brussel
 Brusselas
 Brython
@@ -267,12 +169,13 @@ Bulgarek
 Bulgari
 Bulgarian
 Bulgarianes
+Byrmani
+Bys Koth
 C
 CH
 Cala'Me
 Calan Est
 Calesvol
-Ceres
 Chartour Europek rag Yethow Ranndiryel po Le-usys
 Chek
 Chekek
@@ -281,6 +184,9 @@ Cheki
 Chenek
 Chi an Arydhi
 Chi an Gemmynyon
+China
+Chinek
+Chiow an Senedh
 Chy an Arlydhy
 Cita an Vatikan
 Coimbra
@@ -296,7 +202,6 @@ De Halan Gwâv
 Deg Arhadow
 Dewnens
 Dollar Statys Unys
-Dor
 Dowr Alen
 Dowr Amal
 Dowr Dinlonk
@@ -343,17 +248,23 @@ Enys Morris
 Enys Nadelik
 Enys Skaw
 Enys Vanow
-Eris
 Eseld
 Est
 Estoni
 Estonian
 Estonianes
 Estoniek
+Euro
+Europa
+European
+Europeanes
+Eurosenedh
 Euthvil-Neyj an Spaghetti
 Evrek
 Evrek Nowydh
 Eynda
+Eyndek
+Eyndoges
 F
 Fe
 Fowydh
@@ -372,7 +283,7 @@ Fynndir
 Fynnek
 Fynnes
 G
-Galathyans
+Galatianys
 Genver
 Godhal
 Godhaleger
@@ -383,6 +294,9 @@ Godhalesow
 Godhelek
 Godhyli
 Golowan
+Gonis Yeghes
+Gool Enys
+Gool Peran
 Goon Brenn
 Gorefan
 Gorefen
@@ -398,6 +312,7 @@ Grifyuth
 Gryffyn
 Grêk
 Grêkys
+Gwariow Olympek
 Gwen
 Gwener
 Gwernenys
@@ -414,7 +329,6 @@ Hayl Maria
 Hedra
 Hellys
 Hong Kong
-Howl
 Huk Vughyan Rudh
 Huk Vyghan Rudh
 Hungarek
@@ -427,6 +341,9 @@ Hyns Sen Jamys
 I
 Ia
 Indianapolis
+Indonesi
+Irak
+Iran
 Iseldiryades
 Iseldiryas
 Iseldiryek
@@ -442,6 +359,7 @@ Iwerdhon Gledh
 Iwerdhonek
 J
 Jago
+Jakka a'n ke
 Jamayka
 Japan
 Japanek
@@ -451,23 +369,43 @@ Jeorji
 Jermany
 Jersenys
 Jibraltar
+Jordan
 Jorji
 Jory
 Josep
-Jovyn
 Jowann
 Jubyter
 K
 K.O.K.
+KOK
 Kala' Me
 Kalan Genver
+Kalan Gwav
 Kaliforni
+Kambodi
 Kammbronn
 Kanada
+Kar-
+Karadhek
+Karaln
+Kardeva
+Kardhana
+Kardhorn
 Kardydh
 Karedin
+Karesk
+Kargisi
+Kargnogh
+Kargrug
+Kargyrn
+Karliwelydh
+Karlow
+Karnarvon
+Karsallek
+Karvyrdhin
 Katalanek
 Kataloni
+Katar
 Kazakstan
 Kelt
 Keltes
@@ -484,6 +422,7 @@ Kernowak
 Kernowek
 Kernowyon
 Kernûak
+Kesva an Taves Kernewek
 Kevardhu
 Keynvor Arktek
 Keynvor Atlantek
@@ -494,10 +433,17 @@ Kint
 Kitto
 Kok
 Konna Gasa
+Korea
 Korea Dhyghow
 Korea Gledh
+Korean
+Koreanes
+Koreek
 Kosovo
 Kowethyans an Kenedhlow Unys
+Krener
+Krenores
+Kresvor
 Krist
 Kristonedh
 Kristones
@@ -509,16 +455,22 @@ Kroates
 Kroati
 Krowsfordh Trevelowen
 Kumbryk
+Kuweyt
 Kynt
 Kyprus
+Kyrgyzstan
 L
 LKDT
 Lannvorek
+Laos
 Latvi
 Latvian
 Latvianes
 Latviek
 Lazio
+Lebanon
+Lebanyades
+Lebanyas
 Lesow
 Lew
 Lightenstayn
@@ -528,15 +480,14 @@ Lithuanianes
 Lithuaniek
 Llanfihangel-ar-arth
 Lombardi
-Loor
 Loundres
 Luksembourg
 Luksembourgek
-Lulyn
+Lulynn
 Lun
 Lushaborg
-Lushaborgek
 Lyon
+Lysardh
 M
 Mahomm
 Makedoni
@@ -544,6 +495,8 @@ Makedoni Gledh
 Makedonian
 Makedonianes
 Makedoniek
+Malaysi
+Maldivys
 Malta
 Maltek
 Maltyades
@@ -567,6 +520,7 @@ Moldavian
 Moldavianes
 Moldova
 Monako
+Mongoli
 Montenegro
 Mor Baltek
 Mor Bretannek
@@ -588,15 +542,16 @@ My a'th kar
 Mygal
 Mys Genver
 N
-N/A
 Nadelik
 Nadelik lowen
 Nadelyk
 Namibi
 Nansow Konteth Evrek
 Navarra
+Nepal
 Nevyon
 Next: dew
+Nihon
 Nihonek
 Norgagh
 Norgaghek
@@ -616,10 +571,14 @@ Ouranos
 P
 Pader
 Pakistan
+Palestin
+Palestinyades
+Palestinyas
 Papwa Gyni Nowydh
 Paris
 Parti Gwithadorek
 Parti Lavur
+Parti Livrel Gwerinel
 Pask
 Pask Byghan
 Pawl
@@ -631,6 +590,7 @@ Pennrynn
 Pennrynn Gwer
 Pennsans
 Pennsylvaynek
+Persi
 Pewas Akademi
 Pewas Nobel
 Plenteth
@@ -643,6 +603,11 @@ Polak
 Polakes
 Polonek
 Poloni
+Porthbud
+Porthia
+Porthlynn
+Porthperan
+Porthpyra
 Portyngal
 Portyngalek
 Portyngalyades
@@ -706,19 +671,23 @@ Ruwvaneth Pow Sows
 Ruwvaneth Unys Breten Veur ha Wordhon Gledh
 Rysoghen
 S
+SKY
 SUA
 Sadorn
-San Marino
-Sans Austel
 Sanskrytek
 Sarsyn
 Scotlond
+Sen
+Sen Austel
 Serb
 Serbek
 Serbes
 Serbi
+Servis Kenedhlek an Yeghes
+Singapor
 Sisili
 Skandinavi
+Skaw an Wyrghes
 Slovak
 Slovakek
 Slovakes
@@ -740,6 +709,7 @@ Spayn
 Spaynek
 Spaynyer
 Spaynyores
+Sri Lanka
 Statys Unys
 Statys Unys Amerika
 Sudan Dyghow
@@ -753,12 +723,18 @@ Swis
 Swisalmaynek
 Swises
 Syllan
+Synt
+Synt Marino
+Synta
 Syracuse
+Syri
 T
+Tajikistan
 Tallinn
 Tanzania
 Tas Nadelik
 Taylond
+Taywan
 Tchaikovsky
 Tennessi
 Testament Koth
@@ -770,6 +746,7 @@ Tiger Eyndo-China
 Tiger Malaya
 Tiger Siberia
 Tiger Sumatera
+Timor Est
 Trevonnen
 Truru
 Trûrû
@@ -778,16 +755,21 @@ Turk
 Turkek
 Turkes
 Turki
+Turkmenistan
 U
+Ugheldiryow Alban
 Ukrayn
 Ukraynek
 Ukraynian
 Ukraynianes
+Unsys Yeghes Brys
 Unyans Europek
 Unyans Rugbi
 Uranus
+Uzbekistan
 V
 Ve
+Vietnam
 Vyena
 W
 Wella
@@ -802,6 +784,7 @@ Y
 Yedhow
 Yedhowes
 Yehovah
+Yemen
 Yestin
 Yesu
 Yesu Krist
@@ -810,6 +793,7 @@ Ynys Pask
 Ynysow Balearek
 Ynysow Cook
 Ynysow Faroe
+Yovyn
 Yow
 Ysi
 Yucatán
@@ -819,14 +803,21 @@ a
 a brenn
 a bris
 a brys ysel
+a bub sort
 a dermyn dhe dermyn
 a lies eghen
+a lies sort
 a res
 a unn eghen
 a vri
+a wra sordya
+a'gan
+a'gas
+a'gas dynergh
 a'n konna
 a'n mor
 a'n planetys
+a'th tynergh
 a'y
 a'y sav
 a-ban
@@ -843,6 +834,9 @@ a-berth yn
 a-bervedh
 a-bres
 a-brys
+a-derdro
+a-dermyn
+a-dhann
 a-dhelergh
 a-dhelergh dhe
 a-dherag
@@ -853,11 +847,14 @@ a-dhiwedhes
 a-dhyghow
 a-dhyghow dhe
 a-dhyghowbarth
+a-dhywar
+a-dreus
 a-dreus dhe
 a-drev
 a-drev dhe
 a-dro
 a-dro dhe
+a-dro dhe’n klock
 a-dryv
 a-dryv dhe
 a-dyghow
@@ -865,13 +862,20 @@ a-dyghow dhe
 a-gledh
 a-gledh dhe
 a-gledhbarth
+a-hes
+a-hys
 a-jei
 a-jei dhe
 a-ji
 a-ji dhe
 a-ji dhe our
+a-lergh
 a-les
+a-lester
+a-nowydh
 a-rag
+a-rag tus
+a-ugh
 a-ugh dhe
 a-vann
 a-ves dhe
@@ -881,6 +885,7 @@ a-wartha dhe-woles
 a-wel dhe
 a-woles
 a-woles dhe
+a/languages A to L
 abarth awoles
 abas
 abasel
@@ -897,23 +902,17 @@ abma
 abostol
 abostolek
 abrans
-abrës
-abrÿs
 abyl
 abàn
 abâtya
 acheson rag skonya
-acord
 acordya
 acowntyas
 acowntysy
 actynyum
 adamant
 addya
-ader dro
-adermyn
 adhelergh
-adhewedhes
 adhves
 adhyskans
 adhyski
@@ -922,23 +921,34 @@ adhyskoniethel
 adhyskonydh
 adhyskonydhes
 adoptya
+adoptyans
 adre
 adro dhe
 adverb
 adâl
 affirmya
 affordya
+affordyadow
+afganek
 afia
 afina
+afinus
 afodil
 afînus
 aga
+aga honan
+aga honen
+aga re
 agaA
 agan
 agan honan
+agan honen
 agan re
 agas
+agas gweles
 agas honan
+agas honen
+agas re
 agensow
 ages
 agh
@@ -947,15 +957,21 @@ agria
 ahow
 ahwer
 ahwerek
-ahës
 ahÿs
 air
 akont
-akont arghantti
+akont arghanti
 akont arghow
 akont kesres
+akontya
+akontyades
+akontyadewer
+akontyas
+akontydh
+akontydhes
 akord
 akordya
+akordya orth
 akordyans
 akordys
 akt
@@ -973,14 +989,26 @@ alebma
 alemma
 alena
 alergedh
-alergedhow
 alga
 alhwedh
+alhwedh Allen
+alhwedh know
+alhwedh korkyn
+alhwedha
+alhwedhen
+alhwedhor
+alhwedhores
 aligator
 aljebra
 alkemi
+alkoholek
+alkohologes
 alkohologeth
+allergedh
+allergedhow
+allergek
 almaynek
+alow
 als
 alsednow
 alsen
@@ -988,17 +1016,20 @@ alsennow
 alten
 aluminiom
 alusenji
-alusenjiow
 alusennow
 alwhedhow
 alwheth
 amal
 amal arghans
-amal arghans silver lining
 amal fordh
-amal fordh roadside
 amal poll
+amala
+amalek
+amalven
+amalvord
 amanyn
+amanynnya
+amari
 amari gweli
 amary
 amarys
@@ -1022,10 +1053,15 @@ amma
 amma dhe nebonan
 ammeth
 ammeth organek
+amontieth
 amontya
+amontydh
+amontyell
+amontyellow
 amowntya
 amowntyor
-amowntyoryon
+amser berfydh
+amser worberfydh
 an
 an ... na
 an Aver
@@ -1035,25 +1071,43 @@ an Hordh
 an Kanker
 an Kresvor
 an Lew
+an Lysardh
 an Parti Gwer
 an Puskes
 an Sether
 an Skorpion
 an Tarow
+an Testament Koth
+an Testament Nowydh
+an Ugheldiryow
 an Vantol
 an Wyrghes
 an awtoritas
+an dyghow a arwask, an gledh a liver
 an eyl hy ben
 an eyl wosa y gila
 an eyl y gila
+an keth ha
+an keth onan
+an keyn a-rag
 an para Oll Du
 an pyth kampollys kynsa
 an vledhen usi ow tos
 an-
 anal
+analladewder
+analladow
 anav
 andhidro
 andorrek
+anedhadewder
+anedhadow
+anedhel
+anedhi
+anedhyades
+anedhyans
+anedhyas
+anedhys
 anella
 aneller
 anfel
@@ -1063,19 +1117,38 @@ angra
 anjei
 ankarus
 ankevi
+ankombrynsi euthyk
+ankov
+ankres
+ankresya
 anlaghel
 anlettryseth
+annedh
+annedh lester
+annedh tus koth
 annown
 anterlughes
 antimoni
 antymony
+anvlasus
 anwan
 anwos
+anwosek
+anwosi
+anwosva
 apa
+arabek
 arader
+araderor
+aradow
+arager
 aral
 arbrovji
 ardh
+ardhek
+arenebedh
+arenebel
+arenep
 areth
 arethek
 arethor
@@ -1091,6 +1164,8 @@ argh dhowr
 argh lyverow
 argh vogh
 argh vona
+arghader
+arghadow
 arghans
 arghans byw
 arghans-gweres
@@ -1098,10 +1173,10 @@ arghansek
 arghanser
 arghanti
 arghantinek
-arghantti
 arghepskop
 arghpedrevan
 argon
+argya orth
 argyans
 arhans
 arlodh
@@ -1113,8 +1188,13 @@ armeniek
 arnewa
 arnewys
 arnow
+arnowydh
+arnowydhes
+arnowydhhe
 arnowydhheans
 arnowydhheansow
+arnowydhieth
+arnowydhydh
 arsenik
 arsenyk
 art
@@ -1134,17 +1214,47 @@ artikel
 artweyth
 artweythel
 arvor
+arvreus
+arvreusi
+arvreusyades
+arvreusyans
+arvreusyas
+arwodh
+arwodh gymygiethel
+arwodha
+arwodhans
+arwodhans gwir
+arwodhek
+arwodhieth
+arwodhik
+arwodhogeth
+arwodhyow
+arwostel
+arwostla
 asiek
 askal
 askalen dhybri
+askall
+askall dybri
+askall kors
+askall mogh
+askall musk
+askall pras
 askallen
+askel
 askel dro
 askel groghen
+askellek
+askeller
+askelores
 asklos
 asklosen
+asklosi
 asklotti
 asklottiow
 askorn
+askorn keyn
+askornek
 askorrans ys
 askorrus
 askrifa
@@ -1153,11 +1263,25 @@ asow
 asowen
 assa
 astatyn
+astel
 astel an oles
+astel glypp
+astel grey
+astel omborth
+astel tonnow
+astel-dreghi
 astell tonnow
 astelwolya
+astelwolyans
+astelyer
+astewis
 asvaba
+aswon
+aswonans
+aswonesik
 aswonn
+aswonvos
+aswonys
 atal mor
 aval
 aval briansen
@@ -1182,6 +1306,8 @@ avalowa
 avan
 avanen
 avel
+avel ardamm
+avel remenant
 avi
 avokado
 avon
@@ -1207,7 +1333,14 @@ awtoures
 ayr
 ayrborth
 ayrborth keswlasek
+ayrbost
 ayredh
+ayrek
+ayrel
+ayrell
+ayrella
+ayrellans
+ayren
 ayrgregi
 ayrlu
 aysel
@@ -1220,7 +1353,10 @@ bacbîtya
 badd-ober
 badh
 badhya
+bagas-gwari
 bagh
+bagh kans
+bagha
 bahamek
 bahrainek
 balyer
@@ -1237,6 +1373,7 @@ bar'
 bara
 bara byghan
 bara gwaneth
+bara leun
 bara sugal
 baramanyn
 barbakoa
@@ -1249,16 +1386,21 @@ barlysek
 barlysen
 barrlennel
 barv
+barv gaver
 barvus
 baryum
 bas
 basar
 baskek
 basket
+batalyas
+batalyas orth
+batel
 bath
 batha
 bathva
 batti
+battys ha pel
 bay
 baya
 bayros
@@ -1283,12 +1425,15 @@ bell
 ben
 benenes
 benenes efanvos
+bengorfonieth
 benolegerieth
 benow
 benyn
 benyn benndom
 benyn bries
 benyn efanvos
+benyn jentyl
+benyn meur hy hanow
 beol
 beolyow
 berkelyum
@@ -1307,10 +1452,15 @@ berylyum
 bes
 besel
 besk
-beslen
 besow
+besow Hav
+besow arghans
+besow gwlanek
 besowen
 besowen arghans
+bessel
+besslen
+best hwel
 betys
 betys hweg
 betys rudh
@@ -1319,11 +1469,13 @@ betysen
 bever
 bewa
 bewa orth
+bewa orth neppyth
 bewbodradow
 bewdhiverseth
 bewdreghyans
 bewin
 bewnans
+bewnans yn-dann alhwedh
 bewnansow du a vern
 bewskrif
 bewskrifow
@@ -1340,6 +1492,7 @@ blasa
 bledhen
 bledhen lamm
 bledhydnyow
+bledhynnyek
 bledhynnyow
 blejan
 blejen
@@ -1347,6 +1500,9 @@ blejen an vran
 blejennow
 blejyewen
 blejyow
+blesyon
+blesys da
+blesys sherp
 bleujen
 bleujen an drevas
 bleujen an gog
@@ -1373,34 +1529,46 @@ bleusa
 bleusek
 bleusyow
 blew
+blew lagas
+blewek
 blewen
 blewen lagas
 bleydh
 bleydhas
 bleydhes
+blockys drehevel
+blonegek
+blonek
 bloodh
 blou
 blydhen nowydh da
 bo
+bobba
 bocka
 bocka brini
 bocka du
-bocka gwydn
 bocka gwynn
 bocka lugarn
 bodhar
 bogan yar
 bogh
-bohow
+boghosek
+boghow
 bohryum
 boks
 boks tanbren
 boksuser
 boksusi
+bolgh
+bolgha
 bolik
 bolla
+bomm
+bommell
+bommen
 bond ledan
 bonden
+bondow gwedhyn
 bones
 bonngors
 bonngors Amerika
@@ -1413,6 +1581,7 @@ boos bestes
 boos dhe breder
 boos leth
 boos lonnow
+boos nader
 boosa
 bora
 bord
@@ -1421,6 +1590,7 @@ bord gwynn
 bordh
 bordh du
 bordh lestri
+bordh-gwiska
 bordh-hornella
 bordys
 bore
@@ -1439,6 +1609,7 @@ bos gwell gans
 bos hwansek dhe
 bos kas gans
 bos kompes gans
+bos meur a brow
 bos seghes dhe
 bos trigys
 bos trigys en argel
@@ -1446,6 +1617,9 @@ bos trigys yn argel
 bos usys dhe
 bos yn-dann gevambos
 bosa
+bosek
+bosik
+boslan
 bosniek
 bosti
 botas
@@ -1461,8 +1635,13 @@ bouben
 bowji
 bowji deves
 bownans
+bownder
 brabm
+brag
+braga
+brager
 bragji
+bragores
 bramm
 bran
 bran dre
@@ -1472,13 +1651,24 @@ bras ahwesydh
 bras an ergh
 bras an ogledh
 bras an tayga
+bras dres eghen
 bras hwib
 bras kors
 bras lowarth
 bras lyha
 bras penn du
 bras penn gwynn
+brasa
+braser
+brashe
+brasheans
+brasoberys
+brasores
+brassa
+braster
+brastereth
 brastir
+brastiryel
 brath
 bratha
 brathles
@@ -1487,14 +1677,35 @@ breder
 brederedh
 brednik
 bregh
+bregh strothys
 bregh yar
 breghel
+breghellik
+bregholek
 breghow
+breghyek
 bregys
 brenigen
 brennik
+bresel
+breselek
+breseler
+breseli
+breselores
+breselyans
+brest
 bretennek
 bretonek
+breus
+breus ughel
+breusadow
+breusel
+breusi
+breuslys
+breusyades
+breusyans
+breusyas
+breusydh
 brev
 brew
 brewell
@@ -1504,17 +1715,20 @@ brewi
 brewliv
 brewyon
 brewyonen
+brewys
 breyn
 breyna
 briallen
 brialli
+brialli lowarth
+briansen
 briel
 brini
 briny
 brith
+brithennek da
 bro
 broas
-broaz
 broder
 broder da
 brodn
@@ -1528,17 +1742,30 @@ bromin
 bromyn
 bronkitis
 bronn
+bronna
 bronnen
+bronnlen
 bronnow
 bronnvil
 bros
+bros viw
+bros vughes
+bros warthek
+brosa
+brosans
+brosek
 brosweyth
+browagh
+browaghweyth
 broweghereth
+broweghi
+broweghus
 broweghyades
 broweghyas
 brows
 browsyon
 browsyonen
+bruneiek
 bryck
 bryckweyth
 brygh
@@ -1552,11 +1779,15 @@ brykedhen
 brynk
 brynken
 brys
+brysel
+brysolieth
 brysonieth
 brysoniethel
 brysonydh
 brysonydhes
 brythonik
+bryv
+bryvya
 brâs
 bualgarow
 budh
@@ -1578,14 +1809,18 @@ buhas
 buhes
 bulgarek
 bulhorn
-bulhornes
 bulugen
 buluk
+burjeseth
 burjyses
 burm
 burmen
+burokrates
+busel
 buwgh
 byghan
+byghanhe
+byghanna
 byldya
 byrgh rudh
 bys
@@ -1603,12 +1838,13 @@ bys vykken
 bys vynari
 bys vyntha
 bys yn
-byskoen
-byskoenyow
 byskon
 byskon mes
+byskonyow
+bysow frig
 bysow skovarn
 byttegyns
+byttiwedh
 byw
 byw a'n bry
 byw an lagas
@@ -1663,15 +1899,27 @@ chi golyow
 chi gweder
 chi gwedhen
 chi gwynn
+chi ladha
 chi tiek
 chi unnik
 chi unnleur
 chi-ladha
 chi-tiek
+chilader
+chiladores
+chiladrans
+chinek
 chiow
 chogha
 choklet
 choklet tomm
+chons
+chons da
+chons vyth
+chonsieth
+chonssesyans
+chonsus
+chonsya
 chonsya dhe
 chy
 chymbla
@@ -1689,10 +1937,7 @@ comol
 convedhes
 costya
 cowan
-cowethas
-creftus
 crev
-cria
 cromyum
 cronek
 cumyas porth
@@ -1703,43 +1948,82 @@ cytas
 còst
 cùntelesow
 cùntell
-cùntelles
 cüssyn
 d
-d-block f-block p-block s-block
+da
 da lowr
 da ober
+da yw genev
+dader
 dadhel
+dadhelor
+dadhelores
+dadhelva
+dadhla
 daffar lymm
+daffar tabours
 dager
+dalghen
+dalghenna
+dalghennans
+dalghennas
+dalghennell
+dalghennus
 dalhenna
 dall
+dalla
+dalleth
+dalleth triga
+dallether
+dallethores
+dallethva
 dallhe
 dama
+dama wydn
 dama wynn
-dama-wydn
 damyow
 dan
 danek
 dans
+dans dhelergh
+dans keyn
+dans lagas
 dans lew
 dans olifans
+dans rag
+dans sugna
+dansell
 danvon
 dar
 daras
+daras goredhom
+darasik
 darasow
+daraswas
 darjow
+darlesa
+darlesa dre radyo
+darlesans
+darleverel
 darn
+darn paper
+darnas
+darnik
+daromdak
 das
+das-
 daslev
+dasleverel
 dasseni
 dasskrif
 dasskrifa
 dasson
+dastewynnya
 daswul
 dates
 datesen
 davas
+davasik
 de
 de Gwener
 de Lun
@@ -1755,6 +2039,8 @@ debrer moryon
 debri
 debry
 dedh
+dedhewys heb keweras
+dedhyas diwedh
 dedhyek
 dedhyow
 deg
@@ -1764,6 +2050,7 @@ deg ha tri ugens
 deg warn ugens
 degemeres
 degemeres a-berth
+degi
 degoodh
 degowek
 degowoges
@@ -1777,15 +2064,31 @@ dehen molys
 dehen rew
 dehen rew sondey
 dehennow
+dehwelans
 dehweles
+dehwelyans
 dek
+deklaracyon
 del
 del bleujyow
+delek
 delen
+delen vay
+delennek
 delergh
+delinya
+delinyans
+delit
+delitya
 delk
 dell dhegoodh
+delow
 delow an Frankedh
+delvrys
+delvrysek
+demedhi
+demedhyans
+demedhys
 demencya
 demo-
 demokratieth
@@ -1793,31 +2096,45 @@ demondya
 den
 den efanvos
 den ergh
+den meur y hanow
 den penndom
 den y'n bys
 dena
 denagha
+dendylys yn ta
 dengibya
 denladh
 denladha
 denladra
 denledhyades
 dens
+densek
 densel
 dentethyel
 denti
 der
+deray
 derevel
 deri
+derivador
+derivadores
+derivadow
+derivas
+derivas dhe nebonan
+derivas drolla
 derivas ledan
+derivas orth nebonan
 dernigel
 derow
 derow Armeni
+derow Japan
+derow Lebanon
 derow Makedoni
 derow Turki
 derow gwynn
 derow kesten
 derowen
+dervyn
 derwen
 desegha
 deseha
@@ -1827,11 +2144,17 @@ deski
 deskrifa
 desygha
 determya
+determyer
+determys
+deun yn-kerdh
 deuros
 deuv
 devera
 devera dagrow
+devera goos
+deverel
 deves
+devesik
 devessa
 devetti
 devis
@@ -1841,6 +2164,13 @@ devisoresow
 devisoryon
 devisya
 devisyek
+devnydh
+devnydh drehevyans
+devnydh-tardha
+devnydhya
+devnydhyer
+devnydhyores
+devnydhys
 devorya
 devos
 devosek
@@ -1862,15 +2192,25 @@ dewfrik
 dewgonna bregh
 dewheles
 dewi
+dewis
+dewis gwarioryon
+dewisadow
+dewisel
+dewisyans
 dewlagas
 dewlin
+dewreydhel
 dewros
 dewufern
 dewweder
 dewyn X
+dh'aga
+dh'agan
+dh'agas
 dha
 dhaS
 dhe
+dhe Ostrali
 dhe biw
 dhe bub le
 dhe dhorn
@@ -1878,6 +2218,11 @@ dhe hanter an fordh
 dhe les
 dhe wari
 dhe wir
+dhe'm
+dhe'm brys vy
+dhe'n diwedh
+dhe'n lyha
+dhe'th
 dhe-denewen
 dhe-dre
 dhe-hys
@@ -1891,15 +2236,26 @@ dherag dorn
 dhymm
 dhywarlinen
 dhywgh
+dhyworth
 di-
 diagnosa
+dial
 diala
+dialhwedha
 diank
+diaskellek
 diber
+diboltra
 didakla
+didhan
 didhana
 didhanedh
+didhaner
+didhanores
+didhanus
 didhemedhi
+didhemedhyans
+didhemedhys
 didro
 diegi
 diegyn
@@ -1907,25 +2263,58 @@ diek
 diekter
 dielvennel
 difen
+difen orth nebonan a wul neppyth
 difeythyow
+difun
+difuna
+difunell
 difyk an Howl
+difyk trevas
 digompes
 digomposter
 dihaval
-dilasen
+dihaval orth
 dilasva
+dilestra
 dilewys
 dilla nessa
 dillas
+dillas nessa
 dillas nos
 dillas-gwia
+dillas-neuvya
+dillas-omvadhya
+dillasen
+dillasva
+diner
+dineren
 diown
+disav
+diserri
+disevel
+diskortes
+diskudha
+diskudhans
+diskwedhes
+disputya orth
 distowgh
+diswul
 divarva
+diveri
 diw
 diw-
-diwar
+diwarr
 diwbedren
+diwbedren f du
+diwedh
+diwedha
+diwedhans
+diwedhes
+diwedhva
+diwedhyans
+diwedhyn
+diwedhys
+diwes heb las
 diwgasel
 diwgell
 diwglun
@@ -1935,6 +2324,8 @@ diwiver
 diwla
 diwotti
 diwros
+diwros dhewdhen
+diwrosa
 diwskodh
 diwskovarn
 diwvogh
@@ -1947,19 +2338,35 @@ diwweyth mar dha
 diwysyans
 diwysyk
 diwysykter
+dohajedh
+dohajydh
 dohajydh da
-dohajëdh
-dohajÿdh
 doktour
+domhwel
+domhwelans
+domhweler
+domhwelores
+domhwelus
 dooth
 dor
 dor bras
+dor hweg
 dorgi
 dorgrys
 dorn
 dorn brest
+dorna
+dornas
+dornbel
+dornel
+dornell
+dornella
+dornla
+dornlyver
 dornow
 dornskrif
+dornskrifa
+dornskrifans
 dornweyth
 dornwrys
 doronieth
@@ -1974,6 +2381,8 @@ dos nes
 dos war-bynn
 dos yn-rag
 doust
+dov
+down
 dowr
 dowr ewonek
 dowr sall
@@ -2002,28 +2411,65 @@ dowrskia
 dowrvargh
 dowrya
 draylell
+draylyer leur platt
 dre
+dre volonjedh da
+dre vras
+dre-hys
 drefen
+drehedhes
+drehedhyans
 drehevel
+drehevyans
 drehevyer forgh
+drehevys a-rag
 dren
 drenek
+dres
+dres an gwav
 dres an jydh
+dres edhom
 dres eghen
 dres mor
+dres niver
 dres oll
 dres oll an bys
 dres penn ha diwskovarn
+dreslemmel an lost
 drewydh
 dreyn
 dreys
 dreysa
 dreysen
 dri
+drivya yn-mes
 drog
+drog atti
+drog dans
+drog dres eghen
+drog gerys
 drog penn
+drog pes
+drog polat
 drog skovarn
+drog torr
+drog yw genev
+drogbrederys
+drogdybi
+drogedh
+drogfara
+drogga
+droghandla
+droglam
 drogober
+drogoberor
+drogoberores
+drogusya
+drogusyans
+drogwas
+drokoleth
+drokter
+droktra
 dry in rag
 dryftbren
 du
@@ -2043,6 +2489,7 @@ duwes
 dy'
 dy'Fenkost
 dy'Gwener
+dy'Gwener an Grows
 dy'Gwener dhe nos
 dy'Gòlowan
 dy'Halan
@@ -2064,7 +2511,6 @@ dy'gol deys
 dy'gol kemmyn
 dy'gweyth
 dy'gòl
-dy'gòl deys
 dybarth
 dybarthow
 dybedna
@@ -2082,9 +2528,13 @@ dyghow orlewin
 dyghowbarth
 dygynsete
 dyjynnow an veusva
+dyllans
+dyller
 dyllo
+dyllores
+dynargh
+dynerghi
 dynita
-dynnargh dhis
 dyowl
 dyowles
 dyskador
@@ -2092,10 +2542,9 @@ dyskadores
 dyski
 dyski dhe nebonan gul neppyth
 dyski gans
+dyskys bras
 dysprosiom
 dysprosyum
-dysqwedhes
-dyw
 dyw-
 dywvregh
 dywvron
@@ -2105,14 +2554,31 @@ dÿdh
 e
 e'n polj ma
 ebel
+ebil
 ebil elven
 ebil horn
+ebil-kelmi
+ebilya
+ebilyer
 ebron
+edhel
+edhel Amerika
+edhel Kanada
+edhel Lombardi
+edhel du
+edhel gwynn
+edhel loos
+edhel melyseth
+edhel-krena
 edhen
+edhen hwyrni
 edhen si
 edhlen
 edhnow
-edhyn
+edhom
+edhommek
+edhommow
+edhommva
 eev
 efan
 efander
@@ -2131,6 +2597,8 @@ eglosyow teg
 egor Duw
 egyna
 ekologieth
+ekologydh
+ekologydhes
 el
 eledh
 elek
@@ -2141,7 +2609,8 @@ elgeth
 eli
 eli gweus
 elin
-elinnyow
+elin pedrek
+elinyow
 elow
 elowen
 elven
@@ -2149,19 +2618,26 @@ elvennek
 elvennel
 elyn
 elyver
+emiratiek
 emlow
 en akord gen
 en kig eu kneus
 en-hons
 ena
+enebi
+enebieth
 enebow
 eneby an sewyansow
 enep
 enesek
 enesik
 enev
+eneval
+eneval dov
 enos
+ensampel
 entra dhe neb le
+entra yn neb le
 enys
 enysekter
 enyshe
@@ -2175,7 +2651,14 @@ er kov
 erba
 erbiom
 erbynn
+erbynn an fros
 erbynn an gwias
+erbynn an lagha
+erbynn kinda
+erbynn korf an lagha
+erbynn usadow
+erbynner
+erbynores
 erbys
 erbysek
 erbysi
@@ -2190,9 +2673,12 @@ eres
 ergh
 erghek
 erghen
+erghi
+erghi der an post
 erghlin
 erghslynk
 erghwyns
+erita
 erthygel
 ervin
 ervinen
@@ -2200,7 +2686,12 @@ eryon
 erys
 es
 es dhe dhevnydhya
+es dhe dhevyndhya
+es y us
+es y vovya
+es-
 esanella
+esanellans
 escar
 esedh
 esedh estrowl
@@ -2215,21 +2706,33 @@ esedhvaow
 esedhvos
 esel
 eskar
+eskarek
+eskarogeth
+eskelmi
 eskerens
 eskis
+eskis sport
+eskisyow kron
 est
 ester
 ester Europek
 estoniek
+estranj
 estren
 estrik
+estyllen
 estyllen rew
+estyllen yey
 etegves
 etek
 eth
+ethbys Japan
+ethbys Nihon
 ethen
 etholores
 ethves
+eur
+eurdal
 euro
 europek
 europiom
@@ -2237,7 +2740,17 @@ europyum
 euryador
 euryor
 euryor howl
+euth
+euthega
+euthekter
 euthvil
+euthwrians
+euthwriansek
+euthyek bras
+euthyk
+euthyk bras
+euthyk da
+euthyk tra
 ev
 eva
 evadow
@@ -2274,11 +2787,12 @@ ewon-divarva
 ewonek
 ewonen
 ewoni
-ewyn
 ewynen
 eyl
 eylen
 eylskrif
+eylskrifa
+eyndek
 eyndyum
 eynsteynyum
 eyodyn
@@ -2288,6 +2802,8 @@ eythin
 eythinen
 f
 falghun
+fall an brys
+fardellow dorn
 fasow
 fatel
 fatla genes
@@ -2302,22 +2818,36 @@ felgh
 fell
 felypinek
 fenester
+fenester slynk
 fennva
+fenogel
 fermyum
 ferr
 feryllys
 fesont
+fest bras
 feth
 fethores
 feur
+feus
+feusik
+figbren
+figbren devera
 figur byw
+figys
 figys howl
 fijiek
+filosofek
+filosofer
 filosofieth
 filosofiethow
+filosofores
 finweth tooth
+fion
 fionen
+flamm nowydh
 flammgos an howl
+flammgos an ke
 fleghes
 flogh
 flogh besydh
@@ -2333,20 +2863,30 @@ floghgoviores
 flogholeth
 floghva
 floghwith
+floren
+florennik
 flour
 flouren
+flourydh
 flourys
 flownen
 flowr
-flowren
 flows
 fluorin
 fluryn
 folji
+fols
 fols rew
+fols yey
+folsa
+folsa blew
+folsans
+folsans nuklerek
 fon
 fon kodnyk
 fon konnyk
+fong
+fongalgi
 fonya
 for
 fordh
@@ -2367,6 +2907,8 @@ forghyes
 forgi
 forn
 forn gorrdon
+forna
+fornya
 forsakys
 forsâkya
 fos
@@ -2379,12 +2921,19 @@ fowt fordh aral
 frankyum
 fras
 frenkek
+freth
+frethter
+freudh
+freudha
+freudhek
+freudhi
 fria
 frig
 frigow
 frooth
 frosa
 frothen
+frothus
 frut
 frutys
 frynkek
@@ -2395,10 +2944,15 @@ frûtwÿdh
 frûtys
 fug
 fug-
+fugewin del helyk
+fugewin ploumen
+fugewin ploumen Chile
 fugh
+fugieth
 fugya
 fugya an akontys
 fugyow
+fur
 furv
 furvas
 furvasa
@@ -2413,6 +2967,7 @@ furvyer
 furvyores
 fyll
 fyllel dhe
+fyllel gweles
 fylm
 fynnek
 fâss
@@ -2423,26 +2978,44 @@ gadolynyum
 gador
 galaksi
 gales
+galladewder
+galladow
 galliom
 gallos
+gallos hembronk
+gallosedh
+gallosegi
 gallosek
+galow
 galow a-bell
+galow kroglen
+galwen
 galweyth
 galyum
 ganow
+ganowas
 ganowek
 ganowow
 gans
 gans flogh
+gans ganow
+gans meur a gris
+gans pub bolonjedh da
 gans tan
 garan
 garanes
 garek
 garlont
+garm vresel
+garma yn lowen
+garow
 garr
 garrow
+garrvagas karrek
+garth
+garth an dre
 garth yer
-gas
+garth-gwari
 gasa spas dhe
 gast
 gava dhe nebonan
@@ -2455,9 +3028,16 @@ gell kesten
 gellburpur
 gellrudh
 gellvelyn
+gelvin
+gelvin garan del derow
+gelvinek
 gelwel
+gelwel dhe'n brys
 gemweyth
 gen
+genn
+genna
+genys orth
 ger
 ger alhwedh
 ger da
@@ -2465,6 +3045,7 @@ ger kesstyr
 ger mell
 ger rag ger
 ger tremena
+ger-tremena
 gerda
 gerdhal
 gerdhelni
@@ -2477,17 +3058,21 @@ gerva
 gerya
 geryel
 geryow
+gerys-da
 gesewgh ni dhe weles
 geus
 gevel vyghan
+gevelji
 gevell
 gevelles
 gew
 gi
 gigabayt
 gigabaytys
-gis skrifa
+gis-skrifa
+giskypres China
 gitar
+gitar faborden
 gitar tredanek
 glan
 glanhe
@@ -2497,6 +3082,8 @@ glasdu
 glasik
 glasneth
 glasrudh
+glastan del kors Eynda
+glastan kelyn
 glaswer
 glaswyn
 glaswyrdh
@@ -2508,6 +3095,7 @@ glawlen
 gleb
 glebor
 glebya
+glena orth
 glin
 glinyow
 gloos
@@ -2516,7 +3104,11 @@ glowbren
 glowbrenn
 glowor
 glowva
+glus
+glus gwedhyn
 glusa
+glusek
+gluswydh
 gluswydh ergh
 gluthvelhwen
 glyb
@@ -2534,38 +3126,53 @@ go jy
 go ni
 go vy
 gober ispoyntel
+gober tew
 gobrener
 gobrenores
+gobrys da
 gocki
 godh
 godhalek
 godhan
+godhan kathik
+godhan klopen
+godhan pys
 godhanes
 godhik
 godhvos
 godhvos a
 godhvos gras a
-goelann
+godra
+godrer
+godriger yeghes
 goes
 goffos
 goghi
+goghien
 gogledh
 gogledh borlowen
 gogledh dhuryen
 gogledh orlewin
 gogow
+goheles
+gohelfordh
+gohelus
 gohien
 gohydh
 gokki
 gol
+gol aslam
 golan
 golans
 goldheys
+golegi
 goles
 golgh
+golgh ganow
 golghas
 golghi
 golghi an lestri
+golghin leur
 golghlin
 golghlin gweder
 golghti
@@ -2574,6 +3181,11 @@ golghva gerri
 golghyon
 golhi
 goli byw
+gologva
+golok
+golok aperys
+golok war-dhelergh
+golokwedrow
 golow
 golow dydh
 golowji
@@ -2594,6 +3206,8 @@ golvanek penn du
 golvanek penn gwynn
 golvanek rudhek
 golyow
+gommon
+gomonna
 gonador
 gonis
 gonis bewin
@@ -2610,19 +3224,28 @@ goos (SWF)
 gor-
 gora
 gorbryvylejek
-gordevys
 gordhristrui
 gordhuwher
+goredhom
 goredhom hin
+gorfen
+gorfenna
 gorhel
 gorhel efander
 gorhel tan
+gorhemynadow a'n gwella
+gorher
+gorheri
+gorlanwes
 gorlesans trevel
 gorlewin
 gorlewin lethes
 gorlewin steren
+gorlost
 gorm
 gormel
+gormola
+gormoledhek
 gorra
 gorra a-bervedh
 gorra a-denewen
@@ -2642,6 +3265,8 @@ gorra yn geryow
 gorra yn-mes
 gorra yn-rag
 gorrans
+gorsav
+gorsavla
 gorsedh
 gorth-
 gorthebi
@@ -2653,13 +3278,30 @@ gorthugher da
 gorthvater
 gorthyp
 gortos
+gortos barnans
+gortosva
+gorvarghas
 gorvarhas
 gorvodrep
+gorvryjyon
+gorwedha
+gorwedhva
+gorwel
+gorwelyek
+gorwul
+gorwydh China
 gosek
+goslowes orth
 gosow
+gosper
 gossen
 gossenek
 gosseni
+gostel
+gostel tir
+gostla
+gostla bell
+gostla neppyth a
 gothek
 goumman
 gour
@@ -2671,15 +3313,23 @@ gourel
 gourti
 gourvleydh
 gourvleydhes
-gourvlyth
 govenek
 gover
 gover gweyth
 govyn
+govyn orth nebonan
+govynador
+govynadow
 govynnek
+govynnus
+govynuster
+govynva
 gow
+gow diveth
+gowdhan
 gowek
 gowl
+gowleverel
 gowlwerth
 gowlys
 gowoges
@@ -2718,6 +3368,10 @@ grows
 growsen
 growsvos
 grug
+grug an krestir
+grug krowsdhel
+grug spernek
+grugros
 grugyar
 grugyar dhu
 grugyar rudh
@@ -2726,64 +3380,165 @@ grugyerik loos
 grugyerik rudh
 grugys diogeledh
 grugys esedh
+gruktir
 gryll
+gryll drenek
+gryll du
+gryll ervys
+gryllya
 gul
+gul amendys
+gul aswon
 gul bismer dhe
+gul bos unverhes
+gul devnydh a
+gul devnydh da a
 gul dhe glamdera
 gul dhe nebonan gul neppyth
+gul disooth
+gul dysmygriv
+gul feyth
+gul ges
+gul ges a
 gul glaw
+gul gora
 gul hwel
 gul kamm erbynn
 gul keser
+gul lost
+gul maystri war
+gul mencyon a
+gul mowa
+gul pratt
+gul prov
+gul restorita
 gul revrons dhe
+gul sugen
+gul tonnek
+gul torr
+gul tronkys
+gul vri a
+gul war-lergh
 gun
 guw
+guwbren del tew
+guwbren tew
 gwag
+gwag ayr
+gwaga
+gwagen
+gwagla
+gwagva
+gwagvedh
+gwakhe
+gwan
+gwana
 gwaneth
 gwaneth barvus
 gwaneth du
 gwanethek
 gwanettir
+gwann
+gwann y golon
+gwanna
+gwannhe
+gwannliwek
+gwara
 gwara boos
 gwaraji
+gwarak
+gwareger
+gwaregieth
 gwaregores
 gwari
+gwari bord
+gwari dall
+gwari diwedh
+gwari fals
+gwari gwydhyow
+gwari ilow
 gwari kan
+gwari kartennow
 gwari mildam
+gwari pelyow
+gwari rann
+gwari sagh
+gwari sebon
+gwari speda
+gwari war eryow
 gwariell
+gwarier
+gwariji
+gwariores
+gwariva
 gwarthek
 gwas
+gwas hwel
+gwas ti
+gwask
+gwaska
+gwaska yn-mes
+gwaskans
+gwaskedh
+gwaskell
+gwastas
 gwastel
 gwav
 gwavek
+gwavi
+gwavos
 gwaynten
+gwaytyans
+gwaytyas
+gwayv ow golok
 gweder
 gweder-mires
 gwedh
 gwedh krabbys
 gwedh lymmaval
 gwedh owraval
+gwedhan
 gwedhan jiraff
 gwedhanes jiraff
 gwedhen
 gwedhen Nadelik
 gwedhen grappys
 gwedhen krabbys
+gwedhra
+gwedhrys
+gwedhyn
+gwedhynder
 gwedren
 gwegbys
 gwegbys an ke
+gwegbys an koos
+gwegbys an park
+gwegbys blewek
+gwegbys melyn
+gwegbys mool
+gwegbys tosek
 gwel
 gwel barlys
+gwel golf
 gwel heydh
 gwel kala
+gweladewder
+gweladow
 gwelednik
 gwelen
 gwelen frynkek
 gwelen gala
+gwelen garr
+gwelen goton
 gwelen hus
+gwelen ski
+gwelen-byskessa
 gwelenigow
 gwelennik
+gwelennik dhybri
 gweles
+gwelesek
+gwelesigeth
 gweli
 gweli baban
 gweli bynk
@@ -2794,11 +3549,22 @@ gwelivedh
 gwelivedhes
 gwelivos
 gwell
+gwell ages
+gwell es
+gwella
 gwellhe
+gwellheans
 gwels
+gwels du
+gwels lost lowarn
 gwelsdebrer
+gwelsek
 gwelsen
+gwelsigow
+gwelsladher
 gwelsow deves
+gwelswydh Johnson
+gwelva
 gwelydni kala
 gwelynni kala
 gwen
@@ -2810,6 +3576,7 @@ gwenenen
 gwenenen sia
 gwenenva
 gwennel
+gwennel dhu
 gwenton
 gwenyn
 gwenyna
@@ -2817,6 +3584,14 @@ gwer
 gwerdhu
 gwerem
 gweres
+gweres feyth
+gweres gonedhes
+gweres jarnek
+gweres kalghek gorm
+gweres nebonan ow kul neppyth
+gweresek
+gwereser
+gweresores
 gwerinieth
 gwerinor
 gwerinores
@@ -2826,19 +3601,37 @@ gwern
 gwern loos
 gwernen
 gwerth
+gwerth tramor
 gwertha
+gwerthas
 gwerther
+gwerther jornalys
 gwerther leth
 gwerther losow
 gwerthji
+gwerthores
 gwerthores losow
+gwerthyswydh
+gwerwels
 gwerwyn
 gweryn leth
+gweskel
+gweskel fronn
+gweskel tabour
+gwesper
 gweth
-gwetha
+gwethafor
+gwethafores
+gwethaforieth
+gwethegi
+gwethhe
+gwethheans
+gwettha
 gweus
 gweusyow
-gwevelji
+gwevya
+gwevya farwell
+gwevyans
 gwewen
 gwewennow
 gweyth
@@ -2865,34 +3658,105 @@ gwiasvaow
 gwiasvester
 gwiasvestres
 gwibes
+gwibes pys
 gwibesen
+gwibessa
 gwig
+gwigh
+gwigh du
+gwigh gwynn
+gwigh karrek
+gwigh kath
+gwigh kawgh ki
+gwigh ki
+gwigh konk
+gwigh loos
+gwigh margh
+gwigh melyn
+gwigh treth
 gwihal
 gwin
 gwin gwynn
 gwin rudh
 gwin skaw
+gwin tewyn
 gwinbren
+gwinlan
+gwinwask
+gwinwel
+gwinwel Kappadoka
 gwinwel Norgagh
+gwinwel arghansedh
+gwinwel del onn
+gwinwel gwragh
+gwinwel gwythien rudh
+gwinwel keltek
+gwinwel leuvedh
+gwinwel loos
+gwinwel onennedh
+gwinwel rudh
+gwinwel sugra
+gwinyer
 gwir
 gwir-brintya
+gwir-peski
 gwir-pryntya
+gwirbryntya
 gwirbryntyans
+gwirhaval
+gwirhe
+gwirhevelepter
+gwirvos
+gwirvosek
+gwirya
+gwiryon
+gwiryow kemmyn
+gwis
+gwisk
 gwisk horn
+gwiska
+gwiskas
+gwisklen
 gwiskti
+gwiskva
+gwitha
+gwitha klevyon
+gwitha kovskrif
+gwitha rag
+gwitha war
+gwithans
+gwither
+gwithores
+gwithyades
+gwithyades kres
 gwithyades wol
+gwithyas
+gwithyas bewnans
+gwithyas diogeledh
 gwithyas gol
 gwithyas kres
+gwithyas milva
+gwithyas-sawya
 gwiver
+gwiver densek
 gwivren
-gwivrow
+gwivrennow
 gwiw
+gwiwder
 gwiwer
 gwlan
 gwlan koton
 gwlana
 gwlanek
-gwlascor
+gwlas
+gwlasek
+gwlaskar
+gwlaskarer
+gwlaskarores
+gwlaskerensa
+gwlaskor
+gwledh
+gwra kerensa na vresel
 gwragh
 gwragh oles
 gwrannen
@@ -2902,28 +3766,62 @@ gwregek
 gwregel
 gwrek
 gwreydh
+gwreydhek
 gwreydhen
+gwreydhen bedrek
+gwreydhyel
+gwreydhyoleth
 gwrians
 gwruthyl
+gwrynnya
+gwrys
 gwrys y'n chi
 gwrys yn China
 gwrys yn Japan
 gwrys yn Nihon
+gwrys yn ta
+gwrysa
+gwrysegans
+gwrysek
 gwul
 gwydh
+gwydh Magnol padellik
+gwydh Nadelik
+gwydh Yudas
+gwydh a nev
+gwydh banana
+gwydh bulhorn del lowr
+gwydh gwernis
+gwydh katsura
+gwydh kleghergh
+gwydh kloutwyn
+gwydh knowaskellen an Kaukasos
 gwydh krabbys
 gwydh lymmaval
+gwydh magnol
+gwydh manek lowarn
 gwydh owraval
+gwydh owraval hweg
+gwydh pennaskel
+gwydh rudh
+gwydh sevi
+gwydh tulyfant
 gwydhbol
+gwydhek
 gwydhen know
+gwydhlan
 gwydhvos
 gwydhvosen
+gwydhyel
 gwydhyow
 gwydn
+gwyg
 gwylgos
+gwyls
 gwyn
 gwynn
 gwynn oy
+gwynnek bras
 gwynnow
 gwynnrudh
 gwynnvys
@@ -2935,6 +3833,7 @@ gwynsell
 gwynsella
 gwyrdh
 gwythi
+gwythiek
 gwythien
 gwythien a'n konna
 gwâv
@@ -2943,7 +3842,6 @@ gwÿdh
 gy
 gà
 gòdhan
-gòldheys
 h
 ha
 ha'n
@@ -2968,14 +3866,20 @@ hanaf
 hanaf te
 hanafas
 hanafas a de
+hanas
+hanasa
 hanath
 hanow
 hanow fug
 hanow gwan
+hanow gwann
+hanow gwari
 hanow kynsa
 hanow teylu
 hansel
+hansela
 hanselyow
+hansli
 hanter
 hanter mis
 hanter nos
@@ -2999,6 +3903,7 @@ hasen
 hasennow
 hassyum
 hatt
+hatt bowler
 hatt howl
 hav
 haval
@@ -3007,31 +3912,102 @@ havek
 havi
 heb
 heb ahwer
+heb diwedh
+heb gluten
 heb godhvos
+heb gul gik na mik
+heb gul son
+heb hedhi
+heb hwel
 heb kost
 heb kynsa
+heb meur a vri
 heb res
 heb toll
 heb toll na gil
+heb towl
 heb wow
 hebtu
+hedh
+hedhadow
+hedhas
+hedhel
+hedhes
+hedheuryer
 hedhi
+hedhlor
+hedhyans
 hedhyw
 hegar dhe geun
 hegar dhe redyoryon
 hegol
 hegoledh
 hei
+hel
+hel an dre
+hel sport
+hel-godra
+helgh
+helghi
+helghor
+helghores
+helghya
+helghya yn-mes
+helghyades
+helghyas
+helgi
 helgik
+helgya yn-mes
 heliom
 hell
 helygen
+helygles
 helyk
+helyk Apua
+helyk Bedford
+helyk Lagger
+helyk Lappdir
 helyk Ostri
 helyk Pow Swis
+helyk an Alpow
+helyk an Pyrenyow
+helyk an aver
+helyk an avon
+helyk an gwylvos
+helyk an kors
+helyk an menydh
+helyk andhevri
+helyk arghansek an tewynn
+helyk arktek
+helyk byghan
+helyk del te
+helyk du
 helyk frynkek
+helyk glas
+helyk glasdhelek
+helyk guwdhel
+helyk gwel
+helyk gwlanek
 helyk gwynn
+helyk gwyrdhlas
+helyk hirdhel
+helyk hweg
+helyk krack
 helyk loos
+helyk loswynn
+helyk lusdel
+helyk mool
+helyk olewdhel
+helyk owrek
+helyk pali
+helyk purpur
+helyk roosek
+helyk rudhlas
+helyk soghdhel
+helyk tewl
+helyk-devera
+helyk-devera owrek
+helyk-kramya
 helyum
 hemm
 hemma
@@ -3044,11 +4020,13 @@ henn yw dhe styrya
 henna
 henwel
 henwyn
-hep
 hepkerenjedhek
 heptu
 her
+herdhell
 herdhya
+herdhyans
+herdhys war-barth
 hern
 hern gwydn
 hern gwynn
@@ -3057,6 +4035,7 @@ hernen wydn
 hernen wynn
 herwydh
 herwydh an dhargan
+herwydh an eur
 herwydh an gis
 herwydh an lagha
 herwydh an lytheren
@@ -3065,7 +4044,19 @@ herwydh lojyk
 herwydh reson
 herwydh usadow
 hesk
+hesk an tewes
+hesken
+hesken denon
+hesken dreus
+hesken dro
+hesken gadon
+hesken hack
 hesken hogh
+hesken jygg
+hesken vond
+hesken warak
+hesken-skwardya
+heskenna
 hevlena
 hevleni
 hewl kiger
@@ -3084,6 +4075,9 @@ hilgaswas
 hilgaswesyon
 hilyow
 hin
+hinek
+hir
+hirbellder
 hireth
 hobba
 hogan
@@ -3096,9 +4090,14 @@ hogh
 hogh Gyni
 hoghes
 hohes
+hok karyn
 holan
+holanek
+holanen
+holanles
 holmiom
 holmyum
+holya
 homm
 homma
 honen
@@ -3133,28 +4132,51 @@ howlyek
 howlys
 hujes
 hungarek
+huni
 hunya
 hus
+hwann
+hwans
+hwansa
+hwansek
+hwarth
 hwarthus
+hwarthuster
 hwedhan jiraff
+hwedhel
+hwedhla
+hwedhlans
+hwedhlek
+hwedhlor
+hwedhlores
 hweg
 hwegednow
 hwegennow
 hweger
 hwegh
+hweghmis
 hweghves
+hwegoll
 hwegron
 hwegyn
 hwegys
 hwegysen
+hwekhe
 hwel
+hwel kiger
 hwel ober
+hwel tiek
+hwelbark
+hweldreylya
+hweldro
 hwelji
 hwenen
 hwenn
 hwennen
 hwerow
 hwerowder
+hwerthin
+hwerthvil
 hwesker
 hweskeren
 hwetegves
@@ -3163,30 +4185,46 @@ hwethanjow
 hwethans
 hwi
 hwiasva
+hwiban
 hwibana
+hwibanans
 hwibanhos
 hwibanhos Amerika
+hwibanowl
 hwibon
+hwil
 hwil bleus bleujen
 hwil du
+hwil gemm
+hwil hirgorn
+hwil hwannen betys
+hwil hwynn
+hwil knia
 hwil tan
+hwilas
+hwilen
 hwiler hyns
+hwilgogh
+hwiogen
 hwiski
 hwiskiow
 hwithrans wosa mernans
 hwor
 hwyhwi
+hwyja
 hwypp
 hwyppya
 hwyppys
 hwyrnores
 hwys
 hwystra
+hwystren
 hwyth
 hwytha
 hwythans
 hwythansow
 hwythell
+hwythys
 hy
 hy ben
 hyA
@@ -3197,9 +4235,12 @@ hyns horn
 hyns-tira
 hyr
 hyrlîan
+hys
+hys-ha-hys
 hâv
 i
 idhyow
+idhyow dor
 idhyowen
 ikon
 ikonek
@@ -3209,27 +4250,34 @@ ilewydhes
 ilewydhesow
 ilewydhyon
 ilow
-in gwetha prës
-in gwetha prÿs
 indella
 indelma
 indelna
 indigo
 indiom
+indonesek
 inwedh
 iodin
+irakek
+iranek
 iridiom
 iris
+is-
 isbrastir
+isel
 iseldiryek
+iselgarbon
 iskarg
 iskarga
+islinenna
 islinya
 isotop
 isotopek
 isotopow
 isrudh
+isskrif
 isskrifik
+istitel
 istitla
 italek
 iwerdhonek
@@ -3237,16 +4285,23 @@ j
 jagwar
 jakka y'n gist
 jangal
+japanek
 jei
+jerkyn strooth
 ji
 jiraff
 jiraffes
+jordanek
 jorjiek
 jorna
 jowl
+jowl-lemmel
 jowles
 juj
+junya
 junya dhe
+junya orth
+junyans
 jy
 jydh
 jyn
@@ -3272,23 +4327,37 @@ jynn skeusen
 jynn tan
 jynn tenna
 jynn tokyn
+jynn trevas
 jynn ys popp
 jynn yskyn
 jynn-amontya
+jynn-godra
 jynn-golghi
+jynn-kuntel
+jynn-mysi
+jynn-palas
 jynn-plansa patatys
+jynn-skrifa
+jynn-tenna
+jynn-tewlel
+jynn-tomma
 jynner
 jynnji
 jynnow
-jynnow amontya
+jynnow-amontya
 jynnskrifa
 jynnweythor
 jynnys
-jynnys amontya
+jynnys-amontya
 jëdh
 jÿdh
 k
+kabester
+kabestran
+kabestranik
 kabmdhavas
+kachya
+kachyans
 kadmiom
 kadon
 kadon baper
@@ -3299,6 +4368,9 @@ kagha
 kaken
 kal
 kala
+kala godroth
+kala gweli
+kala hweg
 kalavednow
 kalaven
 kalaven-eva
@@ -3310,6 +4382,7 @@ kalester
 kaletter
 kaletter-dyski
 kalgh
+kambodiek
 kamera
 kamfor
 kamm
@@ -3343,12 +4416,23 @@ kammweyth
 kammwonis
 kammwrians
 kammwul
+kampolla
+kampollans
+kampollys
 kan
 kan werin
+kan-gulyek
+kana
+kanasa
+kanasedh
+kanasedhi
+kanaseth
+kanatti
 kanel
 kanel bellwolok
 kanel wredhen
 kanelen
+kanellen
 kangarou
 kanker
 kanker awel
@@ -3364,24 +4448,39 @@ kanker pebren
 kanker treth
 kann
 kanna leth
+kannas
 kanndir
 kanou
+kanoua
 kans
 kanstel
 kanstel ros
+kanstros
 kantol
 kantolbren
 kantolbrennyer
 kantolyow
 kanyon
+kapel-ystyn
 kappa rew
+kappa yey
 kara
+karadewder
+karadow
+karbohydrat
 karbon
+karbon dioksid
 kardamon
 karetys
 karetysen
+karghar
 karghar prenn
+karghara
+kargharans
 karigell
+karn
+karn kollan
+karnedh
 karolli
 karow
 karow dowr
@@ -3398,22 +4497,49 @@ karr slynk
 karr stret
 karr tan
 karrek
+karrek vols
 karrji
 karrostel
+karten
+karten benn-bloodh
+karten bost
+karten gresys
 karten rudh
+karten velyn
+karten vona
+karten vudhek
+karya
 karyans
+karyans poblek
 karyn
 kas
+kas a gethreydh
+kas a venynreydh
+kasa
+kasadewder
+kasadow
+kasegor
 kasek
 kasek koos
 kasel
 kaselyow
 kashew
 kasiterit
+kaskyrgh
+kaskyrgher
+kaskyrghes
+kaskyrghores
+kasor
+kasorek
+kasores
+kasserol
 kastel
 kastel tewes
 kastiga
 kastik
+kasvargh
+kasworhel
+katarek
 kath
 kath vlewek
 kathek
@@ -3424,14 +4550,21 @@ kavajys
 kavos
 kavos chons dhe
 kawdarn
+kawgh
+kawgha
+kawghbib
 kawn
 kay
+kay gwara
 kayak
+kazakstanek
 ke
 keas
+keas mes
 kedhow
 kedhow gwel
 keek
+kegi
 kegin
 kegina
 keginer
@@ -3439,47 +4572,111 @@ keginieth
 keginores
 keginow
 kegis
+kegis an vugh
 kegis hweg
+kegis persilik
 kegisen
 kegisen hweg
+kegiswydh an menydh
 kehaval
 keher
+keherek
 keheren
+kehys
 kei
+kel
+keles
+keles ha kavos
 kelester
 kell
 kellgowser
 kelli
+kelli liw
+kellik
 kellow
+kellyn
 kellyow
+kelmi
+kelmys
 kelorn
 kelorn-godra
 kelskrifonieth
 keltek
 kelyn
+kelyn Highclere
+kelyn Mordir Nowydh
+kelyn byghan
+kelyn mor melyn
 kelynnen
 kelynnen vyghan
 kelyon
+kelyon frooth
+kelyon fryt
 kelyon garan
+kelyon gwenenen
+kelyon has fav
+kelyon has gwaneth
+kelyon karetys
 kelyon kig
 kelyon margh
+kelyon onyon
+kelyon prenn
+kelyon-bargesi
 kelyonen
 kelyonen aran
 kelyonen gig
 kelyonen vargh
 kembrek
 kemeradow
+kemeres
+kemeres X a Y
+kemeres euth
+kemeres merci a
+kemeres meth
+kemeres own rag
+kemeres rann
+kemeres sham a
+kemeres sorr
+kemeres tristys
+kemeres truedh a
+kemeres truedh war
+kemeres with
+kemeryans
+kemerydh
 kemmyn
+kemmysk
+kemmyska
+kempen
+kempenna
+kempenner
+kempenores
 kemper
 kemynskrif
+kemyska
+kemyskans
+kemyskedh
+kemyskell
+kemysker
+kemyskreydh
+kemyskwydh sim
+kemyskys
+ken dewis
 kenderow
+kenedhel
+kenedhlegi
 kenedhlegieth
+kenedhlegys
 kenedhlek
-kenes
+kenedhloger
+kenedhlogeth
+kenedhlogores
 kenesen
 keninen
+kenis
 keniterow
 kenn
+kenn dens
+kenn lynn
 kennek
 kennen
 kennin
@@ -3491,29 +4688,69 @@ kensa
 kenskrif
 kensskrif
 kenter
+kentra
+kentrik
+kenwostel
+kenwostla
 kenyver
 kenyver den
 kenyver onen
+kepar
+kepar dell
+kepar dell via
+kepar ha
 ker
+kerdh
+kerdher
+kerdher lovan
 kerdhes
+kerdhores
+kerdhores lovan
+kerdhva
+kerdhynedhores
 keredhi
 kerens wynn
 kerensa
+kerensedhek
+kerensedhus
 keres
 keresen
 keresik
 kereswydh
+kereswydh Fuji
+kereswydh Japan
+kereswydh Manchuri
+kereswydh Pennsylvani
+kereswydh Sargent
+kereswydh an tewyn
+kereswydh du
+kereswydh edhen
+kereswydh kelyndhel
+kereswydh mahaleb
+kereswydh melys
+kereswydh ploumen
+kereswydh trenk
+kereswydh-taga
 kergh
 kergh gwyls
 kergh gwyls an gwav
 kerghek
+kerghes
 kerghwels hesk
 kerghwels koog
 kerghydh
+kerghyn
+kerghynedhel
+kerghynedher
+kerghynna
+kerghynnedh
+kerr pell lewys
+kerr resek
 kerrik
 kerrik flogh
 kert leth
 kert ojyen
+kert-kuntel
 kervya
 keryum
 kes-
@@ -3529,6 +4766,9 @@ kesflogh
 kesfurvya
 kesfurvyans
 kesfurvyas
+keskelmi
+keskelmi orth
+keskolon
 keskorra
 keskorrans
 keskows
@@ -3537,50 +4777,87 @@ keskreuni
 keslowena
 keslowenhe
 kespos
+kespos arghanti
 kespos arghantti
 kesrosweyth
 kesskrifa
 kesskrifer
 kessonen
 kessonennel
+kesstrif-tenna
 kessydhya
 kessydhyans
 kesten
 kesten owr
 kestenen
+kestevyn
+kesunyans lavur
+kesva
 kesyewa
 keth
+kethes
+kethhe
+kethi
+kethneth
 kethreydhel
+kethseth
+kettep huni
 keun
 keunegednow
 keunegen
 keunegennow
 keunegi
+keunek
 keunys
 keunysen
+keunyssa
 keus
+keus dyghtys
+keus lefans
+keuspren Japan
+keuspren Nihon
+keuswask
+kev-
 kevarwodhores
 kevelek
 kevnis
 kevnisen
 kevradh chanj
 kevradh toll
+kevren
+kevren ragvreghel
+kevrenna
+kevrennek
+kevrenoges
 kevyl
 kew yer
+kewar
 kewargh
-kewarhen
+kewarghen
 kewer
 kewer vas
+kewera
+keweras
 kewerder
 keweronieth
 keweroniethel
+kewni
+kewniek
+keworra
+keworrans
 kewsel
+kewsel a-dreus
+kewsel orth
+kewsel yn kler
+kewsel yn tiblans
+kewsel yn tiskler
 keyn
 keynres
 keynvor
 ki
 ki bleydh
 ki deves
+kibya
 kig
 kig bewin
 kig bowin
@@ -3604,8 +4881,27 @@ kigyow
 kigyow dens
 kil
 kila
+kilans
+kilden
+kildenna
+kildennans
+kildhans
+kildreylya
+kildro
+kilfia
+kilfos
+kilgegin
+kilgi
+kilgieth
 kilokalori
 kilokaloris
+kilslynkya
+kilva
+kilwagren
+kilweyhta
+kilwrians
+kinnyow
+kinyewel
 kiogh
 kist
 kist lytherow
@@ -3616,22 +4912,49 @@ kisten liwyow
 kisten ynk
 klapkodh
 klapkodh gonnyk
+klav
 klav dre gerensa
+klav dre kerensa
 klavji
+klavji brys
 kledh
 kledha
+kledha kromm
 kledhbarth
 kledhek
 kledher
+kledhren
 kledhya
 kleghergh
 kleghi
 kleghik
 kleghti
+kler
+klethra Japan
+klethra Nihon
+kleudh
+kleudhik
+kleudhya
+kleudhyans atal
+kleudhyer
 kleves Alzheimer
+kleves bras
+kleves bugh vuskok
 kleves kogh
 kleves melyn
 kleves melys
+kleves ympynnyon spongek an bughes
+klew
+klew agan lev
+klew aperys
+klewans
+klewell
+klewes
+klewes a
+klewes gans
+klewes-gweles
+klewwelyek
+klewys
 klin
 kloa'ji
 klock
@@ -3645,20 +4968,24 @@ klogh bugh
 klogh meur
 kloos
 kloos yer
+kloos-segha
 klopen
+klor
 klorin
 klos kowel
+klosresek
 klosya
 klun
 klunyow
 klyji
-klyjienn
+klyjien
 klys
+klysa
 knew
 knivil
 knofen
 knofen Frenk
-knofen dor
+knofen dhor
 knoukyer
 know
 know Brasil
@@ -3681,26 +5008,42 @@ kobmol
 kobrek
 kocha
 kocha debri
-kocha dybri
+kocha kemmyn
+kocha-dybri
 kochow debri
-kochow dybri
 kochys
+kochys-dybri
 kock
 kod post
 kodh
 kodh efander
 kodh ergh
 kodh glaw
+kodha
+kodha dhelergh
+kodha klav
+kodha yn edrek
+kodha yn kendon
+kodhans
+kodran kroghen
 kofen gig
 kofer horn
 koffi
 koffiji
+kog
+koges
+kogforn
 kogh
 kok
 kokayn
+koklys
 kol
+kola orth nebonan
 kolebron
 kolen
+kolennen
+kolgh
+kolji
 koll
 koll Turki
 koll frynkek
@@ -3709,15 +5052,23 @@ kollell
 kollell bleg
 kollell lesa
 kollen
+kollenwel
+kollenwel an tank
 kollverk
 kollverkys
 kolm
+kolm an askorn
 kolm konna
+kolmek
+kolmen
 kolodhyon
 kolodhyonen
 kolom
 kolom goos
 kolon
+kolonekter
+kolonna
+kolonwythiek
 koloren
 kolorennow
 kolpon
@@ -3735,6 +5086,8 @@ komolen sugra
 kompes
 kompesell
 komptyer
+kon
+kona
 konaow
 konaow bregh
 kondom
@@ -3744,16 +5097,27 @@ konna
 konna bregh
 konna gwynn
 konna tir
+konoteaster del byghan
 kons
 konsel
 konstrina
+konteth
 kontrari dhe
+kontron
 kontronen
+konvedhes
+koog
 kool
 koos
 koos-kennin
 kor
+kora
 korden
+korea Dhyghow
+korea Gledh
+koreek
+koreek dyghow
+koreek kledh
 korel
 korel gwynn
 korel melyn
@@ -3764,25 +5128,39 @@ korf
 korf lagha
 korf-hwithra
 korflan
+korfleski
 korfliw
 korfloskans
 korforeth
 korforeth lieskenedhlek
 koriander
 korn
+korn-kewsel
 korrdon
 korrgesten
+korrik lowarth
 korrvorvil ewn
 korrvorvil kor
+kors
+kors Eynda
 kors-dyski
+korsen
+korsen dredanek
 korset
 korsettys
 kortes
+korwydh an keres
+korynt
 korynt du
+kosel
 kosfinel
 kosin
 kosk
 koska
+koska yn harow
+koskader
+koskkerdhes
+koskti
 kosmek
 kosmetek
 kosmonieth
@@ -3790,6 +5168,7 @@ kosmos
 kosovek
 kost
 kostow
+kostow arghanti
 kostow arghantti
 kostow mentons
 koswik
@@ -3800,8 +5179,14 @@ kota glaw
 koth
 kothhe
 kothman
+kothni
+kothses
 koton
+kott
 kottha
+kotthe
+kottheans
+kotthes
 koukou
 kovskrifa
 kovskrifva
@@ -3823,6 +5208,8 @@ kowas
 kowas niwl
 kowas wyns
 kowasek
+kowbal
+kowbalhyns
 kowel
 kowel gwenen
 kowel kankres
@@ -3834,8 +5221,10 @@ kowella
 kowesi
 koweth
 kowethas
+kowethas yowynkneth
 kowfordh
 kowgrom
+kowhai del byghan
 kowl
 kowl hwerow
 kowl-
@@ -3853,55 +5242,124 @@ kowlniverow
 kowlvleujen
 kowlwerth
 kowlwertha
+kowlwrys
+kowlwul
 kowlys
+kownans
 kowrgarow
 kowrvargh
 kows
+kows tiskler
 kowsel
+kowser
 kowser a vyghan
+kowses
+kowsores
 kowsores a vyhan
+kowva
+koynt
+koyote
 krackya
 krackya konna
+kragh
 krampoth
 krampothen
 kramvil
 kramvilek
+kramya
 kras
 krasa
 krasell
 krasen
 krasyor
+kravas
+kravas goles an balyer
+kravell
+kraver
 kravlost
 kraw lagas
+kreatur
+kreftus
+kregans
+kreghi
+kreghi karrek
 kreghi mor
+kreghien karrek
+kregi
+kregi war
+kren
+krena
+krenans
 krenn
 kres
+kresafrikanek
+kresek
+kresel
+kresen
 kresen brenassa
 kresen yowynkneth
+kresenna
+kresfoesik
+kreshwilus
+kreslinen
 kreslu
+kresriv
 krestennek
 kreswas
+kreswedhek
+kresydh
+kresydhes
+kresydhieth
+kresys
 kreun
 kreuna voos
+kreunell
+kreuni
+kreunva voos
+kreunvaow boos
+kreunyer
 krev
+krev an effeyth
+krev an mynnas
+krevder
+krevhe
 krey
 kreyon
 kreyth
 kreythen
+kreythya
 kria
 krib
 kriben vel
+kro
+kroadur
 kroatek
 kroban
+krog
+krogbren
 krogen
 krogen Sen Jamys
 krogen benn
 krogen brierin
 krogen vulgh
 kroghen
+kroghen lagas
+kroghen vugh
+kroghena
+kroghendanow
+kroglen
 krognans
+krogweli
 krokodil
 kromiom
+kromm
+kromma
+kromman
+krommedh
+krommen
+krommgenter
+krommgentra
+krommgentrell
 krommlegh
 krommvagh
 krommvaghow
@@ -3910,19 +5368,48 @@ kronek
 kronek du
 kronek ervys
 kronek ervys mor
+kroust
 krow deves
 krow mogh
 krow prenn
 krow yer
 krowji
+krows
+krowseghen
+krowsegys
+krowsek
+krowseryow
+krowsfordh
+krowskas
+krowslinek
+krowslinen
+krowswythi
 krusten vrew
 krycket
+krycket-godra
+krygha
+kryjyans
+kryjyk
 krypton
+krys
+krys T
+krys hwys
+krys nos
+krysadow
+krysi
+kryspows
 ksenon
 kub
 kub rew
 kubek
+kudh
+kudha
+kudhlen
+kudhliw
 kudhon
+kudhva
+kudhvreselyer
+kudhys
 kuhudha
 kuhudhas
 kukomber
@@ -3936,7 +5423,14 @@ kulyek gwyns
 kulyek hos
 kulyek kenys
 kulyek reden
+kummyas
+kummyas mamoleth
+kummyas tasoleth
+kummyas-entra
+kummyas-lewya
+kummyas-towlenna
 kuntel
+kuntel war-barth
 kunteller
 kuntelles
 kuntellores
@@ -3944,17 +5438,22 @@ kuntellyans
 kuntilow
 kunys
 kurun spern
+kussulyades karyans
+kussulyas karyans
 kussyn
 kusulyades kost
 kusulyas kost
 kuv
+kuv kolon
 kuvder
+kuweytek
 kwackya
 kwarel dewblek
 kwarel tryflek
 kwedhan jiraff
 kwenen
 kwestyon
+kweth ponn
 kwiasva
 kwilkyn
 kwilkynyow
@@ -3963,54 +5462,120 @@ kwyn
 ky
 kydnyaf
 kyf
+kyfeyth
 kyfeyth owraval
 kyfeyth sevi
+kyhwedhel
+kyhwedhla
 kyjya
+kylgh
+kylgh hula
 kylgh ys
+kylgh-knias
+kylghek
+kylghigow
+kylghlavar
+kylghpaylys
+kylghresek
+kylghvusur
+kylghya
+kyllas
+kyllasenna
 kymyk
 kymystry
 kyn
 kynda
 kyndys
+kynnik
 kynnyaf
 kynnyav
 kynnyavel
 kyns
 kyns oll
 kyns penn
+kyns penn bledhen
 kynsa
 kynth
 kynyaf
 kyprusek
+kyrgyzek
 kyv kov
 kywlet
 kòlebron
 l
+lader
+lader tir
+ladha
+ladher
+ladhores
+ladhva
 ladra
+ladra helgik
+ladrans
+ladres
+ladrynsi
 lagas
+lagas an oghen
+lagas du
+lagas edhen
+lagas fesont
+lagas kathes
+lagasek
 lagasow
+lagatta
 lagen
+lagha
+laghel
+laghyades
+laghyas
+lamm
+lamma
+lamma gans gwelen
 lammlen
 lanketh
+lanow
 lanthanom
 lanthanum
 lanwes mor
+laosek
+lappa yey
 laptop
+larwydh Japan
+las
+lasek
 lasogeth
+lasya
 lath
 latimer
 latimores
 latviek
+lavant
+lavar
+lavar koth
+lavaren
 lavrek
+lavrek berr
 lavrek byghan
+lavrek jin
+lavrek kott
+lavrek raglan
 lavur
+lavur tiek
+lavur tre
+lavurus
 lavurya
+lavuryades
+lavuryas
+lavurys
 lavyn
 lavyn europek
 lawl
 lawrencyum
-laylok
 le
+le may
+le mayth
+lea
+lebanek
 lebma
 lebmyn
 ledan
@@ -4019,31 +5584,75 @@ ledandewlel
 ledanhe
 ledanyans
 ledher
+ledhyades lowena
+ledhyas lowena
 leel
 leelieth
 legest
 legestik
 legh
 legh fenester
+leghen rew
+leghen yey
+legri
 legryas
+legrys
 lehe
+leheans
 lel
 lemmel
+lemmel gans gwelen
+lemmel lovan
 lemmyn
 lenel
 lenji
+lenki
+lenn
 lenn dhu
 lenna
+lennans
+lennas
+lenner
+lenni
+lennus
+lennva
+lenores
 lent
+lenter gweus
 lenthe
 lentvil
+lenwel
+lenwel a
+lenwel an tank
+lergh
 les
 les an gog
+les esedh jynn-tenna
+les kewni
+les loos
+les sort
 les-lesa
+les-lesa del idhyow
+les-lesa lagas an edhen
 lesa
 lesans
 lesel
+lesken
 leski
+lesta nebonan rag gul neppyth
+lester
+lester bleujyow
+lester eth
+lester ethen
+lester flourys
+lester-bargesi
+lester-gwari
+lester-sedhi
+lestra
+lestrier
+lestriva
+lestryn
+lesvryjyon
 lesyeth
 lesyow
 lesys
@@ -4056,21 +5665,43 @@ leth kriv
 lethek
 lether
 lethes
+lethles del myrt
 leti
 leugh
+leugh da
 leugh dowr
 leugh ergh
 leugh ewik
 leugh kowr
 leughi
+leughti
 leun
+leun a
+leun a dus
+leun a steur
+leunder
+leunhe
 leur
 leur a-woles
 leurlen
+leurnedh
 leuv
+leuvbann
+leuvdosa
+leuvdosans
+leuvor
+leuvvedhegel
+leuvvedhegneth
+leuvvedhek
+leuvvedhoges
+leuvwelen
 leuvyow
 lev
 leverel
+leverel gow
+leverel kevrolyow
+leverel yn kler
+leverel yn tyblans
 leverva
 levervaow
 lew
@@ -4078,47 +5709,80 @@ lewern
 lewes
 lewpard
 lewpard an ergh
+lewsel
 lewya
+lewyader
+lewyadores
 lewyas
 lewydh
 lewydhes
+lewyer
+lewyer resek
 lewyon
+lewyores
+leylak
 leys
+li
+lia
 lien
 lien bedh
+lien dorn
 lien gweli
 lien konna
 lien moos
 lien paper
 lien rew
+lien yey
 liennyow gweli
 lies gweyth
+lies huni
 lieskweyth
+liesleur
 liesskrif
 liesskrifa
 liesskrifell
 liesskrifow
 lightenstaynek
 lili
+lili kledha
+lili korawys
 lilien
 lim
 limaval
 lin
 lin gweder
+lin leur
 lin-golghi
 linas
+linas gwern
+linasek
 linasen
 linednow
 linen
 linennow
 lion
-liquid
 lithiom
 lithuaniek
+liv
+liva
 livrel
+livwolow
+livya
+livyet
 liw
+liw bejeth
+liw blew lagas
+liw diwvogh
+liw gweus
 liw howl
+liw lagas
+liw min
+liw rudh
+liwa
+liwans
 liwus
+liwyans
+liwys
 lo
 lo an jowl
 lo de
@@ -4126,6 +5790,10 @@ lo ledan
 lo salad
 lo vras
 lo-balas
+loder
+lodhen gwarak
+lodrik
+lodrow nilon
 logel
 logojen
 logojen vroas
@@ -4138,6 +5806,8 @@ lojowen
 lojowen dhebri
 lojowen-dhebri
 loneth
+lonk
+lonn gwarak
 lonnek
 lonnow
 loor
@@ -4145,11 +5815,21 @@ loos
 lorel
 lorgan
 lorgh horn
+losanj pas
+losi
 losk
 losk an vriansen
+loskadow
 loskow
+loskriades
+loskrians
+loskrias
 loskven
 loskvenydh
+loskverkya
+losonieth
+losoniethek
+losonydh
 losow
 losow an bara
 losow an drynsys
@@ -4158,6 +5838,7 @@ losow an hav
 losow an myghtern
 losow gwreydh
 losow kegin
+losow lagas
 losow mogh
 losoweger
 losowegores
@@ -4167,41 +5848,75 @@ losowen an bara
 losowen gegin
 losowen vogh
 lost
+lost an gath
+lost margh
+lost-lemmel
 lostek
+lostelven
 lostledan
 lostledan Amerikanek
 lostledan Eurasiek
+lostleverel
 lostya
 losvelyn
+lovan lemmel
 lovennan
+low
+low les
+low les an lefans
+low losow
+low losow fav du
+low losow karet
+low losow pys
+low losow tettis
 lowarn
 lowarnik
+lowarth
+lowarth gwydh
 lowarth kegin
 lowarth losow
+lowartha
+lowarther
+lowarthieth
+lowarthores
 lowen
 lowen losow
 lowena
+lowena dhis
+lowena dhywgh
+lowender
 lowenek
 lowenhe
 lower gweyth
+lown
+lownek
+lownya
+lownys
 lowr
+lowrgereswydh
 lowrwedhen
 lowrwydh
+lowrwydh Azores
+lowrwydh brygh
+lows
 loyas te
 loyow
 lu
+lugarn
 lugarnik
+lugarnwydh Chile
 lughes
 lughes an dramm
+lughesen
 lughesi
 luhes
-luhesen
 luksembourgek
 lus
 lus a'n menydh
 lusu
 lutetiom
 lutetyum
+lyha
 lymm
 lymma
 lymmaval
@@ -4209,12 +5924,31 @@ lymmelin
 lymnores
 lynn
 lys
+lyskanasedh
+lyskanasek
+lyskannas
+lyskannatti
+lysow
 lyther
+lyther nowodhow
+lytherdol
+lytheren
+lytherenieth
+lytherenna
+lytherennans
 lytherennek
+lytherer
 lytherow
 lytherva
+lythervowes
+lytherwas
+lytheryas
 lythyum
 lyver
+lyver kudhlen gales
+lyver kudhlen vedhel
+lyver kuntel
+lyver skol
 lyver termyn
 lyverva
 lyvervaow
@@ -4225,28 +5959,40 @@ mab
 mab an pla
 mab den
 mab meythrin
+mab wydn
 mab wynn
 mab y das
-mab-wydn
-mab-wynn
 maban
 mabm
 mabmow
 mabsys
 mabyar
+madra an kors
 maga
+maga ta
+magel
 maghteth
-maghtythyon
+maghtethyon
+magla
+maglen
+maglen dhelergh
+maglenna
+maglennans
+magli
 magnesiom
 magnysyum
+mahonya Japan
+mahonya Nihon
 majenta
 makedoniek
+malaysiek
+maldiviek
+malow lowarth
 maltek
 mamm
 mamm guv
 mamm vesydh
 mamm wynn
-mamm-wynn
 mammel
 mammeth
 mammfurv
@@ -4262,12 +6008,17 @@ managhti
 manal ys
 manbluv
 manbluven
+manegen
 manek
+manek blat
 manek lowarn
+manek vor
+manerji
 manganes
 manganus
 mango
 mann
+mann ha krows
 manowek
 mans
 mantel
@@ -4278,11 +6029,24 @@ mar pleg
 margh
 margh asen
 margh byghan
+margh dall
+margh koth
 margh leska
 margh skrifa
 margh-skrifa
+marghador
+marghadores
+marghas
+marghas puskes
+marghas stock
+marghasa
+marghasadow
+marghasans
+marghaskall
+marghasva
 marghek
 marghgesten
+marghgesten Eynda
 marghlyn
 marghnerth
 marghoges
@@ -4290,11 +6054,20 @@ marghreden
 marghredik
 marhek
 marnas
+marner
+marow
+marowvor
 martesen
 marthus
 marthys
+marthys bras
+marthys da
+marvor
 marwostel
 marwostla
+mask oksyjen
+masvresek
+mata
 mathematigel
 mathematik
 maw
@@ -4302,18 +6075,28 @@ maw stret
 maystri
 me
 mebyon
-mebyon-wydn
-mebyon-wynn
+meder
 medh
 medhek
 medhek brys
+medhek dens
+medhek kroghen
+medhel
 medhelweyth
+medhler kroghen
 medhles
 medhoges
 medhoges brys
+medhoges dens
+medhoges kroghen
 media efan
+media meur
+medra
+medras
+medynor
 meghin
 megi
+megys orth
 mel
 mel kriv
 melhwen
@@ -4324,6 +6107,7 @@ melhwyjen
 melin
 melin dhowr
 melin wyns
+mell dorn
 melldrosek
 mellyon
 mellyon an wyrghes
@@ -4337,6 +6121,7 @@ melon
 melon dowr
 melvis
 melyn
+melyn an blew
 melyn hy blew
 melyn oy
 melynrudh
@@ -4352,14 +6137,33 @@ men kov
 men kowas
 men melin
 men paper gwelsigow
+men pobas
 men-pobas
 mendelevyum
+menegek
+menegen
+meneges
+menegva
+menegyans
+menegyn
+menek
 menestrouthy
+menhe
+menhesen
 menowgh
+menowghedh
+menowghter
+menta
+menta an dowr
+menta aval
+menta riel
+menta wuwdhel
 menweyth
 menydh
 menydh rew
 menydh tan
+menydh yey
+menystrans gwari
 mer
 meres
 mergh
@@ -4369,31 +6173,71 @@ mergh skrifa
 mergh-skrifa
 merghik
 merk garm
+merk govyn
 merkuri
 merkyl
 mernans
 merwel
+merwel dre nown
 meryw
+meryw China
 mes
+mes a fog
+mes a'n kemmyn
+mes a'n lester
+mes a'y dermyn
+mes a'y skians
+mes an rewl
+mesek
+mesen
 meskel
+meskla
 mesklen
+mesporth
 mesporth tan
+messach
+messajya
+messias
 mestroek
+mesya
 meth
 mether
+metya orth nebonan
 meur
+meur a
+meur a vri
+meur aga ferthyans
+meur hy bri
+meur hy ferthyans
+meur lowr
 meur ras
 meur ras dhe
 meur ras dhe jy
+meur y berthyans
 meur y les
+meur y skians
+meur y vri
+meur-
+meurder
+meuredh
+meurgara
 meurgeryek
 meurgerys dres oll an bys
+meurthek
+meus
+meusva
+meusya
+meythinva
+meythrin
 meytneryum
 mil
 milblek
 mildir
 mildros
+milgolm
+milhyntal
 milonieth
+miloniethel
 milpreve
 milus
 milva
@@ -4408,11 +6252,23 @@ min
 min fordh
 min poll
 minen
+mingow
+mingreft
 minhwarth
+minhwerthin
 minliw
+minrew
 minvlew
+minvlewen
+mir
 miraj
+mires
 mires dhe
+mires orth
+mires orth an bellwolok
+mires stark orth
+mires sur orth
+mires war
 mirour
 mis
 mis Du
@@ -4425,12 +6281,17 @@ mis Gortheren
 mis Gwydngala
 mis Gwynngala
 mis Hedra
+mis Hwevrel
 mis Kevardhu
 mis Me
-mis Merth
 mis Metheven
-mis Whevrel
+mis Meurth
 mis Whevrer
+misek
+miskemeryans
+mistal
+misyek
+misyow
 mo
 modrebik
 modrep
@@ -4442,6 +6303,7 @@ mogniwl
 mol
 mola
 moldavek
+molek
 molethi
 molgh
 molgh dhu
@@ -4454,7 +6316,12 @@ molybdenom
 molybdenum
 molys
 mona
+mona kemmyn
+monegaskek
+mongel
+mongoliek
 montenegrek
+mool
 moon
 moos
 moppa ha kelorn
@@ -4478,8 +6345,14 @@ moren
 moren bries
 moren dhu
 morenyow
+moreynda gwlanek
+morgelyn
+morgelyn byghan
+morgelyn kowrek
 morgeun
 morgi
+morgowl
+morgowlen
 morgowles
 morgowles garennow
 morgowles gwir
@@ -4492,12 +6365,16 @@ morlader
 morladres
 morladresow
 morladron
+morladrynsi
 morlanow
 morlasem
+mornaswydh bryv
 morrep
 morrew
 morthol
+mortholya
 mortid
+morvargh
 morverk
 morvil
 morvil askellek
@@ -4528,6 +6405,7 @@ morvleydhes
 morvoren
 morvran
 morvugh
+morwydh
 morwyns
 morwyns dyghow
 morwyns lethes
@@ -4549,7 +6427,6 @@ mos dhe-ves
 mos dres
 mos er a bynn
 mos er y bynn
-mos erbynn
 mos gans
 mos ha bos
 mos mes a wel
@@ -4574,6 +6451,9 @@ moskito
 mosow
 mostard
 mowes
+moy es kans
+moy po le
+munys
 musik
 my
 my a'th kar
@@ -4587,8 +6467,11 @@ myghternses
 mygyl
 myll
 mynn
+mynnas krev
 mynnen
 mynnes
+mynnes orth nebonan gul neppyth
+mynysen
 myrgh
 myrgh an pla
 myrgh hy dama
@@ -4596,6 +6479,7 @@ myrgh veythrin
 myrgh wynn
 myrghes
 mys merth
+mysi
 mytern
 myternes
 myterneth
@@ -4612,12 +6496,17 @@ na borth ahwer
 na'gan
 nader
 nader margh
+nader moren
+nader vor
+nagh
+nagha
 nagonen
 naneyl
 naneyl X na Y
 nans
 nans to
 nans yw
+nans yw pell
 nasya
 nath
 natur
@@ -4634,13 +6523,16 @@ neb tyller
 neb unn
 nebonan
 nebonen
+nedh
 neghi
 negys kamm
+negysydhes
 nektarin
 nen
 neodymiom
 neodymyum
 neon
+nepalek
 neppyth
 neptunyum
 nerth
@@ -4651,25 +6543,48 @@ nessa rew
 neujen
 neus
 neusen
+neusenna
+neuvell
+neuvella
+neuvwisk
+neuvya
 neuvyer
 neuvyores
 nev
 nevow
+neyj
+neyja
+neyjer
 neyjores
 neyth
 neyth bran
 neyth yar
 neythik
 ni
+nihonek
 nikel
 niobiom
 nith
+nitrat
 nitrojen
 nivel
+nivel A
+nivel O
+nivel an odyt
+nivel pH
 nivelyow
 niver
+niver fon
+niver kesresek
+niver pellgowser
+nivera
+niverek
 niverell
+niveren
+niverennans
 niveronieth
+niveroniethel
+niverus
 niveryans
 niwl
 niwlek
@@ -4687,18 +6602,23 @@ nos da
 nos kwestyon
 nos-junya
 nosow devyn
-not yet been discovered
+noten arghanti
 noth
 nothedh
 nown
+nownek
+nownek bras
 nownsegves
 nownsek
 nownsek ha peswar ugens
 nowodhow
 nowydh
+nowydh flamm
+nowydh genys
 nowyth
 noy
 nuklerek
+nuklesen
 ny
 ny gosk hwilen yn-dann droos
 ny wrav vy kewsel sowsnek
@@ -4708,10 +6628,10 @@ nykel
 nyni
 nyns
 nyobyum
-nytrojen
 o
 ober
 ober mas
+ober rewi-teudha
 ober tre
 oberador
 oberadores
@@ -4724,17 +6644,21 @@ oberores
 oberwas
 oberyans
 obma
-oceans: keynvor: Keynvor Arktek · Keynvor Atlantek · Keynvor Dyghow · Keynvor Eyndek · Keynvor Hebask [edit]
 odyt
 oferen
+ogas
 ogas dhe
+ogas ha bledhen
 ogh
 oghen
 ojyon
+oksid
 oksyjen
 ol troos
 oles
 olew
+olewbren
+olewi
 olifans
 olifanses
 oliv
@@ -4752,23 +6676,49 @@ ollves
 ollvys
 ollvysel
 om-
+omanek
+ombellhe
+ombellheans socyal
 omblegya dhe
+ombrederi
+omdava orth
+omdenna
+omdewlel
+omdhesedha orth
 omdhivarva
 omdhon
+omdowl
+omgemeres
+omglusek
+omguntel
 omgussulyans
 omgussulyansow
+omhweles
+omjunya
+omlena orth
 omlowenhe
 omma
 omoberi
 omres dhe
+omrewl
+omsav
 omsettya
 omsettya dhe
+omsettya orth
 omsettyans
+omsevel
+omvrewi
+omwiska
 omwolghi
 omwolhi
+omwul
 on
 onan
 onen
+ones
+onn
+onn amerikanek
+onn manna
 onyon
 onyon Kembrek
 onyon ewinek
@@ -4776,15 +6726,24 @@ onyonen
 oor
 oos
 oos an rew
+oos an yey
 ordenor chi
 organek
+organs
 ors
 ors gwynn
 orses
 orsik
 orth
+orth an sawgh
+orth bodh ow brys
+orth bodh y vrys
+orth niver
+orth ow brys
+osmanthus del kelyn
 osmiom
 osmyum
+ost ayr
 ostel
 ostel yowynkneth
 ostelyow
@@ -4792,9 +6751,11 @@ ostelyow yowynkneth
 ostes
 ostes ayr
 ostrian
+oula
 oulya
 ow
 ow kwaytya flogh
+ow sordya marth yn
 ow tochya
 ow tochya dhe
 owA
@@ -4835,19 +6796,41 @@ oylys
 oyow
 p
 p'eur
+padel
+padel benn glin
+padel bonn
+padel dhorn
 padel horn
+padel ynken
+padel ynkyn
+padel-fria
+padellik
 padellik neyja
+padellik-neyja
 paganieth
 pajarpaw
+pakistanek
+pal
+pal ros
+pal-dalgarga
 paladiom
 paladyum
+palas
 palas yn-dann
+paler
+palestinnek
 palmwedh
 palmwedhen
 palmwydh
+palmwydh Chusan
+palmwydh Kanari
+palmwydh dragones
+palmwydh rotan
 palores
 pals
+palstergorn
 palv
+palva
 palvek
 palvow
 pandra
@@ -4860,20 +6843,27 @@ paper gweder
 paper nowodhow
 paper paros
 paper privedhyow
-paper skrifa
 paper-skrifa
 papynjay
 paradhis
+parakit
+pareusi
 park
 park heydh
 park kerri
+park-gwari
 park-omdhidhana
 parkya
+parledh-godra
 parth
 parthow
+parti
+parys
 parys dhe
 parys dhe ania
 pas
+pas garm
+pasa
 paser frynkek
 passyon
 past
@@ -4891,34 +6881,69 @@ patatysen
 patatysen velys
 patent yn-dann hwithrans
 paw bran
+payn dens
 payntyores
 peder
 pedn-bloodh
+pedn-seythednow
+pedn-seythen
 pedncita
 pedncitys
-pednseythednow
-pednseythen
 pedrek
 pedren
 pedrennow
 pedrevan
 pedrevan dhowr
+pedrevanas
 pedri
 peg
 pegh
+pegha
+peghador
+peghadores
+peghus
 pehas
 pehosow
+pel
 pel an norvys
 pel ayr
+pel ayr tomm
+pel dhorn
+pel droos
 pel droos amerikanek
+pel droos rugbi
 pel ergh
 pel ganstel
+pel lagas
+pel vas
+pel volli
+peldrosyades
+peldrosyas
+peldrosyer
+peldrosyores
+pell
+pell alemma
+pella
+pellder
 pellgewsell
+pellgomunyans
 pellgowsel
 pellgowser
+pellhe
+pellheans
+pellheor
+pellhwyja
 pellskrifa
+pellskrifen
+pellvotonek
+pellweler
+pellwithans
 pellwolok
+pellwolok gapel
+pellwolok lorell
+pellyeghes
 pelva
+pelyek
 pempbes
 pempbeses
 penhembrynkyas
@@ -4967,6 +6992,7 @@ penn ys
 penn-
 penn-aghel
 penn-bloodh
+penn-bloodh lowen
 penn-dro
 penn-drog
 penn-seythen
@@ -4985,7 +7011,9 @@ penneglos
 pennek
 pennfenten
 pennfros
+penngarn resek
 pennhembrenkyas
+pennik lost hir
 pennkuntelles
 pennlinen
 pennlugarn
@@ -4996,13 +7024,14 @@ pennplas
 pennpusorn
 pennrewl
 pennrewlys
+pennrudh
 pennrynn
 pennscol
 pennser
 pennseviges
 pennsevik
 pennseythen
-pennseythennow
+pennseythennyow
 pennskav
 pennskol
 pennskolyow
@@ -5015,6 +7044,21 @@ pennwari
 per
 perbren
 peren
+perfydh
+perfydhder
+perghen
+perghen estrigys
+perghen pastel
+perghenegi
+perghenegyans
+perghenieth dir
+perghenna
+perghennegi
+perghennek
+perghennus
+perghenogel
+perghenoges
+perghenogeth
 periodek
 perl
 perna
@@ -5022,11 +7066,30 @@ perr
 persil
 persilen
 personoleth
+perth
 perth own
+perthi
+perthi avi orth
+perthi kov a
+perthi meth
+perthi orth
+perthi own
+perthyans
+perthyer
+perthygel
+perthynek
+perthynekter
+perthynyans
+perthyores
 peruken
+pervedh
+pervedhek
 peryl
+peryllus
+peryllya
 peryllys
 pes
+pes da
 pesen
 pesk
 peskweyth
@@ -5037,24 +7100,41 @@ peswardhegves
 peswardhek
 peswarpaw
 peswora
+pesya
 peth
+peub
 peuns
 peunsow
 peurva
+peurwels
 piano
+piano meur
+pianydh
+pianydhes
 piben dhowr
 pibow sagh
 pies
 piesen
+pig
+piga
+pigell
+pigell dhewboynt
+pigell goton
+pigellas
+pigellik
 pigorn
 pigornek
+pigyn dillas
 pin
 pinaval
 pinbren
 pinbren Alban
 pinbren Makedoni
+pinbren an menydh
 pinbren gwynn
+pinbren gwynn Japan
 pinen
+pinwydh Chile
 pisva
 piw
 pla
@@ -5068,24 +7148,32 @@ plansa
 plansans
 planser
 plansow
+plat niver
 platinom
 ple
 ple yma an privedhyow?
 ple'ma an privedhyow?
 pleg
 pleg mor
+plegadow
 plegya
 plegya dhe
+plegya gans
+plegya tal
+plegyans
 plisk
 plisk know
 plisk oy
 plisk usyn
 plisken
 pliskenna
-plobm
-plobmer
 plom
+plomm
+plommer
+plommwedhek
+plomores
 plomp dowr
+plos
 ploum
 ploum segh
 ploum sygh
@@ -5102,20 +7190,32 @@ pluven-blomm
 po
 pob
 pobas
+pobel
+pobel ammeth
+pobla
+poblans
+poblansorieth
+poblansoriethek
+poblek
+pock
 pocket
 pocket ayr
 pocketow
 pocketow ayr
 pocketys
 pocketys ayr
+pockya
+pockyer
 poder
 podrek
+polici
 politegieth
 politegieth a-bervedh
 politegieth keswlasek
 poll
 poll gwynn
 poll heyji
+poll holan
 poll margh
 poll pri
 poll sten
@@ -5123,19 +7223,27 @@ poll-neuvya
 poll-troyllya
 polonek
 polonyum
+polter
+polter baban
+poltra
 pomp dowr
 pompell dhowr
 pompik
 pompyon
 pompyon hweg
+ponegi
+ponn
+ponnek
 pons
 ponsfordh
 ponsfordhow
-ponsow
+ponsyow
+poos
 poosa
 popa
 popet
 popti
+popti pyng
 por
 pore
 poren
@@ -5149,10 +7257,23 @@ porhel dor
 porhelli
 porhellik
 porhellow dor
+porpos krev
+porth
+porth klos
+porth lestri
+porther
+porthores
+porthorji
+porthva
+porthwas
 portyngalek
+posek
+poslev
+posleva
 posnya
 post
 post arwodh
+poster
 postya
 pot spal
 potassiom
@@ -5160,6 +7281,7 @@ pott te
 pow
 powdir
 powek
+powes kolon
 powyow
 poynt ha komma
 poyson
@@ -5168,19 +7290,40 @@ pras
 praseodymiom
 prasodyum
 praysya
+preder
+prederi
 prederus
+prederyans
+prederys
+predheger
+predheges
+predhegores
+predhek
 predn
 pregoth
 prejyow
 prena
+prenas
+prenassa
+prenasser
+prenassores
+prener
 prenn
 prenn yer
+prenna
+prennek
+prennlown
 prennweyth
+prenores
+presep
 prev
 preves
 prevyon
+preydh
 pri
+pries
 priosel
+pris viaj
 prison
 privedhyow
 priweythva
@@ -5195,36 +7338,69 @@ prydydhieth
 prys
 prys boos
 prys gweli
+prys rewlivek
 prys te
 prys ynterrewlivek
 prysk
+prysk koryns bleujyowek
+prysk tykki Duw
 prysken
 pryv
 pryv del
+pryv malan
+pryv malan rudh
+pryv owrlin
 pryv prenn
+pryvladher
+pryvylej
+pryvylejek
 prës
 prÿs
+pub
 pub bledhen
+pub dedhyek
+pub eur
 pub eur oll
+pub huni
+pub kentel
+pub kornel an bys
+pub le
 pub ness dydh
 pub nessa dydh
+pub nos
 pub prys
+pub seythen
 pub termyn
+pub torn
+pub tra
 pubdedhyek
 puber
+pubermenta
+pubonan
+pubonen
+pubonen war-barth
 pubra
 pubren
 pugh
+pupprys
+puptra
+puptydhyek
 pur
+pur dha
 pur dhu
 pur ewn
+pur hwarthus
 pur lowen
 purpur
 purpurwyn
 puskes
 py
+py eur yw?
+py le pynag
 py lies
 pyber gelvynak
+pychya
+pychyans
 pyckel
 pyffer
 pyffers
@@ -5237,23 +7413,43 @@ pympes
 pymthegves
 pymthek
 pynag oll
-pyncel plobm
+pyncel lagas
+pyncel plomm
 pynk
+pynn meus
 pys
+pysadow
+pysen
 pysennek
+pysi
+pysi gans
+pysi rag
+pysi tynn
+pysi war
 pysk
+pysk Jan Dori
+pysk Logh
+pysk amanyn
+pysk du
 pysk kledha
+pysk malan
+pysk penn du
+pysk pitsa
 pyskador
+pyskadores
 pyskadoryon
+pyskessa
+pysklyn
 pysknow
+pyskva
 pystri
+pystria
 pystrier
 pystriores
 pyth
+pyth ha da
+pywa
 pò
-pùb
-pùb huny
-pùbonen
 pùscas
 q
 queth
@@ -5267,26 +7463,47 @@ rag ensampel
 rag kerensa
 rag own
 ragomogh
+ragsevel
+ragsevel orth
 ragskrif
 ragvam
 rames
 rann
+rann hwedhel
 rann ober
 ranna yntra dew
 ranneves
 rannji
 rannskrif
 rastell
+rastell warthek
 rastella
 rath
 rathes
+re Jovyn
+re vras
 receyt
 reden
 reden Maria
+reden an myghtern
+reden bras
+reden gols an Wyrghes
+reden ke
 redenen
+redenwydh medhel
 redigen
 redik
 redya
+redyadow
+redyans
+redyer
+redyores
+reken
+reken gwerth
+rekenva
+rekna
+reknans
+reknell
 reniom
 repoblek
 res
@@ -5294,26 +7511,46 @@ res a-dro
 res porres
 res yw avowa
 resegva
+resegvargh
 resek
 resek a-dro
+resek jynn diwros
+resek kerri
 resell
 reser
+resin
 rester geryow
 restra
 reun
+reun loos
+reuv
+reuv arader
 rev
+rev dhewbennek
 revedh
+reverthi
 revya
 rew
 rew a-rag
 rew fast
 rewenysek
 rewer
+rewi
 rewiva
 rewl
 rewl voos
+rewlell
 rewliv
+rewliva
+rewlivans
+rewlivek
+rewlivieth
+rewlivydh
+rewlivys
 rewlya
+rewlyades
+rewlyas
+rewlys
 rewweresonieth
 rewys
 rhenyum
@@ -5338,6 +7575,7 @@ ris greun hir
 risen
 ro
 rodiom
+rogha bros
 rol dermynyow
 rol dhu
 rol voos
@@ -5348,6 +7586,7 @@ romaniek
 romm
 romys
 romys gortos
+rond
 ronk mernans
 roos
 roos dhiogeledh
@@ -5367,6 +7606,8 @@ rosellek
 rosen
 roskesya
 roskis
+roskis lown
+roskowlys del bras
 rostell
 rostella
 rostva
@@ -5375,6 +7616,7 @@ rosweyth
 rosweytha
 rosweythys
 rosya
+rosyans
 roum
 routabaga
 routabagys
@@ -5396,11 +7638,17 @@ russek
 rutheniom
 ruthenyum
 rutherfordyum
+ruttyans tomm
+ruttyell
+ruttyer
+rutya
+rutyans
+rutyer
+ruvanes
 ruvaneth
-ruwvanes
-ruwvaneth
 ruz
 ryb
+rych
 rydhses
 rynn
 rynni
@@ -5410,6 +7658,8 @@ saben
 safran
 sagh
 sagh boos
+sagh deveryans dre wythien
+sagh-koska
 salami
 salamis
 sall
@@ -5417,12 +7667,21 @@ salm
 salvador
 samariom
 samaryum
+sampel
+sampla
 sans
+sanses
 sarf
 sarf gonna
 sarf-neyja
+saudi
+sav
 savla
 savyour
+saw
+sawer poos
+sawja
+sawrek
 scandyum
 scol
 scolyow
@@ -5433,7 +7692,11 @@ scyens yeth
 se konteth
 seaborgyum
 secùnd
+sedres Eynda
+sedres Lebanon
+sedres hweg
 segh
+segha
 seghes
 seghter
 seleniom
@@ -5450,63 +7713,134 @@ serbek
 seres
 seres prenn
 serpont
+serri
+serri orth
 serry
+serrys
 serth
 servyades
 servyas
+servyas ayr
+seryan an galonow
 seson
 sesons
 sesonyow
+sesya
+sesyans
 seth
+setha
+sether
 sethores
 settya
 settya moos
+settya orth
 settys a-dhelergh
+settys a-rag
 seudhel
 seudhelyow
 seul
 seulabrys
 seuladhydh
 seulvegyns
+sevel
+sevel erbynn
+sevel orth
+sevel orth aswon
+sevel orth goheles
+sevel orth hwerthin
+sevel yn-bann
+sevelyek
 sevi
 sevia
 seviek
 sevien
 sevy
+sewt-gwari
 seytegves
 seytek
 seyth
 seythednow
 seythen
 seythennow
+seythennyek
 seythves
+shackya leuv
+shackyans leuv
 shap adamant
 shoppa
 shoppa ober
+shora kolon
 si
 sians
+sidhel
+sidhla
 silikon
 sim
 sin
+sina
 sinans
+sindon
+sindonnel
+sinell
+singaporek
+sinya
+sinys
 sira
 sira da
+sira wydn
 sira wynn
-sira-wydn
+ska'ti
 skalpyon
 skandiom
+skansek karrek
+skant
+skapya
+skapyans
 skath
+skath drosell
+skath hir
+skath kloos
 skath tan
+skath ynn
 skath-revya
+skath-sawya
+skath-wolya
+skathik
+skathti
+skathweyth
 skav
+skavel
+skavel droos
 skavel gronek
 skaw
+skaw an dowr
+skaw an dowr kemmyn
+skaw dor
 skaw dowr
+skaw du
+skaw kogh
 skawen
+skentel
 skes rew
+skesya teg
 skeus
+skeusek
 skeusen
+skeusen dhewyn-X
+skeusen stag
+skeusenieth
+skeusenner
+skeusenores
+skeusenweyth
+skeusi
+skeusi rag
+skeusliw
+skeuswydh
 skew wyns
+ski lemmel
+skia treus pow
+skitya has
+skityans has
 sklander
 sklandra
 skobm
@@ -5514,17 +7848,39 @@ skobmow
 skobmyn
 skodhow
 skol
+skol elvennek
+skol gynradh
+skol gynsa
 skol nessa
+skol nos
+skol ramer
+skol stat
+skol ughel
+skol-veythrin
+skoler
+skolheygel
+skolheyges
+skolheygieth
+skolheyk
 skolji
 skollya a-les
+skollya liv a dhagrow
+skollya ponn war
 skollya termyn
 skollyer dowr
+skolores
+skolvaw
+skolvester
+skolvestres
+skolvowes
 skolyow
 skomm
+skommen
 skommow
-skommyn
 skons
 skonsen
+skonya aswon
+skonya gweles
 skoodh
 skoodhya
 skoodhyans
@@ -5532,6 +7888,7 @@ skoos
 skorr
 skorren
 skorrow
+skoske
 skovarn
 skovarnek
 skovarnigow
@@ -5546,25 +7903,48 @@ skrifa
 skrifedh
 skrifenn
 skrifennyas
+skrifennyaseth
 skrifenyades
 skrifer
-skriflever
 skriflyver
+skrifores
 skrifow
+skrifsagh
+skrifwas
+skrifweyth
+skrifyades
+skrifyas
+skrij
+skrija
 skrisel
 skriven
+skub
 skubel
+skubell
+skubell-sugna
+skubell-wolghi
+skubellik
+skuber
+skubores
+skubus
 skubya
 skubyllen
+skubyllen dhens
+skubyonen
 skudel
 skudell dowr
+skwatya
 skwithus
 skydnya
+skyll fav
 skynnya
 skyrmya
 slackya
 slovakek
 slovenek
+slynk
+slynkya
+smodh
 snod
 sobm
 sobmen
@@ -5578,12 +7958,13 @@ sodhva bost
 sodhva doll
 sodhva greslu
 sodiom
+sodones
 sodron
 sodyum
+soghelin
 sokor kynsa
 sokra
 soled
-solid
 sols
 solz
 somednow
@@ -5593,47 +7974,67 @@ sommen
 sonellik
 sonskrifa
 soodh
+sordya
+sordya marth yn nebonan
+sordyans
 sorr
 sort
 sort mor
+sortya
 sos
 soth
 soth-est
 soth-west
 souder
+soweth
 sowl
 sowlenna
 sowman
 sowsnek
 sowsnekhe
 sowter
+spadha
+spadhesik
 spal
 spas
 spaynek
 spayngi
+spedhas
 spedhasen
+spedya marthys da
 spelt
+spena an mona
 spern
+spern China
 spern du
 spern gwydn
 spern gwynn
+spern gwynn gwlanek
 spernek
 spernen
 spernen dhu
 spernen wydn
 spernen wynn
-spethas
 spis
 spisek
 spit dhe
 spladn
 splann
 spong
+spong melyn
 spruswydh Kolorado
 spruswydh Norgagh
+spruswydh lost an tiger
 spyryjyon
 spyrys
+spyrysel
+spyrysoleth
 spyrysyon
+sri lankek
+stag
+staga
+stagell
+stagsav
 stat
 stat an les
 statys
@@ -5642,6 +8043,7 @@ sten an heyl
 sten du
 ster
 ster lostek
+ster-leski
 sterednow
 steren
 steren pop
@@ -5658,7 +8060,6 @@ stevel
 stevel an klass
 stevel an lys
 stevel dhebri
-stevel dhybri
 stevel omwolghi
 stevel omwolhi
 stevel wortos
@@ -5680,27 +8081,54 @@ stiflinder
 stifliv
 stifoges
 stifow
+stifya
+stifyer
 stlav
 stlavedh
 stlevi
+stond meur
 stras
 straylyk
 strel moos
 stret
+stret unfordh
+stretwikor
+stretwikores
+stretyn
+striw
+striwi
+striwles
+strokas
 strontiom
 strontyum
+strooth
+strotha
+strothans
+strother
+strothores
+strothter
+strothys
 strus
+studhyans kas
 studhyor
 stummlynn
 sudron
 sugal
 sugaldir
 sugalen
+sugen
 sugen aval
+sugen frooth
 sugen kig
 sugen losow
 sugen owraval
 sugen pinaval
+sugna
+sugnans
+sugnek
+sugnell
+sugner karrek
+sugnus
 sugra
 sulfur
 sur
@@ -5709,30 +8137,66 @@ surheans
 swedek
 swis
 swiss
+sy
 sy1
+sybwydh Korea
 sybwydh Pow Grek
 syger
 sygerneth
 sygerus
 sygh
 sylli
+sylli dowr yr
+sylli hweg
+sylli vor
 synk
-synthetic
+synsi
+synsi y'n brys
 syra
+syriek
 syth
 sëgh
-sînys
 sòdhva
 sÿgh
 t
 ta
+tabour
+tabour tynk
+tabourer
+tabourores
+tabours
 taclys
+tag
+taga
+tagles
+tagles an ke
+tai
+taiwanek
+tajikistanek
 takla
+taklans
 taklen-neyja anaswonys
 taksi
 tal
+talar
+talas
+talben
+talek
+talenebek
+talenep
+talgam
+talgamma
+talsogh
+talvedhys
+talvesa
+talvos
+talyel
+tamm
+tamm denti
+tamm ha tamm
 tan
 tan y'n golon
+tan y'n kolon
 tanbren
 tanek
 tanek y golon
@@ -5740,21 +8204,44 @@ tangasor
 tangasores
 tanjerin
 tanlu
+tanow
+tanowder
+tanowhe
+tanowheans
+tanowlinya
 tansys
 tantalom
 tantalum
 tanweyth
 tanweythen
+taran
+taran sonek
+tarder
+tarder hir
+tarder mor
+tardh
 tardh dydh
+tardh taran
+tardha
+tardhadow
+tardhans
+tardhek
+tardhik
+tardhreun
+tardhus
+tardra
+tarenna
+tarennans
 tarmagan
+tarosvan
+tarosvannus
 tarow
 tas
 tas besydh
+tas gwydn
 tas gwynn
 tas kuv
 tas sans
-tas-gwydn
-tas-gwynn
 tasegi
 tasegus
 tasek
@@ -5764,13 +8251,23 @@ tasik gwynn
 tasogedh
 tasogeth
 tasow
-tasow-wydn
-tasow-wynn
+tasow wydn
+tasow wynn
 tasrewl
 tasveth
+tava
+tavadow
 tavas
+tavell
+tavella
 taves
+taves an nader
+taves ojyon nader kowrek
+tavlinen
+tavlinennel
 tavol
+tavol amanyn
+tavol an dowr
 tavolen
 te
 te losow
@@ -5779,18 +8276,32 @@ tebel ober
 tebeldhyghtus
 tebeldhyghtya
 tebeldhyghtyans
+tebelvest
 technytyum
 tedna
 teg
 teg awel
+teg dres eghen
+tegen
 tegennek
+tegennel
+tegyn
+tegyrin
 tejy
+tekhe
+tekheans
+tekhes
 teknetiom
 televisyon
 telli
 teloriom
 teluryum
 telyn
+telyn geltek
+telynnek
+telynnya
+telynnyer
+telynyores
 tempra
 tempredh
 tempredhell
@@ -5799,28 +8310,44 @@ temprer
 temprys
 ten
 tenewen an fordh
+tenn
 tenna
 tenna dhe
+tenna mes
+tenna yn-mes
+tennans
 tennis moos
 tennisva
+tennlester
+tennros
+tennva
 tennven
+tennvenek
+tennvenieth
+tennvenya
+tennvos
 tenti
+tenwenner tu dall
 terbiom
 terbyum
 terebo nessa
 tergoska
 termyn
 termyn a dheu
+termyn an mis
 termyn bewnans
 termyn heb diwedh
 termyn hedhys
 termyn pell alemma
 termyn syger
 termyn yn-dann alhwedh
+termyn yn-mes
 termynyow
 terosva
+terri
 terros
 terrosa
+terrys
 tesen
 tesen benn-bloodh
 tesen dhehen
@@ -5837,26 +8364,51 @@ tetti browys
 tetti melys
 tettis
 teudh
+teudha
+teudhans
+teudherik
+teudhi
+teudhji
+teudhla
 teulel
+teurek
 tevesigieth
 tevi
 tevy
 tew
+tew y dhiwweus
+tew y groghen
 tewal
+tewder
 tewedh
 tewedha
 tewes
 tewesyar
 tewesyar Pallas
 tewewgh taves
+tewhe
 tewl
 tewlder
+tewlel
+tewlel a-les
 tewlel dhe skoll
 tewlel dhe-ves
+tewlel guw
+tewlel imach
+tewlel pel gonn
+tewlel towl
+tewlel yn-kerdh
+tewlel yn-mes
+tewlhe
+tewlwolow
 tewyn
+teyl
+teyla
+teylek
 teylu
 teylu riel
 teyr
+teyrdelen an kors
 teyrgweyth
 teyrros
 teythi
@@ -5876,6 +8428,8 @@ tir
 tir ammeth
 tir meur
 tir nans
+tir trevas
+tir yeyn
 tirfurv
 tirwyns
 tirwyns duryen
@@ -5884,8 +8438,10 @@ tiryow
 titaniom
 tnow
 tochya
+tochya pib
 togolesek
 tokyn-mos ha dos
+tol alhwedh
 toll
 toll an penn
 toll annedh
@@ -5899,23 +8455,40 @@ toll konin
 toll lavrek
 toll wober
 toll y'n fos
+tollbons
+tollborth
+tomder
 tomm
+tomm y woos
+tomma
+tommell
+tommhe
+tommheans
+tommheans kres
+tommheans ollvysel
 tonganek
 tonnek
 toos
 toos alamandys
 toos gwari
+toos-gwari
 tooth
 tooth da
 tooth men
 topp-rosella
+torek
 torgh
 torghedh
 torghek
 torghlost
 torn
 torr
+torrva
+torrva ambos
 torth
+torth a vara
+torth vara
+torthel
 torthell
 torthellow
 torthow
@@ -5923,17 +8496,34 @@ torva gwir-pryntya
 tothus
 tothya
 toul kegin
+toul lowarth
 towel paper
 towl
+towl chons
 towl howl
 towla
+towla towl
+towladow
+towlargh
 towlel
+towlen
 towlen bellwolok
 towlen hwithra
+towlenna
+towlennans
+towlenner
+towlenores
+towler
+towler pel
+towlgost
+towlhys
+towlores
+towlores pel
+towlyans yn-mes
+towlyn
 trad
 tradys
 tramor
-travalya
 traytour
 traytoures
 tre
@@ -5950,36 +8540,96 @@ tredhegves
 tredhek
 tregeredhus
 tregh
+tregh Cesarek
 tregh kig
+treghel
 tregher
+tregher keow
+tregherieth
+treghi
 treghi dhe-ves
+treghi gans hesken
 treghi konna
-trehi
-trehow
-trehow kig
+treghi mes a ven
+treghores
+treghow
+treghow kig
+treghys
+tremen
+tremena
+tremena orth
+tremena termyn yn prison
+tremenadow
+tremenel
 tremengummyas
+tremenus
+tremenva
+tremenyas
+tremenys
 tren
 tren tredanek
 trenja
+trenk
+trenkan
+trenken
+trenken an dhavas
+trenken an koos
+trenkhe
 trenkles
 tresklenn
 tressa
 tressa rann
 trestya dhe
 treth
+trethek
 trethow
 trethtegys
+trethvor
+treus
+treus-
+treusi
+treusperthi
+treusporth
+treuster
 treustrumm
 treusva
 treusva gerdhoryon
 treusva hyns horn
 treusva labol
 treusvaow
+treuswul
+trev
+trevas
+trevas kodhlas sygh
+trevas lethek
+trevas pygans
+trevas pys
+trevas rappys
+trevas wreydh
+trevas wynn
+trevas-kuntel
+trevasa
+trevbark
+treveglos
+trevek
+trevel
+trevelhe
+trevelheans
 treven
+trevesiga
+trevesiges
+trevesik
+treveth
+treveth treus
+trewa
+trewesi
 treweythus
 treweythyow
 treylya
+treylya an keyn orth nebonan
 treylya dhe-ves
+treylya dhelergh
+treylya dhyworth
 treylyans
 treylyans hwithys
 treylyans kales
@@ -5988,19 +8638,27 @@ treylyans medhel
 treys
 tri
 tri ugens
+trig
 triga
+triger
+trigores
 trigva
+trigva ebost
 trigys
 trinidadiek
 trist
+tro askel
 trobol
 troboyntel
+trog-tenna
+trogh
 troghell desen
 trojen
 tron
 tron an leugh
 tron-droghya
 tronek
+tronekter
 trongornvil
 tronow
 tronyow
@@ -6008,19 +8666,26 @@ troos
 troos-hys
 tros-hys
 trovya
+troyll trevas
+truedh
 truedha
+truedhek
 trufla
 truth
 try
 trydhek
 tryflek
+trygh
+trygher
 tryghi
 tu
+tu dall
 tungsten
 tunisiek
 turant
 turantes
 turkek
+turkmenek
 turnyp
 turnypen
 tus
@@ -6028,6 +8693,10 @@ tus efanvos
 tuvaluek
 ty
 tyak
+tybi
+tybieth
+tybiethel
+tybyans
 tyckli
 tyckya
 tygra
@@ -6039,7 +8708,10 @@ tykki Duwes nos
 tykkiow Duw
 tykkiow Duw nos
 tyleryow
+tyli
 tyller
+tyller marghas
+tylva
 tys-ha-tas
 u
 udn
@@ -6050,6 +8722,7 @@ ugandek
 ugans
 ugens
 ugensves
+ugh-
 ughel
 ughella
 ughelvarr
@@ -6067,7 +8740,9 @@ unnegves
 unnek
 unnik
 untu
+unver
 unverhe
+unverheans
 unweyth
 unweyth arta
 unweyth y'n jorna
@@ -6079,6 +8754,16 @@ unyansydhes
 unys
 uraniom
 urugwayek
+us
+usa
+usadow
+usi ow sordya
+uskis
+usya
+usyans
+usyer
+usys
+uzbek
 v
 va
 vali
@@ -6090,14 +8775,18 @@ varf
 veksya
 vel
 venezwelek
+venjyans
 venym
 venyma
 verr
 veur
+viaj
+viaj hwithrans
 viajya
 vietnamek
 virus
 virusys
+vo
 vodka
 vodkas
 vor
@@ -6115,6 +8804,9 @@ vynyardys
 w
 war
 war Bask
+war an amal
+war an diwedh
+war an ke
 war neb kor
 war ow fordh hir
 war-bynn
@@ -6135,15 +8827,16 @@ west
 whegh
 whereth
 whetek
-white-space: nowrap
 why
-whyogen
 whêtek
 wiasva
 woes
 wojow
 wol
 woles
+wolkom
+wolkomma
+wolkommus
 wool
 wordhenek
 worm
@@ -6155,6 +8848,8 @@ worth niver
 worth ow brys
 wortiwedh
 wosa
+wosa-rewlivek
+wostiwedh
 x
 xenon
 y
@@ -6164,25 +8859,55 @@ y kodh dhe
 y tal dhe
 y talvia dhe
 y tegoodh dhe
+y'ga
+y'ga mysk
+y'gan
+y'gan mysk
+y'gas
+y'gas mysk
+y'm
+y'n dalleth
+y'n eur ma
+y'n eur na
 y'n fordh aral
 y'n fordh ma
 y'n fordh na
+y'n golok
+y'n gwav
+y'n gwella kas
+y'n gwella prys
+y'n gwettha prys
+y'n kas
+y'n kas arbennik ma
+y'n keth maner
+y'n krows
 y'n kynsa le
 y'n pols ma
+y'th
 yS
 yagh
+yagheans
+yaghhe
 yaghus
 yar
 yar Gyni
 yar frankres
 yar gowellys
 yarji
+ydhyn
 yeghes
+yeghes brysel
 yeghes da
+yeghes korfek
+yeghesek
+yeghesva
+yeghesweyth
+yegheswith
 yemenek
 yer
 yer Gyni
 yerji
+yet
 yet dhowr
 yeth
 yeth le-usys
@@ -6198,42 +8923,79 @@ yethonydh
 yethor
 yethores
 yethow
+yeunadow
+yeuni
 yewgen
 yey
 yeyn
+yeyn nowodhow
 yeynder
+yeynell
+yeynella
+yeyner
+yeynhe
 ygam-ogam
+ygeri
+ygeryans
+ygerys
 ygor
+ygor an spyrys
 yma
+ympynnya
 ympynnyon
 yn
+yn Ostrali
 yn akord gans
 yn anreyth
 yn aray termyn
 yn chi
+yn deray
 yn despit dhe
+yn diwedh
 yn efan
+yn es
+yn euthyk
 yn ewn
 yn farow
 yn fenowgh
+yn freth
 yn herwydh
 yn hevelep dhe
+yn hys
 yn jydh splann
 yn kamm
 yn karr
+yn kempen
+yn kepar maner
+yn kettep gwas
 yn kettep penn
 yn kettermyn
+yn kewar
 yn kompes
 yn konter dhe
+yn kosk
+yn lagas an bys
 yn le
 yn lent
 yn les
+yn leun
 yn lowen
+yn lows
 yn mor
 yn neb fordh
+yn neb kas
+yn neb le
 yn neb termyn
+yn pell
+yn perfydh
 yn poblek
+yn poynt da
 yn rew
+yn sampel
+yn strooth
+yn ta
+yn teg
+yn tenn
 yn termyn eus passyes
 yn termyn eus passys
 yn termyn usi passyes
@@ -6248,8 +9010,12 @@ yn-dann dhowr
 yn-dann gel
 yn-dann hatt
 yn-dann with
+yn-kerdh
+yn-kerghyn
 yn-kever
 yn-mes
+yn-mes a
+yn-mes a'n gis
 yn-nans
 ynanella
 ynjynorieth
@@ -6259,8 +9025,12 @@ ynkleudhyans
 ynkleudhyas
 ynkleudhyer
 ynkleudhyores
+ynn
+ynnder
 ynsi
+ynsidhla
 yntanus
+ynter
 ynterfas
 ynterrewlivek
 ynwedh
@@ -6272,11 +9042,15 @@ yonkers
 yonkores
 yonkoresow
 yonkoryon
+yos
+yos avallow
 yos kergh
 yown
 yownes
 yowynk
+yowynkhe
 yowynkneth
+yowynksys
 yr
 yrydyum
 ys
@@ -6289,11 +9063,14 @@ ysel
 ysen
 ysen bop
 ysen hweg
+ysennow
 yskans
 yskansen
 yskar
 yskynnell
-ysow
+ystyn
+ystynnans
+ystynnys
 yterbiom
 yterbyum
 ytriom
@@ -6310,7 +9087,6 @@ zombi
 zombis
 zynk
 zyp
-| style="width: 7.1%
 À
 Á
 Â
@@ -6329,7 +9105,6 @@ zyp
 æ
 ès
 êtek
-ôn
 ýs
 Ā
 ā

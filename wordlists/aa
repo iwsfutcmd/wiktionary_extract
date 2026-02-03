@@ -38,7 +38,6 @@ Amcartu
 B
 Baariis
 Biritaanya
-C
 Cabsa
 Cabsiita
 Camad
@@ -68,6 +67,7 @@ M
 Macammad
 Makki
 Makkiyow
+Masiic
 Mayram
 Mayramey
 Mocammad
@@ -120,12 +120,12 @@ Yalli
 Yibuuti
 Yálla
 Zimbaabuwe
-a
 a saakitte
 a saaku
 a sáaku
 a way
 a wáy
+a/languages A to L
 aa.
 aado
 aadoodi
@@ -232,7 +232,6 @@ abxa
 abícli
 abína
 acad
-acad · itlen · talaata · arbaq · kamiis · gumqat · sabti [edit]
 ada
 adaan
 adab
@@ -297,12 +296,14 @@ ahak
 ahali
 ahli
 akat
+akatta
 akeera
 akeerá
 aki
 akke
 akkite
 akle
+akoota
 ala
 alaysamalayse
 alayse
@@ -425,7 +426,7 @@ axca
 axkoxxa
 axooca
 ayam
-aydaadu
+aydaada
 ayfoofe
 aynabenta
 ayro
@@ -546,6 +547,8 @@ bilsím
 bir
 birambirro
 birambirró
+biriita
+birta
 bissoyseena
 bissoyseyna
 bissoyso
@@ -556,6 +559,10 @@ bitamiin
 bixaaxe
 bixaaxime
 biyak
+biyátti
+boco
+bocooca
+bocoyta
 boddina
 boddiná
 bodo
@@ -658,12 +665,12 @@ cegise
 cegisé
 cegsu
 celsiise
-ceraaki
 ceray
 ceraymaqad
 ceraytitte
 ceraytu
 cereyya
+cerka
 cibix
 cibixxo
 cigise
@@ -684,7 +691,6 @@ cusul
 cusúl
 cutukta
 cégsu
-d
 daaco
 daacureyta
 daacurre
@@ -847,7 +853,6 @@ eymeeqe
 eynebe
 eyredde
 eyserre
-f
 face
 facise
 facisite
@@ -891,7 +896,6 @@ furud
 furum
 furunto
 furúm
-g
 gaala
 gaalaytu
 gaaliyow
@@ -908,6 +912,8 @@ gadda
 gadda ge
 gadda gey
 gaddi
+gadiri
+gadirwa
 gaditte
 gadma
 gadooda
@@ -932,6 +938,10 @@ gamfal
 gamfál
 gamqe
 gandaaram
+gane
+ganga
+gangayto
+gangaytu
 gannat
 gaqambo
 gaqambó
@@ -947,7 +957,12 @@ gari
 garob
 garooba
 garqa
+garqe
+garqiino
+garqiinó
+garqo
 garqá
+garqó
 garuq
 gasi
 gaso
@@ -1006,6 +1021,7 @@ gudaqta
 gudda
 gudri
 guduf
+gudur
 guduuqi
 guduuqite
 guduuqité
@@ -1021,7 +1037,6 @@ guruufa
 gáydi
 gíiru
 gúra
-h
 haade
 haan
 haasaw
@@ -1037,7 +1052,6 @@ hantuuta
 hantuutitte
 hawa
 hawwa
-hayag
 haysiise
 hebelto
 hee
@@ -1051,7 +1065,6 @@ hoba
 hollow
 hooba
 hábbal
-i
 iba
 ibaabu
 ibbixe
@@ -1280,7 +1293,6 @@ kú migáq íyyay
 kúlli wáqdi
 kúm
 kúum
-l
 laa
 laadina
 laadinitte
@@ -1330,7 +1342,6 @@ lubooka
 luwa
 láa
 lífiq
-m
 ma
 maa
 maa-
@@ -1396,11 +1407,14 @@ markab
 maro
 maruw
 marwa
+maráf
 maré
 marúw
 masangale
 masgiidi
 masnaf
+massamaq
+massamaqa
 masu
 mataka
 mateeba
@@ -1455,7 +1469,6 @@ mára
 mídga
 mígda
 míyya
-n
 naag
 naba
 nabaru
@@ -1528,7 +1541,6 @@ ním
 nínni
 nínnih
 núm
-o
 obbeerasiyonu
 obboode
 obol
@@ -1565,7 +1577,6 @@ ottooqobe
 oyboode
 oyfoofe
 oysobbe
-q
 qaada
 qaadoodi
 qaafiyat
@@ -1609,6 +1620,7 @@ qanay
 qanaytitte
 qanaytu
 qandoola
+qane
 qari
 qaro
 qarok
@@ -1624,9 +1636,12 @@ qaroyta
 qarwa
 qaróyta
 qasa
+qasaala
+qasaalá
 qasadirri
 qasamqasa
 qasamqassoowe
+qasaála
 qasbo
 qasbó
 qasir
@@ -1690,7 +1705,6 @@ qutur
 qámmi
 qéela
 qídi
-r
 raare
 raba
 rabko
@@ -1734,7 +1748,8 @@ saare
 saax
 sabti
 sabtitte
-sacfat
+sacni
+sacniytá
 saga
 sagaal
 sagaala
@@ -1850,6 +1865,7 @@ takke
 talaata
 talafoon
 tama
+tamaatim
 tamah
 tamu
 tamá
@@ -1865,7 +1881,6 @@ tetiimi
 tetim
 tetím
 tifiile
-timaatimi
 tiro
 titta
 tiya
@@ -1895,7 +1910,6 @@ tóh
 tókke
 tóo
 tú
-u
 ubamuble
 ubamumbulle
 ubamuybulle
@@ -1976,7 +1990,6 @@ uybulluse
 uybuude
 uyduure
 uyduuruse
-w
 waado
 waadoyso
 waame
@@ -2102,7 +2115,6 @@ xonkorroq
 xágor
 xéeru
 xín
-y
 y-
 yaa
 yaabe

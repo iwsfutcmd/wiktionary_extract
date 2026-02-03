@@ -1,84 +1,57 @@
 'd
-A
 Abrâm
 Abróz
 Adriàtic
 Albanî
 Angiùl
 Angiùla
-B
 Babilògna
 Bartlàz
 Bìbia
-C
-D
 Dalmàzia
 Dalmêzia
 Dio
 Diâna
-E
 Emélia-Rumâgna
 Emìglia
-F
 Fiurẽza
-G
-H
-I
-J
 Jèmla
 Jèmula
-K
-L
 Ligùri
 Ligùria
 Luvìgg
 Luìgg
-M
 Milân
 Milã
 Murcien
 Måssca
-N
 Nadêl
 Noè
 Nêpul
-O
-P
 Pulôn
 Pàsqua
-Q
-R
 Ravêna
 Roma
 Rumâgna
 Rèmin
 Róma
-S
 San Marën
 San Marën, San Maroin
 Sardàggna
 Sfìa
 Signôr
-T
 Turchî
-U
-V
 Vatichën
 Venezia
 Vitöria
-W
-X
-Y
-Z
 Zéșar
 Zéẓar
-[Term?]
-a
 a dri a
 a l'impruvìṣa
 a la finêla
 a vrēn
 a vój
+a/languages M to Z
 abadânt
 abadént
 abadêr
@@ -188,7 +161,9 @@ adubadôr
 adubêr
 aducêr
 aduladôr
+aduladôr (eml)
 adulatôr
+adulatôr (eml)
 adulaziôn
 adulescént
 adulescénza
@@ -342,7 +317,6 @@ avșinêr
 avẽn
 aziditê
 azénzi
-b
 ba
 bab
 babilân
@@ -376,7 +350,6 @@ bisteca
 biânc
 biṣ
 blac
-blu
 blëc
 bo
 branchêr
@@ -606,13 +579,13 @@ côr
 cõnt
 cöl
 cör
+cör (eml)
 cörda
 cörna
 cöșum
 cùr
 cùra
 cān
-d
 d'
 da
 da j’
@@ -775,7 +748,6 @@ eva
 eșurbitânt
 eșurbitânta
 eșurbitânti
-f
 fabiul
 fabiöl
 fabrichëbil
@@ -803,6 +775,7 @@ fașul
 fașân
 fașén
 fașöl
+faṣãn
 faṣẽn
 fedél
 fegat
@@ -861,7 +834,6 @@ fùria
 fẹil
 fọmm
 fọmm (Riminese)
-g
 gabanén
 gabardén
 gabân
@@ -936,9 +908,9 @@ gàgia
 gâmba
 gâmbar
 gòmt
+góata
+góta
 gôla
-h
-i
 i gréc
 i lóng
 iatùr
@@ -1025,7 +997,6 @@ invéran
 inzéns
 inìcv
 iröla
-j
 jatùr
 jatùra
 jir
@@ -1033,14 +1004,13 @@ just
 jóst
 jósta
 jósti
-k
-l
 l'
 l'è
 la
 laburatöri
 lat
 lavêr
+lavêr (eml)
 lengva
 leunesa
 lezer
@@ -1091,7 +1061,6 @@ lēvd
 lōn
 lẹtt
 lẽmp
-m
 macal
 madavèscol
 madavèscul
@@ -1103,7 +1072,6 @@ majêra
 martel
 marè
 maréna
-marôn
 mascaréna
 maziniân
 maziniâna
@@ -1166,7 +1134,6 @@ mùșic
 mùșica
 mĕl
 mẹll
-n
 nemìg
 nench
 nid
@@ -1210,13 +1177,11 @@ növa
 növi
 nēva
 nẹud
-o
 oca
 ocupêr
 oleèfar
 oleêri
 os
-p
 pac
 pacêr
 paja
@@ -1312,7 +1277,6 @@ pörc
 pört
 pörta
 pö’
-q
 quacì
 quaranténa
 quarânta
@@ -1323,7 +1287,6 @@ questa
 quingg
 quinṣ
 quèll
-r
 radìșa
 ragù
 raid däl raid
@@ -1350,16 +1313,13 @@ régul
 régula
 ròss
 ròtt
-rós
 rót
 rôda
 rôg
 röca
 röda
-röșa
 rùsco
 rọtt
-s
 s'
 sabiôn
 sac
@@ -1455,7 +1415,6 @@ sćẽn
 sē
 sēgval
 sēra
-t
 tabàc
 tabèc
 taj
@@ -1484,7 +1443,6 @@ têvula
 tëj
 tót
 tẽmp
-u
 ucaṣiôn
 ucèt
 ucél
@@ -1516,7 +1474,6 @@ uxorizìdi
 uë
 ușèl
 ușël
-v
 vanghêr
 viaẓ
 vilân
@@ -1553,10 +1510,6 @@ vòin
 vùlpa
 vẽn
 vẽt
-w
-x
-y
-z
 zacarëla
 zampê
 zampêda

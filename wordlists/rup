@@ -46,6 +46,7 @@
 -tati
 -tor
 -toru
+-tsie
 -turã
 -ush
 -uts
@@ -177,6 +178,7 @@ Dunav
 Dursa
 Durse
 Eladha
+Elbasan
 Eninã
 Enãna
 Enãne
@@ -334,6 +336,7 @@ Pishcupie
 Pishcupii
 Pleasa
 Pleasã
+Plevna
 Pugradets
 Pugradetsa
 Pugrãdets
@@ -455,6 +458,8 @@ Urseacã
 Urseca
 Urseche
 Ursecã
+Varsuvia
+Varsuvii f Vãrsuvii
 Vestu
 Vinjiri
 Vlãhii
@@ -465,6 +470,7 @@ Vurgarii
 Vurgãria
 Vurgãrie
 Vurgãrii
+Vãrsuvia
 Vãryãria
 Vãryãrie
 Vãryãrii
@@ -477,26 +483,28 @@ Yuminitse
 Yuminitsã
 Zicu
 abagi
-abagirii
+abagirie
 abat
 abatire
-abatiri
 abur
+aburedz
+aburescu
+aburos
 abã
+abãteare
 abãtut
 ac
+acar
 acats
+acats guvile
 acatsu
+achicazmo
 achicãsescu
 achicãsire
-achicãsiri
 achicãsit
-achiãcãseri
 achiãcãsest
-achiãcãsit
 acljem
 acljimare
-acljimari
 acljimat
 aclo
 aclotsi
@@ -504,15 +512,17 @@ acmo
 aco
 acoalã
 acoapir
-acotsi
+acone
+aconi
+acopir
 acridhã
 acshitse
 acshitsi
 acuchescu
+aculsescu
 acumpratã
 acumpãr
 acumpãrare
-acumpãrari
 acumpãrat
 acumsescu
 acumtin
@@ -522,8 +532,9 @@ acumtinat
 acupirire
 acupiriri
 acupirit
+acupirãmintu
+acupirãturã
 acãtsare
-acãtsari
 acãtsat
 adaptu
 adaptã
@@ -890,6 +901,7 @@ ampar
 ampihiur
 ampirat
 amput
+amput (roa-rup)
 amputsos
 amu
 amurtsãre
@@ -1064,7 +1076,9 @@ aprindu
 aprir
 aproape
 aproapea
+aproapea (roa-rup)
 aproapi
+aproapi (roa-rup)
 aprochi
 aprochiu
 apropea
@@ -1533,6 +1547,7 @@ aspartã
 asparu
 asparyiu
 aspel
+aspel (roa-rup)
 aspilare
 aspilari
 aspilat
@@ -2031,6 +2046,7 @@ cali
 cali (roa-rup)
 calish
 cambanaryio
+cantsiva
 canã
 cap
 capelã
@@ -2263,9 +2279,6 @@ cljigur
 cljiitoare
 cljiitoari
 cljiitsã
-cljimare
-cljimari
-cljimat
 cljishutsã
 cljitsã
 cneaz
@@ -2299,6 +2312,7 @@ codru
 coduru
 colj
 coljiu
+colã
 combar
 combar (roa-rup)
 comunizmo
@@ -2335,6 +2349,7 @@ crideari
 cridzui
 cridzut
 crier
+crier (roa-rup)
 crimã
 cripare
 cripari
@@ -2439,7 +2454,6 @@ cumnicat
 cumnicãturã
 cumpir
 cumpiri
-cumpãratã
 cumu
 cumunist
 cumunizmo
@@ -2468,9 +2482,6 @@ cunã
 cupaci
 cupaciu m lemnu
 cupii
-cupirire
-cupiriri
-cupirit
 cupteascã
 cuptescu
 cuptor
@@ -2767,7 +2778,6 @@ cãt
 cãtinar
 cãtinã
 cãtrãcearcu
-cãtsari
 cãtsau
 cãtsauã
 cãtsel
@@ -2814,7 +2824,6 @@ dau suti
 dauã
 davai
 davan
-days of the week: stãmãnã: Luni · Martsã · Njercuri · Gioi · Vinjiri · Sãmbãtã · Dumãnicã [edit]
 deadun
 deadunu
 dealihealui
@@ -3170,6 +3179,7 @@ dugar
 dugãrii
 duh
 dul
+dul (roa-rup)
 dultse
 dultseatsã
 dultsi
@@ -3424,8 +3434,10 @@ fimiridhã
 fimiridã
 fin
 fireastrã
+fireastrã (roa-rup)
 firescu
 firidã
+firidã (roa-rup)
 firire
 firiri
 firit
@@ -3794,6 +3806,7 @@ ghumãrescu
 ginti
 gintã
 gioc
+gioc (roa-rup)
 gioi
 gioi (roa-rup)
 gione
@@ -3815,6 +3828,8 @@ giug
 giugastru
 giugii
 giugãtor
+giumbã
+giumcã
 giumetã- form used to refer to half of something that is not mentioned
 giumitati
 giumãtati
@@ -4090,6 +4105,7 @@ hutcã
 hutã
 huzmeti
 huzmichear
+huzmichear (roa-rup)
 hãlche
 hãndac
 hãndachi
@@ -4160,6 +4176,7 @@ inimusire
 inimusiri
 inimusit
 inimã
+inimã (roa-rup)
 injoarã
 intires
 intiresu
@@ -4266,6 +4283,7 @@ latinescu
 latinã (roa-rup)
 latru
 lau
+lau (roa-rup)
 lavdu
 lavru
 leadzi
@@ -4423,6 +4441,7 @@ lufe
 luftã
 lui
 luludã
+lulustrufã
 lumbardã
 lumburic
 lume
@@ -4580,6 +4599,7 @@ malu
 mamcã
 mamã
 manliherã
+manushache
 manushachi
 manã
 maramangã
@@ -4699,6 +4719,7 @@ mi-nsor
 mi-ãnsor
 microscopu
 midulj
+midulj (roa-rup)
 mielmã
 migidon
 mihanico
@@ -4875,11 +4896,13 @@ mpruspitedz
 mpruspitedzu
 mpulbir
 mput
+mput (roa-rup)
 mputsescu
 mputsos
 mputsãre
 mputsãri
 mputsãscu
+mputsãscu (roa-rup)
 mputsãt
 mpãdurescu
 mpãdurire
@@ -5011,6 +5034,7 @@ murtutsinã
 murtãciuni
 murãrlãchi
 musafir
+musahe
 musahi
 muscami
 muscar
@@ -5065,6 +5089,7 @@ mãcioc
 mãcu
 mãdular
 mãduã
+mãduã (roa-rup)
 mãgulã
 mãgurã
 mãn
@@ -6363,7 +6388,6 @@ prilargu
 primshu
 primtu
 primuvearã
-primuvearã~prumuvearã · vearã · toamnã · earnã~iarã [edit]
 primuvirescu
 prindeare
 prindeari
@@ -6971,6 +6995,7 @@ sfãrnicã
 sfãrnigame
 sfãrnigami
 sfãrnigã
+sh'
 shaicã
 shaidzets
 shaidzãts
@@ -7004,6 +7029,7 @@ shchiptar
 shciintsã
 shciu
 shcljau
+shcljau (roa-rup)
 shcljifur
 shcljim
 shcljimur
@@ -7212,6 +7238,7 @@ spar
 spastru
 spatã
 spel
+spel (roa-rup)
 spes
 spilare
 spilari
@@ -7503,7 +7530,10 @@ sursire
 sursiri
 sursit
 surtsel
+surupseashte
 surupseashti
+surupsire
+surupsit
 surusescu
 sus
 sus (roa-rup)
@@ -7841,6 +7871,7 @@ tsirut
 tsisprãyinghits
 tsitate
 tsitati
+tsiva
 tsoarã
 tsungursulã
 tsup
@@ -8216,7 +8247,6 @@ veduã
 veglju
 vel
 ver
-verdi
 verdzu
 vers
 versu
@@ -8285,7 +8315,6 @@ vinturatic
 vinturaticu
 vinturitsã
 vinã
-vinãt
 vipirã
 viptu
 virdeatsã
